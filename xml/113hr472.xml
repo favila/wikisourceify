@@ -1,0 +1,724 @@
+<doc><docmeta id="113hr472ih">
+    <bill congress="113" type="hr" number="472" version="ih"/>
+    <revision id="11" commit-time="2013-03-12T22:04:51+00:00" comitter="/users/favila.xml" doc="/docs/113hr472ih/11.xml" status="complete"><description>Edited via AKN</description></revision>
+</docmeta><bill bill-stage="Introduced-in-House" dms-id="H35B8D222BB594C1D9081AF23CC2FB809" public-private="public" bill-type="olc"> 
+<form> 
+<distribution-code display="yes">I</distribution-code> 
+<congress>113th CONGRESS</congress>
+<session>1st Session</session>
+<legis-num>H. R. 472</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20130204">February 4, 2013</action-date> 
+<action-desc>
+        <sponsor name-id="C001078">Mr. Connolly</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name>, and in addition to the Committees on <committee-name committee-id="HAS00">Armed Services</committee-name>, <committee-name committee-id="HPW00">Transportation and Infrastructure</committee-name>, and <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To reduce Federal expenditures associated with data center real estate and electricity consumption, to implement savings reductions proposed by Federal employees, to reduce energy costs across Federal Executive agencies, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H6100C4FBF6D94135A9BE702F1D1F190B" style="OLC"> 
+<section id="H277793545BE440B7854B7204FC92F4A4" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title and table of contents</header> 
+<subsection id="HD701FE873BC045E2A0607279FEC63EC8">
+        <enum>(a)</enum>
+        <header>Short title</header>
+        <text display-inline="yes-display-inline">This Act may be cited as the <quote>
+            <short-title>Federal Cost Reduction Act of 2013</short-title>
+          </quote>.</text>
+      </subsection> 
+<subsection id="H4CAA65FEA51148638E6FFA28C4640A0A">
+        <enum>(b)</enum>
+        <header>Table of contents</header>
+        <text>The table of contents for this Act is as follows:</text> 
+<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration"> 
+<toc-entry idref="H277793545BE440B7854B7204FC92F4A4" level="section">Sec. 1. Short title and table of contents.</toc-entry> 
+<toc-entry idref="H43AA7DBD0CBD41CCBA398D16862A98C3" level="section">Sec. 2. Findings.</toc-entry> 
+<toc-entry idref="H7889B2F7898E45ECAEFD1C9CBB143EF5" level="section">Sec. 3. Definitions.</toc-entry> 
+<toc-entry idref="H2EC0BEF012E740AD98400553A6F1C622" level="section">Sec. 4. Reduction and consolidation of data centers.</toc-entry> 
+<toc-entry idref="HE0E5411DEC9549B691EBFE11473BE36B" level="section">Sec. 5. GSA reports.</toc-entry> 
+<toc-entry idref="H00BC1D93EBC24178B311BB152A04064D" level="section">Sec. 6. Reduction of printing.</toc-entry> 
+<toc-entry idref="H488862DD8AD44FFBBC5A7BFC294FE697" level="section">Sec. 7. Implementation of Federal employee cost savings proposals.</toc-entry> 
+<toc-entry idref="H1E35D305506D4848B29AE8FEF16546C5" level="section">Sec. 8. Power purchase agreement program.</toc-entry> 
+<toc-entry idref="H7C851C50A3AB461D9E10F277031E7A9C" level="section">Sec. 9. Federal facility energy efficiency and renewable energy projects fund.</toc-entry> 
+<toc-entry idref="HEC7B8F026FE84F2AA3DE7FDEB762047B" level="section">Sec. 10. Incentives for Executive agencies for utility energy savings contracts.</toc-entry> 
+<toc-entry idref="H9C5AA6FB66694DBB89A5945930FB4BE8" level="section">Sec. 11. Renewable energy facilities surveys by Executive agencies.</toc-entry> 
+<toc-entry idref="HE11B0A62417040289841F0C1BCA01D66" level="section">Sec. 12. Adoption of personal computer power savings techniques by Executive agencies.</toc-entry> 
+<toc-entry idref="H7183A6F7BD654BDABF45327B99FA536D" level="section">Sec. 13. Federal energy management and data collection standard.</toc-entry> 
+<toc-entry idref="HDC6800C0F6E642C38CFDD3997188A9F0" level="section">Sec. 14. Advanced metering best practices for advanced metering.</toc-entry> 
+<toc-entry idref="HEF0D1D28D3C54FCCAC81FCD403D0D139" level="section">Sec. 15. Availability of funds for design updates.</toc-entry> 
+<toc-entry idref="HF536B32F71BC424982D5D3B1BA5650C7" level="section">Sec. 16. Continuous commissioning within the Federal building stock.</toc-entry> 
+<toc-entry idref="H809FDD7ED42D4B6AAF29D49E142F58FA" level="section">Sec. 17. Elimination of State matching requirement for energy efficiency upgrades at National Guard and reserve armories and readiness centers.</toc-entry>
+        </toc>
+      </subsection>
+    </section> 
+<section id="H43AA7DBD0CBD41CCBA398D16862A98C3" section-type="subsequent-section">
+      <enum>2.</enum>
+      <header>Findings</header>
+      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text> 
+<paragraph id="HDDE1C6EEF38E4131972879F70D148DFC">
+        <enum>(1)</enum>
+        <text>The number of Federal data centers has quintupled over the past decade from 400 to more than 2,000.</text>
+      </paragraph> 
+<paragraph id="HE786B523F6F649EFA7485A096C756EC3">
+        <enum>(2)</enum>
+        <text>Data center consolidation, including data centers of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0050">House of Representatives</cato:entity-ref>, has reduced electricity expenses and requisite real estate where it has been pursued.</text>
+      </paragraph> 
+<paragraph id="H8F10B9F18D2C4C72B35099B0F60474BC">
+        <enum>(3)</enum>
+        <text>Federal energy expenses exceed $24 billion annually, while most existing Federal facilities do not meet efficiency standards that are expected for new Federal construction.</text>
+      </paragraph> 
+<paragraph id="H4193607EF58543068DA759D432D8320A">
+        <enum>(4)</enum>
+        <text>Contract period limitations of 10 years for Federal Executive agencies limit deployment of domestic energy sources that could reduce long-term Federal energy expenses.</text>
+      </paragraph> 
+<paragraph id="H0A04E493DE5648838BB81986E040EFF9">
+        <enum>(5)</enum>
+        <text>Energy saving performance contracts can offer low or zero cost options for improving energy efficiency in Federal facilities.</text>
+      </paragraph> 
+<paragraph id="H7A9C9066E8664C86BC3D201B7D34447B">
+        <enum>(6)</enum>
+        <text>The Federal Government spends $1.3 billion annually on employee printing.</text>
+      </paragraph> 
+<paragraph id="HEBAA0CE6655E437F97D2520981F9AAE8">
+        <enum>(7)</enum>
+        <text>Federal employees estimate that they immediately recycle 35 percent of all paper printed, equating to $440.4 million in potential annual savings.</text>
+      </paragraph> 
+<paragraph id="H2A3F02873A09406DA0D27EBB49FE6F54">
+        <enum>(8)</enum>
+        <text>Only 9 percent of Federal Executive agencies have automatic duplex printing.</text>
+      </paragraph> 
+<paragraph id="H7EDD4D4B4EAA4D2A9D26E51020B2AAF3">
+        <enum>(9)</enum>
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department of Veterans Affairs</cato:entity-ref> has developed an acquisition personnel training center to improve Federal employee productivity and reduce employee turnover.</text>
+      </paragraph> 
+<paragraph id="H984D65ED72184B7480051A25239C783F">
+        <enum>(10)</enum>
+        <text>Federal employees have proposed more than 18,000 ways to save taxpayer money through the <quote>Save Awards</quote>.</text>
+      </paragraph>
+    </section> 
+<section id="H7889B2F7898E45ECAEFD1C9CBB143EF5">
+      <enum>3.</enum>
+      <header>Definitions</header>
+      <text display-inline="no-display-inline">In this Act:</text> 
+<paragraph id="H5283199A1A8C455DB88A3E58D14AA68B">
+        <enum>(1)</enum>
+        <header>Appropriate congressional committees</header>
+        <text>The term <term>appropriate congressional committees</term> means—</text> 
+<subparagraph commented="no" display-inline="no-display-inline" id="H6AEB3792410D419AA051D52F3C5D260A">
+          <enum>(A)</enum>
+          <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HGO00">Committee on Oversight and Government Reform of the House of Representatives</cato:entity-ref>; and</text>
+        </subparagraph> 
+<subparagraph commented="no" display-inline="no-display-inline" id="HA2AD40A16140454D921332ECC6DAD50D">
+          <enum>(B)</enum>
+          <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSGA00">Committee on Homeland Security and Governmental Affairs of the Senate</cato:entity-ref>.</text>
+        </subparagraph>
+      </paragraph> 
+<paragraph id="HD558422878CC4FB7B811E2A4B517BCA3">
+        <enum>(2)</enum>
+        <header>Energy savings performance contract</header>
+        <text display-inline="yes-display-inline">The term <term>energy savings performance contract</term> means a contract that provides for the performance of services for the design, acquisition, installation, testing, operation, and, where appropriate, maintenance and repair of an identified energy conservation measure or series of measures at one or more locations.</text>
+      </paragraph> 
+<paragraph id="H4939BE36E3784162BF38C162C5DEDB11">
+        <enum>(3)</enum>
+        <header>Federal data center</header>
+        <text display-inline="yes-display-inline">The term <term>Federal data center</term>—</text> 
+<subparagraph id="H06D5A70E20FB499280542086B55B5223">
+          <enum>(A)</enum>
+          <text>means a room within a conventional building that is devoted to data processing servers, including server closets that are typically less than 200 square feet and server rooms that are typically less than 500 square feet;</text>
+        </subparagraph> 
+<subparagraph id="HB39113805C6E42579A3DBAF263ABEFB3">
+          <enum>(B)</enum>
+          <text>means larger floor spaces or entire buildings dedicated to housing servers, storage devices, and network equipment; and</text>
+        </subparagraph> 
+<subparagraph id="H24E299A3FA0D40268D70428454F5F89C">
+          <enum>(C)</enum>
+          <text>does not include any facilities that are exclusively devoted to communications and network equipment (such as telephone exchanges and telecommunications rooms and closets).</text>
+        </subparagraph>
+      </paragraph> 
+<paragraph id="H69A6D4A440CF4D99AC6A1F4C22BA5A89">
+        <enum>(4)</enum>
+        <header>Executive agency</header>
+        <text display-inline="yes-display-inline">Except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013/s:8" proposed="true">section 8</cato:entity-ref>, the term <term>Executive agency</term> has the meaning given that term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/105">section 105 of title 5, United States Code</cato:entity-ref>.</text>
+      </paragraph>
+    </section> 
+<section commented="no" id="H2EC0BEF012E740AD98400553A6F1C622">
+      <enum>4.</enum>
+      <header>Reduction and consolidation of data centers</header> 
+<subsection commented="no" id="H11005C4344774C1B91F2078CCBE7C388">
+        <enum>(a)</enum>
+        <header>OMB recommendation</header>
+        <text display-inline="yes-display-inline">Not later than 6 months after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director of the Office of Management and Budget</cato:entity-ref>, in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref> and the heads of other Executive agencies, shall issue recommendations for reducing or consolidating the number of Federal data centers in existence as of the date of the enactment of this Act—</text> 
+<paragraph id="H16D472F3194E41A998C567F2DAD21890">
+          <enum>(1)</enum>
+          <text>by at least 40 percent not later than September 30, 2018; and</text>
+        </paragraph> 
+<paragraph id="H96AFFD298EEF4FB2B6ADADD89F812543">
+          <enum>(2)</enum>
+          <text>by at least 80 percent not later than September 30, 2023.</text>
+        </paragraph>
+      </subsection> 
+<subsection commented="no" id="H3CA9BFC1F14D4F3C9F05496D5CBB05B8">
+        <enum>(b)</enum>
+        <header>Reduction of data centers</header>
+        <text display-inline="yes-display-inline">Not later than 6 months after the issuance of recommendations by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director of the Office of Management and Budget</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013/s:4/ss:a" proposed="true">subsection (a)</cato:entity-ref>, the head of each Executive agency shall implement the recommendations by reducing the number of Federal data centers in accordance with such recommendations.</text>
+      </subsection>
+    </section> 
+<section commented="no" id="HE0E5411DEC9549B691EBFE11473BE36B">
+      <enum>5.</enum>
+      <header>GSA reports</header> 
+<subsection id="HD6041C222CBD4F4B95AE94EA4E990292">
+        <enum>(a)</enum>
+        <header>Report on reducing real estate costs and energy expenditures</header>
+        <text display-inline="yes-display-inline">Not later than one year after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref> shall submit to the appropriate congressional committees a report on the following:</text> 
+<paragraph commented="no" id="H0C844A6EFB1F47C6AF83E420357FCA79">
+          <enum>(1)</enum>
+          <text>Recommendations to reduce long-term real estate costs through consolidating or eliminating leased space and any additional authority that might be necessary to replace leased space with owned space if the payback period is 15 years or fewer.</text>
+        </paragraph> 
+<paragraph commented="no" id="H8B484D58231C40278068960A7D2054DF">
+          <enum>(2)</enum>
+          <text>A description of a plan by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">General Services Administration</cato:entity-ref> to use energy saving performance contracts and other low-capital investments to reduce energy expenditures.</text>
+        </paragraph>
+      </subsection> 
+<subsection id="HE51B23F1F7B94E6FB13F9D999B060F7E">
+        <enum>(b)</enum>
+        <header>Report and plan To reduce Federal automobile parking expenses</header> 
+<paragraph id="HC3211CE608F145DFBBAAF72C97043DAB">
+          <enum>(1)</enum>
+          <header>Initial report</header>
+          <text display-inline="yes-display-inline">Not later than 6 months after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref> shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a report on the annual expense for each of fiscal years 2002 through 2012 for Federal employee parking, including—</text> 
+<subparagraph id="H89837436D4FF4BF3BB3BC21CB7D3034A">
+            <enum>(A)</enum>
+            <text>parking spaces and parking facilities that are leased or owned by the Federal Government;</text>
+          </subparagraph> 
+<subparagraph id="HF523741712B64B4BBF100B27EB4C6917">
+            <enum>(B)</enum>
+            <text>maintenance and construction costs for such spaces and facilities; and</text>
+          </subparagraph> 
+<subparagraph id="H77B04ECE4FBA4F8CA49F1DDBD315A41F">
+            <enum>(C)</enum>
+            <text display-inline="yes-display-inline">the total construction costs for parking facilities that are used by Federal employees for fiscal years 2002 through 2012.</text>
+          </subparagraph>
+        </paragraph> 
+<paragraph id="HE7C3E9CFCE074E1BB3C41EB213ACCB11">
+          <enum>(2)</enum>
+          <header>Plan to reduce parking expenses</header>
+          <text display-inline="yes-display-inline">Not later than one year after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">General Services Administration</cato:entity-ref> shall submit a report to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> that includes a plan, using existing agency authorities, to reduce the expense for Federal employee parking by at least five percent annually for each of the next 5 fiscal years after date of enactment of this Act.</text>
+        </paragraph>
+      </subsection>
+    </section> 
+<section commented="no" id="H00BC1D93EBC24178B311BB152A04064D">
+      <enum>6.</enum>
+      <header>Reduction of printing</header>
+      <text display-inline="no-display-inline">Not later than 6 months after the date of the enactment of this Act, each Executive agency shall establish a plan to reduce by 35 percent the volume of material printed during fiscal year 2013 for each of fiscal years 2014 through 2024, including a requirement for duplex printing as the default setting on all Federal printers and copiers, where applicable, and shall submit such plan to the Office of the Environmental Executive.</text>
+    </section> 
+<section commented="no" display-inline="no-display-inline" id="H488862DD8AD44FFBBC5A7BFC294FE697">
+      <enum>7.</enum>
+      <header>Implementation of Federal employee cost savings proposals</header>
+      <text display-inline="no-display-inline">Not later than 12 months after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2400">Director of the Office of Personnel Management</cato:entity-ref> shall submit to the appropriate congressional committees a plan to implement Federal employee cost savings proposals.</text>
+    </section> 
+<section id="H1E35D305506D4848B29AE8FEF16546C5">
+      <enum>8.</enum>
+      <header>Power purchase agreement program</header> 
+<subsection id="H2652C3D3D53D467FB6B04F482E3287D2">
+        <enum>(a)</enum>
+        <header>Definitions</header>
+        <text>In this section:</text> 
+<paragraph id="H23279D8B7FFC4C35A7DD217659849E6F">
+          <enum>(1)</enum>
+          <header>Cost-effective</header>
+          <text>The term <term>cost-effective</term> means, with respect to a power purchase agreement entered into by the head of an Executive agency for a Federal facility that is owned or controlled by the Executive agency, that the 30-year average cost for the purchase of electricity under the power purchase agreement from 1 or more renewable energy generating systems is not greater than an amount equal to 110 percent of the cost of an equal quantity of electricity from the current electricity supplier of the Federal facility, taking into consideration each—</text> 
+<subparagraph id="H29028007EB3C4510B47C646E93750203">
+            <enum>(A)</enum>
+            <text>applicable cost, including any cost resulting from—</text> 
+<clause id="H4D139733F93C4C508379D99C3E0395AB">
+              <enum>(i)</enum>
+              <text>a demand charge;</text>
+            </clause> 
+<clause id="H030C8E1D43744F4FBAD9CE438656ACBC">
+              <enum>(ii)</enum>
+              <text>an applicable rider;</text>
+            </clause> 
+<clause id="H62CEEC4BE12444D5B8729010824E117E">
+              <enum>(iii)</enum>
+              <text>a fuel adjustment charge; or</text>
+            </clause> 
+<clause id="H6A82D443D806455EAA0F8712DC80F18E">
+              <enum>(iv)</enum>
+              <text>any other surcharge; and</text>
+            </clause>
+          </subparagraph> 
+<subparagraph id="HB4AB4627C8794858AE02F63AF8FCFD3E">
+            <enum>(B)</enum>
+            <text>reasonably anticipated increase in the cost of the electricity resulting from—</text> 
+<clause id="H2E4FF6CAA45642ADA21531B3EA447433">
+              <enum>(i)</enum>
+              <text>inflation;</text>
+            </clause> 
+<clause id="HD87FFEFBD4834F529596658154AD1833">
+              <enum>(ii)</enum>
+              <text>increased regulatory requirements;</text>
+            </clause> 
+<clause id="HE66C2B38B6FD4EDA8AA1CE249DB9E60A">
+              <enum>(iii)</enum>
+              <text>decreased availability of fossil fuels; and</text>
+            </clause> 
+<clause id="HC8A5DE9257B54D64822680B1573744D1">
+              <enum>(iv)</enum>
+              <text>any other factor that may increase the cost of electricity.</text>
+            </clause>
+          </subparagraph>
+        </paragraph> 
+<paragraph id="H29D6B591B116488FA4C8E70EF960058C">
+          <enum>(2)</enum>
+          <header>Executive agency</header>
+          <text>The term <term>Executive agency</term> has the meaning given the term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/41/133">section 133 of title 41, United States Code</cato:entity-ref>.</text>
+        </paragraph> 
+<paragraph id="HDC0D334554F6467BAD13A196C3C89A08">
+          <enum>(3)</enum>
+          <header>Federal facility</header>
+          <text>The term <term>Federal facility</term> has the meaning given the term <term>facility</term> in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="National Energy Conservation Policy Act/s:543/ss:f/p:1/sp:C">section 543(f)(1)(C) of the National Energy Conservation Policy Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/8253/f/1/C">42 U.S.C. 8253(f)(1)(C)</cato:entity-ref>)</cato:entity>.</text>
+        </paragraph> 
+<paragraph id="HE37DF8228EF24DCAB4C0D19DB3C0D1D1">
+          <enum>(4)</enum>
+          <header>Government corporation</header>
+          <text>The term <term>Government corporation</term> has the meaning given the term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/103">section 103 of title 5, United States Code</cato:entity-ref>.</text>
+        </paragraph> 
+<paragraph id="H8BD1D478FEF943DCB638F7EF04AA031C">
+          <enum>(5)</enum>
+          <header>Renewable energy source</header>
+          <text>The term <term>renewable energy source</term> has the meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="National Energy Conservation Policy Act/s:551">section 551 of the National Energy Conservation Policy Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/8259">42 U.S.C. 8259</cato:entity-ref>)</cato:entity>.</text>
+        </paragraph>
+      </subsection> 
+<subsection id="H7283A4A474474F47B74A126DEE053267">
+        <enum>(b)</enum>
+        <header>Power purchase agreement projects</header> 
+<paragraph id="H720F9CE31918469094E257FDE9901365">
+          <enum>(1)</enum>
+          <header>Authorization of heads of executive agencies</header>
+          <text>In accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013/s:8/ss:b/p:2" proposed="true">paragraphs (2)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013/s:8/ss:b/p:3" proposed="true">(3)</cato:entity-ref>, the head of each Executive agency or a designee may establish 1 or more projects under which the head of the Executive agency may offer to enter into power purchase agreements during the 10-year period beginning on the date of enactment of this Act for the purchase of electricity from 1 or more Federal facilities that are owned or controlled by the Executive agency from renewable energy sources located at the Federal facility.</text>
+        </paragraph> 
+<paragraph id="H62E4ACEE2D26424995A53A17FFF9FA6A">
+          <enum>(2)</enum>
+          <header>Cost-effective requirement</header>
+          <text>A head of an Executive agency described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013/s:8/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref> may offer to enter into a power purchase agreement described in that paragraph only if the power purchase agreement is cost-effective.</text>
+        </paragraph> 
+<paragraph id="HEE98DF6B9F3E4716B15E826E36D06190">
+          <enum>(3)</enum>
+          <header>Term of power purchase agreement</header>
+          <text>Notwithstanding any other provision of law (including regulations), the term of a power purchase agreement described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013/s:8/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref> may not be longer than a period of 30 years.</text>
+        </paragraph> 
+<paragraph id="H8F5608A4404B4A70965A94599E7F271B">
+          <enum>(4)</enum>
+          <header>Allocation of incremental costs</header>
+          <text>Each head of an Executive agency (including the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref>) who enters into a power purchase agreement under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013/s:8/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref> for the purchase of electricity at a Federal facility that is owned or controlled by the Executive agency for distribution to 1 or more other Executive agencies shall allocate, on an annual basis for the period covered by the power purchase agreement, the incremental cost or incremental savings of the power purchase agreement for the purchase of electricity at a Federal facility from renewable energy sources (as compared to the cost of electricity from the electricity supplier of the Federal facility) among each user of the Federal facility based on the proportion that—</text> 
+<subparagraph id="HCDB14CAFBCA84E0DB36E1DA67FF04821">
+            <enum>(A)</enum>
+            <text>the electricity usage of the user of the Federal facility; bears to</text>
+          </subparagraph> 
+<subparagraph id="H0B5CF1F1833E44788E170ABE50A9151A">
+            <enum>(B)</enum>
+            <text>the aggregate electricity usage of all users of the Federal facility.</text>
+          </subparagraph>
+        </paragraph>
+      </subsection> 
+<subsection id="H34FBB98501304CA497658CF7C033C3D1">
+        <enum>(c)</enum>
+        <header>Power purchase agreements with multiple Federal facilities</header>
+        <text>An Executive agency may enter into an interagency agreement as part of a power purchase agreement that involves more than 1 Federal facility.</text>
+      </subsection> 
+<subsection id="HD039D0804DFB4ECAB01DF6BA7395F3ED">
+        <enum>(d)</enum>
+        <header>Negotiated rate as basis for determining cost effectiveness of future energy efficiency or renewable energy projects</header>
+        <text>An Executive agency that enters into a power purchase agreement may not use the negotiated rate as a basis for determining the business case or economic feasibility of future energy efficiency or renewable energy projects.</text>
+      </subsection> 
+<subsection id="H5063195C3F1540C8AE56DD3F3122E23F">
+        <enum>(e)</enum>
+        <header>Regulations</header>
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary of Energy</cato:entity-ref> shall promulgate such regulations as are necessary to carry out this section.</text>
+      </subsection> 
+<subsection id="H28F08C39D734419189890D9F476377E6">
+        <enum>(f)</enum>
+        <header>Authorization of appropriations</header>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Federal Cost Reduction Act of 2013/s:8" proposed="true">this section</cato:entity-ref>
+            </cato:property> <cato:funds-and-year amount="indefinite" year="2014, 2015, 2016, 2017">such sums as are necessary for each of fiscal years 2014 through 2017</cato:funds-and-year>, to remain available until expended.</cato:entity>
+        </text>
+      </subsection>
+    </section> 
+<section id="H7C851C50A3AB461D9E10F277031E7A9C">
+      <enum>9.</enum>
+      <header>Federal facility energy efficiency and renewable energy projects fund</header> 
+<subsection id="HABFC235F2FB344E6B4773D164516E86E">
+        <enum>(a)</enum>
+        <header>Establishment</header>
+        <text>There is established in the Treasury of the United States a revolving fund, to be known as the <quote>Federal Facility Energy Efficiency and Renewable Energy Projects Fund</quote> (referred to in this section as the <quote>Fund</quote>), consisting of such amounts as are appropriated to the Fund under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013/s:9/ss:b" proposed="true">subsection (b)</cato:entity-ref>.</text>
+      </subsection> 
+<subsection id="HC7AD2907E2BA422790C0FF9723DF3D12">
+        <enum>(b)</enum>
+        <header>Transfers to fund</header> 
+<paragraph id="H08EDEE2D80284E6DB1C7B5F80CA34633">
+          <enum>(1)</enum>
+          <header>Authorization of appropriations</header>
+          <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized <cato:property name="purpose">to be appropriated to the Fund</cato:property> <cato:funds-and-year amount="500000000">$500,000,000, to remain available until expended</cato:funds-and-year>.</cato:entity></text>
+        </paragraph> 
+<paragraph id="H505CCA2DDFDE40E89685088F0D82ADF5">
+          <enum>(2)</enum>
+          <header>Loan repayments</header>
+          <text>There are appropriated to the Fund, out of funds of the Treasury not otherwise appropriated, amounts equivalent to loan amounts repaid and received in the Treasury under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013/s:9/ss:e" proposed="true">subsection (e)</cato:entity-ref>.</text>
+        </paragraph>
+      </subsection> 
+<subsection id="H89C16A2C49AB4BDDBF569A44C7B81961">
+        <enum>(c)</enum>
+        <header>Expenditures from fund</header> 
+<paragraph id="H44DCF1746E5A47CD88B64A0E445B0871">
+          <enum>(1)</enum>
+          <header>In general</header>
+          <text>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013/s:9/ss:c/p:2" proposed="true">paragraph (2)</cato:entity-ref>, on request by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary of Energy</cato:entity-ref> (referred to in this section as the <quote>Secretary</quote>), the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref> shall transfer from the Fund to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> such amounts as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> determines are necessary to provide assistance for energy efficiency and renewable energy projects carried out at Federal facilities in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013/s:9/ss:e" proposed="true">subsection (e)</cato:entity-ref>.</text>
+        </paragraph> 
+<paragraph id="HF857A8B80FA444138D9195A17D9B74BA">
+          <enum>(2)</enum>
+          <header>Administrative expenses</header>
+          <text>An amount not exceeding 10 percent of the amounts in the Fund shall be available for each fiscal year to pay the administrative expenses necessary to carry out this section.</text>
+        </paragraph>
+      </subsection> 
+<subsection id="H98BAE3F45E48403FBF5B5BEEC82D3042">
+        <enum>(d)</enum>
+        <header>Transfers of amounts</header> 
+<paragraph id="H220500652A8D4B6098ED1712D929A7F3">
+          <enum>(1)</enum>
+          <header>In general</header>
+          <text>The amounts required to be transferred to the Fund under this section shall be transferred at least monthly from the general fund of the Treasury to the Fund on the basis of estimates made by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref>.</text>
+        </paragraph> 
+<paragraph id="H39B734C4964D418689D197BD96C0E486">
+          <enum>(2)</enum>
+          <header>Adjustments</header>
+          <text>Proper adjustment shall be made in amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.</text>
+        </paragraph>
+      </subsection> 
+<subsection id="H6895FF4F72764C9AAA46A2749D66D0B9">
+        <enum>(e)</enum>
+        <header>Federal facility energy efficiency and renewable energy projects fund program</header> 
+<paragraph id="H3D0E2C489EF64A15B15F7030DCCC3759">
+          <enum>(1)</enum>
+          <header>In general</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> shall establish a Federal facility energy efficiency and renewable energy projects fund program under which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> shall make loans to Executive agencies to assist the agencies in reducing energy use and related purposes, as determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref>.</text>
+        </paragraph> 
+<paragraph id="H35C1E9372BFA4403B5B2F95E0D83FDB0">
+          <enum>(2)</enum>
+          <header>Guidelines for applications</header>
+          <text>Not later than 180 days after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> shall issue guidelines for Executive agencies to submit applications for loans under this subsection.</text>
+        </paragraph> 
+<paragraph id="HDEF6564BD47D4274BD0833FEEFE4DB4D">
+          <enum>(3)</enum>
+          <header>Eligibility</header>
+          <text>Each Executive agency shall be eligible to submit an application for a loan under this subsection.</text>
+        </paragraph> 
+<paragraph id="H9B28F681C16B4952970CBD69F76ADA3D">
+          <enum>(4)</enum>
+          <header>Loan awards</header> 
+<subparagraph id="H5EF4AFC87314463AB45415CA37F7993D">
+            <enum>(A)</enum>
+            <header>In general</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> shall award loans under this subsection on a competitive basis.</text>
+          </subparagraph> 
+<subparagraph id="HC0264726645446DBA3C75E0736C7924A">
+            <enum>(B)</enum>
+            <header>Allocation</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> shall convene a committee of Executive agencies to determine allocation from the Fund to carry out this subsection after a competitive assessment of the technical and economic effectiveness of each application for a loan under this subsection.</text>
+          </subparagraph> 
+<subparagraph id="H6F8F15B563AE4C36BECC06F5EC2D80AA">
+            <enum>(C)</enum>
+            <header>Selection</header>
+            <text>In determining whether to provide a loan to an Executive agency for a project under this subsection, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> shall consider—</text> 
+<clause id="HAF18851AAF7E4AC7B2229738A01ED121">
+              <enum>(i)</enum>
+              <text>the cost-effectiveness of the project;</text>
+            </clause> 
+<clause id="H9756CBB835B541C7A953FE2E3C9626E4">
+              <enum>(ii)</enum>
+              <text>the amount of energy and cost savings anticipated to the Federal Government;</text>
+            </clause> 
+<clause id="HD8C9BECB37144BA8943BF2F1A4A8BAED">
+              <enum>(iii)</enum>
+              <text>the amount of funding committed to the project by the agency;</text>
+            </clause> 
+<clause id="H1DD4F7A1796D4F129988426BB66DFA41">
+              <enum>(iv)</enum>
+              <text>the extent that a project will leverage financing from other non-Federal sources; and</text>
+            </clause> 
+<clause id="H9909E68EF0134545BEEC68566E15A509">
+              <enum>(v)</enum>
+              <text>any other factor that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> determines will result in the greatest amount of energy and cost savings to the Federal Government.</text>
+            </clause>
+          </subparagraph>
+        </paragraph>
+      </subsection>
+    </section> 
+<section id="HEC7B8F026FE84F2AA3DE7FDEB762047B">
+      <enum>10.</enum>
+      <header>Incentives for Executive agencies for utility energy savings contracts</header>
+      <text display-inline="no-display-inline">Not later than 180 days after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary of Energy</cato:entity-ref>, in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9700">Secretary of Defense</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref>, shall promulgate regulations that enable Executive agencies to retain the financial savings that result from entering into utility energy savings contracts.</text>
+    </section> 
+<section id="H9C5AA6FB66694DBB89A5945930FB4BE8">
+      <enum>11.</enum>
+      <header>Renewable energy facilities surveys by Executive agencies</header> 
+<subsection id="HA6726BFF71F9409CA7E17B1D46802E8D">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text>Not later than 180 days after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary of Energy</cato:entity-ref>, in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9700">Secretary of Defense</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref>, shall promulgate regulations that establish appropriate methods and procedures for use by Executive agencies to implement, unless inconsistent with the mission of the Executive agencies or impracticable due to environmental constraints, the identification of all potential locations at Federal facilities of the agencies for renewable energy projects (including available land, building roofs, and parking structures).</text>
+      </subsection> 
+<subsection id="H4491B097AB5245FFAE70E84D7FE46066">
+        <enum>(b)</enum>
+        <header>Identification of potential locations</header>
+        <text>Not later than 1 year after the date of the promulgation of regulations under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013/s:11/ss:a" proposed="true">subsection (a)</cato:entity-ref>, each Executive agency shall complete the report of the agency that identifies potential locations described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013/s:11/ss:a" proposed="true">subsection (a)</cato:entity-ref>.</text>
+      </subsection>
+    </section> 
+<section id="HE11B0A62417040289841F0C1BCA01D66">
+      <enum>12.</enum>
+      <header>Adoption of personal computer power savings techniques by Executive agencies</header> 
+<subsection id="H21C757B42ADD425AA6ED803A2FC6EE3E">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text>Not later than 180 days after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary of Energy</cato:entity-ref>, in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9700">Secretary of Defense</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary of Veterans Affairs</cato:entity-ref>, and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref>, shall issue guidance for Executive agencies to employ advanced tools allowing energy savings through the use of computer hardware, energy efficiency software, and power management tools.</text>
+      </subsection> 
+<subsection id="H694C2BAC28254DDA85A1B1B12F2BF1D9">
+        <enum>(b)</enum>
+        <header>Reports on plans and savings</header>
+        <text>Not later than 90 days after the date of the issuance of the guidance under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013/s:12/ss:a" proposed="true">subsection (a)</cato:entity-ref>, each Executive agency shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary of Energy</cato:entity-ref> a report that describes—</text> 
+<paragraph id="HE8C87150C3CA4F4A9A16F26065804A6B">
+          <enum>(1)</enum>
+          <text>the plan of the agency for implementing the guidance within the agency; and</text>
+        </paragraph> 
+<paragraph id="HAE3897341AFF4F57AB4A87E5627D79C3">
+          <enum>(2)</enum>
+          <text>estimated energy and financial savings from employing the tools described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013/s:12/ss:a" proposed="true">subsection (a)</cato:entity-ref>.</text>
+        </paragraph>
+      </subsection>
+    </section> 
+<section id="H7183A6F7BD654BDABF45327B99FA536D">
+      <enum>13.</enum>
+      <header>Federal energy management and data collection standard</header> 
+<subsection id="H4A66225461824906954BEBCED92A925F">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text>Not later than 1 year after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary of Energy</cato:entity-ref>, in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9700">Secretary of Defense</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1112">Office of Science and Technology Policy</cato:entity-ref>, and relevant industry and nonprofit groups, shall develop and issue guidance on a Federal energy management and data collection standard.</text>
+      </subsection> 
+<subsection id="HE4424913615B4EA8A2DC4CD4AB3A7B74">
+        <enum>(b)</enum>
+        <header>Requirements</header>
+        <text>Guidance described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013/s:13/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall include, at a minimum, a plan for the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">General Services Administration</cato:entity-ref> to publish energy consumption data for individual Federal facilities on a single, searchable website, accessible by the public at no cost to access.</text>
+      </subsection>
+    </section> 
+<section id="HDC6800C0F6E642C38CFDD3997188A9F0">
+      <enum>14.</enum>
+      <header>Advanced metering best practices for advanced metering</header>
+      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="National Energy Conservation Policy Act/s:543/ss:e">Section 543(e) of the National Energy Conservation Policy Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/8253/e">42 U.S.C. 8253(e)</cato:entity-ref>)</cato:entity> is amended by striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Energy Conservation Policy Act/s:543/ss:e/p:3">paragraph (3)</cato:entity-ref> and inserting the following:</text> 
+<quoted-block id="H24388A8C73DE41F1B5F59214ED8CDCEC" style="OLC"> 
+<paragraph id="H4FA85A45215F423D8D68C2C201C9F7D2">
+          <enum>(3)</enum>
+          <header>Plan</header> 
+<subparagraph id="H8FE730ECA42A46EFA0FD418CAC779820">
+            <enum>(A)</enum>
+            <header>In general</header>
+            <text>Not later than 180 days after the date on which guidelines are established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Energy Conservation Policy Act/s:543/ss:e/p:2">paragraph (2)</cato:entity-ref>, in a report submitted by the agency under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Energy Conservation Policy Act/s:548/ss:a">section 548(a)</cato:entity-ref>, each agency shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> a plan describing the manner in which the agency will implement the requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Energy Conservation Policy Act/s:543/ss:e/p:1">paragraph (1)</cato:entity-ref>, including—</text> 
+<clause id="HB6AA51E4104D4A4DB2F0CD6DFF23E815">
+              <enum>(i)</enum>
+              <text>how the agency will designate personnel primarily responsible for achieving the requirements; and</text>
+            </clause> 
+<clause id="H13D2894FA9874957B89B3038529CA548">
+              <enum>(ii)</enum>
+              <text>a demonstration by the agency, complete with documentation, of any finding that advanced meters or advanced metering devices (as those terms are used in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Energy Conservation Policy Act/s:543/ss:e/p:1">paragraph (1)</cato:entity-ref>), are not practicable.</text>
+            </clause>
+          </subparagraph> 
+<subparagraph id="HFCAD552E824741A4AD3B569AF81011E2">
+            <enum>(B)</enum>
+            <header>Updates</header>
+            <text>Reports submitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Energy Conservation Policy Act/s:543/ss:e/p:3/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> shall be updated annually.</text>
+          </subparagraph>
+        </paragraph> 
+<paragraph id="H0F3E7BA0FA344F76AC2930FD6561624D">
+          <enum>(4)</enum>
+          <header>Best practices report</header> 
+<subparagraph id="H735332ACC22445DF859D594AE3974958">
+            <enum>(A)</enum>
+            <header>In general</header>
+            <text>Not later than 180 days after the date of enactment of the <short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013" proposed="true">Federal Cost Reduction Act of 2013</cato:entity-ref></short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary of Energy</cato:entity-ref>, in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9700">Secretary of Defense</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref>, shall develop, and issue a report on, best practices for the use of advanced metering of energy use in Federal facilities, buildings, and equipment by Federal agencies.</text>
+          </subparagraph> 
+<subparagraph id="H945BE0B1A32845B3A8F88FB9FE6E4870">
+            <enum>(B)</enum>
+            <header>Updating</header>
+            <text>The report described under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Energy Conservation Policy Act/s:543/ss:e/p:4/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> shall be updated annually.</text>
+          </subparagraph> 
+<subparagraph id="H6ECACC7924144B84809D7BB7D579AFD4">
+            <enum>(C)</enum>
+            <header>Components</header>
+            <text>The report shall include, at a minimum—</text> 
+<clause id="H1D005396843340349781E94F2A790207">
+              <enum>(i)</enum>
+              <text>summaries and analysis of the reports by agencies under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Energy Conservation Policy Act/s:543/ss:e/p:3" proposed="true">paragraph (3)</cato:entity-ref>;</text>
+            </clause> 
+<clause id="H2EFF0D4E984F450F9C83FA2595DB12FD">
+              <enum>(ii)</enum>
+              <text>recommendations on standard requirements or guidelines for automated energy management systems, including—</text> 
+<subclause id="H399A44EE0E3C4F7ABEF9FD31C8729EA7">
+                <enum>(I)</enum>
+                <text>potential common communications standards to allow data sharing and reporting;</text>
+              </subclause> 
+<subclause id="HB858C62B1FC14C1EB8B36EBDA33AADBC">
+                <enum>(II)</enum>
+                <text>means of facilitating continuous commissioning of buildings and evidence-based maintenance of buildings and building systems; and</text>
+              </subclause> 
+<subclause id="H7866047AF6234C0A81687E836A3D8715">
+                <enum>(III)</enum>
+                <text>standards for sufficient levels of security and protection against cyber threats to ensure systems cannot be controlled by unauthorized persons; and</text>
+              </subclause>
+            </clause> 
+<clause id="H27373884BDC347D486001940FDEEF4B0">
+              <enum>(iii)</enum>
+              <text>an analysis of—</text> 
+<subclause id="H25BF8C9AFECB453CA9DFF8A2CADEFD79">
+                <enum>(I)</enum>
+                <text>the types of advanced metering and monitoring systems being piloted, tested, or installed in Federal buildings; and</text>
+              </subclause> 
+<subclause id="H3F742E72E6FD4356BE6D42D74573D427">
+                <enum>(II)</enum>
+                <text>existing techniques used within the private sector or other non-Federal government buildings.</text>
+              </subclause>
+            </clause>
+          </subparagraph>
+        </paragraph>
+        <after-quoted-block>.</after-quoted-block>
+      </quoted-block>
+    </section> 
+<section id="HEF0D1D28D3C54FCCAC81FCD403D0D139">
+      <enum>15.</enum>
+      <header>Availability of funds for design updates</header>
+      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3307">Section 3307 of title 40, United States Code</cato:entity-ref>, is amended—</text> 
+<paragraph id="H3E4DC21FF4C24D9EAC40A54FAEC4085C">
+        <enum>(1)</enum>
+        <text>by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3307/d..h">subsections (d) through (h)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3307/e..i" proposed="true">subsections (e) through (i)</cato:entity-ref>; and</text>
+      </paragraph> 
+<paragraph id="HF48BE1CD34C14978B5344618D7CFD843">
+        <enum>(2)</enum>
+        <text>by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3307/c">subsection (c)</cato:entity-ref> the following:</text> 
+<quoted-block id="H53136CE8CB4B497F85A38E950C3F35A3" style="OLC"> 
+<subsection id="H4B8BBC512BC348BAAA0BA2A8B3EA4C79">
+            <enum>(d)</enum>
+            <header>Availability of funds for design updates</header> 
+<paragraph id="H6AA0F687622D4E9EAABAC4F5CDB986CD">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3307/d/2">paragraph (2)</cato:entity-ref>, for any project for which congressional approval is received under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3307/a">subsection (a)</cato:entity-ref> and for which the design has been substantially completed but construction has not begun, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref> may use appropriated funds to update the project design to meet applicable Federal building energy efficiency standards established under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Energy Conservation and Production Act/s:305">section 305 of the Energy Conservation and Production Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/6834">42 U.S.C. 6834</cato:entity-ref>)</cato:entity> and other requirements established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312">section 3312 of this title</cato:entity-ref>.</text>
+            </paragraph> 
+<paragraph id="H0A9B4372D3CE41139A82C6AD2DE46880">
+              <enum>(2)</enum>
+              <header>Limitation</header>
+              <text>The use of funds under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3307/d/1">paragraph (1)</cato:entity-ref> shall not exceed 125 percent of the estimated energy or other cost savings associated with the updates as determined by a life-cycle cost analysis under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="National Energy Conservation Policy Act/s:544">section 544 of the National Energy Conservation Policy Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/8254">42 U.S.C. 8254</cato:entity-ref>)</cato:entity>.</text>
+            </paragraph>
+          </subsection>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </paragraph>
+    </section> 
+<section id="HF536B32F71BC424982D5D3B1BA5650C7">
+      <enum>16.</enum>
+      <header>Continuous commissioning within the Federal building stock</header> 
+<subsection id="H1653D1987EC445C0AD330840CF6EBD27">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312">Section 3312 of title 40, United States Code</cato:entity-ref>, is amended—</text> 
+<paragraph id="HEF22C947E7764EE4A573AE882BF0A392">
+          <enum>(1)</enum>
+          <text>by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/c..g">subsections (c) through (g)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/d..h" proposed="true">subsections (d) through (h)</cato:entity-ref>, respectively; and</text>
+        </paragraph> 
+<paragraph id="HFB0E706785ED47D982CFA6A739706836">
+          <enum>(2)</enum>
+          <text>by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/b">subsection (b)</cato:entity-ref> the following:</text> 
+<quoted-block id="H900E6FFA412442158A64BCC49BAC0345" style="OLC"> 
+<subsection id="H5328F213B62F4878BAE1EA4E5BFF4358">
+              <enum>(c)</enum>
+              <header>Continuous commissioning within the Federal building stock</header> 
+<paragraph id="H054D8339BAB4470BA4FC12988F2EAB5B">
+                <enum>(1)</enum>
+                <header>In general</header>
+                <text>Not later than 1 year after the date of enactment of the <short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013" proposed="true">Federal Cost Reduction Act of 2013</cato:entity-ref></short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary of Energy</cato:entity-ref> shall incorporate commissioning and recommissioning standards (as those terms are defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="National Energy Conservation Policy Act/s:543/ss:f">section 543(f) of the National Energy Conservation Policy Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/8253/f">42 U.S.C. 8253(f)</cato:entity-ref>)</cato:entity>), for all real property that—</text> 
+<subparagraph id="H5AA70EAF2F1F486D9FF7D273070EF1F0">
+                  <enum>(A)</enum>
+                  <text>is more than $10,000,000 in value;</text>
+                </subparagraph> 
+<subparagraph id="H81B8845F8CE640BAAB6386F3D8D3C1C3">
+                  <enum>(B)</enum>
+                  <text>has more than 50,000 square feet; or</text>
+                </subparagraph> 
+<subparagraph id="H80B653122E024643832C24EA5B0909F9">
+                  <enum>(C)</enum>
+                  <text>has energy intensity of more than $2 per square foot.</text>
+                </subparagraph>
+              </paragraph> 
+<paragraph id="H9194F537F4AF4E1FB49C15AFDDA5EC1D">
+                <enum>(2)</enum>
+                <header>Regulations</header>
+                <text>Not later than 180 days after the date of enactment of the <short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013" proposed="true">Federal Cost Reduction Act of 2013</cato:entity-ref></short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary of Energy</cato:entity-ref> shall promulgate such regulations as are necessary to carry out this subsection.</text>
+              </paragraph>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </subsection> 
+<subsection id="H5A9228E8CFFE4BD2B59EB41C8577A16E">
+        <enum>(b)</enum>
+        <header>Conforming amendments</header>
+        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312">Section 3312 of title 40, United States Code</cato:entity-ref>, is amended—</text> 
+<paragraph id="HC203421AC7C44133931C2FA8458D6A42">
+          <enum>(1)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/e/1" proposed="true">subsection (e)(1)</cato:entity-ref> (as redesignated by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013/s:16/ss:a/p:1" proposed="true">subsection (a)(1)</cato:entity-ref>), by striking <quote>and (c)</quote> and inserting <quote>and (d)</quote>;</text>
+        </paragraph> 
+<paragraph id="HBF450354814F4FFFB7B176E9BC8BD6DB">
+          <enum>(2)</enum>
+          <text>in the first sentence of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/f" proposed="true">subsection (f)</cato:entity-ref> (as so redesignated), by striking <quote>and (c)</quote> and inserting <quote>and (d)</quote>; and</text>
+        </paragraph> 
+<paragraph id="H31913621CE4141E782B540B7CC632E70">
+          <enum>(3)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/g" proposed="true">subsection (g)</cato:entity-ref> (as so redesignated), by striking <quote><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/b,c,d">subsection (b), (c), or (d)</cato:entity-ref> or for failure to carry out any recommendation under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/e">subsection (e)</cato:entity-ref></quote> and inserting <quote><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/b,d,e">subsection (b), (d), or (e)</cato:entity-ref> or for failure to carry out any recommendation under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/f">subsection (f)</cato:entity-ref></quote>.</text>
+        </paragraph>
+      </subsection>
+    </section> 
+<section commented="no" id="H809FDD7ED42D4B6AAF29D49E142F58FA">
+      <enum>17.</enum>
+      <header>Elimination of State matching requirement for energy efficiency upgrades at National Guard and reserve armories and readiness centers</header>
+      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/18236/b">Section 18236(b) of title 10, United States Code</cato:entity-ref>, is amended—</text> 
+<paragraph commented="no" id="H0DF6DC5CFB714CB384E0FF8308B181D2">
+        <enum>(1)</enum>
+        <text>by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/18236/b/1">paragraphs (1)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/18236/b/2">(2)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/18236/b/1/A" proposed="true">subparagraphs (A)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/18236/b/1/B" proposed="true">(B)</cato:entity-ref>, respectively;</text>
+      </paragraph> 
+<paragraph id="HF78E7019D0BF4E9994A5DCA6BA38BC26">
+        <enum>(2)</enum>
+        <text>by striking <quote>A contribution</quote> and inserting <quote>(1) Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/18236/b/2">paragraph (2)</cato:entity-ref>, a contribution</quote>;</text>
+      </paragraph> 
+<paragraph id="HE9384D3908EE4E1B9856C776841549A4">
+        <enum>(3)</enum>
+        <text>by striking <quote>For the purpose</quote> and inserting <quote>(3) For the purpose</quote>; and</text>
+      </paragraph> 
+<paragraph commented="no" id="H5FBCE4B1B23F49D8B69E867FD4A25D05">
+        <enum>(4)</enum>
+        <text>by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/18236/b/1/B" proposed="true">subparagraph (B) of paragraph (1)</cato:entity-ref>, as so designated, the following new paragraph:</text> 
+<quoted-block id="H8E8B8880A390471BB95BC1C4278A1309" style="OLC"> 
+<paragraph commented="no" id="HD6FA011DD22146D183C04A8F41B88DB5" indent="up1">
+            <enum>(2)</enum>
+            <text>If an armory or readiness center project for which a contribution is made under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/18233/a/4">paragraph (4)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/18233/a/5">(5) of section 18233(a) of this title</cato:entity-ref> consists of or includes an energy efficiency upgrade, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9700">Secretary of Defense</cato:entity-ref> shall cover—</text> 
+<subparagraph commented="no" id="H69C3C5D4774548FEADD45EDC7DC8BFDA">
+              <enum>(A)</enum>
+              <text>100 percent of the cost of architectural, engineering, and design services related to the upgrade (including advance architectural, engineering, and design services under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/18233/e">section 18233(e) of this title</cato:entity-ref>), as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/18236/b/1/A" proposed="true">subparagraph (A) of paragraph (1)</cato:entity-ref>; and</text>
+            </subparagraph> 
+<subparagraph commented="no" id="HD0DB4C3E727B44689C95B560E46CE3DC">
+              <enum>(B)</enum>
+              <text display-inline="yes-display-inline">100 percent of the cost of construction related to the upgrade, notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/18236/b/1/B">subparagraph (B) of paragraph (1)</cato:entity-ref>, and payment of such cost shall not be considered in applying the limitation in such subparagraph.</text>
+            </subparagraph>
+          </paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </paragraph>
+    </section> 
+</legis-body> 
+</bill></doc>
