@@ -5,115 +5,163 @@
     Created by Francis Avila on 2013-04-04.
 -->
 
-<xsl:stylesheet version="1.0"
-    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+<stylesheet version="1.0"
+    xmlns="http://www.w3.org/1999/XSL/Transform"
     xmlns:cato="http://namespaces.cato.org/catoxml">
 
-    <xsl:output encoding="UTF-8" method="text" />
+<strip-space elements="*"/>
+<preserve-space elements="text continuation-text quoted-block-continuation-text quote"/>
+<output encoding="UTF-8" method="text" omit-xml-declaration="yes" indent="no"/>
 
-    <xsl:variable name="people" select="document('../lookups/person.xml')"/>
-    <xsl:variable name="committees" select="document('../lookups/committee.xml')"/>
-    <xsl:variable name="federal-bodies" select="document('../lookups/federal-body.xml')"/>
-
-    <xsl:key name="wikipedia" match="/items/item/@wikipedia" use="../@id"/>
-
-    <xsl:template name="wikipedia-key">
-        <xsl:param name="id"/>
-        <xsl:param name="lookupdoc"/>
-        <xsl:for-each select="$lookupdoc">
-            <xsl:value-of select="key('wikipedia', $id)"/>
-        </xsl:for-each>
-    </xsl:template>
+<variable name="people" select="document('../lookups/person.xml')"/>
+<variable name="committees" select="document('../lookups/committee.xml')"/>
+<variable name="federal-bodies" select="document('../lookups/federal-body.xml')"/>
 
 
-    <xsl:template match="/doc">
-        <xsl:variable name="action-date" select="*[2]/form/action/action-date/@date"/>
+<key name="wikipedia" match="/items/item/@wikipedia" use="../@id"/>
+
+<template match="*">
+    <apply-templates/>
+    <text>&#xA;</text>
+</template>
+
+<template name="wikipedia-key">
+    <param name="id"/>
+    <param name="lookupdoc"/>
+    <for-each select="$lookupdoc">
+        <value-of select="key('wikipedia', $id)"/>
+    </for-each>
+</template>
+
+
+<template match="/doc">
+<variable name="action-date" select="*[2]/form/action/action-date/@date"/>
 {{Act of Congress
-| congress       = <xsl:value-of select="docmeta/bill/@congress"/>
-| session        = <xsl:value-of select="substring(*[2]/form/session, 1, 1)"/>
+| congress       = <value-of select="docmeta/bill/@congress"/>
+| session        = <value-of select="substring(*[2]/form/session, 1, 1)"/>
 | pl             = 1
 | title          = 
 | override_previous = 
 | statvolume     = 
 | statpage       = 
-| year           = <xsl:value-of select="substring($action-date, 1, 4)"/>
-| month          = <xsl:value-of select="substring($action-date, 5, 2)"/>
-| day            = <xsl:value-of select="substring($action-date, 7, 2)"/>
-| bill           = <xsl:value-of select="docmeta/bill/@number"/>
-| billtype       = <xsl:value-of select="docmeta/bill/@type"/>
+| year           = <value-of select="substring($action-date, 1, 4)"/>
+| month          = <value-of select="substring($action-date, 5, 2)"/>
+| day            = <value-of select="substring($action-date, 7, 2)"/>
+| bill           = <value-of select="docmeta/bill/@number"/>
+| billtype       = <value-of select="docmeta/bill/@type"/>
 | notes          = 
 | resolution     = 
-| purpose        = <xsl:value-of select="normalize-space(*[2]/form/official-title)"/>
+| purpose        = <value-of select="normalize-space(*[2]/form/official-title)"/>
 }}
-    <xsl:apply-templates select="*[2]"/>
-    </xsl:template>
+<apply-templates select="*[2]"/>
+</template>
 
-    <xsl:template match="distribution-code"/>
+<template match="distribution-code"/>
 
-    <xsl:template match="congress|session|legis-num|legis-type|current-chamber|action-desc">
-        {{Center|<xsl:apply-templates/>}}
-    </xsl:template>
+<template match="congress|session|legis-num|legis-type|current-chamber|action-desc|action-date">
+{{Center|<apply-templates/>}}
 
-    <xsl:template match="section">
+</template>
 
-    </xsl:template>
+<template name="wikilink">
+    <param name="id"/>
+    <param name="idx"/>
+    <variable name="wikipage">
+        <call-template name="wikipedia-key">
+            <with-param name="id" select="$id"/>
+            <with-param name="lookupdoc" select="$idx"/>
+        </call-template>
+    </variable>
+    <choose>
+        <when test="$wikipage">
+            <text>[[</text>
+            <value-of select="$wikipage"/>
+            <text>|</text>
+            <apply-templates/>
+            <text>]]</text>
+        </when>
+        <otherwise>
+            <apply-templates/>
+        </otherwise>
+    </choose>
+</template>
 
-    <xsl:template name="wikilink">
-        <xsl:param name="id"/>
-        <xsl:param name="idx"/>
-        <xsl:variable name="wikipage">
-            <xsl:call-template name="wikipedia-key">
-                <xsl:with-param name="id" select="$id"/>
-                <xsl:with-param name="lookupdoc" select="$idx"/>
-            </xsl:call-template>
-        </xsl:variable>
-        <xsl:choose>
-            <xsl:when test="$wikipage">
-                [[<xsl:value-of select="$wikipage"/>|<xsl:apply-templates/>]]
-            </xsl:when>
-            <xsl:otherwise>
-                <xsl:apply-templates/>
-            </xsl:otherwise>
-        </xsl:choose>
-    </xsl:template>
+<template match="sponsor | cosponsor | cato:entity-ref[@entity-type='person']">
+    <text>&#xA;</text>
+    <call-template name="wikilink">
+        <with-param name="id" select="(@name-id | @entity-id)[1]"/>
+        <with-param name="idx" select="$people"/>
+    </call-template>
+</template>
 
-    <xsl:template match="sponsor | cosponsor | cato:entity-ref[@entity-type='person']">
-        <xsl:call-template name="wikilink">
-            <xsl:with-param name="id" select="(@name-id | @entity-id)[1]"/>
-            <xsl:with-param name="idx" select="$people"/>
-        </xsl:call-template>
-    </xsl:template>
+<template match="cato:entity-ref[@entity-type='federal-body']">
+    <call-template name="wikilink">
+        <with-param name="id" select="(@entity-id | @entity-parent-id)[1]"/>
+        <with-param name="idx" select="$federal-bodies"/>
+    </call-template>
+</template>
 
-    <xsl:template match="cato:entity-ref[@entity-type='federal-body']">
-        <xsl:call-template name="wikilink">
-            <xsl:with-param name="id" select="(@entity-id | @entity-parent-id)[1]"/>
-            <xsl:with-param name="idx" select="$federal-bodies"/>
-        </xsl:call-template>
-    </xsl:template>
+<template match="committee-name">
+    <call-template name="wikilink">
+        <with-param name="id" select="(@committee-id | @committee)[1]"/>
+        <with-param name="idx" select="$committees"/>
+    </call-template>
+</template>
 
-    <xsl:template match="committee-name">
-        <xsl:call-template name="wikilink">
-            <xsl:with-param name="id" select="(@committee-id | @committee)[1]"/>
-            <xsl:with-param name="idx" select="$committees"/>
-        </xsl:call-template>
-    </xsl:template>
+<template match="toc">
+    <!-- TOC is created by hand -->
+    <text>__NOTOC__&#xA;</text>
+    <apply-templates/>
+</template>
 
-    <xsl:template match="toc-entry[@idref]">
-        <xsl:if test="@level='title'">*</xsl:if>
-        <xsl:if test="@level='section'">**</xsl:if>
-        [[#<xsl:value-of select="@idref"/>|<xsl:apply-templates/>]]
-    </xsl:template>
+<template match="toc-entry[@idref]">
+    <if test="@level='title'">*</if>
+    <if test="@level='section'">**</if>
+    <text>[[#</text>
+    <value-of select="@idref"/>
+    <text>|</text>
+    <apply-templates/>
+    <text>]]&#xA;</text>
+</template>
 
-    <xsl:template match="title[@id]">
-        ={{section|<xsl:value-of select="@id"/>|<xsl:apply-templates/>}}=
-    </xsl:template>
+<template name="string-repeat">
+    <param name="string"/>
+    <param name="count"/>
+    <if test="string-length($string) > 0 and $count > 0">
+        <value-of select="$string"/>
+        <call-template name="string-repeat">
+            <with-param name="string" select="$string"/>
+            <with-param name="count" select="$count - 1"/>
+        </call-template>
+    </if>
+</template>
 
-    <xsl:template match="section[@id]">
-        =={{section|<xsl:value-of select="@id"/>|<xsl:apply-templates/>}}==
-    </xsl:template>
+<template name="level">
+    <choose>
+        <when test="title">1</when>
+        <when test="section">2</when>
+    </choose>
+</template>
 
+<template match="*[self::title or self::section][enum or header]">
+    <variable name="wikiheader">
+        <call-template name="string-repeat">
+            <with-param name="string">=</with-param>
+            <with-param name="count"><call-template name="level"/></with-param>
+        </call-template>
+    </variable>
+    <text>&#xA;</text>
+    <value-of select="$wikiheader"/>
+    <text>{{section|</text>
+        <value-of select="@id"/><text>|</text>
+        <value-of select="normalize-space(concat(enum, ' ', header))"/>
+        <text>}}</text>
+    <value-of select="$wikiheader"/>
+    <text>&#xA;</text>
+    <apply-templates select="*[not(self::enum or self::header)]"/>
+</template>
 
-</xsl:stylesheet>
+</stylesheet>
 
 
 
