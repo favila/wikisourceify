@@ -10,7 +10,7 @@
     xmlns:cato="http://namespaces.cato.org/catoxml">
 
 <strip-space elements="*"/>
-<preserve-space elements="text continuation-text quoted-block-continuation-text quote"/>
+<!-- <preserve-space elements="text continuation-text quoted-block-continuation-text quote"/> -->
 <output encoding="UTF-8" method="text" omit-xml-declaration="yes" indent="no"/>
 
 <variable name="people" select="document('../lookups/person.xml')"/>
@@ -20,9 +20,23 @@
 
 <key name="wikipedia" match="/items/item/@wikipedia" use="../@id"/>
 
-<template match="*">
+<template match="text()">
+    <value-of select="normalize-space()"/>
+    <if test="following-sibling::* or ../following-sibling::text()"><text> </text></if>
+</template>
+
+
+<template match="*[@display-inline='no-display-inline']">
+    <text>&#xA;</text>
     <apply-templates/>
     <text>&#xA;</text>
+</template>
+
+
+<template match="quote">
+    <text>“</text>
+    <apply-templates/>
+    <text>”</text>
 </template>
 
 <template name="wikipedia-key">
@@ -56,6 +70,7 @@
 <apply-templates select="*[2]"/>
 </template>
 
+
 <template match="distribution-code"/>
 
 <template match="congress|session|legis-num|legis-type|current-chamber|action-desc|action-date">
@@ -74,7 +89,7 @@
     </variable>
     <choose>
         <when test="$wikipage">
-            <text>[[</text>
+            <text>[[Wikipedia:</text>
             <value-of select="$wikipage"/>
             <text>|</text>
             <apply-templates/>
@@ -108,6 +123,32 @@
     </call-template>
 </template>
 
+<!-- 
+<template match="cato:entity-ref[@entity-type='public-law']">
+</template>
+
+<template match="external-xref[@legal-doc='public-law']">
+</template>
+
+<template match="cato:entity-ref[@entity-type='statute-at-large']">
+</template>
+
+<template match="external-xref[@legal-doc='statute-at-large']">
+</template>
+
+<template match="cato:entity-ref[@entity-type='uscode']">
+</template>
+
+<template match="external-xref[@legal-doc='usc']">
+</template>
+
+<template match="external-xref[@legal-doc='usc-chapter']">
+</template>
+
+<template match="external-xref[@legal-doc='usc-appendix']">
+</template>
+ -->
+
 <template match="toc">
     <!-- TOC is created by hand -->
     <text>__NOTOC__&#xA;</text>
@@ -117,6 +158,7 @@
 <template match="toc-entry[@idref]">
     <if test="@level='title'">*</if>
     <if test="@level='section'">**</if>
+    <if test="@level='paragraph'">***</if>
     <text>[[#</text>
     <value-of select="@idref"/>
     <text>|</text>
@@ -137,30 +179,56 @@
 </template>
 
 <template name="level">
-    <choose>
-        <when test="title">1</when>
-        <when test="section">2</when>
-    </choose>
+    <param name="context" select="."/>
+    <value-of select="count($context/ancestor-or-self::*[self::title | self::subtitle | self::chapter | self::part | self::subsection | self::paragraph  | self::subparagraph | self::clause | self::subclause | self::item | self::subitem])"/>
 </template>
 
-<template match="*[self::title or self::section][enum or header]">
+<template match="*[enum and header]">
     <variable name="wikiheader">
         <call-template name="string-repeat">
             <with-param name="string">=</with-param>
             <with-param name="count"><call-template name="level"/></with-param>
         </call-template>
     </variable>
+    <!-- <variable name="use-section" select="self::title[@id] or self::section[@id]"/> -->
+    <variable name="use-section" select="false()"/>
     <text>&#xA;</text>
+    <if test="$use-section">
+        <text>{{section|</text><value-of select="@id"/><text>|&#xA;</text>
+    </if>
     <value-of select="$wikiheader"/>
-    <text>{{section|</text>
-        <value-of select="@id"/><text>|</text>
         <value-of select="normalize-space(concat(enum, ' ', header))"/>
-        <text>}}</text>
     <value-of select="$wikiheader"/>
-    <text>&#xA;</text>
+    <text>&#xA;&#xA;</text>
     <apply-templates select="*[not(self::enum or self::header)]"/>
+    <if test="$use-section">
+        <text>}}&#xA;</text>
+    </if>
 </template>
 
+<template match="enum[not(following-sibling::header)]">
+    <variable name="parentlevel">
+        <call-template name="level">
+            <with-param name="context" select="../ancestor::*[child::enum and child::header]"/>
+        </call-template>
+    </variable>
+    <variable name="currentlevel">
+        <call-template name="level">
+            <with-param name="context" select=".."/>
+        </call-template>
+    </variable>
+    <call-template name="string-repeat">
+        <with-param name="string">:</with-param>
+        <with-param name="count" select="$currentlevel - $parentlevel"/>
+    </call-template>
+    <text> </text>
+</template>
+
+<template match="quoted-block">
+    <text>&#xA;&#xA;&lt;blockquote></text>
+    <apply-templates/>
+    <text>&lt;/blockquote>&#xA;</text>
+</template>
 </stylesheet>
 
 
