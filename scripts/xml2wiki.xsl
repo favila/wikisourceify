@@ -21,17 +21,22 @@
 <key name="wikipedia" match="/items/item/@wikipedia" use="../@id"/>
 
 <template match="text()">
-    <value-of select="normalize-space()"/>
-    <if test="following-sibling::* or ../following-sibling::text()"><text> </text></if>
+    <variable name="normalized" select="normalize-space()"/>
+    <!-- TODO: this should have <nowiki> to prevent wiki-interpretation of text nodes -->
+    <!-- However doing this adds a lot of bloat to the output. Is there a smarter way
+         to add <nowiki> conditionally? -->
+    <copy select="$normalized"/>
+    <if test="string-length($normalized)=0 and string-length(.)>0">
+        <text> </text>
+    </if>
 </template>
 
-
-<template match="*[@display-inline='no-display-inline']">
+<!-- <template match="*[@display-inline='no-display-inline'] | text[not(@display-inline)]">
     <text>&#xA;</text>
     <apply-templates/>
     <text>&#xA;</text>
 </template>
-
+ -->
 
 <template match="quote">
     <text>“</text>
