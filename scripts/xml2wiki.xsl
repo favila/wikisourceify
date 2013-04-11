@@ -186,7 +186,10 @@
 
 <template name="level">
     <param name="context" select="."/>
-    <value-of select="count($context/ancestor-or-self::*[self::title | self::subtitle | self::chapter | self::part | self::subsection | self::paragraph  | self::subparagraph | self::clause | self::subclause | self::item | self::subitem])"/>
+    <value-of select="1 + count($context/ancestor-or-self::*[
+        self::title | self::subtitle | self::chapter | self::part |
+        self::subsection | self::paragraph | self::subparagraph |
+        self::clause | self::subclause | self::item | self::subitem])"/>
 </template>
 
 <template match="*[enum and header]">
