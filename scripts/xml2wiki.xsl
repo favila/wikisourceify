@@ -163,7 +163,6 @@
 <template match="toc-entry[@idref]">
     <if test="@level='title'">*</if>
     <if test="@level='section'">**</if>
-    <if test="@level='paragraph'">***</if>
     <text>[[#</text>
     <value-of select="@idref"/>
     <text>|</text>
