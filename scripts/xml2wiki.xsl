@@ -58,18 +58,18 @@
 {{Act of Congress
 | congress       = <value-of select="docmeta/bill/@congress"/>
 | session        = <value-of select="substring(*[2]/form/session, 1, 1)"/>
-| pl             = 1
-| title          = 
-| override_previous = 
-| statvolume     = 
-| statpage       = 
+<!-- | pl             =  -->
+| title          = <value-of select="normalize-space(*[2]/form/official-title)"/>
+<!-- | override_previous =  -->
+<!-- | statvolume     =  -->
+<!-- | statpage       =  -->
 | year           = <value-of select="substring($action-date, 1, 4)"/>
 | month          = <value-of select="substring($action-date, 5, 2)"/>
 | day            = <value-of select="substring($action-date, 7, 2)"/>
 | bill           = <value-of select="docmeta/bill/@number"/>
 | billtype       = <value-of select="docmeta/bill/@type"/>
-| notes          = 
-| resolution     = 
+<!-- | notes          =  -->
+<!-- | resolution     =  -->
 | purpose        = <value-of select="normalize-space(*[2]/form/official-title)"/>
 }}
 <apply-templates select="*[2]"/>
