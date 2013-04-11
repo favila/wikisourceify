@@ -236,7 +236,7 @@
 <template match="quoted-block">
     <text>&#xA;&#xA;&lt;blockquote></text>
     <apply-templates/>
-    <text>&lt;/blockquote>&#xA;</text>
+    <text>&#xA;&lt;/blockquote>&#xA;</text>
 </template>
 </stylesheet>
 
