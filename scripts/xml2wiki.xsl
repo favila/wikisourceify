@@ -192,45 +192,70 @@
         self::clause | self::subclause | self::item | self::subitem])"/>
 </template>
 
-<template match="*[enum and header]">
+<template match="title/enum[following-sibling::header]">
+    <text>Title </text><value-of select="."/><text>— </text>
+</template>
+
+<template match="section/enum[following-sibling::header]">
+    <text>Sec. </text><value-of select="."/><text> </text>
+</template>
+
+<template match="section[@section-type='section-one']/enum[following-sibling::header]">
+    <text>Section </text><value-of select="."/><text> </text>
+</template>
+
+
+<template priority="-0.5" match="enum">
+    <value-of select="."/>
+    <text> </text>
+</template>
+
+<template match="header[not(@display-inline='no-display-inline') and not(parent::section or parent::title)]">
+    <apply-templates select="./text()"/>
+    <text>– </text>
+</template>
+
+<template 
+    name="block-unit"
+    match="*[child::enum][self::section or self::title or child::header[not(@display-inline='yes-display-inline')]]">
     <variable name="wikiheader">
         <call-template name="string-repeat">
             <with-param name="string">=</with-param>
             <with-param name="count"><call-template name="level"/></with-param>
         </call-template>
     </variable>
-    <!-- <variable name="use-section" select="self::title[@id] or self::section[@id]"/> -->
-    <variable name="use-section" select="false()"/>
-    <text>&#xA;</text>
-    <if test="$use-section">
-        <text>{{section|</text><value-of select="@id"/><text>|&#xA;</text>
-    </if>
+    <text>&#xA;&#xA;</text>
     <value-of select="$wikiheader"/>
-        <value-of select="normalize-space(concat(enum, ' ', header))"/>
+        <apply-templates select="@id"/>
+        <apply-templates select="enum"/>
+        <apply-templates select="header"/>
     <value-of select="$wikiheader"/>
     <text>&#xA;&#xA;</text>
     <apply-templates select="*[not(self::enum or self::header)]"/>
-    <if test="$use-section">
-        <text>}}&#xA;</text>
-    </if>
 </template>
 
-<template match="enum[not(following-sibling::header)]">
-    <variable name="parentlevel">
+<template 
+    name="inline-unit"
+    match="*[not(self::title or self::section)]
+        [child::enum][not(child::header) or child::header[@display-inline='yes-display-inline']]">
+    <param name="parentlevel">
         <call-template name="level">
-            <with-param name="context" select="../ancestor::*[child::enum and child::header]"/>
+            <with-param name="context" select="ancestor::*[child::enum and child::header]"/>
         </call-template>
-    </variable>
+    </param>
     <variable name="currentlevel">
-        <call-template name="level">
-            <with-param name="context" select=".."/>
-        </call-template>
+        <call-template name="level"/>
     </variable>
+    <text>&#xA;</text>
     <call-template name="string-repeat">
         <with-param name="string">:</with-param>
         <with-param name="count" select="$currentlevel - $parentlevel"/>
     </call-template>
-    <text> </text>
+    <apply-templates select="enum"/>
+    <apply-templates select="header"/>
+    <apply-templates select="*[not(self::enum or self::header)]">
+        <with-param name="parentlevel" select="$parentlevel"/>
+    </apply-templates>
 </template>
 
 <template match="quoted-block">
