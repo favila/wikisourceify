@@ -25,10 +25,11 @@ Repo Contents
   * Federal Bodies (e.g., agencies and bureaus) using NIST SP800-87 codes
   * Congressional committees
   * Federal Elective Officials (congressmen) using Bioguide IDs
-  * `xml` contains the source CatoXML-enhanced XML (see the 
-    [CatoXML namespace documentation][catoxml]).
-  * `wiki` contains the target wikitext
-  * `scripts` contains scripts
+  * Public Laws
+* `xml` contains the source CatoXML-enhanced XML (see the 
+  [CatoXML namespace documentation][catoxml]).
+* `wiki` contains the target wikitext
+* `scripts` contains scripts
   * `dumpxml.xq` gets source XML from the deepbills BaseX database using XQuery
   * `wikilookup.py` is a Python script to produce the XML lookup tables
   * `xml2wiki.xsl` is an XSLT 1.0 script to produce the wikitext from the
