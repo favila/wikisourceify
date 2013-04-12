@@ -94,7 +94,7 @@
     </variable>
     <choose>
         <when test="$wikipage">
-            <text>[[Wikipedia:</text>
+            <text>[[w:</text>
             <value-of select="$wikipage"/>
             <text>|</text>
             <apply-templates/>
