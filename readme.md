@@ -5,7 +5,7 @@ Wikisourceify
 
 Wikisourceify takes CatoXML-enhanced XML (US Congressional bill XML with
 semantic tagging extensions) from the Deepbills Cato project and produces
-hyperlinked Wikitext intended for publication on [Wikisource][wikisource]
+hyperlinked Wikitext intended for publication on [Wikisource][wikisource].
 
 Also contains crosswalks between government entity ID systems and Wikipedia
 pages.
