@@ -7,7 +7,9 @@
 
 <stylesheet version="1.0"
     xmlns="http://www.w3.org/1999/XSL/Transform"
-    xmlns:cato="http://namespaces.cato.org/catoxml">
+    xmlns:cato="http://namespaces.cato.org/catoxml"
+    xmlns:str="http://exslt.org/strings"
+    extension-element-prefixes="str">
 
 <strip-space elements="*"/>
 <!-- <preserve-space elements="text continuation-text quoted-block-continuation-text quote"/> -->
@@ -128,23 +130,37 @@
     </call-template>
 </template>
 
-<!-- 
-<template match="cato:entity-ref[@entity-type='public-law']">
+
+<template match="cato:entity-ref[@entity-type='public-law']
+    | external-xref[@legal-doc='public-law']">
+    <variable name="parts" select="str:tokenize(@value, '/')"/>
+    <variable name="congress" select="$parts[2]"/>
+    <variable name="number" select="$parts[3]"/>
+    <text>[[Public Law </text>
+    <value-of select="concat($congress, '-', $number)"/>
+    <text>|</text>
+    <apply-templates/>
+    <text>]]</text>
 </template>
 
-<template match="external-xref[@legal-doc='public-law']">
+<template match="cato:entity-ref[@entity-type='uscode'][starts-with(@value, 'usc/')]
+    |external-xref[@legal-doc='usc']">
+    <variable name="parts" select="str:tokenize(@value, '/')"/>
+    <variable name="title" select="$parts[2]"/>
+    <variable name="section" select="$parts[3]"/>
+    <text>[http://www.law.cornell.edu/uscode/text/</text>
+    <value-of select="concat($title,'/',$section)"/>
+    <text> </text>
+    <apply-templates/>
+    <text>]</text>
 </template>
+
+<!-- 
 
 <template match="cato:entity-ref[@entity-type='statute-at-large']">
 </template>
 
 <template match="external-xref[@legal-doc='statute-at-large']">
-</template>
-
-<template match="cato:entity-ref[@entity-type='uscode']">
-</template>
-
-<template match="external-xref[@legal-doc='usc']">
 </template>
 
 <template match="external-xref[@legal-doc='usc-chapter']">
