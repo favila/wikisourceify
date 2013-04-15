@@ -24,10 +24,10 @@
 
 <template match="text()">
     <variable name="normalized" select="normalize-space()"/>
-    <!-- TODO: this should have <nowiki> to prevent wiki-interpretation of text nodes -->
-    <!-- However doing this adds a lot of bloat to the output. Is there a smarter way
-         to add <nowiki> conditionally? -->
+    <variable name="wikiescape" select="contains(., '[') or contains(., '{{') or contains('.', &quot;&apos;&apos;&quot;)"/>
+    <if test="$wikiescape">&lt;nowiki></if>
     <copy select="$normalized"/>
+    <if test="$wikiescape">&lt;/nowiki></if>
     <if test="string-length($normalized)=0 and string-length(.)>0">
         <text> </text>
     </if>
