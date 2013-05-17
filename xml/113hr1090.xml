@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1090ih">
+<doc>
+  <docmeta id="113hr1090ih">
     <bill congress="113" type="hr" number="1090" version="ih"/>
-    <revision id="8" commit-time="2013-04-04T20:30:27+00:00" comitter="/users/favila.xml" doc="/docs/113hr1090ih/8.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" dms-id="HC179E82D133540F8B167AA26FC6CA059" public-private="public" bill-type="olc"> 
+    <revision size="10651" annotations="0" id="8" commit-time="2013-04-04T20:30:27+00:00" committer="favila" doc="113hr1090ih/8.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" dms-id="HC179E82D133540F8B167AA26FC6CA059" public-private="public" bill-type="olc"> 
 <metadata>
 <dublinCore>
 <title>113 HR 1090 IH: Elementary Educator STEM Content Coach Act</title>
@@ -38,7 +42,8 @@
 <section id="H5AC2FCD2272945E1ABEFA4E39A91E924">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text> 
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text> 
 <paragraph id="HE5EB6EC909924C58A728CD8781AE66E8">
         <enum>(1)</enum>
         <text>Numerous recent reports by national advisory groups, including the President’s <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1112">Council of Advisors on Science and Technology</cato:entity-ref> (PCAST) and committees of the National Academies, have highlighted the need to raise student achievement in science, technology, engineering, and mathematics (STEM) fields to enable the United States to maintain its competitive edge in the global economy.</text>
@@ -199,7 +204,8 @@
 <paragraph id="HA6E05FB7C3074E3E9591ED3B2FC4A6C8">
         <enum>(1)</enum>
         <header>ESEA definitions</header>
-        <text display-inline="yes-display-inline">The terms <term>community-based organization</term> <term>elementary school</term>, <term>institution of higher education</term> <term>local educational agency</term>, <term>professional development</term>, <term>Secretary</term>, <term>State educational agency</term>, and <term>teacher mentoring</term> have the meanings given those terms in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Elementary and Secondary Education Act of 1965/s:9101">section 9101 of the Elementary and Secondary Education Act of 1965</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801</external-xref>)</cato:entity>.</text>
+        <text display-inline="yes-display-inline">The terms <term>community-based organization</term> <term>elementary school</term>, <term>institution of higher education</term> <term>local educational agency</term>, <term>professional development</term>, <term>Secretary</term>, <term>State educational agency</term>, and <term>teacher mentoring</term> have the meanings given those terms in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Elementary and Secondary Education Act of 1965/s:9101">section 9101 of the Elementary and Secondary Education Act of 1965</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801</external-xref>)</cato:entity>.</text>
       </paragraph> 
 <paragraph id="HC91C233BE6F54B0A97F7ED803FF4188F">
         <enum>(2)</enum>
@@ -258,7 +264,10 @@
 <section id="HEF5928BE98D9497B8894219ADD376CC0">
       <enum>9.</enum>
       <header>Authorization of appropriations</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated to the <cato:entity-ref entity-type="federal-body" entity-id="9100">Secretary of Education</cato:entity-ref> <cato:funds-and-year amount="indefinite" year="2014..2018">such sums as are necessary for fiscal years 2014 through 2018</cato:funds-and-year> <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Elementary Educator STEM Content Coach Act" proposed="true">this Act</cato:entity-ref></cato:property>.</cato:entity> </text>
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated to the <cato:entity-ref entity-type="federal-body" entity-id="9100">Secretary of Education</cato:entity-ref> <cato:funds-and-year amount="indefinite" year="2014..2018">such sums as are necessary for fiscal years 2014 through 2018</cato:funds-and-year> <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Elementary Educator STEM Content Coach Act" proposed="true">this Act</cato:entity-ref>
+          </cato:property>.</cato:entity> </text>
     </section> 
 </legis-body> 
-</bill></doc>
+</bill>
+</doc>

@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr866ih">
+<doc>
+  <docmeta id="113hr866ih">
     <bill congress="113" type="hr" number="866" version="ih"/>
-    <revision id="7" commit-time="2013-03-27T16:10:21+00:00" comitter="/users/favila.xml" doc="/docs/113hr866ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA1BA2A568B9C4A33BE8504D2CE5C2DF1" public-private="public">
+    <revision size="3851" annotations="0" id="7" commit-time="2013-03-27T16:10:21+00:00" committer="favila" doc="113hr866ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA1BA2A568B9C4A33BE8504D2CE5C2DF1" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -111,9 +115,12 @@
       <enum>3.</enum>
       <header>Authorization of
 			 appropriations</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are
-			 authorized to be appropriated <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Universal Prekindergarten and Early Childhood Education Act of 2013" proposed="true">this Act</cato:entity-ref></cato:property> <cato:funds-and-year amount="indefinite" year="2014, 2015, 2016, 2017, 2018, 2019">such sums as are necessary
-			 for fiscal years 2014 through 2019</cato:funds-and-year>.</cato:entity></text>
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are
+			 authorized to be appropriated <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Universal Prekindergarten and Early Childhood Education Act of 2013" proposed="true">this Act</cato:entity-ref>
+          </cato:property> <cato:funds-and-year amount="indefinite" year="2014, 2015, 2016, 2017, 2018, 2019">such sums as are necessary
+			 for fiscal years 2014 through 2019</cato:funds-and-year>.</cato:entity>
+      </text>
 		</section>
     <section id="HF51814075C514FA69B9896ECF3843D7A">
       <enum>4.</enum>
@@ -136,14 +143,16 @@
         <enum>(3)</enum>
         <header>State</header>
         <text display-inline="yes-display-inline">The term <term>State</term> has the meaning
-			 given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Elementary and Secondary Education Act of 1965/s:9101">section 9101 of the Elementary and Secondary Education Act of
+			 given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Elementary and Secondary Education Act of 1965/s:9101">section 9101 of the Elementary and Secondary Education Act of
 			 1965</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/20/7801">20 U.S.C. 7801</cato:entity-ref>)</cato:entity>.</text>
 			</paragraph>
       <paragraph id="H1B53340CEA9347348DF15A646C4D5A6A">
         <enum>(4)</enum>
         <header>Parent</header>
         <text display-inline="yes-display-inline">The term <term>parent</term> has the
-			 meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Elementary and Secondary Education Act of 1965/s:9101">section 9101 of the Elementary and Secondary
+			 meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Elementary and Secondary Education Act of 1965/s:9101">section 9101 of the Elementary and Secondary
 			 Education Act of 1965</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/20/7801">20 U.S.C. 7801</cato:entity-ref>)</cato:entity>.</text>
 			</paragraph>
       <paragraph id="HE4CBE5E3E0334AEF9B0F0CEEF157DD11">
@@ -152,10 +161,12 @@
 			 school</header>
         <text display-inline="yes-display-inline">The term <term>public
 			 school</term> has the meaning given the term <term>elementary school</term> or
-			 <term>secondary school</term> in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Elementary and Secondary Education Act of 1965/s:9101">section 9101 of the Elementary and Secondary
+			 <term>secondary school</term> in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Elementary and Secondary Education Act of 1965/s:9101">section 9101 of the Elementary and Secondary
 			 Education Act of 1965</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/20/7801">20 U.S.C. 7801</cato:entity-ref>)</cato:entity>, except that the term does not include
 			 private schools.</text>
 			</paragraph>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

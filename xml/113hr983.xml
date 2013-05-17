@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr983ih">
+<doc>
+  <docmeta id="113hr983ih">
     <bill congress="113" type="hr" number="983" version="ih"/>
-    <revision id="9" commit-time="2013-04-02T15:13:40+00:00" comitter="/users/favila.xml" doc="/docs/113hr983ih/9.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H199516768DA2473EAB2D0DAC7C87AF5F" public-private="public">
+    <revision size="27239" annotations="0" id="9" commit-time="2013-04-02T15:13:40+00:00" committer="favila" doc="113hr983ih/9.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H199516768DA2473EAB2D0DAC7C87AF5F" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -49,7 +53,8 @@
           <enum>(1)</enum>
           <header>In
 			 general</header>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/2703">Section 2703 of title 18, United States Code</cato:entity-ref>, is
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/2703">Section 2703 of title 18, United States Code</cato:entity-ref>, is
 			 amended—</text>
 					<subparagraph id="H1B4C9792E3D44DCBBFC6384318BA18EC">
             <enum>(A)</enum>
@@ -100,7 +105,8 @@
           <enum>(2)</enum>
           <header>Conforming
 			 amendment</header>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/2703/d">Section 2703(d) of title 18, United States Code</cato:entity-ref>, is
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/2703/d">Section 2703(d) of title 18, United States Code</cato:entity-ref>, is
 			 amended by striking <quote>(b) or</quote>.</text>
 				</paragraph>
       </subsection>
@@ -112,7 +118,8 @@
           <enum>(1)</enum>
           <header>In
 			 general</header>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/2702/a/3">Section 2702(a)(3) of title 18, United States Code</cato:entity-ref>, is
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/2702/a/3">Section 2702(a)(3) of title 18, United States Code</cato:entity-ref>, is
 			 amended—</text>
 					<subparagraph id="HFF29E288D51F4B4297B87C91577F9933">
             <enum>(A)</enum>
@@ -137,7 +144,8 @@
           <enum>(2)</enum>
           <header>Conforming
 			 amendments</header>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/2705">Section 2705 of title 18, United States Code</cato:entity-ref>, is
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/2705">Section 2705 of title 18, United States Code</cato:entity-ref>, is
 			 amended—</text>
 					<subparagraph id="H8153C2F39CA44335B5A85976539B344C">
             <enum>(A)</enum>
@@ -238,7 +246,8 @@
           <enum>(1)</enum>
           <header>In
 			 general</header>
-          <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18">Part 1 of title 18,
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18">Part 1 of title 18,
 			 United States Code</cato:entity-ref>, is amended by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/18/119">chapter 119</cato:entity-ref> the
 			 following:</text>
 					<quoted-block display-inline="no-display-inline" id="HFA26BA68BA6E4FAAAEFA7CDCB06BE8BB" style="USC">
@@ -274,7 +283,8 @@
                   <header>Electronic
 				surveillance</header>
                   <text>The term <term>electronic surveillance</term> has
-				the meaning given that term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:101">section 101 of the Foreign Intelligence
+				the meaning given that term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:101">section 101 of the Foreign Intelligence
 				Surveillance Act of 1978</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/50/1801">50 U.S.C. 1801</cato:entity-ref>)</cato:entity>.</text>
 								</paragraph>
                 <paragraph id="HF6AF5040C9F24C6B8588B42587C17E49">
@@ -403,7 +413,8 @@
 				chapter, it shall not be unlawful for an officer, employee, or agent of the
 				United States in the normal course of the official duty of the officer,
 				employee, or agent to conduct electronic surveillance, as authorized by the
-				<cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978">Foreign Intelligence Surveillance Act of 1978</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/50/1801/etseq">50 U.S.C. 1801 et seq.</cato:entity-ref>)</cato:entity>.</text>
+				<cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978">Foreign Intelligence Surveillance Act of 1978</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/50/1801/etseq">50 U.S.C. 1801 et seq.</cato:entity-ref>)</cato:entity>.</text>
 								</subsection>
                 <subsection id="HA1D024240732414EAB0D66CD63D88B65">
                   <enum>(c)</enum>
@@ -469,7 +480,8 @@
 				by a court of competent jurisdiction using the procedures described in the
 				Federal Rules of Criminal Procedure (or, in the case of a State court, issued
 				using State warrant procedures), or as otherwise provided in this chapter or
-				the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978">Foreign Intelligence Surveillance Act of 1978</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/50/1801/etseq">50 U.S.C. 1801 et
+				the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                        <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978">Foreign Intelligence Surveillance Act of 1978</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/50/1801/etseq">50 U.S.C. 1801 et
 				seq.</cato:entity-ref>)</cato:entity>.</text>
 									</paragraph>
                   <paragraph id="H910C29457C8448E18A6C02BD4FB97EB7">
@@ -632,7 +644,8 @@
                   </paragraph>
                   <paragraph id="H0383DEC05E474249AA9B1CB45EE720BF">
                     <enum>(3)</enum>
-                    <text display-inline="yes-display-inline">as permitted under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Communications Act of 1934/s:222/ss:d/p:4">section 222(d)(4) of the
+                    <text display-inline="yes-display-inline">as permitted under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                        <cato:entity-ref entity-type="act" value="Communications Act of 1934/s:222/ss:d/p:4">section 222(d)(4) of the
 				Communications Act of 1934</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/47/222/d/4">47 U.S.C. 222(d)(4)</cato:entity-ref>)</cato:entity>; or</text>
 									</paragraph>
                   <paragraph id="H95DB7C5B100D4745B09D10C95EE8A837">
@@ -786,7 +799,8 @@
           <enum>(3)</enum>
           <header>Conforming
 			 amendments</header>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/3512/a">Section 3512(a) of title 18, United States Code</cato:entity-ref>, is
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/3512/a">Section 3512(a) of title 18, United States Code</cato:entity-ref>, is
 			 amended—</text>
 					<subparagraph id="HC7C8E927DDA04F8A863F15C56E5CB21A">
             <enum>(A)</enum>
@@ -857,7 +871,8 @@
 			 the geolocation information of a person for protective activities or law
 			 enforcement or intelligence purposes except pursuant to a warrant issued
 			 pursuant to rule 41 of the Federal Rules of Criminal Procedure, as amended by
-			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Online Communications and Geolocation Protection Act/s:3/ss:b" proposed="true">subsection (b)</cato:entity-ref>, or the amendments made by this section, or the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978">Foreign
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Online Communications and Geolocation Protection Act/s:3/ss:b" proposed="true">subsection (b)</cato:entity-ref>, or the amendments made by this section, or the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978">Foreign
 			 Intelligence Surveillance Act of 1978</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/50/1801">50 U.S.C. 1801</cato:entity-ref>)</cato:entity>.</text>
 				</paragraph>
         <paragraph commented="no" display-inline="no-display-inline" id="HE95087DF01C640EDB2050CB22695675A">
@@ -871,4 +886,5 @@
       </subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

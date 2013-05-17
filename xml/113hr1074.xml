@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1074ih">
+<doc>
+  <docmeta id="113hr1074ih">
     <bill congress="113" type="hr" number="1074" version="ih"/>
-    <revision id="9" commit-time="2013-04-03T23:03:51+00:00" comitter="/users/favila.xml" doc="/docs/113hr1074ih/9.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HD7167E64C2414049A0ADAA7FF64DB011" public-private="public">
+    <revision size="13226" annotations="0" id="9" commit-time="2013-04-03T23:03:51+00:00" committer="favila" doc="113hr1074ih/9.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HD7167E64C2414049A0ADAA7FF64DB011" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1074 IH: National Diabetes Clinical Care Commission Act</title>
@@ -49,7 +53,8 @@
     <section id="H0C236F258EED4336919AD633E0A40B8A">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 			<paragraph id="HA3A8CEC22FB741A5998203EF0B0DABD6">
         <enum>(1)</enum>
         <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7523">Centers for
@@ -109,7 +114,9 @@
       <enum>3.</enum>
       <header>Establishment of
 			 the National Diabetes Clinical Care Commission</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Public Health Service Act/t:III/pt:P">Part P of title III of the Public Health
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Public Health Service Act/t:III/pt:P">Part P of title III of the Public Health
 			 Service Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/280g">42 U.S.C. 280g et seq.</external-xref>)</cato:entity> is amended by adding at the end the
 			 following new section:</text>
 			<quoted-block display-inline="no-display-inline" id="H653A82729E2E4278920BF1A038B72B97" style="OLC">
@@ -418,15 +425,19 @@
             <enum>(f)</enum>
             <header>Authorization of
 				appropriations</header>
-            <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">Appropriations
+            <text display-inline="yes-display-inline">
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">Appropriations
 				are authorized to be made available to the <cato:entity-ref entity-type="federal-body" value="National Diabetes Clinical Care Commission" entity-parent-id="7500" proposed="true">Commission</cato:entity-ref> <cato:funds-and-year amount="indefinite" year="2014, 2015, 2016">for each of fiscal years
 				2013, 2014, and 2015</cato:funds-and-year>, <cato:property name="funds-source">from amounts otherwise made available to the <cato:entity-ref entity-type="federal-body" entity-id="7500">Department
 				of Health and Human Services</cato:entity-ref> for such fiscal years</cato:property>, <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Public Health Service Act/s:399V-6" proposed="true">this
-				section</cato:entity-ref></cato:property>.</cato:entity></text>
+				section</cato:entity-ref>
+                </cato:property>.</cato:entity>
+            </text>
 					</subsection>
         </section>
         <after-quoted-block>.</after-quoted-block>
       </quoted-block>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1235ih">
+<doc>
+  <docmeta id="113hr1235ih">
     <bill congress="113" type="hr" number="1235" version="ih"/>
-    <revision id="7" commit-time="2013-04-05T16:11:43+00:00" comitter="/users/favila.xml" doc="/docs/113hr1235ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H24F40E6A24C84C01932BAA0D7FC0061B" public-private="public">
+    <revision size="2887" annotations="0" id="7" commit-time="2013-04-05T16:11:43+00:00" committer="favila" doc="113hr1235ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H24F40E6A24C84C01932BAA0D7FC0061B" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1235 IH: Leave our Lakes Alone Act</title>
@@ -52,7 +56,9 @@
       <header>State
 			 determination to exempt projects from certain FERC considerations in
 			 licensing</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Federal Power Act/s:4">Section 4 of the
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Federal Power Act/s:4">Section 4 of the
 			 Federal Power Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/16/797">16 U.S.C. 797</external-xref>)</cato:entity> is amended by adding at the end the following
 			 new subsection:</text>
 			<quoted-block display-inline="no-display-inline" id="H5556BE2602304B4E8AF3F7840625B2A5" style="OLC">
@@ -96,7 +102,8 @@
 					</paragraph>
           <paragraph id="HA9F684927E8E42AEBE78F503A8FCABBA" indent="up1">
             <enum>(4)</enum>
-            <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:4/ss:h/p:2" proposed="true">Paragraph (2)</cato:entity-ref> shall not apply to any
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:4/ss:h/p:2" proposed="true">Paragraph (2)</cato:entity-ref> shall not apply to any
 				project or portion of a project on Federal
 				land.</text>
 					</paragraph>
@@ -105,4 +112,5 @@
       </quoted-block>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

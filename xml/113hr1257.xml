@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1257ih">
+<doc>
+  <docmeta id="113hr1257ih">
     <bill congress="113" type="hr" number="1257" version="ih"/>
-    <revision id="7" commit-time="2013-04-05T19:20:35+00:00" comitter="/users/favila.xml" doc="/docs/113hr1257ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HE85E4CF496B544D8965B7B7F74057A4E" public-private="public">
+    <revision size="5333" annotations="0" id="7" commit-time="2013-04-05T19:20:35+00:00" committer="favila" doc="113hr1257ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HE85E4CF496B544D8965B7B7F74057A4E" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1257 IH: Preventing Diabetes in Medicare Act of 2013</title>
@@ -51,7 +55,8 @@
     <section id="H17C361DD71454D7E984E4E55B1F0B0EC">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 			<paragraph id="HFD7F515272504E0CB59376E0CFD710AF">
         <enum>(1)</enum>
         <text>According to the
@@ -126,7 +131,9 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1861">Section 1861 of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x</external-xref>)</cato:entity>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1861">Section 1861 of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">42 U.S.C. 1395x</external-xref>)</cato:entity>
 			 is amended—</text>
 				<paragraph id="H1BA2C89076434D32800F0BA17ABE0C3F">
           <enum>(1)</enum>
@@ -174,4 +181,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

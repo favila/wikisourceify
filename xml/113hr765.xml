@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr765ih">
+<doc>
+  <docmeta id="113hr765ih">
     <bill congress="113" type="hr" number="765" version="ih"/>
-    <revision id="5" commit-time="2013-03-24T18:06:55+00:00" comitter="/users/favila.xml" doc="/docs/113hr765ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" dms-id="H0DCABBE98E6940FDA50EE0542E699931" public-private="public" bill-type="olc"> 
+    <revision size="13478" annotations="0" id="5" commit-time="2013-03-24T18:06:55+00:00" committer="favila" doc="113hr765ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" dms-id="H0DCABBE98E6940FDA50EE0542E699931" public-private="public" bill-type="olc"> 
 <form> 
 <distribution-code display="yes">I</distribution-code> 
 <congress>113th CONGRESS</congress>
@@ -77,11 +81,14 @@
           <text>The term <term>water system</term> means—</text>
 <subparagraph id="H60C4A6868BB6441B8887BD805CA0E76B">
             <enum>(A)</enum>
-            <text>a community water system (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Safe Drinking Water Act/s:1401">section 1401 of the Safe Drinking Water Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/300f">42 U.S.C. 300f</cato:entity-ref>)</cato:entity>);</text>
+            <text>a community water system (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Safe Drinking Water Act/s:1401">section 1401 of the Safe Drinking Water Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/300f">42 U.S.C. 300f</cato:entity-ref>)</cato:entity>);</text>
           </subparagraph>
 <subparagraph id="HAA23FA41D9224050B71E529E5280FE26">
             <enum>(B)</enum>
-            <text>a treatment works (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/s:212">section 212 of the Federal Water Pollution Control Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/33/1292">33 U.S.C. 1292</cato:entity-ref>)</cato:entity>), including a municipal separate storm sewer system (as such term is used in the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act">Federal Water Pollution Control Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/33/1251/etseq">33 U.S.C. 1251 et seq.</cato:entity-ref>)</cato:entity>);</text>
+            <text>a treatment works (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/s:212">section 212 of the Federal Water Pollution Control Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/33/1292">33 U.S.C. 1292</cato:entity-ref>)</cato:entity>), including a municipal separate storm sewer system (as such term is used in the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act">Federal Water Pollution Control Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/33/1251/etseq">33 U.S.C. 1251 et seq.</cato:entity-ref>)</cato:entity>);</text>
           </subparagraph>
 <subparagraph id="H07469BB6E7184B2AAA22240C5CDEC101">
             <enum>(C)</enum>
@@ -291,7 +298,11 @@
 <paragraph id="HACF5C8E9EFAD4644BDD9066CECC51571">
           <enum>(1)</enum>
           <header>In general</header>
-          <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp"><cato:property name="purpose">To carry out <cato:entity-ref entity-type="act" value="Water Infrastructure Resiliency and Sustainability Act of 2013/s:2" proposed="true">this section</cato:entity-ref></cato:property>, there is authorized to be appropriated <cato:funds-and-year amount="50000000" year="2014, 2015, 2016, 2017, 2018">$50,000,000 for each of fiscal years 2014 through 2018</cato:funds-and-year>.</cato:entity></text>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+              <cato:property name="purpose">To carry out <cato:entity-ref entity-type="act" value="Water Infrastructure Resiliency and Sustainability Act of 2013/s:2" proposed="true">this section</cato:entity-ref>
+              </cato:property>, there is authorized to be appropriated <cato:funds-and-year amount="50000000" year="2014, 2015, 2016, 2017, 2018">$50,000,000 for each of fiscal years 2014 through 2018</cato:funds-and-year>.</cato:entity>
+          </text>
         </paragraph>
 <paragraph id="H70355577A50E4C628C38A2FA40DB0B8D">
           <enum>(2)</enum>
@@ -301,4 +312,5 @@
       </subsection>
     </section> 
 </legis-body> 
-</bill></doc>
+</bill>
+</doc>

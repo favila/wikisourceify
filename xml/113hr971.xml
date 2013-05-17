@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr971ih">
+<doc>
+  <docmeta id="113hr971ih">
     <bill congress="113" type="hr" number="971" version="ih"/>
-    <revision id="5" commit-time="2013-04-01T20:11:22+00:00" comitter="/users/favila.xml" doc="/docs/113hr971ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H42C77017470446FBB81AC8143AB3AE97" public-private="public">
+    <revision size="1850" annotations="0" id="5" commit-time="2013-04-01T20:11:22+00:00" committer="favila" doc="113hr971ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H42C77017470446FBB81AC8143AB3AE97" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -39,7 +43,9 @@
 			<subsection id="HB78F64D99B7448D8B0B7AF7FCCE820E3">
         <enum>(a)</enum>
         <header>Prohibition</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Housing and Community Development Act of 1974/s:105">Section 105 of the Housing and Community
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Housing and Community Development Act of 1974/s:105">Section 105 of the Housing and Community
 			 Development Act of 1974</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/5305">42 U.S.C. 5305</cato:entity-ref>)</cato:entity> is amended by adding at the end the
 			 following new subsection:</text>
 				<quoted-block display-inline="no-display-inline" id="HBCBA5F15ACB14623A93C5385F4B7B981" style="OLC">
@@ -71,4 +77,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

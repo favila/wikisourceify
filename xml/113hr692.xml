@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr692ih">
+<doc>
+  <docmeta id="113hr692ih">
     <bill congress="113" type="hr" number="692" version="ih"/>
-    <revision id="8" commit-time="2013-04-03T19:42:50+00:00" comitter="/users/favila.xml" doc="/docs/113hr692ih/8.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB83A0841D6B848EB8C9F1EC23E078694" public-private="public">
+    <revision size="2385" annotations="0" id="8" commit-time="2013-04-03T19:42:50+00:00" committer="favila" doc="113hr692ih/8.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB83A0841D6B848EB8C9F1EC23E078694" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -70,17 +74,20 @@
 			 following:</text>
 				<paragraph id="H75390714471049D28734FEFE950871DD">
           <enum>(1)</enum>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7012">U.S. Immigration
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7012">U.S. Immigration
 			 and Customs Enforcement</cato:entity-ref>.</text>
 				</paragraph>
         <paragraph id="HC8F951EC74034833A7D89333EDDC113B">
           <enum>(2)</enum>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7014">U.S. Customs and
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7014">U.S. Customs and
 			 Border Protection</cato:entity-ref>.</text>
 				</paragraph>
         <paragraph id="H7686BA43C13149B988ED5509D237402C">
           <enum>(3)</enum>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7003">U.S. Citizenship
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7003">U.S. Citizenship
 			 and Immigration Services</cato:entity-ref>.</text>
 				</paragraph>
       </subsection>
@@ -94,4 +101,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

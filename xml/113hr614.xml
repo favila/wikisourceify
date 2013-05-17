@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr614ih">
+<doc>
+  <docmeta id="113hr614ih">
     <bill congress="113" type="hr" number="614" version="ih"/>
-    <revision id="15" commit-time="2013-03-25T19:47:33+00:00" comitter="/users/favila.xml" doc="/docs/113hr614ih/15.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2BFE8C02D3AF4745BFC2ED99BB22B92C" public-private="public">
+    <revision size="11484" annotations="0" id="15" commit-time="2013-03-25T19:47:33+00:00" committer="favila" doc="113hr614ih/15.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2BFE8C02D3AF4745BFC2ED99BB22B92C" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -42,7 +46,8 @@
     <section id="H06FC4B929CAB45FC991958F0F04F9A11">
       <enum>3.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 			<paragraph id="H802D2372F1AB44F98EA72205F9D99A14">
         <enum>(1)</enum>
         <text>The Federal
@@ -382,8 +387,10 @@
 			 Appropriations</header>
       <text display-inline="no-display-inline">
         <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is
-			 authorized to be appropriated <cato:funds-and-year amount="2500000">$2,500,000</cato:funds-and-year> <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="American Discoveries and American Jobs Commission of 2013" proposed="true">this Act</cato:entity-ref></cato:property>.</cato:entity>
+			 authorized to be appropriated <cato:funds-and-year amount="2500000">$2,500,000</cato:funds-and-year> <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="American Discoveries and American Jobs Commission of 2013" proposed="true">this Act</cato:entity-ref>
+          </cato:property>.</cato:entity>
       </text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

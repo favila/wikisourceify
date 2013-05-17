@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr781ih">
+<doc>
+  <docmeta id="113hr781ih">
     <bill congress="113" type="hr" number="781" version="ih"/>
-    <revision id="8" commit-time="2013-03-25T02:25:43+00:00" comitter="/users/favila.xml" doc="/docs/113hr781ih/8.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H518DE532FF5B48B8A02F4F00F5B965CE" public-private="public">
+    <revision size="4042" annotations="0" id="8" commit-time="2013-03-25T02:25:43+00:00" committer="favila" doc="113hr781ih/8.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H518DE532FF5B48B8A02F4F00F5B965CE" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -41,7 +45,9 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:205/ss:c/p:2/sp:C">Section 205(c)(2)(C) of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/405/c/2/C">42
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:205/ss:c/p:2/sp:C">Section 205(c)(2)(C) of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/405/c/2/C">42
 			 U.S.C. 405(c)(2)(C)</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="H53D35DDDC12543A4A80937C7071AD958">
           <enum>(1)</enum>
@@ -79,7 +85,8 @@
       <subsection id="HC516550ADF164D6881E792F3D57CAB84">
         <enum>(b)</enum>
         <header>Implementation</header>
-        <text display-inline="yes-display-inline">In implementing <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:205/ss:c/p:2/sp:C/cl:xiii">clause (xiii) of section
+        <text display-inline="yes-display-inline">In implementing <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:205/ss:c/p:2/sp:C/cl:xiii">clause (xiii) of section
 			 205(c)(2)(C) of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/405/c/2/C">42 U.S.C. 405(c)(2)(C)</cato:entity-ref>)</cato:entity>, as added by
 			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Medicare Identity Theft Prevention Act of 2013/s:2/ss:a/p:3" proposed="true">subsection (a)(3)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary of Health and Human Services</cato:entity-ref> shall establish a
 			 cost-effective process that involves the least amount of disruption to Medicare
@@ -99,7 +106,9 @@
           <enum>(1)</enum>
           <header>In
 			 general</header>
-          <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:205/ss:c/p:2/sp:C/cl:xiii">Clause (xiii) of
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Social Security Act/s:205/ss:c/p:2/sp:C/cl:xiii">Clause (xiii) of
 			 section 205(c)(2)(C) of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/405/c/2/C">42 U.S.C. 405(c)(2)(C)</cato:entity-ref>)</cato:entity>, as
 			 added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Medicare Identity Theft Prevention Act of 2013/s:2/ss:a/p:3" proposed="true">subsection (a)(3)</cato:entity-ref>, shall apply with respect to Medicare cards issued
 			 on and after an effective date specified by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary of Health and Human
@@ -129,4 +138,5 @@
       </subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

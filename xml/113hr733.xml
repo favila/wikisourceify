@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr733ih">
+<doc>
+  <docmeta id="113hr733ih">
     <bill congress="113" type="hr" number="733" version="ih"/>
-    <revision id="7" commit-time="2013-03-22T18:03:28+00:00" comitter="/users/favila.xml" doc="/docs/113hr733ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H4F88671B345C4304A44C1934031811DB" public-private="public">
+    <revision size="4474" annotations="0" id="7" commit-time="2013-03-22T18:03:28+00:00" committer="favila" doc="113hr733ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H4F88671B345C4304A44C1934031811DB" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -41,7 +45,8 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/38/59">Chapter 59 of title
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/38/59">Chapter 59 of title
 			 38, United States Code</cato:entity-ref>, is amended by adding at the end the following:</text>
 				<quoted-block display-inline="no-display-inline" id="H80D2E8F798D646179B791C5EDE088106" style="USC">
 					<section id="H3844E0776BD74EC0A7607942D1B3EBCA">
@@ -111,7 +116,8 @@
               <paragraph id="H231D66B76E564B639966E0890CE882BB">
                 <enum>(2)</enum>
                 <text display-inline="yes-display-inline">a permitted disclosure under regulations
-				promulgated under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Health Insurance Portability and Accountability Act of 1996/s:264/ss:c">section 264(c) of the Health Insurance Portability and
+				promulgated under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Health Insurance Portability and Accountability Act of 1996/s:264/ss:c">section 264(c) of the Health Insurance Portability and
 				Accountability Act of 1996</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1320d–2/note">42 U.S.C. 1320d–2 note</cato:entity-ref>)</cato:entity>.</text>
 							</paragraph>
             </subsection>
@@ -166,4 +172,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

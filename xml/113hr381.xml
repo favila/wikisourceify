@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr381ih">
+<doc>
+  <docmeta id="113hr381ih">
     <bill congress="113" type="hr" number="381" version="ih"/>
-    <revision id="4" commit-time="2013-03-11T19:56:41+00:00" comitter="/users/favila.xml" doc="/docs/113hr381ih/4.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H960B63E6DE56483FB88C34879ABCDE89" public-private="public">
+    <revision size="4521" annotations="0" id="4" commit-time="2013-03-11T19:56:41+00:00" committer="favila" doc="113hr381ih/4.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H960B63E6DE56483FB88C34879ABCDE89" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -35,7 +39,8 @@
     <section id="H9FC250D83F854D49BB0258470165F696">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 			<paragraph id="HD0DEF69DE05844569D02F1C9D8A06CB4">
         <enum>(1)</enum>
         <text display-inline="yes-display-inline">The bedrock of the Nation’s economic
@@ -93,7 +98,9 @@
       <enum>3.</enum>
       <header>Amendment to the
 			 Congressional Budget Act of 1974</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Congressional Budget Act of 1974/s:402">Section 402 of the Congressional Budget Act
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Congressional Budget Act of 1974/s:402">Section 402 of the Congressional Budget Act
 			 of 1974</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/2/653">2 U.S.C. 653</cato:entity-ref>)</cato:entity> is amended by inserting <quote>(a)</quote> after
 			 <quote>
           <header-in-text level="section" style="OLC">Sec.
@@ -152,4 +159,5 @@
       </quoted-block>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

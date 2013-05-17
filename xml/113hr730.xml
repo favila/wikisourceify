@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr730ih">
+<doc>
+  <docmeta id="113hr730ih">
     <bill congress="113" type="hr" number="730" version="ih"/>
-    <revision id="6" commit-time="2013-03-22T17:48:30+00:00" comitter="/users/favila.xml" doc="/docs/113hr730ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H1C1B8F7C8B014F6789280005DF694008" public-private="public">
+    <revision size="2926" annotations="0" id="6" commit-time="2013-03-22T17:48:30+00:00" committer="favila" doc="113hr730ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H1C1B8F7C8B014F6789280005DF694008" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -49,7 +53,9 @@
       <enum>2.</enum>
       <header>Urban rodent
 			 control defined</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Rural Development, Agriculture, and Related Agencies Appropriations Act, 1988/t:I">Title I of the
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Rural Development, Agriculture, and Related Agencies Appropriations Act, 1988/t:I">Title I of the
 			 Rural Development, Agriculture, and Related Agencies Appropriations Act, 1988</cato:entity-ref>
 			 (<cato:entity-ref entity-type="public-law" value="public-law/100/202">Public Law 100–202</cato:entity-ref>; <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/101/1329">101 Stat. 1329–331</cato:entity-ref>)</cato:entity> is amended in the last proviso under
 			 the heading <quote>
@@ -59,7 +65,8 @@
 			 Damage Control activities</quote> at the end and inserting <quote>Animal Damage
 			 Control activities, and the term <quote>urban rodent control</quote> means
 			 efforts to directly control any mammal in the order Rodentia in a location that
-			 is not an airport or in a rural area (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Housing Act of 1949/s:520">section 520 of the Housing
+			 is not an airport or in a rural area (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Housing Act of 1949/s:520">section 520 of the Housing
 			 Act of 1949</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1490">42 U.S.C. 1490</cato:entity-ref>)</cato:entity>)</quote>.</text>
 		</section>
     <section id="H48D34CD93F41489C811150CD2E63D640">
@@ -102,4 +109,5 @@
 			</paragraph>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

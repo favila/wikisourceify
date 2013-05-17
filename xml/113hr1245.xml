@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1245ih">
+<doc>
+  <docmeta id="113hr1245ih">
     <bill congress="113" type="hr" number="1245" version="ih"/>
-    <revision id="8" commit-time="2013-04-05T16:52:17+00:00" comitter="/users/favila.xml" doc="/docs/113hr1245ih/8.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HFE7A2275C94446F58972A7D0C1D826F4" public-private="public">
+    <revision size="4343" annotations="0" id="8" commit-time="2013-04-05T16:52:17+00:00" committer="favila" doc="113hr1245ih/8.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HFE7A2275C94446F58972A7D0C1D826F4" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1245 IH: Flight School Security Act of 2013</title>
@@ -55,7 +59,8 @@
         <header>In
 			 general</header>
         <text>
-          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/44939"><external-xref legal-doc="usc" parsable-cite="usc/49/44939">Section 44939</external-xref> of title 49, United States Code</cato:entity-ref>, is
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/44939">
+            <external-xref legal-doc="usc" parsable-cite="usc/49/44939">Section 44939</external-xref> of title 49, United States Code</cato:entity-ref>, is
 			 amended—</text>
 				<paragraph id="H53469DCBDEB0495C8046B47281F44B33">
           <enum>(1)</enum>
@@ -158,10 +163,15 @@
         <enum>(b)</enum>
         <header>Conforming
 			 amendment</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/44949/a/2/B">Subparagraph (B) of paragraph (2) of subsection (a) of
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/44949/a/2/B">Subparagraph (B) of paragraph (2) of subsection (a) of
 			 section 44949</cato:entity-ref>, as redesignated by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/44939/a">subsection (a)</cato:entity-ref>, is amended by striking
-			 <quote><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/44939/a/1">paragraph (1)</cato:entity-ref></quote> and inserting <quote><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/44939/a/2/A">subparagraph
-			 (A)</cato:entity-ref></quote>.</text>
+			 <quote>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/44939/a/1">paragraph (1)</cato:entity-ref>
+          </quote> and inserting <quote>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/44939/a/2/A">subparagraph
+			 (A)</cato:entity-ref>
+          </quote>.</text>
 			</subsection>
       <subsection id="H4B032BAEE7CD480FA4A5A3F1B6114FD6">
         <enum>(c)</enum>
@@ -173,4 +183,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

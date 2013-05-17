@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1205ih">
+<doc>
+  <docmeta id="113hr1205ih">
     <bill congress="113" type="hr" number="1205" version="ih"/>
-    <revision id="7" commit-time="2013-04-04T23:01:49+00:00" comitter="/users/favila.xml" doc="/docs/113hr1205ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC7ED23AC53E74E7C85824FC50082CB1E" public-private="public">
+    <revision size="7599" annotations="0" id="7" commit-time="2013-04-04T23:01:49+00:00" committer="favila" doc="113hr1205ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC7ED23AC53E74E7C85824FC50082CB1E" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1205 IH: Patients Right to Know Act of 2013</title>
@@ -51,7 +55,9 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Public Health Service Act/s:2715">Section 2715 of the
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Public Health Service Act/s:2715">Section 2715 of the
 			 Public Health Service Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/300gg-15">42 U.S.C. 300gg–15</external-xref>)</cato:entity> is amended by adding at the end
 			 the following new subsection:</text>
 				<quoted-block display-inline="no-display-inline" id="HB9C7E7BAAFCC4D6694D17C8F369D0770" style="OLC">
@@ -105,8 +111,10 @@
                 <header>Fee on health
 				insurance providers</header>
                 <text display-inline="yes-display-inline">The
-				annual fee on health insurance providers under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:9010">section 9010 of the Patient
-				Protection and Affordable Care Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/26/4001/note"><external-xref legal-doc="usc" parsable-cite="usc/26/4001">26 U.S.C. 4001</external-xref> note</cato:entity-ref>)</cato:entity>.</text>
+				annual fee on health insurance providers under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:9010">section 9010 of the Patient
+				Protection and Affordable Care Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/26/4001/note">
+                      <external-xref legal-doc="usc" parsable-cite="usc/26/4001">26 U.S.C. 4001</external-xref> note</cato:entity-ref>)</cato:entity>.</text>
 							</subparagraph>
               <subparagraph id="HBDBB5544D5434FD2823FAA7370871B35">
                 <enum>(B)</enum>
@@ -121,15 +129,19 @@
                 <header>Reinsurance
 				contributions</header>
                 <text display-inline="yes-display-inline">Reinsurance
-				contributions required under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:1341/ss:b">section 1341(b) of the Patient Protection and
-				Affordable Care Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/18061"><cato:entity-ref entity-type="uscode" value="usc/42/18061/b">42 U.S.C. 18061(b)</cato:entity-ref></external-xref>)</cato:entity>.</text>
+				contributions required under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:1341/ss:b">section 1341(b) of the Patient Protection and
+				Affordable Care Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/18061">
+                      <cato:entity-ref entity-type="uscode" value="usc/42/18061/b">42 U.S.C. 18061(b)</cato:entity-ref>
+                    </external-xref>)</cato:entity>.</text>
 							</subparagraph>
               <subparagraph id="H47621AB919B6400F8DBF26429FAB7012">
                 <enum>(D)</enum>
                 <header>Proposed health
 				insurance exchange user fee</header>
                 <text>Fees imposed on health plans relating
-				to participation in an Exchange under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/t:I/st:D">subtitle D of title I of the Patient
+				to participation in an Exchange under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/t:I/st:D">subtitle D of title I of the Patient
 				Protection and Affordable Care Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/18021">42 U.S.C. 18021 et seq.</external-xref>)</cato:entity>.</text>
 							</subparagraph>
               <subparagraph id="H7A1A46FF1BE14EC28F1C47CA10FF6364">
@@ -137,16 +149,22 @@
                 <header>Risk corridor
 				payments</header>
                 <text display-inline="yes-display-inline">Risk corridor
-				payments required under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:1342/ss:b/p:2">section 1342(b)(2) of the Patient Protection and
-				Affordable Care Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/18062"><cato:entity-ref entity-type="uscode" value="usc/42/18062/b/2">42 U.S.C. 18062(b)(2)</cato:entity-ref></external-xref>)</cato:entity>.</text>
+				payments required under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:1342/ss:b/p:2">section 1342(b)(2) of the Patient Protection and
+				Affordable Care Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/18062">
+                      <cato:entity-ref entity-type="uscode" value="usc/42/18062/b/2">42 U.S.C. 18062(b)(2)</cato:entity-ref>
+                    </external-xref>)</cato:entity>.</text>
 							</subparagraph>
               <subparagraph id="H5160DFAB13494E27B4D1F6E3DD636951">
                 <enum>(F)</enum>
                 <header>Risk adjustment
 				charges</header>
                 <text display-inline="yes-display-inline">Risk adjustment
-				charges imposed under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:1343/ss:a/p:1">section 1343(a)(1) of the Patient Protection and
-				Affordable Care Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/18063"><cato:entity-ref entity-type="uscode" value="usc/42/18063/a/1">42 U.S.C. 18063(a)(1)</cato:entity-ref></external-xref>)</cato:entity>.</text>
+				charges imposed under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:1343/ss:a/p:1">section 1343(a)(1) of the Patient Protection and
+				Affordable Care Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/18063">
+                      <cato:entity-ref entity-type="uscode" value="usc/42/18063/a/1">42 U.S.C. 18063(a)(1)</cato:entity-ref>
+                    </external-xref>)</cato:entity>.</text>
 							</subparagraph>
               <continuation-text continuation-text-level="paragraph">In the
 				case of health insurance coverage, such costs may be calculated separately for
@@ -191,8 +209,11 @@
 				essential health benefits coverage</header>
                   <text>The requirement that coverage
 				provide for at least 60 percent of the actuarial value of essential health
-				benefits under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:1302/ss:d">section 1302(d) of the Patient Protection and Affordable Care
-				Act</cato:entity-ref>. (<external-xref legal-doc="usc" parsable-cite="usc/42/18022"><cato:entity-ref entity-type="uscode" value="usc/42/18022/d">42 U.S.C. 18022(d)</cato:entity-ref></external-xref>)</cato:entity>.</text>
+				benefits under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:1302/ss:d">section 1302(d) of the Patient Protection and Affordable Care
+				Act</cato:entity-ref>. (<external-xref legal-doc="usc" parsable-cite="usc/42/18022">
+                        <cato:entity-ref entity-type="uscode" value="usc/42/18022/d">42 U.S.C. 18022(d)</cato:entity-ref>
+                      </external-xref>)</cato:entity>.</text>
 								</clause>
               </subparagraph>
               <subparagraph id="H51B11887B7B34C159D702E199737EA6B">
@@ -235,4 +256,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

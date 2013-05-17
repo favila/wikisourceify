@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr967ih">
+<doc>
+  <docmeta id="113hr967ih">
     <bill congress="113" type="hr" number="967" version="ih"/>
-    <revision id="19" commit-time="2013-04-02T15:54:03+00:00" comitter="/users/favila.xml" doc="/docs/113hr967ih/19.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9EF94E4DCC3C4537AFA248A2B46F53C5" public-private="public">
+    <revision size="35526" annotations="0" id="19" commit-time="2013-04-02T15:54:03+00:00" committer="favila" doc="113hr967ih/19.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9EF94E4DCC3C4537AFA248A2B46F53C5" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -43,7 +47,9 @@
         <enum>(a)</enum>
         <header>Periodic
 			 reviews</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:101">Section 101 of the High-Performance Computing Act of 1991</cato:entity-ref>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:101">Section 101 of the High-Performance Computing Act of 1991</cato:entity-ref>
 			 (<cato:entity-ref entity-type="uscode" value="usc/15/5511">15 U.S.C. 5511</cato:entity-ref>)</cato:entity> is amended by adding at the end the following new
 			 subsection:</text>
 				<quoted-block display-inline="no-display-inline" id="H303B029EC2C743DD99D9AB7485190D89" style="OLC">
@@ -75,7 +81,9 @@
         <enum>(b)</enum>
         <header>Development of
 			 strategic plan</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:101">Section 101 of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5511">15 U.S.C. 5511</cato:entity-ref>)</cato:entity> is
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:101">Section 101 of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5511">15 U.S.C. 5511</cato:entity-ref>)</cato:entity> is
 			 amended further by adding after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="High-Performance Computing Act of 1991/s:101/ss:d">subsection (d)</cato:entity-ref>, as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Advancing America’s Networking and Information Technology Research and Development Act of 2013/s:2/ss:a" proposed="true">subsection (a) of
 			 this Act</cato:entity-ref>, the following new subsection:</text>
 				<quoted-block id="H1C18EA7D965A41F08C5B8C7A3DC3358B" style="OLC">
@@ -91,8 +99,10 @@
 				through the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="National Science and Technology Council" entity-parent-id="1100">National Science and Technology Council</cato:entity-ref> and with the assistance of
 				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Networking and Information Technology Research and Development">National Coordination Office</cato:entity-ref> described under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="High-Performance Computing Act of 1991/s:102">section 102</cato:entity-ref>, shall develop,
 				within 12 months after the date of enactment of the
-				<short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Advancing America’s Networking and Information Technology Research and Development Act of 2013" proposed="true">Advancing America’s Networking and
-				Information Technology Research and Development Act of 2013</cato:entity-ref></short-title>, and
+				<short-title>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Advancing America’s Networking and Information Technology Research and Development Act of 2013" proposed="true">Advancing America’s Networking and
+				Information Technology Research and Development Act of 2013</cato:entity-ref>
+                </short-title>, and
 				update every 3 years thereafter, a 5-year strategic plan to guide the
 				activities described under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="High-Performance Computing Act of 1991/s:101/ss:a/p:1">subsection (a)(1)</cato:entity-ref>.</text>
 						</paragraph>
@@ -119,7 +129,8 @@
 				interdisciplinary research and development in networking and information
 				technology, including through collaborations across agencies, across Program
 				Component Areas, with industry, with Federal laboratories (as defined in
-				<cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Stevenson-Wydler Technology Innovation Act of 1980/s:4">section 4 of the Stevenson-Wydler Technology Innovation Act of 1980</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/3703">15 U.S.C.
+				<cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Stevenson-Wydler Technology Innovation Act of 1980/s:4">section 4 of the Stevenson-Wydler Technology Innovation Act of 1980</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/3703">15 U.S.C.
 				3703</cato:entity-ref>)</cato:entity>), and with international organizations;</text>
 							</subparagraph>
               <subparagraph id="H57D65E16DC86428BA3749166D1C398AE">
@@ -193,7 +204,9 @@
         <enum>(c)</enum>
         <header>Additional
 			 responsibilities of director</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:101/ss:a/p:2">Section 101(a)(2) of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5511/a/2">15
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:101/ss:a/p:2">Section 101(a)(2) of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5511/a/2">15
 			 U.S.C. 5511(a)(2)</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="H65F0352265BC4511B2D4CF5DA8C4269A">
           <enum>(1)</enum>
@@ -229,7 +242,9 @@
         <enum>(d)</enum>
         <header>Advisory
 			 committee</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:101/ss:b/p:1">Section 101(b)(1) of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5511/b/1">15 U.S.C. 5511(b)(1)</cato:entity-ref>)</cato:entity> is
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:101/ss:b/p:1">Section 101(b)(1) of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5511/b/1">15 U.S.C. 5511(b)(1)</cato:entity-ref>)</cato:entity> is
 			 amended—</text>
 				<paragraph id="H8150607003074350B25DB0C462991032">
           <enum>(1)</enum>
@@ -248,7 +263,9 @@
       <subsection id="H6B951D88D625412989C5624E96D885B6">
         <enum>(e)</enum>
         <header>Report</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:101/ss:a/p:3">Section
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:101/ss:a/p:3">Section
 			 101(a)(3) of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5511/a/3">15 U.S.C. 5511(a)(3)</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="HA025F19A47C648CBB7E7DCE460D16AC6">
           <enum>(1)</enum>
@@ -336,7 +353,9 @@
       <subsection id="H8B5C62C7195347B1A8A2B88C52A284CD">
         <enum>(f)</enum>
         <header>Definition</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:4">Section
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:4">Section
 			 4 of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5503">15 U.S.C. 5503</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="H4BC456A7B45E4B04AD74166554991C92">
           <enum>(1)</enum>
@@ -403,7 +422,9 @@
       <enum>3.</enum>
       <header>Large-scale
 			 research in areas of national importance</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/t:I">Title I of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5511">15 U.S.C. 5511</cato:entity-ref>)</cato:entity> is
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/t:I">Title I of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5511">15 U.S.C. 5511</cato:entity-ref>)</cato:entity> is
 			 amended by adding at the end the following new section:</text>
 			<quoted-block display-inline="no-display-inline" id="H1FAF57E0DC62452CB529A950937C70E6" style="OLC">
 				<section id="H57000B70E2EA44DB9CD482BBE720141E">
@@ -489,7 +510,8 @@
 				organized to investigate basic research questions and carry out technology
 				demonstration activities in areas described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="High-Performance Computing Act of 1991/s:104/ss:a" proposed="true">subsection (a)</cato:entity-ref>. Research may be
 				carried out through existing interdisciplinary centers, including those
-				authorized under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="America COMPETES Act/s:7024/ss:b/p:2">section 7024(b)(2) of the America COMPETES Act</cato:entity-ref> (<cato:entity-ref entity-type="public-law" value="public-law/110/69">Public Law
+				authorized under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="America COMPETES Act/s:7024/ss:b/p:2">section 7024(b)(2) of the America COMPETES Act</cato:entity-ref> (<cato:entity-ref entity-type="public-law" value="public-law/110/69">Public Law
 				110–69</cato:entity-ref>; <cato:entity-ref entity-type="uscode" value="usc/42/1862o–10">42 U.S.C.
 				1862o–10</cato:entity-ref>)</cato:entity>.</text>
 						</paragraph>
@@ -506,7 +528,9 @@
         <enum>(a)</enum>
         <header>Additional
 			 Program characteristics</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:101/ss:a/p:1">Section 101(a)(1) of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5511/a/1">15 U.S.C.
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:101/ss:a/p:1">Section 101(a)(1) of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5511/a/1">15 U.S.C.
 			 5511(a)(1)</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="HCF33D4E07D744939AB4EE409B4299C51">
           <enum>(1)</enum>
@@ -544,7 +568,9 @@
         <enum>(b)</enum>
         <header>Task
 			 force</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/t:I">Title I of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5511">15
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/t:I">Title I of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5511">15
 			 U.S.C. 5511</cato:entity-ref>)</cato:entity> is amended further by adding after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="High-Performance Computing Act of 1991/s:104">section 104</cato:entity-ref>, as added by
 			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="High-Performance Computing Act of 1991/s:3">section 3 of this Act</cato:entity-ref>, the following new section:</text>
 				<quoted-block display-inline="no-display-inline" id="HCC863416F11B4D3085BBC34756D537BB" style="OLC">
@@ -556,9 +582,11 @@
               <enum>(a)</enum>
               <header>Establishment</header>
               <text display-inline="yes-display-inline">Not later than 180 days after the date of
-				enactment of the <short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Advancing America’s Networking and Information Technology Research and Development Act of 2013" proposed="true">Advancing America’s
+				enactment of the <short-title>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Advancing America’s Networking and Information Technology Research and Development Act of 2013" proposed="true">Advancing America’s
 				Networking and Information Technology Research and Development Act of
-				2013</cato:entity-ref></short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Networking and Information Technology Research and Development">Director of the National Coordination Office</cato:entity-ref> shall
+				2013</cato:entity-ref>
+                </short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Networking and Information Technology Research and Development">Director of the National Coordination Office</cato:entity-ref> shall
 				convene a task force to explore mechanisms for carrying out collaborative
 				research and development activities for cyber-physical systems, including the
 				related technologies required to enable these systems, through a consortium or
@@ -638,8 +666,10 @@
               <header>Report</header>
               <text>Not
 				later than 1 year after the date of enactment of the
-				<short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Advancing America’s Networking and Information Technology Research and Development Act of 2013" proposed="true">Advancing America’s Networking and
-				Information Technology Research and Development Act of 2013</cato:entity-ref></short-title>, the
+				<short-title>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Advancing America’s Networking and Information Technology Research and Development Act of 2013" proposed="true">Advancing America’s Networking and
+				Information Technology Research and Development Act of 2013</cato:entity-ref>
+                </short-title>, the
 				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Networking and Information Technology Research and Development">Director of the National Coordination Office</cato:entity-ref> shall transmit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSCM00">Committee on
 				Commerce, Science, and Transportation of the Senate</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HSY00">Committee on
 				Science, Space, and Technology of the House of Representatives</cato:entity-ref> a report
@@ -668,7 +698,9 @@
       <enum>5.</enum>
       <header>Cloud computing
 			 services for research</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/t:I">Title I
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/t:I">Title I
 			 of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5511">15 U.S.C. 5511</cato:entity-ref>)</cato:entity> is amended further by adding after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="High-Performance Computing Act of 1991/s:105" proposed="true">section 105</cato:entity-ref>, as
 			 added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Advancing America’s Networking and Information Technology Research and Development Act of 2013/s:4/ss:b" proposed="true">section 4(b) of this Act</cato:entity-ref>, the following new section:</text>
 			<quoted-block display-inline="no-display-inline" id="HB78F9663F7704F38821FA06379CABD90" style="OLC">
@@ -681,8 +713,10 @@
             <header>Interagency
 				working group</header>
             <text display-inline="yes-display-inline">Not later than
-				180 days after the date of enactment of the <short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Advancing America’s Networking and Information Technology Research and Development Act of 2013" proposed="true">Advancing America’s Networking and Information Technology
-				Research and Development Act of 2013</cato:entity-ref></short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Networking and Information Technology Research and Development">Director of the
+				180 days after the date of enactment of the <short-title>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Advancing America’s Networking and Information Technology Research and Development Act of 2013" proposed="true">Advancing America’s Networking and Information Technology
+				Research and Development Act of 2013</cato:entity-ref>
+              </short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Networking and Information Technology Research and Development">Director of the
 				National Coordination Office</cato:entity-ref>, working through the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="National Science and Technology Council" entity-parent-id="1100">National Science and
 				Technology Council</cato:entity-ref>, shall convene an interagency working group to
 				examine—</text>
@@ -727,8 +761,10 @@
             <header>Report</header>
             <text>Not
 				later than 1 year after the date of enactment of the
-				<short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Advancing America’s Networking and Information Technology Research and Development Act of 2013" proposed="true">Advancing America’s Networking and
-				Information Technology Research and Development Act of 2013</cato:entity-ref></short-title>, the
+				<short-title>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Advancing America’s Networking and Information Technology Research and Development Act of 2013" proposed="true">Advancing America’s Networking and
+				Information Technology Research and Development Act of 2013</cato:entity-ref>
+              </short-title>, the
 				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Networking and Information Technology Research and Development">Director of the National Coordination Office</cato:entity-ref> shall transmit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HSY00">Committee on
 				Science, Space, and Technology of the House of Representatives</cato:entity-ref> and the
 				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSCM00">Committee on Commerce, Science, and Transportation of the Senate</cato:entity-ref> a report
@@ -750,7 +786,9 @@
       <enum>6.</enum>
       <header>National
 			 Coordination Office</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:102">Section
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:102">Section
 			 102 of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5512">15 U.S.C. 5512</cato:entity-ref>)</cato:entity> is amended to read as follows:</text>
 			<quoted-block display-inline="no-display-inline" id="H02D1DFE167E746A4A8AF49AF24C9215A" style="OLC">
 				<section id="H06D1C9C8330C4E769284D5FC09EFBD1F">
@@ -846,7 +884,9 @@
       <enum>7.</enum>
       <header>Improving
 			 networking and information technology education</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:201/ss:a">Section 201(a) of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5521/a">15 U.S.C.
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:201/ss:a">Section 201(a) of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5521/a">15 U.S.C.
 			 5521(a)</cato:entity-ref>)</cato:entity> is amended—</text>
 			<paragraph id="H2B4A02FA4B724E26854BEC5C00F43EC2">
         <enum>(1)</enum>
@@ -880,7 +920,9 @@
         <enum>(a)</enum>
         <header>Section
 			 3</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:3">Section 3 of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5502">15
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:3">Section 3 of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5502">15
 			 U.S.C. 5502</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="HDBB9654E63F544588DF4B29CA17A5D4C">
           <enum>(1)</enum>
@@ -934,7 +976,8 @@
         <enum>(b)</enum>
         <header>Title
 			 I</header>
-        <text>The heading of <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/t:I">title I of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5511">15 U.S.C. 5511</cato:entity-ref>)</cato:entity> is amended
+        <text>The heading of <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/t:I">title I of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5511">15 U.S.C. 5511</cato:entity-ref>)</cato:entity> is amended
 			 by striking <quote>
             <header-in-text level="title" style="OLC">High-Performance
 			 Computing</header-in-text>
@@ -947,7 +990,9 @@
         <enum>(c)</enum>
         <header>Section
 			 101</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:101">Section 101 of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5511">15 U.S.C. 5511</cato:entity-ref>)</cato:entity> is amended—</text>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:101">Section 101 of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5511">15 U.S.C. 5511</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="H475AC6F9A5AF480A9926DA7076B136BC">
           <enum>(1)</enum>
           <text display-inline="yes-display-inline">in the section heading, by striking
@@ -1064,7 +1109,9 @@
         <enum>(d)</enum>
         <header>Section
 			 201</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:201/ss:a/p:1">Section 201(a)(1) of such
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:201/ss:a/p:1">Section 201(a)(1) of such
 			 Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5521/a/1">15 U.S.C. 5521(a)(1)</cato:entity-ref>)</cato:entity> is amended by striking <quote>high-performance
 			 computing</quote> and all that follows through <quote>networking;</quote> and
 			 inserting <quote>networking and information research and
@@ -1074,7 +1121,9 @@
         <enum>(e)</enum>
         <header>Section
 			 202</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:202/ss:a">Section 202(a) of such
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:202/ss:a">Section 202(a) of such
 			 Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5522/a">15 U.S.C. 5522(a)</cato:entity-ref>)</cato:entity> is amended by striking <quote>high-performance
 			 computing</quote> and inserting <quote>networking and information
 			 technology</quote>.</text>
@@ -1083,7 +1132,9 @@
         <enum>(f)</enum>
         <header>Section
 			 203</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:203/ss:a">Section 203(a) of such
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:203/ss:a">Section 203(a) of such
 			 Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5523/a/1">15 U.S.C. 5523(a)(1)</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="H7BD9915F1F7F4CADB2120576507127B1">
           <enum>(1)</enum>
@@ -1102,7 +1153,9 @@
         <enum>(g)</enum>
         <header>Section
 			 204</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:204">Section 204 of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5524">15 U.S.C. 5524</cato:entity-ref>)</cato:entity> is amended—</text>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:204">Section 204 of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5524">15 U.S.C. 5524</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="H3C76C178CFBC4162904E9F1937FE4353">
           <enum>(1)</enum>
           <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="High-Performance Computing Act of 1991/s:204/ss:a/p:1">subsection
@@ -1156,7 +1209,9 @@
         <enum>(h)</enum>
         <header>Section
 			 205</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:205/ss:a">Section 205(a) of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5525/a">15 U.S.C. 5525(a)</cato:entity-ref>)</cato:entity> is amended by
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:205/ss:a">Section 205(a) of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5525/a">15 U.S.C. 5525(a)</cato:entity-ref>)</cato:entity> is amended by
 			 striking <quote>computational</quote> and inserting <quote>networking and
 			 information technology</quote>.</text>
 			</subsection>
@@ -1164,7 +1219,9 @@
         <enum>(i)</enum>
         <header>Section
 			 206</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:206/ss:a">Section 206(a) of such
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:206/ss:a">Section 206(a) of such
 			 Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5526/a">15 U.S.C. 5526(a)</cato:entity-ref>)</cato:entity> is amended by striking <quote>computational
 			 research</quote> and inserting <quote>networking and information technology
 			 research</quote>.</text>
@@ -1173,7 +1230,9 @@
         <enum>(j)</enum>
         <header>Section
 			 207</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:207/ss:b">Section 207(b) of such
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:207/ss:b">Section 207(b) of such
 			 Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5527/b">15 U.S.C. 5527(b)</cato:entity-ref>)</cato:entity> is amended by striking <quote>high-performance
 			 computing</quote> and inserting <quote>networking and information
 			 technology</quote>.</text>
@@ -1182,7 +1241,9 @@
         <enum>(k)</enum>
         <header>Section
 			 208</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:208">Section 208 of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5528">15 U.S.C. 5528</cato:entity-ref>)</cato:entity> is amended—</text>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:208">Section 208 of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5528">15 U.S.C. 5528</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="HFA0AA8FF7E6E4C97937A2486FFF9D901">
           <enum>(1)</enum>
           <text display-inline="yes-display-inline">in the section heading, by striking
@@ -1231,4 +1292,5 @@
       </subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

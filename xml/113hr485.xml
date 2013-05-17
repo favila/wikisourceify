@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr485ih">
+<doc>
+  <docmeta id="113hr485ih">
     <bill congress="113" type="hr" number="485" version="ih"/>
-    <revision id="6" commit-time="2013-03-12T23:44:07+00:00" comitter="/users/favila.xml" doc="/docs/113hr485ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H46EEEB4208B848B4832CF0EC45ABBC54" public-private="public">
+    <revision size="8486" annotations="0" id="6" commit-time="2013-03-12T23:44:07+00:00" committer="favila" doc="113hr485ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H46EEEB4208B848B4832CF0EC45ABBC54" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -63,7 +67,9 @@
       <enum>2.</enum>
       <header>National Nurse
 			 for Public Health</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Public Health Service Act/t:XVII">Title XVII
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Public Health Service Act/t:XVII">Title XVII
 			 of the Public Health Service Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/300u/etseq">42 U.S.C. 300u et seq.</cato:entity-ref>)</cato:entity> is amended by adding
 			 at the end the following:</text>
 			<quoted-block id="H0D2CB9FAFAD2481699148582706A0C22" style="OLC">
@@ -274,4 +280,5 @@
       </quoted-block>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

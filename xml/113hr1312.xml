@@ -1,0 +1,1038 @@
+<doc>
+  <docmeta id="113hr1312ih">
+    <bill congress="113" type="hr" number="1312" version="ih"/>
+    <revision size="30856" annotations="0" id="5" commit-time="2013-04-09T18:36:58+00:00" committer="favila" doc="113hr1312ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC4FA3B91BE394BCA93C5BD38E31243AB" public-private="public">
+	<metadata>
+<dublinCore>
+<title>113 HR 1312 IH: Geolocational Privacy and Surveillance Act</title>
+<publisher>U.S. House of Representatives</publisher>
+<date>2013-03-21</date>
+<format>text/xml</format>
+<language>EN</language>
+<rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1312</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20130321">March 21, 2013</action-date>
+			<action-desc>
+        <sponsor name-id="C001076">Mr. Chaffetz</sponsor> (for
+			 himself, <cosponsor name-id="C000266">Mr. Chabot</cosponsor>,
+			 <cosponsor name-id="F000030">Mr. Farr</cosponsor>, <cosponsor name-id="D000191">Mr. DeFazio</cosponsor>, <cosponsor name-id="P000597">Ms.
+			 Pingree of Maine</cosponsor>, <cosponsor name-id="P000598">Mr.
+			 Polis</cosponsor>, <cosponsor name-id="P000592">Mr. Poe of Texas</cosponsor>,
+			 <cosponsor name-id="L000397">Ms. Lofgren</cosponsor>,
+			 <cosponsor name-id="S000244">Mr. Sensenbrenner</cosponsor>,
+			 <cosponsor name-id="C000714">Mr. Conyers</cosponsor>, and
+			 <cosponsor name-id="W000800">Mr. Welch</cosponsor>) introduced the following
+			 bill; which was referred to the <committee-name committee-id="HJU00">Committee
+			 on the Judiciary</committee-name>, and in addition to the
+			 <committee-name committee-id="">Select Committee on Intelligence (Permanent
+			 Select)</committee-name>, for a period to be subsequently determined by the
+			 Speaker, in each case for consideration of such provisions as fall within the
+			 jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend title 18, United States Code, to specify the
+		  circumstances in which a person may acquire geolocation information and for
+		  other purposes.</official-title>
+	</form>
+	<legis-body id="H6EE746324C0841B1BC34E2C757DCC725" style="OLC">
+		<section id="H17B59C58E78F4E67BBF7BF92877E285D" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short titles</header>
+      <text display-inline="no-display-inline">This Act may be cited as the
+			 <quote>
+          <short-title>Geolocational Privacy and Surveillance
+			 Act</short-title>
+        </quote> or the <quote>
+          <short-title>GPS
+			 Act</short-title>
+        </quote>.</text>
+		</section>
+    <section id="HA4736AA9742543CDA0515A5EC938039E">
+      <enum>2.</enum>
+      <header>Protection of
+			 geolocation information</header>
+			<subsection id="H5AD5C314B52443E39BA82AD9E619E1F4">
+        <enum>(a)</enum>
+        <header>In
+			 general</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18">Part 1 of title 18,
+			 United States Code</cato:entity-ref>, is amended by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/18/119">chapter 119</cato:entity-ref> the
+			 following:</text>
+				<quoted-block display-inline="no-display-inline" id="H86397BDB546C40398E3CD8895AD2890E" style="USC">
+					<chapter id="HDFEF8718C4B5423B916F2423BA54E865">
+            <enum>120</enum>
+            <header>Geolocation
+				information</header>
+						<toc>
+							<toc-entry level="section">Sec. </toc-entry>
+							<toc-entry idref="H56D7C369DD7141F09E4AF9E60B16703B" level="section">2601. Definitions.</toc-entry>
+							<toc-entry idref="H980627E3E539413886E6A4969945EB53" level="section">2602. Interception and disclosure of geolocation
+				  information.</toc-entry>
+							<toc-entry idref="HC75183CDDC0249F08B90B4ED8FEC7CBC" level="section">2603. Prohibition of use as evidence of acquired geolocation
+				  information.</toc-entry>
+							<toc-entry idref="H73434D7A3A3540B3B82F0B0799BC440F" level="section">2604. Emergency situation exception.</toc-entry>
+							<toc-entry idref="H590CC847C0FD49A1AC5539412FD0BBD0" level="section">2605. Recovery of civil damages authorized.</toc-entry>
+						</toc>
+						<section id="H56D7C369DD7141F09E4AF9E60B16703B">
+              <enum>2601.</enum>
+              <header>Definitions</header>
+              <text display-inline="no-display-inline">In this chapter:</text>
+							<paragraph id="H84F0457B7C9C4F0A99B7ACC72D93AC81">
+                <enum>(1)</enum>
+                <header>Electronic
+				communication service</header>
+                <text>The term <term>electronic communication
+				service</term> has the meaning given that term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/2510">section 2510</cato:entity-ref>.</text>
+							</paragraph>
+              <paragraph id="HF1970E3AF0364C6ABD16677041E74014">
+                <enum>(2)</enum>
+                <header>Electronic
+				surveillance</header>
+                <text>The term <term>electronic surveillance</term> has
+				the meaning given that term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:101">section 101 of the Foreign Intelligence
+				Surveillance Act of 1978</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/50/1801">50 U.S.C. 1801</external-xref>)</cato:entity>.</text>
+							</paragraph>
+              <paragraph id="HEB5DEF110BCA453BAF91DF9BAC50AA5A">
+                <enum>(3)</enum>
+                <header>Geolocation
+				information</header>
+                <text>The term <term>geolocation information</term> means,
+				with respect to a person, any information that is not the content of a
+				communication, concerning the location of a wireless communication device or
+				tracking device (as that term is defined <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/3117">section 3117</cato:entity-ref>) that, in whole or in
+				part, is generated by or derived from the operation of that device and that
+				could be used to determine or infer information regarding the location of the
+				person.</text>
+							</paragraph>
+              <paragraph id="HA57992CBD5EC41B2A398901454DBE8EF">
+                <enum>(4)</enum>
+                <header>Geolocation
+				information service</header>
+                <text>The term <term>geolocation information
+				service</term> means the provision of a global positioning service or other
+				mapping, locational, or directional information service to the public, or to
+				such class of users as to be effectively available to the public, by or through
+				the operation of any wireless communication device, including any mobile
+				telephone, global positioning system receiving device, mobile computer, or
+				other similar or successor device.</text>
+							</paragraph>
+              <paragraph id="HEC55251C65DD41BE967D380EE4D41D89">
+                <enum>(5)</enum>
+                <header>Intercept</header>
+                <text>The
+				term <term>intercept</term> means the acquisition of geolocation information
+				through the use of any electronic, mechanical, or other device.</text>
+							</paragraph>
+              <paragraph id="HF4D8DC0FDB384FB29654D4861ECA3229">
+                <enum>(6)</enum>
+                <header>Investigative or
+				law enforcement officer</header>
+                <text>The term <term>investigative or law
+				enforcement officer</term> means any officer of the United States or of a State
+				or political subdivision thereof, who is empowered by law to conduct
+				investigations of, or to make arrests for, offenses enumerated in this chapter,
+				and any attorney authorized by law to prosecute or participate in the
+				prosecution of such offenses.</text>
+							</paragraph>
+              <paragraph id="HC7E1A3BE384640BD9CBC46378095739B">
+                <enum>(7)</enum>
+                <header>Person</header>
+                <text>The
+				term <term>person</term> means any employee or agent of the United States, or
+				any State or political subdivision thereof, and any individual, partnership,
+				association, joint stock company, trust, or corporation.</text>
+							</paragraph>
+              <paragraph id="H4ABD9E4B30D04B91B8A80C8A964BD483">
+                <enum>(8)</enum>
+                <header>Remote computing
+				service</header>
+                <text display-inline="yes-display-inline">The term <term>remote
+				computing service</term> has the meaning given that term in section
+				2711.</text>
+							</paragraph>
+              <paragraph id="H5AF8AA58ADDC42A48AC583297A97D612">
+                <enum>(9)</enum>
+                <header>State</header>
+                <text>The
+				term <term>State</term> means any State of the United States, the District of
+				Columbia, the Commonwealth of Puerto Rico, and any territory or possession of
+				the United States.</text>
+							</paragraph>
+              <paragraph id="HA7E4266824A94F5AB4428BBB6067148C">
+                <enum>(10)</enum>
+                <header>Wireless
+				communication device</header>
+                <text>The term <term>wireless communication
+				device</term> means any device that enables access to, or use of, an electronic
+				communication system or service, remote computing service, or geolocation
+				information service, if that device utilizes a radio or other wireless
+				connection to access such system or service.</text>
+							</paragraph>
+              <paragraph id="H37C2562450564E459A3D4AD87F34C90E">
+                <enum>(11)</enum>
+                <header>Covered
+				service</header>
+                <text display-inline="yes-display-inline">The term
+				<term>covered services</term> means electronic communication service, remote
+				computing service, or of geolocation information service.</text>
+							</paragraph>
+            </section>
+            <section id="H980627E3E539413886E6A4969945EB53">
+              <enum>2602.</enum>
+              <header>Interception
+				and disclosure of geolocation information</header>
+							<subsection id="HCCF3BE163634441B97F7840D205E4F5A">
+                <enum>(a)</enum>
+                <header>In
+				general</header>
+								<paragraph id="H1F693E6F9F87478F95001FF09CE7822C">
+                  <enum>(1)</enum>
+                  <header>Prohibition on
+				disclosure or use</header>
+                  <text>Except as otherwise specifically provided in
+				this chapter, it shall be unlawful for any person to—</text>
+									<subparagraph id="H19586886D2104E58B347B17A41B2B158">
+                    <enum>(A)</enum>
+                    <text>intentionally
+				intercept, endeavor to intercept, or procure any other person to intercept or
+				endeavor to intercept, geolocation information pertaining to another
+				person;</text>
+									</subparagraph>
+                  <subparagraph id="HE9F73DB3B8F246CC845BD1BD63762FDE">
+                    <enum>(B)</enum>
+                    <text>intentionally
+				disclose, or endeavor to disclose, to any other person geolocation information
+				pertaining to another person, knowing or having reason to know that the
+				information was obtained through the interception of such information in
+				violation of this paragraph;</text>
+									</subparagraph>
+                  <subparagraph id="H047F6F814F1E472E91D9B992C8A069DD">
+                    <enum>(C)</enum>
+                    <text>intentionally use,
+				or endeavor to use, any geolocation information, knowing or having reason to
+				know that the information was obtained through the interception of such
+				information in violation of this paragraph; or</text>
+									</subparagraph>
+                  <subparagraph id="H61E75AAD2B7440A6939B73ACB9039F0B">
+                    <enum>(D)</enum>
+                    <clause commented="no" display-inline="yes-display-inline" id="HE1915EAE33BC46CB8EF45CE467362A5C">
+                      <enum>(i)</enum>
+                      <text>intentionally disclose,
+				or endeavor to disclose, to any other person the geolocation information
+				pertaining to another person intercepted by means authorized by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/2602/b..h" proposed="true">subsections (b)
+				through (h)</cato:entity-ref>, except as provided in such subsections;</text>
+										</clause>
+                    <clause id="H887DDFC645A94653AA49F3E3C7F317B3" indent="up1">
+                      <enum>(ii)</enum>
+                      <text>knowing or having reason to know
+				that the information was obtained through the interception of such information
+				in connection with a criminal investigation;</text>
+										</clause>
+                    <clause id="H91C5D497AADB476D9C7A8C9BA251F756" indent="up1">
+                      <enum>(iii)</enum>
+                      <text>having obtained or received the
+				information in connection with a criminal investigation; and</text>
+										</clause>
+                    <clause id="H648FFFD5C0C841FC8994D253E77C71E7" indent="up1">
+                      <enum>(iv)</enum>
+                      <text>with intent to improperly
+				obstruct, impede, or interfere with a duly authorized criminal
+				investigation.</text>
+										</clause>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="H101EC160C96746B68E1950DB817BB84E">
+                  <enum>(2)</enum>
+                  <header>Penalty</header>
+                  <text>Any
+				person who violates <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/2602/a/1" proposed="true">paragraph (1)</cato:entity-ref> shall be fined under this title, imprisoned
+				not more than five years, or both.</text>
+								</paragraph>
+              </subsection>
+              <subsection id="HE08F6CBF7F6E4E5AA1E60879CD4B6E73">
+                <enum>(b)</enum>
+                <header>Exception for
+				information acquired in the normal course of business</header>
+                <text display-inline="yes-display-inline">It shall not be unlawful under this chapter
+				for an officer, employee, or agent of a provider of covered services, whose
+				facilities are used in the transmission of geolocation information, to
+				intercept, disclose, or use that information in the normal course of the
+				officer, employee, or agent's employment while engaged in any activity which is
+				a necessary incident to the rendition of service or to the protection of the
+				rights or property of the provider of that service, except that a provider of a
+				geolocation information service to the public shall not utilize service
+				observing or random monitoring except for mechanical or service quality control
+				checks.</text>
+							</subsection>
+              <subsection commented="no" display-inline="no-display-inline" id="H8B96C55643D94A2DB208ABB337424F52">
+                <enum>(c)</enum>
+                <header>Exception for
+				conducting foreign intelligence surveillance</header>
+                <text display-inline="yes-display-inline">Notwithstanding any other provision of this
+				chapter, it shall not be unlawful for an officer, employee, or agent of the
+				United States in the normal course of the official duty of the officer,
+				employee, or agent to conduct electronic surveillance, as authorized by the
+				<cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978">Foreign Intelligence Surveillance Act of 1978</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/50/1801">
+                      <cato:entity-ref entity-type="uscode" value="usc/50/1801/etseq">50 U.S.C. 1801 et seq.</cato:entity-ref>
+                    </external-xref>)</cato:entity>.</text>
+							</subsection>
+              <subsection id="H674D752118BB49C98661F048ABBD837D">
+                <enum>(d)</enum>
+                <header>Exception for
+				consent</header>
+								<paragraph id="H583F142B6EF74324A02D68EB1D9B1B06">
+                  <enum>(1)</enum>
+                  <header>In
+				general</header>
+                  <text>It shall not be unlawful under this chapter for a person
+				to intercept geolocation information pertaining to another person if such other
+				person has given prior consent to such interception unless such information is
+				intercepted for the purpose of committing any criminal or tortious act in
+				violation of the Constitution or laws of the United States or of any
+				State.</text>
+								</paragraph>
+                <paragraph id="H5E215FF2DC5D4A95B7AC919272EAB37D">
+                  <enum>(2)</enum>
+                  <header>Children</header>
+                  <text>The
+				exception in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/2602/d/1" proposed="true">paragraph (1)</cato:entity-ref> permits a parent or legal guardian of a child to
+				intercept geolocation information pertaining to that child or to give consent
+				for another person to intercept such information.</text>
+								</paragraph>
+              </subsection>
+              <subsection id="H51D3E9284D4B435789053C604A4A3644">
+                <enum>(e)</enum>
+                <header>Exception for
+				public information</header>
+                <text>It shall not be unlawful under this chapter
+				for any person to intercept or access geolocation information relating to
+				another person through any system that is configured so that such information
+				is readily accessible to the general public.</text>
+							</subsection>
+              <subsection id="H6275B666D8D741E3A3C11F54E6D7EB6F">
+                <enum>(f)</enum>
+                <header>Exception for
+				emergency information</header>
+                <text>It shall not be unlawful under this chapter
+				for any investigative or law enforcement officer or other emergency responder
+				to intercept or access geolocation information relating to a person if such
+				information is used—</text>
+								<paragraph id="H6DCC2238999846FE87D2B017F1D9C470">
+                  <enum>(1)</enum>
+                  <text>to respond to a
+				request made by such person for assistance; or</text>
+								</paragraph>
+                <paragraph id="H1B6F16AEDAE4431B85357F44DE1438D1">
+                  <enum>(2)</enum>
+                  <text>in circumstances
+				in which it is reasonable to believe that the life or safety of the person is
+				threatened, to assist the person.</text>
+								</paragraph>
+              </subsection>
+              <subsection id="H1CCE20553ED64638856E0D6C838E5E69">
+                <enum>(g)</enum>
+                <header>Exception for
+				theft or fraud</header>
+                <text>It shall not be unlawful under this chapter for a
+				person acting under color of law to intercept geolocation information
+				pertaining to the location of another person who has unlawfully taken the
+				device sending the geolocation information if—</text>
+								<paragraph id="H03DCCA6752B14F009DE08695DC2178E9">
+                  <enum>(1)</enum>
+                  <text>the owner or
+				operator of such device authorizes the interception of the person's geolocation
+				information;</text>
+								</paragraph>
+                <paragraph id="H813B530407BB450E89529883E302DE0B">
+                  <enum>(2)</enum>
+                  <text>the person acting
+				under color of law is lawfully engaged in an investigation; and</text>
+								</paragraph>
+                <paragraph id="HD021BA03CD6D4EAB843CDD0CFC04D925">
+                  <enum>(3)</enum>
+                  <text>the person acting
+				under color of law has reasonable grounds to believe that the geolocation
+				information of the other person will be relevant to the investigation.</text>
+								</paragraph>
+              </subsection>
+              <subsection id="HC8E1B98745D448D1A34B98B43ED500EB">
+                <enum>(h)</enum>
+                <header>Exception for
+				warrant</header>
+								<paragraph id="H016D8EE456444D559FEF6E4B24321354">
+                  <enum>(1)</enum>
+                  <header>Definitions</header>
+                  <text>In
+				this subsection:</text>
+									<subparagraph id="H49229818FBFD4D9E90C9F0EE5B580D82">
+                    <enum>(A)</enum>
+                    <header>Court of
+				competent jurisdiction</header>
+                    <text>The term <term>court of competent
+				jurisdiction</term> includes—</text>
+										<clause id="H50596801F463495B8270FA9D1C646CBD">
+                      <enum>(i)</enum>
+                      <text>any district court
+				of the United States (including a magistrate judge of such a court) or any
+				United States court of appeals that—</text>
+											<subclause id="H638D76E4DEAD45D1B5997DD5F46FC439">
+                        <enum>(I)</enum>
+                        <text>has jurisdiction
+				over the offense being investigated;</text>
+											</subclause>
+                      <subclause id="HA00DE1E12CDD46B49B2579DD754D6BF6">
+                        <enum>(II)</enum>
+                        <text>is in or for a
+				district in which the provider of a geolocation information service is located
+				or in which the geolocation information is stored; or</text>
+											</subclause>
+                      <subclause id="H616D9DF2B984445E99A1E59F659D03B8">
+                        <enum>(III)</enum>
+                        <text>is acting on a
+				request for foreign assistance pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/3512">section 3512 of this title</cato:entity-ref>;
+				or</text>
+											</subclause>
+                    </clause>
+                    <clause id="HAD9CC5532A1C4D20B16372108963DAD1">
+                      <enum>(ii)</enum>
+                      <text>a
+				court of general criminal jurisdiction of a State authorized by the law of that
+				State to issue search warrants.</text>
+										</clause>
+                  </subparagraph>
+                  <subparagraph id="HF084881070A241EFBD565FBE0D44783E">
+                    <enum>(B)</enum>
+                    <header>Governmental
+				entity</header>
+                    <text>The term <term>governmental entity</term> means a
+				department or agency of the United States or any State or political subdivision
+				thereof.</text>
+									</subparagraph>
+                </paragraph>
+                <paragraph id="H490C14B4016A4AC991459C59D59A5D0B">
+                  <enum>(2)</enum>
+                  <header>Warrant</header>
+                  <text display-inline="yes-display-inline">A governmental entity may intercept
+				geolocation information or require the disclosure by a provider of covered
+				services of ge­o­lo­ca­tion information only pursuant to a warrant issued using
+				the procedures described in the Federal Rules of Criminal Procedure (or, in the
+				case of a State court, issued using State warrant procedures) by a court of
+				competent jurisdiction, or as otherwise provided in this chapter or the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978">Foreign
+				Intelligence Surveillance Act of 1978</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/50/1801">
+                        <cato:entity-ref entity-type="uscode" value="usc/50/1801/etseq">50 U.S.C. 1801 et seq.</cato:entity-ref>
+                      </external-xref>)</cato:entity>.</text>
+								</paragraph>
+              </subsection>
+              <subsection id="HFBC57BA01F9B48E0810D024D1EC966BA">
+                <enum>(i)</enum>
+                <header>Prohibition on
+				divulging geolocation information</header>
+								<paragraph id="HCD42EF87C5814AA19B5401F985EDBE90">
+                  <enum>(1)</enum>
+                  <header>In
+				general</header>
+                  <text display-inline="yes-display-inline">Except as provided in
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/2602/1/2" proposed="true">paragraph (2)</cato:entity-ref>, a person providing covered services shall not intentionally
+				divulge geolocation information pertaining to another person.</text>
+								</paragraph>
+                <paragraph id="H0C4C5765C04F4ACEA436EC6A6E98825A">
+                  <enum>(2)</enum>
+                  <header>Exceptions</header>
+                  <text display-inline="yes-display-inline">A person providing covered services may
+				divulge geolocation information—</text>
+									<subparagraph id="HBAFE0B149302458784C6E1421F0D3CE3">
+                    <enum>(A)</enum>
+                    <text>as otherwise
+				authorized in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/2602/b..h" proposed="true">subsections (b) through (h)</cato:entity-ref>;</text>
+									</subparagraph>
+                  <subparagraph id="H16371F6D9CFE4910B87A8D37F312FA71">
+                    <enum>(B)</enum>
+                    <text>with the lawful
+				consent of such other person;</text>
+									</subparagraph>
+                  <subparagraph id="HC94D6594CC7D4A1697CC22D6852CD533">
+                    <enum>(C)</enum>
+                    <text>to another person
+				employed or authorized, or whose facilities are used, to forward such
+				geolocation information to its destination; or</text>
+									</subparagraph>
+                  <subparagraph id="HD0022464296C49CFA5D0DEF9FB3F309F">
+                    <enum>(D)</enum>
+                    <text>which was
+				inadvertently obtained by the service provider and which appears to pertain to
+				the commission of a crime, if such divulgence is made to a law enforcement
+				agency.</text>
+									</subparagraph>
+                </paragraph>
+              </subsection>
+            </section>
+            <section id="HC75183CDDC0249F08B90B4ED8FEC7CBC">
+              <enum>2603.</enum>
+              <header>Prohibition of
+				use as evidence of acquired geolocation information</header>
+              <text display-inline="no-display-inline">Whenever any geolocation information has
+				been acquired, no part of such information and no evidence derived therefrom
+				may be received in evidence in any trial, hearing, or other proceeding in or
+				before any court, grand jury, department, officer, agency, regulatory body,
+				legislative committee, or other authority of the United States, a State, or a
+				political subdivision thereof if the disclosure of that information would be in
+				violation of this chapter.</text>
+						</section>
+            <section id="H73434D7A3A3540B3B82F0B0799BC440F">
+              <enum>2604.</enum>
+              <header>Emergency
+				situation exception</header>
+							<subsection id="H0B616619DAF54B67989AC91F01CE9F18">
+                <enum>(a)</enum>
+                <header>Emergency
+				situation exception</header>
+                <text>Notwithstanding any other provision of this
+				chapter, any investigative or law enforcement officer, specially designated by
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1501">Deputy Attorney General</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1501">Associate Attorney
+				General</cato:entity-ref>, or by the principal prosecuting attorney of any State or subdivision
+				thereof acting pursuant to a statute of that State, may intercept geolocation
+				information if—</text>
+								<paragraph id="H32E73CC1A9E941ACAB863F0B2DFF079E">
+                  <enum>(1)</enum>
+                  <text>such officer
+				reasonably determines that an emergency situation exists that—</text>
+									<subparagraph id="H325926EC47D448C4B92769416D6B7BB2">
+                    <enum>(A)</enum>
+                    <text>involves—</text>
+										<clause id="H426D064BB4344E11A7933751E4AB2905">
+                      <enum>(i)</enum>
+                      <text>immediate danger
+				of death or serious physical injury to any person;</text>
+										</clause>
+                    <clause id="H0543A54AC9A149B1AB4D4F3E8B1B59F7">
+                      <enum>(ii)</enum>
+                      <text>conspiratorial
+				activities threatening the national security interest; or</text>
+										</clause>
+                    <clause id="H9F441AF824764EF199A93F092F6493C4">
+                      <enum>(iii)</enum>
+                      <text>conspiratorial
+				activities characteristic of organized crime; and</text>
+										</clause>
+                  </subparagraph>
+                  <subparagraph id="H5DB6907559674967AC8C7E46A0C22C73">
+                    <enum>(B)</enum>
+                    <text>requires
+				geolocation information be intercepted before an order authorizing such
+				interception can, with due diligence, be obtained;</text>
+									</subparagraph>
+                </paragraph>
+                <paragraph id="H1971B13CEF5D44BBB85ED56BC64E836B">
+                  <enum>(2)</enum>
+                  <text>there are grounds
+				upon which an order could be entered to authorize such interception; and</text>
+								</paragraph>
+                <paragraph id="H8FC9EE8B7FBA45BD8EAEB65E00EA7CEB">
+                  <enum>(3)</enum>
+                  <text>an application for
+				an order approving such interception is made within 48 hours after the
+				interception has occurred or begins to occur.</text>
+								</paragraph>
+              </subsection>
+              <subsection id="H66F94746EC554708B7304FF7BD2CD0AA">
+                <enum>(b)</enum>
+                <header>Failure To
+				obtain court order</header>
+								<paragraph id="HE41A88E503A94C798A19B2814D9C769F">
+                  <enum>(1)</enum>
+                  <header>Termination of
+				acquisition</header>
+                  <text>In the absence of an order, an interception of
+				geolocation information carried out under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/2604/a" proposed="true">subsection (a)</cato:entity-ref> shall immediately
+				terminate when the information sought is obtained or when the application for
+				the order is denied, whichever is earlier.</text>
+								</paragraph>
+                <paragraph id="H60DA86571B114C2996368B7D929CCACC">
+                  <enum>(2)</enum>
+                  <header>Prohibition on
+				use as evidence</header>
+                  <text>In the event such application for approval is
+				denied, the geolocation information shall be treated as having been obtained in
+				violation of this chapter and an inventory shall be served on the person named
+				in the application.</text>
+								</paragraph>
+              </subsection>
+            </section>
+            <section id="H590CC847C0FD49A1AC5539412FD0BBD0">
+              <enum>2605.</enum>
+              <header>Recovery of
+				civil damages authorized</header>
+							<subsection id="H945F6F3AE2E5455299B6E252F5BDE25B">
+                <enum>(a)</enum>
+                <header>In
+				general</header>
+                <text display-inline="yes-display-inline">Any person whose
+				geolocation information is intercepted, disclosed, or intentionally used in
+				violation of this chapter may in a civil action recover from the person, other
+				than the United States, which engaged in that violation such relief as may be
+				appropriate.</text>
+							</subsection>
+              <subsection id="HC07F951ED4E9411792C318B0E57654E0">
+                <enum>(b)</enum>
+                <header>Relief</header>
+                <text display-inline="yes-display-inline">In an action under this section,
+				appropriate relief includes—</text>
+								<paragraph id="HC0785E0992BE46D9BB2E301A3B7DDAC2">
+                  <enum>(1)</enum>
+                  <text>such preliminary
+				and other equitable or declaratory relief as may be appropriate;</text>
+								</paragraph>
+                <paragraph id="H8FD15816730A4EFDB821513B171CC9CF">
+                  <enum>(2)</enum>
+                  <text>damages under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/2605/c" proposed="true">subsection (c)</cato:entity-ref> and punitive damages in appropriate cases; and</text>
+								</paragraph>
+                <paragraph id="H79B98D1B60EC4A1987EB3AC212A5B130">
+                  <enum>(3)</enum>
+                  <text>a reasonable
+				attorney's fee and other litigation costs reasonably incurred.</text>
+								</paragraph>
+              </subsection>
+              <subsection id="H95B7E7A9489D49BF8E6E75454E74CAC5">
+                <enum>(c)</enum>
+                <header>Computation of
+				damages</header>
+                <text display-inline="yes-display-inline">The court may assess
+				as damages under this section whichever is the greater of—</text>
+								<paragraph id="HCD08CD0B09FE4A14A33B275C2F4F4DF6">
+                  <enum>(1)</enum>
+                  <text>the sum of the
+				actual damages suffered by the plaintiff and any profits made by the violator
+				as a result of the violation; or</text>
+								</paragraph>
+                <paragraph id="HDC00FBB42B7945D2AA86E477D9CCDE98">
+                  <enum>(2)</enum>
+                  <text>statutory damages
+				of whichever is the greater of $100 a day for each day of violation or
+				$10,000.</text>
+								</paragraph>
+              </subsection>
+              <subsection id="H50D50287390245CFAC489CAF3C6883DB">
+                <enum>(d)</enum>
+                <header>Defense</header>
+                <text display-inline="yes-display-inline">It is a complete defense against any civil
+				or criminal action brought against an individual for conduct in violation of
+				this chapter if such individual acted in a good faith reliance on—</text>
+								<paragraph id="HBD9A80333AF841D888229654753F08E9">
+                  <enum>(1)</enum>
+                  <text>a court warrant or
+				order, a grand jury subpoena, a legislative authorization, or a statutory
+				authorization;</text>
+								</paragraph>
+                <paragraph id="H075C724B0C774EA6B9315F7D9172FC9C">
+                  <enum>(2)</enum>
+                  <text>a request of an
+				investigative or law enforcement officer under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/2604" proposed="true">section 2604</cato:entity-ref>; or</text>
+								</paragraph>
+                <paragraph id="H6D3E15D5E7E347C18FC9E199E57CA1D2">
+                  <enum>(3)</enum>
+                  <text>a good-faith
+				determination that an exception under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/2602" proposed="true">section 2602</cato:entity-ref> permitted the conduct
+				complained of.</text>
+								</paragraph>
+              </subsection>
+              <subsection id="H92A9825236CF4C80AFCE1E2ED74A09F1">
+                <enum>(e)</enum>
+                <header>Limitation</header>
+                <text>A
+				civil action under this section may not be commenced later than two years after
+				the date upon which the claimant first has a reasonable opportunity to discover
+				the violation.</text>
+							</subsection>
+              <subsection id="H2BE856CC9984441CA547078954756ABB">
+                <enum>(f)</enum>
+                <header>Administrative
+				discipline</header>
+                <text>If a court or appropriate department or agency
+				determines that the United States or any of its departments or agencies has
+				violated any provision of this chapter, and the court or appropriate department
+				or agency finds that the circumstances surrounding the violation raise serious
+				questions about whether or not an officer or employee of the United States
+				acted willfully or intentionally with respect to the violation, the department
+				or agency shall, upon receipt of a true and correct copy of the decision and
+				findings of the court or appropriate department or agency promptly initiate a
+				proceeding to determine whether disciplinary action against the officer or
+				employee is warranted. If the head of the department or agency involved
+				determines that disciplinary action is not warranted, such head shall notify
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1504">Inspector General</cato:entity-ref> with jurisdiction over the department or agency concerned
+				and shall provide the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1504">Inspector General</cato:entity-ref> with the reasons for such
+				determination.</text>
+							</subsection>
+              <subsection id="H00E24B4318E342A0945D8CF47B0B16A5">
+                <enum>(g)</enum>
+                <header>Improper
+				disclosure is violation</header>
+                <text>Any willful disclosure or use by an
+				investigative or law enforcement officer or governmental entity of information
+				beyond the extent permitted by this chapter is a violation of this chapter for
+				purposes of this
+				section.</text>
+							</subsection>
+            </section>
+          </chapter>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+      <subsection id="H08AF7D8D07A24F86BC4DE664CEB5319A">
+        <enum>(b)</enum>
+        <header>Clerical
+			 amendment</header>
+        <text>The table of chapters for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18">part 1 of title 18, United
+			 States Code</cato:entity-ref>, is amended by inserting after the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/18/119">chapter 119</cato:entity-ref> the
+			 following:</text>
+				<quoted-block display-inline="no-display-inline" id="H2C52AA3213584E14843614173BCC956C" style="OLC">
+					<toc>
+						<multi-column-toc-entry bold="off" level="section">
+              <toc-enum>120.
+				  </toc-enum>
+              <level-header level="section">Geolocation
+				  information</level-header>
+              <target>2601</target>
+            </multi-column-toc-entry>
+					</toc>
+					<after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+      <subsection id="H57719A65B1134C338FB7955250513D83">
+        <enum>(c)</enum>
+        <header>Conforming
+			 amendments</header>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/3512/a">
+            <external-xref legal-doc="usc" parsable-cite="usc/18/3512">Section 3512(a)</external-xref> of title 18, United States Code</cato:entity-ref>, is
+			 amended—</text>
+				<paragraph id="H03403DC3820C45BEAC515DD16F93B938">
+          <enum>(1)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/3512/a/2">paragraph
+			 (2)</cato:entity-ref>—</text>
+					<subparagraph id="H580BF62822DF450596E84E292AD009FA">
+            <enum>(A)</enum>
+            <text>by redesignating
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/3512/a/2/B,C,D">subparagraphs (B), (C), and (D)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/3512/a/2/C,D,E" proposed="true">subparagraphs (C), (D), and (E)</cato:entity-ref>,
+			 respectively; and</text>
+					</subparagraph>
+          <subparagraph id="H1D59FBEA2AAE46CC87CA292C08F76E57">
+            <enum>(B)</enum>
+            <text>by inserting after
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/3512/a/2/A">subparagraph (A)</cato:entity-ref> the following:</text>
+						<quoted-block display-inline="no-display-inline" id="H5453F673791D4C96BFF53E628C7E6675" style="OLC">
+							<subparagraph id="HB6F8C7630AF44B449BACD389C0259FA6">
+                <enum>(B)</enum>
+                <text>a warrant or order
+				for geolocation information or records related thereto, as provided under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/2602">section 2602 of this
+				title</cato:entity-ref>;</text>
+							</subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</subparagraph>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="HE1B8CC6E85F44791A04536D37701BB59">
+      <enum>3.</enum>
+      <header>Requirement for
+			 search warrants to acquire geolocation information</header>
+      <text display-inline="no-display-inline">Rule
+			 41(a) of the Federal Rules of Criminal Procedure is amended—</text>
+			<paragraph id="HB9A12016D8DD4E4DBF21109BEAB8F864">
+        <enum>(1)</enum>
+        <text>in paragraph
+			 (2)(A), by striking the period at the end and inserting a comma and
+			 <quote>including geolocation information.</quote>; and</text>
+			</paragraph>
+      <paragraph id="H898BBB5C29F349B39B5F01DFAC83904C">
+        <enum>(2)</enum>
+        <text>by adding at the
+			 end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H54C3012FE8CC4F0696642367CBDED334" style="OLC">
+					<subparagraph id="HD78F27C9C2BF4D2D8DD51A7F7DB739C5">
+            <enum>(F)</enum>
+            <text>
+              <term>Geolocation
+				information</term> has the meaning given that term in <external-xref legal-doc="usc" parsable-cite="usc/18/2601">section 2601</external-xref> of title 18,
+				United States
+				Code.</text>
+					</subparagraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</paragraph>
+    </section>
+    <section id="H9247B47978E54C5CB5029898F91293EF">
+      <enum>4.</enum>
+      <header>Fraud and related
+			 activity in connection with obtaining geolocation information</header>
+			<subsection id="H5F36469D22CC4A61B07069DA04832A4C">
+        <enum>(a)</enum>
+        <header>Criminal
+			 violation</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039/h">Section 1039(h) of
+			 title 18, United States Code</cato:entity-ref>, is amended—</text>
+				<paragraph id="HB59C4A7D98304E21BA7EA23BA06B3F3B">
+          <enum>(1)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039/h/2">paragraph
+			 (2)</cato:entity-ref>—</text>
+					<subparagraph id="H1D99231538CC4D919DB4539A87638919">
+            <enum>(A)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039/h/2/A">subparagraph
+			 (A)</cato:entity-ref>, by striking <quote>and</quote> at the end;</text>
+					</subparagraph>
+          <subparagraph id="H7C52077638684E07ADB02DA6C47F741B">
+            <enum>(B)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039/h/2/B">subparagraph
+			 (B)</cato:entity-ref>, by striking the period at the end and inserting a semicolon and
+			 <quote>and</quote>; and</text>
+					</subparagraph>
+          <subparagraph id="H1799E86C0EF246E79D828FA0F2D92B79">
+            <enum>(C)</enum>
+            <text>by adding at the
+			 end the following new subparagraph:</text>
+						<quoted-block display-inline="no-display-inline" id="HBF442F02436D4280AECC06D4F6CE0D29" style="OLC">
+							<subparagraph id="HEECF19D9688A4C14A6DE9F410513F357">
+                <enum>(C)</enum>
+                <text>includes any
+				geolocation information
+				service.</text>
+							</subparagraph>
+              <after-quoted-block>;</after-quoted-block>
+            </quoted-block>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="H3E0772C22AAB4D99BBEF32DCB8EA3FC6">
+          <enum>(2)</enum>
+          <text>by redesignating
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039/h/4">paragraph (4)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039/h/5" proposed="true">paragraph (5)</cato:entity-ref>; and</text>
+				</paragraph>
+        <paragraph id="H47F7AAB94CFE45C982D0B41AC938BDC3">
+          <enum>(3)</enum>
+          <text>by inserting after
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039/h/3">paragraph (3)</cato:entity-ref> the following:</text>
+					<quoted-block display-inline="no-display-inline" id="HDA02B064A8B344F285B7ECEA47B48C43" style="OLC">
+						<paragraph commented="no" id="H8CC4101993C548CEBF9DDFAC8BD6A322">
+              <enum>(4)</enum>
+              <header>Geolocation
+				information service</header>
+              <text>The term <term>geolocation information
+				service</term> has the meaning given that term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/2601">section
+				2601</cato:entity-ref>.</text>
+						</paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </subsection>
+      <subsection id="H2ACEA9CB70C247199FEDE49E91F5F69C">
+        <enum>(b)</enum>
+        <header>Conforming
+			 amendments</header>
+				<paragraph id="HA78D41AD8D0549CA86CF3AD4EADD318B">
+          <enum>(1)</enum>
+          <header>Definition
+			 amendments</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039/h/1">
+              <external-xref legal-doc="usc" parsable-cite="usc/18/1039">Section 1039(h)(1)</external-xref> of title 18, United States Code</cato:entity-ref>, is
+			 amended—</text>
+					<subparagraph id="H930C8F0E4EAD48329FE95485B0228F00">
+            <enum>(A)</enum>
+            <text>in the paragraph
+			 heading, by inserting <quote>
+                <header-in-text level="paragraph" style="OLC">or
+			 GPS</header-in-text>
+              </quote> after <quote>
+                <header-in-text level="paragraph" style="OLC">phone</header-in-text>
+              </quote>; and</text>
+					</subparagraph>
+          <subparagraph id="H83B1DF6388C54EA9A7059E71E29A4EA1">
+            <enum>(B)</enum>
+            <text>in the matter
+			 preceding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039/h/1/A">subparagraph (A)</cato:entity-ref>, by inserting <quote>or GPS</quote> after
+			 <quote>phone</quote>.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="H654A724FDA4443BDB8991C62A328134C">
+          <enum>(2)</enum>
+          <header>Conforming
+			 amendments</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039">
+              <external-xref legal-doc="usc" parsable-cite="usc/18/1039">Section 1039</external-xref> of title 18, United States Code</cato:entity-ref>, is
+			 amended—</text>
+					<subparagraph id="H01671E77F10A426296A1FFC0310D1AFC">
+            <enum>(A)</enum>
+            <text>in the section
+			 heading by inserting <quote>
+                <header-in-text level="section" style="USC">or
+			 GPS</header-in-text>
+              </quote> after <quote>
+                <header-in-text level="section" style="USC">phone</header-in-text>
+              </quote>;</text>
+					</subparagraph>
+          <subparagraph id="HD09F64F8563C45EEBB08A8BCDD431570">
+            <enum>(B)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039/a">subsection
+			 (a)</cato:entity-ref>—</text>
+						<clause id="H24EBECDA7B9F45DBBADDC4CE538DBDB7">
+              <enum>(i)</enum>
+              <text>in
+			 the matter preceding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039/a/1">paragraph (1)</cato:entity-ref>, by inserting <quote>or GPS</quote> after
+			 <quote>phone</quote>; and</text>
+						</clause>
+            <clause id="H0F3DC37D3EEC436D84D694A07831A6E0">
+              <enum>(ii)</enum>
+              <text>in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039/a/4">paragraph (4)</cato:entity-ref>, by inserting <quote>or GPS</quote> after
+			 <quote>phone</quote>;</text>
+						</clause>
+          </subparagraph>
+          <subparagraph id="H9803FF8324D94E61AE297E0B232573C7">
+            <enum>(C)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039/b">subsection
+			 (b)</cato:entity-ref>—</text>
+						<clause id="H5BC8C0840E294512885C0366771030F3">
+              <enum>(i)</enum>
+              <text>in
+			 the subsection heading, by inserting <quote>
+                  <header-in-text level="subsection" style="OLC">or GPS</header-in-text>
+                </quote> after <quote>
+                  <header-in-text level="subsection" style="OLC">phone</header-in-text>
+                </quote>;</text>
+						</clause>
+            <clause id="H0CAEC26E27A8441E929F63509D5DFDD7">
+              <enum>(ii)</enum>
+              <text>in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039/b/1">paragraph (1)</cato:entity-ref>, by inserting <quote>or GPS</quote> after <quote>phone</quote>
+			 both places that term appears; and</text>
+						</clause>
+            <clause id="H92B915431FDE423CB363CA8978799770">
+              <enum>(iii)</enum>
+              <text>in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039/b/2">paragraph (2)</cato:entity-ref>, by inserting <quote>or GPS</quote> after <quote>phone</quote>;
+			 and</text>
+						</clause>
+          </subparagraph>
+          <subparagraph id="HDFD92353E7C847289F5A28232D5E27B9">
+            <enum>(D)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039/c">subsection
+			 (c)</cato:entity-ref>—</text>
+						<clause id="H04428EAF78BB4F2282E4C03F9EFE9933">
+              <enum>(i)</enum>
+              <text>in
+			 the subsection heading, by inserting <quote>
+                  <header-in-text level="subsection" style="OLC">or GPS</header-in-text>
+                </quote> after <quote>
+                  <header-in-text level="subsection" style="OLC">phone</header-in-text>
+                </quote>;</text>
+						</clause>
+            <clause id="H1494F1D5E8D54FEC9551AE2F50914C5A">
+              <enum>(ii)</enum>
+              <text>in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039/c/1">paragraph (1)</cato:entity-ref>, by inserting <quote>or GPS</quote> after <quote>phone</quote>
+			 both places that term appears; and</text>
+						</clause>
+            <clause commented="no" display-inline="no-display-inline" id="H7E2FD23E8FE1492299D294A59C5E1FE5">
+              <enum>(iii)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039/c/2">paragraph
+			 (2)</cato:entity-ref>, by inserting <quote>or GPS</quote> after <quote>phone</quote>.</text>
+						</clause>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="H683A48DD04F842F3BCB20E58D6CF87E6">
+          <enum>(3)</enum>
+          <header>Chapter
+			 analysis</header>
+          <text display-inline="yes-display-inline">The table of
+			 sections for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/18/47">
+              <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/47">chapter 47</external-xref> of title 18, United States Code</cato:entity-ref>, is amended by striking
+			 the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039">section 1039</cato:entity-ref> and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H4882EB75AB824BE3B1DDD72BBA6F1426" style="USC">
+						<toc regeneration="no-regeneration">
+							<toc-entry level="section">1039. Fraud and related activity in
+				connection with obtaining confidential phone or GPS records information of a
+				covered
+				entity.</toc-entry>
+						</toc>
+						<after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </subsection>
+      <subsection id="HE1B2578499F8401C9EA053D65379E9EC">
+        <enum>(c)</enum>
+        <header>Sentencing
+			 guidelines</header>
+				<paragraph id="H632820F631314D33A0AA4CD9B1C5BEEC">
+          <enum>(1)</enum>
+          <header>Review and
+			 Amendment</header>
+          <text>Not later than 180 days after the date of enactment of
+			 this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1030">United States Sentencing Commission</cato:entity-ref>, pursuant to its authority
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/28/994">
+              <external-xref legal-doc="usc" parsable-cite="usc/28/994">section 994</external-xref> of title 28, United States Code</cato:entity-ref>, and in accordance with this
+			 section, shall review and, if appropriate, amend the Federal sentencing
+			 guidelines and policy statements applicable to persons convicted of any offense
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1039">
+              <external-xref legal-doc="usc" parsable-cite="usc/18/1039">section 1039</external-xref> of title 18, United States Code</cato:entity-ref>, as amended by this
+			 section.</text>
+				</paragraph>
+        <paragraph id="H81651363B40044B5AABCFEFCC4F0388D">
+          <enum>(2)</enum>
+          <header>Authorization</header>
+          <text>The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1030">United States Sentencing Commission</cato:entity-ref> may amend the Federal sentencing guidelines
+			 in accordance with the procedures set forth in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Sentencing Act of 1987/s:21/ss:a">section 21(a) of the Sentencing
+			 Act of 1987</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/28/994/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/28/994">28 U.S.C. 994</external-xref> note</cato:entity-ref>)</cato:entity> as though the authority under that section had
+			 not expired.</text>
+				</paragraph>
+      </subsection>
+    </section>
+    <section id="HABD8ED38BCB34B21A5683B613E7E97DF">
+      <enum>5.</enum>
+      <header>Statement of
+			 exclusive means of acquiring geolocation information</header>
+			<subsection id="HFD98CC89AD9F4D849B1FEE63A20E9D9B">
+        <enum>(a)</enum>
+        <header>In
+			 general</header>
+        <text display-inline="yes-display-inline">No person may acquire
+			 the geolocation information of a person for protective activities or law
+			 enforcement or intelligence purposes except pursuant to a warrant issued
+			 pursuant to rule 41 of the Federal Rules of Criminal Procedure, as amended by
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Geolocational Privacy and Surveillance Act/s:3" proposed="true">section 3</cato:entity-ref>, or the amendments made by this Act, or the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978">Foreign Intelligence
+			 Surveillance Act of 1978</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/50/1801">50 U.S.C. 1801</external-xref>)</cato:entity>.</text>
+			</subsection>
+      <subsection commented="no" display-inline="no-display-inline" id="H4BC235ED96DE496D8C05EA34B3E60D31">
+        <enum>(b)</enum>
+        <header>Geolocation
+			 information defined</header>
+        <text>In this section, the term <term>geolocation
+			 information</term> has the meaning given that term in <external-xref legal-doc="usc" parsable-cite="usc/18/2601">section 2601</external-xref> of title 18,
+			 United States Code, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Geolocational Privacy and Surveillance Act/s:2" proposed="true">section 2</cato:entity-ref>.</text>
+			</subsection>
+    </section>
+  </legis-body>
+</bill>
+</doc>

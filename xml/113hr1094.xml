@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1094ih">
+<doc>
+  <docmeta id="113hr1094ih">
     <bill congress="113" type="hr" number="1094" version="ih"/>
-    <revision id="4" commit-time="2013-04-04T20:33:35+00:00" comitter="/users/favila.xml" doc="/docs/113hr1094ih/4.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5FA8B3DCE1894932866283BF9EB9960B" public-private="public">
+    <revision size="3832" annotations="0" id="4" commit-time="2013-04-04T20:33:35+00:00" committer="favila" doc="113hr1094ih/4.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5FA8B3DCE1894932866283BF9EB9960B" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1094 IH: Safeguard American Food Exports Act of 2013</title>
@@ -67,7 +71,8 @@
     <section id="H1261D3825DEC4E5EAEE0A75D52F1A6E7" section-type="subsequent-section">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds that—</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds that—</text>
 			<paragraph id="HC36B4C0036884C0689A62DFC57DA8790">
         <enum>(1)</enum>
         <text>horses and other
@@ -107,7 +112,9 @@
     <section id="HA98D4733ECD54EA598AC709F40BC31EE">
       <enum>3.</enum>
       <header>Prohibitions</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:301">Section 301 of the Federal Food, Drug, and
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:301">Section 301 of the Federal Food, Drug, and
 			 Cosmetic Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/21/331">21 U.S.C. 331</external-xref>)</cato:entity> is amended by adding at the end the
 			 following:</text>
 			<quoted-block display-inline="no-display-inline" id="HDD1D568B808D4FFEAF0D2D38C2253D8A" style="OLC">
@@ -136,4 +143,5 @@
       </quoted-block>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

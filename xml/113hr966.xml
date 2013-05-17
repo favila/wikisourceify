@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr966ih">
+<doc>
+  <docmeta id="113hr966ih">
     <bill congress="113" type="hr" number="966" version="ih"/>
-    <revision id="6" commit-time="2013-04-01T19:50:43+00:00" comitter="/users/favila.xml" doc="/docs/113hr966ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H05BF9DDB59EA40D19614BE372B9CC24C" public-private="public">
+    <revision size="1688" annotations="0" id="6" commit-time="2013-04-01T19:50:43+00:00" committer="favila" doc="113hr966ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H05BF9DDB59EA40D19614BE372B9CC24C" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -41,7 +45,9 @@
       <enum>2.</enum>
       <header>Exemption from
 			 immigrant visa limit</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:201/ss:b/p:1">Section
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:201/ss:b/p:1">Section
 			 201(b)(1) of the Immigration and Nationality Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/8/1151/b/1">8 U.S.C. 1151(b)(1)</cato:entity-ref>)</cato:entity> is
 			 amended by adding at the end the following:</text>
 			<quoted-block display-inline="no-display-inline" id="H0DB1DA2BDB2E4D2F85D083453CC4BE89" style="OLC">
@@ -59,13 +65,18 @@
 				whether the parent is living or dead) who was naturalized pursuant to—</text>
 						<subclause id="HE5B5566F7D2A40B7B1DECD628AF69285">
               <enum>(I)</enum>
-              <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Immigration Act of 1990/s:405">section 405 of the Immigration Act of
+              <text>
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Immigration Act of 1990/s:405">section 405 of the Immigration Act of
 				1990</cato:entity-ref> (<cato:entity-ref entity-type="public-law" value="public-law/101/649">Public Law 101–649</cato:entity-ref>; <cato:entity-ref entity-type="uscode" value="usc/8/1440/note">8 U.S.C. 1440 note</cato:entity-ref>)</cato:entity>; or</text>
 						</subclause>
             <subclause id="HC486B7F2029C438B86D193308E15547B">
               <enum>(II)</enum>
-              <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Nationality Act of 1940/t:III">title III of the Act of October 14, 1940</cato:entity-ref>
-				(<cato:entity-ref entity-type="statute-at-large" value="statute-at-large/54/1137">54 Stat. 1137</cato:entity-ref>, chapter 876)</cato:entity>, as added by <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Second War Powers Act, 1942/s:1001">section 1001 of the Second War Powers
+              <text>
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Nationality Act of 1940/t:III">title III of the Act of October 14, 1940</cato:entity-ref>
+				(<cato:entity-ref entity-type="statute-at-large" value="statute-at-large/54/1137">54 Stat. 1137</cato:entity-ref>, chapter 876)</cato:entity>, as added by <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Second War Powers Act, 1942/s:1001">section 1001 of the Second War Powers
 				Act, 1942</cato:entity-ref> (<cato:entity-ref entity-type="statute-at-large" value="statute-at-large/56/182">56 Stat. 182</cato:entity-ref>, chapter
 				199)</cato:entity>.</text>
 						</subclause>
@@ -75,4 +86,5 @@
       </quoted-block>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

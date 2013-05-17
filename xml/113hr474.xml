@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr474ih">
+<doc>
+  <docmeta id="113hr474ih">
     <bill congress="113" type="hr" number="474" version="ih"/>
-    <revision id="5" commit-time="2013-03-12T22:21:42+00:00" comitter="/users/favila.xml" doc="/docs/113hr474ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2F2A599A34BD4056B01E08B5A2821339" public-private="public">
+    <revision size="8578" annotations="0" id="5" commit-time="2013-03-12T22:21:42+00:00" committer="favila" doc="113hr474ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2F2A599A34BD4056B01E08B5A2821339" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -43,7 +47,8 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:A/pt:IV/spt:B">Subpart B of part IV
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:A/pt:IV/spt:B">Subpart B of part IV
 			 of subchapter A of chapter 1 of the Internal Revenue Code of 1986</cato:entity-ref> is amended by
 			 adding at the end the following new section:</text>
 				<quoted-block display-inline="no-display-inline" id="HC88E3144D9D64F8686FDF50D081468A3" style="OLC">
@@ -88,7 +93,8 @@
                 <header>National Scenic
 				Trail</header>
                 <text display-inline="yes-display-inline">The term <term>National
-				Scenic Trail</term> means any trail authorized and designated under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="National Trails System Act/s:5">section 5
+				Scenic Trail</term> means any trail authorized and designated under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="National Trails System Act/s:5">section 5
 				of the National Trails System Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/16/1244">16 U.S.C. 1244</cato:entity-ref>)</cato:entity>, but only if such trail is
 				at least 200 miles in length.</text>
 							</paragraph>
@@ -224,7 +230,8 @@
 			 1986</cato:entity-ref>) solely by reason of continued use of the real property, such as for
 			 recreational or agricultural use (including motor vehicle use related thereto),
 			 if, under the circumstances, such use does not impair significant conservation
-			 interests and is not inconsistent with the purposes of the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="National Trails System Act">National Trails
+			 interests and is not inconsistent with the purposes of the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="National Trails System Act">National Trails
 			 System Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/16/1241/etseq">16 U.S.C. 1241 et seq.</cato:entity-ref>)</cato:entity>.</text>
 			</subsection>
       <subsection id="HAAD0612A93EB45C58F8BB327A92E9F28">
@@ -294,4 +301,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

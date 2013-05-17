@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr849ih">
+<doc>
+  <docmeta id="113hr849ih">
     <bill congress="113" type="hr" number="849" version="ih"/>
-    <revision id="5" commit-time="2013-03-26T22:12:03+00:00" comitter="/users/favila.xml" doc="/docs/113hr849ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HDA0129088D6041E595F9C692137287D4" public-private="public">
+    <revision size="9974" annotations="0" id="5" commit-time="2013-03-26T22:12:03+00:00" committer="favila" doc="113hr849ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HDA0129088D6041E595F9C692137287D4" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -45,11 +49,13 @@
 			<subsection commented="no" id="H0B941F36AE3C441E84F17886612A98E6">
         <enum>(a)</enum>
         <header>Findings</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
 			 finds the following:</text>
 				<paragraph id="H4F9F41A8C5D84272A5294A61E257887B">
           <enum>(1)</enum>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> must
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> must
 			 enact a comprehensive, deficit reduction plan to solve the country’s fiscal
 			 challenges and to promote national security, economic stability, and the
 			 continued growth and prosperity of the United States.</text>
@@ -119,7 +125,8 @@
 				</paragraph>
         <paragraph id="H5736036F5A5A4F099BAB8D45171858CE">
           <enum>(11)</enum>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> must
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> must
 			 establish a manageable, long-term discretionary spending plan. An additional
 			 $320 billion in targetable cuts to discretionary appropriations from fiscal
 			 year 2014 through fiscal year 2021 represents one-third of the net amount that
@@ -174,7 +181,8 @@
       <enum>3.</enum>
       <header>Repeal of section 251A
 			 sequestrations</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Balanced Budget and Emergency Deficit Control Act of 1985/s:251A">Section 251A of
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Balanced Budget and Emergency Deficit Control Act of 1985/s:251A">Section 251A of
 			 the Balanced Budget and Emergency Deficit Control Act of 1985</cato:entity-ref> is
 			 repealed.</text>
 		</section>
@@ -314,7 +322,8 @@
       <enum>5.</enum>
       <header>Definition of
 			 security category</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Balanced Budget and Emergency Deficit Control Act of 1985/s:250/ss:c/p:4/sp:B">Section
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Balanced Budget and Emergency Deficit Control Act of 1985/s:250/ss:c/p:4/sp:B">Section
 			 250(c)(4)(B) of the Balanced Budget and Emergency Deficit Control Act of 1985</cato:entity-ref>
 			 is amended to read as follows:</text>
 			<quoted-block display-inline="no-display-inline" id="H8A04D533774A4EE188B1CB753E002887" style="OLC">
@@ -345,7 +354,8 @@
       <enum>6.</enum>
       <header>Suspension of
 			 statutory limit on the public debt until February 1, 2017</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="No Budget, No Pay Act of 2013/s:2">Section 2 of the No Budget, No Pay Act of
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="No Budget, No Pay Act of 2013/s:2">Section 2 of the No Budget, No Pay Act of
 			 2013</cato:entity-ref> is amended—</text>
 			<paragraph id="H874A7BD3AC374217989DB37524542F9D">
         <enum>(1)</enum>
@@ -361,4 +371,5 @@
 			</paragraph>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr992ih">
+<doc>
+  <docmeta id="113hr992ih">
     <bill congress="113" type="hr" number="992" version="ih"/>
-    <revision id="5" commit-time="2013-04-02T16:05:26+00:00" comitter="/users/favila.xml" doc="/docs/113hr992ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB20BA32931814F62B3ACA7A828802175" public-private="public">
+    <revision size="5416" annotations="0" id="5" commit-time="2013-04-02T16:05:26+00:00" committer="favila" doc="113hr992ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB20BA32931814F62B3ACA7A828802175" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -42,7 +46,9 @@
       <enum>2.</enum>
       <header>Reform of prohibition
 			 on swap activity assistance</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Dodd-Frank Wall Street Reform and Consumer Protection Act/s:716">Section 716 of the Dodd-Frank Wall Street
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Dodd-Frank Wall Street Reform and Consumer Protection Act/s:716">Section 716 of the Dodd-Frank Wall Street
 			 Reform and Consumer Protection Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/8305">15 U.S.C. 8305</cato:entity-ref>)</cato:entity> is amended—</text>
 			<paragraph id="H4D9C1D3BB4EC4598808CE25AE5ED138A">
         <enum>(1)</enum>
@@ -68,7 +74,8 @@
 							<subparagraph id="H5E419E8DCB2A435A94DD3364628E8442">
                 <enum>(A)</enum>
                 <text>an insured
-				depository institution, as that term is defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Federal Deposit Insurance Act/s:3">section 3 of the Federal
+				depository institution, as that term is defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Federal Deposit Insurance Act/s:3">section 3 of the Federal
 				Deposit Insurance Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/12/1813">12 U.S.C. 1813</cato:entity-ref>)</cato:entity>; and</text>
 							</subparagraph>
               <subparagraph id="HF16470C85B0B47D7B6B7BF815135C991">
@@ -186,7 +193,8 @@
                 <header>Asset-backed
 				security</header>
                 <text>The term <term>asset-backed security</term> has the
-				meaning given such term under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Securities Exchange Act of 1934/s:3/ss:a">section 3(a) of the Securities Exchange Act of
+				meaning given such term under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Securities Exchange Act of 1934/s:3/ss:a">section 3(a) of the Securities Exchange Act of
 				1934</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/78c/a">15 U.S.C.
 				78c(a)</cato:entity-ref>)</cato:entity>.</text>
 							</subparagraph>
@@ -220,4 +228,5 @@
       </paragraph>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

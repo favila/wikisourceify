@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1027ih">
+<doc>
+  <docmeta id="113hr1027ih">
     <bill congress="113" type="hr" number="1027" version="ih"/>
-    <revision id="5" commit-time="2013-04-02T21:14:40+00:00" comitter="/users/favila.xml" doc="/docs/113hr1027ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H587B28D7A25D4E59B4CA31CC53331D2A" public-private="public">
+    <revision size="27208" annotations="0" id="5" commit-time="2013-04-02T21:14:40+00:00" committer="favila" doc="113hr1027ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H587B28D7A25D4E59B4CA31CC53331D2A" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -35,7 +39,8 @@
     <section id="HAD0F217CDE664D34AD4902B20BDCB4ED">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 			<paragraph id="HB6EEED3A0EE140BF90A3FCE88F7692B6">
         <enum>(1)</enum>
         <text>According to the
@@ -954,4 +959,5 @@
 			</section>
     </title>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

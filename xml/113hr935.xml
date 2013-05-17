@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr935ih">
+<doc>
+  <docmeta id="113hr935ih">
     <bill congress="113" type="hr" number="935" version="ih"/>
-    <revision id="4" commit-time="2013-03-29T18:32:55+00:00" comitter="/users/favila.xml" doc="/docs/113hr935ih/4.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9F8E5A027E6A4301A5AF09D36C013FA8" public-private="public">
+    <revision size="3878" annotations="0" id="4" commit-time="2013-03-29T18:32:55+00:00" committer="favila" doc="113hr935ih/4.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9F8E5A027E6A4301A5AF09D36C013FA8" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -42,7 +46,9 @@
       <enum>2.</enum>
       <header>Use of authorized
 			 pesticides</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Federal Insecticide, Fungicide, and Rodenticide Act/s:3/ss:f">Section 3(f) of the
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Federal Insecticide, Fungicide, and Rodenticide Act/s:3/ss:f">Section 3(f) of the
 			 Federal Insecticide, Fungicide, and Rodenticide Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/7/136a/f">7 U.S.C. 136a(f)</cato:entity-ref>)</cato:entity> is
 			 amended by adding at the end the following:</text>
 			<quoted-block display-inline="no-display-inline" id="H0CA34B7E02F146F39E4F260DA72072C8" style="OLC">
@@ -65,7 +71,9 @@
       <enum>3.</enum>
       <header>Discharges of
 			 pesticides</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/s:402">Section 402 of the
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/s:402">Section 402 of the
 			 Federal Water Pollution Control Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/33/1342">33 U.S.C. 1342</cato:entity-ref>)</cato:entity> is amended by adding at
 			 the end the following:</text>
 			<quoted-block display-inline="no-display-inline" id="HA58D01B4616648D18B5803AB7C0751E8" style="OLC">
@@ -87,7 +95,8 @@
           <paragraph id="HE9F4B04ED43C46DE83E45EEB6AAB36B2">
             <enum>(2)</enum>
             <header>Exceptions</header>
-            <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Water Pollution Control Act/s:402/ss:s/p:1" proposed="true">Paragraph
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Water Pollution Control Act/s:402/ss:s/p:1" proposed="true">Paragraph
 				(1)</cato:entity-ref> shall not apply to the following discharges of a pesticide or pesticide
 				residue:</text>
 						<subparagraph id="HE3B25F8504DE4BFDADB348109CD26F70">
@@ -141,4 +150,5 @@
       </quoted-block>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

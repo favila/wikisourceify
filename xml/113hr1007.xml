@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1007ih">
+<doc>
+  <docmeta id="113hr1007ih">
     <bill congress="113" type="hr" number="1007" version="ih"/>
-    <revision id="6" commit-time="2013-04-02T18:02:46+00:00" comitter="/users/favila.xml" doc="/docs/113hr1007ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8F9861BDF05E42AF9343201CBF3832C5" public-private="public">
+    <revision size="6549" annotations="0" id="6" commit-time="2013-04-02T18:02:46+00:00" committer="favila" doc="113hr1007ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8F9861BDF05E42AF9343201CBF3832C5" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -41,7 +45,9 @@
 			<subsection id="HC2271569BB3C40F3B1E169AA6985A484">
         <enum>(a)</enum>
         <header>Amendment</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Elementary and Secondary Education Act of 1965/t:V/pt:D">Part D of title V of the Elementary and
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Elementary and Secondary Education Act of 1965/t:V/pt:D">Part D of title V of the Elementary and
 			 Secondary Education Act of 1965</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/20/7241/etseq">20 U.S.C. 7241 et seq.</cato:entity-ref>)</cato:entity> is amended by adding
 			 at the end the following:</text>
 				<quoted-block display-inline="no-display-inline" id="HB3B1ECB05FA4462184C910EBD7C0C477" style="OLC">
@@ -170,7 +176,8 @@
                   <enum>(1)</enum>
                   <text>utilize existing
 				systems, when possible, including the use of forms developed in accordance with
-				<cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/s:504">section 504 forms of the Rehabilitation Act of 1973</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/20/794">20 U.S.C. 794</cato:entity-ref>)</cato:entity>;</text>
+				<cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/s:504">section 504 forms of the Rehabilitation Act of 1973</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/20/794">20 U.S.C. 794</cato:entity-ref>)</cato:entity>;</text>
 								</paragraph>
                 <paragraph id="H2BAA5557DF324B5F908DB748F6EC1051">
                   <enum>(2)</enum>
@@ -219,4 +226,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

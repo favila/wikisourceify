@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1212ih">
+<doc>
+  <docmeta id="113hr1212ih">
     <bill congress="113" type="hr" number="1212" version="ih"/>
-    <revision id="4" commit-time="2013-04-04T23:30:02+00:00" comitter="/users/favila.xml" doc="/docs/113hr1212ih/4.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEBF6ED54BBAF4275BCCBAB240AFD7B8C" public-private="public">
+    <revision size="3363" annotations="0" id="4" commit-time="2013-04-04T23:30:02+00:00" committer="favila" doc="113hr1212ih/4.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEBF6ED54BBAF4275BCCBAB240AFD7B8C" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1212 IH: Charitable Driving Tax Relief Act of 2013</title>
@@ -50,7 +54,8 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:B/pt:III">Part III of subchapter B of chapter 1 of the Internal
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:B/pt:III">Part III of subchapter B of chapter 1 of the Internal
 			 Revenue Code of 1986</cato:entity-ref> is amended by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:139D">section 139D</cato:entity-ref> the following
 			 new section:</text>
 				<quoted-block id="H33341B973A20493F87D5142DB3E3CEF0">
@@ -84,7 +89,8 @@
               <enum>(b)</enum>
               <header>Application To
 				volunteer services only</header>
-              <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:139E/ss:a" proposed="true">Subsection (a)</cato:entity-ref> shall not apply with respect
+              <text display-inline="yes-display-inline">
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:139E/ss:a" proposed="true">Subsection (a)</cato:entity-ref> shall not apply with respect
 				to any expenses relating to the performance of services for
 				compensation.</text>
 						</subsection>
@@ -92,7 +98,8 @@
               <enum>(c)</enum>
               <header>No double
 				benefit</header>
-              <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:139E/ss:a" proposed="true">Subsection (a)</cato:entity-ref> shall not apply with respect to any
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:139E/ss:a" proposed="true">Subsection (a)</cato:entity-ref> shall not apply with respect to any
 				expenses if the individual claims a deduction or credit for such expenses under
 				any other provision of this title.</text>
 						</subsection>
@@ -100,7 +107,8 @@
               <enum>(d)</enum>
               <header>Exemption from
 				reporting requirements</header>
-              <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6041">Section 6041</cato:entity-ref> shall not apply with respect
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6041">Section 6041</cato:entity-ref> shall not apply with respect
 				to reimbursements excluded from income under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:139E/ss:a" proposed="true">subsection
 				(a)</cato:entity-ref>.</text>
 						</subsection>
@@ -133,4 +141,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

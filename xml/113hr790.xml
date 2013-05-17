@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr790ih">
+<doc>
+  <docmeta id="113hr790ih">
     <bill congress="113" type="hr" number="790" version="ih"/>
-    <revision id="7" commit-time="2013-03-25T03:51:47+00:00" comitter="/users/favila.xml" doc="/docs/113hr790ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HF21E462C05664CC1ABF7F7374E1E5BE1" public-private="public">
+    <revision size="2778" annotations="0" id="7" commit-time="2013-03-25T03:51:47+00:00" committer="favila" doc="113hr790ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HF21E462C05664CC1ABF7F7374E1E5BE1" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -38,7 +42,9 @@
       <enum>2.</enum>
       <header>Required
 			 disclosure of number of domestic and foreign employees</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Securities Exchange Act of 1934/s:13">Section 13 of the Securities Exchange Act of
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Securities Exchange Act of 1934/s:13">Section 13 of the Securities Exchange Act of
 			 1934</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/78m">15 U.S.C. 78m</cato:entity-ref>)</cato:entity> is amended by adding at the end the following new
 			 subsection:</text>
 			<quoted-block display-inline="no-display-inline" id="HD135ABAA8A0145138797D415BC3B5616" style="OLC">
@@ -107,4 +113,5 @@
       </quoted-block>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

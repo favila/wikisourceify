@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1009ih">
+<doc>
+  <docmeta id="113hr1009ih">
     <bill congress="113" type="hr" number="1009" version="ih"/>
-    <revision id="6" commit-time="2013-04-02T18:16:14+00:00" comitter="/users/favila.xml" doc="/docs/113hr1009ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB471FBB4A77F4FFAA5124BDA91954381" public-private="public">
+    <revision size="7782" annotations="0" id="6" commit-time="2013-04-02T18:16:14+00:00" committer="favila" doc="113hr1009ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB471FBB4A77F4FFAA5124BDA91954381" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -54,7 +58,8 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:457/ss:e">Subsection (e) of section 457 of the Internal Revenue
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:457/ss:e">Subsection (e) of section 457 of the Internal Revenue
 			 Code of 1986</cato:entity-ref> is amended by adding at the end the following new
 			 paragraph:</text>
 				<quoted-block id="HADDFB1B1F67E4420816B33FC9685E6AE" style="OLC">
@@ -197,7 +202,8 @@
 			 amendments</header>
 				<paragraph id="H76B381A1EDF241908BF2B8F225C28DA5">
           <enum>(1)</enum>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:457/ss:e/p:11">Paragraph (11) of
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:457/ss:e/p:11">Paragraph (11) of
 			 section 457(e) of such Code</cato:entity-ref> is amended to read as follows:</text>
 					<quoted-block display-inline="no-display-inline" id="H0056D47D65614562811C11A58BC4100D" style="OLC">
 						<paragraph id="H6FA1FF8E0EE646BF965C77A1495F936E">
@@ -214,10 +220,15 @@
 				</paragraph>
         <paragraph id="H9C20F28E48D2406DB45E0EBD095E668D">
           <enum>(2)</enum>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:3121/ss:a/p:5/sp:I">Section
-			 3121(a)(5)(I) of such Code</cato:entity-ref> is amended by striking <quote><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:457/ss:e/p:11/sp:A/cl:ii">section
-			 457(e)(11)(A)(ii)</cato:entity-ref></quote> and inserting <quote><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:457/ss:e/p:19">section
-			 457(e)(19)</cato:entity-ref></quote>.</text>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:3121/ss:a/p:5/sp:I">Section
+			 3121(a)(5)(I) of such Code</cato:entity-ref> is amended by striking <quote>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:457/ss:e/p:11/sp:A/cl:ii">section
+			 457(e)(11)(A)(ii)</cato:entity-ref>
+            </quote> and inserting <quote>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:457/ss:e/p:19">section
+			 457(e)(19)</cato:entity-ref>
+            </quote>.</text>
 				</paragraph>
       </subsection>
       <subsection id="H3F92A6D224F24E63A3EB398DEE4D8A7D">
@@ -236,8 +247,10 @@
       <text display-inline="no-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1600">Secretary of
 			 Labor</cato:entity-ref> shall issue guidance clarifying that a length of service award program
 			 described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:457/ss:e/p:19">section 457(e)(19) of the Internal Revenue Code of 1986</cato:entity-ref> is not an
-			 employee pension benefit plan under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Employee Retirement Income Security Act of 1974/s:3/p:2">section 3(2) of the Employee Retirement
+			 employee pension benefit plan under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Employee Retirement Income Security Act of 1974/s:3/p:2">section 3(2) of the Employee Retirement
 			 Income Security Act of 1974</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/29/1002//2">29 U.S.C. 1002(2)</cato:entity-ref>)</cato:entity>.</text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

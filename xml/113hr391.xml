@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr391ih">
+<doc>
+  <docmeta id="113hr391ih">
     <bill congress="113" type="hr" number="391" version="ih"/>
-    <revision id="4" commit-time="2013-03-11T21:52:36+00:00" comitter="/users/favila.xml" doc="/docs/113hr391ih/4.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA28F42F4667147EA8C8E74DCAF9E6198" public-private="public">
+    <revision size="3693" annotations="0" id="4" commit-time="2013-03-11T21:52:36+00:00" committer="favila" doc="113hr391ih/4.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA28F42F4667147EA8C8E74DCAF9E6198" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -43,7 +47,8 @@
       <subsection id="H6AC04EDD807445B3A16FEC962BA2FA02">
         <enum>(b)</enum>
         <header>Findings</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
 			 finds the following:</text>
 				<paragraph id="H7814194B48AD456C82BA2B653A5F3B37">
           <enum>(1)</enum>
@@ -57,7 +62,8 @@
 				</paragraph>
         <paragraph id="H0AE57901CFB34553BCB26AFF0754A7FD">
           <enum>(3)</enum>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> has asked
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> has asked
 			 Federal agencies to make major cuts to their budgets.</text>
 				</paragraph>
         <paragraph id="HDCE9EA9E2CBE427AA477381C67369B9A">
@@ -86,7 +92,8 @@
         <paragraph id="HA06CB3FEAA6748C29C695EF259E5684A">
           <enum>(2)</enum>
           <text display-inline="yes-display-inline">for subsequent pay periods, the applicable
-			 rate during 2015, subject to adjustment under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Legislative Reorganization Act of 1946/s:601/ss:a/p:2">paragraph (2) of section 601(a)
+			 rate during 2015, subject to adjustment under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Legislative Reorganization Act of 1946/s:601/ss:a/p:2">paragraph (2) of section 601(a)
 			 of the Legislative Reorganization Act of 1946</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/2/31//2">2 U.S.C. 31(2)</cato:entity-ref>)</cato:entity>.</text>
 				</paragraph>
       </subsection>
@@ -96,7 +103,8 @@
 			 Congress defined</header>
         <text display-inline="yes-display-inline">For purposes
 			 of this Act, the term <term>Member of Congress</term> means an individual
-			 serving in a position under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Legislative Reorganization Act of 1946/s:601/ss:a/sp:A, B, C">subparagraph (A), (B), or (C) of section 601(a) of
+			 serving in a position under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Legislative Reorganization Act of 1946/s:601/ss:a/sp:A, B, C">subparagraph (A), (B), or (C) of section 601(a) of
 			 the Legislative Reorganization Act of 1946</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/2/31">2 U.S.C. 31</cato:entity-ref>)</cato:entity>.</text>
 			</subsection>
     </section>
@@ -110,7 +118,8 @@
 				<paragraph id="H4729570F89744F0AB1201649E1CE6C28">
           <enum>(1)</enum>
           <header>Reduction</header>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/3/102">Section
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/3/102">Section
 			 102 of title 3, United States Code</cato:entity-ref>, is amended by striking
 			 <quote>$400,000</quote> and inserting <quote>$360,000</quote>.</text>
 				</paragraph>
@@ -145,4 +154,5 @@
       </subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

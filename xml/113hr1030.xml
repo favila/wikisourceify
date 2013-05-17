@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1030ih">
+<doc>
+  <docmeta id="113hr1030ih">
     <bill congress="113" type="hr" number="1030" version="ih"/>
-    <revision id="7" commit-time="2013-04-02T21:34:42+00:00" comitter="/users/favila.xml" doc="/docs/113hr1030ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEF762456AF414D4C990AAFDAFD84EE7E" public-private="public">
+    <revision size="9196" annotations="0" id="7" commit-time="2013-04-02T21:34:42+00:00" committer="favila" doc="113hr1030ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEF762456AF414D4C990AAFDAFD84EE7E" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -55,7 +59,8 @@
         <enum>(b)</enum>
         <header>Effective
 			 date</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Consumer Price Index for Elderly Consumers Act of 2013/s:2/ss:a" proposed="true">Subsection (a)</cato:entity-ref> shall apply with respect to calendar months
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Consumer Price Index for Elderly Consumers Act of 2013/s:2/ss:a" proposed="true">Subsection (a)</cato:entity-ref> shall apply with respect to calendar months
 			 ending on or after July 31 of the calendar year following the calendar year in
 			 which this Act is enacted.</text>
 			</subsection>
@@ -63,8 +68,11 @@
         <enum>(c)</enum>
         <header>Authorization of
 			 appropriations</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:funds-and-year amount="indefinite">such sums
-			 as are necessary</cato:funds-and-year> <cato:property name="purpose">to carry out the provisions of <cato:entity-ref entity-type="act" value="Consumer Price Index for Elderly Consumers Act of 2013/s:2" proposed="true">this section</cato:entity-ref></cato:property>.</cato:entity></text>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:funds-and-year amount="indefinite">such sums
+			 as are necessary</cato:funds-and-year> <cato:property name="purpose">to carry out the provisions of <cato:entity-ref entity-type="act" value="Consumer Price Index for Elderly Consumers Act of 2013/s:2" proposed="true">this section</cato:entity-ref>
+            </cato:property>.</cato:entity>
+        </text>
 			</subsection>
     </section>
     <section id="H5291764A1B7F43EBAD7B9C96E4853325">
@@ -80,7 +88,10 @@
           <enum>(1)</enum>
           <header>In
 			 general</header>
-          <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:215/ss:i">Section 215(i) of the <act-name parsable-cite="SSA">Social Security Act</act-name></cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/415/i">42 U.S.C. 415(i)</cato:entity-ref>)</cato:entity> is
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Social Security Act/s:215/ss:i">Section 215(i) of the <act-name parsable-cite="SSA">Social Security Act</act-name>
+              </cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/415/i">42 U.S.C. 415(i)</cato:entity-ref>)</cato:entity> is
 			 amended—</text>
 					<subparagraph id="H862C95591EDA43B39E245A9ED42DD6AD">
             <enum>(A)</enum>
@@ -101,14 +112,16 @@
 			 by striking <quote>and by section 9001</quote> and inserting <quote>, by
 			 section 9001</quote>, and by inserting after <quote>1986,</quote> the
 			 following: <quote>and by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Consumer Price Index for Elderly Consumers Act of 2013/s:3/ss:a" proposed="true">section 3(a) of the <short-title>Consumer Price Index for Elderly Consumers Act of
-			 2013</short-title></cato:entity-ref>,</quote>.</text>
+			 2013</short-title>
+                </cato:entity-ref>,</quote>.</text>
 					</subparagraph>
         </paragraph>
         <paragraph id="HC203D0CACA1941769DF04561CEE7E176">
           <enum>(2)</enum>
           <header>Conforming
 			 amendments in applicable former law</header>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:215/ss:i/p:1/sp:C">Section 215(i)(1)(C) of such
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:215/ss:i/p:1/sp:C">Section 215(i)(1)(C) of such
 			 Act</cato:entity-ref>, as in effect in December 1978 and applied in certain cases under the
 			 provisions of such Act in effect after December 1978, is amended by inserting
 			 before the period the following: <quote>, and, solely with respect to any
@@ -138,11 +151,14 @@
           <enum>(1)</enum>
           <header>In
 			 general</header>
-          <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/t:XVIII">Title XVIII of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395/etseq">42 U.S.C. 1395 et seq.</cato:entity-ref>)</cato:entity> is
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Social Security Act/t:XVIII">Title XVIII of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395/etseq">42 U.S.C. 1395 et seq.</cato:entity-ref>)</cato:entity> is
 			 amended—</text>
 					<subparagraph id="HC966D9A80CCC44668F1A414E08069D69">
             <enum>(A)</enum>
-            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1814/ss:i/p:2/sp:B">section
+            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:1814/ss:i/p:2/sp:B">section
 			 1814(i)(2)(B)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395f/i/2/B">42 U.S.C. 1395f(i)(2)(B)</cato:entity-ref>)</cato:entity>, by inserting <quote>(i) for
 			 accounting years ending before October 1 of the second calendar year following
 			 the calendar year in which the <short-title>Consumer Price
@@ -159,7 +175,8 @@
 					</subparagraph>
           <subparagraph id="HB18F252A5CAB4AA094635D8330E7EE63">
             <enum>(B)</enum>
-            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1821/ss:c/p:2/sp:C/cl:ii/scl:II">section
+            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:1821/ss:c/p:2/sp:C/cl:ii/scl:II">section
 			 1821(c)(2)(C)(ii)(II)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395i–5/c/2/C/ii/II">42 U.S.C. 1395i–5(c)(2)(C)(ii)(II)</cato:entity-ref>)</cato:entity>, by striking
 			 <quote>consumer price index for all urban consumers (all items; United States
 			 city average)</quote> and inserting <quote>Consumer Price Index for Elderly
@@ -167,28 +184,32 @@
 					</subparagraph>
           <subparagraph id="H74F678F18B8348F6BB55E2A9B24E3C30">
             <enum>(C)</enum>
-            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1833/ss:h/p:2/sp:A/cl:i">section
+            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:1833/ss:h/p:2/sp:A/cl:i">section
 			 1833(h)(2)(A)(i)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395l/h/2/A/i">42 U.S.C. 1395l(h)(2)(A)(i)</cato:entity-ref>)</cato:entity> by striking <quote>Consumer
 			 Price Index for All Urban Consumers (United States city average)</quote> and
 			 inserting <quote>Consumer Price Index for Elderly Consumers</quote>;</text>
 					</subparagraph>
           <subparagraph id="H7B028190F2614BE8B112C4A36D4C8AEF">
             <enum>(D)</enum>
-            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1833/ss:i/p:2/sp:C/cl:i">section
+            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:1833/ss:i/p:2/sp:C/cl:i">section
 			 1833(i)(2)(C)(i)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395l/i/2/C/i">42 U.S.C. 1395l(i)(2)(C)(i)</cato:entity-ref>)</cato:entity>, by striking <quote>Consumer
 			 Price Index for all urban consumers (U.S. city average)</quote> and inserting
 			 <quote>Consumer Price Index for Elderly Consumers</quote>;</text>
 					</subparagraph>
           <subparagraph id="HAF9D4E37970241489CA1A8D58DF711A1">
             <enum>(E)</enum>
-            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1834/ss:a/p:14/sp:L">section
+            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:1834/ss:a/p:14/sp:L">section
 			 1834(a)(14)(L)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395m/a/14/L">42 U.S.C. 1395m(a)(14)(L)</cato:entity-ref>)</cato:entity>, by striking <quote>consumer price
 			 index for all urban consumers (U.S. urban average)</quote> and inserting
 			 <quote>applicable consumer price index</quote>;</text>
 					</subparagraph>
           <subparagraph display-inline="no-display-inline" id="H727F45DB54C949D8AE08153CC9B0FE61">
             <enum>(F)</enum>
-            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1834/ss:h/p:4/sp:A/cl:xi/scl:I">section
+            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:1834/ss:h/p:4/sp:A/cl:xi/scl:I">section
 			 1834(h)(4)(A)(xi)(I)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395m/h/4/A/xi/I">42 U.S.C. 1395m(h)(4)(A)(xi)(I)</cato:entity-ref>)</cato:entity>, by striking
 			 <quote>consumer price index for all urban consumers (United States city
 			 average)</quote> and inserting <quote>Consumer Price Index for Elderly
@@ -196,21 +217,24 @@
 					</subparagraph>
           <subparagraph id="HA541CBF806F943F4A39D37B1EB46BEBA">
             <enum>(G)</enum>
-            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1834/ss:l/p:3/sp:B">section
+            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:1834/ss:l/p:3/sp:B">section
 			 1834(l)(3)(B)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395m/l/3/B">42 U.S.C. 1395m(l)(3)(B)</cato:entity-ref>)</cato:entity>, by striking <quote>consumer price
 			 index for all urban consumers (U.S. city average)</quote> and inserting
 			 <quote>Consumer Price Index for Elderly Consumers</quote>;</text>
 					</subparagraph>
           <subparagraph id="HF07F399B56E946509E1BB67C4BCE1011">
             <enum>(H)</enum>
-            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1839/ss:i/p:5/sp:A/cl:ii">section
+            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:1839/ss:i/p:5/sp:A/cl:ii">section
 			 1839(i)(5)(A)(ii)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395r/i/5/A/ii">42 U.S.C. 1395r(i)(5)(A)(ii)</cato:entity-ref>)</cato:entity>, by striking <quote>Consumer
 			 Price Index (United States city average)</quote> and inserting <quote>Consumer
 			 Price Index for Elderly Consumers</quote>;</text>
 					</subparagraph>
           <subparagraph id="H6DE8913C18994E998AC6947CDB783BFB">
             <enum>(I)</enum>
-            <text display-inline="yes-display-inline">in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1842/ss:s/p:1/sp:B/cl:ii/scl:I">section 1842(s)(1)(B)(ii)(I)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395u/s/1/B/ii/I">42 U.S.C.
+            <text display-inline="yes-display-inline">in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:1842/ss:s/p:1/sp:B/cl:ii/scl:I">section 1842(s)(1)(B)(ii)(I)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395u/s/1/B/ii/I">42 U.S.C.
 			 1395u(s)(1)(B)(ii)(I)</cato:entity-ref>)</cato:entity>, by striking <quote>consumer price index for all urban
 			 consumers (United States city average)</quote> and inserting <quote>Consumer
 			 Price Index for Elderly Consumers</quote>;</text>
@@ -218,15 +242,18 @@
           <subparagraph id="H14D9D37E2A9D47F780A0CBC073A61B0C">
             <enum>(J)</enum>
             <text>in each of
-			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1860D–14/ss:a/p:3/sp:D/cl:ii">subparagraphs (D)(ii)</cato:entity-ref> and <cato:entity-ref entity-type="act" value="Social Security Act/s:1860D–14/ss:a/p:3/sp:E/cl:i/scl:II">(E)(i)(II) of section 1860D–14(a)(3)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395w–114/a/3">42 U.S.C.
-			 1395w–114(a)(3)</cato:entity-ref>)</cato:entity> and in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1860D–14/ss:a/p:4/sp:A/cl:ii">section 1860D–14(a)(4)(A)(ii)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395w–114/a/4/A/ii">42 U.S.C.
+			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:1860D–14/ss:a/p:3/sp:D/cl:ii">subparagraphs (D)(ii)</cato:entity-ref> and <cato:entity-ref entity-type="act" value="Social Security Act/s:1860D–14/ss:a/p:3/sp:E/cl:i/scl:II">(E)(i)(II) of section 1860D–14(a)(3)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395w–114/a/3">42 U.S.C.
+			 1395w–114(a)(3)</cato:entity-ref>)</cato:entity> and in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:1860D–14/ss:a/p:4/sp:A/cl:ii">section 1860D–14(a)(4)(A)(ii)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395w–114/a/4/A/ii">42 U.S.C.
 			 1395w–114(a)(4)(A)(ii)</cato:entity-ref>)</cato:entity>, by striking <quote>consumer price index (all items;
 			 U.S. city average)</quote> and inserting <quote>Consumer Price Index for
 			 Elderly Consumers</quote>;</text>
 					</subparagraph>
           <subparagraph id="H884D43719D3E41FEB135F7E2D924B2E8">
             <enum>(K)</enum>
-            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1882/ss:p/p:11/sp:C/cl:ii">section
+            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:1882/ss:p/p:11/sp:C/cl:ii">section
 			 1882(p)(11)(C)(ii)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395ss/p/11/C/ii">42 U.S.C. 1395ss(p)(11)(C)(ii)</cato:entity-ref>)</cato:entity>, by striking
 			 <quote>Consumer Price Index for all urban consumers (all items; U.S. city
 			 average)</quote> and inserting <quote>Consumer Price Index for Elderly
@@ -234,13 +261,15 @@
 					</subparagraph>
           <subparagraph id="H1A229A1C30E640D3954265C3B50B56AF">
             <enum>(L)</enum>
-            <text>in each of <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1886/ss:h/p:2/sp:E/cl:iv">clauses
+            <text>in each of <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:1886/ss:h/p:2/sp:E/cl:iv">clauses
 			 (iv)</cato:entity-ref> and <cato:entity-ref entity-type="act" value="Social Security Act/s:1886/ss:h/p:2/sp:E/cl:vi/scl:II">(vi)(II) of section 1886(h)(2)(E)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395ww/h/2/E">42 U.S.C. 1395ww(h)(2)(E)</cato:entity-ref>)</cato:entity>, by
 			 striking <quote>for all urban consumers</quote>; and</text>
 					</subparagraph>
           <subparagraph id="HB357E787E2514BC0A7858E97CF867F8A">
             <enum>(M)</enum>
-            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1886/ss:h/p:5/sp:B">section
+            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:1886/ss:h/p:5/sp:B">section
 			 1886(h)(5)(B)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395ww/h/5/B">42 U.S.C. 1395ww(h)(5)(B)</cato:entity-ref>)</cato:entity>, by striking <quote>Consumer Price
 			 Index for All Urban Consumers (United States city average)</quote> and
 			 inserting <quote>Consumer Price Index for Elderly Consumers</quote>.</text>
@@ -258,4 +287,5 @@
       </subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

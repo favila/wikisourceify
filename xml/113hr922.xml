@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr922ih">
+<doc>
+  <docmeta id="113hr922ih">
     <bill congress="113" type="hr" number="922" version="ih"/>
-    <revision id="5" commit-time="2013-03-29T16:37:59+00:00" comitter="/users/favila.xml" doc="/docs/113hr922ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEE75FB797D8842F99F5BDD43C9FA11F4" public-private="public">
+    <revision size="2150" annotations="0" id="5" commit-time="2013-03-29T16:37:59+00:00" committer="favila" doc="113hr922ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEE75FB797D8842F99F5BDD43C9FA11F4" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -46,7 +50,8 @@
         <enum>(a)</enum>
         <header>Authorization of
 			 appropriations</header>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/15751">Section 15751
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/15751">Section 15751
 			 of title 40, United States Code</cato:entity-ref>, is amended—</text>
 				<paragraph id="H0CB9CAFE2EFA4024B949EA6CA4EE5766">
           <enum>(1)</enum>
@@ -62,10 +67,12 @@
               <enum>(b)</enum>
               <header>Northern Border
 				Regional Commission</header>
-              <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is
+              <text display-inline="yes-display-inline">
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is
 				authorized to be appropriated to the <cato:entity-ref entity-type="federal-body" value="Northern Border Regional Commission" proposed="true">Northern Border Regional Commission</cato:entity-ref> <cato:property name="purpose">to
 				carry out this subtitle</cato:property> <cato:funds-and-year amount="30000000" year="2014, 2015, 2016, 2017, 2018">$30,000,000 for each of fiscal years 2014 through
-				2018</cato:funds-and-year>.</cato:entity></text>
+				2018</cato:funds-and-year>.</cato:entity>
+              </text>
 						</subsection>
             <after-quoted-block>;
 				and</after-quoted-block>
@@ -83,10 +90,12 @@
         <enum>(b)</enum>
         <header>Technical
 			 amendment</header>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40">Subtitle V of title
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40">Subtitle V of title
 			 40, United States Code</cato:entity-ref>, is amended by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/1,2,3,4">chapters 1, 2, 3, and 4</cato:entity-ref> as
 			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/151,153,155,157" proposed="true">chapters 151, 153, 155, and 157</cato:entity-ref>, respectively.</text>
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr911ih">
+<doc>
+  <docmeta id="113hr911ih">
     <bill congress="113" type="hr" number="911" version="ih"/>
-    <revision id="6" commit-time="2013-03-29T15:05:49+00:00" comitter="/users/favila.xml" doc="/docs/113hr911ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HD09B00C32CE741E7A2DE9F8A630CDD09" public-private="public">
+    <revision size="4827" annotations="0" id="6" commit-time="2013-03-29T15:05:49+00:00" committer="favila" doc="113hr911ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HD09B00C32CE741E7A2DE9F8A630CDD09" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -89,7 +93,9 @@
         <enum>(a)</enum>
         <header>Amendment to
 			 McCarran-Ferguson Act</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="McCarran-Ferguson Act/s:3" official-title="true">Section 3 of the Act of March 9, 1945</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/1013">15
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="McCarran-Ferguson Act/s:3" official-title="true">Section 3 of the Act of March 9, 1945</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/1013">15
 			 U.S.C. 1013</cato:entity-ref>)</cato:entity>, commonly known as the McCarran-Ferguson Act, is amended by adding
 			 at the end the following:</text>
 				<quoted-block id="H26B9E3631CEE4B0E840EE1B1CD3AC4ED" style="OLC">
@@ -135,7 +141,8 @@
         <enum>(b)</enum>
         <header>Related
 			 Provision</header>
-        <text>For purposes of <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Federal Trade Commission Act/s:5">section 5 of the Federal Trade
+        <text>For purposes of <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Federal Trade Commission Act/s:5">section 5 of the Federal Trade
 			 Commission Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/45">15 U.S.C. 45</cato:entity-ref>)</cato:entity> to the extent such section applies to unfair
 			 methods of competition, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="McCarran-Ferguson Act/s:3/ss:c">section 3(c) of the McCarran-Ferguson Act</cato:entity-ref> shall apply
 			 with respect to the business of health insurance without regard to whether such
@@ -145,4 +152,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

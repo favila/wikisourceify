@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr908ih">
+<doc>
+  <docmeta id="113hr908ih">
     <bill congress="113" type="hr" number="908" version="ih"/>
-    <revision id="5" commit-time="2013-03-29T14:53:10+00:00" comitter="/users/favila.xml" doc="/docs/113hr908ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9578FBAADA1F45BBAB50F6BF06AEA1E8" public-private="public">
+    <revision size="2130" annotations="0" id="5" commit-time="2013-03-29T14:53:10+00:00" committer="favila" doc="113hr908ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9578FBAADA1F45BBAB50F6BF06AEA1E8" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -40,7 +44,9 @@
         <enum>(a)</enum>
         <header>Legal authority
 			 of Lookout</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Washington State Wilderness Act of 1984/s:4/ss:b">Section 4(b) of
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Washington State Wilderness Act of 1984/s:4/ss:b">Section 4(b) of
 			 the Washington State Wilderness Act of 1984</cato:entity-ref> (<cato:entity-ref entity-type="public-law" value="public-law/98/339">Public Law 98–339</cato:entity-ref>; <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/98/300">98 Stat. 300</cato:entity-ref>;
 			 <cato:entity-ref entity-type="uscode" value="usc/16/1131/note">16 U.S.C. 1131 note</cato:entity-ref>)</cato:entity> is amended by striking the period at the end and inserting
 			 the following: <quote>, and except that with respect to the lands described in
@@ -73,4 +79,5 @@
 			 and designated as a wilderness area in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Washington State Wilderness Act of 1984/s:4/ss:b">section 4(b) of such Act</cato:entity-ref>.</text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

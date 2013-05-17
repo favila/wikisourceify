@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr976ih">
+<doc>
+  <docmeta id="113hr976ih">
     <bill congress="113" type="hr" number="976" version="ih"/>
-    <revision id="9" commit-time="2013-04-01T22:39:37+00:00" comitter="/users/favila.xml" doc="/docs/113hr976ih/9.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB723B2CDBCBB4BC586CA5DF8C78A4906" public-private="public">
+    <revision size="2834" annotations="0" id="9" commit-time="2013-04-01T22:39:37+00:00" committer="favila" doc="113hr976ih/9.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB723B2CDBCBB4BC586CA5DF8C78A4906" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -66,7 +70,8 @@
         <enum>(b)</enum>
         <header>Effective
 			 date</header>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="113 HR 976/s:1/ss:a" proposed="true">Subsection (a)</cato:entity-ref> shall
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="113 HR 976/s:1/ss:a" proposed="true">Subsection (a)</cato:entity-ref> shall
 			 cease to have effect on the date on which final disposition is made in all
 			 actions that allege as a material fact the unconstitutionality of the
 			 appointment of individuals to such <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6300">Board</cato:entity-ref> that are pending before a Federal
@@ -92,7 +97,9 @@
 			 the term <term>agency action</term> has the meaning given such term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/551">section
 			 551 of title 5, United States Code</cato:entity-ref>, but does not include an action taken by the
 			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6300">General Counsel of the National Labor Relations Board</cato:entity-ref> under authority set forth
-			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="National Labor Relations Act/s:3/ss:d">section 3(d) of the National Labor Relations Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/29/153/d">29 U.S.C.153(d)</cato:entity-ref>)</cato:entity>.</text>
+			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="National Labor Relations Act/s:3/ss:d">section 3(d) of the National Labor Relations Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/29/153/d">29 U.S.C.153(d)</cato:entity-ref>)</cato:entity>.</text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

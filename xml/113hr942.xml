@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr942ih">
+<doc>
+  <docmeta id="113hr942ih">
     <bill congress="113" type="hr" number="942" version="ih"/>
-    <revision id="7" commit-time="2013-03-29T20:09:17+00:00" comitter="/users/favila.xml" doc="/docs/113hr942ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H27A8DFE80EB242FBBDC8AA8A0CF5E240" public-private="public">
+    <revision size="47599" annotations="0" id="7" commit-time="2013-03-29T20:09:17+00:00" committer="favila" doc="113hr942ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H27A8DFE80EB242FBBDC8AA8A0CF5E240" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -39,7 +43,8 @@
     <section display-inline="no-display-inline" id="H9916BADF377745DDAA3157B890B31755">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 			<paragraph id="H7BB6E098F6D348B0BB5F2A19223486EF">
         <enum>(1)</enum>
         <text>Individuals with
@@ -111,7 +116,8 @@
 			</paragraph>
       <paragraph id="HD167D058D841465F8E35C7BA525D4657">
         <enum>(8)</enum>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> and the
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> and the
 			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7530">Centers for Medicare &amp; Medicaid Services</cato:entity-ref> have previously recognized the
 			 benefits of a separate classification for unique, customized products. In 2008,
 			 Congress exempted certain CRT items from inclusion in the Medicare DME
@@ -130,7 +136,9 @@
         <enum>(a)</enum>
         <header>New
 			 category</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1861">Section 1861 of the
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1861">Section 1861 of the
 			 Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395x">42 U.S.C. 1395x</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="HC685CFB1DEF242ACB0B41C131CAF8F6B">
           <enum>(1)</enum>
@@ -238,14 +246,18 @@
 				determine if an individual is a qualified individual based on the level of
 				physical and functional needs and capacities related to a medical condition or
 				conditions described in
-				<internal-xref idref="H6E11144CA6D14171B0A1652725726FF3" legis-path="(iii)(2)(E)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:E" proposed="true">subparagraph (E)</cato:entity-ref></internal-xref>.</text>
+				<internal-xref idref="H6E11144CA6D14171B0A1652725726FF3" legis-path="(iii)(2)(E)">
+                        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:E" proposed="true">subparagraph (E)</cato:entity-ref>
+                      </internal-xref>.</text>
 									</clause>
                 </subparagraph>
                 <subparagraph commented="no" id="H34ED96381A73459DABF5861A11509FD0" indent="up1">
                   <enum>(B)</enum>
                   <text display-inline="yes-display-inline">The items designated as complex
 				rehabilitation technology items under
-				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:A/cl:i" proposed="true"><internal-xref idref="HC5D2C1B8FC4D44C29625AE41B94A86DA" legis-path="(iii)(3)(A)(i)">subparagraph (A)(i)</internal-xref></cato:entity-ref> shall include
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:A/cl:i" proposed="true">
+                      <internal-xref idref="HC5D2C1B8FC4D44C29625AE41B94A86DA" legis-path="(iii)(3)(A)(i)">subparagraph (A)(i)</internal-xref>
+                    </cato:entity-ref> shall include
 				items which, as of January 1, 2013 , were classified within the following HCPCS
 				codes: E0637, E0638, E0641, E0642, E0986, E1002, E1003, E1004, E1005, E1006,
 				E1007, E1008, E1009, E1010, E1011, E1014, E1037, E1161, E1220, E1228, E1229,
@@ -264,7 +276,9 @@
                     <enum>(i)</enum>
                     <text>The items designated as
 				complex rehabilitation technology items under
-				<internal-xref idref="HC5D2C1B8FC4D44C29625AE41B94A86DA" legis-path="(iii)(3)(A)(i)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:A/cl:i" proposed="true">subparagraph (A)(i)</cato:entity-ref></internal-xref> shall include
+				<internal-xref idref="HC5D2C1B8FC4D44C29625AE41B94A86DA" legis-path="(iii)(3)(A)(i)">
+                        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:A/cl:i" proposed="true">subparagraph (A)(i)</cato:entity-ref>
+                      </internal-xref> shall include
 				each item that—</text>
 										<subclause id="H019FF1D611D04AA393F0A802F8FBFB53" indent="up1">
                       <enum>(I)</enum>
@@ -313,7 +327,9 @@
                   <enum>(E)</enum>
                   <text>In establishing the eligibility
 				criteria under
-				<internal-xref idref="HC5D2C1B8FC4D44C29625AE41B94A86DA" legis-path="(iii)(3)(A)(ii)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:A/cl:ii" proposed="true">subparagraph (A)(ii)</cato:entity-ref></internal-xref>, the
+				<internal-xref idref="HC5D2C1B8FC4D44C29625AE41B94A86DA" legis-path="(iii)(3)(A)(ii)">
+                      <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:A/cl:ii" proposed="true">subparagraph (A)(ii)</cato:entity-ref>
+                    </internal-xref>, the
 				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall include appropriate physical and functional needs and
 				capacities arising from any of the following medical conditions:</text>
 									<clause id="H34610C2B262740578650DC9354796488">
@@ -347,14 +363,18 @@
 										<subclause id="HDEB95848665142F289480C9CF29B0793" indent="up1">
                       <enum>(I)</enum>
                       <text>a list of items designated under
-				<internal-xref idref="HC5D2C1B8FC4D44C29625AE41B94A86DA" legis-path="(iii)(3)(A)(i)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:A/cl:i" proposed="true">subparagraph (A)(i)</cato:entity-ref></internal-xref> and the HCPCS
+				<internal-xref idref="HC5D2C1B8FC4D44C29625AE41B94A86DA" legis-path="(iii)(3)(A)(i)">
+                          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:A/cl:i" proposed="true">subparagraph (A)(i)</cato:entity-ref>
+                        </internal-xref> and the HCPCS
 				codes for such items; and</text>
 										</subclause>
                     <subclause id="HACF12B09BFB24708A5D2F55AA97BAE3E" indent="up1">
                       <enum>(II)</enum>
                       <text>the eligibility criteria established
 				under
-				<internal-xref idref="HC5D2C1B8FC4D44C29625AE41B94A86DA" legis-path="(iii)(3)(A)(ii)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:A/cl:ii" proposed="true">subparagraph (A)(ii)</cato:entity-ref></internal-xref>.</text>
+				<internal-xref idref="HC5D2C1B8FC4D44C29625AE41B94A86DA" legis-path="(iii)(3)(A)(ii)">
+                          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:A/cl:ii" proposed="true">subparagraph (A)(ii)</cato:entity-ref>
+                        </internal-xref>.</text>
 										</subclause>
                   </clause>
                   <clause id="HDEB47EF90ADF4C318A959132AD4E5549" indent="up1">
@@ -373,13 +393,17 @@
 									<clause id="H5CF4D95922D7447097292A23DFFAE5BB">
                     <enum>(i)</enum>
                     <text>designate an item as a CRT item under
-				<internal-xref idref="HC97D1295DB044E608EBEB1777476B461" legis-path="(iii)(2)(A)(i)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:A/cl:i" proposed="true">subparagraph (A)(i)</cato:entity-ref></internal-xref>; or</text>
+				<internal-xref idref="HC97D1295DB044E608EBEB1777476B461" legis-path="(iii)(2)(A)(i)">
+                        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:A/cl:i" proposed="true">subparagraph (A)(i)</cato:entity-ref>
+                      </internal-xref>; or</text>
 									</clause>
                   <clause id="H140A1BEC2513421A9B9924E62228214D">
                     <enum>(ii)</enum>
                     <text>amend the eligibility criteria
 				established under
-				<internal-xref idref="HC5D2C1B8FC4D44C29625AE41B94A86DA" legis-path="(iii)(3)(A)(ii)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:A/cl:ii" proposed="true">subparagraph (A)(ii)</cato:entity-ref></internal-xref>.</text>
+				<internal-xref idref="HC5D2C1B8FC4D44C29625AE41B94A86DA" legis-path="(iii)(3)(A)(ii)">
+                        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:A/cl:ii" proposed="true">subparagraph (A)(ii)</cato:entity-ref>
+                      </internal-xref>.</text>
 									</clause>
                 </subparagraph>
               </paragraph>
@@ -445,7 +469,9 @@
                     <text>carrying, moving, and handling
 				objects to perform and participate in other activities under this subparagraph
 				and
-				<internal-xref idref="HC5D2C1B8FC4D44C29625AE41B94A86DA" legis-path="(iii)(4)(C)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:B" proposed="true">subparagraph (B)</cato:entity-ref></internal-xref>.</text>
+				<internal-xref idref="HC5D2C1B8FC4D44C29625AE41B94A86DA" legis-path="(iii)(4)(C)">
+                        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>
+                      </internal-xref>.</text>
 									</clause>
                 </subparagraph>
                 <subparagraph id="HCBCFF9BE6E9E402AB67A0CB5B0D14ACD">
@@ -546,8 +572,10 @@
                     <text>has physical and functional needs
 				and capacities that arise from a medical condition that meet the eligibility
 				criteria established by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> under
-				<internal-xref idref="HDDA28E254FC34C4B98E8C18317FDAFA1" legis-path="(iii)(2)(A)(ii)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:A/cl:ii" proposed="true">paragraph
-				(2)(A)(ii)</cato:entity-ref></internal-xref>.</text>
+				<internal-xref idref="HDDA28E254FC34C4B98E8C18317FDAFA1" legis-path="(iii)(2)(A)(ii)">
+                        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:A/cl:ii" proposed="true">paragraph
+				(2)(A)(ii)</cato:entity-ref>
+                      </internal-xref>.</text>
 									</clause>
                 </subparagraph>
               </paragraph>
@@ -561,7 +589,9 @@
       <enum>4.</enum>
       <header>Payment
 			 rules</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1834">Section 1834 of the
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Social Security Act/s:1834">Section 1834 of the
 			 Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395m">42 U.S.C. 1395m</cato:entity-ref>)</cato:entity> is amended by adding at the end the
 			 following:</text>
 			<quoted-block display-inline="no-display-inline" id="HAD9187A3C0BF4BCE857BFA0367F52250" style="OLC">
@@ -580,7 +610,9 @@
               <text display-inline="yes-display-inline">Not later than the
 				date that is one year after the date of the enactment of this subsection,
 				subject to
-				<internal-xref idref="HB25452E6739C4D82B4BA980593C6B729" legis-path="(p)(1)(B)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:1/sp:B" proposed="true">subparagraph (B)</cato:entity-ref></internal-xref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall
+				<internal-xref idref="HB25452E6739C4D82B4BA980593C6B729" legis-path="(p)(1)(B)">
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:1/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>
+                </internal-xref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall
 				determine a payment system that shall apply to CRT items—</text>
 							<clause id="H78EC03DA01464EEF86E67C639169D289">
                 <enum>(i)</enum>
@@ -602,7 +634,9 @@
               <enum>(B)</enum>
               <header>Considerations</header>
               <text display-inline="yes-display-inline">In determining the payment system under
-				<internal-xref idref="H38CE55474C3643099D37E618C3128C78" legis-path="(p)(1)(A)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:1/sp:A" proposed="true">subparagraph (A)</cato:entity-ref></internal-xref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>—</text>
+				<internal-xref idref="H38CE55474C3643099D37E618C3128C78" legis-path="(p)(1)(A)">
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:1/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>
+                </internal-xref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>—</text>
 							<clause id="HF0BBE545CDD34EF3B6FFC8D621BF719D">
                 <enum>(i)</enum>
                 <text>may disregard the
@@ -657,13 +691,17 @@
                 <enum>(ii)</enum>
                 <text>meets the
 				clinical conditions for coverage established under
-				<internal-xref idref="HC739D29A22B64487AC8E160352DE54F5" legis-path="(__)(2)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:2" proposed="true">paragraph (2)</cato:entity-ref></internal-xref>; and</text>
+				<internal-xref idref="HC739D29A22B64487AC8E160352DE54F5" legis-path="(__)(2)">
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:2" proposed="true">paragraph (2)</cato:entity-ref>
+                  </internal-xref>; and</text>
 							</clause>
               <clause id="H81116F2871BD489C979D59C2559CFAD7">
                 <enum>(iii)</enum>
                 <text>is furnished by
 				a supplier accredited pursuant to
-				<internal-xref idref="H88724D88493743C2A13F3E9ABC829768" legis-path="(p)(3)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:3" proposed="true">paragraph (3)</cato:entity-ref></internal-xref>.</text>
+				<internal-xref idref="H88724D88493743C2A13F3E9ABC829768" legis-path="(p)(3)">
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:3" proposed="true">paragraph (3)</cato:entity-ref>
+                  </internal-xref>.</text>
 							</clause>
             </subparagraph>
           </paragraph>
@@ -684,7 +722,9 @@
               <header>Requirements</header>
               <text>The
 				standards established under
-				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:2/sp:A" proposed="true"><internal-xref idref="H56E3420B79E64CA595671A2319CF1D6F" legis-path="(p)(2)(A)">subparagraph (A)</internal-xref></cato:entity-ref> shall require the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:2/sp:A" proposed="true">
+                  <internal-xref idref="H56E3420B79E64CA595671A2319CF1D6F" legis-path="(p)(2)(A)">subparagraph (A)</internal-xref>
+                </cato:entity-ref> shall require the
 				following:</text>
 							<clause id="H73D590A490DA4199AEED638A006372CC">
                 <enum>(i)</enum>
@@ -706,9 +746,13 @@
 				CRT item that is categorized by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>, for purposes of the program
 				under this title, as a manual wheelchair or a power wheelchair, and is to be
 				provided to a qualified individual who has a diagnosis specified under
-				<internal-xref idref="H26A8BBF335864A38B8DDD63678ADFA3C" legis-path="(p)(2)(C)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:2/sp:C" proposed="true">subparagraph (C)</cato:entity-ref></internal-xref>, the qualified ordering
+				<internal-xref idref="H26A8BBF335864A38B8DDD63678ADFA3C" legis-path="(p)(2)(C)">
+                      <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:2/sp:C" proposed="true">subparagraph (C)</cato:entity-ref>
+                    </internal-xref>, the qualified ordering
 				practitioner may not provide a written order under
-				<internal-xref idref="HEA6C39C5189E47A89378238B3F792007" legis-path="(p)(2)(B)(i)(I)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:2/sp:B/cl:i/scl:I" proposed="true">subclause (I)</cato:entity-ref></internal-xref> unless the qualified
+				<internal-xref idref="HEA6C39C5189E47A89378238B3F792007" legis-path="(p)(2)(B)(i)(I)">
+                      <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:2/sp:B/cl:i/scl:I" proposed="true">subclause (I)</cato:entity-ref>
+                    </internal-xref> unless the qualified
 				individual has undergone a CRT evaluation conducted by a licensed physical
 				therapist or occupational therapist who has no financial relationship with the
 				CRT supplier.</text>
@@ -720,7 +764,9 @@
 				of medical necessity</header>
                 <text display-inline="yes-display-inline">A
 				qualified ordering practitioner who provides a written order under
-				<internal-xref idref="HAC48FC57BB9440C7BC73179D34573D97" legis-path="(__)(2)(B)(i)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:2/sp:B/cl:i" proposed="true">clause (i)</cato:entity-ref></internal-xref> shall maintain
+				<internal-xref idref="HAC48FC57BB9440C7BC73179D34573D97" legis-path="(__)(2)(B)(i)">
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:2/sp:B/cl:i" proposed="true">clause (i)</cato:entity-ref>
+                  </internal-xref> shall maintain
 				documentation of the medical necessity of such order for a period of seven
 				years and shall make such documentation available to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> upon
 				request. The documentation of medical necessity under this clause shall
@@ -736,7 +782,9 @@
                   <enum>(II)</enum>
                   <text>evidence of any
 				CRT evaluation required under
-				<internal-xref idref="H240D7EEAD75C49C8B1637CCAC43940A2" legis-path="(p)(2)(B)(i)(II)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:2/sp:B/cl:i/i:II" proposed="true">clause (i)(II)</cato:entity-ref></internal-xref>.</text>
+				<internal-xref idref="H240D7EEAD75C49C8B1637CCAC43940A2" legis-path="(p)(2)(B)(i)(II)">
+                      <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:2/sp:B/cl:i/i:II" proposed="true">clause (i)(II)</cato:entity-ref>
+                    </internal-xref>.</text>
 								</subclause>
               </clause>
             </subparagraph>
@@ -750,7 +798,9 @@
 				suppliers of complex rehabilitation technologies) shall specify the diagnoses
 				and other medical presentations for which the requirement for a CRT evaluation
 				under
-				<internal-xref idref="H240D7EEAD75C49C8B1637CCAC43940A2" legis-path="(p)(2)(B)(i)(II)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:2/sp:B/cl:i/scl:II" proposed="true">subparagraph (B)(i)(II)</cato:entity-ref></internal-xref> shall
+				<internal-xref idref="H240D7EEAD75C49C8B1637CCAC43940A2" legis-path="(p)(2)(B)(i)(II)">
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:2/sp:B/cl:i/scl:II" proposed="true">subparagraph (B)(i)(II)</cato:entity-ref>
+                </internal-xref> shall
 				apply.</text>
 						</subparagraph>
             <subparagraph id="H514B25C8102744F59B8A37BA226CF07A">
@@ -759,7 +809,9 @@
 				determinations</header>
               <text display-inline="yes-display-inline">In developing
 				the standards under
-				<internal-xref idref="H56E3420B79E64CA595671A2319CF1D6F" legis-path="(__)(2)(A)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:2/sp:A" proposed="true">subparagraph (A)</cato:entity-ref></internal-xref>, the coverage of CRT
+				<internal-xref idref="H56E3420B79E64CA595671A2319CF1D6F" legis-path="(__)(2)(A)">
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:2/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>
+                </internal-xref>, the coverage of CRT
 				items with respect to an individual shall be based on—</text>
 							<clause id="H17D6DD0BA90340589012BA4117F4C08A">
                 <enum>(i)</enum>
@@ -807,7 +859,9 @@
               <enum>(B)</enum>
               <header>Consultation</header>
               <text display-inline="yes-display-inline">In establishing the quality standards under
-				<internal-xref idref="HC1CBF4425B9C48B2A29C779F8EC598C3" legis-path="(p)(3)(A)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:3/sp:A" proposed="true">subparagraph (A)</cato:entity-ref></internal-xref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall
+				<internal-xref idref="HC1CBF4425B9C48B2A29C779F8EC598C3" legis-path="(p)(3)(A)">
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:3/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>
+                </internal-xref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall
 				consult with relevant parties (including clinicians, consumer groups,
 				suppliers, and manufacturers).</text>
 						</subparagraph>
@@ -817,7 +871,9 @@
 				standards</header>
               <text display-inline="yes-display-inline">In establishing the
 				quality standards under
-				<internal-xref idref="HC1CBF4425B9C48B2A29C779F8EC598C3" legis-path="(p)(3)(A)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:3/sp:A" proposed="true">subparagraph (A)</cato:entity-ref></internal-xref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall
+				<internal-xref idref="HC1CBF4425B9C48B2A29C779F8EC598C3" legis-path="(p)(3)(A)">
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:3/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>
+                </internal-xref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall
 				require that the suppliers of CRT items meet the following requirements:</text>
 							<clause id="HE225D469235E42889551D95CB0E63772">
                 <enum>(i)</enum>
@@ -942,7 +998,9 @@
               <header>Application of
 				accreditation requirement</header>
               <text>In implementing quality standards under
-				<internal-xref idref="H88724D88493743C2A13F3E9ABC829768" legis-path="(p)(3)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:3" proposed="true">paragraph (3)</cato:entity-ref></internal-xref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall require
+				<internal-xref idref="H88724D88493743C2A13F3E9ABC829768" legis-path="(p)(3)">
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:3" proposed="true">paragraph (3)</cato:entity-ref>
+                </internal-xref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall require
 				suppliers furnishing CRT items, on or after one year after the standards are
 				published under such paragraph, directly or as a subcontractor for another
 				entity—</text>
@@ -956,7 +1014,9 @@
                 <text>to have submitted
 				to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> evidence of accreditation by an accreditation organization
 				designated under
-				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:4/sp:C" proposed="true"><internal-xref idref="H1E3FC5E7859946488DC485D5800C6AED" legis-path="(p)(4)(D)">subparagraph (C)</internal-xref></cato:entity-ref> demonstrating that the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:4/sp:C" proposed="true">
+                    <internal-xref idref="H1E3FC5E7859946488DC485D5800C6AED" legis-path="(p)(4)(D)">subparagraph (C)</internal-xref>
+                  </cato:entity-ref> demonstrating that the
 				supplier is complying with such standards.</text>
 							</clause>
             </subparagraph>
@@ -967,7 +1027,9 @@
               <text>Not later than the date
 				that is one year after the date on which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> implements the quality
 				standards under
-				<internal-xref idref="H88724D88493743C2A13F3E9ABC829768" legis-path="(p)(3)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:3" proposed="true">paragraph (3)</cato:entity-ref></internal-xref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall
+				<internal-xref idref="H88724D88493743C2A13F3E9ABC829768" legis-path="(p)(3)">
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:3" proposed="true">paragraph (3)</cato:entity-ref>
+                </internal-xref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall
 				designate and approve one or more independent accreditation organizations
 				that—</text>
 							<clause id="H1E220B8A19FC4F32B3B684B08DFEC62A">
@@ -980,7 +1042,9 @@
                 <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> has
 				determined have the capability to assess whether suppliers of CRT items meet
 				the quality standards established under
-				<internal-xref idref="H88724D88493743C2A13F3E9ABC829768" legis-path="(p)(3)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:3" proposed="true">paragraph (3)</cato:entity-ref></internal-xref>.</text>
+				<internal-xref idref="H88724D88493743C2A13F3E9ABC829768" legis-path="(p)(3)">
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:3" proposed="true">paragraph (3)</cato:entity-ref>
+                  </internal-xref>.</text>
 							</clause>
             </subparagraph>
           </paragraph>
@@ -1008,16 +1072,22 @@
 				general</header>
                 <text>With respect to CRT items for which payment was available
 				under this title before the effective date of the amendments made by
-				<short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Ensuring Access to Quality Complex Rehabilitation Technology Act of 2013" proposed="true">Ensuring Access to Quality Complex
-				Rehabilitation Technology Act of 2013</cato:entity-ref></short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall assign
+				<short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Ensuring Access to Quality Complex Rehabilitation Technology Act of 2013" proposed="true">Ensuring Access to Quality Complex
+				Rehabilitation Technology Act of 2013</cato:entity-ref>
+                  </short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall assign
 				such items to a code in the coding subset established under
-				<internal-xref idref="H1A95E5D12FC841B09BB51E902424A8CE" legis-path="(p)(4)(A)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:5/sp:A" proposed="true">subparagraph (A)</cato:entity-ref></internal-xref>.</text>
+				<internal-xref idref="H1A95E5D12FC841B09BB51E902424A8CE" legis-path="(p)(4)(A)">
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:5/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>
+                  </internal-xref>.</text>
 							</clause>
               <clause id="H2E9A9482C0E04BB1987CD024FE6514A3">
                 <enum>(ii)</enum>
                 <header>Updates</header>
                 <text display-inline="yes-display-inline">After the initial assignment under
-				<internal-xref idref="H35783CB354D146B7BDEB6FC50AE21A0A" legis-path="(__)(3)(C)(i)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:5/sp:B/cl:i" proposed="true">clause (i)</cato:entity-ref></internal-xref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> may decide
+				<internal-xref idref="H35783CB354D146B7BDEB6FC50AE21A0A" legis-path="(__)(3)(C)(i)">
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:5/sp:B/cl:i" proposed="true">clause (i)</cato:entity-ref>
+                  </internal-xref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> may decide
 				to reassign additional product categories, or items within those categories,
 				that exist before the date of the enactment of this subsection to the CRT
 				coding subset.</text>
@@ -1027,14 +1097,19 @@
                 <header>Consultation</header>
                 <text display-inline="yes-display-inline">Before making reassignments of CRT items
 				under
-				<internal-xref idref="H35783CB354D146B7BDEB6FC50AE21A0A" legis-path="(p)(4)(B)(i)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:5/sp:B/cl:ii">clause (ii)</cato:entity-ref></internal-xref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall
+				<internal-xref idref="H35783CB354D146B7BDEB6FC50AE21A0A" legis-path="(p)(4)(B)(i)">
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:5/sp:B/cl:ii">clause (ii)</cato:entity-ref>
+                  </internal-xref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall
 				consult with suppliers and manufacturers of such items. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall not
 				require manufacturers of CRT items for which payment was available under this
 				title before the effective date of the amendments made by the
-				<short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Ensuring Access to Quality Complex Rehabilitation Technology Act of 2013" proposed="true">Ensuring Access to Quality Complex
-				Rehabilitation Technology Act of 2013</cato:entity-ref></short-title> to submit requests for
+				<short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Ensuring Access to Quality Complex Rehabilitation Technology Act of 2013" proposed="true">Ensuring Access to Quality Complex
+				Rehabilitation Technology Act of 2013</cato:entity-ref>
+                  </short-title> to submit requests for
 				reassignment of the code for such product to the coding subset under
-				<internal-xref idref="H1A95E5D12FC841B09BB51E902424A8CE" legis-path="(p)(4)(A)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:5/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> </internal-xref>as long as—</text>
+				<internal-xref idref="H1A95E5D12FC841B09BB51E902424A8CE" legis-path="(p)(4)(A)">
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:5/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> </internal-xref>as long as—</text>
 								<subclause id="H2882C764DAB643BD9DC7EAFA320060D7">
                   <enum>(I)</enum>
                   <text>no changes have
@@ -1059,13 +1134,17 @@
                 <text>remove from the
 				coding subset for durable medical equipment any CRT items that are included in
 				the coding subset under
-				<internal-xref idref="H1A95E5D12FC841B09BB51E902424A8CE" legis-path="(__)(3)(A)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:5/sp:A" proposed="true">subparagraph (A)</cato:entity-ref></internal-xref>; and</text>
+				<internal-xref idref="H1A95E5D12FC841B09BB51E902424A8CE" legis-path="(__)(3)(A)">
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:5/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>
+                  </internal-xref>; and</text>
 							</clause>
               <clause id="H1F73A18055344ABEAA1BC4CAE343CCA9">
                 <enum>(ii)</enum>
                 <text>assign new codes
 				to such CRT items for purposes of including such items in the subset under
-				<internal-xref idref="H1A95E5D12FC841B09BB51E902424A8CE" legis-path="(p)(4)(A)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:5/sp:A" proposed="true">subparagraph (A)</cato:entity-ref></internal-xref>.</text>
+				<internal-xref idref="H1A95E5D12FC841B09BB51E902424A8CE" legis-path="(p)(4)(A)">
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:5/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>
+                  </internal-xref>.</text>
 							</clause>
             </subparagraph>
             <subparagraph id="H56FB7B28453E476E8A34228156C62ACB">
@@ -1104,7 +1183,9 @@
 				codes in list</header>
                 <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall include the codes established
 				in
-				<internal-xref idref="HBD84BE9C423D4FD4A04C9171CFED927D" legis-path="(__)(3)(E)(i)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:F/cl:i">clause (i)</cato:entity-ref></internal-xref> in the list under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:F">section
+				<internal-xref idref="HBD84BE9C423D4FD4A04C9171CFED927D" legis-path="(__)(3)(E)(i)">
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:F/cl:i">clause (i)</cato:entity-ref>
+                  </internal-xref> in the list under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii/p:2/sp:F">section
 				1861(iii)(2)(F)</cato:entity-ref>.</text>
 							</clause>
             </subparagraph>
@@ -1114,7 +1195,9 @@
 				code for innovation and local coverage determinations</header>
               <text>The coding
 				subset established under
-				<internal-xref idref="H1A95E5D12FC841B09BB51E902424A8CE" legis-path="(__)(3)(A)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:5/sp:A" proposed="true">subparagraph (A)</cato:entity-ref></internal-xref> shall include at least
+				<internal-xref idref="H1A95E5D12FC841B09BB51E902424A8CE" legis-path="(__)(3)(A)">
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:5/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>
+                </internal-xref> shall include at least
 				one miscellaneous code for items not otherwise classified.</text>
 						</subparagraph>
           </paragraph>
@@ -1160,7 +1243,9 @@
                 <header>In
 				general</header>
                 <text>Subject to
-				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:6/sp:B/cl:ii" proposed="true"><internal-xref idref="H201820C065014147A9289024F43F52F6" legis-path="(__)(3)(B)(ii)">clause (ii)</internal-xref></cato:entity-ref>, if a qualified
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:6/sp:B/cl:ii" proposed="true">
+                    <internal-xref idref="H201820C065014147A9289024F43F52F6" legis-path="(__)(3)(B)(ii)">clause (ii)</internal-xref>
+                  </cato:entity-ref>, if a qualified
 				ordering practitioner determines that a replacement of the CRT item, or the
 				replacement of a part of a CRT item, is necessary pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:6/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>,
 				the replacement item or part is deemed to be reasonable and necessary for
@@ -1173,7 +1258,9 @@
                 <text display-inline="yes-display-inline">If
 				the CRT item that is being replaced (or the part of the CRT item that is being
 				replaced) under
-				<internal-xref idref="H46787CDE49964A89A83C01CFEB960428" legis-path="(__)(3)(A)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:6/sp:A" proposed="true">subparagraph (A)</cato:entity-ref></internal-xref> is less than 3 years
+				<internal-xref idref="H46787CDE49964A89A83C01CFEB960428" legis-path="(__)(3)(A)">
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:6/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>
+                  </internal-xref> is less than 3 years
 				old (calculated from the date on which the qualified individual began to use
 				the CRT item or part), the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> may require the qualified ordering
 				practitioner to provide confirmation of necessity of the replacement item or
@@ -1199,7 +1286,9 @@
               <header>Basis;
 				limitation</header>
               <text>Payment permitted under
-				<internal-xref idref="H81650B169189434281DC9F03A7D7E1A5" legis-path="(__)(3)(A)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:7/sp:A" proposed="true">subparagraph (A)</cato:entity-ref></internal-xref> shall be made on a
+				<internal-xref idref="H81650B169189434281DC9F03A7D7E1A5" legis-path="(__)(3)(A)">
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:7/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>
+                </internal-xref> shall be made on a
 				monthly basis, and the period of rental may not exceed two months.</text>
 						</subparagraph>
             <subparagraph id="H1E0935D85BC84164B15D97C36E354ED7">
@@ -1207,7 +1296,9 @@
               <header>Payment
 				amount</header>
               <text>The amount of payment allowed under
-				<internal-xref idref="H81650B169189434281DC9F03A7D7E1A5" legis-path="(__)(3)(A)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:7/sp:A" proposed="true">subparagraph (A)</cato:entity-ref></internal-xref> for a month for the
+				<internal-xref idref="H81650B169189434281DC9F03A7D7E1A5" legis-path="(__)(3)(A)">
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:7/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>
+                </internal-xref> for a month for the
 				rental of a CRT item shall be 10 percent of the purchase price for the CRT
 				item.</text>
 						</subparagraph>
@@ -1247,7 +1338,9 @@
                   <enum>(II)</enum>
                   <text>beginning two
 				years after the establishment of the designation under
-				<internal-xref idref="H7672660D14BD4D1AA1A3C20547C92A98" legis-path="(p)(8)(C)(ii)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:8/sp:B/cl:ii" proposed="true">clause (ii)</cato:entity-ref></internal-xref>, achieves an additional
+				<internal-xref idref="H7672660D14BD4D1AA1A3C20547C92A98" legis-path="(p)(8)(C)(ii)">
+                      <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:8/sp:B/cl:ii" proposed="true">clause (ii)</cato:entity-ref>
+                    </internal-xref>, achieves an additional
 				designation that demonstrates the individual’s competencies and experience in
 				supplying CRT items.</text>
 								</subclause>
@@ -1259,7 +1352,8 @@
 				later than one year after the date of the enactment of this subsection, the
 				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>, acting in consultation with relevant parties, shall establish the
 				additional designation under
-				<internal-xref idref="H6879F4E7861E4E42A3FC3F474536043D" legis-path="(p)(8)(C)(i)(II)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:8/sp:B/cl:i/scl:II" proposed="true">clause (i)(II)</cato:entity-ref>.</internal-xref>
+				<internal-xref idref="H6879F4E7861E4E42A3FC3F474536043D" legis-path="(p)(8)(C)(i)(II)">
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1834/ss:p/p:8/sp:B/cl:i/scl:II" proposed="true">clause (i)(II)</cato:entity-ref>.</internal-xref>
                 </text>
 							</clause>
               <clause id="H2F819CEE22A04360ABD3008A72DDCF89">
@@ -1326,7 +1420,9 @@
         <enum>(a)</enum>
         <header>Exclusion from
 			 the in-Home use limitation for DME</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1861/ss:n">Section 1861(n) of the Social Security Act</cato:entity-ref>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1861/ss:n">Section 1861(n) of the Social Security Act</cato:entity-ref>
 			 (<cato:entity-ref entity-type="uscode" value="usc/42/1395x/n">42 U.S.C. 1395x(n)</cato:entity-ref>)</cato:entity> is amended by adding at the end the following: <quote>For
 			 2014 and subsequent years, such term does not include complex rehabilitation
 			 technologies (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:iii">subsection (iii)</cato:entity-ref>).</quote>.</text>
@@ -1335,7 +1431,9 @@
         <enum>(b)</enum>
         <header>Exemption from
 			 competitive acquisition</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1847/ss:a/p:7">Section 1847(a)(7) of the Social Security
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1847/ss:a/p:7">Section 1847(a)(7) of the Social Security
 			 Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395w–3/a/7">42 U.S.C. 1395w–3(a)(7)</cato:entity-ref>)</cato:entity> is amended by adding at the end the following new
 			 subparagraph:</text>
 				<quoted-block display-inline="no-display-inline" id="HBA47B49A919E45168A5AEF8228A3AD2B" style="OLC">
@@ -1354,7 +1452,9 @@
         <enum>(c)</enum>
         <header>Exemption from
 			 SNF consolidated billing</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1888/ss:e/p:2/sp:A/cl:iii">Section 1888(e)(2)(A)(iii) of the Social
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1888/ss:e/p:2/sp:A/cl:iii">Section 1888(e)(2)(A)(iii) of the Social
 			 Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395yy/e/2/A/iii">42 U.S.C. 1395yy(e)(2)(A)(iii)</cato:entity-ref>)</cato:entity> is amended by adding at the end
 			 the following:</text>
 				<quoted-block display-inline="no-display-inline" id="HDED118C7A43C46B99772F6109B4F5BD3" style="OLC">
@@ -1374,7 +1474,9 @@
         <enum>(d)</enum>
         <header>Payment
 			 exclusions</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1834/ss:a">Section 1834(a) of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395m/a">42 U.S.C.
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1834/ss:a">Section 1834(a) of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395m/a">42 U.S.C.
 			 1395m(a)</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="HCD5E1D8324034ACF92D347FEDA42C331">
           <enum>(1)</enum>
@@ -1409,7 +1511,9 @@
         <enum>(e)</enum>
         <header>Requirements for
 			 suppliers of medical equipment and supplies</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1834/ss:j/p:5">Section 1834(j)(5) of
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1834/ss:j/p:5">Section 1834(j)(5) of
 			 the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395m/j/5">42 U.S.C. 1395m(j)(5)</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="HE5BCD0580A434FF483A6A5976CA4F299">
           <enum>(1)</enum>
@@ -1441,4 +1545,5 @@
 			 2014.</text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

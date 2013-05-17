@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr909ih">
+<doc>
+  <docmeta id="113hr909ih">
     <bill congress="113" type="hr" number="909" version="ih"/>
-    <revision id="5" commit-time="2013-03-29T15:00:16+00:00" comitter="/users/favila.xml" doc="/docs/113hr909ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9EFD1629898649118457E715971C6D90" public-private="public">
+    <revision size="8515" annotations="0" id="5" commit-time="2013-03-29T15:00:16+00:00" committer="favila" doc="113hr909ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9EFD1629898649118457E715971C6D90" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -42,7 +46,9 @@
         <enum>(a)</enum>
         <header>State plan
 			 requirement of drug testing program</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:402/ss:a">Section 402(a) of the Social
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:402/ss:a">Section 402(a) of the Social
 			 Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/602/a">42 U.S.C. 602(a)</cato:entity-ref>)</cato:entity> is amended by adding at the end the
 			 following:</text>
 				<quoted-block act-name="" id="H1708E1BCEE1449F2BA9BF3B0359FAEA0" style="OLC">
@@ -94,7 +100,9 @@
         <header>Requirement that
 			 applicants and individuals receiving assistance be tested for illegal drug
 			 use</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:408/ss:a">Section 408(a) of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/608/a">42 U.S.C. 608(a)</cato:entity-ref>)</cato:entity> is amended by
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:408/ss:a">Section 408(a) of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/608/a">42 U.S.C. 608(a)</cato:entity-ref>)</cato:entity> is amended by
 			 adding at the end the following:</text>
 				<quoted-block act-name="" id="H6FA4E1C90CF0446492E553C4624A2008" style="OLC">
 					<paragraph id="H3C6E3A9210B0405197A3E3AFC1E85766">
@@ -186,7 +194,8 @@
                 <header>Illegal
 				drug</header>
                 <text>The term <term>illegal drug</term> means a controlled
-				substance as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Controlled Substances Act/s:102">section 102 of the Controlled Substances Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/21/802">21 U.S.C.
+				substance as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Controlled Substances Act/s:102">section 102 of the Controlled Substances Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/21/802">21 U.S.C.
 				802</cato:entity-ref>)</cato:entity>.</text>
 							</clause>
               <clause id="H0AC483E4558E42189D57D2F6D9578FCD">
@@ -206,7 +215,9 @@
         <enum>(c)</enum>
         <header>Penalty for
 			 failure To implement illegal drug use testing program</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:409/ss:a">Section 409(a) of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/609/a">42 U.S.C.
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:409/ss:a">Section 409(a) of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/609/a">42 U.S.C.
 			 609(a)</cato:entity-ref>)</cato:entity> is amended by adding at the end the following:</text>
 				<quoted-block display-inline="no-display-inline" id="HC97CC220F69447B4A9C6429D66BD16D5" style="OLC">
 					<paragraph commented="no" id="HFB991096633548E6820C2FBDCEEDFEC9">
@@ -242,7 +253,8 @@
 			 if State legislation required</header>
           <text>In the case of a State plan under
 			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:402/ss:a">section 402(a) of the <act-name parsable-cite="SSA">Social Security
-			 Act</act-name></cato:entity-ref> which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary of Health and Human Services</cato:entity-ref> determines
+			 Act</act-name>
+            </cato:entity-ref> which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary of Health and Human Services</cato:entity-ref> determines
 			 requires State legislation (other than legislation appropriating funds) in
 			 order for the plan to meet the additional requirements imposed by the
 			 amendments made by this Act, the State plan shall not be regarded as failing to
@@ -257,4 +269,5 @@
       </subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr471ih">
+<doc>
+  <docmeta id="113hr471ih">
     <bill congress="113" type="hr" number="471" version="ih"/>
-    <revision id="6" commit-time="2013-03-12T21:12:53+00:00" comitter="/users/favila.xml" doc="/docs/113hr471ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H87C15E41807343D0B696E36B1BC4BA3A" public-private="public">
+    <revision size="3307" annotations="0" id="6" commit-time="2013-03-12T21:12:53+00:00" committer="favila" doc="113hr471ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H87C15E41807343D0B696E36B1BC4BA3A" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -39,7 +43,8 @@
 			<subsection id="H42748935F96547CA8F665FA20C3B6672">
         <enum>(a)</enum>
         <header>Findings</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
 			 finds that—</text>
 				<paragraph id="H2482195539EE4FF7874C3DEF576AD032">
           <enum>(1)</enum>
@@ -83,7 +88,8 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/5545b">Section 5545b of
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/5545b">Section 5545b of
 			 title 5, United States Code</cato:entity-ref>, is amended by adding at the end the
 			 following:</text>
 				<quoted-block id="H1B6E9A95F6FC4494A1E527F2173EC82C" style="OLC">
@@ -110,7 +116,8 @@
         <enum>(b)</enum>
         <header>Conforming
 			 amendments</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8331//4">Sections 8331(4)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8401//3">8401(3) of title 5, United States
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8331//4">Sections 8331(4)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8401//3">8401(3) of title 5, United States
 			 Code</cato:entity-ref>, are amended by striking the semicolon at the end and inserting <quote>,
 			 subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/5545b/e">section 5545b(e)</cato:entity-ref>;</quote>.</text>
 			</subsection>
@@ -125,4 +132,5 @@
 			 beginning on the date of the enactment of this Act.</text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

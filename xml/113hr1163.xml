@@ -1,0 +1,1210 @@
+<doc>
+  <docmeta id="113hr1163ih">
+    <bill congress="113" type="hr" number="1163" version="ih"/>
+    <revision size="38774" annotations="0" id="13" commit-time="2013-04-15T16:14:50+00:00" committer="favila" doc="113hr1163ih/13.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H315414B23BC146C7BF75DF65404259D2" public-private="public">
+	<metadata>
+<dublinCore>
+<title>113 HR 1163 IH: Federal Information Security Amendments Act of 2013</title>
+<publisher>U.S. House of Representatives</publisher>
+<date>2013-03-14</date>
+<format>text/xml</format>
+<language>EN</language>
+<rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1163</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20130314">March 14, 2013</action-date>
+			<action-desc>
+        <sponsor name-id="I000056">Mr. Issa</sponsor> (for
+			 himself, <cosponsor name-id="C000984">Mr. Cummings</cosponsor>,
+			 <cosponsor name-id="M000689">Mr. Mica</cosponsor>, and
+			 <cosponsor name-id="C001078">Mr. Connolly</cosponsor>) introduced the following
+			 bill; which was referred to the <committee-name committee-id="HGO00">Committee
+			 on Oversight and Government Reform</committee-name>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/35">chapter 35</external-xref> of title 44, United States Code, to
+		  revise requirements relating to Federal information security, and for other
+		  purposes.</official-title>
+	</form>
+	<legis-body id="H6E64D492A71147C8AE815F124F5AAE29" style="OLC">
+		<section id="H6BBE7193E2C34CDD994575BC189FAD87" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title</header>
+      <text display-inline="no-display-inline">This Act may be cited as the
+			 <quote>
+          <short-title>Federal Information Security
+			 Amendments Act of 2013</short-title>
+        </quote>.</text>
+		</section>
+    <section id="H8D9632FE81064961819EDE8960DE9B57">
+      <enum>2.</enum>
+      <header>Coordination of
+			 Federal information policy</header>
+      <text display-inline="no-display-inline">
+        <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/35">Chapter 35</external-xref> of title 44,
+			 United States Code, is amended by striking subchapters II and III and inserting
+			 the following:</text>
+			<quoted-block display-inline="no-display-inline" id="H7E0BC994F5674492951B146E976325E3" style="USC">
+				<subchapter id="H8CAB836DD7944807BA75C7A3D0C21736">
+          <enum>II</enum>
+          <header>Information
+				Security</header>
+					<section id="H184F23E766AD4B9DAFC304A268EA427C">
+            <enum>3551.</enum>
+            <header>Purposes</header>
+            <text display-inline="no-display-inline">The purposes of this subchapter are
+				to—</text>
+						<paragraph id="H4FD22D259D054881B1F11CD08500F301">
+              <enum>(1)</enum>
+              <text>provide a
+				comprehensive framework for ensuring the effectiveness of information security
+				controls over information resources that support Federal operations and
+				assets;</text>
+						</paragraph>
+            <paragraph id="H38E14A12F2E5438C86F39912199C8BFA">
+              <enum>(2)</enum>
+              <text>recognize the
+				highly networked nature of the current Federal computing environment and
+				provide effective Governmentwide management and oversight of the related
+				information security risks, including coordination of information security
+				efforts throughout the civilian, national security, and law enforcement
+				communities assets;</text>
+						</paragraph>
+            <paragraph id="H897C7389DF0A4A8182BB9263385000D0">
+              <enum>(3)</enum>
+              <text>provide for
+				development and maintenance of minimum controls required to protect Federal
+				information and information systems;</text>
+						</paragraph>
+            <paragraph id="H1EFC0A0D2110405287EE1591BDCDF164">
+              <enum>(4)</enum>
+              <text>provide a
+				mechanism for improved oversight of Federal agency information security
+				programs and systems through a focus on automated and continuous monitoring of
+				agency information systems and regular threat assessments;</text>
+						</paragraph>
+            <paragraph id="HBF9A56E975E6435EB65915E48040A4BC">
+              <enum>(5)</enum>
+              <text>acknowledge that
+				commercially developed information security products offer advanced, dynamic,
+				robust, and effective information security solutions, reflecting market
+				solutions for the protection of critical information systems important to the
+				national defense and economic security of the Nation that are designed, built,
+				and operated by the private sector; and</text>
+						</paragraph>
+            <paragraph id="HFADA6ECF2153431B8EF9D0FE9265A403">
+              <enum>(6)</enum>
+              <text>recognize that the
+				selection of specific technical hardware and software information security
+				solutions should be left to individual agencies from among commercially
+				developed products.</text>
+						</paragraph>
+          </section>
+          <section id="H91A029030B254E118096A835A851FB2B">
+            <enum>3552.</enum>
+            <header>Definitions</header>
+						<subsection id="HC3651DFA384B401EA753F397530D22A1">
+              <enum>(a)</enum>
+              <header>Section 3502
+				definitions</header>
+              <text>Except as provided under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3502/b">subsection (b)</cato:entity-ref>, the
+				definitions under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3502">section 3502</cato:entity-ref> shall apply to this subchapter.</text>
+						</subsection>
+            <subsection id="H62E9D1C4E9244A84B9428E66D4C41A60">
+              <enum>(b)</enum>
+              <header>Additional
+				definitions</header>
+              <text>In this subchapter:</text>
+							<paragraph id="HFF74B1D27DE44FFDB98B22CB93779B40">
+                <enum>(1)</enum>
+                <header>Adequate
+				security</header>
+                <text display-inline="yes-display-inline">The term
+				<term>adequate security</term> means security commensurate with the risk and
+				magnitude of the harm resulting from the unauthorized access to or loss,
+				misuse, destruction, or modification of information.</text>
+							</paragraph>
+              <paragraph id="H7718E617B73F49AFA79CDB429C86B60B">
+                <enum>(2)</enum>
+                <header>Automated and
+				continuous monitoring</header>
+                <text>The term <term>automated and continuous
+				monitoring</term> means monitoring, with minimal human involvement, through an
+				uninterrupted, ongoing real time, or near real-time process used to determine
+				if the complete set of planned, required, and deployed security controls within
+				an information system continue to be effective over time with rapidly changing
+				information technology and threat development.</text>
+							</paragraph>
+              <paragraph id="HC17B15A94CAF4EF480CD5C6480AB5C37">
+                <enum>(3)</enum>
+                <header>Incident</header>
+                <text>The
+				term <term>incident</term> means an occurrence that actually or potentially
+				jeopardizes the confidentiality, integrity, or availability of an information
+				system, or the information the system processes, stores, or transmits or that
+				constitutes a violation or imminent threat of violation of security policies,
+				security procedures, or acceptable use policies.</text>
+							</paragraph>
+              <paragraph id="HE18B91C8FB364019BE82874D68B644CB">
+                <enum>(4)</enum>
+                <header>Information
+				security</header>
+                <text>The term <term>information security</term> means
+				protecting information and information systems from unauthorized access, use,
+				disclosure, disruption, modification, or destruction in order to
+				provide—</text>
+								<subparagraph id="HA5016B1048124A6EB4BB7EAE144380C5">
+                  <enum>(A)</enum>
+                  <text>integrity, which
+				means guarding against improper information modification or destruction, and
+				includes ensuring information nonrepudiation and authenticity;</text>
+								</subparagraph>
+                <subparagraph id="HD3C2E5BF67D44A58895D33E025CFBC32">
+                  <enum>(B)</enum>
+                  <text>confidentiality,
+				which means preserving authorized restrictions on access and disclosure,
+				including means for protecting personal privacy and proprietary information;
+				and</text>
+								</subparagraph>
+                <subparagraph id="HA5D613A956824C508B35F491533039F3">
+                  <enum>(C)</enum>
+                  <text>availability,
+				which means ensuring timely and reliable access to and use of
+				information.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph commented="no" id="H3F0BECEDDD1D40E7B35C2FEBBC5A6FA9">
+                <enum>(5)</enum>
+                <header>Information
+				system</header>
+                <text display-inline="yes-display-inline">The term
+				<term>information system</term> means a discrete set of information resources
+				organized for the collection, processing, maintenance, use, sharing,
+				dissemination, or disposition of information and includes—</text>
+								<subparagraph commented="no" id="H851E010A8F5046888A340D9151458C19">
+                  <enum>(A)</enum>
+                  <text>computers and
+				computer networks;</text>
+								</subparagraph>
+                <subparagraph commented="no" id="H885D181F9EAE411088D5C964468C5522">
+                  <enum>(B)</enum>
+                  <text>ancillary
+				equipment;</text>
+								</subparagraph>
+                <subparagraph commented="no" id="H84F46AC2DB1E4D6FB7CC320E8ED2AB95">
+                  <enum>(C)</enum>
+                  <text>software,
+				firmware, and related procedures;</text>
+								</subparagraph>
+                <subparagraph commented="no" id="H27B3DBDC32C3489B8B0E4559719BD27D">
+                  <enum>(D)</enum>
+                  <text>services,
+				including support services; and</text>
+								</subparagraph>
+                <subparagraph commented="no" id="H405786D8575149CFB7E7D061D4F03514">
+                  <enum>(E)</enum>
+                  <text>related
+				resources.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H8113FA30FEC64FDAB23A8BC8E1FCBFF4">
+                <enum>(6)</enum>
+                <header>Information
+				technology</header>
+                <text>The term <term>information technology</term> has the
+				meaning given that term in
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/11101">section
+				11101 of title 40</cato:entity-ref>.</text>
+							</paragraph>
+              <paragraph id="H1470B3E3FEA141F5A6B6E93C6CE8A2B8">
+                <enum>(7)</enum>
+                <header>National
+				security system</header>
+								<subparagraph id="H630FE06D5FA84C3399B7EEED368C6762">
+                  <enum>(A)</enum>
+                  <header>Definition</header>
+                  <text display-inline="yes-display-inline">The term <term>national security
+				system</term> means any information system (including any telecommunications
+				system) used or operated by an agency or by a contractor of an agency, or other
+				organization on behalf of an agency—</text>
+									<clause id="H7DF78F86188D438BBD8526E945AAAB25">
+                    <enum>(i)</enum>
+                    <text>the function,
+				operation, or use of which—</text>
+										<subclause id="H9F1DBEA51E2E4C378D4C811051E4727B">
+                      <enum>(I)</enum>
+                      <text>involves
+				intelligence activities;</text>
+										</subclause>
+                    <subclause id="H6F7DA6E41C4E4822B7EB28B104F3E25B">
+                      <enum>(II)</enum>
+                      <text>involves
+				cryptologic activities related to national security;</text>
+										</subclause>
+                    <subclause id="H61873423DE75462A944D81D99C03881B">
+                      <enum>(III)</enum>
+                      <text>involves command
+				and control of military forces;</text>
+										</subclause>
+                    <subclause id="H2C25FFBA65FD4716A37F859D5B0705DB">
+                      <enum>(IV)</enum>
+                      <text>involves
+				equipment that is an integral part of a weapon or weapons system; or</text>
+										</subclause>
+                    <subclause id="H6CAA3544EBA343EC8106DD8490E4DE15">
+                      <enum>(V)</enum>
+                      <text>subject to
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3552/b/7/B" proposed="true">subparagraph (B)</cato:entity-ref>, is critical to the direct fulfillment of military or
+				intelligence missions; or</text>
+										</subclause>
+                  </clause>
+                  <clause id="HC9BB1A6A86C344BDBC2E91A83CB0DF60">
+                    <enum>(ii)</enum>
+                    <text>is protected at
+				all times by procedures established for information that have been specifically
+				authorized under criteria established by an Executive order or an Act of
+				Congress to be kept classified in the interest of national defense or foreign
+				policy.</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="HB0C573BE0A2D49B9BB81D53BFD3CB164">
+                  <enum>(B)</enum>
+                  <header>Exception</header>
+                  <text>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3552/b/7/A/i/V" proposed="true">Subparagraph
+				(A)(i)(V)</cato:entity-ref> does not include a system that is to be used for routine
+				administrative and business applications (including payroll, finance,
+				logistics, and personnel management applications).</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H8987D2039D274119941ADF24AA3A9856">
+                <enum>(8)</enum>
+                <header>Threat
+				assessment</header>
+                <text display-inline="yes-display-inline">The term
+				<term>threat assessment</term> means the formal description and evaluation of
+				threat to an information system.</text>
+							</paragraph>
+            </subsection>
+          </section>
+          <section id="H16E2727C22DE4EBFB73A82AD0A781215">
+            <enum>3553.</enum>
+            <header>Authority and
+				functions of the Director</header>
+						<subsection id="HFAB0644C5ECA404ABFAE13CFD2333353">
+              <enum>(a)</enum>
+              <header>In
+				general</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director</cato:entity-ref> shall oversee agency information security
+				policies and practices, including—</text>
+							<paragraph id="H65AECCA09BB6425BBB1BF0E218DC6583">
+                <enum>(1)</enum>
+                <text>developing and
+				overseeing the implementation of policies, principles, standards, and
+				guidelines on information security, including through ensuring timely agency
+				adoption of and compliance with standards promulgated under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/11331">section
+				11331 of title 40</cato:entity-ref>;</text>
+							</paragraph>
+              <paragraph id="HA60D885C7EDA4FB381E2DD39BD92A0EF">
+                <enum>(2)</enum>
+                <text>requiring
+				agencies, consistent with the standards promulgated under such <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/11331">section 11331</cato:entity-ref>
+				and the requirements of this subchapter, to identify and provide information
+				security protections commensurate with the risk and magnitude of the harm
+				resulting from the unauthorized access, use, disclosure, disruption,
+				modification, or destruction of—</text>
+								<subparagraph id="H922E69302EC14322ABA1CD44D24A484E">
+                  <enum>(A)</enum>
+                  <text>information
+				collected or maintained by or on behalf of an agency; or</text>
+								</subparagraph>
+                <subparagraph id="H894A5A0252714313893E7B5149F60CA8">
+                  <enum>(B)</enum>
+                  <text>information
+				systems used or operated by an agency or by a contractor of an agency or other
+				organization on behalf of an agency;</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="HAB52275313DD4AD8BB978ACABC92FC0C">
+                <enum>(3)</enum>
+                <text>coordinating the
+				development of standards and guidelines under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="National Institute of Standards and Technology Act/s:20">section 20 of the National
+				Institute of Standards and Technology Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/278g-3">15 U.S.C. 278g–3</external-xref>)</cato:entity> with agencies
+				and offices operating or exercising control of national security systems
+				(including the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="97CG">National Security Agency</cato:entity-ref>) to assure, to the maximum extent
+				feasible, that such standards and guidelines are complementary with standards
+				and guidelines developed for national security systems;</text>
+							</paragraph>
+              <paragraph id="H6F1E6822B28B4537A521DCA5288B9F45">
+                <enum>(4)</enum>
+                <text>overseeing agency
+				compliance with the requirements of this subchapter, including through any
+				authorized action under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/11303">section
+				11303 of title 40</cato:entity-ref>, to enforce accountability for compliance
+				with such requirements;</text>
+							</paragraph>
+              <paragraph id="HD4FC1E512E7943B0BE2DC8C44532B33A">
+                <enum>(5)</enum>
+                <text>reviewing at least
+				annually, and approving or disapproving, agency information security programs
+				required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3554/b">section 3554(b)</cato:entity-ref>;</text>
+							</paragraph>
+              <paragraph id="HBD6CDE6DFA4C49DBBCECE10FC40D76AE">
+                <enum>(6)</enum>
+                <text>coordinating
+				information security policies and procedures with related information resources
+				management policies and procedures;</text>
+							</paragraph>
+              <paragraph id="H76B5B0BA8DF74B0A98C104FA1E2EDC3C">
+                <enum>(7)</enum>
+                <text>overseeing the
+				operation of the Federal information security incident center required under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3555">section 3555</cato:entity-ref>; and</text>
+							</paragraph>
+              <paragraph id="HBBF99983441D4C70BE95A22838C2869C">
+                <enum>(8)</enum>
+                <text>reporting to
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> no later than March 1 of each year on agency compliance with the
+				requirements of this subchapter, including—</text>
+								<subparagraph id="HE9DF2DAEA1CA47F5A7A21FB1F0F110FE">
+                  <enum>(A)</enum>
+                  <text>an assessment of
+				the development, promulgation, and adoption of, and compliance with, standards
+				developed under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="National Institute of Standards and Technology Act/s:20">section 20 of the National Institute of Standards and
+				Technology Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/278g–3">15
+				U.S.C. 278g–3</cato:entity-ref>)</cato:entity> and promulgated under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/11331">section
+				11331 of title 40</cato:entity-ref>;</text>
+								</subparagraph>
+                <subparagraph id="H4A8E987FF9D84144ABEBD001FC92BF47">
+                  <enum>(B)</enum>
+                  <text>significant
+				deficiencies in agency information security practices;</text>
+								</subparagraph>
+                <subparagraph id="HEC95D47BC6A0491884A75EC1102B3F46">
+                  <enum>(C)</enum>
+                  <text>planned remedial
+				action to address such deficiencies; and</text>
+								</subparagraph>
+                <subparagraph id="HB4503B6E13AF46298406C880E6205714">
+                  <enum>(D)</enum>
+                  <text>a summary of, and
+				the views of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director</cato:entity-ref> on, the report prepared by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1341">National Institute of
+				Standards and Technology</cato:entity-ref> under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="National Institute of Standards and Technology Act/s:20/ss:d/p:10">section 20(d)(10) of the National Institute of
+				Standards and Technology Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/278g-3">15 U.S.C. 278g–3</external-xref>)</cato:entity>.</text>
+								</subparagraph>
+              </paragraph>
+            </subsection>
+            <subsection id="H98842D90248C405E92405D6E5134226D">
+              <enum>(b)</enum>
+              <header>National
+				security systems</header>
+              <text>Except for the authorities described in
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3553/a/4" proposed="true">paragraphs (4)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3553/a/8" proposed="true">(8) of subsection (a)</cato:entity-ref>, the authorities of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director</cato:entity-ref> under
+				this section shall not apply to national security systems.</text>
+						</subsection>
+            <subsection id="HA71B5D4351C7471C99D5F3FFF6FFFAE3">
+              <enum>(c)</enum>
+              <header>Department of
+				defense and central intelligence agency systems</header>
+              <paragraph commented="no" display-inline="yes-display-inline" id="H1F6C5D5FEDF246A8ADF8F1CFE5ADB90F">
+                <enum>(1)</enum>
+                <text>The authorities of the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director</cato:entity-ref> described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3553/a/1" proposed="true">paragraphs (1)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3553/a/2" proposed="true">(2) of subsection (a)</cato:entity-ref> shall be
+				delegated to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9700">Secretary of Defense</cato:entity-ref> in the case of systems described in
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3553/c/2" proposed="true">paragraph (2)</cato:entity-ref> and to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5600">Director of Central Intelligence</cato:entity-ref> in the case of
+				systems described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3553/c/3">paragraph (3)</cato:entity-ref>.</text>
+							</paragraph>
+              <paragraph id="H1AAA73879EE84788ABED77A0DE937B7E" indent="up1">
+                <enum>(2)</enum>
+                <text>The systems described in this
+				paragraph are systems that are operated by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9700">Department of Defense</cato:entity-ref>, a
+				contractor of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9700">Department of Defense</cato:entity-ref>, or another entity on behalf of the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9700">Department of Defense</cato:entity-ref> that processes any information the unauthorized access,
+				use, disclosure, disruption, modification, or destruction of which would have a
+				debilitating impact on the mission of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9700">Department of Defense</cato:entity-ref>.</text>
+							</paragraph>
+              <paragraph id="HF3AF79EF8B9A4167951456322F24A7F1" indent="up1">
+                <enum>(3)</enum>
+                <text>The systems described in this
+				paragraph are systems that are operated by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5600">Central Intelligence Agency</cato:entity-ref>, a
+				contractor of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5600">Central Intelligence Agency</cato:entity-ref>, or another entity on behalf of
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5600">Central Intelligence Agency</cato:entity-ref> that processes any information the unauthorized
+				access, use, disclosure, disruption, modification, or destruction of which
+				would have a debilitating impact on the mission of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5600">Central Intelligence
+				Agency</cato:entity-ref>.</text>
+							</paragraph>
+            </subsection>
+          </section>
+          <section id="HF867331723994F9D9562143AA205FE61">
+            <enum>3554.</enum>
+            <header>Agency
+				responsibilities</header>
+						<subsection id="H9B8028E2D73544E58C3AE1FE732004B1">
+              <enum>(a)</enum>
+              <header>In
+				general</header>
+              <text>The head of each agency shall—</text>
+							<paragraph id="H811448EAC95343D887895D0AB4E46610">
+                <enum>(1)</enum>
+                <text>be responsible
+				for—</text>
+								<subparagraph id="HD7B41BCB5C664B39A89A87C2EE204123">
+                  <enum>(A)</enum>
+                  <text>providing
+				information security protections commensurate with the risk and magnitude of
+				the harm resulting from unauthorized access, use, disclosure, disruption,
+				modification, or destruction of—</text>
+									<clause id="HD0E4CF2BB6634DF9B8A79B1534794DC2">
+                    <enum>(i)</enum>
+                    <text>information
+				collected or maintained by or on behalf of the agency; and</text>
+									</clause>
+                  <clause id="HDB34071828E64B81A66CD69FACA32F4D">
+                    <enum>(ii)</enum>
+                    <text>information
+				systems used or operated by an agency or by a contractor of an agency or other
+				organization on behalf of an agency;</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="H5D394DAC831B4ABDB4D3D3C616CA6E29">
+                  <enum>(B)</enum>
+                  <text>complying with the
+				requirements of this subchapter and related policies, procedures, standards,
+				and guidelines, including—</text>
+									<clause id="HB5F336A0A4614A84BCC7632BA12F0BD7">
+                    <enum>(i)</enum>
+                    <text>information
+				security standards and guidelines promulgated under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/11331">section
+				11331 of title 40</cato:entity-ref> and <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                        <cato:entity-ref entity-type="act" value="National Institute of Standards and Technology Act/s:20">section 20 of the National Institute of
+				Standards and Technology Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/278g-3">15 U.S.C. 278g–3</external-xref>)</cato:entity>;</text>
+									</clause>
+                  <clause id="H7FF2B334C32A4FB28D714FE6D14DC2D4">
+                    <enum>(ii)</enum>
+                    <text>information
+				security standards and guidelines for national security systems issued in
+				accordance with law and as directed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>; and</text>
+									</clause>
+                  <clause id="HB3BE9F6C4A9646D285AE94B24595AD07">
+                    <enum>(iii)</enum>
+                    <text>ensuring the
+				standards implemented for information systems and national security systems of
+				the agency are complementary and uniform, to the extent practicable;</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="H1CE6AFA4E8C5430FBD3AD29D30105B65">
+                  <enum>(C)</enum>
+                  <text>ensuring that
+				information security management processes are integrated with agency strategic
+				and operational planning and budget processes, including policies, procedures,
+				and practices described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3554/c/2" proposed="true">subsection (c)(2)</cato:entity-ref>;</text>
+								</subparagraph>
+                <subparagraph id="H2F84832357AB41D4A94AF7A5213A9B5C">
+                  <enum>(D)</enum>
+                  <text>as appropriate,
+				maintaining secure facilities that have the capability of accessing, sending,
+				receiving, and storing classified information;</text>
+								</subparagraph>
+                <subparagraph id="H1DB82D980195405CA5945647BDED7A0F">
+                  <enum>(E)</enum>
+                  <text>maintaining a
+				sufficient number of personnel with security clearances, at the appropriate
+				levels, to access, send, receive and analyze classified information to carry
+				out the responsibilities of this subchapter; and</text>
+								</subparagraph>
+                <subparagraph id="H776461D15BF24F00AA2BA0908E3D14EC">
+                  <enum>(F)</enum>
+                  <text>ensuring that
+				information security performance indicators and measures are included in the
+				annual performance evaluations of all managers, senior managers, senior
+				executive service personnel, and political appointees;</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H25F34541F7324F8BB64CEEDD27A8582D">
+                <enum>(2)</enum>
+                <text>ensure that senior
+				agency officials provide information security for the information and
+				information systems that support the operations and assets under their control,
+				including through—</text>
+								<subparagraph id="H3953911B33EF4B9790503F12AAE981CA">
+                  <enum>(A)</enum>
+                  <text>assessing the risk
+				and magnitude of the harm that could result from the unauthorized access, use,
+				disclosure, disruption, modification, or destruction of such information or
+				information system;</text>
+								</subparagraph>
+                <subparagraph id="H455795B78A574128A367037A55AB0BC1">
+                  <enum>(B)</enum>
+                  <text>determining the
+				levels of information security appropriate to protect such information and
+				information systems in accordance with policies, principles, standards, and
+				guidelines promulgated under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/11331">section
+				11331 of title 40</cato:entity-ref> and <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="National Institute of Standards and Technology Act/s:20">section 20 of the National Institute of
+				Standards and Technology Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/278g-3">15 U.S.C. 278g–3</external-xref>)</cato:entity> for information
+				security classifications and related requirements;</text>
+								</subparagraph>
+                <subparagraph id="H62A151EFF4D748F185B117886C1285F5">
+                  <enum>(C)</enum>
+                  <text>implementing
+				policies and procedures to cost effectively reduce risks to an acceptable
+				level;</text>
+								</subparagraph>
+                <subparagraph id="H45E9FED422764461A5F597EC55BB6D69">
+                  <enum>(D)</enum>
+                  <text display-inline="yes-display-inline">with a frequency sufficient to support
+				risk-based security decisions, testing and evaluating information security
+				controls and techniques to ensure that such controls and techniques are
+				effectively implemented and operated; and</text>
+								</subparagraph>
+                <subparagraph id="H2BED00E5D6634000AFF1D6741984DC71">
+                  <enum>(E)</enum>
+                  <text display-inline="yes-display-inline">with a frequency sufficient to support
+				risk-based security decisions, conducting threat assessments by monitoring
+				information systems, identifying potential system vulnerabilities, and
+				reporting security incidents in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3554/a/3/A/v" proposed="true">paragraph (3)(A)(v)</cato:entity-ref>;</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H7CF8C5E87CB74A5F99F2874689299D8C">
+                <enum>(3)</enum>
+                <text>delegate to the
+				Chief Information Officer or equivalent (or a senior agency official who
+				reports to the Chief Information Officer or equivalent), who is designated as
+				the <quote>Chief Information Security Officer</quote>, the authority and
+				primary responsibility to develop, implement, and oversee an agencywide
+				information security program to ensure and enforce compliance with the
+				requirements imposed on the agency under this subchapter, including—</text>
+								<subparagraph id="HE04B51A2DD6E4E438D1F506EEFE4F4C7">
+                  <enum>(A)</enum>
+                  <text>overseeing the
+				establishment and maintenance of a security operations capability that through
+				automated and continuous monitoring, when possible, can—</text>
+									<clause id="H51B5D5D0B4FF4DE6B358CE23C2099627">
+                    <enum>(i)</enum>
+                    <text>detect, report,
+				respond to, contain, and mitigate incidents that impair information security
+				and agency information systems, in accordance with policy provided by the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director</cato:entity-ref>;</text>
+									</clause>
+                  <clause id="H48BCE6A25F1F4A1CBD0D7B1D8A6C4D4B">
+                    <enum>(ii)</enum>
+                    <text display-inline="yes-display-inline">commensurate with the risk to information
+				security, monitor and mitigate the vulnerabilities of every information system
+				within the agency;</text>
+									</clause>
+                  <clause id="H75A014E740AE4C57A9E21419C3FCD23C">
+                    <enum>(iii)</enum>
+                    <text>continually
+				evaluate risks posed to information collected or maintained by or on behalf of
+				the agency and information systems and hold senior agency officials accountable
+				for ensuring information security;</text>
+									</clause>
+                  <clause id="H92CA471454F0443EB820767850537157">
+                    <enum>(iv)</enum>
+                    <text>collaborate with
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director</cato:entity-ref> and appropriate public and private sector security operations
+				centers to detect, report, respond to, contain, and mitigate incidents that
+				impact the security of information and information systems that extend beyond
+				the control of the agency; and</text>
+									</clause>
+                  <clause id="H4CA4AE2E9E1A40409B6CAAB0145E01EC">
+                    <enum>(v)</enum>
+                    <text display-inline="yes-display-inline">report any incident described under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3554/a/3/A/i" proposed="true">clauses
+				(i)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3554/a/3/A/ii" proposed="true">(ii)</cato:entity-ref> to the Federal information security incident center, to other
+				appropriate security operations centers, and to the Inspector General of the
+				agency, to the extent practicable, within 24 hours after discovery of the
+				incident, but no later than 48 hours after such discovery;</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="H4452A96A8D9D447B82935C3657A4F90B">
+                  <enum>(B)</enum>
+                  <text>developing,
+				maintaining, and overseeing an agencywide information security program as
+				required by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3554/b" proposed="true">subsection (b)</cato:entity-ref>;</text>
+								</subparagraph>
+                <subparagraph id="H244C55E0D0C0451F8307698334A1B132">
+                  <enum>(C)</enum>
+                  <text>developing,
+				maintaining, and overseeing information security policies, procedures, and
+				control techniques to address all applicable requirements, including those
+				issued under <external-xref legal-doc="usc" parsable-cite="usc/40/11331">section 11331</external-xref> of title 40;</text>
+								</subparagraph>
+                <subparagraph id="H92CFFB648FD048489FD07D7875E4A85C">
+                  <enum>(D)</enum>
+                  <text>training and
+				overseeing personnel with significant responsibilities for information security
+				with respect to such responsibilities; and</text>
+								</subparagraph>
+                <subparagraph id="HAD0EA02FC1E9435EBFFC62A861EA740D">
+                  <enum>(E)</enum>
+                  <text>assisting senior
+				agency officials concerning their responsibilities under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3554/a/2" proposed="true">paragraph (2)</cato:entity-ref>;</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H4F8E4327096D4296B3113127BC698105">
+                <enum>(4)</enum>
+                <text>ensure that the
+				agency has a sufficient number of trained and cleared personnel to assist the
+				agency in complying with the requirements of this subchapter, other applicable
+				laws, and related policies, procedures, standards, and guidelines;</text>
+							</paragraph>
+              <paragraph id="H3DC6861276914030946EB2C91E939720">
+                <enum>(5)</enum>
+                <text>ensure that the
+				Chief Information Security Officer, in consultation with other senior agency
+				officials, reports periodically, but not less than annually, to the agency head
+				on—</text>
+								<subparagraph id="HD47903C35ED9439DBA5D2A8F9D45FA8C">
+                  <enum>(A)</enum>
+                  <text>the effectiveness
+				of the agency information security program;</text>
+								</subparagraph>
+                <subparagraph id="HF4E5E4EFE63E49C994C6598427BCD18F">
+                  <enum>(B)</enum>
+                  <text display-inline="yes-display-inline">information derived from automated and
+				continuous monitoring, when possible, and threat assessments; and</text>
+								</subparagraph>
+                <subparagraph id="H7C38D429E24A4B86A133A05E79F0F74C">
+                  <enum>(C)</enum>
+                  <text>the progress of
+				remedial actions;</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H9CF8CDD5C1CE489C95BA29123FD6BC4D">
+                <enum>(6)</enum>
+                <text>ensure that the
+				Chief Information Security Officer possesses the necessary qualifications,
+				including education, training, experience, and the security clearance required
+				to administer the functions described under this subchapter; and has
+				information security duties as the primary duty of that official; and</text>
+							</paragraph>
+              <paragraph id="HB65129CE799A4CA9921BD9634EA7DBE0">
+                <enum>(7)</enum>
+                <text>ensure that
+				components of that agency establish and maintain an automated reporting
+				mechanism that allows the Chief Information Security Officer with
+				responsibility for the entire agency, and all components thereof, to implement,
+				monitor, and hold senior agency officers accountable for the implementation of
+				appropriate security policies, procedures, and controls of agency
+				components.</text>
+							</paragraph>
+            </subsection>
+            <subsection id="HB5F6E828E38844E1B5776A00E3F34ACB">
+              <enum>(b)</enum>
+              <header>Agency
+				program</header>
+              <text>Each agency shall develop, document, and implement an
+				agencywide information security program, approved by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director</cato:entity-ref> and
+				consistent with components across and within agencies, to provide information
+				security for the information and information systems that support the
+				operations and assets of the agency, including those provided or managed by
+				another agency, contractor, or other source, that includes—</text>
+							<paragraph id="H8E8929B4FB674613813B19F5C4D94127">
+                <enum>(1)</enum>
+                <text display-inline="yes-display-inline">automated and continuous monitoring, when
+				possible, of the risk and magnitude of the harm that could result from the
+				disruption or unauthorized access, use, disclosure, modification, or
+				destruction of information and information systems that support the operations
+				and assets of the agency;</text>
+							</paragraph>
+              <paragraph id="HB19E38798D8A49089F873873B60BAC8E">
+                <enum>(2)</enum>
+                <text>consistent with
+				guidance developed under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/11331">section
+				11331 of title 40</cato:entity-ref>, vulnerability assessments and penetration
+				tests commensurate with the risk posed to agency information systems;</text>
+							</paragraph>
+              <paragraph id="H2783D23676304822BE05DBDFBC1328EC">
+                <enum>(3)</enum>
+                <text>policies and
+				procedures that—</text>
+								<subparagraph id="H413D3C9C16824D4AB2949B192A33B239">
+                  <enum>(A)</enum>
+                  <text>cost effectively
+				reduce information security risks to an acceptable level;</text>
+								</subparagraph>
+                <subparagraph id="HCF5649196FE146DA899B7754ACE8E5ED">
+                  <enum>(B)</enum>
+                  <text>ensure compliance
+				with—</text>
+									<clause id="H3A9EAFA4FEC943A6A22096AE22013422">
+                    <enum>(i)</enum>
+                    <text>the requirements
+				of this subchapter;</text>
+									</clause>
+                  <clause id="H06B0D1F903984553B94527DEDC99A5D4">
+                    <enum>(ii)</enum>
+                    <text>policies and
+				procedures as may be prescribed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director</cato:entity-ref>, and information security
+				standards promulgated pursuant to
+				section
+				11331 of title 40;</text>
+									</clause>
+                  <clause id="HD77713BF46D74945BFD5030571B3583E">
+                    <enum>(iii)</enum>
+                    <text>minimally
+				acceptable system configuration requirements, as determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director</cato:entity-ref>;
+				and</text>
+									</clause>
+                  <clause id="H21205D2ACF8C4A998E776FCF20DF315E">
+                    <enum>(iv)</enum>
+                    <text>any other
+				applicable requirements, including—</text>
+										<subclause id="H12A4B9BB460045AD8178ADAE6CC1D4EF">
+                      <enum>(I)</enum>
+                      <text>standards and
+				guidelines for national security systems issued in accordance with law and as
+				directed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>; and</text>
+										</subclause>
+                    <subclause id="HF299B488E02443B1BCDA26D48001A857">
+                      <enum>(II)</enum>
+                      <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1341">National
+				Institute of Standards and Technology</cato:entity-ref> standards and guidance;</text>
+										</subclause>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="HB32CBD094D304669BE8A4251F511EE17">
+                  <enum>(C)</enum>
+                  <text>develop, maintain,
+				and oversee information security policies, procedures, and control techniques
+				to address all applicable requirements, including those promulgated pursuant
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/11331">section
+				11331 of title 40</cato:entity-ref>; and</text>
+								</subparagraph>
+                <subparagraph id="HD908D1750AD74157A3F7DB402E80EE52">
+                  <enum>(D)</enum>
+                  <text>ensure the
+				oversight and training of personnel with significant responsibilities for
+				information security with respect to such responsibilities;</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H1034C9FA8AAC43BA8371BF6F613A446A">
+                <enum>(4)</enum>
+                <text display-inline="yes-display-inline">with a frequency sufficient to support
+				risk-based security decisions, automated and continuous monitoring, when
+				possible, for testing and evaluation of the effectiveness and compliance of
+				information security policies, procedures, and practices, including—</text>
+								<subparagraph id="H34802996A16447BCA7A01EBE133AF22F">
+                  <enum>(A)</enum>
+                  <text>controls of every
+				information system identified in the inventory required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3505/c">section 3505(c)</cato:entity-ref>;
+				and</text>
+								</subparagraph>
+                <subparagraph id="H010A3CCD4F44483196A394AECB763A35">
+                  <enum>(B)</enum>
+                  <text>controls relied on
+				for an evaluation under this section;</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H9596B20B68444116919748307A5C1CAD">
+                <enum>(5)</enum>
+                <text>a process for
+				planning, implementing, evaluating, and documenting remedial action to address
+				any deficiencies in the information security policies, procedures, and
+				practices of the agency;</text>
+							</paragraph>
+              <paragraph id="H0DD144C4C3DF4EB3B16C0D1EF59B0CE7">
+                <enum>(6)</enum>
+                <text display-inline="yes-display-inline">with a frequency sufficient to support
+				risk-based security decisions, automated and continuous monitoring, when
+				possible, for detecting, reporting, and responding to security incidents,
+				consistent with standards and guidelines issued by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1341">National Institute of
+				Standards and Technology</cato:entity-ref>, including—</text>
+								<subparagraph id="H45C7CA349E62467D9FDEFFFF45236363">
+                  <enum>(A)</enum>
+                  <text>mitigating risks
+				associated with such incidents before substantial damage is done;</text>
+								</subparagraph>
+                <subparagraph id="H0DBE96646D844C509DBA03D1909D6AFB">
+                  <enum>(B)</enum>
+                  <text display-inline="yes-display-inline">notifying and consulting with the Federal
+				information security incident center and other appropriate security operations
+				response centers; and</text>
+								</subparagraph>
+                <subparagraph id="HCE80019DDFE549769842A11654589EBB">
+                  <enum>(C)</enum>
+                  <text>notifying and
+				consulting with, as appropriate—</text>
+									<clause id="H9FB0CD9906E34E1BA3FCF464A601742E">
+                    <enum>(i)</enum>
+                    <text>law enforcement
+				agencies and relevant Offices of Inspectors General; and</text>
+									</clause>
+                  <clause id="HCDD5FC9019D94D0593F87E2A9AAF628A">
+                    <enum>(ii)</enum>
+                    <text>any other agency,
+				office, or entity, in accordance with law or as directed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>;
+				and</text>
+									</clause>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="H7E9E26D15F9E4030834B0DCD1AFFAE10">
+                <enum>(7)</enum>
+                <text>plans and
+				procedures to ensure continuity of operations for information systems that
+				support the operations and assets of the agency.</text>
+							</paragraph>
+            </subsection>
+            <subsection id="H675CA18704E24323BF851294563F617C">
+              <enum>(c)</enum>
+              <header>Agency
+				reporting</header>
+              <text>Each agency shall—</text>
+							<paragraph id="HDA694A49DBF14E3DBE0D98D2377B593A">
+                <enum>(1)</enum>
+                <text>submit an annual
+				report on the adequacy and effectiveness of information security policies,
+				procedures, and practices, and compliance with the requirements of this
+				subchapter, including compliance with each requirement of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3554/b" proposed="true">subsection (b)</cato:entity-ref>
+				to—</text>
+								<subparagraph id="H2F5768BC74A64A66BFC28BB9E3080B14">
+                  <enum>(A)</enum>
+                  <text>the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director</cato:entity-ref>;</text>
+								</subparagraph>
+                <subparagraph id="H0266D3CB3F874C70BB2EE48CC47A5E35">
+                  <enum>(B)</enum>
+                  <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSGA00">Committee on
+				Homeland Security and Governmental Affairs of the Senate</cato:entity-ref>;</text>
+								</subparagraph>
+                <subparagraph id="HFE51AF749C334A05871E0898495D379D">
+                  <enum>(C)</enum>
+                  <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HGO00">Committee on
+				Oversight and Government Reform of the House of Representatives</cato:entity-ref>;</text>
+								</subparagraph>
+                <subparagraph id="HB5E9AC183C724FEC9E5A822AA7EFA539">
+                  <enum>(D)</enum>
+                  <text>other appropriate
+				authorization and appropriations committees of Congress; and</text>
+								</subparagraph>
+                <subparagraph id="HFE61AD605B3248AF958D13CC6A5D8769">
+                  <enum>(E)</enum>
+                  <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0500">Comptroller
+				General</cato:entity-ref>;</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H851127A5413443A798D24D4A1EC82475">
+                <enum>(2)</enum>
+                <text>address the
+				adequacy and effectiveness of information security policies, procedures, and
+				practices in plans and reports relating to—</text>
+								<subparagraph id="HCE751AD55E794A6E9E42DF635D72654C">
+                  <enum>(A)</enum>
+                  <text>annual agency
+				budgets;</text>
+								</subparagraph>
+                <subparagraph id="H34BCCC6892D04CAA8D67B92B149E8598">
+                  <enum>(B)</enum>
+                  <text>information
+				resources management of this subchapter;</text>
+								</subparagraph>
+                <subparagraph id="H5181F58A947A49A696803B83DE88ADBD">
+                  <enum>(C)</enum>
+                  <text>information
+				technology management under this chapter;</text>
+								</subparagraph>
+                <subparagraph id="HE962CF63ED0B449C9A077F4246E8FFE2">
+                  <enum>(D)</enum>
+                  <text>program
+				performance under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/1105">sections 1105</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/1115..1119">1115 through 1119 of title 31</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/2801">sections
+				2801</cato:entity-ref>
+				and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/2805">2805 of title 39</cato:entity-ref>;</text>
+								</subparagraph>
+                <subparagraph id="H4BB8DFAD95014CAD8E5C35FB06E65194">
+                  <enum>(E)</enum>
+                  <text>financial
+				management under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/31/9">chapter
+				9 of title 31</cato:entity-ref>, and the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Chief Financial Officers Act of 1990">Chief Financial Officers Act of 1990</cato:entity-ref>
+				(<cato:entity-ref entity-type="uscode" value="usc/31/501/note">31 U.S.C.
+				501 note</cato:entity-ref>;
+				<cato:entity-ref entity-type="public-law" value="public-law/101/576">Public Law
+				101–576</cato:entity-ref>)</cato:entity>;</text>
+								</subparagraph>
+                <subparagraph id="H561344E0646C4E4CA2D57D432FE4A04B">
+                  <enum>(F)</enum>
+                  <text>financial
+				management systems under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Federal Financial Management Improvement Act of 1996">Federal Financial Management Improvement Act of
+				1996</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/31/3512/note">31 U.S.C.
+				3512 note</cato:entity-ref>)</cato:entity>; and</text>
+								</subparagraph>
+                <subparagraph id="H789E83C939FC42B0A25C68C622C09613">
+                  <enum>(G)</enum>
+                  <text>internal
+				accounting and administrative controls under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/3512">section
+				3512 of title 31</cato:entity-ref>; and</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H430ABCBE3E924DE089F7E836464847C3">
+                <enum>(3)</enum>
+                <text>report any
+				significant deficiency in a policy, procedure, or practice identified under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3554/c/1" proposed="true">paragraph (1)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3554/c/2" proposed="true">(2)</cato:entity-ref>—</text>
+								<subparagraph id="HB7CAEC72B2DB409D98119D0E9CD31E33">
+                  <enum>(A)</enum>
+                  <text>as a material
+				weakness in reporting under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/3512">section
+				3512 of title 31</cato:entity-ref>; and</text>
+								</subparagraph>
+                <subparagraph id="HBEA78F1D2FE143468F358F935B02A01A">
+                  <enum>(B)</enum>
+                  <text>if relating to
+				financial management systems, as an instance of a lack of substantial
+				compliance under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Federal Financial Management Improvement Act of 1996">Federal Financial Management Improvement Act of 1996</cato:entity-ref>
+				(<cato:entity-ref entity-type="uscode" value="usc/31/3512/note">31 U.S.C.
+				3512 note</cato:entity-ref>)</cato:entity>.</text>
+								</subparagraph>
+              </paragraph>
+            </subsection>
+          </section>
+          <section id="H7FF6F6E854AC4A53A76E099799CCA4FF">
+            <enum>3555.</enum>
+            <header>Federal
+				information security incident center</header>
+						<subsection id="H966C1827CBFC4C4EAEFD1A04FDF2DB91">
+              <enum>(a)</enum>
+              <header>In
+				general</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director</cato:entity-ref> shall ensure the operation of a central
+				Federal information security incident center to—</text>
+							<paragraph id="H96DBF2AC987D453597EAD9747E04DFB1">
+                <enum>(1)</enum>
+                <text>provide timely
+				technical assistance to operators of agency information systems regarding
+				security incidents, including guidance on detecting and handling information
+				security incidents;</text>
+							</paragraph>
+              <paragraph id="HC6AED220654F4ECD9FD0F2C1493520AF">
+                <enum>(2)</enum>
+                <text>compile and
+				analyze information about incidents that threaten information security;</text>
+							</paragraph>
+              <paragraph id="HBAEF4D2CD1264CEB8C5AE52933426E27">
+                <enum>(3)</enum>
+                <text>inform operators
+				of agency information systems about current and potential information security
+				threats, and vulnerabilities; and</text>
+							</paragraph>
+              <paragraph id="H9D7A73C4432B4C0E8B34C2663A5BF112">
+                <enum>(4)</enum>
+                <text>consult with the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1341">National Institute of Standards and Technology</cato:entity-ref>, agencies or offices operating
+				or exercising control of national security systems (including the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="97CG">National
+				Security Agency</cato:entity-ref>), and such other agencies or offices in accordance with law and
+				as directed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> regarding information security incidents and
+				related matters.</text>
+							</paragraph>
+            </subsection>
+            <subsection id="H196D373AFEC84279BEBCE1F03C8F3CAD">
+              <enum>(b)</enum>
+              <header>National
+				security systems</header>
+              <text>Each agency operating or exercising control of a
+				national security system shall share information about information security
+				incidents, threats, and vulnerabilities with the Federal information security
+				incident center to the extent consistent with standards and guidelines for
+				national security systems, issued in accordance with law and as directed by the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>.</text>
+						</subsection>
+            <subsection id="H28C5507DEEA74A55ADCACC58D23A020F">
+              <enum>(c)</enum>
+              <header>Review and
+				approval</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director</cato:entity-ref> shall review and approve the policies,
+				procedures, and guidance established in this subchapter to ensure that the
+				incident center has the capability to effectively and efficiently detect,
+				correlate, respond to, contain, mitigate, and remediate incidents that impair
+				the adequate security of the information systems of more than one agency. To
+				the extent practicable, the capability shall be continuous and technically
+				automated.</text>
+						</subsection>
+          </section>
+          <section id="H6AB482A987AA46BC9350C1A11F2A536D">
+            <enum>3556.</enum>
+            <header>National
+				security systems</header>
+            <text display-inline="no-display-inline">The head of
+				each agency operating or exercising control of a national security system shall
+				be responsible for ensuring that the agency—</text>
+						<paragraph id="H76AFE524BCCB4934B45E5A5CCCD4EAD2">
+              <enum>(1)</enum>
+              <text>provides
+				information security protections commensurate with the risk and magnitude of
+				the harm resulting from the unauthorized access, use, disclosure, disruption,
+				modification, or destruction of the information contained in such
+				system;</text>
+						</paragraph>
+            <paragraph id="H66F09510033A4DBBAB59ACEEDD2D3572">
+              <enum>(2)</enum>
+              <text>implements
+				information security policies and practices as required by standards and
+				guidelines for national security systems, issued in accordance with law and as
+				directed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>; and</text>
+						</paragraph>
+            <paragraph id="HB485400892FB43678CC9DC04A0EBD4F3">
+              <enum>(3)</enum>
+              <text>complies with the
+				requirements of this
+				subchapter.</text>
+						</paragraph>
+          </section>
+        </subchapter>
+        <after-quoted-block>.</after-quoted-block>
+      </quoted-block>
+		</section>
+    <section id="H5539B727A50A48BFAAC2E3679B562DDE">
+      <enum>3.</enum>
+      <header>Technical and
+			 conforming amendments</header>
+			<subsection id="H1249A064063F490CBA7184C74B86B6E1">
+        <enum>(a)</enum>
+        <header>Table of
+			 sections in title 44</header>
+        <text>The table of sections for
+			 <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/35">chapter 35</external-xref> of title 44,
+			 United States Code, is amended by striking the matter relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/44/35/II">subchapters
+			 II</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/44/35/III">III</cato:entity-ref> and inserting the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H444B617C0EDC4D58B2302A8C0AFCBF96" style="USC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="subchapter">SUBCHAPTER II—INFORMATION
+				SECURITY</toc-entry>
+						<toc-entry level="section">Sec.</toc-entry>
+						<toc-entry level="section">3551. Purposes.</toc-entry>
+						<toc-entry level="section">3552. Definitions.</toc-entry>
+						<toc-entry level="section">3553. Authority and functions of the
+				Director.</toc-entry>
+						<toc-entry level="section">3554. Agency responsibilities.</toc-entry>
+						<toc-entry level="section">3555. Federal information security
+				incident center.</toc-entry>
+						<toc-entry level="section">3556. National security
+				systems.</toc-entry>
+					</toc>
+					<after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+      <subsection id="HDDF8889985864DABA3D3E03C1560093F">
+        <enum>(b)</enum>
+        <header>Other
+			 references</header>
+				<paragraph id="H94D33B9C3FC542B790424AFA9F87128F">
+          <enum>(1)</enum>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Homeland Security Act of 2002/s:1001/ss:c/p:1/sp:A">Section
+			 1001(c)(1)(A) of the Homeland Security Act of 2002</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/6/511/c/1/A">6 U.S.C.
+			 511(c)(1)(A)</cato:entity-ref>)</cato:entity> is amended by striking <quote>section
+			 3532(3)</quote> and inserting <quote>section 3552(b)</quote>.</text>
+				</paragraph>
+        <paragraph id="H0BB7A39A19F84A4C8C4C0F2A1B946388">
+          <enum>(2)</enum>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/2222/j/5">Section 2222(j)(5)
+			 of title 10, United States Code</cato:entity-ref>, is amended by striking <quote>section
+			 3542(b)(2)</quote> and inserting <quote>section 3552(b)</quote>.</text>
+				</paragraph>
+        <paragraph id="H2563A9866D1748028231412E4EAC41D7">
+          <enum>(3)</enum>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/2223/c/3">Section 2223(c)(3)
+			 of title 10, United States Code</cato:entity-ref>, is amended, by striking <quote>section
+			 3542(b)(2)</quote> and inserting <quote>section 3552(b)</quote>.</text>
+				</paragraph>
+        <paragraph id="H90C716CF76A242C3979B43E088FD2624">
+          <enum>(4)</enum>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10,UnitedStatesCode,/2315">Section 2315 of
+			 title 10, United States Code,</cato:entity-ref> is amended by striking <quote>section
+			 3542(b)(2)</quote> and inserting <quote>section 3552(b)</quote>.</text>
+				</paragraph>
+        <paragraph id="H7597EF468C58489783F38D3D9EFB71EF">
+          <enum>(5)</enum>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="National Institute of Standards and Technology Act/s:20">Section 20 of the
+			 National Institute of Standards and Technology Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/278g-3">15 U.S.C. 278g–3</external-xref>)</cato:entity>
+			 is amended—</text>
+					<subparagraph id="H9A8605C5804C48AD8BD79840C775D2E9">
+            <enum>(A)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Institute of Standards and Technology Act/s:20/ss:a/p:2">subsections
+			 (a)(2)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Institute of Standards and Technology Act/s:20/ss:e/p:5">(e)(5)</cato:entity-ref>, by striking <quote>section 3532(b)(2)</quote> and inserting
+			 <quote>section 3552(b)</quote>; and</text>
+					</subparagraph>
+          <subparagraph id="HEE91522A5BBF4FFD8813B1D7C7BBCCDC">
+            <enum>(B)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Institute of Standards and Technology Act/s:20/ss:e">subsection
+			 (e)</cato:entity-ref>—</text>
+						<clause id="HA782C83394A349A7ABD2C7B1BB3D3D4C">
+              <enum>(i)</enum>
+              <text>in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Institute of Standards and Technology Act/s:20/ss:e/p:2">paragraph (2)</cato:entity-ref>, by striking <quote>section 3532(1)</quote> and inserting
+			 <quote>section 3552(b)</quote>; and</text>
+						</clause>
+            <clause commented="no" id="H36376B0741254DD39B9E73AA5E6F84CB">
+              <enum>(ii)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Institute of Standards and Technology Act/s:20/ss:e/p:5">paragraph (5)</cato:entity-ref>,
+			 by striking <quote>section 3532(b)(2)</quote> and inserting <quote>section
+			 3552(b)</quote>.</text>
+						</clause>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="HBEFF15C1387F4DE584EC9A7A515FCA9C">
+          <enum>(6)</enum>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Cyber Security Research and Development Act/s:8/ss:d/p:1">Section 8(d)(1) of
+			 the Cyber Security Research and Development Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/7406">
+                <cato:entity-ref entity-type="uscode" value="usc/15/7406/d/1">15 U.S.C. 7406(d)(1)</cato:entity-ref>
+              </external-xref>)</cato:entity> is amended by
+			 striking <quote>section 3534(b)</quote> and inserting <quote>section
+			 3554(b)</quote>.</text>
+				</paragraph>
+      </subsection>
+    </section>
+    <section id="H59F555FA908D454B9AE325CA0282E145">
+      <enum>4.</enum>
+      <header>No
+			 additional funds authorized</header>
+      <text display-inline="no-display-inline">No
+			 additional funds are authorized to carry out the requirements of
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3554">section
+			 3554 of title 44, United States Code</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Information Security Amendments Act of 2013/s:2" proposed="true">section 2
+			 of this Act</cato:entity-ref>. Such requirements shall be carried out using amounts otherwise
+			 authorized or appropriated.</text>
+		</section>
+    <section id="HB09B541F93B14409A0DE6CCC9C3F10B4">
+      <enum>5.</enum>
+      <header>Effective
+			 date</header>
+      <text display-inline="no-display-inline">This Act (including the
+			 amendments made by this Act) shall take effect 30 days after the date of the
+			 enactment of this Act.</text>
+		</section>
+  </legis-body>
+</bill>
+</doc>

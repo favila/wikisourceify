@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr868ih">
+<doc>
+  <docmeta id="113hr868ih">
     <bill congress="113" type="hr" number="868" version="ih"/>
-    <revision id="6" commit-time="2013-03-27T16:30:40+00:00" comitter="/users/favila.xml" doc="/docs/113hr868ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H48040AE6010D4EA5B9D53BBA08A5522A" public-private="public">
+    <revision size="11229" annotations="0" id="6" commit-time="2013-03-27T16:30:40+00:00" committer="favila" doc="113hr868ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H48040AE6010D4EA5B9D53BBA08A5522A" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -445,9 +449,13 @@
       <enum>8.</enum>
       <header>Authorization of
 			 appropriations</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is
 			 authorized to be appropriated <cato:funds-and-year amount="360000000" year="2014, 2015, 2016">$360,000,000 for each of fiscal years 2014
-			 through 2016</cato:funds-and-year> <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Safer Neighborhoods Gun Buyback Act of 2013" proposed="true">this Act</cato:entity-ref></cato:property>.</cato:entity></text>
+			 through 2016</cato:funds-and-year> <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Safer Neighborhoods Gun Buyback Act of 2013" proposed="true">this Act</cato:entity-ref>
+          </cato:property>.</cato:entity>
+      </text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

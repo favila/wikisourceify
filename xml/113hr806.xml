@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr806ih">
+<doc>
+  <docmeta id="113hr806ih">
     <bill congress="113" type="hr" number="806" version="ih"/>
-    <revision id="8" commit-time="2013-03-25T16:38:17+00:00" comitter="/users/favila.xml" doc="/docs/113hr806ih/8.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8995C742734B42B3920E320AC3E5E5BF" public-private="public">
+    <revision size="3342" annotations="0" id="8" commit-time="2013-03-25T16:38:17+00:00" committer="favila" doc="113hr806ih/8.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8995C742734B42B3920E320AC3E5E5BF" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -33,7 +37,8 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/38/117">Section 117 of title
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/38/117">Section 117 of title
 			 38, United States Code</cato:entity-ref>, is amended by adding at the end the following new
 			 subsection:</text>
 				<quoted-block display-inline="no-display-inline" id="H0F7BF863DBF047B48C7DA1C449506588" style="USC">
@@ -102,10 +107,13 @@
         <enum>(b)</enum>
         <header>Conforming
 			 repeal</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Veterans Health Care Budget Reform and Transparency Act of 2009/s:4">Section 4 of the
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Veterans Health Care Budget Reform and Transparency Act of 2009/s:4">Section 4 of the
 			 Veterans Health Care Budget Reform and Transparency Act of 2009</cato:entity-ref> (<cato:entity-ref entity-type="public-law" value="public-law/111/81">Public Law
 			 111–81</cato:entity-ref>)</cato:entity> is hereby repealed.</text>
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

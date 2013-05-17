@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr452ih">
+<doc>
+  <docmeta id="113hr452ih">
     <bill congress="113" type="hr" number="452" version="ih"/>
-    <revision id="7" commit-time="2013-03-12T17:06:54+00:00" comitter="/users/favila.xml" doc="/docs/113hr452ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC6C9DA98799A476984BD27E20858FF52" public-private="public">
+    <revision size="4661" annotations="0" id="7" commit-time="2013-03-12T17:06:54+00:00" committer="favila" doc="113hr452ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC6C9DA98799A476984BD27E20858FF52" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -40,7 +44,8 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/18/44">Chapter 44 of title 18, United States Code</cato:entity-ref>, is amended by
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/18/44">Chapter 44 of title 18, United States Code</cato:entity-ref>, is amended by
 			 adding at the end the following:</text>
 				<quoted-block display-inline="no-display-inline" id="HF6807D5EC5384E7BA1EDF01BE00B4EA7" style="USC">
 					<section id="HA064415C9B314F1B95B934A6392CB008">
@@ -79,7 +84,8 @@
               <enum>(b)</enum>
               <header>Gift
 				exceptions</header>
-              <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/932/a" proposed="true">Subsection (a)</cato:entity-ref> shall not apply to a firearm that
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/932/a" proposed="true">Subsection (a)</cato:entity-ref> shall not apply to a firearm that
 				is—</text>
 							<paragraph id="H41698DB5774844DDAB6AAE4C2EB9CC9D">
                 <enum>(1)</enum>
@@ -171,4 +177,5 @@
       </subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

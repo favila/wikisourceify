@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1216ih">
+<doc>
+  <docmeta id="113hr1216ih">
     <bill congress="113" type="hr" number="1216" version="ih"/>
-    <revision id="6" commit-time="2013-04-05T14:59:47+00:00" comitter="/users/favila.xml" doc="/docs/113hr1216ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEB60F23E2BC84A029C3D97F29109FC70" public-private="public">
+    <revision size="4107" annotations="0" id="6" commit-time="2013-04-05T14:59:47+00:00" committer="favila" doc="113hr1216ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEB60F23E2BC84A029C3D97F29109FC70" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1216 IH: To designate the Department of Veterans Affairs Vet Center in Prescott, Arizona, as the “Dr. Cameron McKinley Department of Veterans Affairs Veterans Center”.</title>
@@ -43,7 +47,8 @@
 		<section id="H28AF19E587904979A0DDF31CC0B86FE5" section-type="section-one">
       <enum>1.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 			<paragraph id="H1004B02E6A81402BB472C1D85A332578">
         <enum>(1)</enum>
         <text>Dr. Cameron K.
@@ -84,7 +89,8 @@
 			</paragraph>
       <paragraph id="HAD342EAC0D9146B4B9FD23CD572F82D7">
         <enum>(7)</enum>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
 			 authorized 91 new rural VAMCs, among them the Prescott Vet Center. In June of
 			 1985, the Prescott Vet Center opened.</text>
 			</paragraph>
@@ -137,4 +143,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

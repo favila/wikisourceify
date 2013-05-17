@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr721ih">
+<doc>
+  <docmeta id="113hr721ih">
     <bill congress="113" type="hr" number="721" version="ih"/>
-    <revision id="4" commit-time="2013-03-22T16:03:20+00:00" comitter="/users/favila.xml" doc="/docs/113hr721ih/4.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2E88186F2CBB4B06865F89A241BC3AE2" public-private="public">
+    <revision size="2309" annotations="0" id="4" commit-time="2013-03-22T16:03:20+00:00" committer="favila" doc="113hr721ih/4.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2E88186F2CBB4B06865F89A241BC3AE2" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -41,14 +45,16 @@
         <enum>(a)</enum>
         <header>Extension of
 			 credit</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:45G/ss:f">Section 45G(f) of the Internal Revenue Code of 1986</cato:entity-ref> is
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:45G/ss:f">Section 45G(f) of the Internal Revenue Code of 1986</cato:entity-ref> is
 			 amended by striking <quote>January 1, 2014</quote> and inserting <quote>January
 			 1, 2017</quote>.</text>
 			</subsection>
       <subsection id="H45DD4DBE8D40438B83BBF5969BD48F5A">
         <enum>(b)</enum>
         <header>Expenditures</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:45G/ss:d">Subsection
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:45G/ss:d">Subsection
 			 (d) of section 45G of the Internal Revenue Code of 1986</cato:entity-ref> (relating to qualified
 			 railroad track maintenance expenditures) is amended by striking <quote>for
 			 maintaining</quote> and all that follows and
@@ -88,4 +94,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

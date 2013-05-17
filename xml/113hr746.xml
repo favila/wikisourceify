@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr746ih">
+<doc>
+  <docmeta id="113hr746ih">
     <bill congress="113" type="hr" number="746" version="ih"/>
-    <revision id="4" commit-time="2013-03-22T20:16:27+00:00" comitter="/users/favila.xml" doc="/docs/113hr746ih/4.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H21F7A435D5A149EE8FFB798EA19C0A63" public-private="public">
+    <revision size="5996" annotations="0" id="4" commit-time="2013-03-22T20:16:27+00:00" committer="favila" doc="113hr746ih/4.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H21F7A435D5A149EE8FFB798EA19C0A63" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -45,7 +49,8 @@
       <enum>2.</enum>
       <header>In
 			 general</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/558">Section 558 of title
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/558">Section 558 of title
 			 5, United States Code</cato:entity-ref>, is amended by adding at the end the following:</text>
 			<quoted-block display-inline="no-display-inline" id="HC560DEE146D746CEA15995C84A17239A" style="USC">
 				<subsection id="H69FB5A2A7DB64088BF13106BBCF5DF40">
@@ -109,7 +114,8 @@
           <enum>(f)</enum>
           <text>The grace period
 				described by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/558/d" proposed="true">subsection (d)</cato:entity-ref> shall not apply to a violation that puts anyone in
-				imminent danger, as defined by the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Occupational Safety and Health Act">Occupational Safety and Health Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/29/662/etseq">29
+				imminent danger, as defined by the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Occupational Safety and Health Act">Occupational Safety and Health Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/29/662/etseq">29
 				U.S.C. 662 et seq.</cato:entity-ref>)</cato:entity>.</text>
 				</subsection>
         <subsection id="HB7DA1A9534F54C5D9AC307F0E4977F8D">
@@ -157,7 +163,8 @@
               <enum>(B)</enum>
               <text>is considered a
 				<quote>small-business concern</quote> as such term is defined pursuant to
-				<cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Small Business Act/s:3/ss:a">Section 3(a) of the Small Business Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/632/a">15 U.S.C. 632(a)</cato:entity-ref>)</cato:entity>;</text>
+				<cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Small Business Act/s:3/ss:a">Section 3(a) of the Small Business Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/632/a">15 U.S.C. 632(a)</cato:entity-ref>)</cato:entity>;</text>
 						</subparagraph>
             <subparagraph id="H2136F18B2F864C01BBD9EC971CD6860B">
               <enum>(C)</enum>
@@ -173,7 +180,8 @@
           <paragraph id="H4A7FD463CE7F4FF7B50A970519993A76">
             <enum>(2)</enum>
             <text>the term
-				<quote>Ombudsman</quote> has the same meaning given such term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Small Business Act/s:30/ss:a">section 30(a)
+				<quote>Ombudsman</quote> has the same meaning given such term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Small Business Act/s:30/ss:a">section 30(a)
 				of the Small Business Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/657/a">15 U.S.C. 657(a)</cato:entity-ref>)</cato:entity>;</text>
 					</paragraph>
           <paragraph id="H7993375642294E0590950750CB0099C6">
@@ -196,4 +204,5 @@
       </quoted-block>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

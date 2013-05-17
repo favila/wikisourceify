@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1038ih">
+<doc>
+  <docmeta id="113hr1038ih">
     <bill congress="113" type="hr" number="1038" version="ih"/>
-    <revision id="7" commit-time="2013-04-02T22:05:12+00:00" comitter="/users/favila.xml" doc="/docs/113hr1038ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H94C7B60F7F704AF483A29DC82969757F" public-private="public">
+    <revision size="5533" annotations="0" id="7" commit-time="2013-04-02T22:05:12+00:00" committer="favila" doc="113hr1038ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H94C7B60F7F704AF483A29DC82969757F" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1038 IH: Public Power Risk Management Act of 2013</title>
@@ -48,7 +52,9 @@
       <enum>2.</enum>
       <header>Transactions with
 			 utility special entities</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Commodity Exchange Act/s:1a/p:49">Section 1a(49) of the Commodity Exchange Act</cato:entity-ref>
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Commodity Exchange Act/s:1a/p:49">Section 1a(49) of the Commodity Exchange Act</cato:entity-ref>
 			 (<external-xref legal-doc="usc" parsable-cite="usc/7/1a">7 U.S.C. 1a(49)</external-xref>)</cato:entity> is amended by adding at the end the following:</text>
 			<quoted-block id="H950EC383E0CC446FBC92F57353733E34" style="OLC">
 				<subparagraph id="HBDA11FBFE385454184FA47D56DA514F2">
@@ -78,7 +84,9 @@
       <enum>3.</enum>
       <header>Utility special
 			 entity defined</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Commodity Exchange Act/s:4s/ss:h/p:2">Section
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Commodity Exchange Act/s:4s/ss:h/p:2">Section
 			 4s(h)(2) of the Commodity Exchange Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/7/6s">7 U.S.C. 6s(h)(2)</external-xref>)</cato:entity> is amended by adding
 			 at the end the following:</text>
 			<quoted-block id="H64766DF48A2C4F628759BBE987FCB4B9" style="OLC">
@@ -125,7 +133,9 @@
         <enum>(a)</enum>
         <header>Swap further
 			 defined</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Commodity Exchange Act/s:1a/p:47/sp:A/cl:iii">Section 1a(47)(A)(iii) of the Commodity Exchange Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/7/1a//47/A/iii">7
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Commodity Exchange Act/s:1a/p:47/sp:A/cl:iii">Section 1a(47)(A)(iii) of the Commodity Exchange Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/7/1a//47/A/iii">7
 			 U.S.C. 1a(47)(A)(iii)</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="H1A45D7BD9DDB46ED951617159D283213">
           <enum>(1)</enum>
@@ -156,7 +166,9 @@
         <enum>(b)</enum>
         <header>Utility
 			 operations-Related swap defined</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Commodity Exchange Act/s:1a">Section 1a of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/7/1a">7 U.S.C.
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Commodity Exchange Act/s:1a">Section 1a of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/7/1a">7 U.S.C.
 			 1a</cato:entity-ref>)</cato:entity> is amended by adding at the end the following:</text>
 				<quoted-block id="H4F7214C3C5CD4D7BB69E4ABA714E4DA1" style="OLC">
 					<paragraph id="H4F15E3505D244D28A5E7FB5AB39B19D7">
@@ -234,4 +246,5 @@
 			 this Act take effect as if enacted on July 21, 2010.</text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

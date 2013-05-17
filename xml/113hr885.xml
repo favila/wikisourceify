@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr885ih">
+<doc>
+  <docmeta id="113hr885ih">
     <bill congress="113" type="hr" number="885" version="ih"/>
-    <revision id="5" commit-time="2013-03-27T22:50:43+00:00" comitter="/users/favila.xml" doc="/docs/113hr885ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HCFCE3477FFCB4D808C3A6AF42B090510" public-private="public">
+    <revision size="4445" annotations="0" id="5" commit-time="2013-03-27T22:50:43+00:00" committer="favila" doc="113hr885ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HCFCE3477FFCB4D808C3A6AF42B090510" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -39,7 +43,9 @@
       <enum>2.</enum>
       <header>Park boundary
 			 study</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="public-law" value="public-law/95/629/s:201">Section 201 of Public
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="public-law" value="public-law/95/629/s:201">Section 201 of Public
 			 Law 95–629</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/16/410ee">16
 			 U.S.C. 410ee</external-xref>)</cato:entity> is amended—</text>
 			<paragraph id="HC06D188ECEAB41FA83E39D92A74032F3">
@@ -99,9 +105,12 @@
       <enum>3.</enum>
       <header>Boundary
 			 expansion</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="public-law" value="public-law/95/629/s:201">Section 201 of
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="public-law" value="public-law/95/629/s:201">Section 201 of
 			 <external-xref legal-doc="public-law" parsable-cite="pl/95/629">Public Law
-			 95–629</external-xref></cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/16/410ee">16 U.S.C. 410ee</external-xref>)</cato:entity> is
+			 95–629</external-xref>
+          </cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/16/410ee">16 U.S.C. 410ee</external-xref>)</cato:entity> is
 			 amended—</text>
 			<paragraph id="H8BBBCECD740B41D4843BF23D009CCD88">
         <enum>(1)</enum>
@@ -206,4 +215,5 @@
       </paragraph>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

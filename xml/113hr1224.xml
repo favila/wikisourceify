@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1224ih">
+<doc>
+  <docmeta id="113hr1224ih">
     <bill congress="113" type="hr" number="1224" version="ih"/>
-    <revision id="6" commit-time="2013-04-05T15:48:10+00:00" comitter="/users/favila.xml" doc="/docs/113hr1224ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H812FE0707F31449F92CF58B81796D08C" public-private="public">
+    <revision size="5963" annotations="0" id="6" commit-time="2013-04-05T15:48:10+00:00" committer="favila" doc="113hr1224ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H812FE0707F31449F92CF58B81796D08C" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1224 IH: Father Mychal Judge, O.F.M., Congressional Gold Medal Act</title>
@@ -57,7 +61,8 @@
     <section id="H50E8BBE876914F8C8F480A4ED98DC11A">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 			<paragraph id="H87F1A71D5DF9483682DFC63036EE52AB">
         <enum>(1)</enum>
         <text display-inline="yes-display-inline">Father Mychal Judge, O.F.M., beloved
@@ -193,9 +198,12 @@
         <enum>(a)</enum>
         <header>Authorization of
 			 Charges</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be charged against the <cato:property name="funds-source">United
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be charged against the <cato:property name="funds-source">United
 			 States Mint Public Enterprise Fund</cato:property> an amount not to exceed <cato:funds-and-year amount="30000">$30,000</cato:funds-and-year> <cato:property name="purpose">to pay for
-			 the cost of the medals authorized by <cato:entity-ref entity-type="act" value="Father Mychal Judge, O.F.M., Congressional Gold Medal Act" proposed="true">this Act</cato:entity-ref></cato:property>.</cato:entity></text>
+			 the cost of the medals authorized by <cato:entity-ref entity-type="act" value="Father Mychal Judge, O.F.M., Congressional Gold Medal Act" proposed="true">this Act</cato:entity-ref>
+            </cato:property>.</cato:entity>
+        </text>
 			</subsection>
       <subsection id="H31AA5262F6694AD88CAB4A6B87EE35E9">
         <enum>(b)</enum>
@@ -207,4 +215,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr895ih">
+<doc>
+  <docmeta id="113hr895ih">
     <bill congress="113" type="hr" number="895" version="ih"/>
-    <revision id="11" commit-time="2013-03-28T16:31:43+00:00" comitter="/users/favila.xml" doc="/docs/113hr895ih/11.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5D2903CA0D504068ADD565CAE641AF5C" public-private="public">
+    <revision size="16730" annotations="0" id="11" commit-time="2013-03-28T16:31:43+00:00" committer="favila" doc="113hr895ih/11.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5D2903CA0D504068ADD565CAE641AF5C" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -421,7 +425,8 @@
         <enum>(a)</enum>
         <header>Screening in
 			 general</header>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/4014/a">Section 4014(a) of
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/4014/a">Section 4014(a) of
 			 title 18, United States Code</cato:entity-ref>, is amended—</text>
 				<paragraph id="HEBFC5E5AEA594C4DA786047835DFABCD">
           <enum>(1)</enum>
@@ -447,7 +452,8 @@
         <enum>(b)</enum>
         <header>Inadmissibility
 			 of HIV Test Results in civil and criminal proceedings</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/4014/d">Section
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/4014/d">Section
 			 4014(d) of title 18, United States Code</cato:entity-ref>, is amended by inserting <quote>or
 			 under the <short-title>Stop AIDS in Prison Act of
 			 2013</short-title>
@@ -457,7 +463,8 @@
         <enum>(c)</enum>
         <header>Screening as
 			 part of routine screening</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/4014/e">Section 4014(e) of title 18, United
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/4014/e">Section 4014(e) of title 18, United
 			 States Code</cato:entity-ref>, is amended by adding at the end the following: <quote>Such rules
 			 shall also provide that the initial test under this section be performed as
 			 part of the routine health screening conducted at intake.</quote>.</text>
@@ -563,4 +570,5 @@
       </subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

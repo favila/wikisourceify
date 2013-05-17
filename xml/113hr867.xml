@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr867ih">
+<doc>
+  <docmeta id="113hr867ih">
     <bill congress="113" type="hr" number="867" version="ih"/>
-    <revision id="7" commit-time="2013-03-27T16:21:03+00:00" comitter="/users/favila.xml" doc="/docs/113hr867ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H3470AE4FE095452385BF46519CA4C083" public-private="public">
+    <revision size="16833" annotations="0" id="7" commit-time="2013-03-27T16:21:03+00:00" committer="favila" doc="113hr867ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H3470AE4FE095452385BF46519CA4C083" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -41,7 +45,8 @@
         <enum>(1)</enum>
         <text>the term
 			 <term>critical infrastructure</term> has the meaning given the term in section
-			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="PATRIOT Act">1016(e) of the Uniting and Strengthening America by Providing Appropriate Tools
+			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="PATRIOT Act">1016(e) of the Uniting and Strengthening America by Providing Appropriate Tools
 			 Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/5195c/e">42
 			 U.S.C. 5195c(e)</cato:entity-ref>)</cato:entity>;</text>
 			</paragraph>
@@ -205,7 +210,8 @@
         <paragraph id="HE87C7A60878646A08CBDEE0AA8E59580">
           <enum>(2)</enum>
           <header>Exception</header>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Metal Theft Prevention Act of 2013/s:4/ss:a/p:1" proposed="true">Paragraph
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Metal Theft Prevention Act of 2013/s:4/ss:a/p:1" proposed="true">Paragraph
 			 (1)</cato:entity-ref> shall not apply to a recycling agent that is subject to a State or local
 			 law that sets forth a requirement on recycling agents to obtain documentation
 			 of ownership or proof of authority to sell specified metal before purchasing
@@ -255,7 +261,8 @@
         <paragraph id="H231A38B434454FC5BB1779EFD2CABA6C">
           <enum>(2)</enum>
           <header>Exception</header>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Metal Theft Prevention Act of 2013/s:5/ss:a/p:1" proposed="true">Paragraph
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Metal Theft Prevention Act of 2013/s:5/ss:a/p:1" proposed="true">Paragraph
 			 (1)</cato:entity-ref> shall not apply to a recycling agent that is subject to a State or local
 			 law that sets forth recording requirements that are substantially similar to
 			 the requirements described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Metal Theft Prevention Act of 2013/s:5/ss:a/p:3" proposed="true">paragraph (3)</cato:entity-ref> for the purchase of specified
@@ -380,7 +387,8 @@
         <paragraph id="H236F287DDA6848A9BD9F23F8AFD5C359">
           <enum>(2)</enum>
           <header>Exception</header>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Metal Theft Prevention Act of 2013/s:5/ss:b/p:1" proposed="true">Paragraph
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Metal Theft Prevention Act of 2013/s:5/ss:b/p:1" proposed="true">Paragraph
 			 (1)</cato:entity-ref> shall not apply to a recycling agent that is subject to a State or local
 			 law that sets forth a maximum amount for cash payments for the purchase of
 			 specified metal.</text>
@@ -635,4 +643,5 @@
 			 effect 180 days after the date of enactment of this Act.</text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

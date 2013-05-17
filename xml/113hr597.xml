@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr597ih">
+<doc>
+  <docmeta id="113hr597ih">
     <bill congress="113" type="hr" number="597" version="ih"/>
-    <revision id="4" commit-time="2013-03-21T23:22:54+00:00" comitter="/users/favila.xml" doc="/docs/113hr597ih/4.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC2DAEC5581CE4CB39AC38DBB14403E69" public-private="public">
+    <revision size="13316" annotations="0" id="4" commit-time="2013-03-21T23:22:54+00:00" committer="favila" doc="113hr597ih/4.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC2DAEC5581CE4CB39AC38DBB14403E69" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -218,7 +222,8 @@
 			 access foreign and domestic financial institutions, including requirements
 			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:4">chapter 4 of the Internal Revenue Code of 1986</cato:entity-ref> (commonly known as the
 			 <quote>Foreign Account Tax Compliance Act</quote>) and requirements affecting
-			 financial institutions imposed by the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="PATRIOT Act">Uniting and Strengthening America by
+			 financial institutions imposed by the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="PATRIOT Act">Uniting and Strengthening America by
 			 Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of
 			 2001</cato:entity-ref> (USA Patriot Act) (<cato:entity-ref entity-type="public-law" value="public-law/107/56">Public Law 107–56</cato:entity-ref>)</cato:entity>.</text>
 					</subparagraph>
@@ -424,10 +429,14 @@
       <enum>9.</enum>
       <header>Authorization of
 			 appropriations</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is
 			 authorized to be appropriated <cato:funds-and-year amount="3000000" year="2014,2015">$3,000,000 for each of fiscal years 2014 and 2015</cato:funds-and-year>
-			 to the <cato:entity-ref entity-type="federal-body" value="Commission on Americans Living Abroad" proposed="true">Commission</cato:entity-ref> <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Commission on Americans Living Abroad Act" proposed="true">this Act</cato:entity-ref></cato:property> to remain available until the
-			 termination of the <cato:entity-ref entity-type="federal-body" value="Commission on Americans Living Abroad" proposed="true">Commission</cato:entity-ref>.</cato:entity></text>
+			 to the <cato:entity-ref entity-type="federal-body" value="Commission on Americans Living Abroad" proposed="true">Commission</cato:entity-ref> <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Commission on Americans Living Abroad Act" proposed="true">this Act</cato:entity-ref>
+          </cato:property> to remain available until the
+			 termination of the <cato:entity-ref entity-type="federal-body" value="Commission on Americans Living Abroad" proposed="true">Commission</cato:entity-ref>.</cato:entity>
+      </text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

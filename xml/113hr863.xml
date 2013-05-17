@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr863ih">
+<doc>
+  <docmeta id="113hr863ih">
     <bill congress="113" type="hr" number="863" version="ih"/>
-    <revision id="5" commit-time="2013-03-26T23:29:12+00:00" comitter="/users/favila.xml" doc="/docs/113hr863ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2BB3BC5B560A4F3786151F65187190BB" public-private="public">
+    <revision size="11536" annotations="0" id="5" commit-time="2013-03-26T23:29:12+00:00" committer="favila" doc="113hr863ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2BB3BC5B560A4F3786151F65187190BB" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -244,7 +248,8 @@
 			 locations for the Museum in Washington, DC, and its environs (including the
 			 location located on public land bounded by Independence Avenue SW., 14th Street
 			 SW., 15th Street SW., and Jefferson Drive SW., in Washington, DC, that is
-			 established subject to <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="uscode" value="usc-chapter/40/89">chapter 89 of title 40, United States Code</cato:entity-ref> (commonly
+			 established subject to <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="uscode" value="usc-chapter/40/89">chapter 89 of title 40, United States Code</cato:entity-ref> (commonly
 			 known as the “<cato:entity-ref entity-type="act" value="Commemorative Works Act">Commemorative Works Act</cato:entity-ref>”)</cato:entity>).</text>
 					</subparagraph>
           <subparagraph id="HFE449B25042946788D00FE8FB97D0BC5">
@@ -433,7 +438,8 @@
         <enum>(c)</enum>
         <header>Federal advisory
 			 committee act</header>
-        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Commission to Study the Potential Creation of a National Women's History Museum" proposed="true">Commission</cato:entity-ref> shall not be subject to the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Federal Advisory Committee Act">Federal
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Commission to Study the Potential Creation of a National Women's History Museum" proposed="true">Commission</cato:entity-ref> shall not be subject to the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Federal Advisory Committee Act">Federal
 			 Advisory Committee Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc-appendix/5">5 U.S.C. App.</cato:entity-ref>)</cato:entity>.</text>
 			</subsection>
     </section>
@@ -462,4 +468,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

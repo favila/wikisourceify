@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1240ih">
+<doc>
+  <docmeta id="113hr1240ih">
     <bill congress="113" type="hr" number="1240" version="ih"/>
-    <revision id="5" commit-time="2013-04-05T16:30:34+00:00" comitter="/users/favila.xml" doc="/docs/113hr1240ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEE75A20EDB334B40A5A014CA6629121B" public-private="public">
+    <revision size="2009" annotations="0" id="5" commit-time="2013-04-05T16:30:34+00:00" committer="favila" doc="113hr1240ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEE75A20EDB334B40A5A014CA6629121B" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1240 IH: Commercial Real Estate and Economic Development Act of 2013</title>
@@ -55,16 +59,23 @@
 			<subsection id="H8CFE3EC83CA14CE9A1C95C028A706655">
         <enum>(a)</enum>
         <header>Repeal</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Small Business Jobs Act of 2010/s:1122/ss:b">Section
-			 1122(b) of the Small Business Jobs Act of 2010</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/696/note"><external-xref legal-doc="usc" parsable-cite="usc/15/696">15 U.S.C. 696</external-xref> note</cato:entity-ref>)</cato:entity> is
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Small Business Jobs Act of 2010/s:1122/ss:b">Section
+			 1122(b) of the Small Business Jobs Act of 2010</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/696/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/15/696">15 U.S.C. 696</external-xref> note</cato:entity-ref>)</cato:entity> is
 			 repealed.</text>
 			</subsection>
       <subsection id="H33143D0619364F509176EF30ABAAB015">
         <enum>(b)</enum>
         <header>Restoration of
 			 Low-Interest Refinancing Provision</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Small Business Investment Act of 1958/s:502/p:7/sp:C">Subparagraph (C) of section
-			 502(7) of the Small Business Investment Act of 1958</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/696"><cato:entity-ref entity-type="uscode" value="usc/15/696//7">15 U.S.C. 696(7)</cato:entity-ref></external-xref>)</cato:entity>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Small Business Investment Act of 1958/s:502/p:7/sp:C">Subparagraph (C) of section
+			 502(7) of the Small Business Investment Act of 1958</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/696">
+              <cato:entity-ref entity-type="uscode" value="usc/15/696//7">15 U.S.C. 696(7)</cato:entity-ref>
+            </external-xref>)</cato:entity>
 			 (relating to refinancing not involving expansions), as in effect on September
 			 25, 2012, shall be in effect during the period beginning on the date of
 			 enactment of this Act and ending 5 years after such date of enactment.</text>
@@ -79,4 +90,5 @@
 			 the program it amends.</text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

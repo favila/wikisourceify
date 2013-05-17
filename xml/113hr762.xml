@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr762ih">
+<doc>
+  <docmeta id="113hr762ih">
     <bill congress="113" type="hr" number="762" version="ih"/>
-    <revision id="6" commit-time="2013-03-24T17:33:51+00:00" comitter="/users/favila.xml" doc="/docs/113hr762ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" dms-id="H8DAA43F44A5546C5A639450B90D16238" public-private="public" bill-type="olc"> 
+    <revision size="40712" annotations="0" id="6" commit-time="2013-03-24T17:33:51+00:00" committer="favila" doc="113hr762ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" dms-id="H8DAA43F44A5546C5A639450B90D16238" public-private="public" bill-type="olc"> 
 <form> 
 <distribution-code display="yes">I</distribution-code> 
 <congress>113th CONGRESS</congress>
@@ -32,7 +36,8 @@
 <section id="HC1BB26D179AE4A2B9BF82B4B75B0C40F">
       <enum>3.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 <paragraph id="H48B575240D284B8795EC118E08945B9D">
         <enum>(1)</enum>
         <text>The application of numerous and significant variations in State law and the implementation of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Patient Protection and Affordable Care Act">Patient Protection and Affordable Care Act</cato:entity-ref> impacts the ability of insurers to offer, and individuals to obtain, affordable individual health insurance coverage, thereby impeding commerce in individual health insurance coverage.</text>
@@ -57,7 +62,9 @@
 <section id="HFA395A2E8CBA4E5595F4586AACEACA8C">
       <enum>4.</enum>
       <header>Repeal of title I of PPACA</header>
-      <text display-inline="no-display-inline">Effective as of the enactment of the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act">Patient Protection and Affordable Care Act</cato:entity-ref> (<cato:entity-ref entity-type="public-law" value="public-law/111/148">Public Law 111–148</cato:entity-ref>)</cato:entity>, title I of such Act is repealed (and any amendments to such title, or to amendments made by such title, made by the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Health Care and Education Reconciliation Act of 2010">Health Care and Education Reconciliation Act of 2010</cato:entity-ref> (<cato:entity-ref entity-type="public-law" value="public-law/111/152">Public Law 111–152</cato:entity-ref>)</cato:entity> are repealed), and the provisions of law amended or repealed by such title (or amendments) are restored or revived as if such title (and amendments) had not been enacted.</text>
+      <text display-inline="no-display-inline">Effective as of the enactment of the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act">Patient Protection and Affordable Care Act</cato:entity-ref> (<cato:entity-ref entity-type="public-law" value="public-law/111/148">Public Law 111–148</cato:entity-ref>)</cato:entity>, title I of such Act is repealed (and any amendments to such title, or to amendments made by such title, made by the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Health Care and Education Reconciliation Act of 2010">Health Care and Education Reconciliation Act of 2010</cato:entity-ref> (<cato:entity-ref entity-type="public-law" value="public-law/111/152">Public Law 111–152</cato:entity-ref>)</cato:entity> are repealed), and the provisions of law amended or repealed by such title (or amendments) are restored or revived as if such title (and amendments) had not been enacted.</text>
     </section>
 <section id="H6FA1243DC35D4F96A429FBC01E1F8F75">
       <enum>5.</enum>
@@ -65,7 +72,10 @@
 <subsection id="HDFC3E7C92F4D4BFBA83DEB2391292AAA">
         <enum>(a)</enum>
         <header>In General</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Public Health Service Act/t:XXVII">Title XXVII of the <act-name parsable-cite="PHSA">Public Health Service Act</act-name></cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/300gg/etseq">42 U.S.C. 300gg et seq.</cato:entity-ref>)</cato:entity> is amended by adding at the end the following new part:</text>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Public Health Service Act/t:XXVII">Title XXVII of the <act-name parsable-cite="PHSA">Public Health Service Act</act-name>
+            </cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/300gg/etseq">42 U.S.C. 300gg et seq.</cato:entity-ref>)</cato:entity> is amended by adding at the end the following new part:</text>
 <quoted-block act-name="Public Health Service Act" id="HDD41D2A0F70F43C792B7567D30E749CA" style="OLC">
 <part id="H7ACA5187B64B46D4BD23A206C800BB52">
             <enum>D</enum>
@@ -765,4 +775,5 @@
       <text display-inline="no-display-inline">If any provision of the Act or the application of such provision to any person or circumstance is held to be unconstitutional, the remainder of this Act and the application of the provisions of such to any other person or circumstance shall not be affected.</text>
     </section> 
 </legis-body> 
-</bill></doc>
+</bill>
+</doc>

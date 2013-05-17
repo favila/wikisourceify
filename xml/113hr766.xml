@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr766ih">
+<doc>
+  <docmeta id="113hr766ih">
     <bill congress="113" type="hr" number="766" version="ih"/>
-    <revision id="5" commit-time="2013-03-24T18:14:10+00:00" comitter="/users/favila.xml" doc="/docs/113hr766ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" dms-id="HC49A37D42B154F9E820ED560BFA2C4E5" public-private="public" bill-type="olc"> 
+    <revision size="8651" annotations="0" id="5" commit-time="2013-03-24T18:14:10+00:00" committer="favila" doc="113hr766ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" dms-id="HC49A37D42B154F9E820ED560BFA2C4E5" public-private="public" bill-type="olc"> 
 <form> 
 <distribution-code display="yes">I</distribution-code> 
 <congress>113th CONGRESS</congress>
@@ -31,7 +35,8 @@
 <subsection id="H4F74E0ED1418459995E98C3954901CAE">
         <enum>(a)</enum>
         <header>In general</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:A">Subchapter A of chapter 1 of the Internal Revenue Code of 1986</cato:entity-ref> is amended by adding at the end the following new part:</text>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:A">Subchapter A of chapter 1 of the Internal Revenue Code of 1986</cato:entity-ref> is amended by adding at the end the following new part:</text>
 <quoted-block display-inline="no-display-inline" id="H7300B2FE02DB40518021C0781429A998" style="OLC">
 <part id="HECAA4DBBCB2441319E6B356E4E7F8AC1">
             <enum>VIII</enum>
@@ -232,7 +237,8 @@
       <text display-inline="no-display-inline">It is the sense of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0050">House of Representatives</cato:entity-ref> that—</text>
 <paragraph commented="no" display-inline="no-display-inline" id="H3FA68FF2D054481BBE9159E3A37A8914">
         <enum>(1)</enum>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> should enact tax reform that repeals unfair and unnecessary tax loopholes and expenditures, simplifies the system for millions of taxpayers and businesses, and makes sure that the wealthiest taxpayers pay a fair share; and</text>
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> should enact tax reform that repeals unfair and unnecessary tax loopholes and expenditures, simplifies the system for millions of taxpayers and businesses, and makes sure that the wealthiest taxpayers pay a fair share; and</text>
       </paragraph>
 <paragraph commented="no" display-inline="no-display-inline" id="H56E7877FBBE24C9688C41517BA36414D">
         <enum>(2)</enum>
@@ -240,4 +246,5 @@
       </paragraph>
     </section> 
 </legis-body> 
-</bill></doc>
+</bill>
+</doc>

@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1008ih">
+<doc>
+  <docmeta id="113hr1008ih">
     <bill congress="113" type="hr" number="1008" version="ih"/>
-    <revision id="10" commit-time="2013-04-02T18:12:45+00:00" comitter="/users/favila.xml" doc="/docs/113hr1008ih/10.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HFC0F8892B14A4D2E9ABAEEF4A205E8BE" public-private="public">
+    <revision size="21795" annotations="0" id="10" commit-time="2013-04-02T18:12:45+00:00" committer="favila" doc="113hr1008ih/10.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HFC0F8892B14A4D2E9ABAEEF4A205E8BE" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -103,7 +107,9 @@
 			<section id="H17D8A4134C3941BBA64F4006AD99A423">
         <enum>101.</enum>
         <header>Reauthorization</header>
-        <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Special Olympics Sport and Empowerment Act of 2004/s:2..5">Sections 2 through 5 of the Special Olympics
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Special Olympics Sport and Empowerment Act of 2004/s:2..5">Sections 2 through 5 of the Special Olympics
 			 Sport and Empowerment Act of 2004</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/15001/note">42 U.S.C. 15001 note</cato:entity-ref>)</cato:entity> are amended to read as
 			 follows:</text>
 				<quoted-block display-inline="no-display-inline" id="H6533251409E1470EA7B348B93FC8C869" style="OLC">
@@ -114,7 +120,8 @@
 						<subsection id="H0444C813C5CC4851AF33E5278DF875CB">
               <enum>(a)</enum>
               <header>Findings</header>
-              <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
 				finds the following:</text>
 							<paragraph id="HA2D9CE58FEF4474889290FD82567FE2E">
                 <enum>(1)</enum>
@@ -421,24 +428,36 @@
 				authorized to be appropriated—</text>
 						<paragraph id="H72DAB691A74843C5818F7B69B7FAEB5B">
               <enum>(1)</enum>
-              <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp"><cato:property name="purpose">for grants,
-				contracts, or cooperative agreements under <cato:entity-ref entity-type="act" value="Eunice Kennedy Shriver Act/s:3/ss:a" proposed="true">section 3(a)</cato:entity-ref></cato:property>, <cato:funds-and-year amount="9500000,.." year="2014, 2015, 2016, 2017, 2018">$9,500,000 for fiscal
+              <text>
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                  <cato:property name="purpose">for grants,
+				contracts, or cooperative agreements under <cato:entity-ref entity-type="act" value="Eunice Kennedy Shriver Act/s:3/ss:a" proposed="true">section 3(a)</cato:entity-ref>
+                  </cato:property>, <cato:funds-and-year amount="9500000,.." year="2014, 2015, 2016, 2017, 2018">$9,500,000 for fiscal
 				year 2014, and such sums as may be necessary for each of the 4 succeeding
-				fiscal years</cato:funds-and-year>;</cato:entity></text>
+				fiscal years</cato:funds-and-year>;</cato:entity>
+              </text>
 						</paragraph>
             <paragraph id="H4F3F198159C74593836D9D7816A0177D">
               <enum>(2)</enum>
-              <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp"><cato:property name="purpose">for grants,
-				contracts, or cooperative agreements under <cato:entity-ref entity-type="act" value="Eunice Kennedy Shriver Act/s:3/ss:b" proposed="true">section 3(b)</cato:entity-ref></cato:property>, <cato:funds-and-year amount="4500000,.." year="2014, 2015, 2016, 2017, 2018">$4,500,000 for fiscal
+              <text>
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                  <cato:property name="purpose">for grants,
+				contracts, or cooperative agreements under <cato:entity-ref entity-type="act" value="Eunice Kennedy Shriver Act/s:3/ss:b" proposed="true">section 3(b)</cato:entity-ref>
+                  </cato:property>, <cato:funds-and-year amount="4500000,.." year="2014, 2015, 2016, 2017, 2018">$4,500,000 for fiscal
 				year 2014, and such sums as may be necessary for each of the 4 succeeding
-				fiscal years</cato:funds-and-year>; and</cato:entity></text>
+				fiscal years</cato:funds-and-year>; and</cato:entity>
+              </text>
 						</paragraph>
             <paragraph id="HCB637E26557C44B9A2E31F24F053A053">
               <enum>(3)</enum>
-              <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp"><cato:property name="purpose">for grants, contracts, or cooperative
-				agreements under <cato:entity-ref entity-type="act" value="Eunice Kennedy Shriver Act/s:3/ss:c" proposed="true">section 3(c)</cato:entity-ref></cato:property>, <cato:funds-and-year amount="8500000,.." year="2014, 2015, 2016, 2017, 2018">$8,500,000 for fiscal year 2014, and such sums
+              <text display-inline="yes-display-inline">
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                  <cato:property name="purpose">for grants, contracts, or cooperative
+				agreements under <cato:entity-ref entity-type="act" value="Eunice Kennedy Shriver Act/s:3/ss:c" proposed="true">section 3(c)</cato:entity-ref>
+                  </cato:property>, <cato:funds-and-year amount="8500000,.." year="2014, 2015, 2016, 2017, 2018">$8,500,000 for fiscal year 2014, and such sums
 				as may be necessary for each of the 4 succeeding fiscal
-				years</cato:funds-and-year>.</cato:entity></text>
+				years</cato:funds-and-year>.</cato:entity>
+              </text>
 						</paragraph>
           </section>
           <after-quoted-block>.</after-quoted-block>
@@ -456,7 +475,8 @@
 				<subsection id="HF7D27FEF84174C14BB3C92B373B15144">
           <enum>(a)</enum>
           <header>Findings</header>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
 			 finds the following:</text>
 					<paragraph id="HFC2A6DA1B301493187E34F1739048CBC">
             <enum>(1)</enum>
@@ -669,12 +689,16 @@
         <enum>204.</enum>
         <header>Authorization
 			 of appropriations</header>
-        <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are
 			 authorized to be appropriated to the <cato:entity-ref entity-type="federal-body" entity-id="9100">Secretary of Education</cato:entity-ref> <cato:property name="purpose">for grants,
-			 contracts, or cooperative agreements under <cato:entity-ref entity-type="act" value="Eunice Kennedy Shriver Act/s:202/ss:a" proposed="true">section 202(a)</cato:entity-ref></cato:property>, <cato:funds-and-year amount="4000000,.." year="2014, 2015, 2016, 2017, 2018">$4,000,000 for
+			 contracts, or cooperative agreements under <cato:entity-ref entity-type="act" value="Eunice Kennedy Shriver Act/s:202/ss:a" proposed="true">section 202(a)</cato:entity-ref>
+            </cato:property>, <cato:funds-and-year amount="4000000,.." year="2014, 2015, 2016, 2017, 2018">$4,000,000 for
 			 fiscal year 2014 and such sums as may be necessary for each of the 4 succeeding
-			 fiscal years</cato:funds-and-year>.</cato:entity></text>
+			 fiscal years</cato:funds-and-year>.</cato:entity>
+        </text>
 			</section>
     </title>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

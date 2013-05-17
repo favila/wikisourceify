@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1006ih">
+<doc>
+  <docmeta id="113hr1006ih">
     <bill congress="113" type="hr" number="1006" version="ih"/>
-    <revision id="6" commit-time="2013-04-02T17:59:36+00:00" comitter="/users/favila.xml" doc="/docs/113hr1006ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H204C3BA4AB924CA69CAF21C061F57ED7" public-private="public">
+    <revision size="3373" annotations="0" id="6" commit-time="2013-04-02T17:59:36+00:00" committer="favila" doc="113hr1006ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H204C3BA4AB924CA69CAF21C061F57ED7" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -41,7 +45,8 @@
         <enum>(a)</enum>
         <header>Limitation on
 			 compensation</header>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/1003">Section 1003 of
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/1003">Section 1003 of
 			 title 39, United States Code</cato:entity-ref>, is amended—</text>
 				<paragraph id="HAE413861193B438082D4E9BD2EAE0095">
           <enum>(1)</enum>
@@ -89,7 +94,8 @@
         <enum>(b)</enum>
         <header>Limitation on
 			 bonuses</header>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3686">Section 3686 of title
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3686">Section 3686 of title
 			 39, United States Code</cato:entity-ref>, is amended as follows:</text>
 				<paragraph id="H160D083B47F242E49FDA6427E263B786">
           <enum>(1)</enum>
@@ -102,7 +108,8 @@
 				</paragraph>
         <paragraph id="HDDD54337669C4EEF94D93810EA8AE7BE">
           <enum>(2)</enum>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3686/b">Subsections (b)</cato:entity-ref>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3686/b">Subsections (b)</cato:entity-ref>
 			 and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3686/c">(c)</cato:entity-ref> are repealed.</text>
 				</paragraph>
         <paragraph id="H44E9DCDF9AF3461FA2F2400023D75F03">
@@ -137,4 +144,5 @@
       </subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

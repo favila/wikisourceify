@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr827ih">
+<doc>
+  <docmeta id="113hr827ih">
     <bill congress="113" type="hr" number="827" version="ih"/>
-    <revision id="5" commit-time="2013-03-26T18:34:33+00:00" comitter="/users/favila.xml" doc="/docs/113hr827ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" dms-id="H3EA757F01FC94073824C5B31F3004EEF" public-private="public" bill-type="olc"> 
+    <revision size="6354" annotations="0" id="5" commit-time="2013-03-26T18:34:33+00:00" committer="favila" doc="113hr827ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" dms-id="H3EA757F01FC94073824C5B31F3004EEF" public-private="public" bill-type="olc"> 
 <form> 
 <distribution-code display="yes">I</distribution-code> 
 <congress>113th CONGRESS</congress>
@@ -33,7 +37,9 @@
 <subsection id="H9C92E48154684F93A35B62C6584E479F">
         <enum>(a)</enum>
         <header>In general</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Securities Investor Protection Act of 1970/s:11">Section 11 of the Securities Investor Protection Act of 1970</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/78ggg">15 U.S.C. 78ggg</cato:entity-ref>)</cato:entity> is amended—</text> 
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Securities Investor Protection Act of 1970/s:11">Section 11 of the Securities Investor Protection Act of 1970</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/78ggg">15 U.S.C. 78ggg</cato:entity-ref>)</cato:entity> is amended—</text> 
 <paragraph id="HE266516CC081493A93192CF51AE434D5">
           <enum>(1)</enum>
           <text>by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securities Investor Protection Act of 1970/s:11/ss:c,d">subsections (c) and (d)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securities Investor Protection Act of 1970/s:11/ss:d,e" proposed="true">subsections (d) and (e)</cato:entity-ref>, respectively; and</text>
@@ -99,7 +105,8 @@
 <subparagraph id="HBDF881D19848445E8B1E47F721954C81">
                   <enum>(A)</enum>
                   <header>No SIPC advance</header>
-                  <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securities Investor Protection Act of 1970/s:9/ss:a">Section 9(a)</cato:entity-ref> shall not apply with respect to any customer who receives a one-time payment under this subsection.</text>
+                  <text display-inline="yes-display-inline">
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securities Investor Protection Act of 1970/s:9/ss:a">Section 9(a)</cato:entity-ref> shall not apply with respect to any customer who receives a one-time payment under this subsection.</text>
                 </subparagraph> 
 <subparagraph id="HB700030E8B0E4F2890EDA48E49E28412">
                   <enum>(B)</enum>
@@ -148,7 +155,8 @@
 <subsection id="HA1898C8C06DC4E6B9E97DB8511824186">
         <enum>(b)</enum>
         <header>Application</header>
-        <text display-inline="yes-display-inline">With respect to an ongoing action brought under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Securities Investor Protection Act of 1970/s:11/ss:b">section 11(b) of the Securities Investor Protection Act of 1970</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/78ggg/b">15 U.S.C. 78ggg(b)</cato:entity-ref>)</cato:entity> before the date of the enactment of this Act, the customer election available under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securities Investor Protection Act of 1970/s:11/ss:c" proposed="true">section 11(c)</cato:entity-ref> of such Act may be made during the 180-day period beginning on the date of the enactment of this Act.</text>
+        <text display-inline="yes-display-inline">With respect to an ongoing action brought under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Securities Investor Protection Act of 1970/s:11/ss:b">section 11(b) of the Securities Investor Protection Act of 1970</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/78ggg/b">15 U.S.C. 78ggg(b)</cato:entity-ref>)</cato:entity> before the date of the enactment of this Act, the customer election available under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securities Investor Protection Act of 1970/s:11/ss:c" proposed="true">section 11(c)</cato:entity-ref> of such Act may be made during the 180-day period beginning on the date of the enactment of this Act.</text>
       </subsection>
 <subsection id="HFA8D08CA2B5946A4BEABEA2990EC3517">
         <enum>(c)</enum>
@@ -157,4 +165,5 @@
       </subsection>
     </section> 
 </legis-body> 
-</bill></doc>
+</bill>
+</doc>

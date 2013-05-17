@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr954ih">
+<doc>
+  <docmeta id="113hr954ih">
     <bill congress="113" type="hr" number="954" version="ih"/>
-    <revision id="9" commit-time="2013-04-01T16:26:50+00:00" comitter="/users/favila.xml" doc="/docs/113hr954ih/9.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEDCB41D4D31E42089E7A80529975FB4A" public-private="public">
+    <revision size="12222" annotations="0" id="9" commit-time="2013-04-01T16:26:50+00:00" committer="favila" doc="113hr954ih/9.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEDCB41D4D31E42089E7A80529975FB4A" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -269,7 +273,8 @@
               <header>Community
 				College</header>
               <text>The term <term>community college</term> has the meaning
-				given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Higher Education Act of 1965/s:312/ss:f">section 312(f) of the Higher Education Act of 1965</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/20/1058/f">20 U.S.C.
+				given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Higher Education Act of 1965/s:312/ss:f">section 312(f) of the Higher Education Act of 1965</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/20/1058/f">20 U.S.C.
 				1058(f)</cato:entity-ref>)</cato:entity>.</text>
 						</subparagraph>
             <subparagraph id="H5D2474B1DFFF46C0A614C77C9C66CB94">
@@ -285,7 +290,8 @@
               <header>Postsecondary
 				vocational institution</header>
               <text>The term <term>postsecondary vocational
-				institution</term> has the meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Higher Education Act of 1965/s:102/ss:c">section 102(c) of the
+				institution</term> has the meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Higher Education Act of 1965/s:102/ss:c">section 102(c) of the
 				Higher Education Act of 1965</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/20/1002/c">20 U.S.C. 1002(c)</cato:entity-ref>)</cato:entity>.</text>
 						</subparagraph>
             <subparagraph id="HD81964E1E0F343DC8FAC02A5594D1FAE">
@@ -433,14 +439,18 @@
             <enum>(6)</enum>
             <header>Authorization of
 				appropriations</header>
-            <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is
+            <text display-inline="yes-display-inline">
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is
 				authorized to be appropriated to the <cato:entity-ref entity-type="federal-body" entity-id="1600">Secretary</cato:entity-ref> <cato:funds-and-year amount="indefinite">such sums as may be necessary</cato:funds-and-year> <cato:property name="purpose">to
 				carry out <cato:entity-ref entity-type="act" value="Workforce Investment Act of 1998/s:171/ss:f" proposed="true">this
-				subsection</cato:entity-ref></cato:property>.</cato:entity></text>
+				subsection</cato:entity-ref>
+                </cato:property>.</cato:entity>
+            </text>
 					</paragraph>
         </subsection>
         <after-quoted-block>.</after-quoted-block>
       </quoted-block>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

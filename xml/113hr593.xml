@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr593ih">
+<doc>
+  <docmeta id="113hr593ih">
     <bill congress="113" type="hr" number="593" version="ih"/>
-    <revision id="6" commit-time="2013-03-21T22:33:44+00:00" comitter="/users/favila.xml" doc="/docs/113hr593ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6C1F236B7FCD4E428E2A3823DF8D0699" public-private="public">
+    <revision size="19192" annotations="0" id="6" commit-time="2013-03-21T22:33:44+00:00" committer="favila" doc="113hr593ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6C1F236B7FCD4E428E2A3823DF8D0699" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -68,7 +72,8 @@
 			<subsection id="H57E0FB5241554F46A7D633BFBFDD736F">
         <enum>(a)</enum>
         <header>Findings</header>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> makes the following
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> makes the following
 			 findings:</text>
 				<paragraph id="HA306EB8BB69744C4B2A041A48C09D607">
           <enum>(1)</enum>
@@ -305,7 +310,8 @@
           <enum>(2)</enum>
           <header>Period of
 			 replacement hire rate</header>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Down Payment to Protect National Security Act of 2013/s:3/ss:c/p:1" proposed="true">Paragraph (1)</cato:entity-ref> shall apply to each agency
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Down Payment to Protect National Security Act of 2013/s:3/ss:c/p:1" proposed="true">Paragraph (1)</cato:entity-ref> shall apply to each agency
 			 during the period beginning 60 days after the date of enactment of this Act
 			 through the date on which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director of the Office of Management and Budget</cato:entity-ref>
 			 makes a determination that the number of full-time employees employed in that
@@ -336,7 +342,8 @@
       <header>Reduction of
 			 discretionary spending limits to achieve savings from Federal employee
 			 provisions</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Balanced Budget and Emergency Deficit Control Act of 1985/s:251/ss:c/p:2..10">Paragraphs (2)
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Balanced Budget and Emergency Deficit Control Act of 1985/s:251/ss:c/p:2..10">Paragraphs (2)
 			 through (10) of section 251(c) of the Balanced Budget and Emergency Deficit
 			 Control Act of 1985</cato:entity-ref> are amended to read as follows:</text>
 			<quoted-block display-inline="no-display-inline" id="H60EBAB0181354066A77B6FE9E26D9E61" style="OLC">
@@ -473,7 +480,8 @@
       <enum>5.</enum>
       <header>Calculation of total
 			 deficit reduction</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Balanced Budget and Emergency Deficit Control Act of 1985/s:251A">Section 251A
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Balanced Budget and Emergency Deficit Control Act of 1985/s:251A">Section 251A
 			 of the Balanced Budget and Emergency Deficit Control Act of 1985</cato:entity-ref> is
 			 amended—</text>
 			<paragraph commented="no" id="HC9FEC8C53B6947A1B235944AA6BB2589">
@@ -526,7 +534,8 @@
         <header>In
 			 general</header>
         <text>In accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Down Payment to Protect National Security Act of 2013/s:6/ss:b" proposed="true">subsection (b)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9700">Secretary of
-			 Defense</cato:entity-ref> may transfer amounts appropriated for the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Department of Defense by the Continuing Appropriations Resolution">Department of Defense by the
+			 Defense</cato:entity-ref> may transfer amounts appropriated for the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Department of Defense by the Continuing Appropriations Resolution">Department of Defense by the
 			 Continuing Appropriations Resolution</cato:entity-ref> (<cato:entity-ref entity-type="public-law" value="public-law/112/175">Public Law 112–175</cato:entity-ref>)</cato:entity> among accounts of the
 			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9700">Department of Defense</cato:entity-ref>.</text>
 			</subsection>
@@ -551,7 +560,8 @@
           <text>if no such Act is
 			 enacted before the date of the transfer, the amount authorized to be
 			 appropriated for that account for that fiscal year by applicable provisions of
-			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="National Defense Authorization Act for Fiscal Year 2013/d:A">division A of the National Defense Authorization Act for Fiscal Year 2013</cato:entity-ref>
+			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="National Defense Authorization Act for Fiscal Year 2013/d:A">division A of the National Defense Authorization Act for Fiscal Year 2013</cato:entity-ref>
 			 (<cato:entity-ref entity-type="public-law" value="public-law/112/239">Public Law 112–239</cato:entity-ref>)</cato:entity>.</text>
 				</paragraph>
       </subsection>
@@ -595,11 +605,13 @@
       <header>No
 			 cost-of-living adjustments for Members of Congress</header>
       <text display-inline="no-display-inline">Notwithstanding
-			 any other provision of law, no adjustment shall be made under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Legislative Reorganization Act of 1946/s:601/ss:a">section 601(a) of
+			 any other provision of law, no adjustment shall be made under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Legislative Reorganization Act of 1946/s:601/ss:a">section 601(a) of
 			 the Legislative Reorganization Act of 1946</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/2/31">2 U.S.C. 31</cato:entity-ref>)</cato:entity> (relating to
 			 cost-of-living adjustments for Members of Congress) for any fiscal year for
 			 which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0800">Congressional Budget Office</cato:entity-ref> determines there is a Federal budget
 			 deficit.</text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

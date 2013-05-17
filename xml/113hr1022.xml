@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1022ih">
+<doc>
+  <docmeta id="113hr1022ih">
     <bill congress="113" type="hr" number="1022" version="ih"/>
-    <revision id="8" commit-time="2013-04-02T20:12:08+00:00" comitter="/users/favila.xml" doc="/docs/113hr1022ih/8.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H38310D71E6534E83B42A1D44E37A007C" public-private="public">
+    <revision size="22254" annotations="0" id="8" commit-time="2013-04-02T20:12:08+00:00" committer="favila" doc="113hr1022ih/8.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H38310D71E6534E83B42A1D44E37A007C" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -288,7 +292,8 @@
             <enum>(5)</enum>
             <header>Consistency</header>
             <text>The
-			 program shall be consistent with the policies and programs in the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="National Materials and Minerals Policy, Research and Development Act of 1980">National
+			 program shall be consistent with the policies and programs in the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="National Materials and Minerals Policy, Research and Development Act of 1980">National
 			 Materials and Minerals Policy, Research and Development Act of 1980</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/30/1601/etseq">30 U.S.C.
 			 1601 et seq.</cato:entity-ref>)</cato:entity>.</text>
 					</paragraph>
@@ -397,7 +402,9 @@
               <text>the technical
 			 criteria to be used to evaluate applications for loan guarantees under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Energy Policy Act of 2005/s:1706" proposed="true">section
 			 1706 of the Energy Policy Act of 2005</cato:entity-ref> (as added by
-			 <internal-xref idref="H54D92D3A687A49C7A55A895892D2D34E" legis-path="103."><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securing Energy Critical Elements and American Jobs Act of 2013/s:103" proposed="true">section 103</cato:entity-ref></internal-xref>);</text>
+			 <internal-xref idref="H54D92D3A687A49C7A55A895892D2D34E" legis-path="103.">
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securing Energy Critical Elements and American Jobs Act of 2013/s:103" proposed="true">section 103</cato:entity-ref>
+                </internal-xref>);</text>
 						</subparagraph>
             <subparagraph commented="no" id="H3F4448BE406B455596D035FF79030080">
               <enum>(D)</enum>
@@ -424,7 +431,9 @@
             <enum>(3)</enum>
             <header>Consultation</header>
             <text display-inline="yes-display-inline">In preparing each plan under
-			 <internal-xref idref="H50C867EEBF37410CA920AF0708435617" legis-path="101.(c)(1)"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securing Energy Critical Elements and American Jobs Act of 2013/s:101/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref></internal-xref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> shall
+			 <internal-xref idref="H50C867EEBF37410CA920AF0708435617" legis-path="101.(c)(1)">
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securing Energy Critical Elements and American Jobs Act of 2013/s:101/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref>
+              </internal-xref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> shall
 			 consult with appropriate representatives of industry, institutions of higher
 			 education, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Department of Energy</cato:entity-ref> national laboratories, professional and
 			 technical societies, and other entities, as determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref>.</text>
@@ -482,26 +491,36 @@
 			 to carry out this section the following sums:</text>
 						<subparagraph id="HCE63DF9A91F641C7A492AC75F9069412">
               <enum>(A)</enum>
-              <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">For fiscal year
-			 <cato:funds-and-year amount="15000000" year="2014">2014, $15,000,000</cato:funds-and-year>.</cato:entity></text>
+              <text>
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">For fiscal year
+			 <cato:funds-and-year amount="15000000" year="2014">2014, $15,000,000</cato:funds-and-year>.</cato:entity>
+              </text>
 						</subparagraph>
             <subparagraph id="H99401E167714487FB4680FF2042A9D28">
               <enum>(B)</enum>
-              <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">For fiscal year
-			 <cato:funds-and-year amount="15000000" year="2015">2015, $15,000,000</cato:funds-and-year>.</cato:entity></text>
+              <text>
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">For fiscal year
+			 <cato:funds-and-year amount="15000000" year="2015">2015, $15,000,000</cato:funds-and-year>.</cato:entity>
+              </text>
 						</subparagraph>
             <subparagraph id="HBEEC30700FF14CFA880DD8E26CD7B02D">
               <enum>(C)</enum>
-              <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">For fiscal year
-			 <cato:funds-and-year amount="15000000" year="2016">2016, $15,000,000</cato:funds-and-year>.</cato:entity></text>
+              <text>
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">For fiscal year
+			 <cato:funds-and-year amount="15000000" year="2016">2016, $15,000,000</cato:funds-and-year>.</cato:entity>
+              </text>
 						</subparagraph>
             <subparagraph commented="no" id="HBDA8DB17A0DA4D039C57C719F6B06DEC">
               <enum>(D)</enum>
-              <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">For fiscal year <cato:funds-and-year amount="15000000" year="2017">2017, $15,000,000</cato:funds-and-year>.</cato:entity></text>
+              <text display-inline="yes-display-inline">
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">For fiscal year <cato:funds-and-year amount="15000000" year="2017">2017, $15,000,000</cato:funds-and-year>.</cato:entity>
+              </text>
 						</subparagraph>
             <subparagraph commented="no" id="HECED50F9655C410CBB2311070DB54EF7">
               <enum>(E)</enum>
-              <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">For fiscal year <cato:funds-and-year amount="15000000" year="2018">2018, $15,000,000</cato:funds-and-year>.</cato:entity></text>
+              <text display-inline="yes-display-inline">
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">For fiscal year <cato:funds-and-year amount="15000000" year="2018">2018, $15,000,000</cato:funds-and-year>.</cato:entity>
+              </text>
 						</subparagraph>
           </paragraph>
           <paragraph id="H214B780EB1D341A0B4AEA68D9CB287EA">
@@ -586,7 +605,9 @@
 				<subsection id="HDB9707D952B841AE9C45B1ABBC759451">
           <enum>(a)</enum>
           <header>Amendment</header>
-          <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Energy Policy Act of 2005/t:XVII">Title XVII of the Energy Policy Act of 2005</cato:entity-ref>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Energy Policy Act of 2005/t:XVII">Title XVII of the Energy Policy Act of 2005</cato:entity-ref>
 			 (<cato:entity-ref entity-type="uscode" value="usc/42/16511/etseq">42 U.S.C. 16511 et seq.</cato:entity-ref>)</cato:entity> is amended by adding at the end the following new
 			 section:</text>
 					<quoted-block display-inline="no-display-inline" id="H75AB00D6A1AB4D58A7C0E22FC1663104" style="OLC">
@@ -600,7 +621,8 @@
 				general</header>
                 <text display-inline="yes-display-inline">As part of the
 				program established in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securing Energy Critical Elements and American Jobs Act of 2013/s:101" proposed="true">section 101 of the <short-title>Securing Energy Critical Elements and American Jobs Act of
-				2013</short-title></cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> is authorized to make guarantees under this
+				2013</short-title>
+                  </cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> is authorized to make guarantees under this
 				title for the commercial application of new or significantly improved
 				technologies (compared to technologies currently in use in the United States)
 				for the following categories of projects:</text>
@@ -666,8 +688,10 @@
 				the maximum extent practicable, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> shall cooperate with appropriate
 				private sector participants to achieve a complete rare earth materials
 				production capability in the United States within 5 years after the date of
-				enactment of the <short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securing Energy Critical Elements and American Jobs Act of 2013" proposed="true">Securing Energy Critical
-				Elements and American Jobs Act of 2013</cato:entity-ref></short-title>.</text>
+				enactment of the <short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securing Energy Critical Elements and American Jobs Act of 2013" proposed="true">Securing Energy Critical
+				Elements and American Jobs Act of 2013</cato:entity-ref>
+                  </short-title>.</text>
 							</subsection>
               <subsection id="HA58603E363E240B1A7B6634EAC52E592">
                 <enum>(d)</enum>
@@ -712,15 +736,19 @@
           <enum>(a)</enum>
           <header>Program
 			 Plan</header>
-          <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="National Materials and Minerals Policy, Research and Development Act of 1980/s:5">Section 5 of the
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="National Materials and Minerals Policy, Research and Development Act of 1980/s:5">Section 5 of the
 			 National Materials and Minerals Policy, Research and Development Act of 1980</cato:entity-ref>
 			 (<cato:entity-ref entity-type="uscode" value="usc/30/1604">30 U.S.C. 1604</cato:entity-ref>)</cato:entity> is amended—</text>
 					<paragraph id="H3722FF8C5215481C94130862B1224893">
             <enum>(1)</enum>
             <text display-inline="yes-display-inline">by striking <quote>date of enactment of
 			 this Act</quote> each place it appears and inserting <quote>date of enactment
-			 of the <short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securing Energy Critical Elements and American Jobs Act of 2013" proposed="true">Securing Energy Critical Elements and
-			 American Jobs Act of 2013</cato:entity-ref></short-title>
+			 of the <short-title>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securing Energy Critical Elements and American Jobs Act of 2013" proposed="true">Securing Energy Critical Elements and
+			 American Jobs Act of 2013</cato:entity-ref>
+                </short-title>
               </quote>;</text>
 					</paragraph>
           <paragraph id="HF722A388CAC54DD885B9C1C0A5EBB71E">
@@ -796,7 +824,9 @@
         <subsection id="HAD277D7237DD4DF7A1AE3C4A8736CA46">
           <enum>(b)</enum>
           <header>Policy</header>
-          <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="National Materials and Minerals Policy, Research and Development Act of 1980/s:3">Section
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="National Materials and Minerals Policy, Research and Development Act of 1980/s:3">Section
 			 3 of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/30/1602">30 U.S.C. 1602</cato:entity-ref>)</cato:entity> is amended—</text>
 					<paragraph id="H7E7DA13FFC8B4F72B819C7DFBD3AA638">
             <enum>(1)</enum>
@@ -814,7 +844,9 @@
         <subsection id="H18AE06170DB24152B7FB2C35C8CF5839">
           <enum>(c)</enum>
           <header>Implementation</header>
-          <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="National Materials and Minerals Policy, Research and Development Act of 1980/s:4">Section
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="National Materials and Minerals Policy, Research and Development Act of 1980/s:4">Section
 			 4 of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/30/1603">30 U.S.C. 1603</cato:entity-ref>)</cato:entity> is amended—</text>
 					<paragraph id="H33912DAF707744CF91D931E97C8AC64F">
             <enum>(1)</enum>
@@ -833,10 +865,14 @@
       <section id="H7874E0868DFA475382647CEDBFEA2BC0">
         <enum>202.</enum>
         <header>Repeal</header>
-        <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="public-law" value="public-law/98/373/t:II">Title II of Public Law 98–373</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/30/1801">30 U.S.C.
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="public-law" value="public-law/98/373/t:II">Title II of Public Law 98–373</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/30/1801">30 U.S.C.
 			 1801</cato:entity-ref>; <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/98/1248">98 Stat. 1248</cato:entity-ref>), also known as the <cato:entity-ref entity-type="act" value="National Critical Materials Act of 1984">National Critical Materials Act of
-			 1984</cato:entity-ref></cato:entity>, is repealed.</text>
+			 1984</cato:entity-ref>
+          </cato:entity>, is repealed.</text>
 			</section>
     </title>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

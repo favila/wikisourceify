@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr931ih">
+<doc>
+  <docmeta id="113hr931ih">
     <bill congress="113" type="hr" number="931" version="ih"/>
-    <revision id="6" commit-time="2013-03-29T18:22:03+00:00" comitter="/users/favila.xml" doc="/docs/113hr931ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9B2F21F70FE84E729CD0EFCA999A33AB" public-private="public">
+    <revision size="2341" annotations="0" id="6" commit-time="2013-03-29T18:22:03+00:00" committer="favila" doc="113hr931ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9B2F21F70FE84E729CD0EFCA999A33AB" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -26,7 +30,9 @@
       <enum>1.</enum>
       <header>Treatment of certain property
 			 of the Siletz tribe of the State of Oregon</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Siletz Tribe Indian Restoration Act/s:7">Section 7 of the Siletz Tribe Indian
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Siletz Tribe Indian Restoration Act/s:7">Section 7 of the Siletz Tribe Indian
 			 Restoration Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/25/711e">25 U.S.C. 711e</cato:entity-ref>)</cato:entity> is amended by adding at the end the
 			 following:</text>
 			<quoted-block display-inline="no-display-inline" id="H2A892ADA42364F6BA390D8826D076F71" style="OLC">
@@ -81,7 +87,8 @@
 				gaming</header>
             <text>Any real property taken into trust under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Siletz Tribe Indian Restoration Act/s:7/ss:f/p:1" proposed="true">paragraph (1)</cato:entity-ref>
 				shall not be eligible, or used, for any gaming activity carried out under the
-				<cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Indian Gaming Regulatory Act">Indian Gaming Regulatory Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/25/2701/etseq">25 U.S.C. 2701 et
+				<cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Indian Gaming Regulatory Act">Indian Gaming Regulatory Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/25/2701/etseq">25 U.S.C. 2701 et
 				seq.</cato:entity-ref>)</cato:entity>.</text>
 					</paragraph>
         </subsection>
@@ -89,4 +96,5 @@
       </quoted-block>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

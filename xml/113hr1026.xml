@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1026ih">
+<doc>
+  <docmeta id="113hr1026ih">
     <bill congress="113" type="hr" number="1026" version="ih"/>
-    <revision id="7" commit-time="2013-04-02T20:57:23+00:00" comitter="/users/favila.xml" doc="/docs/113hr1026ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HED6B7A244C024DC0A4BBB52EEEDB6460" public-private="public">
+    <revision size="2472" annotations="0" id="7" commit-time="2013-04-02T20:57:23+00:00" committer="favila" doc="113hr1026ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HED6B7A244C024DC0A4BBB52EEEDB6460" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -32,7 +36,8 @@
 			<subsection id="H03046ECEAEF64C9BA6AC868266209549">
         <enum>(a)</enum>
         <header>Exclusion</header>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/5117/d/1">Section 5117(d)(1) of title 49, United
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/5117/d/1">Section 5117(d)(1) of title 49, United
 			 States Code</cato:entity-ref>, is amended—</text>
 				<paragraph id="H00A4D9A8E0FD434792CCD35E575F4C5E">
           <enum>(1)</enum>
@@ -76,7 +81,8 @@
       <subsection id="HE59D724EB029439BBBF5D8AD15EE69AF">
         <enum>(b)</enum>
         <header>Exemption</header>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/31315/b">Section 31315(b) of title 49, United States
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/31315/b">Section 31315(b) of title 49, United States
 			 Code</cato:entity-ref>, is amended by adding at the end the following:</text>
 				<quoted-block display-inline="no-display-inline" id="H76440225612E4E3E8C7FBFC0B1439A17" style="OLC">
 					<paragraph id="H6BDFB3A6BEE843799ADD067DA20A0C11">
@@ -98,4 +104,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr534ih">
+<doc>
+  <docmeta id="113hr534ih">
     <bill congress="113" type="hr" number="534" version="ih"/>
-    <revision id="14" commit-time="2013-03-20T20:02:45+00:00" comitter="/users/favila.xml" doc="/docs/113hr534ih/14.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2FE3A01D8E8442059F83ED6F2A5BE256" public-private="public">
+    <revision size="11746" annotations="0" id="14" commit-time="2013-03-20T20:02:45+00:00" committer="favila" doc="113hr534ih/14.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2FE3A01D8E8442059F83ED6F2A5BE256" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -37,8 +41,10 @@
       <enum>2.</enum>
       <header>Establishment</header>
       <text display-inline="no-display-inline">There is established a permanent bipartisan
-			 commission to be known as the <quote><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="National Commission on Intergovernmental Relations" proposed="true">National Commission on Intergovernmental
-			 Relations</cato:entity-ref></quote> (in this Act referred to as the
+			 commission to be known as the <quote>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="National Commission on Intergovernmental Relations" proposed="true">National Commission on Intergovernmental
+			 Relations</cato:entity-ref>
+        </quote> (in this Act referred to as the
 			 <quote>Commission</quote>).</text>
 		</section>
     <section id="HA59FAE052D3746EA89080231BAE6A070">
@@ -380,9 +386,12 @@
       <enum>9.</enum>
       <header>Authorization of
 			 appropriations</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are
 			 authorized to be appropriated <cato:funds-and-year amount="indefinite">such sums as may be necessary</cato:funds-and-year> <cato:property name="purpose">to carry out the
-			 provisions of <cato:entity-ref entity-type="act" value="Restore the Partnership Act" proposed="true">this Act</cato:entity-ref></cato:property>.</cato:entity></text>
+			 provisions of <cato:entity-ref entity-type="act" value="Restore the Partnership Act" proposed="true">this Act</cato:entity-ref>
+          </cato:property>.</cato:entity>
+      </text>
 		</section>
     <section id="H3EB526279F6C4A2A953346D7DB2B2749">
       <enum>10.</enum>
@@ -397,4 +406,5 @@
 			 appropriated to it by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>.</text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

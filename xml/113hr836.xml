@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr836ih">
+<doc>
+  <docmeta id="113hr836ih">
     <bill congress="113" type="hr" number="836" version="ih"/>
-    <revision id="4" commit-time="2013-03-26T20:35:53+00:00" comitter="/users/favila.xml" doc="/docs/113hr836ih/4.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6033E37A751D42A9BA9B1AF999700B4B" public-private="public">
+    <revision size="1831" annotations="0" id="4" commit-time="2013-03-26T20:35:53+00:00" committer="favila" doc="113hr836ih/4.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6033E37A751D42A9BA9B1AF999700B4B" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -41,7 +45,9 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/s:402/ss:a">Section 402(a) of the Federal Water Pollution Control Act</cato:entity-ref>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/s:402/ss:a">Section 402(a) of the Federal Water Pollution Control Act</cato:entity-ref>
 			 (<cato:entity-ref entity-type="uscode" value="usc/33/1342/a">33 U.S.C. 1342(a)</cato:entity-ref>)</cato:entity> is amended by adding at the end the following:</text>
 				<quoted-block display-inline="no-display-inline" id="H885026EA2ABA46109E9AE7E13BCEE729" style="OLC">
 					<paragraph id="H5D9EBAEE63124152AFC5736049167BE0" indent="up1">
@@ -63,10 +69,12 @@
 			 effect of existing regulation</header>
         <text display-inline="yes-display-inline">Section 123.25(c) of title 40, Code of
 			 Federal Regulations, shall have no further force or effect after the earliest
-			 of the date on which a rule is issued under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/s:402/ss:a/p:6">section 402(a)(6) of the Federal
+			 of the date on which a rule is issued under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/s:402/ss:a/p:6">section 402(a)(6) of the Federal
 			 Water Pollution Control Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/33/1342/a/6">33 U.S.C. 1342(a)(6)</cato:entity-ref>)</cato:entity> or the end of the 120-day
 			 period beginning on the date of the enactment of this section.</text>
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

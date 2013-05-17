@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr914ih">
+<doc>
+  <docmeta id="113hr914ih">
     <bill congress="113" type="hr" number="914" version="ih"/>
-    <revision id="5" commit-time="2013-03-29T15:23:18+00:00" comitter="/users/favila.xml" doc="/docs/113hr914ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H98D11F50DAD6427DAE28986560D58F4E" public-private="public">
+    <revision size="4655" annotations="0" id="5" commit-time="2013-03-29T15:23:18+00:00" committer="favila" doc="113hr914ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H98D11F50DAD6427DAE28986560D58F4E" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -46,7 +50,8 @@
 			<subsection id="HCB87D6FFBA474570A68BC03747BFC92A">
         <enum>(a)</enum>
         <header>Protection</header>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/10/53">Chapter 53 of title 10, United States Code</cato:entity-ref>,
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/10/53">Chapter 53 of title 10, United States Code</cato:entity-ref>,
 			 is amended by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/1034">section 1034</cato:entity-ref> the following new section:</text>
 				<quoted-block display-inline="no-display-inline" id="H40BEAFB3CC1B49AEA103FE7743F2D71E" style="USC">
 					<section id="H1061627C05574A12BDC13315EE266CAA">
@@ -146,4 +151,5 @@
 			 anything other than the union of one man with one woman.</text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

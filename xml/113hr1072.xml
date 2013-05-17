@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1072ih">
+<doc>
+  <docmeta id="113hr1072ih">
     <bill congress="113" type="hr" number="1072" version="ih"/>
-    <revision id="7" commit-time="2013-04-03T23:02:26+00:00" comitter="/users/favila.xml" doc="/docs/113hr1072ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H019B2BA717F14BCABF626803B576CA1B" public-private="public">
+    <revision size="8294" annotations="0" id="7" commit-time="2013-04-03T23:02:26+00:00" committer="favila" doc="113hr1072ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H019B2BA717F14BCABF626803B576CA1B" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1072 IH: Freedom from Government Competition Act of 2013</title>
@@ -58,7 +62,8 @@
     <section id="H9E24C312D1FF410C8DAE9EE45E43077A">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> makes the following
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> makes the following
 			 findings:</text>
 			<paragraph id="H1F554DBC65CF4CEEA5C565B3EAF0AF73">
         <enum>(1)</enum>
@@ -150,7 +155,8 @@
           <enum>(3)</enum>
           <text>to utilize Federal
 			 employees to perform inherently governmental functions (as that term is defined
-			 in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Federal Activities Inventory Reform Act of 1998/s:5">section 5 of the Federal Activities Inventory Reform Act of 1998</cato:entity-ref> (<cato:entity-ref entity-type="public-law" value="public-law/105/270">Public Law
+			 in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Federal Activities Inventory Reform Act of 1998/s:5">section 5 of the Federal Activities Inventory Reform Act of 1998</cato:entity-ref> (<cato:entity-ref entity-type="public-law" value="public-law/105/270">Public Law
 			 105–270</cato:entity-ref>; <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/112/2384">112 Stat. 2384</cato:entity-ref>)</cato:entity>).</text>
 				</paragraph>
       </subsection>
@@ -166,7 +172,8 @@
       <subsection id="H1824B83FCCBD4BCEAE041DBFBBA92FBB">
         <enum>(c)</enum>
         <header>Exemptions</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Freedom from Government Competition Act of 2013/s:4/ss:b" proposed="true">Subsection
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Freedom from Government Competition Act of 2013/s:4/ss:b" proposed="true">Subsection
 			 (b)</cato:entity-ref> shall not apply to an agency with respect to goods or services if—</text>
 				<paragraph id="H4153B0C7FDDD4A6E86CD872372CB4B04">
           <enum>(1)</enum>
@@ -259,8 +266,10 @@
 			 Office of Management and Budget</cato:entity-ref>, in conjunction with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0500">Comptroller General of
 			 the United States</cato:entity-ref>, shall carry out a study to evaluate the activities carried
 			 out in each agency, including those identified as commercial and inherently
-			 governmental in nature in the inventory prepared pursuant to the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Federal Activities Inventory Reform Act">Federal
-			 Activities Inventory Reform Act</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/105/270">Public Law 105–270</external-xref>; <cato:entity-ref entity-type="uscode" value="usc/31/501/note"><external-xref legal-doc="usc" parsable-cite="usc/31/501">31 U.S.C. 501</external-xref> note</cato:entity-ref>)</cato:entity> and
+			 governmental in nature in the inventory prepared pursuant to the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Federal Activities Inventory Reform Act">Federal
+			 Activities Inventory Reform Act</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/105/270">Public Law 105–270</external-xref>; <cato:entity-ref entity-type="uscode" value="usc/31/501/note">
+            <external-xref legal-doc="usc" parsable-cite="usc/31/501">31 U.S.C. 501</external-xref> note</cato:entity-ref>)</cato:entity> and
 			 shall transmit a report to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> prior to June 30 of each year. The
 			 report shall include—</text>
 			<paragraph id="H23C5C292D262494B8ACDC3C8C805D173">
@@ -277,4 +286,5 @@
 			</paragraph>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

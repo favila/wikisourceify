@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr592ih">
+<doc>
+  <docmeta id="113hr592ih">
     <bill congress="113" type="hr" number="592" version="ih"/>
-    <revision id="5" commit-time="2013-03-21T22:19:31+00:00" comitter="/users/favila.xml" doc="/docs/113hr592ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5F64CEF1E3194C619F7B6B5DBCF1C30B" public-private="public">
+    <revision size="4860" annotations="0" id="5" commit-time="2013-03-21T22:19:31+00:00" committer="favila" doc="113hr592ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5F64CEF1E3194C619F7B6B5DBCF1C30B" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -38,7 +42,8 @@
     <section id="HD6EEBDBA4BE5497984E38BD79E586EFE">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 			<paragraph id="H5582F46749E846419C8951AB45093ED2">
         <enum>(1)</enum>
         <text>Hurricane Sandy
@@ -73,7 +78,8 @@
 			</paragraph>
       <paragraph id="HB23CD154E84940D981B7A2F2AD468AA6">
         <enum>(6)</enum>
-        <text>Under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Robert T. Stafford Disaster Relief and Emergency Assistance Act">Robert
+        <text>Under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Robert T. Stafford Disaster Relief and Emergency Assistance Act">Robert
 			 T. Stafford Disaster Relief and Emergency Assistance Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/5121/etseq">42 U.S.C. 5121 et
 			 seq.</cato:entity-ref>)</cato:entity>, FEMA’s disaster relief program is a general government program under
 			 which assistance is provided in the wake of a natural disaster using criteria
@@ -81,7 +87,8 @@
 			</paragraph>
       <paragraph id="H5BA3845A03384411AEF0605D3FCCFF87">
         <enum>(7)</enum>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> has
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> has
 			 previously enacted legislation providing financial assistance to religious
 			 nonprofit institutions, including houses of worship, on terms equal to other
 			 eligible nonprofit institutions.</text>
@@ -103,7 +110,9 @@
         <enum>(a)</enum>
         <header>Definition of
 			 private nonprofit facility</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Robert T. Stafford Disaster Relief and Emergency Assistance Act/s:102/p:10/sp:B">Section 102(10)(B) of the Robert T.
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Robert T. Stafford Disaster Relief and Emergency Assistance Act/s:102/p:10/sp:B">Section 102(10)(B) of the Robert T.
 			 Stafford Disaster Relief and Emergency Assistance Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/5122//10/B">42 U.S.C. 5122(10)(B)</cato:entity-ref>)</cato:entity>
 			 is amended to read as follows:</text>
 				<quoted-block display-inline="no-display-inline" id="HB6E56A04742A47679AECA86E73575CD6" style="OLC">
@@ -130,7 +139,9 @@
         <enum>(b)</enum>
         <header>Repair,
 			 restoration, and replacement of damaged facilities</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Robert T. Stafford Disaster Relief and Emergency Assistance Act/s:406/ss:a/p:3">Section
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Robert T. Stafford Disaster Relief and Emergency Assistance Act/s:406/ss:a/p:3">Section
 			 406(a)(3) of the Robert T. Stafford Disaster Relief and Emergency Assistance
 			 Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/5172/a/3">42 U.S.C. 5172(a)(3)</cato:entity-ref>)</cato:entity> is amended by adding at the end the
 			 following:</text>
@@ -160,4 +171,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

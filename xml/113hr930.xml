@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr930ih">
+<doc>
+  <docmeta id="113hr930ih">
     <bill congress="113" type="hr" number="930" version="ih"/>
-    <revision id="6" commit-time="2013-03-29T18:18:46+00:00" comitter="/users/favila.xml" doc="/docs/113hr930ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HE5DC1F328C2C483BB5720B0720F0E8EC" public-private="public">
+    <revision size="4342" annotations="0" id="6" commit-time="2013-03-29T18:18:46+00:00" committer="favila" doc="113hr930ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HE5DC1F328C2C483BB5720B0720F0E8EC" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -43,7 +47,8 @@
     <section id="HD76F7F3FFB814E959B8C46B596698192">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds that—</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds that—</text>
 			<paragraph id="H5A485426CAF340D4919EBBA9FBFF2F03">
         <enum>(1)</enum>
         <text>Frank McWorter, an
@@ -178,7 +183,8 @@
         <header>Applicable
 			 law</header>
         <text>The study required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="New Philadelphia, Illinois, Study Act/s:4/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall be conducted in
-			 accordance with <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="public-law" value="public-law/91/383/s:8">section 8 of Public Law 91–383</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/16/1a–5">16 U.S.C. 1a–5</cato:entity-ref>)</cato:entity>.</text>
+			 accordance with <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="public-law" value="public-law/91/383/s:8">section 8 of Public Law 91–383</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/16/1a–5">16 U.S.C. 1a–5</cato:entity-ref>)</cato:entity>.</text>
 			</subsection>
       <subsection id="HF6403561D31840308373B33CB8817C2C">
         <enum>(d)</enum>
@@ -201,4 +207,5 @@
       </subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

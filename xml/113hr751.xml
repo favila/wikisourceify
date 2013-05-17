@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr751ih">
+<doc>
+  <docmeta id="113hr751ih">
     <bill congress="113" type="hr" number="751" version="ih"/>
-    <revision id="4" commit-time="2013-03-22T20:41:20+00:00" comitter="/users/favila.xml" doc="/docs/113hr751ih/4.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" dms-id="H70DD587FA73B428098738B9CA2BBD913" public-private="public" bill-type="olc"> 
+    <revision size="1366" annotations="0" id="4" commit-time="2013-03-22T20:41:20+00:00" committer="favila" doc="113hr751ih/4.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" dms-id="H70DD587FA73B428098738B9CA2BBD913" public-private="public" bill-type="olc"> 
 <form> 
 <distribution-code display="yes">I</distribution-code> 
 <congress>113th CONGRESS</congress>
@@ -37,7 +41,9 @@
       </appropriations-intermediate>
       <appropriations-small id="HAAD41AE6EC444FC2AB2A282BB67559E7">
         <header>Community Oriented Policing Services</header>
-        <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">For an additional amount for <quote>Community Oriented Policing Services</quote>, as authorized by <cato:entity entity-type="law-citation"><cato:entity-ref entity-type="act" value="Omnibus Crime Control and Safe Streets Act of 1968/s:1701">section 1701 of the Omnibus Crime Control and Safe Streets Act of 1968</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/3796dd">42 U.S.C. 3796dd</cato:entity-ref>)</cato:entity>, <cato:property name="purpose">for school resource officers</cato:property>, <cato:funds-and-year amount="30000000" year="2012">$30,000,000</cato:funds-and-year>.</cato:entity> </text>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">For an additional amount for <quote>Community Oriented Policing Services</quote>, as authorized by <cato:entity entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Omnibus Crime Control and Safe Streets Act of 1968/s:1701">section 1701 of the Omnibus Crime Control and Safe Streets Act of 1968</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/3796dd">42 U.S.C. 3796dd</cato:entity-ref>)</cato:entity>, <cato:property name="purpose">for school resource officers</cato:property>, <cato:funds-and-year amount="30000000" year="2012">$30,000,000</cato:funds-and-year>.</cato:entity> </text>
       </appropriations-small>
     </section> 
 <section id="H09D59A823D814FE19509BE716E0E83DC">
@@ -45,4 +51,5 @@
       <header>Rescission</header>
       <text display-inline="no-display-inline">Of the unobligated balances available for <quote>Department of Commerce—National Oceanic and Atmospheric Administration—Operations, Research, and Facilities</quote>, $30,000,000 is rescinded.</text> </section> 
 </legis-body> 
-</bill></doc>
+</bill>
+</doc>

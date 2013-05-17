@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr854ih">
+<doc>
+  <docmeta id="113hr854ih">
     <bill congress="113" type="hr" number="854" version="ih"/>
-    <revision id="6" commit-time="2013-03-26T22:46:34+00:00" comitter="/users/favila.xml" doc="/docs/113hr854ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HFA7D74C7C38A496E9B80571834FF3D65" public-private="public">
+    <revision size="6114" annotations="0" id="6" commit-time="2013-03-26T22:46:34+00:00" committer="favila" doc="113hr854ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HFA7D74C7C38A496E9B80571834FF3D65" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -38,7 +42,8 @@
     <section id="H424EE88864494431AFC1C399042A16C9">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 			<paragraph id="H90AE5408E87246EE95774E8848EF7BC7">
         <enum>(1)</enum>
         <text display-inline="yes-display-inline">On January 19, 1984, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1900">Secretary of State</cato:entity-ref>
@@ -90,13 +95,16 @@
 			</paragraph>
       <paragraph id="H23D20FF7C2434CA0877BD3ACE07B56F4">
         <enum>(8)</enum>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Defense Authorization Act for Fiscal Year 2008/s:1258">Section 1258 of
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Defense Authorization Act for Fiscal Year 2008/s:1258">Section 1258 of
 			 the National Defense Authorization Act for Fiscal Year 2008</cato:entity-ref> expressed the sense
 			 of Congress that <quote>the United States should designate Iran's Islamic
-			 Revolutionary Guards Corps as a foreign terrorist organization under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:219">section
+			 Revolutionary Guards Corps as a foreign terrorist organization under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:219">section
 			 219 of the Immigration and Nationality Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/8/1189">8 U.S.C. 1189</cato:entity-ref>)</cato:entity> and place the
 			 Islamic Revolutionary Guards Corps on the list of Specially Designated Global
-			 Terrorists, as established under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="International Emergency Economic Powers Act">International Emergency Economic Powers
+			 Terrorists, as established under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="International Emergency Economic Powers Act">International Emergency Economic Powers
 			 Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/50/1701/etseq">50 U.S.C. 1701 et seq.</cato:entity-ref>)</cato:entity> and initiated under Executive Order 13224
 			 (September 23, 2001)</quote>.</text>
 			</paragraph>
@@ -154,7 +162,8 @@
 			 organization</header>
       <text display-inline="no-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1900">Secretary of
 			 State</cato:entity-ref> shall designate Iran’s Islamic Revolutionary Guard Corps Qods Force as a
-			 foreign terrorist organization under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:219">section 219 of the Immigration and
+			 foreign terrorist organization under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:219">section 219 of the Immigration and
 			 Nationality Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/8/1189">8 U.S.C. 1189</cato:entity-ref>)</cato:entity>.</text>
 		</section>
     <section id="H9A635FAF185A4144B05BC04BE05ABBCD">
@@ -166,4 +175,5 @@
 			 Islamic Revolutionary Guard Corps Qods Force.</text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

@@ -1,0 +1,953 @@
+<doc>
+  <docmeta id="113hr1121ih">
+    <bill congress="113" type="hr" number="1121" version="ih"/>
+    <revision size="32062" annotations="0" id="12" commit-time="2013-04-15T19:58:32+00:00" committer="favila" doc="113hr1121ih/12.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HE9A460BC8A174258B672515D1FD12D46" public-private="public">
+	<metadata>
+<dublinCore>
+<title>113 HR 1121 IH: Cyber Privacy Fortification Act of 2013</title>
+<publisher>U.S. House of Representatives</publisher>
+<date>2013-03-13</date>
+<format>text/xml</format>
+<language>EN</language>
+<rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1121</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20130313">March 13, 2013</action-date>
+			<action-desc>
+        <sponsor name-id="C000714">Mr. Conyers</sponsor> (for
+			 himself, <cosponsor name-id="S000185">Mr. Scott of Virginia</cosponsor>, and
+			 <cosponsor name-id="J000288">Mr. Johnson of Georgia</cosponsor>) introduced the
+			 following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To protect cyber privacy, and for other
+		  purposes.</official-title>
+	</form>
+	<legis-body id="H0EDD6C3B6C8C47249F89449E5390C478" style="OLC">
+		<section id="HAF6F191DE25741F6BF132B9E15B1BCAA" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title</header>
+      <text display-inline="no-display-inline">This Act may be cited as the
+			 <quote>
+          <short-title>Cyber Privacy Fortification Act of
+			 2013</short-title>
+        </quote>.</text>
+		</section>
+    <title id="HE0AF8A13F30F420BBB90D841FB863387">
+      <enum>I</enum>
+      <header>Data
+			 Breach Notification</header>
+			<section id="H672457EE46894D159162AB8B7E3B1982">
+        <enum>101.</enum>
+        <header>Failure to
+			 provide notice of security breaches involving sensitive personally identifiable
+			 information</header>
+				<subsection id="H797D925A06C04CACACAFC745158D853B">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/18/47">Chapter 47 of title
+			 18, United States Code</cato:entity-ref>, is amended by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H9E4400921B2447568EB283033234F0CD" style="USC">
+						<section id="H3E2414B11A2D41538F05FC5BD7A79951">
+              <enum>1040.</enum>
+              <header>Failure to
+				provide notice of security breaches involving sensitive personally identifiable
+				information</header>
+							<subsection id="HFA9FC8D2D92C47FAAF5D366D818B121E">
+                <enum>(a)</enum>
+                <text display-inline="yes-display-inline">Whoever, having a covered obligation to
+				provide notice of a security breach involving sensitive personally identifiable
+				information, knowingly fails to do so, shall be fined under this title or
+				imprisoned not more than 5 years, or both.</text>
+							</subsection>
+              <subsection id="H608CA575828B49809FB05BBDC7AF8289">
+                <enum>(b)</enum>
+                <text>As used in this
+				section—</text>
+								<paragraph id="HD514A4945F6845EEB7376EE62B0097DD">
+                  <enum>(1)</enum>
+                  <text>the term
+				<term>covered obligation</term>, with respect to providing notice of a security
+				breach, means an obligation under Federal law or, if the breach is in or
+				affects interstate or foreign commerce, under State law;</text>
+								</paragraph>
+                <paragraph id="HBA4D0CA0B6B947F98E3CEF1C430BFF3E">
+                  <enum>(2)</enum>
+                  <text display-inline="yes-display-inline">the term <term>sensitive personally
+				identifiable information</term> means any electronic or digital information
+				that includes—</text>
+									<subparagraph id="HB217D62A2C8A49C697307CB7EF33D8CA">
+                    <enum>(A)</enum>
+                    <text>an individual’s
+				first and last name, or first initial and last name, or address or phone number
+				in combination with any one of the following data elements where the data
+				elements are not protected by a technology protection measure that renders the
+				data element indecipherable—</text>
+										<clause id="H0A01914354424DEE8EE7C80DAC388C51">
+                      <enum>(i)</enum>
+                      <text>a
+				nontruncated social security number, driver’s license number, state resident
+				identification number, passport number, or alien registration number;</text>
+										</clause>
+                    <clause id="HCD9F982E0E1141BF877994F1FAF98874">
+                      <enum>(ii)</enum>
+                      <text>both—</text>
+											<subclause id="HD46262F0A7AF4E7382E97D498C24C3EF">
+                        <enum>(I)</enum>
+                        <text>mother’s maiden
+				name, if identified as such; and</text>
+											</subclause>
+                      <subclause id="H8ACBE2C5AB374A0189AFF70F3B5CAF33">
+                        <enum>(II)</enum>
+                        <text>month, day, and
+				year of birth; and</text>
+											</subclause>
+                    </clause>
+                    <clause id="H5B046063F727460A85AE3F137D3F5C8F">
+                      <enum>(iii)</enum>
+                      <text>unique biometric
+				data such as a fingerprint, voice print, a retina or iris image; or</text>
+										</clause>
+                  </subparagraph>
+                  <subparagraph id="H73932F51B8934E87A4BC3B482CF8C5B8">
+                    <enum>(B)</enum>
+                    <text>a financial
+				account number or credit or debit card number in combination with any security
+				code, access code or password that is required for an individual to obtain
+				credit, withdraw funds, or engage in a financial transaction by means of such
+				number;</text>
+									</subparagraph>
+                </paragraph>
+                <paragraph id="HFC8D43AA6A73498AACCF24DA1785BC1B">
+                  <enum>(3)</enum>
+                  <text display-inline="yes-display-inline">the term <term>security breach</term> means
+				a compromise of the security, confidentiality, or integrity of computerized
+				data that there is reason to believe has resulted in improper access to
+				sensitive personally identifiable information; and</text>
+								</paragraph>
+                <paragraph id="H96BA100310E2421F8692592AAC532583">
+                  <enum>(4)</enum>
+                  <text>the term
+				<term>improper access</term> means access without authorization or in excess of
+				authorization.</text>
+								</paragraph>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="H4830937BA1634D18A2EBB906340EAE8F">
+          <enum>(b)</enum>
+          <header>Clerical
+			 amendment</header>
+          <text display-inline="yes-display-inline">The table of
+			 sections at the beginning of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/47">chapter 47</external-xref> of title 18, United States Code, is
+			 amended by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="HDEA0CF811A404FC0985653792166FDAB" style="USC">
+						<toc>
+							<toc-entry level="section">1040. Concealment of security breaches
+				involving personally identifiable
+				information.</toc-entry>
+						</toc>
+						<after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="H869DC4F558FD4DFDAD1887EA3450CC04">
+          <enum>(c)</enum>
+          <header>Obligation To
+			 report</header>
+					<paragraph id="H7838116192204EDF9CB99B5EBF2969CE">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>A person who owns or possesses data in electronic form
+			 containing a means of identification and has knowledge of a major security
+			 breach of the system containing such data maintained by such person, must
+			 provide prompt notice of such breach to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7009">United States Secret Service</cato:entity-ref> or
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Federal Bureau of Investigation</cato:entity-ref>.</text>
+					</paragraph>
+          <paragraph id="H6D739346A6F1476285CC3619CFC7903C">
+            <enum>(2)</enum>
+            <header>Publication of
+			 list of notifications</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7009">Secret Service</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Federal Bureau
+			 of Investigation</cato:entity-ref> shall annually publish in the Federal Register a list of all
+			 notifications submitted the previous calendar year and the identity of each
+			 entity with respect to which the major security breach occurred.</text>
+					</paragraph>
+          <paragraph id="H6F83685C773F4B4A8E3ACB7C0CC91120">
+            <enum>(3)</enum>
+            <header>Definition</header>
+            <text>In
+			 this subsection—</text>
+						<subparagraph id="H4BC3B564D0EB4303808CDDA060A1CB61">
+              <enum>(A)</enum>
+              <text>the term
+			 <term>major security breach</term> means any security breach involving—</text>
+							<clause id="HB9E8556936CD49BD8A3089E30DD18D00">
+                <enum>(i)</enum>
+                <text>means of
+			 identification pertaining to 10,000 or more individuals is, or is reasonably
+			 believed to have been acquired;</text>
+							</clause>
+              <clause id="H54A385525E6B4330A2D6E959EEE04145">
+                <enum>(ii)</enum>
+                <text>databases owned
+			 by the Federal Government; or</text>
+							</clause>
+              <clause id="H51F57EC106BF46D083AF802174C02082">
+                <enum>(iii)</enum>
+                <text>means of
+			 identification of Federal Government employees or contractors involved in
+			 national security matters or law enforcement; and</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="H74D24F5BD9B74E1DBC215B37EC9C7750">
+              <enum>(B)</enum>
+              <text display-inline="yes-display-inline">the term <term>means of
+			 identification</term> has the meaning given that term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1028">section 1028 of title
+			 18, United States Code</cato:entity-ref>.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+      </section>
+    </title>
+    <title id="H4FF2328CB3AC4A6F9BE8999BB8B57A33">
+      <enum>II</enum>
+      <header>Non-criminal
+			 privacy enforcement and privacy impact statements</header>
+			<section id="H5D3834C4B87A433CA623F022FE559A2E">
+        <enum>201.</enum>
+        <header>Enforcement by
+			 Attorney General and State authorities</header>
+				<subsection id="HE7AE9E111AFC4AD8B93F45ED6D10CA5B">
+          <enum>(a)</enum>
+          <header>Definition of
+			 <term>authorized entity</term>
+          </header>
+          <text display-inline="yes-display-inline">As used in this section, the term
+			 <term>authorized entity</term> means the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref>, with respect to any
+			 conduct constituting a violation of a Federal law enacted after the date of the
+			 enactment of this Act relating to data security and engaged in by a business
+			 entity, and a State Attorney General with respect to that conduct to the extent
+			 the conduct adversely affects an interest of the residents of a State.</text>
+				</subsection>
+        <subsection id="H7B7329B37E7D46A6AD9F492D8655CD76">
+          <enum>(b)</enum>
+          <header>Civil
+			 penalty</header>
+					<paragraph id="HCA0B86ED63BB4B5E9667F38A1153E3EF">
+            <enum>(1)</enum>
+            <header>Generally</header>
+            <text>An
+			 authorized entity may in a civil action obtain a civil penalty of not more than
+			 $500,000 from any business entity that engages in conduct constituting a
+			 violation of a Federal law enacted after the date of the enactment of this Act
+			 relating to data security.</text>
+					</paragraph>
+          <paragraph id="H8F6BAECF430B4D93A1C7D69FF080BE22">
+            <enum>(2)</enum>
+            <header>Special rule for
+			 intentional violation</header>
+            <text>If the violation described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cyber Privacy Fortification Act of 2013/s:201/ss:a" proposed="true">subsection
+			 (a)</cato:entity-ref> is intentional, the maximum civil penalty is $1,000,000.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H6DB783DE58E949D4A1EFF576A9D23811">
+          <enum>(c)</enum>
+          <header>Injunctive
+			 relief</header>
+          <text display-inline="yes-display-inline">An authorized entity
+			 may, in a civil action against a business entity that has engaged, or is
+			 engaged, in any conduct constituting a violation of a Federal law enacted after
+			 the date of the enactment of this Act relating to data security, obtain an
+			 order—</text>
+					<paragraph id="H67FACCAC443A4E3CAF83152C0741B214">
+            <enum>(1)</enum>
+            <text>enjoining such act
+			 or practice; or</text>
+					</paragraph>
+          <paragraph id="H4FCF3063015E4D9A9E07D97EB50485C9">
+            <enum>(2)</enum>
+            <text>enforcing
+			 compliance with that law.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H980C3D8255314737BA0BF3981D45C783">
+          <enum>(d)</enum>
+          <header>Other rights and
+			 remedies</header>
+          <text>The rights and remedies available under this section do
+			 not affect any other rights and remedies available under Federal or State
+			 law.</text>
+				</subsection>
+      </section>
+      <section display-inline="no-display-inline" id="H9442080CB5394BC7B692C564599C5277" section-type="subsequent-section">
+        <enum>202.</enum>
+        <header>Coordination of
+			 State and Federal efforts</header>
+				<subsection id="H9FCA1A6186A54621913C8C9DE037836E">
+          <enum>(a)</enum>
+          <header>Notice</header>
+					<paragraph id="H06B7151EC597429C990A4B37452A87FB">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>A State consumer protection attorney may not bring an
+			 action under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cyber Privacy Fortification Act of 2013/s:201" proposed="true">section 201</cato:entity-ref>, until the attorney general of the State involved
+			 provides to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General of the United States</cato:entity-ref>—</text>
+						<subparagraph id="H9482574607164BA8AE97F0E27A1E2CDC">
+              <enum>(A)</enum>
+              <text>written notice of
+			 the action; and</text>
+						</subparagraph>
+            <subparagraph id="HD0D79288664443FF8C43F60DFEC71E92">
+              <enum>(B)</enum>
+              <text>a copy of the
+			 complaint for the action.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="H1636929F62D94C2EA3434C86BBDC4AF5">
+            <enum>(2)</enum>
+            <header>Exception</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cyber Privacy Fortification Act of 2013/s:202/ss:a/p:1" proposed="true">Paragraph
+			 (1)</cato:entity-ref> does not apply with respect to the filing of an action by an attorney
+			 general of a State under this section if the State attorney general determines
+			 that it is not feasible to provide the notice described in such subparagraph
+			 before the filing of the action, in such a case the State attorney general
+			 shall provide notice and a copy of the complaint to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> at the
+			 time the State attorney general files the action.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H3DFA4D29E85841A18FD9615F351E83B5">
+          <enum>(b)</enum>
+          <header>Federal
+			 proceedings</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney
+				General</cato:entity-ref> may—</text>
+					<paragraph id="H4E4BD7B33FBC4592AF42E0CBBFD935C9">
+            <enum>(1)</enum>
+            <text>move to stay any
+			 non-Federal action under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cyber Privacy Fortification Act of 2013/s:201" proposed="true">section 201</cato:entity-ref>, pending the final disposition of a
+			 pending Federal action under that section;</text>
+					</paragraph>
+          <paragraph id="H1236FAFAB256472789962E0FCBABD3AB">
+            <enum>(2)</enum>
+            <text>initiate an action
+			 in an appropriate United States district court and move to consolidate all
+			 pending actions under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cyber Privacy Fortification Act of 2013/s:201" proposed="true">section 201</cato:entity-ref>, including State actions, in that court;
+			 and</text>
+					</paragraph>
+          <paragraph id="H12C1A75491084B0A9B0993853144097A">
+            <enum>(3)</enum>
+            <text>intervene in a
+			 State action under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cyber Privacy Fortification Act of 2013/s:201" proposed="true">section 201</cato:entity-ref>.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H62BBC4F476AD4B83999255FE4247B112">
+          <enum>(c)</enum>
+          <header>Pending
+			 proceedings</header>
+          <text display-inline="yes-display-inline">If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney
+			 General</cato:entity-ref> institutes a proceeding or action for a violation of a Federal law
+			 enacted after the date of the enactment of this Act relating to data security,
+			 no authority of a State may, during the pendency of such proceeding or action,
+			 bring an action under this section against any defendant named in such criminal
+			 proceeding or a civil action against any defendant for any violation that is
+			 alleged in that proceeding or action.</text>
+				</subsection>
+        <subsection id="H9BDDDABB8FCA4A018216F06186E68ACB">
+          <enum>(d)</enum>
+          <header>Definition</header>
+          <text display-inline="yes-display-inline">As used in this section, the term
+			 <term>State consumer protection attorney</term> means the attorney general of a
+			 State or any State or local law enforcement agency authorized by the State
+			 attorney general or by State statute to prosecute violations of consumer
+			 protection law.</text>
+				</subsection>
+      </section>
+      <section display-inline="no-display-inline" id="H061834D36B3144F8B2ED0E44C0D2E818" section-type="subsequent-section">
+        <enum>203.</enum>
+        <header>Requirement that
+			 agency rulemaking take into consideration impacts on individual
+			 privacy</header>
+				<subsection id="H83F5FFD97ACF42CCBD06B757221A2806">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5">Title 5, United States Code</cato:entity-ref>, is amended by adding after
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553">section 553</cato:entity-ref> the following new section:</text>
+					<quoted-block id="H323ED57998DE43F4B7999C3D649F592C" style="USC">
+						<section id="H4EDE12D5062B414CAE596771AE8708B5">
+              <enum>553a.</enum>
+              <header>Privacy impact
+				assessment in rulemaking</header>
+							<subsection id="H28CC03E41B0B48DCB7BC5B64C1A1BED0">
+                <enum>(a)</enum>
+                <header>Initial privacy
+				impact assessment</header>
+								<paragraph id="H5C8AF75900C447D28B649B81B2E797EA">
+                  <enum>(1)</enum>
+                  <header>In
+				general</header>
+                  <text>Whenever an agency is required by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553">section 553 of this
+				title</cato:entity-ref>, or any other law, to publish a general notice of proposed rulemaking for
+				a proposed rule, or publishes a notice of proposed rulemaking for an
+				interpretative rule involving the internal revenue laws of the United States,
+				and such rule or proposed rulemaking pertains to the collection, maintenance,
+				use, or disclosure of personally identifiable information from 10 or more
+				individuals, other than agencies, instrumentalities, or employees of the
+				Federal Government, the agency shall prepare and make available for public
+				comment an initial privacy impact assessment that describes the impact of the
+				proposed rule on the privacy of individuals. Such assessment or a summary
+				thereof shall be signed by the senior agency official with primary
+				responsibility for privacy policy and be published in the Federal Register at
+				the time of the publication of a general notice of proposed rulemaking for the
+				rule.</text>
+								</paragraph>
+                <paragraph id="H97EC7544305C43D9824670797FA79870">
+                  <enum>(2)</enum>
+                  <header>Contents</header>
+                  <text>Each
+				initial privacy impact assessment required under this subsection shall contain
+				the following:</text>
+									<subparagraph id="HE7C62AF7793840D693F804012E1D6247">
+                    <enum>(A)</enum>
+                    <text>A description and
+				analysis of the extent to which the proposed rule will impact the privacy
+				interests of individuals, including the extent to which the proposed
+				rule—</text>
+										<clause id="H2B74A5FD64094EA2BC4DF384E28E63E2">
+                      <enum>(i)</enum>
+                      <text>provides notice of
+				the collection of personally identifiable information, and specifies what
+				personally identifiable information is to be collected and how it is to be
+				collected, maintained, used, and disclosed;</text>
+										</clause>
+                    <clause id="H18159DC0231548989D91D00137D818C6">
+                      <enum>(ii)</enum>
+                      <text>allows access to
+				such information by the person to whom the personally identifiable information
+				pertains and provides an opportunity to correct inaccuracies;</text>
+										</clause>
+                    <clause id="H6178DE31CE7A42DFBF15774E2AF43762">
+                      <enum>(iii)</enum>
+                      <text>prevents such
+				information, which is collected for one purpose, from being used for another
+				purpose; and</text>
+										</clause>
+                    <clause id="HB3CE29023193483E8FFBD28F2213C1BA">
+                      <enum>(iv)</enum>
+                      <text display-inline="yes-display-inline">provides security for such information,
+				including the provision of written notice to any individual, within 14 days of
+				the date of compromise, whose privacy interests are compromised by the
+				unauthorized release of personally identifiable information as a result of a
+				breach of security at or by the agency.</text>
+										</clause>
+                  </subparagraph>
+                  <subparagraph id="HA855AA7F1CD14779A98B08D65389C3F5">
+                    <enum>(B)</enum>
+                    <text>A description of
+				any significant alternatives to the proposed rule which accomplish the stated
+				objectives of applicable statutes and which minimize any significant privacy
+				impact of the proposed rule on individuals.</text>
+									</subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="H00D6A0D534F04C9EA49462CBBB00F427">
+                <enum>(b)</enum>
+                <header>Final privacy
+				impact assessment</header>
+								<paragraph id="H60E718B16F92445F85C1D7BFA29D951E">
+                  <enum>(1)</enum>
+                  <header>In
+				general</header>
+                  <text>Whenever an agency promulgates a final rule under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553">section
+				553 of this title</cato:entity-ref>, after being required by that section or any other law to
+				publish a general notice of proposed rulemaking, or promulgates a final
+				interpretative rule involving the internal revenue laws of the United States,
+				and such rule or proposed rulemaking pertains to the collection, maintenance,
+				use, or disclosure of personally identifiable information from 10 or more
+				individuals, other than agencies, instrumentalities, or employees of the
+				Federal Government, the agency shall prepare a final privacy impact assessment,
+				signed by the senior agency official with primary responsibility for privacy
+				policy.</text>
+								</paragraph>
+                <paragraph id="H998E9D7D4B5F4038A058F5B1EF1F1408">
+                  <enum>(2)</enum>
+                  <header>Contents</header>
+                  <text>Each
+				final privacy impact assessment required under this subsection shall contain
+				the following:</text>
+									<subparagraph id="H48C67F6FFDB04CFCA87B44F2A73C0942">
+                    <enum>(A)</enum>
+                    <text>A description and
+				analysis of the extent to which the final rule will impact the privacy
+				interests of individuals, including the extent to which such rule—</text>
+										<clause id="HED155B58906C46DDAB33F6FBE94358BA">
+                      <enum>(i)</enum>
+                      <text>provides notice of
+				the collection of personally identifiable information, and specifies what
+				personally identifiable information is to be collected and how it is to be
+				collected, maintained, used, and disclosed;</text>
+										</clause>
+                    <clause id="H34A53A9EFB0A4C47A7B1372D52039BB4">
+                      <enum>(ii)</enum>
+                      <text>allows access to
+				such information by the person to whom the personally identifiable information
+				pertains and provides an opportunity to correct inaccuracies;</text>
+										</clause>
+                    <clause id="H015C88BCA33D433A85AED430DE9E727B">
+                      <enum>(iii)</enum>
+                      <text>prevents such
+				information, which is collected for one purpose, from being used for another
+				purpose; and</text>
+										</clause>
+                    <clause id="H7907CB9565A14A9D9DFE96C92657668E">
+                      <enum>(iv)</enum>
+                      <text display-inline="yes-display-inline">provides security for such information,
+				including the provision of written notice to any individual, within 14 days of
+				the date of compromise, whose privacy interests are compromised by the
+				unauthorized release of personally identifiable information as a result of a
+				breach of security at or by the agency.</text>
+										</clause>
+                  </subparagraph>
+                  <subparagraph id="H6365B024B55E456FA6344BFA7DA1A34E">
+                    <enum>(B)</enum>
+                    <text>A summary of any
+				significant issues raised by the public comments in response to the initial
+				privacy impact assessment, a summary of the analysis of the agency of such
+				issues, and a statement of any changes made in such rule as a result of such
+				issues.</text>
+									</subparagraph>
+                  <subparagraph id="H71A1CBB0BE4C40D0B4BCCB078FB1DEFA">
+                    <enum>(C)</enum>
+                    <text>A description of
+				the steps the agency has taken to minimize the significant privacy impact on
+				individuals consistent with the stated objectives of applicable statutes,
+				including a statement of the factual, policy, and legal reasons for selecting
+				the alternative adopted in the final rule and why each one of the other
+				significant alternatives to the rule considered by the agency which affect the
+				privacy interests of individuals was rejected.</text>
+									</subparagraph>
+                </paragraph>
+                <paragraph id="H82E5D9F448934A958BB7897535E27596">
+                  <enum>(3)</enum>
+                  <header>Availability to
+				public</header>
+                  <text>The agency shall make copies of the final privacy impact
+				assessment available to members of the public and shall publish in the Federal
+				Register such assessment or a summary thereof.</text>
+								</paragraph>
+              </subsection>
+              <subsection id="HFDDF9064FFE04ECBA051710EF5F385A2">
+                <enum>(c)</enum>
+                <header>Waivers</header>
+								<paragraph id="HB6DDC6425FD64DDA969D8CD95D33CE2D">
+                  <enum>(1)</enum>
+                  <header>Emergencies</header>
+                  <text>An
+				agency head may waive or delay the completion of some or all of the
+				requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553a/a" proposed="true">subsections (a)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553a/b" proposed="true">(b)</cato:entity-ref> to the same extent as the agency head
+				may, under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/608">section 608</cato:entity-ref>, waive or delay the completion of some or all of the
+				requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/603">sections 603</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/604">604</cato:entity-ref>, respectively.</text>
+								</paragraph>
+                <paragraph id="HEC61CF77E1634D8181C9BE283DD0C569">
+                  <enum>(2)</enum>
+                  <header>National
+				security</header>
+                  <text>An agency head may, for national security reasons, or to
+				protect from disclosure classified information, confidential commercial
+				information, or information the disclosure of which may adversely affect a law
+				enforcement effort, waive or delay the completion of some or all of the
+				following requirements:</text>
+									<subparagraph id="HF1A7997B5E674BA1B481351E79262EC5">
+                    <enum>(A)</enum>
+                    <text display-inline="yes-display-inline">The requirement of
+				<internal-xref idref="H5C8AF75900C447D28B649B81B2E797EA" legis-path="553a.(a)(1)">
+                        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553a/a/1" proposed="true">subsection (a)(1)</cato:entity-ref>
+                      </internal-xref> to make an
+				assessment available for public comment, provided that such assessment is made
+				available, in classified form, to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HJU00">Committees on the Judiciary of the House
+				of Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSJU00">Senate</cato:entity-ref>, in lieu of making such assessment available
+				to the public.</text>
+									</subparagraph>
+                  <subparagraph id="H32707CE3A9344C44BDD545EB62489E4F">
+                    <enum>(B)</enum>
+                    <text display-inline="yes-display-inline">The requirement of
+				<internal-xref idref="H5C8AF75900C447D28B649B81B2E797EA" legis-path="553a.(a)(1)">
+                        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553a/a/1" proposed="true">subsection (a)(1)</cato:entity-ref>
+                      </internal-xref> to have an
+				assessment or summary thereof published in the Federal Register, provided that
+				such assessment or summary is made available, in classified form, to the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HJU00">Committees on the Judiciary of the House of Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSJU00">Senate</cato:entity-ref>, in
+				lieu of publishing such assessment or summary in the Federal Register.</text>
+									</subparagraph>
+                  <subparagraph id="HC4BC9495260F4E2C9D59DB881178FA38">
+                    <enum>(C)</enum>
+                    <text display-inline="yes-display-inline">The requirements of
+				<internal-xref idref="H82E5D9F448934A958BB7897535E27596" legis-path="553a.(b)(3)">
+                        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553a/b/3" proposed="true">subsection (b)(3)</cato:entity-ref>
+                      </internal-xref>, provided that the
+				final privacy impact assessment is made available, in classified form, to the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HJU00">Committees on the Judiciary of the House of Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSJU00">Senate</cato:entity-ref>, in
+				lieu of making such assessment available to the public and publishing such
+				assessment in the Federal Register.</text>
+									</subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="H7BA5077AD7D145D098E01B2A305054F6">
+                <enum>(d)</enum>
+                <header>Procedures for
+				gathering comments</header>
+                <text>When any rule is promulgated which may have a
+				significant privacy impact on individuals, or a privacy impact on a substantial
+				number of individuals, the head of the agency promulgating the rule or the
+				official of the agency with statutory responsibility for the promulgation of
+				the rule shall assure that individuals have been given an opportunity to
+				participate in the rulemaking for the rule through techniques such as—</text>
+								<paragraph id="H55E302A205D24F66AD19C2B351E8F028">
+                  <enum>(1)</enum>
+                  <text>the inclusion in
+				an advance notice of proposed rulemaking, if issued, of a statement that the
+				proposed rule may have a significant privacy impact on individuals, or a
+				privacy impact on a substantial number of individuals;</text>
+								</paragraph>
+                <paragraph id="HB82FC859C1DA45A29425E48B0B7A5514">
+                  <enum>(2)</enum>
+                  <text>the publication of
+				a general notice of proposed rulemaking in publications of national circulation
+				likely to be obtained by individuals;</text>
+								</paragraph>
+                <paragraph id="H27CD1CB6C5DE4D21870AA90CC792BDA7">
+                  <enum>(3)</enum>
+                  <text>the direct
+				notification of interested individuals;</text>
+								</paragraph>
+                <paragraph id="HE65330C7268D4EAAA7C787528D9365DD">
+                  <enum>(4)</enum>
+                  <text>the conduct of
+				open conferences or public hearings concerning the rule for individuals,
+				including soliciting and receiving comments over computer networks; and</text>
+								</paragraph>
+                <paragraph id="H59A24D0E0D284BB98B2A7AC9D50C246F">
+                  <enum>(5)</enum>
+                  <text>the adoption or
+				modification of agency procedural rules to reduce the cost or complexity of
+				participation in the rulemaking by individuals.</text>
+								</paragraph>
+              </subsection>
+              <subsection id="H5164BC9A0C254F149463B6CF79FE7A6D">
+                <enum>(e)</enum>
+                <header>Periodic review
+				of rules</header>
+								<paragraph id="H6D1FABE135894266BFDC1C06A3CB1A44">
+                  <enum>(1)</enum>
+                  <header>In
+				general</header>
+                  <text>Each agency shall carry out a periodic review of the
+				rules promulgated by the agency that have a significant privacy impact on
+				individuals, or a privacy impact on a substantial number of individuals. Under
+				such periodic review, the agency shall determine, for each such rule, whether
+				the rule can be amended or rescinded in a manner that minimizes any such impact
+				while remaining in accordance with applicable statutes. For each such
+				determination, the agency shall consider the following factors:</text>
+									<subparagraph id="HBD882AF46F144F51BBCB56C3450FFDAC">
+                    <enum>(A)</enum>
+                    <text>The continued need
+				for the rule.</text>
+									</subparagraph>
+                  <subparagraph id="H00AC3B7F12084104ACF4B7F0DE9C8090">
+                    <enum>(B)</enum>
+                    <text>The nature of
+				complaints or comments received from the public concerning the rule.</text>
+									</subparagraph>
+                  <subparagraph id="H21014CB8A0AD4ABFA71FF465015D5A6E">
+                    <enum>(C)</enum>
+                    <text>The complexity of
+				the rule.</text>
+									</subparagraph>
+                  <subparagraph id="H37904AD3813C46AA9E094240AEBD42B6">
+                    <enum>(D)</enum>
+                    <text>The extent to
+				which the rule overlaps, duplicates, or conflicts with other Federal rules,
+				and, to the extent feasible, with State and local governmental rules.</text>
+									</subparagraph>
+                  <subparagraph id="H08DE0A7ABD89454CA343F75AEDEC5D79">
+                    <enum>(E)</enum>
+                    <text>The length of time
+				since the rule was last reviewed under this subsection.</text>
+									</subparagraph>
+                  <subparagraph id="H507B60145F3E4ED1A7381D4C66E3E38C">
+                    <enum>(F)</enum>
+                    <text>The degree to
+				which technology, economic conditions, or other factors have changed in the
+				area affected by the rule since the rule was last reviewed under this
+				subsection.</text>
+									</subparagraph>
+                </paragraph>
+                <paragraph id="H9D81FA14B867451D8337E21EDFBE6CBA">
+                  <enum>(2)</enum>
+                  <header>Plan
+				required</header>
+                  <text>Each agency shall carry out the periodic review required
+				by
+				<internal-xref idref="H6D1FABE135894266BFDC1C06A3CB1A44" legis-path="553a.(e)(1)">
+                      <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553a/e/1" proposed="true">paragraph (1)</cato:entity-ref>
+                    </internal-xref> in accordance with a
+				plan published by such agency in the Federal Register. Each such plan shall
+				provide for the review under this subsection of each rule promulgated by the
+				agency not later than 10 years after the date on which such rule was published
+				as the final rule and, thereafter, not later than 10 years after the date on
+				which such rule was last reviewed under this subsection. The agency may amend
+				such plan at any time by publishing the revision in the Federal
+				Register.</text>
+								</paragraph>
+                <paragraph id="HA4E5C4EC399A4B7EB509CDBA3EAD3876">
+                  <enum>(3)</enum>
+                  <header>Annual
+				publication</header>
+                  <text>Each year, each agency shall publish in the Federal
+				Register a list of the rules to be reviewed by such agency under this
+				subsection during the following year. The list shall include a brief
+				description of each such rule and the need for and legal basis of such rule and
+				shall invite public comment upon the determination to be made under this
+				subsection with respect to such rule.</text>
+								</paragraph>
+              </subsection>
+              <subsection id="HAA9927FA3294474CA1C4FA013EDE4A0D">
+                <enum>(f)</enum>
+                <header>Judicial
+				review</header>
+								<paragraph id="H5D00FA466D62442F8B0E481AF0493548">
+                  <enum>(1)</enum>
+                  <header>In
+				general</header>
+                  <text>For any rule subject to this section, an individual who
+				is adversely affected or aggrieved by final agency action is entitled to
+				judicial review of agency compliance with the requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553a/b" proposed="true">subsections (b)</cato:entity-ref>
+				and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553a/c" proposed="true">(c)</cato:entity-ref> in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/7">chapter 7</cato:entity-ref>. Agency compliance with
+				<internal-xref idref="H7BA5077AD7D145D098E01B2A305054F6" legis-path="553a.(d)">
+                      <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553a/d" proposed="true">subsection (d)</cato:entity-ref>
+                    </internal-xref> shall be judicially
+				reviewable in connection with judicial review
+				<internal-xref idref="H00D6A0D534F04C9EA49462CBBB00F427" legis-path="553a.(b)">of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553a/b" proposed="true">subsection (b)</cato:entity-ref>
+                    </internal-xref>.</text>
+								</paragraph>
+                <paragraph id="H649C7899EB6047849613C02694DEEBA6">
+                  <enum>(2)</enum>
+                  <header>Jurisdiction</header>
+                  <text>Each
+				court having jurisdiction to review such rule for compliance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553">section 553</cato:entity-ref>,
+				or under any other provision of law, shall have jurisdiction to review any
+				claims of noncompliance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553a/b" proposed="true">subsections (b)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553a/c" proposed="true">(c)</cato:entity-ref> in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/7">chapter
+				7</cato:entity-ref>. Agency compliance with
+				<internal-xref idref="H7BA5077AD7D145D098E01B2A305054F6" legis-path="553a.(d)">
+                      <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553a/d" proposed="true">subsection (d)</cato:entity-ref>
+                    </internal-xref> shall be judicially
+				reviewable in connection with judicial review<internal-xref idref="H00D6A0D534F04C9EA49462CBBB00F427" legis-path="553a.(b)"> of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553a/b" proposed="true">subsection
+				(b)</cato:entity-ref>
+                    </internal-xref>.</text>
+								</paragraph>
+                <paragraph id="H09A5C481DC994329855E51A206FA9F3B">
+                  <enum>(3)</enum>
+                  <header>Limitations</header>
+									<subparagraph id="H90486E61E9D945B5A89AB6AE43875F46">
+                    <enum>(A)</enum>
+                    <text>An individual may
+				seek such review during the period beginning on the date of final agency action
+				and ending 1 year later, except that where a provision of law requires that an
+				action challenging a final agency action be commenced before the expiration of
+				1 year, such lesser period shall apply to an action for judicial review under
+				this subsection.</text>
+									</subparagraph>
+                  <subparagraph id="HCA734AB6C7D348238B6E955DC931F57D">
+                    <enum>(B)</enum>
+                    <text>In the case where
+				an agency delays the issuance of a final privacy impact assessment pursuant to
+				<internal-xref idref="HFDDF9064FFE04ECBA051710EF5F385A2" legis-path="553a.(c)">
+                        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553a/c" proposed="true">subsection (c)</cato:entity-ref>
+                      </internal-xref>, an action for judicial
+				review under this section shall be filed not later than—</text>
+										<clause id="H85E6C6B151CC4F6B9358F5ED73658D61">
+                      <enum>(i)</enum>
+                      <text>1
+				year after the date the assessment is made available to the public; or</text>
+										</clause>
+                    <clause id="H6E56D0E2EE7745798839ABAF39BAA8BC">
+                      <enum>(ii)</enum>
+                      <text>where a provision
+				of law requires that an action challenging a final agency regulation be
+				commenced before the expiration of the 1-year period, the number of days
+				specified in such provision of law that is after the date the assessment is
+				made available to the public.</text>
+										</clause>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="H13C4F5CAD3DA4C7884964D83C4F2F236">
+                  <enum>(4)</enum>
+                  <header>Relief</header>
+                  <text>In
+				granting any relief in an action under this subsection, the court shall order
+				the agency to take corrective action consistent with this section and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/7">chapter
+				7</cato:entity-ref>, and may—</text>
+									<subparagraph id="H3D42B4D80061498794F700D7F4A2AAA8">
+                    <enum>(A)</enum>
+                    <text>remand the rule to
+				the agency; and</text>
+									</subparagraph>
+                  <subparagraph id="HDFB4A683DE6748B48588451BBB4AE6DE">
+                    <enum>(B)</enum>
+                    <text>defer the
+				enforcement of the rule against individuals, unless the court finds that
+				continued enforcement of the rule is in the public interest.</text>
+									</subparagraph>
+                </paragraph>
+                <paragraph id="H5DD301BC2BCE44518ED289589369E140">
+                  <enum>(5)</enum>
+                  <header>Rule of
+				construction</header>
+                  <text>Nothing in this subsection limits the authority of
+				any court to stay the effective date of any rule or provision thereof under any
+				other provision of law or to grant any other relief in addition to the
+				requirements of this subsection.</text>
+								</paragraph>
+                <paragraph id="HE1BFD93DE72A45059B4129C57F685241">
+                  <enum>(6)</enum>
+                  <header>Record of agency
+				action</header>
+                  <text>In an action for the judicial review of a rule, the
+				privacy impact assessment for such rule, including an assessment prepared or
+				corrected pursuant to
+				<internal-xref idref="H13C4F5CAD3DA4C7884964D83C4F2F236" legis-path="553a.(f)(4)">
+                      <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553a/f/4" proposed="true">paragraph (4)</cato:entity-ref>
+                    </internal-xref>, shall constitute part
+				of the entire record of agency action in connection with such review.</text>
+								</paragraph>
+                <paragraph id="H410183C55BE74796B1C5CDFA4BE34061">
+                  <enum>(7)</enum>
+                  <header>Exclusivity</header>
+                  <text>Compliance
+				or noncompliance by an agency with the provisions of this section shall be
+				subject to judicial review only in accordance with this subsection.</text>
+								</paragraph>
+                <paragraph id="HD820B412E33E4B6CA1E0328A04B943F8">
+                  <enum>(8)</enum>
+                  <header>Savings
+				clause</header>
+                  <text>Nothing in this subsection bars judicial review of any
+				other impact statement or similar assessment required by any other law if
+				judicial review of such statement or assessment is otherwise permitted by
+				law.</text>
+								</paragraph>
+              </subsection>
+              <subsection id="H748809B71897410EAA9A8B81CF70D6A4">
+                <enum>(g)</enum>
+                <header>Definition</header>
+                <text>For
+				purposes of this section, the term <term>personally identifiable
+				information</term> means information that can be used to identify an
+				individual, including such individual’s name, address, telephone number,
+				photograph, social security number or other identifying information. It
+				includes information about such individual’s medical or financial
+				condition.</text>
+							</subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="HBFA04FE46B4D49549A57A337ECFA69FA">
+          <enum>(b)</enum>
+          <header>Periodic review
+			 transition provisions</header>
+					<paragraph id="H4D86D25CC5394DF7B4E028294AB94E7A">
+            <enum>(1)</enum>
+            <header>Initial
+			 plan</header>
+            <text>For each agency, the plan required by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553a/e">subsection (e) of
+			 <external-xref legal-doc="usc" parsable-cite="usc/5/553a">section 553a</external-xref> of title 5, United States Code</cato:entity-ref> (as added by
+			 <internal-xref idref="H83F5FFD97ACF42CCBD06B757221A2806" legis-path="2.(a)">
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cyber Privacy Fortification Act of 2013/s:203/ss:a" proposed="true">subsection (a)</cato:entity-ref>
+              </internal-xref>), shall be published not
+			 later than 180 days after the date of the enactment of this Act.</text>
+					</paragraph>
+          <paragraph id="H1775C5F5DDD144F9BFD0D05EA5E6A6FC">
+            <enum>(2)</enum>
+            <header>Review
+			 period</header>
+            <text>In the case of a rule promulgated by an agency before the
+			 date of the enactment of this Act, such plan shall provide for the periodic
+			 review of such rule before the expiration of the 10-year period beginning on
+			 the date of the enactment of this Act. For any such rule, the head of the
+			 agency may provide for a 1-year extension of such period if the head of the
+			 agency, before the expiration of the period, certifies in a statement published
+			 in the Federal Register that reviewing such rule before the expiration of the
+			 period is not feasible. The head of the agency may provide for additional
+			 1-year extensions of the period pursuant to the preceding sentence, but in no
+			 event may the period exceed 15 years.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H200F69D7FA094BF09304030045F5931C">
+          <enum>(c)</enum>
+          <header>Congressional
+			 review</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/801/a/1/B">
+              <external-xref legal-doc="usc" parsable-cite="usc/5/801">Section 801(a)(1)(B)</external-xref> of title 5, United States Code</cato:entity-ref>, is
+			 amended—</text>
+					<paragraph id="HA21CAFA7A4EF4B01B6661015DECEF3D9">
+            <enum>(1)</enum>
+            <text>by redesignating
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/801/a/1/B/iii">clauses (iii)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/801/a/1/B/iv">(iv)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/801/a/1/B/iv" proposed="true">clauses (iv)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/801/a/1/B/v" proposed="true">(v)</cato:entity-ref>, respectively; and</text>
+					</paragraph>
+          <paragraph id="HB0E4AF5636C44E3CAAF417FE904A1E6C">
+            <enum>(2)</enum>
+            <text>by inserting after
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/801/a/1/B/ii">clause (ii)</cato:entity-ref> the following new clause:</text>
+						<quoted-block id="H114FAAB29F394955A7BB767D381324EF">
+							<clause id="H222EDDA4CA7F44AB89CC0A89566A9D35" indent="up2">
+                <enum>(iii)</enum>
+                <text>the agency’s actions relevant to
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553a">section
+				553a</cato:entity-ref>;</text>
+							</clause>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="H1689E9C29F2949179F203DF9DBFD3523">
+          <enum>(d)</enum>
+          <header>Clerical
+			 amendment</header>
+          <text>The table of sections at the beginning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/5">chapter 5 of
+			 title 5, United States Code</cato:entity-ref>, is amended by adding after the item relating to
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553">section 553</cato:entity-ref> the following new item:</text>
+					<quoted-block id="H48A86594EC714AF9AC98BA701E753BD7" style="USC">
+						<toc regeneration="no-regeneration">
+							<toc-entry level="section">553a. Privacy impact assessment in
+				rulemaking.</toc-entry>
+						</toc>
+						<after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+      </section>
+    </title>
+  </legis-body>
+</bill>
+</doc>

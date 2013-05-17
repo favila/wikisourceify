@@ -1,0 +1,800 @@
+<doc>
+  <docmeta id="113hr1331ih">
+    <bill congress="113" type="hr" number="1331" version="ih"/>
+    <revision size="25158" annotations="0" id="10" commit-time="2013-04-10T20:48:06+00:00" committer="favila" doc="113hr1331ih/10.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H1DF270E334774D26B24F12F096ED83CE" public-private="public">
+	<metadata>
+<dublinCore>
+<title>113 HR 1331 IH: Electronic Health Records Improvement Act</title>
+<publisher>U.S. House of Representatives</publisher>
+<date>2013-03-21</date>
+<format>text/xml</format>
+<language>EN</language>
+<rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 1331</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20130321">March 21, 2013</action-date>
+			<action-desc>
+        <sponsor name-id="B001273">Mrs. Black</sponsor> (for
+			 herself, <cosponsor name-id="C000266">Mr. Chabot</cosponsor>,
+			 <cosponsor name-id="G000569">Mr. Grimm</cosponsor>,
+			 <cosponsor name-id="H001052">Mr. Harris</cosponsor>, and
+			 <cosponsor name-id="B001243">Mrs. Blackburn</cosponsor>) introduced the
+			 following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>, and in
+			 addition to the <committee-name committee-id="HWM00">Committee on Ways and
+			 Means</committee-name>, for a period to be subsequently determined by the
+			 Speaker, in each case for consideration of such provisions as fall within the
+			 jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend certain requirements and penalties implemented
+		  under the Medicare and Medicaid programs by the HITECH Act of 2009, which would
+		  otherwise impede eligible professionals from adopting electronic health records
+		  to improve patient care.</official-title>
+	</form>
+	<legis-body id="H67924E82E4324B3B944D69FE35BABB85" style="OLC">
+		<section id="HC1B7F53A43CB466DADA68F789A26D699" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title; table of
+			 contents</header>
+			<subsection id="H49CAFB559D4645858BF059DAF830FBCF">
+        <enum>(a)</enum>
+        <header>Short
+			 title</header>
+        <text display-inline="yes-display-inline">This Act may be cited
+			 as the <quote>
+            <short-title>Electronic Health Records
+			 Improvement Act</short-title>
+          </quote>.</text>
+			</subsection>
+      <subsection id="H334C923ACADA487BA6EC38D03C17FBE6">
+        <enum>(b)</enum>
+        <header>Table of
+			 contents</header>
+        <text display-inline="yes-display-inline">The table of
+			 contents of this Act is as follows:</text>
+				<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+					<toc-entry idref="HC1B7F53A43CB466DADA68F789A26D699" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="H450972236750402FAB76A427072B7BC7" level="section">Sec. 2. Exception for certain eligible professionals from
+				application of Medicare payment adjustment for not demonstrating EHR meaningful
+				use.</toc-entry>
+					<toc-entry idref="H4720A9B1C6BD42A090FC1D6C8C5307E7" level="section">Sec. 3. Shortening EHR reporting period for application of
+				Medicare EHR payment adjustment to eligible professionals.</toc-entry>
+					<toc-entry idref="H50F6AA6CA0DB47AFB02D63895F0C8C44" level="section">Sec. 4. Additional exceptions to application of Medicare
+				payment adjustment for certain Medicaid and hospital-based eligible
+				professionals not demonstrating EHR meaningful use.</toc-entry>
+					<toc-entry idref="H6F946ECD4C004CCD9C7502F0277C6FE7" level="section">Sec. 5. Alternate meaningful use criteria for eligible
+				professionals utilizing electronic health records and specialty registry
+				systems.</toc-entry>
+					<toc-entry idref="HCC634E9BDF754E1E8124B52833596E94" level="section">Sec. 6. Enhancing Medicare EHR meaningful use among eligible
+				professionals who are rural health care providers.</toc-entry>
+					<toc-entry idref="H05E8F11BE75144E58FA40F5BED659BA2" level="section">Sec. 7. Improving EHR meaningful use under Medicare by eligible
+				professionals who practice in ambulatory surgical centers.</toc-entry>
+					<toc-entry idref="H11CDC369DF8D40C0B5D1A60A8A59AFBC" level="section">Sec. 8. Exemption from certain EHR meaningful use requirements
+				for certain eligible professionals for purposes of Medicare payment
+				adjustment.</toc-entry>
+					<toc-entry idref="HEC3B589C22FD42E4AF4653BA3EEEF039" level="section">Sec. 9. Additional administrative provisions relating to
+				Medicare eligible professionals’ EHR incentives.</toc-entry>
+					<toc-entry idref="HD769FDD1C5A743228F1C8B0F9ECBBAA7" level="section">Sec. 10. Non-application of provisions and amendments to
+				eligible professional Medicare incentives for certain MA organizations and
+				Medicaid incentives for adoption and meaningful use of certified EHR
+				technology.</toc-entry>
+				</toc>
+			</subsection>
+    </section>
+    <section id="H450972236750402FAB76A427072B7BC7">
+      <enum>2.</enum>
+      <header>Exception for
+			 certain eligible professionals from application of Medicare payment adjustment
+			 for not demonstrating EHR meaningful use</header>
+			<subsection id="H32BDA34A4DA14DB28C088C7F2E76CE21">
+        <enum>(a)</enum>
+        <header>Exception for
+			 certain small physician practices</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1848/ss:a/p:7">Section 1848(a)(7) of the Social Security
+			 Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">
+              <cato:entity-ref entity-type="uscode" value="usc/42/1395w–4/a/7">42 U.S.C. 1395w–4(a)(7)</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended—</text>
+				<paragraph id="HFC51BB2ED28946D987EF5A11DC22E879">
+          <enum>(1)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:A/cl:i">subparagraph
+			 (A)(i)</cato:entity-ref>, by striking <quote>subparagraphs (B) and (D)</quote> and inserting
+			 <quote>subparagraphs (B), (D), and (F)</quote>; and</text>
+				</paragraph>
+        <paragraph id="H5AB42B9765F7461E945E85C636C3F4AD">
+          <enum>(2)</enum>
+          <text>by adding at the
+			 end the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H747DA58B2F0C45AF9C8F120BDCAF8D46" style="OLC">
+						<subparagraph id="HF4314A02CC6B4EDCBFCDF6CB23F0FFFD">
+              <enum>(F)</enum>
+              <header>3-year exception
+				for certain eligible professionals</header>
+							<clause id="HE638035D71E64437B22BC3D4A812414F">
+                <enum>(i)</enum>
+                <header>In
+				general</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall exempt an eligible professional whom
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> determines is described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:F/cl:ii" proposed="true">clause (ii)</cato:entity-ref> from the application of
+				the payment adjustment under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:A">subparagraph (A)</cato:entity-ref> for each of the payment years
+				2015 through 2017. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall make a determination under the previous
+				sentence, with respect to such an exemption for an eligible professional, only
+				if such eligible professional submits a request for such exemption. The
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall determine whether or not an eligible professional is described
+				in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:F/cl:ii" proposed="true">clause (ii)</cato:entity-ref> not later than 30 days after the date such eligible professional
+				submits a request pursuant to the previous sentence.</text>
+							</clause>
+              <clause id="HC14D8745A08D4DB5B3C9A5DCB1541696">
+                <enum>(ii)</enum>
+                <header>Eligible
+				professionals in small physician practices</header>
+                <text>An eligible
+				professional described in this clause is an eligible professional furnishing
+				covered professional services during the EHR reporting period for 2015 in a
+				physician practice that is a solo
+				practice.</text>
+							</clause>
+            </subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </subsection>
+      <subsection id="HC6C9950C73274F26B268A5F6BF9E62B5">
+        <enum>(b)</enum>
+        <header>Exception for
+			 certain physicians near retirement age</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:F">Subparagraph (F) of section 1848(a)(7) of
+			 the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">
+              <cato:entity-ref entity-type="uscode" value="usc/42/1395w–4/a/7">42 U.S.C. 1395w–4(a)(7)</cato:entity-ref>
+            </external-xref>)</cato:entity>, as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Electronic Health Records Improvement Act/s:2/ss:a" proposed="true">subsection (a)</cato:entity-ref>,
+			 is amended—</text>
+				<paragraph id="HB53F42642B8246CCB962833C53F782AE">
+          <enum>(1)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:F/cl:i">clause (i)</cato:entity-ref>, in
+			 the first and third sentences, by striking <quote>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:F/cl:ii">clause (ii)</cato:entity-ref>
+            </quote> and
+			 inserting <quote>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:F/cl:ii">clause (ii)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:F/cl:iii">(iii)</cato:entity-ref>
+            </quote>; and</text>
+				</paragraph>
+        <paragraph id="H0835C7AA5F3C456A8A3CC76DB74FB3DE">
+          <enum>(2)</enum>
+          <text>by adding at the
+			 end the following new clause:</text>
+					<quoted-block display-inline="no-display-inline" id="H81BC192171914CE19A188860C0DC0437" style="OLC">
+						<clause commented="no" id="H4E7B818F5D0345DAB62F51D5E4578445">
+              <enum>(iii)</enum>
+              <header>Eligible
+				professionals at or near retirement age</header>
+              <text display-inline="yes-display-inline">An eligible professional described in this
+				clause is an eligible professional who as of the last day of 2015 has attained
+				early retirement age (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:216/ss:l/p:2">section 216(l)(2)</cato:entity-ref>) or who will attain such
+				age during the 5-year period following such
+				day.</text>
+						</clause>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </subsection>
+      <subsection id="HC8E32A81F7874D6D86762C128D11EFB8">
+        <enum>(c)</enum>
+        <header>Notification of
+			 eligibility for exceptions from payment adjustment</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1848/ss:a/p:7">Section
+			 1848(a)(7) of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">
+              <cato:entity-ref entity-type="uscode" value="usc/42/1395w–4/a/7">42 U.S.C. 1395w–4(a)(7)</cato:entity-ref>
+            </external-xref>)</cato:entity>, as amended by
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Electronic Health Records Improvement Act/s:2/ss:a" proposed="true">subsection (a)</cato:entity-ref>, is further amended by adding at the end the following new
+			 subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="HD6237D2E1A47443BB3F75B22D7693140" style="OLC">
+					<subparagraph id="H746596DEB55147C1B3A8E7CB4577CE6A">
+            <enum>(G)</enum>
+            <header>Notification</header>
+            <text display-inline="yes-display-inline">Not later than 30 days after the date on
+				which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> determines an eligible professional is exempt, pursuant to
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:F">subparagraph (F)</cato:entity-ref>, from the application of the payment adjustment under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:A">subparagraph (A)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall provide such eligible professional notice
+				of such
+				determination.</text>
+					</subparagraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+    </section>
+    <section id="H4720A9B1C6BD42A090FC1D6C8C5307E7">
+      <enum>3.</enum>
+      <header>Shortening EHR
+			 reporting period for application of Medicare EHR payment adjustment to eligible
+			 professionals</header>
+			<subsection id="H6C719A64261A497092BD55F62743AB90">
+        <enum>(a)</enum>
+        <header>In
+			 general</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:E/cl:ii">Section
+			 1848(a)(7)(E)(ii) of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">
+              <cato:entity-ref entity-type="uscode" value="usc/42/1395w–4/a/7/E/ii">42 U.S.C. 1395w–4(a)(7)(E)(ii)</cato:entity-ref>
+            </external-xref>)</cato:entity>
+			 is amended by inserting <quote>, so long as all of such period (or periods)
+			 occurs during the year in which the corresponding adjustment, if any, under
+			 this paragraph would be applied to the eligible professional involved</quote>
+			 after <quote>a period (or periods) specified by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>
+          </quote>.</text>
+			</subsection>
+      <subsection commented="no" id="H1C7DC6CE37A84E979D1A2DF3729A99B9">
+        <enum>(b)</enum>
+        <header>Rebates</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:A">Section 1848(a)(7)(A) of the Social
+			 Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">
+              <cato:entity-ref entity-type="uscode" value="usc/42/1395w–4/a/7/A">42 U.S.C. 1395w–4(a)(7)(A)</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended by adding at the end the
+			 following new clause:</text>
+				<quoted-block display-inline="no-display-inline" id="HD5EB928E687C4E17BC55A8E8465B6B3C" style="OLC">
+					<clause commented="no" id="H5C66B3F90D3D4B5A8C8274CCABEB91C7">
+            <enum>(iv)</enum>
+            <header>Special
+				rule</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall
+				establish a process under which if for a calendar year, beginning with 2015, an
+				adjustment is made under this paragraph with respect to covered professional
+				services furnished by an eligible professional and then during such calendar
+				year the eligible professional meets the criteria for establishing meaningful
+				use of certified EHR technology, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall provide to the eligible
+				professional a rebated amount such that the total amount of payment that the
+				provider receives under this subsection for such services for such year is the
+				fee schedule amount that would otherwise apply to such services under this
+				subsection without application of this
+				paragraph.</text>
+					</clause>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+      <subsection id="H6A0E0EE7510D45A6A868D8BE8629E68F">
+        <enum>(c)</enum>
+        <header>Conforming
+			 amendment</header>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:o/p:5/sp:B">Section 1848(o)(5)(B) of the Social Security Act</cato:entity-ref> is
+			 amended by adding at the end the following new sentence: <quote>Such term, as
+			 used under this subsection with respect to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7">subsection (a)(7)</cato:entity-ref> and a year
+			 beginning with 2015, shall have the meaning given such term under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:E/cl:ii">subsection
+			 (a)(7)(E)(ii)</cato:entity-ref>.</quote>.</text>
+			</subsection>
+    </section>
+    <section id="H50F6AA6CA0DB47AFB02D63895F0C8C44">
+      <enum>4.</enum>
+      <header>Additional
+			 exceptions to application of Medicare payment adjustment for certain Medicaid
+			 and hospital-based eligible professionals not demonstrating EHR meaningful
+			 use</header>
+			<subsection id="H62A8055B79864587BDDF27A3441BCFA1">
+        <enum>(a)</enum>
+        <header>Eligible
+			 professionals participating in Medicaid EHR incentive program</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1848/ss:a/p:7">Section 1848(a)(7) of the Social Security
+			 Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">
+              <cato:entity-ref entity-type="uscode" value="usc/42/1395w–4/a/7">42 U.S.C. 1395w–4(a)(7)</cato:entity-ref>
+            </external-xref>)</cato:entity>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Electronic Health Records Improvement Act/s:2" proposed="true">section 2</cato:entity-ref>, is further
+			 amended—</text>
+				<paragraph id="H014EEDCEDE1D4A44BE7D8B37C493802B">
+          <enum>(1)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:A/cl:i">subparagraph
+			 (A)(i)</cato:entity-ref>, by striking <quote>(D), and (F)</quote> and inserting <quote>(D), (F),
+			 and (G)</quote>;</text>
+				</paragraph>
+        <paragraph id="H26BAFFF58A064BBBAA69751DAB822ED3">
+          <enum>(2)</enum>
+          <text>by redesignating
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:G">subparagraph (G)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:H" proposed="true">subparagraph (H)</cato:entity-ref>; and</text>
+				</paragraph>
+        <paragraph id="H1197B17935D248D7B0017A95844024D4">
+          <enum>(3)</enum>
+          <text>by inserting after
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:F">subparagraph (F)</cato:entity-ref> the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H8BE666F038E24596AC89D54678A091A7" style="OLC">
+						<subparagraph id="HE888CCF2DBE1400C8A6A63CA99FCFF94">
+              <enum>(G)</enum>
+              <header>Additional
+				exceptions for certain Medicaid providers participating in Medicaid EHR
+				incentive program</header>
+              <text display-inline="yes-display-inline">In the case
+				of an eligible professional who is a Medicaid provider described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1903/ss:t/p:2/sp:A">section
+				1903(t)(2)(A)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall exempt such eligible professional from the
+				application of the Medicare payment adjustment under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:A">subparagraph (A)</cato:entity-ref>, with
+				respect to a year, if such year is the first year that such professional
+				received payment under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1903/ss:t">section
+				1903(t)</cato:entity-ref>.</text>
+						</subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </subsection>
+      <subsection id="HF974B80B1FF14B749415BB84C4E66277">
+        <enum>(b)</enum>
+        <header>Hospital-Based
+			 eligible professionals</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:D">Section 1848(a)(7)(D) of the Social
+			 Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">
+              <cato:entity-ref entity-type="uscode" value="usc/42/1395w–4/a/7/D">42 U.S.C. 1395w–4(a)(7)(D)</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended by adding at the end the
+			 following new sentence: <quote>In applying the definition under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:o/p:1/sp:C/cl:ii">subsection
+			 (o)(1)(C)(ii)</cato:entity-ref> for purposes of the previous sentence, the reference to
+			 <term>substantially all</term> under such subsection shall mean 90 percent or
+			 more and a determination described in such subsection, with respect to an
+			 eligible professional, may only be made by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> pursuant to a request
+			 of the professional that is submitted to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> before 2015, and shall
+			 be effective for such professional for 2015 and each subsequent
+			 year.</quote>.</text>
+			</subsection>
+      <subsection id="H4C63D6488B514D67A89B90E27AF3976E">
+        <enum>(c)</enum>
+        <header>Application of
+			 notification requirement</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:H">Subparagraph (H) of section 1848(a)(7) of
+			 the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">
+              <cato:entity-ref entity-type="uscode" value="usc/42/1395w–4/a/7">42 U.S.C. 1395w–4(a)(7)</cato:entity-ref>
+            </external-xref>)</cato:entity>, as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Electronic Health Records Improvement Act/s:2/ss:c" proposed="true">section 2(c)</cato:entity-ref> and
+			 redesignated by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Electronic Health Records Improvement Act/s:4/ss:a/p:2" proposed="true">subsection (a)(2)</cato:entity-ref>, is amended by striking <quote>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:F">subparagraph
+			 (F)</cato:entity-ref>
+          </quote> and inserting <quote>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:B,D,F,G">subparagraph (B), (D), (F), or
+			 (G)</cato:entity-ref>
+          </quote>.</text>
+			</subsection>
+    </section>
+    <section id="H6F946ECD4C004CCD9C7502F0277C6FE7">
+      <enum>5.</enum>
+      <header>Alternate
+			 meaningful use criteria for eligible professionals utilizing electronic health
+			 records and specialty registry systems</header>
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Social Security Act/s:1848/ss:o/p:2">Section 1848(o)(2) of the Social Security
+			 Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">
+            <cato:entity-ref entity-type="uscode" value="usc/42/1395w–4/o/2">42 U.S.C. 1395w–4(o)(2)</cato:entity-ref>
+          </external-xref>)</cato:entity> is amended—</text>
+			<paragraph id="HE57422E368594C1B9C03088F31E9220F">
+        <enum>(1)</enum>
+        <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:o/p:2/sp:A/cl:iii">subparagraph
+			 (A)(iii)</cato:entity-ref>, by striking <quote>Subject to</quote> and inserting <quote>For such
+			 period, the eligible professional satisfactorily uses a qualified national
+			 specialty registry system that measures quality improvement or improves patient
+			 safety (as described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:o/p:2/sp:D">subparagraph (D)</cato:entity-ref>), or, subject to</quote>; and</text>
+			</paragraph>
+      <paragraph commented="no" id="H62D49C7CA5AA421EA9E0491EA5F0F9E9">
+        <enum>(2)</enum>
+        <text>by adding at the
+			 end the following new subparagraph:</text>
+				<quoted-block id="H2DAE4169C617409C8E3F01EAEE43F805" style="OLC">
+					<subparagraph commented="no" id="HFC59135E5FFB423B8394273A59533C05">
+            <enum>(D)</enum>
+            <header>Qualified
+				national specialty registries</header>
+						<clause commented="no" id="H8765BD9880634CF7B2729B2AA6A8562E">
+              <enum>(i)</enum>
+              <text>Not later than
+				January 1, 2015, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall specify, pursuant to rulemaking, criteria
+				for determining—</text>
+							<subclause id="H03AB0EAB1122491D89D5430FAFB84E9D">
+                <enum>(I)</enum>
+                <text>if a national
+				speciality registry system is a qualified national speciality registry system,
+				for purposes of this paragraph; and</text>
+							</subclause>
+              <subclause id="H18A08F7165B5410C9F3CDAC3BBA73704">
+                <enum>(II)</enum>
+                <text>if an eligible
+				professional has demonstrated satisfactory use (as determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>)
+				of a qualified national speciality registry system for a period.</text>
+							</subclause>
+            </clause>
+            <clause commented="no" id="HF66A3652B6874641BA42CC6269F47AD6">
+              <enum>(ii)</enum>
+              <text>For purposes of
+				this paragraph, the term <term>qualified national specialty registry
+				system</term> means, with respect to a medical speciality, a nationally
+				available registry—</text>
+							<subclause commented="no" id="HDABA3D82EC764050BC3F4A6ED6E28BB6">
+                <enum>(I)</enum>
+                <text>that is
+				administered or endorsed by a national medical specialty society;</text>
+							</subclause>
+              <subclause commented="no" id="H6D38847A7BB64A0B8F75B4BF30AB6927">
+                <enum>(II)</enum>
+                <text>that collects
+				clinical data for purposes of measuring quality improvement or improving
+				patient safety related to the type of care provided or conditions treated by
+				the types of eligible professionals that are typically part such national
+				medical specialty society; and</text>
+							</subclause>
+              <subclause commented="no" id="H02DCB753E32C474199E054D1443DAE0B">
+                <enum>(III)</enum>
+                <text>that is
+				determined to be a qualified national speciality registry system by the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:o/p:2/sp:D/cl:ii" proposed="true">clause
+				(ii)</cato:entity-ref>.</text>
+							</subclause>
+            </clause>
+          </subparagraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</paragraph>
+    </section>
+    <section commented="no" id="HCC634E9BDF754E1E8124B52833596E94">
+      <enum>6.</enum>
+      <header>Enhancing
+			 Medicare EHR meaningful use among eligible professionals who are rural health
+			 care providers</header>
+			<subsection commented="no" id="HF7AE545B678543BEA219C2A01C986BD2">
+        <enum>(a)</enum>
+        <header>Extension of
+			 Medicare EHR incentives to eligible professionals practicing in rural health
+			 clinics</header>
+				<paragraph commented="no" id="H56EEB271E0BB4CC19A58A9DB71E8FB85">
+          <enum>(1)</enum>
+          <header>EHR payment
+			 adjustment</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:E/cl:i">Section
+			 1848(a)(7)(E)(i) of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">
+                <cato:entity-ref entity-type="uscode" value="usc/42/1395w–4/a/7/E/i">42 U.S.C. 1395w–4(a)(7)(E)(i)</cato:entity-ref>
+              </external-xref>)</cato:entity> is
+			 amended by inserting before the period at the end the following: <quote>and,
+			 with respect to payment years after 2014, includes rural health clinic services
+			 (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:aa/p:1">section 1861(aa)(1)</cato:entity-ref>) furnished by an eligible
+			 professional</quote>.</text>
+				</paragraph>
+        <paragraph commented="no" id="H9C97BEF0632940DC91EE2F2847C8660A">
+          <enum>(2)</enum>
+          <header>EHR increased
+			 payments</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Social Security Act/s:1848/ss:o/p:5/sp:A">Section 1848(o)(5)(A) of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395w–4/o/5/A">42
+			 U.S.C. 1395w–4(o)(5)(A)</cato:entity-ref>)</cato:entity> is amended by inserting before the period at the end
+			 the following: <quote>and, with respect to payment years after 2014, includes
+			 rural health clinic services (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:aa/p:1">section 1861(aa)(1)</cato:entity-ref>) furnished by
+			 an eligible professional</quote>.</text>
+				</paragraph>
+      </subsection>
+      <subsection commented="no" id="HBD79D3A0EBE84913938EEB331C0D9613">
+        <enum>(b)</enum>
+        <header>Extension of
+			 Medicare eRx and quality reporting incentives to rural health
+			 clinics</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1848/ss:m/p:6/sp:A">Section 1848(m)(6)(A)
+			 of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">
+              <cato:entity-ref entity-type="uscode" value="usc/42/1395w–4/m/6/A">42 U.S.C. 1395w–4(m)(6)(A)</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended by inserting
+			 before the period at the end the following: <quote>except that the term
+			 <term>covered professional services</term> shall, with respect to reporting
+			 periods for 2015 or a subsequent year, include rural health clinic services (as
+			 defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:aa/p:1">section 1861(aa)(1)</cato:entity-ref>) furnished by an eligible
+			 professional</quote>.</text>
+			</subsection>
+    </section>
+    <section id="H05E8F11BE75144E58FA40F5BED659BA2">
+      <enum>7.</enum>
+      <header>Improving EHR
+			 meaningful use under Medicare by eligible professionals who practice in
+			 ambulatory surgical centers</header>
+			<subsection id="H07AE3EED0C154AEFA72FDCC23A5C2442">
+        <enum>(a)</enum>
+        <header>3-Year exemption
+			 from encounters calculation To demonstrate EHR meaningful use for purposes of
+			 payment adjustment</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1848/ss:o/p:2">Section
+			 1848(o)(2) of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">
+              <cato:entity-ref entity-type="uscode" value="usc/42/1395w–4/o/2">42 U.S.C. 1395w–4(o)(2)</cato:entity-ref>
+            </external-xref>)</cato:entity>, as amended by
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Electronic Health Records Improvement Act/s:5" proposed="true">section 5</cato:entity-ref>, is further amended by adding at the end the following new
+			 subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="HF55F94AC33C04193BEC674936539D5B4" style="OLC">
+					<subparagraph id="HBBD8270D848D46FDB604BE0148ED0A94">
+            <enum>(E)</enum>
+            <header>Treatment of
+				patient encounters at ambulatory surgical centers</header>
+						<clause id="HDED16E83F62F45E1A24B94F0D8D1A34D">
+              <enum>(i)</enum>
+              <header>In
+				general</header>
+              <text display-inline="yes-display-inline">Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:o/p:2/sp:E/cl:ii" proposed="true">clause
+				(ii)</cato:entity-ref>, in applying this paragraph for purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7">subsection (a)(7)</cato:entity-ref>, any
+				submissions of claims for items or services furnished by an eligible
+				professional at an ambulatory surgical center during performance years for the
+				2015, 2016, or 2017 payment determinations shall not be included in the data
+				used to determine if such eligible professional is a meaningful EHR
+				user.</text>
+						</clause>
+            <clause id="H9DD0E797DBF5416B89D2E5B4298654A4">
+              <enum>(ii)</enum>
+              <header>Rule of
+				construction</header>
+              <text display-inline="yes-display-inline">Nothing in
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:o/p:2/sp:E/cl:i" proposed="true">clause (i)</cato:entity-ref> shall prohibit an eligible professional from receiving an additional
+				payment under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:o/p:1">paragraph (1)</cato:entity-ref> with respect to covered professional services
+				furnished in a payment year if the eligible professional is determined to be a
+				meaningful EHR user under this paragraph for the reporting period for such
+				year.</text>
+						</clause>
+            <clause id="H2FBB1F865ED64606B1E97ACE9BA2A148">
+              <enum>(iii)</enum>
+              <header>Limitation of
+				payment adjustment</header>
+              <text display-inline="yes-display-inline">In
+				applying <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:o/p:2/sp:E/cl:i" proposed="true">clause (i)</cato:entity-ref> for purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7" proposed="true">subsection (a)(7)</cato:entity-ref> and a year, if an
+				eligible professional is not a meaningful EHR user pursuant to such clause for
+				an EHR reporting period for the year, any adjustment under such subsection
+				shall not apply to the fee schedule amount for covered professional services
+				furnished by such eligible professional during the year in an ambulatory
+				surgical
+				center.</text>
+						</clause>
+          </subparagraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+      <subsection id="H8FAA1BB775494FE1991FF26C9F6683FB">
+        <enum>(b)</enum>
+        <header>Reinstatement of
+			 batching process</header>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1848/ss:o/p:2/sp:E">Subparagraph (E) of section 1848(o)(2) of the
+			 Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">
+              <cato:entity-ref entity-type="uscode" value="usc/42/1395w–4/o/2">42 U.S.C. 1395w–4(o)(2)</cato:entity-ref>
+            </external-xref>)</cato:entity>, as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Electronic Health Records Improvement Act/s:7/ss:a" proposed="true">subsection (a)</cato:entity-ref>, is
+			 amended by adding at the end the following new clause:</text>
+				<quoted-block display-inline="no-display-inline" id="H9AC79DD8345345ADAAECD876F9AB5AC5" style="OLC">
+					<clause id="H768F2138434549F3816848BBC1924DCF">
+            <enum>(iv)</enum>
+            <header>Use of batching
+				process</header>
+            <text display-inline="yes-display-inline">In applying this
+				paragraph for purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7" proposed="true">subsection (a)(7)</cato:entity-ref> and with respect to a patient
+				encounter occurring at an ambulatory surgical center, if an eligible
+				professional creates a record of such patient encounter without using certified
+				EHR technology at the ambulatory surgical center and subsequently inputs the
+				information of such record of such encounter into certified EHR technology at a
+				different location, certified EHR technology shall be treated as being
+				available at such patient
+				encounter.</text>
+					</clause>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+    </section>
+    <section id="H11CDC369DF8D40C0B5D1A60A8A59AFBC">
+      <enum>8.</enum>
+      <header>Exemption from
+			 certain EHR meaningful use requirements for certain eligible professionals for
+			 purposes of Medicare payment adjustment</header>
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Social Security Act/s:1848/ss:o/p:2">Section 1848(o)(2) of the Social Security
+			 Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">
+            <cato:entity-ref entity-type="uscode" value="usc/42/1395w–4/o/2">42 U.S.C. 1395w–4(o)(2)</cato:entity-ref>
+          </external-xref>)</cato:entity>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:7" proposed="true">section 7</cato:entity-ref>, is further amended by
+			 adding at the end the following new subparagraph:</text>
+			<quoted-block display-inline="no-display-inline" id="H5301A5772B82499491A2765BB35662A1" style="OLC">
+				<subparagraph id="H1C80C8D10C944F568CADD8F1DA2E82B0">
+          <enum>(F)</enum>
+          <header>Exceptions for
+				certain eligible professionals</header>
+          <text display-inline="yes-display-inline">In applying this paragraph for purposes of
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7">subsection (a)(7)</cato:entity-ref>, the following shall apply:</text>
+					<clause id="H4E07A671161C44F0963E639B172635B1">
+            <enum>(i)</enum>
+            <text display-inline="yes-display-inline">In the case of an eligible professional who
+				is an anesthesiologist or physician of any other specialty or subspecialty
+				identified through rulemaking as not conducting traditional office visits, in
+				order to be treated as a meaningful EHR user for an EHR reporting period under
+				such subsection for a year such eligible professional shall not be required
+				to—</text>
+						<subclause id="H5C2C1008485148AEA9C2D4560DE220CD">
+              <enum>(I)</enum>
+              <text>provide clinical
+				summaries to patients; or</text>
+						</subclause>
+            <subclause id="HF5F398808FE0486BA16326D0B3FAE5E2">
+              <enum>(II)</enum>
+              <text>provide patients,
+				upon request, with an electronic copy of the health information of such
+				patients (including diagnostic test results, problem lists, medication lists,
+				and medication allergies).</text>
+						</subclause>
+          </clause>
+          <clause id="H82D9C28F580B40288EBF41E891285BF4">
+            <enum>(ii)</enum>
+            <text display-inline="yes-display-inline">In the case of an eligible professional who
+				is an anesthesiologist or physician of any other specialty that does not
+				traditionally order prescription drugs before administration of such drugs, as
+				specified through rulemaking, in order to be treated as a meaningful EHR user
+				for an EHR reporting period under such subsection for a year such eligible
+				professional shall not be required to utilize EHR technology that provides for
+				checks on prescription drug interactions until EHR technology is available to
+				accommodate checks on interactions between prescription drugs administered in
+				operating rooms or other anesthetizing locations.</text>
+					</clause>
+          <continuation-text continuation-text-level="subparagraph">The
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall provide notice to each eligible professional to whom <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:o/p:2/sp:F/cl:i" proposed="true">clause (i)</cato:entity-ref>
+				or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:o/p:2/sp:F/cl:ii" proposed="true">(ii)</cato:entity-ref> applies of the application of such
+				clause.</continuation-text>
+        </subparagraph>
+        <after-quoted-block>.</after-quoted-block>
+      </quoted-block>
+		</section>
+    <section id="HEC3B589C22FD42E4AF4653BA3EEEF039">
+      <enum>9.</enum>
+      <header>Additional
+			 administrative provisions relating to Medicare eligible professionals’ EHR
+			 incentives</header>
+			<subsection id="HF1D4176CD52A48D39757FAA896C0E822">
+        <enum>(a)</enum>
+        <header>Appeals
+			 process</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1848/ss:o/p:3">Section 1848(o)(3) of
+			 the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-4">
+              <cato:entity-ref entity-type="uscode" value="usc/42/1395w–4/o/3">42 U.S.C. 1395w–4(o)(3)</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended—</text>
+				<paragraph id="HAC382432CC7B4B1F991CB576A0AB506A">
+          <enum>(1)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:o/p:3/sp:C">subparagraph
+			 (C)</cato:entity-ref>, by striking <quote>There shall be no</quote> and inserting <quote>Except
+			 as provided under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:o/p:3/sp:E">subparagraph (E)</cato:entity-ref>, there shall be no</quote>; and</text>
+				</paragraph>
+        <paragraph id="H38041F0DAC394F3682DA88535C8D8B09">
+          <enum>(2)</enum>
+          <text>by adding at the
+			 end the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="HCA7BB0DD678448A8A5F23878A662D818" style="OLC">
+						<subparagraph id="HF6C5841B7DAD44CEAF3E8A9CF613DFB2">
+              <enum>(E)</enum>
+              <header>Appeals process
+				before application of penalties</header>
+              <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall, by not later than
+				January 1, 2015, establish and have in place a process for eligible
+				professionals to seek, before application of a payment adjustment under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:A">subsection (a)(7)(A)</cato:entity-ref> with respect to such an eligible professional, a review of
+				the determination that the eligible professional did not qualify as a
+				meaningful EHR user under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:o/p:2">paragraph
+				(2)</cato:entity-ref>.</text>
+						</subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </subsection>
+      <subsection id="HD3E1783F56394D3AAFAB46A694CCCD65">
+        <enum>(b)</enum>
+        <header>Semi-Annual
+			 progress report</header>
+				<paragraph id="HEFF2AD5CEAA34AAD9B69ED05C3392A41">
+          <enum>(1)</enum>
+          <header>In
+			 general</header>
+          <text>Not later than six months after the date of the enactment
+			 of this Act and every six months thereafter until the date specified in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Electronic Health Records Improvement Act/s:9/ss:b/p:3" proposed="true">paragraph (3)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary of Health and Human Services</cato:entity-ref>, through the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7530">Administrator of the Centers for Medicare &amp; Medicaid Services</cato:entity-ref>, shall submit
+			 to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a report that contains the following information:</text>
+					<subparagraph id="H9FDB75FB846E4CD7BC2730D2E0B1D8C3">
+            <enum>(A)</enum>
+            <text display-inline="yes-display-inline">Improvements that have been made in
+			 streamlining requirements among various programs under the Medicare program
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/t:XVIII">title XVIII of the Social Security Act</cato:entity-ref> regarding similar information
+			 (such as for purposes of meaningful use of certified EHR technology, physician
+			 quality reporting, and electronic prescribing).</text>
+					</subparagraph>
+          <subparagraph id="H737A13CCC27B43239D6078F3C488D812">
+            <enum>(B)</enum>
+            <text display-inline="yes-display-inline">Improvements certified EHR technology
+			 vendors have made in interoperability.</text>
+					</subparagraph>
+          <subparagraph id="HF0D7DF5AD18749A9ABD8CD5C4223419B">
+            <enum>(C)</enum>
+            <text>The progress of
+			 the adoption of certified EHR technology by physician specialty groups and the
+			 percentage of eligible professionals (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:a/p:7/sp:E">section 1848(a)(7)(E) of
+			 the Social Security Act</cato:entity-ref>) who are eligible for incentive payments under the
+			 Medicare program for meaningful use of certified EHR technology.</text>
+					</subparagraph>
+          <subparagraph id="HE5291B1E93544E33B21C64208DE502B2">
+            <enum>(D)</enum>
+            <text display-inline="yes-display-inline">The reporting capabilities of qualified
+			 national specialty reporting systems (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:o/p:2">section 1848(o)(2) of the
+			 Social Security Act</cato:entity-ref>, as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Electronic Health Records Improvement Act/s:5" proposed="true">section 5</cato:entity-ref>) and recommendations for making such
+			 registries more interactive with EHR technology.</text>
+					</subparagraph>
+          <subparagraph id="H0D7A9EDF84D145A99CA8BC6F5E4DE0F4">
+            <enum>(E)</enum>
+            <text>The results of the
+			 most recent survey conducted under
+			 <internal-xref idref="HD8AA64875B52448197F7F72087A47A5E" legis-path="9.(b)(2)">
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Electronic Health Records Improvement Act/s:9/ss:b/p:2" proposed="true">paragraph (2)</cato:entity-ref>
+              </internal-xref>.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="HD8AA64875B52448197F7F72087A47A5E">
+          <enum>(2)</enum>
+          <header>Physician
+			 survey</header>
+          <text display-inline="yes-display-inline">Not later than six
+			 months after the date of the enactment of this Act and every six months
+			 thereafter until the date specified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Electronic Health Records Improvement Act/s:9/ss:b/p:3" proposed="true">paragraph (3)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary of Health
+			 and Human Services</cato:entity-ref>, through the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7530">Administrator of the Centers for Medicare &amp;
+			 Medicaid Services</cato:entity-ref>, shall conduct a survey of physicians to identify barriers
+			 encountered by physicians in achieving stage 3 of meaningful use of certified
+			 EHR technology.</text>
+				</paragraph>
+        <paragraph id="H3EC3EE709B6C4D48AA59305D68990DFB">
+          <enum>(3)</enum>
+          <header>Date
+			 specified</header>
+          <text>For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Electronic Health Records Improvement Act/s:9/ss:b/p:1" proposed="true">paragraphs (1)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Electronic Health Records Improvement Act/s:9/ss:b/p:2" proposed="true">(2)</cato:entity-ref>, the date
+			 specified in this paragraph is the date on which 75 percent of all eligible
+			 professionals (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1848/ss:o/p:5">section 1848(o)(5) of the Social Security Act</cato:entity-ref>)
+			 have satisfied the requirements of stage 2 of meaningful use of certified EHR
+			 technology (as defined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary of Health and Human Services</cato:entity-ref>).</text>
+				</paragraph>
+      </subsection>
+    </section>
+    <section commented="no" id="HD769FDD1C5A743228F1C8B0F9ECBBAA7">
+      <enum>10.</enum>
+      <header>Non-application
+			 of provisions and amendments to eligible professional Medicaid incentives for
+			 adoption and meaningful use of certified EHR technology</header>
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Social Security Act/s:1903/ss:t">Section 1903(t) of the Social Security Act</cato:entity-ref>
+			 (<external-xref legal-doc="usc" parsable-cite="usc/42/1396b">
+            <cato:entity-ref entity-type="uscode" value="usc/42/1396b/t">42 U.S.C. 1396b(t)</cato:entity-ref>
+          </external-xref>)</cato:entity> is amended by adding at the end the following new
+			 paragraph:</text>
+			<quoted-block display-inline="no-display-inline" id="H054FBA1BD3494CF18E7CE1ED800AD738" style="OLC">
+				<paragraph commented="no" id="H58D192EE5EC04E2BB1BA443BAA36E30B" indent="up1">
+          <enum>(11)</enum>
+          <text display-inline="yes-display-inline">The provisions of, including the amendments
+				made by, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Electronic Health Records Improvement Act" proposed="true">Electronic Health Records Improvement Act</cato:entity-ref> (other than <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Electronic Health Records Improvement Act/s:10" proposed="true">section 10
+				of such Act</cato:entity-ref>) shall not apply for purposes of this subsection or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1903/ss:a/p:3/sp:F">subsection
+				(a)(3)(F)</cato:entity-ref>.</text>
+				</paragraph>
+        <after-quoted-block>.</after-quoted-block>
+      </quoted-block>
+		</section>
+  </legis-body>
+</bill>
+</doc>

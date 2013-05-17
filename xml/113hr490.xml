@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr490ih">
+<doc>
+  <docmeta id="113hr490ih">
     <bill congress="113" type="hr" number="490" version="ih"/>
-    <revision id="9" commit-time="2013-03-13T19:25:20+00:00" comitter="/users/favila.xml" doc="/docs/113hr490ih/9.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H38C371F09ACD48A980A72B00DA140052" public-private="public">
+    <revision size="20232" annotations="0" id="9" commit-time="2013-03-13T19:25:20+00:00" committer="favila" doc="113hr490ih/9.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H38C371F09ACD48A980A72B00DA140052" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -54,7 +58,9 @@
 			<subsection id="H29CA76D19DDA44B8BDA71FF70A6D2375">
         <enum>(a)</enum>
         <header>Definitions</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:217/ss:c/p:1">Section
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:217/ss:c/p:1">Section
 			 217(c)(1) of the Immigration and Nationality Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187(c)(1)</external-xref>)</cato:entity>
 			 is amended to read as follows:</text>
 				<quoted-block display-inline="no-display-inline" id="HB9B09E5F081A46ADA7DB23C4312EF666" style="OLC">
@@ -171,15 +177,21 @@
         <enum>(b)</enum>
         <header>Technical and
 			 conforming amendments</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:217">Section 217 of the Immigration and
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:217">Section 217 of the Immigration and
 			 Nationality Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8
 			 U.S.C. 1187</external-xref>)</cato:entity> is amended—</text>
 				<paragraph id="H456FE67ABF984D02814EDC0342DBE38B">
           <enum>(1)</enum>
           <text>by striking
-			 <quote><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref></quote> each place the term appears (except in
-			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Immigration and Nationality Act/s:217/ss:c/p:11/sp:B">subsection (c)(11)(B)</cato:entity-ref>) and inserting <quote><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary of Homeland
-			 Security</cato:entity-ref></quote>; and</text>
+			 <quote>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref>
+            </quote> each place the term appears (except in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Immigration and Nationality Act/s:217/ss:c/p:11/sp:B">subsection (c)(11)(B)</cato:entity-ref>) and inserting <quote>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary of Homeland
+			 Security</cato:entity-ref>
+            </quote>; and</text>
 				</paragraph>
         <paragraph id="H36DE7C7F42784FCFBC4F94FD285B8557">
           <enum>(2)</enum>
@@ -188,19 +200,23 @@
 					<subparagraph id="H135A341135A34E3EB7B5D70921A23FB2">
             <enum>(A)</enum>
             <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Immigration and Nationality Act/s:217/ss:c/p:2/sp:C/cl:iii">paragraph
-			 (2)(C)(iii)</cato:entity-ref>, by striking <quote><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HJU00">Committee on the Judiciary</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HFA00">Committee on
+			 (2)(C)(iii)</cato:entity-ref>, by striking <quote>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HJU00">Committee on the Judiciary</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HFA00">Committee on
 			 International Relations of the House of Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSJU00">Committee on
-			 the Judiciary</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSFR00">Committee on Foreign Relations of the Senate</cato:entity-ref></quote> and
+			 the Judiciary</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSFR00">Committee on Foreign Relations of the Senate</cato:entity-ref>
+              </quote> and
 			 inserting <quote>appropriate congressional committees</quote>;</text>
 					</subparagraph>
           <subparagraph id="HF46CC15321A44262870AF11134010938">
             <enum>(B)</enum>
             <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Immigration and Nationality Act/s:217/ss:c/p:5/sp:A/cl:i/scl:III">paragraph
-			 (5)(A)(i)(III)</cato:entity-ref>, by striking <quote><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HJU00">Committee on the Judiciary</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HFA00">Committee on
+			 (5)(A)(i)(III)</cato:entity-ref>, by striking <quote>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HJU00">Committee on the Judiciary</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HFA00">Committee on
 			 Foreign Affairs</cato:entity-ref>, and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HHM00">Committee on Homeland Security</cato:entity-ref>, of the House of
 			 Representatives and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSJU00">Committee on the Judiciary</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSFR00">Committee on Foreign
 			 Relations</cato:entity-ref>, and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSGA00">Committee on Homeland Security and Governmental Affairs of
-			 the Senate</cato:entity-ref></quote> and inserting <quote>appropriate congressional
+			 the Senate</cato:entity-ref>
+              </quote> and inserting <quote>appropriate congressional
 			 committees</quote>; and</text>
 					</subparagraph>
           <subparagraph id="HAF403FA93B5243FF9B8284995C102A9F">
@@ -218,7 +234,9 @@
           <enum>(1)</enum>
           <header>In
 			 general</header>
-          <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:217/ss:c/p:2/sp:A">Section 217(c)(2)(A) of the Immigration and Nationality
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:217/ss:c/p:2/sp:A">Section 217(c)(2)(A) of the Immigration and Nationality
 			 Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C.
 			 1187(c)(2)(A)</external-xref>)</cato:entity> is amended to read as follows:</text>
 					<quoted-block display-inline="no-display-inline" id="HBF3AAD300E8445B8A2A5E5F4A6350398" style="OLC">
@@ -252,7 +270,9 @@
           <enum>(2)</enum>
           <header>Qualification
 			 criteria</header>
-          <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:217/ss:c/p:3">Section 217(c)(3) of such Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187(c)(3)</external-xref>)</cato:entity>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:217/ss:c/p:3">Section 217(c)(3) of such Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187(c)(3)</external-xref>)</cato:entity>
 			 is amended to read as follows:</text>
 					<quoted-block display-inline="no-display-inline" id="H7A23DF97EABA45C69C5FC98B444DEA70" style="OLC">
 						<paragraph id="HA61D894CEE23401791D79B633876BC7D">
@@ -273,14 +293,17 @@
           <enum>(3)</enum>
           <header>Initial
 			 period</header>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Immigration and Nationality Act/s:217/ss:c">Section 217(c) of such Act</cato:entity-ref> is further amended by striking
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Immigration and Nationality Act/s:217/ss:c">Section 217(c) of such Act</cato:entity-ref> is further amended by striking
 			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Immigration and Nationality Act/s:217/ss:c/p:4">subsection (c)(4)</cato:entity-ref>.</text>
 				</paragraph>
         <paragraph id="H54B8A8F172F1401F9F260F6E7EA34D52">
           <enum>(4)</enum>
           <header>Continuing
 			 designation</header>
-          <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:217/ss:c/p:5/sp:A/cl:i/scl:II">Section 217(c)(5)(A)(i)(II) of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/8/1187/c/5/A/i/II">8 U.S.C.
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:217/ss:c/p:5/sp:A/cl:i/scl:II">Section 217(c)(5)(A)(i)(II) of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/8/1187/c/5/A/i/II">8 U.S.C.
 			 1187(c)(5)(A)(i)(II)</cato:entity-ref>)</cato:entity> is amended to read as follows:</text>
 					<quoted-block display-inline="no-display-inline" id="HAE9189C1A2334C1B9DF3332B31498917" style="OLC">
 						<subitem id="H4BB50210F4784CA29A48F98883A93E92">
@@ -298,7 +321,9 @@
           <enum>(5)</enum>
           <header>Computation of
 			 visa refusal rates; judicial review</header>
-          <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:217/ss:c/p:6">Section 217(c)(6) of such Act</cato:entity-ref>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:217/ss:c/p:6">Section 217(c)(6) of such Act</cato:entity-ref>
 			 (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C.
 			 1187(c)(6)</external-xref>)</cato:entity> is amended to read as follows:</text>
 					<quoted-block display-inline="no-display-inline" id="H5EB1A5D0382742D898C6DFE22C9ABD09" style="OLC">
@@ -334,7 +359,9 @@
           <enum>(6)</enum>
           <header>Visa waiver
 			 information</header>
-          <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:217/ss:c/p:7">Section 217(c)(7) of such Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187(c)(7)</external-xref>)</cato:entity>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:217/ss:c/p:7">Section 217(c)(7) of such Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187(c)(7)</external-xref>)</cato:entity>
 			 is amended—</text>
 					<subparagraph id="H05FDAA76FF384F2D851A85810946065F">
             <enum>(A)</enum>
@@ -355,7 +382,9 @@
           <enum>(7)</enum>
           <header>Waiver
 			 authority</header>
-          <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:217/ss:c/p:8">Section 217(c)(8) of such Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187(c)(8)</external-xref>)</cato:entity> is amended to
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:217/ss:c/p:8">Section 217(c)(8) of such Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187(c)(8)</external-xref>)</cato:entity> is amended to
 			 read as follows:</text>
 					<quoted-block display-inline="no-display-inline" id="HC2B4810CDEFC494799EBB43CDA5C2A39" style="OLC">
 						<paragraph id="H529008CC52284291B38E2B7795C85075">
@@ -413,7 +442,9 @@
         <enum>(d)</enum>
         <header>Termination of
 			 designation; probation</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:217/ss:f">Section 217(f) of the Immigration and
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:217/ss:f">Section 217(f) of the Immigration and
 			 Nationality Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8
 			 U.S.C. 1187(f)</external-xref>)</cato:entity> is amended to read as follows:</text>
 				<quoted-block display-inline="no-display-inline" id="H47A04A6A73B94CF79F4F0472D8B77699" style="OLC">
@@ -631,10 +662,12 @@
         <text>It is the
 			 sense of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary of Homeland Security</cato:entity-ref>, in the process of
 			 conducting evaluations of countries participating in the visa waiver program
-			 under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:217">section 217 of the Immigration and Nationality Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187</external-xref>)</cato:entity>,
+			 under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:217">section 217 of the Immigration and Nationality Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/8/1187">8 U.S.C. 1187</external-xref>)</cato:entity>,
 			 should prioritize the reviews of countries in which circumstances indicate that
 			 such a review is necessary or desirable.</text>
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

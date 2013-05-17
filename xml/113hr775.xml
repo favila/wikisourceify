@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr775ih">
+<doc>
+  <docmeta id="113hr775ih">
     <bill congress="113" type="hr" number="775" version="ih"/>
-    <revision id="4" commit-time="2013-03-25T00:01:08+00:00" comitter="/users/favila.xml" doc="/docs/113hr775ih/4.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8E2ED52492DF431B9754C0A0ED3368DF" public-private="public">
+    <revision size="1796" annotations="0" id="4" commit-time="2013-03-25T00:01:08+00:00" committer="favila" doc="113hr775ih/4.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8E2ED52492DF431B9754C0A0ED3368DF" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -41,7 +45,8 @@
       <enum>2.</enum>
       <header>Exemption of
 			 election officials from Federal jury duty</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/28/1863">Section 1863 of title 28, United States
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/28/1863">Section 1863 of title 28, United States
 			 Code</cato:entity-ref>, is amended by adding at the end the following:</text>
 			<quoted-block display-inline="no-display-inline" id="HE039A2B2D083475EB8DF4DD4EC2DA94E" style="USC">
 				<subsection id="H96B3EB5CFADC4ECD85B47510604BEDA9">
@@ -77,4 +82,5 @@
       </quoted-block>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

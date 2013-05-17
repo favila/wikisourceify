@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr735ih">
+<doc>
+  <docmeta id="113hr735ih">
     <bill congress="113" type="hr" number="735" version="ih"/>
-    <revision id="9" commit-time="2013-03-22T18:30:59+00:00" comitter="/users/favila.xml" doc="/docs/113hr735ih/9.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" dms-id="HB7A3FA7B67004721A44BE03CC76BDD6A" public-private="public" bill-type="olc"> 
+    <revision size="12276" annotations="0" id="9" commit-time="2013-03-22T18:30:59+00:00" committer="favila" doc="113hr735ih/9.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" dms-id="HB7A3FA7B67004721A44BE03CC76BDD6A" public-private="public" bill-type="olc"> 
 <form> 
 <distribution-code display="yes">I</distribution-code> 
 <congress>113th CONGRESS</congress>
@@ -27,7 +31,8 @@
 <section id="HE150782FDDDE44489A4A41EA97B4A1F3" section-type="subsequent-section">
       <enum>2.</enum>
       <header>Federal Protective Service inspectors and contract oversight force</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/1315">Section 1315 of title 40, United States Code</cato:entity-ref>, is amended by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/1315/c..e">subsections (c) through (e)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/1315/f..h" proposed="true">subsections (f) through (h)</cato:entity-ref>, and by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/1315/b">subsection (b)</cato:entity-ref> the following new subsections:</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/1315">Section 1315 of title 40, United States Code</cato:entity-ref>, is amended by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/1315/c..e">subsections (c) through (e)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/1315/f..h" proposed="true">subsections (f) through (h)</cato:entity-ref>, and by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/1315/b">subsection (b)</cato:entity-ref> the following new subsections:</text>
 <quoted-block display-inline="no-display-inline" id="HDF462002BC4A4B71A2DD38179529C152" style="OLC">
 <subsection id="HE9707742314D4AD68ED8841CB2E6A823">
           <enum>(c)</enum>
@@ -113,7 +118,9 @@
 <paragraph id="HC66C7152D1414729B961566EDB8E16C3">
             <enum>(1)</enum>
             <header>In general</header>
-            <text display-inline="yes-display-inline">Not later than one year after the date of enactment of the <short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Protective Service Improvement and Accountability Act of 2013" proposed="true">Federal Protective Service Improvement and Accountability Act of 2013</cato:entity-ref></short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall establish minimum training and certification standards for security guard services at facilities protected by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Federal Protective Service" entity-parent-id="7000">Federal Protective Service</cato:entity-ref>.</text>
+            <text display-inline="yes-display-inline">Not later than one year after the date of enactment of the <short-title>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Protective Service Improvement and Accountability Act of 2013" proposed="true">Federal Protective Service Improvement and Accountability Act of 2013</cato:entity-ref>
+              </short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall establish minimum training and certification standards for security guard services at facilities protected by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Federal Protective Service" entity-parent-id="7000">Federal Protective Service</cato:entity-ref>.</text>
           </paragraph>
 <paragraph id="HF0BD4AEE12EF495A93F28669C9C9FA03">
             <enum>(2)</enum>
@@ -245,8 +252,12 @@
 <subsection id="H469DAACA5CF54843BC63D13E36BC327A">
         <enum>(i)</enum>
         <header>Authorization of Appropriations</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated for <cato:funds-and-year amount="indefinite" year="2014, 2015, 2016">fiscal years 2014, 2015, and 2016 such sums as are necessary</cato:funds-and-year> <cato:property name="purpose">for purposes of <cato:entity-ref entity-type="act" value="Federal Protective Service Improvement and Accountability Act of 2013/s:4" proposed="true">this section</cato:entity-ref></cato:property>.</cato:entity></text>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated for <cato:funds-and-year amount="indefinite" year="2014, 2015, 2016">fiscal years 2014, 2015, and 2016 such sums as are necessary</cato:funds-and-year> <cato:property name="purpose">for purposes of <cato:entity-ref entity-type="act" value="Federal Protective Service Improvement and Accountability Act of 2013/s:4" proposed="true">this section</cato:entity-ref>
+            </cato:property>.</cato:entity>
+        </text>
       </subsection>
     </section> 
 </legis-body> 
-</bill></doc>
+</bill>
+</doc>

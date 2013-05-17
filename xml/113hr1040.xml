@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1040ih">
+<doc>
+  <docmeta id="113hr1040ih">
     <bill congress="113" type="hr" number="1040" version="ih"/>
-    <revision id="13" commit-time="2013-04-04T14:55:46+00:00" comitter="/users/favila.xml" doc="/docs/113hr1040ih/13.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HD1549FCF5F4D4D8B886C4EF071C7A6A2" public-private="public">
+    <revision size="25078" annotations="0" id="13" commit-time="2013-04-04T14:55:46+00:00" committer="favila" doc="113hr1040ih/13.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HD1549FCF5F4D4D8B886C4EF071C7A6A2" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1040 IH: Flat Tax Act</title>
@@ -798,7 +802,8 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/st:B">Subtitle B of the Internal Revenue Code of 1986</cato:entity-ref> is hereby
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/st:B">Subtitle B of the Internal Revenue Code of 1986</cato:entity-ref> is hereby
 			 repealed.</text>
 			</subsection>
       <subsection id="H9CE65147C1CA446AA5EB7E7DF10482A9">
@@ -813,7 +818,8 @@
         <enum>(c)</enum>
         <header>Cross
 			 reference</header>
-        <text>See <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:102"><external-xref legal-doc="usc" parsable-cite="usc/26/102">section 102</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref>
+        <text>See <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:102">
+            <external-xref legal-doc="usc" parsable-cite="usc/26/102">section 102</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref>
 			 for exclusion of gifts and inheritances from gross income.</text>
 			</subsection>
     </section>
@@ -843,4 +849,5 @@
 			 quorum being present.</continuation-text>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

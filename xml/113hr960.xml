@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr960ih">
+<doc>
+  <docmeta id="113hr960ih">
     <bill congress="113" type="hr" number="960" version="ih"/>
-    <revision id="6" commit-time="2013-04-01T17:13:53+00:00" comitter="/users/favila.xml" doc="/docs/113hr960ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6EE86BDFB82E4A97BB5B3CCD1D5AB891" public-private="public">
+    <revision size="3878" annotations="0" id="6" commit-time="2013-04-01T17:13:53+00:00" committer="favila" doc="113hr960ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6EE86BDFB82E4A97BB5B3CCD1D5AB891" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -38,7 +42,9 @@
       <enum>2.</enum>
       <header>Phase-in of new
 			 premium rates for disaster areas</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="National Flood Insurance Act of 1968/s:1308/ss:h">Subsection (h) of section 1308 of the
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="National Flood Insurance Act of 1968/s:1308/ss:h">Subsection (h) of section 1308 of the
 			 National Flood Insurance Act of 1968</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/4015/h">42 U.S.C. 4015(h)</cato:entity-ref>)</cato:entity> is amended—</text>
 			<paragraph id="H1D2DF03C518546B5A3150B13C032D1B0">
         <enum>(1)</enum>
@@ -104,7 +110,8 @@
 								<subclause id="H9A1B15410B284D94A31D31A2060E059D">
                   <enum>(I)</enum>
                   <text display-inline="yes-display-inline">for which a major disaster was declared
-				pursuant to <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Robert T. Stafford Disaster Relief and Emergency Assistance Act/s:401">section 401 of the Robert T. Stafford Disaster Relief and Emergency
+				pursuant to <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Robert T. Stafford Disaster Relief and Emergency Assistance Act/s:401">section 401 of the Robert T. Stafford Disaster Relief and Emergency
 				Assistance Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/5170">42 U.S.C. 5170</cato:entity-ref>)</cato:entity>; and</text>
 								</subclause>
                 <subclause id="H89DB830825FE47268D28A66FC5FCE9D7">
@@ -119,8 +126,10 @@
                   <item id="HDC096A7882B842DDB3AE251611B4FBF4" indent="up1">
                     <enum>(bb)</enum>
                     <text>that upon the date of the enactment
-				of the <short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Flood Victim Premium Relief Act of 2013" proposed="true">Flood Victim Premium Relief Act of
-				2013</cato:entity-ref></short-title> is eligible for any reason for preferred risk rate method
+				of the <short-title>
+                        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Flood Victim Premium Relief Act of 2013" proposed="true">Flood Victim Premium Relief Act of
+				2013</cato:entity-ref>
+                      </short-title> is eligible for any reason for preferred risk rate method
 				premiums for flood insurance coverage or that was eligible, at any time during
 				the 12-month period ending upon the occurrence of the event for which the major
 				disaster declaration was made, for preferred risk rate method premiums;</text>
@@ -146,4 +155,5 @@
 			</paragraph>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

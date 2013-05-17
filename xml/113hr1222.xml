@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1222ih">
+<doc>
+  <docmeta id="113hr1222ih">
     <bill congress="113" type="hr" number="1222" version="ih"/>
-    <revision id="8" commit-time="2013-04-05T15:42:52+00:00" comitter="/users/favila.xml" doc="/docs/113hr1222ih/8.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA703F59809164F67B21A9A725EB6708F" public-private="public">
+    <revision size="8154" annotations="0" id="8" commit-time="2013-04-05T15:42:52+00:00" committer="favila" doc="113hr1222ih/8.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HA703F59809164F67B21A9A725EB6708F" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1222 IH: Compact-Impact Aid Act of 2013</title>
@@ -54,7 +58,8 @@
 			<subsection id="H2328D2D1DA024471B092A20ACDEE270C">
         <enum>(a)</enum>
         <header>Findings</header>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 				<paragraph id="H0626D23B75C549E28F9958729EF74E3A">
           <enum>(1)</enum>
           <text display-inline="yes-display-inline">In approving the Compact of Free
@@ -63,7 +68,8 @@
 				</paragraph>
         <paragraph id="HD620F93B590244E4A54629D05E2FC66D">
           <enum>(2)</enum>
-          <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> declared that if any adverse
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> declared that if any adverse
 			 consequences to States, territories, and other jurisdictions of the United
 			 States resulted from implementation of the Compact of Free Association,
 			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> would act sympathetically and expeditiously to redress those adverse
@@ -112,8 +118,12 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Compact of Free Association Act of 1985/s:104/ss:e/p:6">Section 104(e)(6) of the Compact of Free Association Act
-			 of 1985</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/48/1904"><cato:entity-ref entity-type="uscode" value="usc/48/1904/e/6">48 U.S.C. 1904(e)(6)</cato:entity-ref></external-xref>)</cato:entity> is amended to read as follows:</text>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Compact of Free Association Act of 1985/s:104/ss:e/p:6">Section 104(e)(6) of the Compact of Free Association Act
+			 of 1985</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/48/1904">
+              <cato:entity-ref entity-type="uscode" value="usc/48/1904/e/6">48 U.S.C. 1904(e)(6)</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended to read as follows:</text>
 				<quoted-block id="H2D9202A243964B3981F5957BBB74D152" style="OLC">
 					<paragraph id="HF3BCD202158447D29B6EC1C420C7966E">
             <enum>(6)</enum>
@@ -199,8 +209,10 @@
 							<clause id="H69BD55E7818E4F93BFE1CBBA3A7650D0">
                 <enum>(i)</enum>
                 <text>such individuals
-				shall be treated in the same manner as an individual described in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Compact of Free Association Act of 1985/s:402/ss:a/p:2/sp:G">section
-				402(a)(2)(G)</cato:entity-ref> of <external-xref legal-doc="public-law" parsable-cite="pl/104/193">Public Law 104–193</external-xref></cato:entity>, as amended;</text>
+				shall be treated in the same manner as an individual described in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Compact of Free Association Act of 1985/s:402/ss:a/p:2/sp:G">section
+				402(a)(2)(G)</cato:entity-ref> of <external-xref legal-doc="public-law" parsable-cite="pl/104/193">Public Law 104–193</external-xref>
+                  </cato:entity>, as amended;</text>
 							</clause>
               <clause id="H193DC88FE8FC4DE7A430260499269CF1">
                 <enum>(ii)</enum>
@@ -226,12 +238,14 @@
 				to—</text>
 							<clause id="HCFBFCB679BA9453392D771B1546AECED">
                 <enum>(i)</enum>
-                <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Compact of Free Association Act of 1985/s:141">section 141</cato:entity-ref> of the
+                <text>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Compact of Free Association Act of 1985/s:141">section 141</cato:entity-ref> of the
 				Compact of Free Association set forth in title II; or</text>
 							</clause>
               <clause id="HACD66DCB2C3948718B767CB9FEA16B0B">
                 <enum>(ii)</enum>
-                <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Compact of Free Association Act of 1985/s:141">section 141</cato:entity-ref> of
+                <text>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Compact of Free Association Act of 1985/s:141">section 141</cato:entity-ref> of
 				the Compact of Free Association between the United States and the Government of
 				Palau.</text>
 							</clause>
@@ -244,10 +258,12 @@
         <enum>(b)</enum>
         <header>Effective
 			 date</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Compact of Free Association Act of 1985/s:104/ss:e/p:6/sp:B">Section 104(e)(6)(B) of the Compact of Free Association Act
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Compact of Free Association Act of 1985/s:104/ss:e/p:6/sp:B">Section 104(e)(6)(B) of the Compact of Free Association Act
 			 of 1985</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Compact-Impact Aid Act of 2013/s:3/ss:a" proposed="true">subsection (a)</cato:entity-ref>, shall apply to medical assistance for
 			 items and services furnished during or after fiscal year 2013.</text>
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

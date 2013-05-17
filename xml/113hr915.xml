@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr915ih">
+<doc>
+  <docmeta id="113hr915ih">
     <bill congress="113" type="hr" number="915" version="ih"/>
-    <revision id="7" commit-time="2013-03-29T15:30:44+00:00" comitter="/users/favila.xml" doc="/docs/113hr915ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HE8B1871841754800BDCBF6D75FF0D6EB" key="H" public-private="public">
+    <revision size="5257" annotations="0" id="7" commit-time="2013-03-29T15:30:44+00:00" committer="favila" doc="113hr915ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HE8B1871841754800BDCBF6D75FF0D6EB" key="H" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -32,7 +36,8 @@
 		<section id="H01EDE3E91D374896A4F45C36CF5EABC8" section-type="section-one">
       <enum>1.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> makes the following
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> makes the following
 			 findings:</text>
 			<paragraph id="id40C38C344E544CAA9AB712A52C4DC5D5">
         <enum>(1)</enum>
@@ -120,9 +125,12 @@
         <header>Compliance with
 			 standards for Commemorative Works Act</header>
         <text>The establishment of the
-			 commemorative work shall be in accordance with <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="uscode" value="usc-chapter/40/89">chapter 89 of title 40, United
-			 States Code</cato:entity-ref> (commonly known as the <term><cato:entity-ref entity-type="act" value="Commemorative Works Act">Commemorative Works
-			 Act</cato:entity-ref></term>)</cato:entity>.</text>
+			 commemorative work shall be in accordance with <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="uscode" value="usc-chapter/40/89">chapter 89 of title 40, United
+			 States Code</cato:entity-ref> (commonly known as the <term>
+              <cato:entity-ref entity-type="act" value="Commemorative Works Act">Commemorative Works
+			 Act</cato:entity-ref>
+            </term>)</cato:entity>.</text>
 			</subsection>
       <subsection id="idBF916835770244A2BC6AC201DD1C63AE">
         <enum>(c)</enum>
@@ -161,4 +169,5 @@
 			 passage.</text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

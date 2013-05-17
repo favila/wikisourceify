@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1004ih">
+<doc>
+  <docmeta id="113hr1004ih">
     <bill congress="113" type="hr" number="1004" version="ih"/>
-    <revision id="8" commit-time="2013-04-02T17:53:47+00:00" comitter="/users/favila.xml" doc="/docs/113hr1004ih/8.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H22DC5F906E9F40A5A9847F65BA2FEE59" public-private="public">
+    <revision size="22301" annotations="0" id="8" commit-time="2013-04-02T17:53:47+00:00" committer="favila" doc="113hr1004ih/8.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H22DC5F906E9F40A5A9847F65BA2FEE59" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -722,9 +726,12 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be appropriated <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Sacramento-San Joaquin Delta National Heritage Area Establishment Act" proposed="true">this
-			 Act</cato:entity-ref></cato:property> <cato:funds-and-year amount="10000000">$10,000,000</cato:funds-and-year>, of which not more than $1,000,000 may be made available for
-			 any fiscal year.</cato:entity></text>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be appropriated <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Sacramento-San Joaquin Delta National Heritage Area Establishment Act" proposed="true">this
+			 Act</cato:entity-ref>
+            </cato:property> <cato:funds-and-year amount="10000000">$10,000,000</cato:funds-and-year>, of which not more than $1,000,000 may be made available for
+			 any fiscal year.</cato:entity>
+        </text>
 			</subsection>
       <subsection id="HE510510B007E442B83F40BCC585DDC0F">
         <enum>(b)</enum>
@@ -765,4 +772,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

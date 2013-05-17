@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1204ih">
+<doc>
+  <docmeta id="113hr1204ih">
     <bill congress="113" type="hr" number="1204" version="ih"/>
-    <revision id="9" commit-time="2013-04-04T22:50:43+00:00" comitter="/users/favila.xml" doc="/docs/113hr1204ih/9.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H4552A93ACD994381979464FC7D2B25EE" public-private="public">
+    <revision size="12644" annotations="0" id="9" commit-time="2013-04-04T22:50:43+00:00" committer="favila" doc="113hr1204ih/9.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H4552A93ACD994381979464FC7D2B25EE" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1204 IH: Aviation Security Stakeholder Participation Act of 2013</title>
@@ -67,7 +71,9 @@
               <header>Establishment</header>
               <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7013">Assistant Secretary</cato:entity-ref> shall establish
 				within the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7013">Transportation Security Administration</cato:entity-ref> an advisory committee to be
-				known as the <quote><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Aviation Security Advisory Committee" entity-parent-id="7013" proposed="true">Aviation Security Advisory Committee</cato:entity-ref></quote>.</text>
+				known as the <quote>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Aviation Security Advisory Committee" entity-parent-id="7013" proposed="true">Aviation Security Advisory Committee</cato:entity-ref>
+                </quote>.</text>
 						</subsection>
             <subsection id="H74F19B8DAA9A462B9E262EDEB834D65B">
               <enum>(b)</enum>
@@ -365,7 +371,8 @@
               <enum>(i)</enum>
               <header>Nonapplicability
 				of FACA</header>
-              <text display-inline="yes-display-inline">The <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Federal Advisory Committee Act">Federal Advisory
+              <text display-inline="yes-display-inline">The <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Federal Advisory Committee Act">Federal Advisory
 				Committee Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc-appendix/5">5 U.S.C. App.</cato:entity-ref>)</cato:entity> shall not apply to the Advisory Committee and its
 				subcommittees.</text>
 						</subsection>
@@ -430,4 +437,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

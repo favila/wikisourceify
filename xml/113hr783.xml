@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr783ih">
+<doc>
+  <docmeta id="113hr783ih">
     <bill congress="113" type="hr" number="783" version="ih"/>
-    <revision id="6" commit-time="2013-03-25T02:42:09+00:00" comitter="/users/favila.xml" doc="/docs/113hr783ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H23E9F6B3BCA543599BCA92C4D0CC46C9" public-private="public">
+    <revision size="12366" annotations="0" id="6" commit-time="2013-03-25T02:42:09+00:00" committer="favila" doc="113hr783ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H23E9F6B3BCA543599BCA92C4D0CC46C9" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -41,7 +45,8 @@
     <section id="H5F307EE885634895BBF4400D4566F1FF">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 			<paragraph id="H3D6CDCD93BBC4AE9AAFCB2ADFD6FCAEF">
         <enum>(1)</enum>
         <text>In his Nobel Peace
@@ -339,9 +344,13 @@
       <enum>7.</enum>
       <header>Authorization of
 			 appropriations</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is
-			 authorized to be appropriated t<cato:property name="purpose">o carry out <cato:entity-ref entity-type="act" value="Prevent Iran from Acquiring Nuclear Weapons and Stop War Through Diplomacy Act" proposed="true">this Act</cato:entity-ref></cato:property> <cato:funds-and-year amount="indefinite">such sums as may be
-			 necessary for each of fiscal years 2013 and 2014</cato:funds-and-year>.</cato:entity></text>
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is
+			 authorized to be appropriated t<cato:property name="purpose">o carry out <cato:entity-ref entity-type="act" value="Prevent Iran from Acquiring Nuclear Weapons and Stop War Through Diplomacy Act" proposed="true">this Act</cato:entity-ref>
+          </cato:property> <cato:funds-and-year amount="indefinite">such sums as may be
+			 necessary for each of fiscal years 2013 and 2014</cato:funds-and-year>.</cato:entity>
+      </text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

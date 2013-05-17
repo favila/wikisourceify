@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1039ih">
+<doc>
+  <docmeta id="113hr1039ih">
     <bill congress="113" type="hr" number="1039" version="ih"/>
-    <revision id="5" commit-time="2013-04-02T22:06:52+00:00" comitter="/users/favila.xml" doc="/docs/113hr1039ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" dms-id="H5420E6F2DBBE4BE797F37EAD4934251A" public-private="public" bill-type="olc"> 
+    <revision size="1734" annotations="0" id="5" commit-time="2013-04-02T22:06:52+00:00" committer="favila" doc="113hr1039ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" dms-id="H5420E6F2DBBE4BE797F37EAD4934251A" public-private="public" bill-type="olc"> 
 <metadata>
 <dublinCore>
 <title>113 HR 1039 IH: To rescind unobligated amounts for foreign assistance to Egypt, and to appropriate funds for the Department of Defense tuition assistance program.</title>
@@ -47,8 +51,11 @@
 <subsection id="H03BABE399A864EC7B10059DF2F3FAD6A">
         <enum>(b)</enum>
         <header>Appropriation for tuition assistance</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">There is appropriated <cato:funds-and-year amount="500000000" year="2013">$500,000,000</cato:funds-and-year> <cato:property name="purpose">for an additional amount to the <cato:entity-ref entity-type="federal-body" entity-id="9700">Department of Defense</cato:entity-ref> for fiscal year 2013 for tuition assistance under sections <external-xref legal-doc="usc" parsable-cite="usc/10/1784a">1784a</external-xref> and <external-xref legal-doc="usc" parsable-cite="usc/10/2007">2007</external-xref> of title 10, United States Code</cato:property>.</cato:entity></text>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">There is appropriated <cato:funds-and-year amount="500000000" year="2013">$500,000,000</cato:funds-and-year> <cato:property name="purpose">for an additional amount to the <cato:entity-ref entity-type="federal-body" entity-id="9700">Department of Defense</cato:entity-ref> for fiscal year 2013 for tuition assistance under sections <external-xref legal-doc="usc" parsable-cite="usc/10/1784a">1784a</external-xref> and <external-xref legal-doc="usc" parsable-cite="usc/10/2007">2007</external-xref> of title 10, United States Code</cato:property>.</cato:entity>
+        </text>
       </subsection>
     </section> 
 </legis-body> 
-</bill></doc>
+</bill>
+</doc>

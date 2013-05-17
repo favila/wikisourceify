@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr514ih">
+<doc>
+  <docmeta id="113hr514ih">
     <bill congress="113" type="hr" number="514" version="ih"/>
-    <revision id="9" commit-time="2013-03-20T15:15:29+00:00" comitter="/users/favila.xml" doc="/docs/113hr514ih/9.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H620EDF04A27C4A27B5F03A763A0BEB6D" public-private="public">
+    <revision size="5397" annotations="0" id="9" commit-time="2013-03-20T15:15:29+00:00" committer="favila" doc="113hr514ih/9.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H620EDF04A27C4A27B5F03A763A0BEB6D" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -146,8 +150,11 @@
               <enum>(b)</enum>
               <header>Transfers to
 				trust fund</header>
-              <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">There are hereby appropriated <cato:property name="purpose">to the Disaster Relief
-				Fund</cato:property> <cato:funds-and-year amount="indefinite">amounts equivalent to the amounts designated under <cato:entity-ref entity-type="act" value="Internal Revenue Code of 1986/s:6098" proposed="true">section 6098</cato:entity-ref></cato:funds-and-year>.</cato:entity></text>
+              <text>
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">There are hereby appropriated <cato:property name="purpose">to the Disaster Relief
+				Fund</cato:property> <cato:funds-and-year amount="indefinite">amounts equivalent to the amounts designated under <cato:entity-ref entity-type="act" value="Internal Revenue Code of 1986/s:6098" proposed="true">section 6098</cato:entity-ref>
+                  </cato:funds-and-year>.</cato:entity>
+              </text>
 						</subsection>
             <subsection id="H0A503BA684384E6896F7EEB856121A16">
               <enum>(c)</enum>
@@ -205,4 +212,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

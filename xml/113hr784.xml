@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr784ih">
+<doc>
+  <docmeta id="113hr784ih">
     <bill congress="113" type="hr" number="784" version="ih"/>
-    <revision id="5" commit-time="2013-03-25T02:44:32+00:00" comitter="/users/favila.xml" doc="/docs/113hr784ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB7B8453FCDF8472D845E6D5CA085FFB0" public-private="public">
+    <revision size="2223" annotations="0" id="5" commit-time="2013-03-25T02:44:32+00:00" committer="favila" doc="113hr784ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB7B8453FCDF8472D845E6D5CA085FFB0" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -40,7 +44,8 @@
     <section id="H92CB4CDE11B643E9AE5344480106EDD5">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> makes the following
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> makes the following
 			 findings:</text>
 			<paragraph id="H62B03631AAC44379953470CEA88A56B1">
         <enum>(1)</enum>
@@ -60,7 +65,9 @@
       <enum>3.</enum>
       <header>Civil forfeiture
 			 exemption for marijuana facilities authorized by State law</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Controlled Substances Act/s:511/ss:a/p:7">Paragraph (7) of section 511(a) of the
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Controlled Substances Act/s:511/ss:a/p:7">Paragraph (7) of section 511(a) of the
 			 Controlled Substances Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/21/881/a/7">21 U.S.C. 881(a)(7)</cato:entity-ref>)</cato:entity> is amended—</text>
 			<paragraph id="HA610899AA9AA45569DF968F899C10B98">
         <enum>(1)</enum>
@@ -87,4 +94,5 @@
 			</paragraph>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

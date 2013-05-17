@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr951ih">
+<doc>
+  <docmeta id="113hr951ih">
     <bill congress="113" type="hr" number="951" version="ih"/>
-    <revision id="9" commit-time="2013-04-01T16:09:56+00:00" comitter="/users/favila.xml" doc="/docs/113hr951ih/9.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HBA33B5C81B1D4612AD090E1319D87E0A" public-private="public">
+    <revision size="28340" annotations="0" id="9" commit-time="2013-04-01T16:09:56+00:00" committer="favila" doc="113hr951ih/9.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HBA33B5C81B1D4612AD090E1319D87E0A" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -58,7 +62,8 @@
     <section id="H6B4B43D3EDBC4012898133B42FAA79D8">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 			<paragraph id="H79A2BD43002447579FFAE0CF7C733348">
         <enum>(1)</enum>
         <text display-inline="yes-display-inline">According to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1113">Council of Economic
@@ -164,7 +169,8 @@
 			<paragraph commented="no" id="H8762F787025B4AA6A7E0B6F759405B6B">
         <enum>(1)</enum>
         <text display-inline="yes-display-inline">the term <term>designated region</term> has
-			 the meaning given such term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Workforce Investment Act of 1998/s:116/ss:c/p:5/sp:A">section 116(c)(5)(A) of the Workforce Investment
+			 the meaning given such term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Workforce Investment Act of 1998/s:116/ss:c/p:5/sp:A">section 116(c)(5)(A) of the Workforce Investment
 			 Act of 1998</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/29/2831/c/5/A">29 U.S.C. 2831(c)(5(A)</cato:entity-ref>)</cato:entity>;</text>
 			</paragraph>
       <paragraph id="H4F96A077C12B401B9A469FA47E5259D2">
@@ -218,7 +224,8 @@
         <enum>(4)</enum>
         <text>the term
 			 <term>non-traditional occupations</term> means those occupations in which women
-			 make up less than 25 percent of the workforce (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Carl D. Perkins Career and Technical Education Act of 2006/s:3">section 3 of the
+			 make up less than 25 percent of the workforce (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Carl D. Perkins Career and Technical Education Act of 2006/s:3">section 3 of the
 			 Carl D. Perkins Career and Technical Education Act of 2006</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/20/2302">20 U.S.C.
 			 2302</cato:entity-ref>)</cato:entity>);</text>
 			</paragraph>
@@ -229,13 +236,15 @@
 				<subparagraph id="H2AAD0A7E81B844459DF18614880A0097">
           <enum>(A)</enum>
           <text>a junior or
-			 community college, as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Higher Education Act of 1965/s:312/ss:f">section 312(f) of the Higher Education Act of
+			 community college, as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Higher Education Act of 1965/s:312/ss:f">section 312(f) of the Higher Education Act of
 			 1965</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/20/1058/f">20 U.S.C. 1058(f)</cato:entity-ref>)</cato:entity>; or</text>
 				</subparagraph>
         <subparagraph id="H0D2ADF5F82AC4EF19B49CF7C424320D7">
           <enum>(B)</enum>
           <text>an area technical
-			 school, as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Carl D. Perkins Career and Technical Education Act of 2006/s:3">section 3 of the Carl D. Perkins Career and Technical
+			 school, as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Carl D. Perkins Career and Technical Education Act of 2006/s:3">section 3 of the Carl D. Perkins Career and Technical
 			 Education Act of 2006</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/20/2302">20 U.S.C. 2302</cato:entity-ref>)</cato:entity>;</text>
 				</subparagraph>
       </paragraph>
@@ -243,13 +252,16 @@
         <enum>(6)</enum>
         <text>the term
 			 <term>registered apprenticeship program</term> means a program registered under
-			 the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">Act of August 16, 1937 (commonly known as the <quote><cato:entity-ref entity-type="act" value="National Apprenticeship Act">National
-			 Apprenticeship Act</cato:entity-ref></quote> (<cato:entity-ref entity-type="uscode" value="usc/29/50/note">29 U.S.C. 50 note</cato:entity-ref>))</cato:entity>; and</text>
+			 the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">Act of August 16, 1937 (commonly known as the <quote>
+              <cato:entity-ref entity-type="act" value="National Apprenticeship Act">National
+			 Apprenticeship Act</cato:entity-ref>
+            </quote> (<cato:entity-ref entity-type="uscode" value="usc/29/50/note">29 U.S.C. 50 note</cato:entity-ref>))</cato:entity>; and</text>
 			</paragraph>
       <paragraph id="H78D7EBE7BEFF47C8B6F102B6F46C7E73">
         <enum>(7)</enum>
         <text display-inline="yes-display-inline">the term <term>State</term> has the meaning
-			 given such term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="of the Carl D. Perkins Career and Technical Education Act of 2006/s:3">section 3 of the of the Carl D. Perkins Career and Technical
+			 given such term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="of the Carl D. Perkins Career and Technical Education Act of 2006/s:3">section 3 of the of the Carl D. Perkins Career and Technical
 			 Education Act of 2006</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/20/2302">20 U.S.C. 2302</cato:entity-ref>)</cato:entity>.</text>
 			</paragraph>
     </section>
@@ -313,8 +325,10 @@
 			 of State Plan</header>
           <text>The State Plan described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Women WIN Jobs/s:4/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref> shall be
 			 administered by a State workforce development board (as referred to in the
-			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Workforce Investment Act of 1998">Workforce Investment Act of 1998</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/29/2801/etseq">29 U.S.C. 2801 et seq.</cato:entity-ref>)</cato:entity>), in consultation
-			 with a State entity (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Carl D. Perkins Career Technical Education Act of 2006/s:118/ss:c">section 118(c) of the Carl D. Perkins Career
+			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Workforce Investment Act of 1998">Workforce Investment Act of 1998</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/29/2801/etseq">29 U.S.C. 2801 et seq.</cato:entity-ref>)</cato:entity>), in consultation
+			 with a State entity (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Carl D. Perkins Career Technical Education Act of 2006/s:118/ss:c">section 118(c) of the Carl D. Perkins Career
 			 Technical Education Act of 2006</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/20/2328">20 U.S.C. 2328</cato:entity-ref>)</cato:entity>).</text>
 				</paragraph>
         <paragraph id="HD3B631FFE8FE4DBF9F130BC14670F801">
@@ -508,13 +522,15 @@
 						<clause display-inline="no-display-inline" id="HC14514DF0A764F11A386C35E0317C462">
               <enum>(i)</enum>
               <text>an institution of
-			 higher education (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Higher Education Act of 1965/s:101">section 101 of the Higher Education Act of 1965</cato:entity-ref>
+			 higher education (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Higher Education Act of 1965/s:101">section 101 of the Higher Education Act of 1965</cato:entity-ref>
 			 (<cato:entity-ref entity-type="uscode" value="usc/20/1001">20 U.S.C. 1001</cato:entity-ref>)</cato:entity>);</text>
 						</clause>
             <clause id="HA64E05FADD0B49B0A4DB5092D9195858">
               <enum>(ii)</enum>
               <text>a
-			 program of study (as described in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Carl D. Perkins Career and Technical Education Act of 2006/s:122/ss:c/p:1/sp:A">section 122(c)(1)(A) of the Carl D. Perkins
+			 program of study (as described in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Carl D. Perkins Career and Technical Education Act of 2006/s:122/ss:c/p:1/sp:A">section 122(c)(1)(A) of the Carl D. Perkins
 			 Career and Technical Education Act of 2006</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/20/2342/c/1/A">20 U.S.C. 2342(c)(1)(A)</cato:entity-ref>)</cato:entity>);
 			 or</text>
 						</clause>
@@ -553,7 +569,9 @@
             <enum>(K)</enum>
             <text>engage in
 			 activities requested by the national clearinghouse established pursuant to
-			 <internal-xref idref="HB2297A29C3074F47A9B615D0F671A162" legis-path="7."><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Women WIN Jobs/s:9" proposed="true">section 9</cato:entity-ref></internal-xref>;</text>
+			 <internal-xref idref="HB2297A29C3074F47A9B615D0F671A162" legis-path="7.">
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Women WIN Jobs/s:9" proposed="true">section 9</cato:entity-ref>
+              </internal-xref>;</text>
 					</subparagraph>
           <subparagraph id="H1B3C87AFAEBD4F78A450334634602DF3">
             <enum>(L)</enum>
@@ -901,10 +919,14 @@
       <enum>11.</enum>
       <header>Authorization of
 			 Appropriations</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are
 			 authorized to be appropriated <cato:funds-and-year amount="100000000">$100,000,000</cato:funds-and-year> to the <cato:entity-ref entity-type="federal-body" entity-id="1600">Secretary of Labor</cato:entity-ref> <cato:property name="purpose">to carry
-			 out <cato:entity-ref entity-type="act" value="Women WIN Jobs" proposed="true">this Act</cato:entity-ref></cato:property>, of which a minimum of $3,000,000 is authorized to be used to
-			 carry out <cato:entity-ref entity-type="act" value="Women WIN Jobs/s:8" proposed="true">sections 8</cato:entity-ref> and <cato:entity-ref entity-type="act" value="Women WIN Jobs/s:9" proposed="true">9</cato:entity-ref>.</cato:entity></text>
+			 out <cato:entity-ref entity-type="act" value="Women WIN Jobs" proposed="true">this Act</cato:entity-ref>
+          </cato:property>, of which a minimum of $3,000,000 is authorized to be used to
+			 carry out <cato:entity-ref entity-type="act" value="Women WIN Jobs/s:8" proposed="true">sections 8</cato:entity-ref> and <cato:entity-ref entity-type="act" value="Women WIN Jobs/s:9" proposed="true">9</cato:entity-ref>.</cato:entity>
+      </text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

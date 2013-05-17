@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr772ih">
+<doc>
+  <docmeta id="113hr772ih">
     <bill congress="113" type="hr" number="772" version="ih"/>
-    <revision id="5" commit-time="2013-03-24T22:18:35+00:00" comitter="/users/favila.xml" doc="/docs/113hr772ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8E21BE8DD3F4437AB93A5B2AED7AF374" public-private="public">
+    <revision size="11514" annotations="0" id="5" commit-time="2013-03-24T22:18:35+00:00" committer="favila" doc="113hr772ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8E21BE8DD3F4437AB93A5B2AED7AF374" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -29,7 +33,8 @@
 		<section id="H37F890CA0C234546B9ABA36062E38BD7" section-type="section-one">
       <enum>1.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 			<paragraph id="H417875A17D86427D839AEEF2A9E4AD82">
         <enum>(1)</enum>
         <text display-inline="yes-display-inline">The South China Sea contains vital
@@ -316,4 +321,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

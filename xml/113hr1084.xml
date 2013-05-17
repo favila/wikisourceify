@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1084ih">
+<doc>
+  <docmeta id="113hr1084ih">
     <bill congress="113" type="hr" number="1084" version="ih"/>
-    <revision id="8" commit-time="2013-04-04T17:14:12+00:00" comitter="/users/favila.xml" doc="/docs/113hr1084ih/8.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H7BB6757EBEE947B980BD0A22AF68A468" public-private="public">
+    <revision size="11594" annotations="0" id="8" commit-time="2013-04-04T17:14:12+00:00" committer="favila" doc="113hr1084ih/8.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H7BB6757EBEE947B980BD0A22AF68A468" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1084 IH: To authorize the President to award a gold medal on behalf of Congress to Muhammad Ali in recognition of his contributions to the Nation.</title>
@@ -36,7 +40,8 @@
 		<section id="H13C2D7D08D9B49FD8C12F4F9349AEFA5" section-type="section-one">
       <enum>1.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 			<paragraph id="H9C4C19A8E68D4B03933397BBBC1615AB">
         <enum>(1)</enum>
         <text>Born Cassius
@@ -286,9 +291,12 @@
         <enum>(a)</enum>
         <header>Authorization To
 			 use fund amounts</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be charged against the
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be charged against the
 			 <cato:property name="funds-source">United States Mint Public Enterprise Fund</cato:property>, <cato:funds-and-year amount="indefinite">such amounts as may be necessary</cato:funds-and-year> t<cato:property name="purpose">o
-			 pay for the cost of the medals struck pursuant to <cato:entity-ref entity-type="act" value="113 HR 1084" proposed="true">this Act</cato:entity-ref></cato:property>.</cato:entity></text>
+			 pay for the cost of the medals struck pursuant to <cato:entity-ref entity-type="act" value="113 HR 1084" proposed="true">this Act</cato:entity-ref>
+            </cato:property>.</cato:entity>
+        </text>
 			</subsection>
       <subsection id="H5C82D3C23A8E4ABAA898969223B6DD05">
         <enum>(b)</enum>
@@ -300,4 +308,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

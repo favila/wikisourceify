@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr796ih">
+<doc>
+  <docmeta id="113hr796ih">
     <bill congress="113" type="hr" number="796" version="ih"/>
-    <revision id="4" commit-time="2013-03-25T15:38:26+00:00" comitter="/users/favila.xml" doc="/docs/113hr796ih/4.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" dms-id="HBB9ED6298F954E5184C199F234212908" public-private="public" bill-type="olc"> 
+    <revision size="1331" annotations="0" id="4" commit-time="2013-03-25T15:38:26+00:00" committer="favila" doc="113hr796ih/4.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" dms-id="HBB9ED6298F954E5184C199F234212908" public-private="public" bill-type="olc"> 
 <form> 
 <distribution-code display="yes">I</distribution-code> 
 <congress>113th CONGRESS</congress>
@@ -21,10 +25,13 @@
 <section id="H47E98F6EAAC74D1BAA5D5FE2B7AFF9CE" section-type="section-one">
       <enum>1.</enum>
       <header>Amendment to the Clean Air Act</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Clean Air Act/s:211/ss:o/p:7/sp:D/cl:i">Section 211(o)(7)(D)(i) of the Clean Air Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/7545/o/7/D/i">42 U.S.C. 7545(o)(7)(D)(i)</cato:entity-ref>)</cato:entity> is amended—</text>
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Clean Air Act/s:211/ss:o/p:7/sp:D/cl:i">Section 211(o)(7)(D)(i) of the Clean Air Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/7545/o/7/D/i">42 U.S.C. 7545(o)(7)(D)(i)</cato:entity-ref>)</cato:entity> is amended—</text>
 <paragraph id="HBB9C50983F814DF7A796A7F9EAC1F08D">
         <enum>(1)</enum>
-        <text>by striking <quote>, as determined by the Administrator based on the estimate provided under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Clean Air Act/s:211/ss:o/p:3/sp:A">paragraph (3)(A)</cato:entity-ref></quote>;</text>
+        <text>by striking <quote>, as determined by the Administrator based on the estimate provided under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Clean Air Act/s:211/ss:o/p:3/sp:A">paragraph (3)(A)</cato:entity-ref>
+          </quote>;</text>
       </paragraph>
 <paragraph id="H1F40F390F1EB4E5FA66D00DD57AD9492">
         <enum>(2)</enum>
@@ -36,4 +43,5 @@
       </paragraph>
     </section> 
 </legis-body> 
-</bill></doc>
+</bill>
+</doc>

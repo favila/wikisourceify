@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr842ih">
+<doc>
+  <docmeta id="113hr842ih">
     <bill congress="113" type="hr" number="842" version="ih"/>
-    <revision id="7" commit-time="2013-03-26T21:46:11+00:00" comitter="/users/favila.xml" doc="/docs/113hr842ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HFB29EFCFA4134000A45F969EBF8522C8" public-private="public">
+    <revision size="8873" annotations="0" id="7" commit-time="2013-03-26T21:46:11+00:00" committer="favila" doc="113hr842ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HFB29EFCFA4134000A45F969EBF8522C8" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -37,7 +41,8 @@
     <section id="HB2BA56449D6B4693984D0D006E004994">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 			<paragraph id="HC29E790F377C4BBCABFD3B316C0CF245">
         <enum>(1)</enum>
         <text>Functional
@@ -123,7 +128,9 @@
       <enum>3.</enum>
       <header>Functional
 			 gastrointestinal and motility disorders research enhancement</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Public Health Service Act/t:IV/pt:B">Part B of title IV of the Public Health
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Public Health Service Act/t:IV/pt:B">Part B of title IV of the Public Health
 			 Service Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/284/etseq">42 U.S.C. 284 et seq.</cato:entity-ref>)</cato:entity> is amended by adding at the end the
 			 following:</text>
 			<quoted-block id="H37FCF6E9459E43E19E7823ADD587C776" style="OLC">
@@ -188,7 +195,9 @@
       <enum>4.</enum>
       <header>Promoting public
 			 awareness of functional gastrointestinal and motility disorders</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Public Health Service Act/t:III/pt:B">Part B of title III of the Public Health
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Public Health Service Act/t:III/pt:B">Part B of title III of the Public Health
 			 Service Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/243/etseq">42 U.S.C. 243 et seq.</cato:entity-ref>)</cato:entity> is amended by adding at the end the
 			 following:</text>
 			<quoted-block id="H2DE8E8F30EEB4FCCACE0CDCF819F4162" style="OLC">
@@ -255,4 +264,5 @@
 			</paragraph>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

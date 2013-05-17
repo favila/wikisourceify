@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr263ih">
+<doc>
+  <docmeta id="113hr263ih">
     <bill congress="113" type="hr" number="263" version="ih"/>
-    <revision id="20" commit-time="2013-03-08T18:07:47+00:00" comitter="/users/favila.xml" doc="/docs/113hr263ih/20.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2977C61DB41F45F191F214BB073C4EE9" public-private="public">
+    <revision size="12698" annotations="0" id="20" commit-time="2013-03-08T18:07:47+00:00" committer="favila" doc="113hr263ih/20.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2977C61DB41F45F191F214BB073C4EE9" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -296,7 +300,9 @@
       <paragraph id="H3CE2D5ED37224EEC84C529B73D397A46">
         <enum>(2)</enum>
         <text>by striking
-			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Fish and Wildlife Foundation Establishment Act/s:4/ss:f,g"><cato:entity-ref entity-type="act" value="National Fish and Wildlife Foundation Establishment Act/s:4/ss:f">subsections (f)</cato:entity-ref> and <cato:entity-ref entity-type="act" value="National Fish and Wildlife Foundation Establishment Act/s:4/ss:g">(g)</cato:entity-ref></cato:entity-ref>; and</text>
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Fish and Wildlife Foundation Establishment Act/s:4/ss:f,g">
+            <cato:entity-ref entity-type="act" value="National Fish and Wildlife Foundation Establishment Act/s:4/ss:f">subsections (f)</cato:entity-ref> and <cato:entity-ref entity-type="act" value="National Fish and Wildlife Foundation Establishment Act/s:4/ss:g">(g)</cato:entity-ref>
+          </cato:entity-ref>; and</text>
 			</paragraph>
       <paragraph id="HFC0F57FE668F4FDC8FE0431A86BB7145">
         <enum>(3)</enum>
@@ -513,4 +519,5 @@
 			 <quote>authority</quote>.</text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

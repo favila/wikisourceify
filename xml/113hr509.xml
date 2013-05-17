@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr509ih">
+<doc>
+  <docmeta id="113hr509ih">
     <bill congress="113" type="hr" number="509" version="ih"/>
-    <revision id="10" commit-time="2013-03-13T23:12:15+00:00" comitter="/users/favila.xml" doc="/docs/113hr509ih/10.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H53A6970C81D94D4FAAF4393B25465843" public-private="public">
+    <revision size="37266" annotations="0" id="10" commit-time="2013-03-13T23:12:15+00:00" committer="favila" doc="113hr509ih/10.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H53A6970C81D94D4FAAF4393B25465843" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -44,7 +48,8 @@
 			<subsection id="H61E2CA4E015944A889459462FC3A620D">
         <enum>(a)</enum>
         <header>Findings</header>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 				<paragraph id="HF34BBDE2D41645E39C0C37535BCDC0C0">
           <enum>(1)</enum>
           <text display-inline="yes-display-inline">Disability is a natural part of the human
@@ -206,7 +211,9 @@
         <enum>(a)</enum>
         <header>Assessment for
 			 determining eligibility and vocational rehabilitation needs</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/s:7/p:2">Section 7(2) of the Rehabilitation Act of
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/s:7/p:2">Section 7(2) of the Rehabilitation Act of
 			 1973</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/29/705//2">29 U.S.C. 705(2)</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="H46E93AAC3B974B7F8573A0EB75CEF16F">
           <enum>(1)</enum>
@@ -257,7 +264,9 @@
         <enum>(b)</enum>
         <header>Supported
 			 employment</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/s:7/p:35">Section 7(35) of the Rehabilitation Act of 1973</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/29/705//35">29
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/s:7/p:35">Section 7(35) of the Rehabilitation Act of 1973</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/29/705//35">29
 			 U.S.C. 705(35)</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="HD62FD2D88B7F424FB42B0E2344AEB548">
           <enum>(1)</enum>
@@ -289,7 +298,9 @@
         <enum>(c)</enum>
         <header>Supported
 			 employment services</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/s:7/p:36">Section
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/s:7/p:36">Section
 			 7(36) of the Rehabilitation Act of 1973</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/29/705//36">29 U.S.C. 705(36)</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="HAC826F6731C34E609072B1B084F9B9B4">
           <enum>(1)</enum>
@@ -345,7 +356,9 @@
         <enum>(d)</enum>
         <header>Transition
 			 services</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/s:7/p:37">Section 7(37) of the
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/s:7/p:37">Section 7(37) of the
 			 Rehabilitation Act of 1973</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/29/705//37">29 U.S.C. 705(37)</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="HB589E2D40FD843F6A16152FFA78A7110">
           <enum>(1)</enum>
@@ -429,7 +442,9 @@
         <enum>(e)</enum>
         <header>Other
 			 definitions</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/s:7">Section 7 of the Rehabilitation Act of 1973</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/29/705">29
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/s:7">Section 7 of the Rehabilitation Act of 1973</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/29/705">29
 			 U.S.C. 705</cato:entity-ref>)</cato:entity> is amended by adding at the end the following new
 			 paragraphs:</text>
 				<quoted-block display-inline="no-display-inline" id="H0BD06239123946FCA438B1547B9DB6DD" style="OLC">
@@ -483,7 +498,9 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/s:303/ss:b/p:1">Section 303(b)(1) of the Rehabilitation Act of 1973</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/29/773/b/1">29
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/s:303/ss:b/p:1">Section 303(b)(1) of the Rehabilitation Act of 1973</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/29/773/b/1">29
 			 U.S.C. 773(b)(1)</cato:entity-ref>)</cato:entity> is amended by adding at the end the following new sentence:
 			 <quote>The Commissioner may provide up to 10 grants to or enter into 10
 			 contracts with (or a combination thereof, not to exceed a total of 10 grants
@@ -511,7 +528,9 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/t:III">Title III of the
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/t:III">Title III of the
 			 Rehabilitation Act of 1973</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/29/771/etseq">29 U.S.C. 771 et seq.</cato:entity-ref>)</cato:entity> is amended by adding at the
 			 end the following new section:</text>
 				<quoted-block display-inline="no-display-inline" id="HE8A79A3A8DA649AA8F7DA028E9828261" style="OLC">
@@ -1053,17 +1072,22 @@
                 <enum>(1)</enum>
                 <header>In
 				general</header>
-                <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/s:307" proposed="true">this
+                <text>
+                  <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/s:307" proposed="true">this
 				section</cato:entity-ref> (other than <cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/s:307/ss:g/p:2" proposed="true">subsection (g)(2)</cato:entity-ref>)</cato:property> <cato:funds-and-year amount="50000000" year="2014, 2015, 2016, 2017, 2018">$50,000,000 for each of the fiscal years
-				2014 through 2018</cato:funds-and-year>.</cato:entity></text>
+				2014 through 2018</cato:funds-and-year>.</cato:entity>
+                </text>
 							</paragraph>
               <paragraph id="H6F14465EF10343D08EEB4E15B4D060D0">
                 <enum>(2)</enum>
                 <header>Center</header>
-                <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:property name="purpose">to
-				carry out <cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/s:307/ss:g/p:2" proposed="true">subsection (g)(2)</cato:entity-ref></cato:property> <cato:funds-and-year amount="5000000" year="2014, 2015, 2016, 2017, 2018">$5,000,000 for each of the fiscal years 2014
+                <text display-inline="yes-display-inline">
+                  <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:property name="purpose">to
+				carry out <cato:entity-ref entity-type="act" value="Rehabilitation Act of 1973/s:307/ss:g/p:2" proposed="true">subsection (g)(2)</cato:entity-ref>
+                    </cato:property> <cato:funds-and-year amount="5000000" year="2014, 2015, 2016, 2017, 2018">$5,000,000 for each of the fiscal years 2014
 				through
-				2018</cato:funds-and-year>.</cato:entity></text>
+				2018</cato:funds-and-year>.</cato:entity>
+                </text>
 							</paragraph>
             </subsection>
           </section>
@@ -1088,4 +1112,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

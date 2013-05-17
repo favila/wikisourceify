@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1069ih">
+<doc>
+  <docmeta id="113hr1069ih">
     <bill congress="113" type="hr" number="1069" version="ih"/>
-    <revision id="10" commit-time="2013-04-03T22:35:34+00:00" comitter="/users/favila.xml" doc="/docs/113hr1069ih/10.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEE13B5CC39B54554BCF6A6B6949B11E9" public-private="public">
+    <revision size="6961" annotations="0" id="10" commit-time="2013-04-03T22:35:34+00:00" committer="favila" doc="113hr1069ih/10.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HEE13B5CC39B54554BCF6A6B6949B11E9" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1069 IH: TANF Substance Abuse Prevention Act</title>
@@ -92,7 +96,9 @@
         <header>Requirement that
 			 applicants and individuals receiving assistance be screened, and if necessary
 			 tested, for illegal drug use</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:408/ss:a">Section 408(a) of the Social
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:408/ss:a">Section 408(a) of the Social
 			 Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/608">42 U.S.C. 608(a)</external-xref>)</cato:entity> is amended by adding at the end the
 			 following:</text>
 				<quoted-block act-name="" id="H399D4E776CEA4DA095233BC286B40A9F" style="OLC">
@@ -149,7 +155,8 @@
               <header>Illegal drug
 				defined</header>
               <text>In this paragraph, the term <term>illegal drug</term>
-				means a controlled substance as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Controlled Substances Act/s:102">section 102 of the Controlled
+				means a controlled substance as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Controlled Substances Act/s:102">section 102 of the Controlled
 				Substances Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/21/802">21 U.S.C. 802</external-xref>)</cato:entity>.</text>
 						</subparagraph>
             <subparagraph id="HA6120EC8D9024668A44E47068C96B403">
@@ -201,4 +208,5 @@
       </subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

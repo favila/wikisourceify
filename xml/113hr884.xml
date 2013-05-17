@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr884ih">
+<doc>
+  <docmeta id="113hr884ih">
     <bill congress="113" type="hr" number="884" version="ih"/>
-    <revision id="6" commit-time="2013-03-27T22:31:02+00:00" comitter="/users/favila.xml" doc="/docs/113hr884ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H632C30AB6692400AB45FB1C7FB20404D" public-private="public">
+    <revision size="3598" annotations="0" id="6" commit-time="2013-03-27T22:31:02+00:00" committer="favila" doc="113hr884ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H632C30AB6692400AB45FB1C7FB20404D" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -43,7 +47,9 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Ethics in Government Act of 1978/s:102/ss:a">Section 102(a) of the
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Ethics in Government Act of 1978/s:102/ss:a">Section 102(a) of the
 			 Ethics in Government Act of 1978</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc-appendix/5">5 U.S.C. App.</cato:entity-ref>)</cato:entity> is amended by adding at the
 			 end the following:</text>
 				<quoted-block display-inline="no-display-inline" id="HE9692BCE09D14813B3036864A387AC1F" style="OLC">
@@ -71,9 +77,15 @@
         <enum>(b)</enum>
         <header>Inclusion in
 			 report</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Ethics in Government Act of 1978/s:102/ss:b/p:1/sp:A">Section 102(b)(1)(A) of the Ethics in Government Act of
-			 1978</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc-appendix/5">5 U.S.C. App.</cato:entity-ref>)</cato:entity> is amended by striking <quote><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Ethics in Government Act of 1978/s:102/ss:b/p:1">paragraph (1)</cato:entity-ref></quote> and
-			 inserting <quote><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Ethics in Government Act of 1978/s:102/ss:b/p:1">paragraphs (1)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Ethics in Government Act of 1978/s:102/ss:b/p:9">(9)</cato:entity-ref></quote>.</text>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Ethics in Government Act of 1978/s:102/ss:b/p:1/sp:A">Section 102(b)(1)(A) of the Ethics in Government Act of
+			 1978</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc-appendix/5">5 U.S.C. App.</cato:entity-ref>)</cato:entity> is amended by striking <quote>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Ethics in Government Act of 1978/s:102/ss:b/p:1">paragraph (1)</cato:entity-ref>
+          </quote> and
+			 inserting <quote>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Ethics in Government Act of 1978/s:102/ss:b/p:1">paragraphs (1)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Ethics in Government Act of 1978/s:102/ss:b/p:9">(9)</cato:entity-ref>
+          </quote>.</text>
 			</subsection>
     </section>
     <section id="H781E55A1576C4C9AB614FA153EAEB0E9">
@@ -130,4 +142,5 @@
 			 in, or Delegate or Resident Commissioner to, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>.</text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

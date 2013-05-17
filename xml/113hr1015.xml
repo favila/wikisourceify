@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1015ih">
+<doc>
+  <docmeta id="113hr1015ih">
     <bill congress="113" type="hr" number="1015" version="ih"/>
-    <revision id="10" commit-time="2013-04-02T19:24:39+00:00" comitter="/users/favila.xml" doc="/docs/113hr1015ih/10.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HDC2BCDA6117F46D2BC70250B76931D5E" public-private="public">
+    <revision size="7407" annotations="0" id="10" commit-time="2013-04-02T19:24:39+00:00" committer="favila" doc="113hr1015ih/10.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HDC2BCDA6117F46D2BC70250B76931D5E" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -38,7 +42,8 @@
     <section id="H93EE88508B7A4F108BDA9B5A713A0015">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> makes the following
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> makes the following
 			 findings:</text>
 			<paragraph id="HBBD769792A3246B2B2F9D5EAF98A6EAA">
         <enum>(1)</enum>
@@ -206,7 +211,9 @@
         <enum>(a)</enum>
         <header>In
 			 General</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:226/ss:h">Section 226(h) of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/426/h">42 U.S.C.
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:226/ss:h">Section 226(h) of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/426/h">42 U.S.C.
 			 426(h)</cato:entity-ref>)</cato:entity> is amended, in the matter preceding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:226/ss:h/p:1">paragraph (1)</cato:entity-ref>, by inserting
 			 <quote>or Huntington’s Disease (HD)</quote> after <quote>amyotrophic lateral
 			 sclerosis (ALS)</quote>.</text>
@@ -222,4 +229,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

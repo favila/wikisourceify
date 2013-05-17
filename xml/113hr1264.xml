@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1264ih">
+<doc>
+  <docmeta id="113hr1264ih">
     <bill congress="113" type="hr" number="1264" version="ih"/>
-    <revision id="5" commit-time="2013-04-05T20:48:14+00:00" comitter="/users/favila.xml" doc="/docs/113hr1264ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" dms-id="HBB56ED28655446A0858E4C4C0BB86791" public-private="public" bill-type="olc"> 
+    <revision size="1329" annotations="0" id="5" commit-time="2013-04-05T20:48:14+00:00" committer="favila" doc="113hr1264ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" dms-id="HBB56ED28655446A0858E4C4C0BB86791" public-private="public" bill-type="olc"> 
 <metadata>
 <dublinCore>
 <title>113 HR 1264 IH: District of Columbia Medicaid Reimbursement Act of 2013</title>
@@ -41,7 +45,11 @@
 <subsection id="H665673138AA74B2196C8941C00957F41">
         <enum>(a)</enum>
         <header>In general</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1905/ss:b/p:3">Section 1905(b)(3) of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1396d"><cato:entity-ref entity-type="uscode" value="usc/42/1396d/b/3">42 U.S.C. 1396d(b)(3)</cato:entity-ref></external-xref>)</cato:entity> is amended by striking <quote>70 percent</quote> and inserting <quote>75 percent</quote>.</text>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1905/ss:b/p:3">Section 1905(b)(3) of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1396d">
+              <cato:entity-ref entity-type="uscode" value="usc/42/1396d/b/3">42 U.S.C. 1396d(b)(3)</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended by striking <quote>70 percent</quote> and inserting <quote>75 percent</quote>.</text>
       </subsection>
 <subsection id="HD953C32ABDEF49D5BEFB41A48D4C9425">
         <enum>(b)</enum>
@@ -50,4 +58,5 @@
       </subsection>
     </section> 
 </legis-body> 
-</bill></doc>
+</bill>
+</doc>

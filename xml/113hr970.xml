@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr970ih">
+<doc>
+  <docmeta id="113hr970ih">
     <bill congress="113" type="hr" number="970" version="ih"/>
-    <revision id="7" commit-time="2013-04-01T20:07:44+00:00" comitter="/users/favila.xml" doc="/docs/113hr970ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H34B61DA8B14F433EAD614B3C5E48911B" public-private="public">
+    <revision size="3315" annotations="0" id="7" commit-time="2013-04-01T20:07:44+00:00" committer="favila" doc="113hr970ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H34B61DA8B14F433EAD614B3C5E48911B" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -37,7 +41,9 @@
       <header>Prohibition on
 			 States from charging child support recipients for the collection of child
 			 support</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:454/p:6/sp:B/cl:ii">Section 454(6)(B)(ii)
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Social Security Act/s:454/p:6/sp:B/cl:ii">Section 454(6)(B)(ii)
 			 of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/654//6/B/ii">42 U.S.C. 654(6)(B)(ii)</cato:entity-ref>)</cato:entity> is amended—</text>
 			<paragraph id="H867E3BE60FE24746950DFE747916DD35">
         <enum>(1)</enum>
@@ -56,7 +62,9 @@
       <enum>3.</enum>
       <header>Conforming
 			 amendments</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:457/ss:a/p:4">Section 457(a)(4)
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Social Security Act/s:457/ss:a/p:4">Section 457(a)(4)
 			 of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/657/a/4">42 U.S.C. 657(a)(4)</cato:entity-ref>)</cato:entity> is amended—</text>
 			<paragraph id="H62ABB945F0FA4BDEB41EB51543CDE962">
         <enum>(1)</enum>
@@ -67,7 +75,8 @@
         <enum>(2)</enum>
         <text>by striking
 			 <quote>that remains after withholding any fee pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:454/p:6/sp:B/cl:ii">section
-			 454(6)(B)(ii)</cato:entity-ref></quote>.</text>
+			 454(6)(B)(ii)</cato:entity-ref>
+          </quote>.</text>
 			</paragraph>
     </section>
     <section id="H9B40F5B072604B3A8DAB056F062561D8">
@@ -132,4 +141,5 @@
       </subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

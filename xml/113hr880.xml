@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr880ih">
+<doc>
+  <docmeta id="113hr880ih">
     <bill congress="113" type="hr" number="880" version="ih"/>
-    <revision id="8" commit-time="2013-03-27T21:38:24+00:00" comitter="/users/favila.xml" doc="/docs/113hr880ih/8.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HAC35949AE6FE4EE8986B18D37EFEB414" public-private="public">
+    <revision size="17670" annotations="0" id="8" commit-time="2013-03-27T21:38:24+00:00" committer="favila" doc="113hr880ih/8.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HAC35949AE6FE4EE8986B18D37EFEB414" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -57,7 +61,8 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:36">Chapter 36 of the Internal Revenue Code of 1986</cato:entity-ref> is
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:36">Chapter 36 of the Internal Revenue Code of 1986</cato:entity-ref> is
 			 amended by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:36/sch:B">subchapter B</cato:entity-ref> the following new subchapter:</text>
 				<quoted-block display-inline="no-display-inline" id="HB6DD0A72565F4E199C2B9BD90E15BAF8" style="OLC">
 					<subchapter id="H58CD976E77304C2C8CFDEEC50A75BC0A">
@@ -483,7 +488,8 @@
           <enum>(1)</enum>
           <header>In
 			 general</header>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:A/pt:IV/spt:C">Subpart C of part IV of subchapter A of chapter 1 of such
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:A/pt:IV/spt:C">Subpart C of part IV of subchapter A of chapter 1 of such
 			 Code</cato:entity-ref> is amended by inserting after section 36B the following new
 			 section:</text>
 					<quoted-block display-inline="no-display-inline" id="H8F5C63D266CD409989239531A4FC3F7C" style="OLC">
@@ -550,7 +556,8 @@
 			 amendments</header>
 					<subparagraph id="HFCB9E8BBE69A4ADB979ECDF19FF567A0">
             <enum>(A)</enum>
-            <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/1324/b/2">Section 1324(b)(2) of title 31, United
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/1324/b/2">Section 1324(b)(2) of title 31, United
 			 States Code</cato:entity-ref>, is amended by inserting <quote>, 36C</quote> after
 			 <quote>36B</quote>.</text>
 					</subparagraph>
@@ -576,7 +583,8 @@
         <header>Information
 			 reporting with respect to controlled foreign
 			 corporations</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6038/ss:a/p:1/sp:B">Subparagraph (B) of section 6038(a)(1)</cato:entity-ref> is amended by
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6038/ss:a/p:1/sp:B">Subparagraph (B) of section 6038(a)(1)</cato:entity-ref> is amended by
 			 inserting <quote>and transactions which are covered transactions for purposes
 			 of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:4475">section 4475</cato:entity-ref> by reason of the application of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:4475/ss:i/p:1">section 4475(i)(1)</cato:entity-ref> to such
 			 corporation</quote> before the semicolon at the end.</text>
@@ -605,4 +613,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

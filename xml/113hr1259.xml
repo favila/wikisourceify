@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1259ih">
+<doc>
+  <docmeta id="113hr1259ih">
     <bill congress="113" type="hr" number="1259" version="ih"/>
-    <revision id="6" commit-time="2013-04-05T20:28:05+00:00" comitter="/users/favila.xml" doc="/docs/113hr1259ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8623CF355FF94F5FBEACCC797BFF4EBD" public-private="public">
+    <revision size="16591" annotations="0" id="6" commit-time="2013-04-05T20:28:05+00:00" committer="favila" doc="113hr1259ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8623CF355FF94F5FBEACCC797BFF4EBD" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1259 IH: Coltsville National Historical Park Act</title>
@@ -221,12 +225,14 @@
 			 applicable to units of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="National Park System" entity-parent-id="1443">National Park System</cato:entity-ref>, including—</text>
 					<subparagraph id="H53CF4E9146C14A3398F819B9ED18AD26">
             <enum>(A)</enum>
-            <text>the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="National Park Service Organic Act">National Park
+            <text>the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="National Park Service Organic Act">National Park
 			 Service Organic Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/16/1">16 U.S.C. 1 et seq.</external-xref>)</cato:entity>; and</text>
 					</subparagraph>
           <subparagraph id="H25953B3C27554A88AD186AA4B1911580">
             <enum>(B)</enum>
-            <text>the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Historic Sites Act of 1935" official-title="true">Act of August
+            <text>the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Historic Sites Act of 1935" official-title="true">Act of August
 			 21, 1935</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/16/461">16 U.S.C. 461 et seq.</external-xref>)</cato:entity>.</text>
 					</subparagraph>
         </paragraph>
@@ -372,9 +378,14 @@
 			 accordance with—</text>
 				<paragraph id="HD9F4DB1E7C7E4BD3B8EACF4999070E81">
           <enum>(1)</enum>
-          <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="public-law" value="public-law/91/383/s:12/ss:b">section 12(b) of
-			 <external-xref legal-doc="public-law" parsable-cite="pl/91/383">Public Law 91–383</external-xref></cato:entity-ref> (commonly known as the <cato:entity-ref entity-type="act" value="National Park Service General Authorities Act">National Park Service General
-			 Authorities Act</cato:entity-ref>) (<external-xref legal-doc="usc" parsable-cite="usc/16/1a"><cato:entity-ref entity-type="uscode" value="usc/16/1a–7/b">16 U.S.C. 1a–7(b)</cato:entity-ref></external-xref>)</cato:entity>; and</text>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="public-law" value="public-law/91/383/s:12/ss:b">section 12(b) of
+			 <external-xref legal-doc="public-law" parsable-cite="pl/91/383">Public Law 91–383</external-xref>
+              </cato:entity-ref> (commonly known as the <cato:entity-ref entity-type="act" value="National Park Service General Authorities Act">National Park Service General
+			 Authorities Act</cato:entity-ref>) (<external-xref legal-doc="usc" parsable-cite="usc/16/1a">
+                <cato:entity-ref entity-type="uscode" value="usc/16/1a–7/b">16 U.S.C. 1a–7(b)</cato:entity-ref>
+              </external-xref>)</cato:entity>; and</text>
 				</paragraph>
         <paragraph id="H01D52ED65EA14D9491859A5D1DEA944C">
           <enum>(2)</enum>
@@ -636,7 +647,9 @@
         <enum>(i)</enum>
         <header>FACA
 			 nonapplicability</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Federal Advisory Committee Act/s:14/ss:b">Section 14(b) of the Federal Advisory Committee
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Federal Advisory Committee Act/s:14/ss:b">Section 14(b) of the Federal Advisory Committee
 			 Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc-appendix/5">5 U.S.C. App.</cato:entity-ref>)</cato:entity> shall not apply to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Coltsville National Historical Park Advisory Commission" proposed="true">Commission</cato:entity-ref>.</text>
 			</subsection>
       <subsection id="HDA3575BB3FA442DB85239A3CEED0F895">
@@ -664,4 +677,5 @@
       </subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

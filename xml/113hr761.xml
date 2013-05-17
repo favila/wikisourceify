@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr761ih">
+<doc>
+  <docmeta id="113hr761ih">
     <bill congress="113" type="hr" number="761" version="ih"/>
-    <revision id="6" commit-time="2013-03-24T17:13:18+00:00" comitter="/users/favila.xml" doc="/docs/113hr761ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC500A2BE3C7F4A03B7402A721A3E8300" public-private="public">
+    <revision size="15469" annotations="0" id="6" commit-time="2013-03-24T17:13:18+00:00" committer="favila" doc="113hr761ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC500A2BE3C7F4A03B7402A721A3E8300" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -66,7 +70,8 @@
     <section id="H7675D0ACA39245449EFC4B56B1F592AC">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 			<paragraph id="H6B9550CD1A154576987E5F9B5ADD5FD2">
         <enum>(1)</enum>
         <text>The
@@ -459,7 +464,8 @@
         <enum>206.</enum>
         <header>Limitation on
 			 attorneys’ fees</header>
-        <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/504">Sections 504
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/504">Sections 504
 			 of title 5, United States Code</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/28/2412">2412 of title 28, United States Code</cato:entity-ref>
 			 (together commonly called the Equal Access to Justice Act) do not apply to a
 			 covered civil action, nor shall any party in such a covered civil action
@@ -468,4 +474,5 @@
 			</section>
     </title>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

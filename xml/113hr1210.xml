@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1210ih">
+<doc>
+  <docmeta id="113hr1210ih">
     <bill congress="113" type="hr" number="1210" version="ih"/>
-    <revision id="7" commit-time="2013-04-04T23:27:25+00:00" comitter="/users/favila.xml" doc="/docs/113hr1210ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6368605B391344149539CEED7D47FE26" public-private="public">
+    <revision size="3450" annotations="0" id="7" commit-time="2013-04-04T23:27:25+00:00" committer="favila" doc="113hr1210ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6368605B391344149539CEED7D47FE26" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1210 IH: Mass Transit Intelligence Prioritization Act</title>
@@ -47,7 +51,9 @@
       <enum>2.</enum>
       <header>Mass transit
 			 intelligence prioritization</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Homeland Security Act of 2002/s:210A">Section 210A of the Homeland Security Act of
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Homeland Security Act of 2002/s:210A">Section 210A of the Homeland Security Act of
 			 2002</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/6/124h">6 U.S.C. 124h</external-xref>)</cato:entity> is amended—</text>
 			<paragraph id="HD22F47B816AA455B876FA0EFD1ED21A2">
         <enum>(1)</enum>
@@ -58,8 +64,12 @@
       <paragraph id="H6389BCAEEFA34726A5BC4D23E69EC3F8">
         <enum>(2)</enum>
         <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:210A/ss:l">subsection (l)</cato:entity-ref>,
-			 as so redesignated, by striking <quote><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:210A/ss:i">subsection (i)</cato:entity-ref></quote> and inserting
-			 <quote><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:210A/ss:j">subsection (j)</cato:entity-ref></quote>; and</text>
+			 as so redesignated, by striking <quote>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:210A/ss:i">subsection (i)</cato:entity-ref>
+          </quote> and inserting
+			 <quote>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:210A/ss:j">subsection (j)</cato:entity-ref>
+          </quote>; and</text>
 			</paragraph>
       <paragraph id="H9611F5DAE80546B8AD69C8B69056AE95">
         <enum>(3)</enum>
@@ -120,4 +130,5 @@
 			</paragraph>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

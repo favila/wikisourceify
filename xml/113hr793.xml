@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr793ih">
+<doc>
+  <docmeta id="113hr793ih">
     <bill congress="113" type="hr" number="793" version="ih"/>
-    <revision id="5" commit-time="2013-03-25T15:31:55+00:00" comitter="/users/favila.xml" doc="/docs/113hr793ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H555B86917C4B454CBEFDDE31C69C941E" public-private="public">
+    <revision size="9914" annotations="0" id="5" commit-time="2013-03-25T15:31:55+00:00" committer="favila" doc="113hr793ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H555B86917C4B454CBEFDDE31C69C941E" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -56,7 +60,8 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:31">Chapter 31 of the
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:31">Chapter 31 of the
 			 Internal Revenue Code of 1986</cato:entity-ref> is amended by adding at the end the following new
 			 subchapter:</text>
 				<quoted-block display-inline="no-display-inline" id="H03D6CDECCDDD4562BD8A935F8B054B13" style="OLC">
@@ -135,7 +140,8 @@
                       <enum>(ii)</enum>
                       <header>Exemption for
 				use in further manufacture</header>
-                      <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:4056/ss:d/p:1" proposed="true">Paragraph (1)</cato:entity-ref> shall not apply to use
+                      <text>
+                        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:4056/ss:d/p:1" proposed="true">Paragraph (1)</cato:entity-ref> shall not apply to use
 				of an article as material in the manufacture or production of, or as a
 				component part of, another article to be manufactured or produced by
 				him.</text>
@@ -176,7 +182,8 @@
         <enum>(b)</enum>
         <header>Clarification
 			 relating to Indian tribal governments</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7871/ss:a/p:2/sp:A">Subparagraph (A) of section
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7871/ss:a/p:2/sp:A">Subparagraph (A) of section
 			 7871(a)(2) of such Code</cato:entity-ref> is amended by striking <quote>relating to tax on
 			 special fuels</quote> and inserting <quote>relating to retail excise
 			 taxes</quote>.</text>
@@ -337,9 +344,12 @@
           <enum>(1)</enum>
           <header>Authorization of
 			 appropriations for fiscal year 2013</header>
-          <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be appropriated
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be appropriated
 			 <cato:funds-and-year amount="1000000" year="2013">$1,000,000 for fiscal year 2013</cato:funds-and-year>, in addition to amounts made available under
-			 <cato:entity-ref entity-type="act" value="Firearm Safety and Buyback Grant Act of 2013/s:3/ss:e/p:2" proposed="true">paragraph (2)</cato:entity-ref> for such fiscal year, <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Firearm Safety and Buyback Grant Act of 2013/s:3" proposed="true">this section</cato:entity-ref></cato:property>.</cato:entity></text>
+			 <cato:entity-ref entity-type="act" value="Firearm Safety and Buyback Grant Act of 2013/s:3/ss:e/p:2" proposed="true">paragraph (2)</cato:entity-ref> for such fiscal year, <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Firearm Safety and Buyback Grant Act of 2013/s:3" proposed="true">this section</cato:entity-ref>
+              </cato:property>.</cato:entity>
+          </text>
 				</paragraph>
         <paragraph id="HCB004AC9EC37482CAA9123DE506C388B">
           <enum>(2)</enum>
@@ -354,4 +364,5 @@
       </subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

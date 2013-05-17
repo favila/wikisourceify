@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1243ih">
+<doc>
+  <docmeta id="113hr1243ih">
     <bill congress="113" type="hr" number="1243" version="ih"/>
-    <revision id="5" commit-time="2013-04-05T16:43:27+00:00" comitter="/users/favila.xml" doc="/docs/113hr1243ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H7C888002AE0C4F66806A740C3EF7F0F6" public-private="public">
+    <revision size="14490" annotations="0" id="5" commit-time="2013-04-05T16:43:27+00:00" committer="favila" doc="113hr1243ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H7C888002AE0C4F66806A740C3EF7F0F6" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1243 IH: Innovation Inspiration School Grant Program Act</title>
@@ -46,7 +50,8 @@
     <section id="HEA97D525B69C4C57BD01A55404023E68" section-type="subsequent-section">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> makes the following
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> makes the following
 			 findings:</text>
 			<paragraph id="HD29FEC4C108E43449B6802093F99FF02">
         <enum>(1)</enum>
@@ -129,7 +134,8 @@
         <header>Local
 			 educational agency</header>
         <text>The term <term>local educational agency</term>
-			 has the meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Elementary and Secondary Education Act of 1965/s:9101">section 9101 of the Elementary and Secondary
+			 has the meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Elementary and Secondary Education Act of 1965/s:9101">section 9101 of the Elementary and Secondary
 			 Education Act of 1965</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801</external-xref>)</cato:entity>.</text>
 			</paragraph>
       <paragraph id="HA01F842E379E4DC4AA4DA49E5E844D91">
@@ -137,7 +143,8 @@
         <header>Low-income
 			 student</header>
         <text>The term <term>low-income student</term> means a student
-			 who is eligible for free or reduced price lunch under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Richard B. Russell National School Lunch Act">Richard B. Russell
+			 who is eligible for free or reduced price lunch under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Richard B. Russell National School Lunch Act">Richard B. Russell
 			 National School Lunch Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1751">42 U.S.C. 1751 et seq.</external-xref>)</cato:entity>.</text>
 			</paragraph>
       <paragraph commented="no" id="H492B696347B74621AB3651B0C09823E4">
@@ -145,7 +152,8 @@
         <header>Secondary
 			 school</header>
         <text>The term <term>secondary school</term> has the meaning
-			 given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Elementary and Secondary Education Act of 1965/s:9101">section 9101 of the Elementary and Secondary Education Act of
+			 given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Elementary and Secondary Education Act of 1965/s:9101">section 9101 of the Elementary and Secondary Education Act of
 			 1965</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801</external-xref>)</cato:entity>.</text>
 			</paragraph>
       <paragraph id="H316EB4741FFE4C0BAD9BE92BD20455A0">
@@ -520,9 +528,12 @@
           <enum>(1)</enum>
           <header>In
 			 general</header>
-          <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Innovation Inspiration School Grant Program Act" proposed="true">this
-			 Act</cato:entity-ref></cato:property> <cato:funds-and-year amount="indefinite" year="2014, 2015, 2016, 2017, 2018">such sums as may be necessary for each of the fiscal years 2014 through
-			 2018</cato:funds-and-year>.</cato:entity></text>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Innovation Inspiration School Grant Program Act" proposed="true">this
+			 Act</cato:entity-ref>
+              </cato:property> <cato:funds-and-year amount="indefinite" year="2014, 2015, 2016, 2017, 2018">such sums as may be necessary for each of the fiscal years 2014 through
+			 2018</cato:funds-and-year>.</cato:entity>
+          </text>
 				</paragraph>
         <paragraph id="H9ED685447FDD4C91B61A2EA6CEE3BA8C">
           <enum>(2)</enum>
@@ -534,4 +545,5 @@
       </subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

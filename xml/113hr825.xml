@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr825ih">
+<doc>
+  <docmeta id="113hr825ih">
     <bill congress="113" type="hr" number="825" version="ih"/>
-    <revision id="5" commit-time="2013-03-26T18:26:32+00:00" comitter="/users/favila.xml" doc="/docs/113hr825ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H3CF1148C9A674A57AE179CE971F3E671" public-private="public">
+    <revision size="1480" annotations="0" id="5" commit-time="2013-03-26T18:26:32+00:00" committer="favila" doc="113hr825ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H3CF1148C9A674A57AE179CE971F3E671" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -47,7 +51,9 @@
       <enum>2.</enum>
       <header>Exclusion from
 			 income</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="United States Housing Act of 1937/s:3/ss:b/p:4">Paragraph (4) of
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="United States Housing Act of 1937/s:3/ss:b/p:4">Paragraph (4) of
 			 section 3(b) of the United States Housing Act of 1937</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1437a/b/4">42 U.S.C. 1437a(b)(4)</cato:entity-ref>)</cato:entity>
 			 is amended—</text>
 			<paragraph id="H82D09040E1E0489E8F9612DBE043C551">
@@ -67,8 +73,10 @@
         <text>by inserting after
 			 <quote>prospective monthly amounts</quote> the following: <quote>, and any
 			 expenses related to aid and attendance as detailed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/38/1521">section 1521 of title
-			 38, United States Code</cato:entity-ref></quote>.</text>
+			 38, United States Code</cato:entity-ref>
+          </quote>.</text>
 			</paragraph>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

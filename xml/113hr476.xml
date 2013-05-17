@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr476ih">
+<doc>
+  <docmeta id="113hr476ih">
     <bill congress="113" type="hr" number="476" version="ih"/>
-    <revision id="5" commit-time="2013-03-12T22:26:47+00:00" comitter="/users/favila.xml" doc="/docs/113hr476ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2B807B59722147AB96C8FFA07ECA2E78" public-private="public">
+    <revision size="2507" annotations="0" id="5" commit-time="2013-03-12T22:26:47+00:00" committer="favila" doc="113hr476ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2B807B59722147AB96C8FFA07ECA2E78" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -46,7 +50,8 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/1105/a">Section 1105(a) of
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/1105/a">Section 1105(a) of
 			 title 31, United States Code</cato:entity-ref>, is amended—</text>
 				<paragraph id="H129350C842C8470BAB533E4385E97668">
           <enum>(1)</enum>
@@ -87,7 +92,9 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Congressional Budget Act of 1974/s:202/ss:e/p:1/sp:A">Section 202(e)(1)(A)
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Congressional Budget Act of 1974/s:202/ss:e/p:1/sp:A">Section 202(e)(1)(A)
 			 of the Congressional Budget Act of 1974</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/2/602/e/1/A">2 U.S.C. 602(e)(1)(A)</cato:entity-ref>)</cato:entity> is amended by
 			 inserting <quote>prepared using both cash basis accounting and generally
 			 accepted accounting principles</quote> after <quote>(including related
@@ -103,4 +110,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

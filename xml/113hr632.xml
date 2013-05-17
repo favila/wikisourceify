@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr632ih">
+<doc>
+  <docmeta id="113hr632ih">
     <bill congress="113" type="hr" number="632" version="ih"/>
-    <revision id="8" commit-time="2013-04-03T21:19:44+00:00" comitter="/users/favila.xml" doc="/docs/113hr632ih/8.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H3FE706DFAFF745AAAE78B0C34504F6D9" public-private="public">
+    <revision size="7559" annotations="0" id="8" commit-time="2013-04-03T21:19:44+00:00" committer="favila" doc="113hr632ih/8.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H3FE706DFAFF745AAAE78B0C34504F6D9" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -228,9 +232,13 @@
       <enum>4.</enum>
       <header>Authorization of
 			 appropriations</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are
-			 authorized to be appropriated <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Voluntary Protection Program Act" proposed="true">this Act</cato:entity-ref></cato:property> <cato:funds-and-year amount="indefinite">such sums as may be
-			 necessary</cato:funds-and-year>.</cato:entity></text>
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are
+			 authorized to be appropriated <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Voluntary Protection Program Act" proposed="true">this Act</cato:entity-ref>
+          </cato:property> <cato:funds-and-year amount="indefinite">such sums as may be
+			 necessary</cato:funds-and-year>.</cato:entity>
+      </text>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

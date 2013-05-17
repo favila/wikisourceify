@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr718ih">
+<doc>
+  <docmeta id="113hr718ih">
     <bill congress="113" type="hr" number="718" version="ih"/>
-    <revision id="5" commit-time="2013-03-21T23:52:14+00:00" comitter="/users/favila.xml" doc="/docs/113hr718ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H54970DE27D6240A1AA338BFA64546496" public-private="public">
+    <revision size="7322" annotations="0" id="5" commit-time="2013-03-21T23:52:14+00:00" committer="favila" doc="113hr718ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H54970DE27D6240A1AA338BFA64546496" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -205,12 +209,16 @@
           <enum>(1)</enum>
           <header>In
 			 general</header>
-          <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be appropriated <cato:funds-and-year amount="110000000" year="2013, 2014, 2015, 2016, 2017">$110,000,000 for
-			 each of fiscal years 2013 through 2017</cato:funds-and-year> <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Abstinence Education Reallocation Act of 2013" proposed="true">this Act</cato:entity-ref></cato:property>. Amounts
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be appropriated <cato:funds-and-year amount="110000000" year="2013, 2014, 2015, 2016, 2017">$110,000,000 for
+			 each of fiscal years 2013 through 2017</cato:funds-and-year> <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Abstinence Education Reallocation Act of 2013" proposed="true">this Act</cato:entity-ref>
+              </cato:property>. Amounts
 			 authorized to be appropriated by the preceding sentence shall be derived
 			 exclusively from amounts in the <cato:property name="funds-source">Prevention and Public Health Fund</cato:property> established
-			 by <cato:entity entity-type="law-citation"><cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:4002">section 4002 of the Patient Protection and Affordable Care Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/300u–11">42 U.S.C.
-			 300u–11</cato:entity-ref>)</cato:entity>.</cato:entity></text>
+			 by <cato:entity entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:4002">section 4002 of the Patient Protection and Affordable Care Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/300u–11">42 U.S.C.
+			 300u–11</cato:entity-ref>)</cato:entity>.</cato:entity>
+          </text>
 				</paragraph>
         <paragraph id="HAFB59D42BE2343F39384683C2DDAFAD5">
           <enum>(2)</enum>
@@ -258,4 +266,5 @@
       </subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

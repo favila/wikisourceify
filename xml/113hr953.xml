@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr953ih">
+<doc>
+  <docmeta id="113hr953ih">
     <bill congress="113" type="hr" number="953" version="ih"/>
-    <revision id="9" commit-time="2013-04-01T16:20:46+00:00" comitter="/users/favila.xml" doc="/docs/113hr953ih/9.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9289D70B9FB84184BB0113B0C511196B" public-private="public">
+    <revision size="6170" annotations="0" id="9" commit-time="2013-04-01T16:20:46+00:00" committer="favila" doc="113hr953ih/9.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9289D70B9FB84184BB0113B0C511196B" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -38,7 +42,9 @@
       <enum>2.</enum>
       <header>Security
 			 training</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Omnibus Crime Control and Safe Streets Act of 1968/t:I/pt:D">Part D of title I of
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Omnibus Crime Control and Safe Streets Act of 1968/t:I/pt:D">Part D of title I of
 			 the Omnibus Crime Control and Safe Streets Act of 1968</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/3741/etseq">42 U.S.C. 3741 et seq.</cato:entity-ref>)</cato:entity>
 			 is amended by adding at the end the following:</text>
 			<quoted-block display-inline="no-display-inline" id="HAA63F63108A14D57A5BB62468C6AE3F9" style="OLC">
@@ -69,13 +75,15 @@
 			 Institute Act of 1984</cato:entity-ref> is amended—</text>
 			<paragraph id="HB170DE00B46F4802BD68A3342EB744A4">
         <enum>(1)</enum>
-        <text display-inline="yes-display-inline">in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="State Justice Institute Act of 1984/s:203/ss:b/p:1">section 203(b)(1)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/10702/b/1">42 U.S.C.
+        <text display-inline="yes-display-inline">in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="State Justice Institute Act of 1984/s:203/ss:b/p:1">section 203(b)(1)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/10702/b/1">42 U.S.C.
 			 10702(b)(1)</cato:entity-ref>)</cato:entity>, in the matter preceding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="State Justice Institute Act of 1984/s:203/ss:b/p:1/sp:A">subparagraph (A)</cato:entity-ref>, by inserting <quote>,
 			 safe,</quote> after <quote>a fair</quote>; and</text>
 			</paragraph>
       <paragraph id="H7B4F8553915F427B8E71F2319F6DFC1B">
         <enum>(2)</enum>
-        <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="State Justice Institute Act of 1984/s:206">section 206</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/10705">42
+        <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="State Justice Institute Act of 1984/s:206">section 206</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/10705">42
 			 U.S.C. 10705</cato:entity-ref>)</cato:entity>—</text>
 				<subparagraph id="H2E4D8C2AB9CD4A54B8B5405A40883D28">
           <enum>(A)</enum>
@@ -146,7 +154,8 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/40/5/III">Subchapter III of
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/40/5/III">Subchapter III of
 			 chapter 5 of title 40, United States Code</cato:entity-ref>, is amended by adding after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/559">section
 			 559</cato:entity-ref> the following:</text>
 				<quoted-block display-inline="no-display-inline" id="H4485981F3F2D4F7DAC566134A0113600" style="USC">
@@ -236,4 +245,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

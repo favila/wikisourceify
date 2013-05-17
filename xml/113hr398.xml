@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr398ih">
+<doc>
+  <docmeta id="113hr398ih">
     <bill congress="113" type="hr" number="398" version="ih"/>
-    <revision id="5" commit-time="2013-03-11T23:34:33+00:00" comitter="/users/favila.xml" doc="/docs/113hr398ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HDB431B0DF7024387AD77B7448795BC69" public-private="public">
+    <revision size="2543" annotations="0" id="5" commit-time="2013-03-11T23:34:33+00:00" committer="favila" doc="113hr398ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HDB431B0DF7024387AD77B7448795BC69" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -57,8 +61,10 @@
               <text>Effective as of the
 				beginning of the first applicable pay period commencing after the date on which
 				is held the next regularly scheduled general election for Federal office
-				following the date of the enactment of the <short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Congressional Halt in Pay Increases and Cut Congressional Pay Act" proposed="true">Congressional Halt in Pay Increases and Cut Congressional
-				Pay Act</cato:entity-ref></short-title>, the annual rate of pay for—</text>
+				following the date of the enactment of the <short-title>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Congressional Halt in Pay Increases and Cut Congressional Pay Act" proposed="true">Congressional Halt in Pay Increases and Cut Congressional
+				Pay Act</cato:entity-ref>
+                </short-title>, the annual rate of pay for—</text>
 							<paragraph id="HBECEA5C3FFC84EECBF16718036093364">
                 <enum>(1)</enum>
                 <text display-inline="yes-display-inline">each Senator, Member of the House of
@@ -90,10 +96,12 @@
         <enum>(b)</enum>
         <header>Effective
 			 date</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Congressional Halt in Pay Increases and Cut Congressional Pay Act/s:2/ss:a" proposed="true">Subsection (a)</cato:entity-ref> shall take effect as of the date on which is
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Congressional Halt in Pay Increases and Cut Congressional Pay Act/s:2/ss:a" proposed="true">Subsection (a)</cato:entity-ref> shall take effect as of the date on which is
 			 held the next regularly scheduled general election for Federal office following
 			 the date of the enactment of this Act.</text>
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

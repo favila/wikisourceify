@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr548ih">
+<doc>
+  <docmeta id="113hr548ih">
     <bill congress="113" type="hr" number="548" version="ih"/>
-    <revision id="10" commit-time="2013-03-20T22:58:50+00:00" comitter="/users/favila.xml" doc="/docs/113hr548ih/10.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB6AF2F88300849D1B11FE0CEA494C08A" public-private="public">
+    <revision size="29481" annotations="0" id="10" commit-time="2013-03-20T22:58:50+00:00" committer="favila" doc="113hr548ih/10.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HB6AF2F88300849D1B11FE0CEA494C08A" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -43,7 +47,8 @@
     <section id="HAC3332E2D5DC4D479CC9D9D68259808A">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 			<paragraph id="H24E506667AB9455EABE75FBE2A2DD862">
         <enum>(1)</enum>
         <text>The United States
@@ -538,8 +543,11 @@
         <enum>(h)</enum>
         <header>Authorization of
 			 appropriations</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:funds-and-year amount="indefinite">such sums
-			 as may be necessary</cato:funds-and-year> <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Border Infrastructure and Jobs Act of 2013/s:3" proposed="true">this section</cato:entity-ref></cato:property>.</cato:entity></text>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:funds-and-year amount="indefinite">such sums
+			 as may be necessary</cato:funds-and-year> <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Border Infrastructure and Jobs Act of 2013/s:3" proposed="true">this section</cato:entity-ref>
+            </cato:property>.</cato:entity>
+        </text>
 			</subsection>
       <subsection id="HB1BB266205BB4146898B816B97500D6E">
         <enum>(i)</enum>
@@ -605,21 +613,29 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated to the
-			 <cato:entity-ref entity-type="federal-body" entity-id="4700">Administrator of the General Services Administration</cato:entity-ref>—</cato:entity></text>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated to the
+			 <cato:entity-ref entity-type="federal-body" entity-id="4700">Administrator of the General Services Administration</cato:entity-ref>—</cato:entity>
+        </text>
 				<paragraph id="H3BDAA4A1363A4EB3B5F9F70FA9934614">
           <enum>(1)</enum>
-          <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp"><cato:funds-and-year amount="200000000" year="2014">$200,000,000 for fiscal 2014</cato:funds-and-year> <cato:property name="purpose">solely for
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+              <cato:funds-and-year amount="200000000" year="2014">$200,000,000 for fiscal 2014</cato:funds-and-year> <cato:property name="purpose">solely for
 			 planning, management, design, alteration, and construction of <cato:entity-ref entity-type="federal-body" entity-id="7014">United States
 			 Customs and Border Protection</cato:entity-ref> owned land border ports of entry along the
-			 international border between the United States and Mexico</cato:property>; and</cato:entity></text>
+			 international border between the United States and Mexico</cato:property>; and</cato:entity>
+          </text>
 				</paragraph>
         <paragraph id="H78BBF56864614E7A88738436ED0E75A1">
           <enum>(2)</enum>
-          <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp"><cato:funds-and-year amount="100000000" year="2014">$100,000,000 for fiscal year 2014</cato:funds-and-year> <cato:property name="purpose">solely
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+              <cato:funds-and-year amount="100000000" year="2014">$100,000,000 for fiscal year 2014</cato:funds-and-year> <cato:property name="purpose">solely
 			 for the installation of renewable energy retrofits at land border ports of
 			 entry along the international border between the United States and
-			 Mexico</cato:property>.</cato:entity></text>
+			 Mexico</cato:property>.</cato:entity>
+          </text>
 				</paragraph>
       </subsection>
       <subsection id="H11E1A7A3B1E24E42BA7FED56A309A4B2">
@@ -644,10 +660,12 @@
       <enum>6.</enum>
       <header>Improving waste
 			 water treatment infrastructure</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated to
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated to
 			 the International Boundary and Water Commission <cato:funds-and-year amount="50000000" year="2014">$50,000,000 for fiscal 2014</cato:funds-and-year>
 			 <cato:property name="purpose">solely for planning, management, design, alteration, and construction of the
-			 International Outfall Interceptor (IOI) and the Nogales Wash Channel</cato:property>.</cato:entity></text>
+			 International Outfall Interceptor (IOI) and the Nogales Wash Channel</cato:property>.</cato:entity>
+      </text>
 		</section>
     <section id="H97DC01E8A1D64D059E5FAE110F0D718A">
       <enum>7.</enum>
@@ -657,8 +675,10 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated to the <cato:entity-ref entity-type="federal-body" entity-id="6925">Federal
-			 Highway Administration</cato:entity-ref> <cato:funds-and-year amount="100000000" year="2014">$100,000,000 for fiscal 2014</cato:funds-and-year> for—</cato:entity></text>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated to the <cato:entity-ref entity-type="federal-body" entity-id="6925">Federal
+			 Highway Administration</cato:entity-ref> <cato:funds-and-year amount="100000000" year="2014">$100,000,000 for fiscal 2014</cato:funds-and-year> for—</cato:entity>
+        </text>
 				<paragraph id="HA022E891C9BF455F883E772AC64A4367">
           <enum>(1)</enum>
           <text>improvements to
@@ -991,4 +1011,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

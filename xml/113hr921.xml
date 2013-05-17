@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr921ih">
+<doc>
+  <docmeta id="113hr921ih">
     <bill congress="113" type="hr" number="921" version="ih"/>
-    <revision id="5" commit-time="2013-03-29T16:33:58+00:00" comitter="/users/favila.xml" doc="/docs/113hr921ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H00F4DF402F51463D9C3A20B0D7C2917E" public-private="public">
+    <revision size="2462" annotations="0" id="5" commit-time="2013-03-29T16:33:58+00:00" committer="favila" doc="113hr921ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H00F4DF402F51463D9C3A20B0D7C2917E" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -38,7 +42,9 @@
       <enum>2.</enum>
       <header>Program for
 			 provision of chiropractic care and services to veterans</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Department of Veterans Affairs Health Care Programs Enhancement Act of 2001/s:204/ss:c">Section 204(c) of the Department of Veterans
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Department of Veterans Affairs Health Care Programs Enhancement Act of 2001/s:204/ss:c">Section 204(c) of the Department of Veterans
 			 Affairs Health Care Programs Enhancement Act of 2001</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/38/1710/note">38 U.S.C. 1710 note</cato:entity-ref>)</cato:entity> is
 			 amended—</text>
 			<paragraph id="H6947E52ECFEB483086C9F2EAA1BDCD1B">
@@ -70,7 +76,8 @@
         <enum>(a)</enum>
         <header>Medical
 			 services</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/38/1701//6">Paragraph (6) of section 1701 of title 38, United States
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/38/1701//6">Paragraph (6) of section 1701 of title 38, United States
 			 Code</cato:entity-ref>, is amended by adding at the end the following new subparagraph:</text>
 				<quoted-block display-inline="no-display-inline" id="H2FF4D81C65D74B03AF9513067699FEF2" style="USC">
 					<subparagraph id="HFCAB8D93530A4BC9B4023E184E3144E3" indent="up1">
@@ -85,14 +92,16 @@
         <enum>(b)</enum>
         <header>Rehabilitative
 			 services</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/38/1701//8">Paragraph (8)</cato:entity-ref> of such section is amended by inserting
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/38/1701//8">Paragraph (8)</cato:entity-ref> of such section is amended by inserting
 			 <quote>chiropractic,</quote> after <quote>counseling,</quote>.</text>
 			</subsection>
       <subsection id="HBC997691576D4383873E98C862EB9379">
         <enum>(c)</enum>
         <header>Preventive
 			 health services</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/38/1701//9">Paragraph (9)</cato:entity-ref> of such section is amended—</text>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/38/1701//9">Paragraph (9)</cato:entity-ref> of such section is amended—</text>
 				<paragraph id="HCC3C0FD8A99F45DEBF357695A7F41F9E">
           <enum>(1)</enum>
           <text>by redesignating
@@ -116,4 +125,5 @@
       </subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

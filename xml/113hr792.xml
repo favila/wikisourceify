@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr792ih">
+<doc>
+  <docmeta id="113hr792ih">
     <bill congress="113" type="hr" number="792" version="ih"/>
-    <revision id="7" commit-time="2013-03-25T04:28:08+00:00" comitter="/users/favila.xml" doc="/docs/113hr792ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HD301A47D80A94A48A140DA394682D80A" public-private="public">
+    <revision size="4113" annotations="0" id="7" commit-time="2013-03-25T04:28:08+00:00" committer="favila" doc="113hr792ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HD301A47D80A94A48A140DA394682D80A" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -52,7 +56,9 @@
         <enum>(a)</enum>
         <header>Exception for
 			 traditional large and premium cigars</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:901/ss:c">Section 901(c) of the Federal Food, Drug,
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:901/ss:c">Section 901(c) of the Federal Food, Drug,
 			 and Cosmetic Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/21/387a/c">21 U.S.C. 387a(c)</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="H376BFE50746A434491B8E5B49F4AF011">
           <enum>(1)</enum>
@@ -138,13 +144,16 @@
         <enum>(b)</enum>
         <header>Conforming
 			 amendments</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:919/ss:b">Section 919(b) of
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:919/ss:b">Section 919(b) of
 			 the Federal Food, Drug, and Cosmetic Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/21/387s/b">21 U.S.C. 387s(b)</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="H3E400360827E40DB892FB890A1ECC6F8">
           <enum>(1)</enum>
           <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:919/ss:b/p:2/sp:B/cl:II">paragraph
 			 (2)(B)(II)</cato:entity-ref>, by inserting <quote>, but excluding traditional large and premium
-			 cigars (as such term is defined under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:901/ss:c/p:3">section 901(c)(3)</cato:entity-ref></quote> before the
+			 cigars (as such term is defined under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:901/ss:c/p:3">section 901(c)(3)</cato:entity-ref>
+            </quote> before the
 			 period; and</text>
 				</paragraph>
         <paragraph id="H46BB960EA3E5465EA825D8C7BDA42CF0">
@@ -156,4 +165,5 @@
       </subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

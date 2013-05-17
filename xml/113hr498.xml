@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr498ih">
+<doc>
+  <docmeta id="113hr498ih">
     <bill congress="113" type="hr" number="498" version="ih"/>
-    <revision id="12" commit-time="2013-03-13T22:20:41+00:00" comitter="/users/favila.xml" doc="/docs/113hr498ih/12.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H69F2E6E96A244648A38ECC81CB636C70" public-private="public">
+    <revision size="45394" annotations="0" id="12" commit-time="2013-03-13T22:20:41+00:00" committer="favila" doc="113hr498ih/12.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H69F2E6E96A244648A38ECC81CB636C70" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -38,7 +42,9 @@
       <enum>2.</enum>
       <header>Amendment to the
 			 Public Health Service Act</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Public Health Service Act/s:519B">Section 519B of the Public Health Service
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Public Health Service Act/s:519B">Section 519B of the Public Health Service
 			 Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/290bb–25b">42 U.S.C. 290bb–25b</cato:entity-ref>)</cato:entity> is amended by striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Health Service Act/s:519B/ss:a..f">subsections (a) through (f)</cato:entity-ref>
 			 and inserting the following:</text>
 			<quoted-block id="H7AB4A5A0869D4A7C9408679FC1E62A7D" style="OLC">
@@ -485,9 +491,12 @@
             <enum>(3)</enum>
             <header>Authorization of
 				appropriations</header>
-            <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:property name="purpose">to carry
-				out <cato:entity-ref entity-type="act" value="Public Health Service Act/s:519B/ss:c" proposed="true">this subsection</cato:entity-ref></cato:property> <cato:funds-and-year amount="1000000" year="2014">$1,000,000 for fiscal year 2014</cato:funds-and-year>, and <cato:funds-and-year amount="1000000" year="2015, 2016, 2017, 2018">$1,000,000 for each of
-				the fiscal years 2015 through 2018</cato:funds-and-year>.</cato:entity></text>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:property name="purpose">to carry
+				out <cato:entity-ref entity-type="act" value="Public Health Service Act/s:519B/ss:c" proposed="true">this subsection</cato:entity-ref>
+                </cato:property> <cato:funds-and-year amount="1000000" year="2014">$1,000,000 for fiscal year 2014</cato:funds-and-year>, and <cato:funds-and-year amount="1000000" year="2015, 2016, 2017, 2018">$1,000,000 for each of
+				the fiscal years 2015 through 2018</cato:funds-and-year>.</cato:entity>
+            </text>
 					</paragraph>
         </subsection>
         <subsection id="H672CEDA6B59A4071B66F15BA3D4EE7A7">
@@ -665,9 +674,12 @@
             <enum>(9)</enum>
             <header>Authorization of
 				appropriations</header>
-            <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:property name="purpose">to carry
-				out <cato:entity-ref entity-type="act" value="Public Health Service Act/s:519B" proposed="true">this section</cato:entity-ref></cato:property> <cato:funds-and-year amount="1000000" year="2014, 2015">$1,000,000 for fiscal years 2014 and 2015</cato:funds-and-year> and <cato:funds-and-year year="2016, 2017, 2018">such sums as
-				necessary for each of the fiscal years 2016 through 2018</cato:funds-and-year>.</cato:entity></text>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:property name="purpose">to carry
+				out <cato:entity-ref entity-type="act" value="Public Health Service Act/s:519B" proposed="true">this section</cato:entity-ref>
+                </cato:property> <cato:funds-and-year amount="1000000" year="2014, 2015">$1,000,000 for fiscal years 2014 and 2015</cato:funds-and-year> and <cato:funds-and-year year="2016, 2017, 2018">such sums as
+				necessary for each of the fiscal years 2016 through 2018</cato:funds-and-year>.</cato:entity>
+            </text>
 					</paragraph>
         </subsection>
         <subsection id="HA3D2E3791E324C6C90027F683B173787">
@@ -782,7 +794,8 @@
               <text>For
 				purposes of this paragraph, the term <term>eligible entity</term> means an
 				organization that is currently receiving or has received grant funds under the
-				<cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Drug-Free Communities Act of 1997">Drug-Free Communities Act of 1997</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/21/1521/etseq">21 U.S.C. 1521 et seq.</cato:entity-ref>)</cato:entity>.</text>
+				<cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Drug-Free Communities Act of 1997">Drug-Free Communities Act of 1997</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/21/1521/etseq">21 U.S.C. 1521 et seq.</cato:entity-ref>)</cato:entity>.</text>
 						</subparagraph>
             <subparagraph id="HCAC38757E88444B7A67130C97BD09547">
               <enum>(H)</enum>
@@ -795,9 +808,12 @@
               <enum>(I)</enum>
               <header>Authorization of
 				appropriations</header>
-              <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:property name="purpose">to carry
-				out <cato:entity-ref entity-type="act" value="Public Health Service Act/s:519B/ss:e/p:1" proposed="true">this paragraph</cato:entity-ref></cato:property> <cato:funds-and-year amount="6000000" year="2014">$6,000,000 for fiscal year 2014</cato:funds-and-year>, and <cato:funds-and-year amount="6000000" year="2015, 2016, 2017, 2018">$6,000,000 for each of
-				the fiscal years 2015 through 2018</cato:funds-and-year>.</cato:entity></text>
+              <text>
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:property name="purpose">to carry
+				out <cato:entity-ref entity-type="act" value="Public Health Service Act/s:519B/ss:e/p:1" proposed="true">this paragraph</cato:entity-ref>
+                  </cato:property> <cato:funds-and-year amount="6000000" year="2014">$6,000,000 for fiscal year 2014</cato:funds-and-year>, and <cato:funds-and-year amount="6000000" year="2015, 2016, 2017, 2018">$6,000,000 for each of
+				the fiscal years 2015 through 2018</cato:funds-and-year>.</cato:entity>
+              </text>
 						</subparagraph>
           </paragraph>
           <paragraph id="H3046461D1FC14C2B986751D4037D2211">
@@ -991,7 +1007,8 @@
                   <enum>(I)</enum>
                   <text>on or before the
 				date of submitting an application for a grant under this subsection is
-				currently receiving or has received grant funds under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Drug-Free Communities Act of 1997">Drug-Free Communities
+				currently receiving or has received grant funds under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Drug-Free Communities Act of 1997">Drug-Free Communities
 				Act of 1997</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/21/1521/etseq">21 U.S.C. 1521 et seq.</cato:entity-ref>)</cato:entity>;</text>
 								</subclause>
                 <subclause id="HC2A736E982514F29901C1C2890870DFC">
@@ -1012,7 +1029,8 @@
                 <header>Institution of
 				higher education</header>
                 <text>The term <term>institution of higher
-				education</term> has the meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Higher Education Act of 1965/s:101/ss:a">section 101(a) of the Higher
+				education</term> has the meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Higher Education Act of 1965/s:101/ss:a">section 101(a) of the Higher
 				Education Act of 1965</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/20/1001/a">20 U.S.C. 1001(a)</cato:entity-ref>)</cato:entity>.</text>
 							</clause>
               <clause id="H3967CD0570AD4D559DF3A33F2456EA1F">
@@ -1050,9 +1068,12 @@
               <enum>(J)</enum>
               <header>Authorization of
 				appropriations</header>
-              <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:property name="purpose">to carry
-				out <cato:entity-ref entity-type="act" value="Public Health Service Act/s:519B/ss:e/p:2" proposed="true">this paragraph</cato:entity-ref></cato:property> <cato:funds-and-year amount="2500000" year="2014">$2,500,000 for fiscal year 2014</cato:funds-and-year>, and <cato:funds-and-year amount="2500000" year="2015, 2016, 2017, 2018">$2,500,000 for each of
-				the fiscal years 2015 through 2018</cato:funds-and-year>.</cato:entity></text>
+              <text>
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:property name="purpose">to carry
+				out <cato:entity-ref entity-type="act" value="Public Health Service Act/s:519B/ss:e/p:2" proposed="true">this paragraph</cato:entity-ref>
+                  </cato:property> <cato:funds-and-year amount="2500000" year="2014">$2,500,000 for fiscal year 2014</cato:funds-and-year>, and <cato:funds-and-year amount="2500000" year="2015, 2016, 2017, 2018">$2,500,000 for each of
+				the fiscal years 2015 through 2018</cato:funds-and-year>.</cato:entity>
+              </text>
 						</subparagraph>
           </paragraph>
         </subsection>
@@ -1202,9 +1223,12 @@
             <enum>(6)</enum>
             <header>Authorization of
 				appropriations</header>
-            <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:property name="purpose">to carry
-				out <cato:entity-ref entity-type="act" value="Public Health Service Act/s:519B/ss:f" proposed="true">this subsection</cato:entity-ref></cato:property> <cato:funds-and-year amount="3000000" year="2014">$3,000,000 for fiscal year 2014</cato:funds-and-year>, and <cato:funds-and-year amount="3000000" year="2015, 2016, 2017, 2018">$3,000,000 for each of
-				the fiscal years 2015 through 2018</cato:funds-and-year>.</cato:entity></text>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:property name="purpose">to carry
+				out <cato:entity-ref entity-type="act" value="Public Health Service Act/s:519B/ss:f" proposed="true">this subsection</cato:entity-ref>
+                </cato:property> <cato:funds-and-year amount="3000000" year="2014">$3,000,000 for fiscal year 2014</cato:funds-and-year>, and <cato:funds-and-year amount="3000000" year="2015, 2016, 2017, 2018">$3,000,000 for each of
+				the fiscal years 2015 through 2018</cato:funds-and-year>.</cato:entity>
+            </text>
 					</paragraph>
         </subsection>
         <subsection id="H084662B2C7F04C258D0DDB740B967E18">
@@ -1266,13 +1290,17 @@
             <enum>(2)</enum>
             <header>Authorization of
 				appropriations</header>
-            <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:property name="purpose">to carry
-				out <cato:entity-ref entity-type="act" value="Public Health Service Act/s:519B/ss:g" proposed="true">this subsection</cato:entity-ref></cato:property> <cato:funds-and-year amount="4500000" year="2014, 2015, 2016, 2017, 2018">$4,500,000 for each of the fiscal years 2014 through
-				2018</cato:funds-and-year>.</cato:entity></text>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:property name="purpose">to carry
+				out <cato:entity-ref entity-type="act" value="Public Health Service Act/s:519B/ss:g" proposed="true">this subsection</cato:entity-ref>
+                </cato:property> <cato:funds-and-year amount="4500000" year="2014, 2015, 2016, 2017, 2018">$4,500,000 for each of the fiscal years 2014 through
+				2018</cato:funds-and-year>.</cato:entity>
+            </text>
 					</paragraph>
         </subsection>
         <after-quoted-block>.</after-quoted-block>
       </quoted-block>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

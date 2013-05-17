@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1029ih">
+<doc>
+  <docmeta id="113hr1029ih">
     <bill congress="113" type="hr" number="1029" version="ih"/>
-    <revision id="6" commit-time="2013-04-02T21:17:29+00:00" comitter="/users/favila.xml" doc="/docs/113hr1029ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H876BDF23D86141829E49F224F291A206" public-private="public">
+    <revision size="4105" annotations="0" id="6" commit-time="2013-04-02T21:17:29+00:00" committer="favila" doc="113hr1029ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H876BDF23D86141829E49F224F291A206" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -45,7 +49,8 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:3121/ss:a/p:1">Paragraph (1) of
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:3121/ss:a/p:1">Paragraph (1) of
 			 section 3121(a) of the Internal Revenue Code of 1986</cato:entity-ref> is amended by inserting
 			 after <quote>such calendar year.</quote> the following: <quote>The preceding
 			 sentence shall apply only to calendar years for which the contribution and
@@ -58,7 +63,8 @@
         <enum>(b)</enum>
         <header>Conforming
 			 amendment</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:3121/ss:a/p:1">Paragraph (1) of section 3121(a) of the Internal
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:3121/ss:a/p:1">Paragraph (1) of section 3121(a) of the Internal
 			 Revenue Code of 1986</cato:entity-ref> is amended by striking <quote>Act) to</quote> and
 			 inserting <quote>Act), or in excess of $250,000, to</quote>.</text>
 			</subsection>
@@ -79,7 +85,8 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1402/ss:b/p:1">Paragraph (1) of section 1402(b) of the Internal Revenue
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1402/ss:b/p:1">Paragraph (1) of section 1402(b) of the Internal Revenue
 			 Code of 1986</cato:entity-ref> is amended to read as follows:</text>
 				<quoted-block display-inline="no-display-inline" id="H8E35C729A5CF48ED9AC33BE6012D7CE4" style="OLC">
 					<paragraph id="H76E1274273604964B976C99B40F9E009">
@@ -138,9 +145,11 @@
       <subsection id="H64B2E48F932A4583B079065602CF61D1">
         <enum>(b)</enum>
         <header>Phaseout</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1402/ss:b">Subsection
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1402/ss:b">Subsection
 			 (b) of section 1402 of the Internal Revenue Code of 1986</cato:entity-ref> is amended by adding
-			 at the end the following: <quote><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1402/ss:b/p:1">Paragraph (1)</cato:entity-ref> shall apply only to taxable
+			 at the end the following: <quote>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1402/ss:b/p:1">Paragraph (1)</cato:entity-ref> shall apply only to taxable
 			 years beginning in calendar years for which the contribution and benefit base
 			 (as determined under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:230">section 230 of the Social Security Act</cato:entity-ref>) is less than
 			 $250,000.</quote>.</text>
@@ -155,4 +164,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

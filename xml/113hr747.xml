@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr747ih">
+<doc>
+  <docmeta id="113hr747ih">
     <bill congress="113" type="hr" number="747" version="ih"/>
-    <revision id="5" commit-time="2013-03-22T20:17:56+00:00" comitter="/users/favila.xml" doc="/docs/113hr747ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" dms-id="H6C9BDCD176C64AB69FAB51F27FFA3200" public-private="public" bill-type="olc"> 
+    <revision size="1389" annotations="0" id="5" commit-time="2013-03-22T20:17:56+00:00" committer="favila" doc="113hr747ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" dms-id="H6C9BDCD176C64AB69FAB51F27FFA3200" public-private="public" bill-type="olc"> 
 <form> 
 <distribution-code display="yes">I</distribution-code> 
 <congress>113th CONGRESS</congress>
@@ -24,7 +28,9 @@
 <subsection id="HABEB4699F3A84BF68D84C97D1E96EF0B">
         <enum>(a)</enum>
         <header>Applicability to all citizens and residents within specified age range</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Military Selective Service Act/s:3/ss:a">Section 3(a) of the Military Selective Service Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc-appendix/50/453/a">50 U.S.C. App. 453(a)</cato:entity-ref>)</cato:entity> is amended—</text>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Military Selective Service Act/s:3/ss:a">Section 3(a) of the Military Selective Service Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc-appendix/50/453/a">50 U.S.C. App. 453(a)</cato:entity-ref>)</cato:entity> is amended—</text>
 <paragraph id="HFA3EC10A7839402FBD2227B3FA1F4F9A">
           <enum>(1)</enum>
           <text>in the first sentence—</text>
@@ -48,4 +54,5 @@
         <text display-inline="yes-display-inline">The amendments made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="113hr747ih/s:1/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall take effect 60 days after the date of the enactment of this Act.</text> </subsection>
     </section> 
 </legis-body> 
-</bill></doc>
+</bill>
+</doc>

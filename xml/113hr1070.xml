@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1070ih">
+<doc>
+  <docmeta id="113hr1070ih">
     <bill congress="113" type="hr" number="1070" version="ih"/>
-    <revision id="5" commit-time="2013-04-03T22:37:00+00:00" comitter="/users/favila.xml" doc="/docs/113hr1070ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H034AB0C1767C40BF88D434B74CF37887" public-private="public">
+    <revision size="3542" annotations="0" id="5" commit-time="2013-04-03T22:37:00+00:00" committer="favila" doc="113hr1070ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H034AB0C1767C40BF88D434B74CF37887" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1070 IH: Removing Barriers to Colorectal Cancer Screening Act of 2013</title>
@@ -51,7 +55,8 @@
     <section id="H941B515152DC4C819E6182C8FE338841">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 			<paragraph id="HCFB1C73E2E5B4F7890155E49FBFF7AEA">
         <enum>(1)</enum>
         <text display-inline="yes-display-inline">Colorectal cancer is the second leading
@@ -105,13 +110,17 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1833/ss:a/p:1/sp:Y">Section 1833(a)(1)(Y) of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395l/a/1/Y">42
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1833/ss:a/p:1/sp:Y">Section 1833(a)(1)(Y) of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395l/a/1/Y">42
 			 U.S.C. 1395l(a)(1)(Y)</cato:entity-ref>)</cato:entity> is amended by inserting <quote>, including a colorectal
 			 cancer screening test (regardless of the code that is billed for the
 			 establishment of a diagnosis as a result of the test, or for the removal of
 			 tissue or other procedure that is furnished in connection with, as a result of,
 			 and in the same clinical encounter as the screening test),</quote> after
-			 <quote><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:ddd/p:3">section 1861(ddd)(3)</cato:entity-ref></quote>.</text>
+			 <quote>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1861/ss:ddd/p:3">section 1861(ddd)(3)</cato:entity-ref>
+          </quote>.</text>
 			</subsection>
       <subsection id="H569AA2D13BFC45E7BCDD23B342C6F525">
         <enum>(b)</enum>
@@ -122,4 +131,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

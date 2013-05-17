@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr461ih">
+<doc>
+  <docmeta id="113hr461ih">
     <bill congress="113" type="hr" number="461" version="ih"/>
-    <revision id="6" commit-time="2013-03-12T19:54:55+00:00" comitter="/users/favila.xml" doc="/docs/113hr461ih/6.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2FC3E2408E874991849DC2E8205B9737" public-private="public">
+    <revision size="4605" annotations="0" id="6" commit-time="2013-03-12T19:54:55+00:00" committer="favila" doc="113hr461ih/6.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2FC3E2408E874991849DC2E8205B9737" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -35,7 +39,8 @@
         <enum>(a)</enum>
         <header>Positions
 			 subject to CSRS</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/3307/d">Section 3307(d) of title 5, United States Code</cato:entity-ref>,
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/3307/d">Section 3307(d) of title 5, United States Code</cato:entity-ref>,
 			 is amended—</text>
 				<paragraph id="H71AC91AE72DE425ABDC4B85CC24FD101">
           <enum>(1)</enum>
@@ -65,7 +70,8 @@
         <enum>(b)</enum>
         <header>Positions
 			 subject to FERS</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/3307/e">Section 3307(e) of title 5, United States Code</cato:entity-ref>,
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/3307/e">Section 3307(e) of title 5, United States Code</cato:entity-ref>,
 			 is amended—</text>
 				<paragraph id="HE97EB2A5C555432EB747404CDF2EA509">
           <enum>(1)</enum>
@@ -100,7 +106,8 @@
         <enum>(a)</enum>
         <header>Amendment
 			 relating to CSRS</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8335/b">Section 8335(b) of title 5, United States Code</cato:entity-ref>,
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8335/b">Section 8335(b) of title 5, United States Code</cato:entity-ref>,
 			 is amended by adding at the end the following:</text>
 				<quoted-block display-inline="no-display-inline" id="HBBEB278B98484DDD8E2ADC9F26332124" style="USC">
 					<paragraph id="H28007B8FEF6C46168A9AEDA4E0BF68E2" indent="up1">
@@ -128,7 +135,8 @@
         <enum>(b)</enum>
         <header>Amendment
 			 relating to FERS</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8425/b">Section 8425(b) of title 5, United States Code</cato:entity-ref>,
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8425/b">Section 8425(b) of title 5, United States Code</cato:entity-ref>,
 			 is amended by adding at the end the following:</text>
 				<quoted-block display-inline="no-display-inline" id="H04076864ECD14BB2A88BC3181F6997C7" style="USC">
 					<paragraph id="HA47A377817CE436AA368CD1E588B67B3" indent="up1">
@@ -178,4 +186,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

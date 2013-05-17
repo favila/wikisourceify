@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr874ih">
+<doc>
+  <docmeta id="113hr874ih">
     <bill congress="113" type="hr" number="874" version="ih"/>
-    <revision id="7" commit-time="2013-03-27T19:51:20+00:00" comitter="/users/favila.xml" doc="/docs/113hr874ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9E99BB8BB460427F8F2085321DF43287" public-private="public">
+    <revision size="5723" annotations="0" id="7" commit-time="2013-03-27T19:51:20+00:00" committer="favila" doc="113hr874ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9E99BB8BB460427F8F2085321DF43287" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -192,9 +196,12 @@
         <enum>(a)</enum>
         <header>Authority To use
 			 fund amounts</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be charged against the <cato:property name="funds-source">United
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be charged against the <cato:property name="funds-source">United
 			 States Mint Public Enterprise Fund</cato:property>, <cato:funds-and-year amount="indefinite">such amounts as may be necessary</cato:funds-and-year> <cato:property name="purpose">to pay for
-			 the costs of the medals struck pursuant to <cato:entity-ref entity-type="act" value="Alice Paul Women's Suffrage Congressional Gold Medal Act" proposed="true">this Act</cato:entity-ref></cato:property>.</cato:entity></text>
+			 the costs of the medals struck pursuant to <cato:entity-ref entity-type="act" value="Alice Paul Women's Suffrage Congressional Gold Medal Act" proposed="true">this Act</cato:entity-ref>
+            </cato:property>.</cato:entity>
+        </text>
 			</subsection>
       <subsection id="H5DA6DE14A46E442E92E425F40C6DA9DD">
         <enum>(b)</enum>
@@ -206,4 +213,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

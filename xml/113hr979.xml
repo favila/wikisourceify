@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr979ih">
+<doc>
+  <docmeta id="113hr979ih">
     <bill congress="113" type="hr" number="979" version="ih"/>
-    <revision id="7" commit-time="2013-04-01T23:00:27+00:00" comitter="/users/favila.xml" doc="/docs/113hr979ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8BE498D2D53344289A404D2D9AEE6C1D" key="H" public-private="public">
+    <revision size="3500" annotations="0" id="7" commit-time="2013-04-01T23:00:27+00:00" committer="favila" doc="113hr979ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8BE498D2D53344289A404D2D9AEE6C1D" key="H" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -77,7 +81,9 @@
       <enum>2.</enum>
       <header>Definition of
 			 biobased product</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Farm Security and Rural Investment Act of 2002/s:9001">Section 9001
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Farm Security and Rural Investment Act of 2002/s:9001">Section 9001
 			 of the Farm Security and Rural Investment Act of 2002</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/7/8101">7 U.S.C. 8101</cato:entity-ref>)</cato:entity> is
 			 amended—</text>
 			<paragraph id="H54B021DC85FA4C9B9C6684ADC68811F4">
@@ -168,4 +174,5 @@
 			</paragraph>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr472ih">
+<doc>
+  <docmeta id="113hr472ih">
     <bill congress="113" type="hr" number="472" version="ih"/>
-    <revision id="11" commit-time="2013-03-12T22:04:51+00:00" comitter="/users/favila.xml" doc="/docs/113hr472ih/11.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" dms-id="H35B8D222BB594C1D9081AF23CC2FB809" public-private="public" bill-type="olc"> 
+    <revision size="31154" annotations="0" id="11" commit-time="2013-03-12T22:04:51+00:00" committer="favila" doc="113hr472ih/11.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" dms-id="H35B8D222BB594C1D9081AF23CC2FB809" public-private="public" bill-type="olc"> 
 <form> 
 <distribution-code display="yes">I</distribution-code> 
 <congress>113th CONGRESS</congress>
@@ -55,7 +59,8 @@
 <section id="H43AA7DBD0CBD41CCBA398D16862A98C3" section-type="subsequent-section">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text> 
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text> 
 <paragraph id="HDDE1C6EEF38E4131972879F70D148DFC">
         <enum>(1)</enum>
         <text>The number of Federal data centers has quintupled over the past decade from 400 to more than 2,000.</text>
@@ -277,7 +282,8 @@
 <paragraph id="HDC0D334554F6467BAD13A196C3C89A08">
           <enum>(3)</enum>
           <header>Federal facility</header>
-          <text>The term <term>Federal facility</term> has the meaning given the term <term>facility</term> in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="National Energy Conservation Policy Act/s:543/ss:f/p:1/sp:C">section 543(f)(1)(C) of the National Energy Conservation Policy Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/8253/f/1/C">42 U.S.C. 8253(f)(1)(C)</cato:entity-ref>)</cato:entity>.</text>
+          <text>The term <term>Federal facility</term> has the meaning given the term <term>facility</term> in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="National Energy Conservation Policy Act/s:543/ss:f/p:1/sp:C">section 543(f)(1)(C) of the National Energy Conservation Policy Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/8253/f/1/C">42 U.S.C. 8253(f)(1)(C)</cato:entity-ref>)</cato:entity>.</text>
         </paragraph> 
 <paragraph id="HE37DF8228EF24DCAB4C0D19DB3C0D1D1">
           <enum>(4)</enum>
@@ -287,7 +293,8 @@
 <paragraph id="H8BD1D478FEF943DCB638F7EF04AA031C">
           <enum>(5)</enum>
           <header>Renewable energy source</header>
-          <text>The term <term>renewable energy source</term> has the meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="National Energy Conservation Policy Act/s:551">section 551 of the National Energy Conservation Policy Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/8259">42 U.S.C. 8259</cato:entity-ref>)</cato:entity>.</text>
+          <text>The term <term>renewable energy source</term> has the meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="National Energy Conservation Policy Act/s:551">section 551 of the National Energy Conservation Policy Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/8259">42 U.S.C. 8259</cato:entity-ref>)</cato:entity>.</text>
         </paragraph>
       </subsection> 
 <subsection id="H7283A4A474474F47B74A126DEE053267">
@@ -360,7 +367,9 @@
 <paragraph id="H08EDEE2D80284E6DB1C7B5F80CA34633">
           <enum>(1)</enum>
           <header>Authorization of appropriations</header>
-          <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized <cato:property name="purpose">to be appropriated to the Fund</cato:property> <cato:funds-and-year amount="500000000">$500,000,000, to remain available until expended</cato:funds-and-year>.</cato:entity></text>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized <cato:property name="purpose">to be appropriated to the Fund</cato:property> <cato:funds-and-year amount="500000000">$500,000,000, to remain available until expended</cato:funds-and-year>.</cato:entity>
+          </text>
         </paragraph> 
 <paragraph id="H505CCA2DDFDE40E89685088F0D82ADF5">
           <enum>(2)</enum>
@@ -513,7 +522,9 @@
 <section id="HDC6800C0F6E642C38CFDD3997188A9F0">
       <enum>14.</enum>
       <header>Advanced metering best practices for advanced metering</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="National Energy Conservation Policy Act/s:543/ss:e">Section 543(e) of the National Energy Conservation Policy Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/8253/e">42 U.S.C. 8253(e)</cato:entity-ref>)</cato:entity> is amended by striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Energy Conservation Policy Act/s:543/ss:e/p:3">paragraph (3)</cato:entity-ref> and inserting the following:</text> 
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="National Energy Conservation Policy Act/s:543/ss:e">Section 543(e) of the National Energy Conservation Policy Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/8253/e">42 U.S.C. 8253(e)</cato:entity-ref>)</cato:entity> is amended by striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Energy Conservation Policy Act/s:543/ss:e/p:3">paragraph (3)</cato:entity-ref> and inserting the following:</text> 
 <quoted-block id="H24388A8C73DE41F1B5F59214ED8CDCEC" style="OLC"> 
 <paragraph id="H4FA85A45215F423D8D68C2C201C9F7D2">
           <enum>(3)</enum>
@@ -543,7 +554,9 @@
 <subparagraph id="H735332ACC22445DF859D594AE3974958">
             <enum>(A)</enum>
             <header>In general</header>
-            <text>Not later than 180 days after the date of enactment of the <short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013" proposed="true">Federal Cost Reduction Act of 2013</cato:entity-ref></short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary of Energy</cato:entity-ref>, in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9700">Secretary of Defense</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref>, shall develop, and issue a report on, best practices for the use of advanced metering of energy use in Federal facilities, buildings, and equipment by Federal agencies.</text>
+            <text>Not later than 180 days after the date of enactment of the <short-title>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013" proposed="true">Federal Cost Reduction Act of 2013</cato:entity-ref>
+              </short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary of Energy</cato:entity-ref>, in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9700">Secretary of Defense</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref>, shall develop, and issue a report on, best practices for the use of advanced metering of energy use in Federal facilities, buildings, and equipment by Federal agencies.</text>
           </subparagraph> 
 <subparagraph id="H945BE0B1A32845B3A8F88FB9FE6E4870">
             <enum>(B)</enum>
@@ -594,7 +607,8 @@
 <section id="HEF0D1D28D3C54FCCAC81FCD403D0D139">
       <enum>15.</enum>
       <header>Availability of funds for design updates</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3307">Section 3307 of title 40, United States Code</cato:entity-ref>, is amended—</text> 
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3307">Section 3307 of title 40, United States Code</cato:entity-ref>, is amended—</text> 
 <paragraph id="H3E4DC21FF4C24D9EAC40A54FAEC4085C">
         <enum>(1)</enum>
         <text>by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3307/d..h">subsections (d) through (h)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3307/e..i" proposed="true">subsections (e) through (i)</cato:entity-ref>; and</text>
@@ -609,12 +623,14 @@
 <paragraph id="H6AA0F687622D4E9EAABAC4F5CDB986CD">
               <enum>(1)</enum>
               <header>In general</header>
-              <text>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3307/d/2">paragraph (2)</cato:entity-ref>, for any project for which congressional approval is received under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3307/a">subsection (a)</cato:entity-ref> and for which the design has been substantially completed but construction has not begun, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref> may use appropriated funds to update the project design to meet applicable Federal building energy efficiency standards established under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Energy Conservation and Production Act/s:305">section 305 of the Energy Conservation and Production Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/6834">42 U.S.C. 6834</cato:entity-ref>)</cato:entity> and other requirements established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312">section 3312 of this title</cato:entity-ref>.</text>
+              <text>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3307/d/2">paragraph (2)</cato:entity-ref>, for any project for which congressional approval is received under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3307/a">subsection (a)</cato:entity-ref> and for which the design has been substantially completed but construction has not begun, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref> may use appropriated funds to update the project design to meet applicable Federal building energy efficiency standards established under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Energy Conservation and Production Act/s:305">section 305 of the Energy Conservation and Production Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/6834">42 U.S.C. 6834</cato:entity-ref>)</cato:entity> and other requirements established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312">section 3312 of this title</cato:entity-ref>.</text>
             </paragraph> 
 <paragraph id="H0A9B4372D3CE41139A82C6AD2DE46880">
               <enum>(2)</enum>
               <header>Limitation</header>
-              <text>The use of funds under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3307/d/1">paragraph (1)</cato:entity-ref> shall not exceed 125 percent of the estimated energy or other cost savings associated with the updates as determined by a life-cycle cost analysis under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="National Energy Conservation Policy Act/s:544">section 544 of the National Energy Conservation Policy Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/8254">42 U.S.C. 8254</cato:entity-ref>)</cato:entity>.</text>
+              <text>The use of funds under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3307/d/1">paragraph (1)</cato:entity-ref> shall not exceed 125 percent of the estimated energy or other cost savings associated with the updates as determined by a life-cycle cost analysis under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="National Energy Conservation Policy Act/s:544">section 544 of the National Energy Conservation Policy Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/8254">42 U.S.C. 8254</cato:entity-ref>)</cato:entity>.</text>
             </paragraph>
           </subsection>
           <after-quoted-block>.</after-quoted-block>
@@ -627,7 +643,8 @@
 <subsection id="H1653D1987EC445C0AD330840CF6EBD27">
         <enum>(a)</enum>
         <header>In general</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312">Section 3312 of title 40, United States Code</cato:entity-ref>, is amended—</text> 
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312">Section 3312 of title 40, United States Code</cato:entity-ref>, is amended—</text> 
 <paragraph id="HEF22C947E7764EE4A573AE882BF0A392">
           <enum>(1)</enum>
           <text>by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/c..g">subsections (c) through (g)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/d..h" proposed="true">subsections (d) through (h)</cato:entity-ref>, respectively; and</text>
@@ -642,7 +659,10 @@
 <paragraph id="H054D8339BAB4470BA4FC12988F2EAB5B">
                 <enum>(1)</enum>
                 <header>In general</header>
-                <text>Not later than 1 year after the date of enactment of the <short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013" proposed="true">Federal Cost Reduction Act of 2013</cato:entity-ref></short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary of Energy</cato:entity-ref> shall incorporate commissioning and recommissioning standards (as those terms are defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="National Energy Conservation Policy Act/s:543/ss:f">section 543(f) of the National Energy Conservation Policy Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/8253/f">42 U.S.C. 8253(f)</cato:entity-ref>)</cato:entity>), for all real property that—</text> 
+                <text>Not later than 1 year after the date of enactment of the <short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013" proposed="true">Federal Cost Reduction Act of 2013</cato:entity-ref>
+                  </short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary of Energy</cato:entity-ref> shall incorporate commissioning and recommissioning standards (as those terms are defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="National Energy Conservation Policy Act/s:543/ss:f">section 543(f) of the National Energy Conservation Policy Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/8253/f">42 U.S.C. 8253(f)</cato:entity-ref>)</cato:entity>), for all real property that—</text> 
 <subparagraph id="H5AA70EAF2F1F486D9FF7D273070EF1F0">
                   <enum>(A)</enum>
                   <text>is more than $10,000,000 in value;</text>
@@ -659,7 +679,9 @@
 <paragraph id="H9194F537F4AF4E1FB49C15AFDDA5EC1D">
                 <enum>(2)</enum>
                 <header>Regulations</header>
-                <text>Not later than 180 days after the date of enactment of the <short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013" proposed="true">Federal Cost Reduction Act of 2013</cato:entity-ref></short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary of Energy</cato:entity-ref> shall promulgate such regulations as are necessary to carry out this subsection.</text>
+                <text>Not later than 180 days after the date of enactment of the <short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013" proposed="true">Federal Cost Reduction Act of 2013</cato:entity-ref>
+                  </short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary of Energy</cato:entity-ref> shall promulgate such regulations as are necessary to carry out this subsection.</text>
               </paragraph>
             </subsection>
             <after-quoted-block>.</after-quoted-block>
@@ -669,7 +691,8 @@
 <subsection id="H5A9228E8CFFE4BD2B59EB41C8577A16E">
         <enum>(b)</enum>
         <header>Conforming amendments</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312">Section 3312 of title 40, United States Code</cato:entity-ref>, is amended—</text> 
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312">Section 3312 of title 40, United States Code</cato:entity-ref>, is amended—</text> 
 <paragraph id="HC203421AC7C44133931C2FA8458D6A42">
           <enum>(1)</enum>
           <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/e/1" proposed="true">subsection (e)(1)</cato:entity-ref> (as redesignated by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Cost Reduction Act of 2013/s:16/ss:a/p:1" proposed="true">subsection (a)(1)</cato:entity-ref>), by striking <quote>and (c)</quote> and inserting <quote>and (d)</quote>;</text>
@@ -680,14 +703,19 @@
         </paragraph> 
 <paragraph id="H31913621CE4141E782B540B7CC632E70">
           <enum>(3)</enum>
-          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/g" proposed="true">subsection (g)</cato:entity-ref> (as so redesignated), by striking <quote><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/b,c,d">subsection (b), (c), or (d)</cato:entity-ref> or for failure to carry out any recommendation under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/e">subsection (e)</cato:entity-ref></quote> and inserting <quote><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/b,d,e">subsection (b), (d), or (e)</cato:entity-ref> or for failure to carry out any recommendation under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/f">subsection (f)</cato:entity-ref></quote>.</text>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/g" proposed="true">subsection (g)</cato:entity-ref> (as so redesignated), by striking <quote>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/b,c,d">subsection (b), (c), or (d)</cato:entity-ref> or for failure to carry out any recommendation under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/e">subsection (e)</cato:entity-ref>
+            </quote> and inserting <quote>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/b,d,e">subsection (b), (d), or (e)</cato:entity-ref> or for failure to carry out any recommendation under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/3312/f">subsection (f)</cato:entity-ref>
+            </quote>.</text>
         </paragraph>
       </subsection>
     </section> 
 <section commented="no" id="H809FDD7ED42D4B6AAF29D49E142F58FA">
       <enum>17.</enum>
       <header>Elimination of State matching requirement for energy efficiency upgrades at National Guard and reserve armories and readiness centers</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/18236/b">Section 18236(b) of title 10, United States Code</cato:entity-ref>, is amended—</text> 
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/18236/b">Section 18236(b) of title 10, United States Code</cato:entity-ref>, is amended—</text> 
 <paragraph commented="no" id="H0DF6DC5CFB714CB384E0FF8308B181D2">
         <enum>(1)</enum>
         <text>by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/18236/b/1">paragraphs (1)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/18236/b/2">(2)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/18236/b/1/A" proposed="true">subparagraphs (A)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/18236/b/1/B" proposed="true">(B)</cato:entity-ref>, respectively;</text>
@@ -721,4 +749,5 @@
       </paragraph>
     </section> 
 </legis-body> 
-</bill></doc>
+</bill>
+</doc>

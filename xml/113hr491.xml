@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr491ih">
+<doc>
+  <docmeta id="113hr491ih">
     <bill congress="113" type="hr" number="491" version="ih"/>
-    <revision id="7" commit-time="2013-03-13T21:15:20+00:00" comitter="/users/favila.xml" doc="/docs/113hr491ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6BBFD389C52E437FAE1FB66C235BB4E8" public-private="public">
+    <revision size="38837" annotations="0" id="7" commit-time="2013-03-13T21:15:20+00:00" committer="favila" doc="113hr491ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H6BBFD389C52E437FAE1FB66C235BB4E8" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -75,7 +79,8 @@
     <section id="HC0F441892C5446B089E0186471E02B71">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> makes the following
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> makes the following
 			 findings:</text>
 			<paragraph id="H7320EE2D88EB4DC28C4D8817BDB41DCC">
         <enum>(1)</enum>
@@ -181,7 +186,8 @@
         <enum>(3)</enum>
         <header>Internet</header>
         <text>The
-			 term <term>Internet</term> has the meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Communications Act of 1934/s:231/ss:e/p:3">section 231(e)(3)
+			 term <term>Internet</term> has the meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Communications Act of 1934/s:231/ss:e/p:3">section 231(e)(3)
 			 of the Communications Act of 1934</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/47/231/e/3">47 U.S.C. 231(e)(3)</cato:entity-ref>)</cato:entity>.</text>
 			</paragraph>
       <paragraph id="H9E8732ED5C5F466A9D2D645CADDFAE5E">
@@ -278,7 +284,8 @@
         <subparagraph id="HD0D8C915E2D04296840AA7F44C9903B3">
           <enum>(B)</enum>
           <text>any issuer of a
-			 security registered pursuant to <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Securities Exchange Act of 1934/s:12">section 12 of the Securities Exchange Act of
+			 security registered pursuant to <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Securities Exchange Act of 1934/s:12">section 12 of the Securities Exchange Act of
 			 1934</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/78l">15 U.S.C. 78l</cato:entity-ref>)</cato:entity>.</text>
 				</subparagraph>
       </paragraph>
@@ -371,7 +378,9 @@
           <enum>(a)</enum>
           <header>Report relating
 			 to economic assistance</header>
-          <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Foreign Assistance Act of 1961/s:116">Section 116 of the Foreign Assistance Act
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Foreign Assistance Act of 1961/s:116">Section 116 of the Foreign Assistance Act
 			 of 1961</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/22/2151n">22 U.S.C. 2151n</cato:entity-ref>)</cato:entity> is amended by adding at the end the following new
 			 subsection:</text>
 					<quoted-block display-inline="no-display-inline" id="H9B7D9BEF8162412581B1F4ADC74D054A" style="OLC">
@@ -442,7 +451,8 @@
                 <subparagraph id="HE421E3D958C44252B3EDB2D99757780A">
                   <enum>(B)</enum>
                   <text>the term <term>Internet</term> has the
-				meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Communications Act of 1934/s:231/ss:e/p:3">section 231(e)(3) of the Communications Act of 1934</cato:entity-ref>
+				meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Communications Act of 1934/s:231/ss:e/p:3">section 231(e)(3) of the Communications Act of 1934</cato:entity-ref>
 				(<cato:entity-ref entity-type="uscode" value="usc/47/231/e/3">47 U.S.C. 231(e)(3)</cato:entity-ref>)</cato:entity>;</text>
 								</subparagraph>
                 <subparagraph id="HD3ADF21EFB5C4889A090BB735826226F">
@@ -466,7 +476,9 @@
           <enum>(b)</enum>
           <header>Report relating
 			 to security assistance</header>
-          <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Foreign Assistance Act of 1961/s:502B">Section 502B of the Foreign Assistance Act
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Foreign Assistance Act of 1961/s:502B">Section 502B of the Foreign Assistance Act
 			 of 1961</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/2304">22 15 U.S.C. 2304</cato:entity-ref>)</cato:entity> is amended by adding at the end the following new
 			 subsection:</text>
 					<quoted-block display-inline="no-display-inline" id="H3A967E1BB020410A8317CEE08691CCFC" style="OLC">
@@ -536,7 +548,8 @@
                 <subparagraph id="H03E7DE48A3E248CD9CABD460448EE5B4">
                   <enum>(B)</enum>
                   <text>the term <term>Internet</term> has the
-				meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Communications Act of 1934/s:231/ss:e/p:3">section 231(e)(3) of the Communications Act of 1934</cato:entity-ref>
+				meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Communications Act of 1934/s:231/ss:e/p:3">section 231(e)(3) of the Communications Act of 1934</cato:entity-ref>
 				(<cato:entity-ref entity-type="uscode" value="usc/47/231/e/3">47 U.S.C. 231(e)(3)</cato:entity-ref>)</cato:entity>;</text>
 								</subparagraph>
                 <subparagraph id="H65FC3ED6492D4A28B7A863507786A8FC">
@@ -702,7 +715,9 @@
           <enum>(a)</enum>
           <header>In
 			 general</header>
-          <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Securities Exchange Act of 1934/s:13">Section 13 of the
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Securities Exchange Act of 1934/s:13">Section 13 of the
 			 Securities Exchange Act of 1934</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/78m">15 U.S.C. 78m</cato:entity-ref>)</cato:entity> is amended by adding at the end
 			 the following:</text>
 					<quoted-block display-inline="no-display-inline" id="H4A05CF8F7E6C45F1BC9DE32D84220B8F" style="OLC">
@@ -902,7 +917,8 @@
                   <enum>(B)</enum>
                   <header>Internet</header>
                   <text display-inline="yes-display-inline">The term <term>Internet</term> has the
-				meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Communications Act of 1934/s:231/ss:e/p:3">section 231(e)(3) of the Communications Act of 1934</cato:entity-ref>
+				meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Communications Act of 1934/s:231/ss:e/p:3">section 231(e)(3) of the Communications Act of 1934</cato:entity-ref>
 				(<cato:entity-ref entity-type="uscode" value="usc/47/231/e/3">47 U.S.C. 231(e)(3)</cato:entity-ref>)</cato:entity>.</text>
 								</subparagraph>
                 <subparagraph id="H881253701B5D498E940493B6CBD1C91D">
@@ -970,7 +986,8 @@
                   <text display-inline="yes-display-inline">The term
 				<term>Internet-restricting country</term> has the meaning given such term under
 				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Global Online Freedom Act of 2013/s:3" proposed="true">section 3 of the <short-title>Global Online Freedom Act of
-				2013</short-title></cato:entity-ref>.</text>
+				2013</short-title>
+                    </cato:entity-ref>.</text>
 								</subparagraph>
                 <subparagraph id="HBF30002897344FE1A6514DD71A3D18EA">
                   <enum>(F)</enum>
@@ -1026,7 +1043,9 @@
           <enum>(a)</enum>
           <header>In
 			 general</header>
-          <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Export Administration Act of 1979/s:6">Section 6 of the
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Export Administration Act of 1979/s:6">Section 6 of the
 			 Export Administration Act of 1979</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc-appendix/50/2405">50 U.S.C. App. 2405</cato:entity-ref>)</cato:entity>, as continued in effect
 			 under the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="International Emergency Economic Powers Act">International Emergency Economic Powers Act</cato:entity-ref>, is amended by adding at
 			 the end the following:</text>
@@ -1075,7 +1094,8 @@
 								<subparagraph id="H88AE658CC85349E7A72A3B2D0FE25A22">
                   <enum>(A)</enum>
                   <text>the term
-				<term>Internet</term> has the meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Communications Act of 1934/s:231/ss:e/p:3">section 231(e)(3) of
+				<term>Internet</term> has the meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Communications Act of 1934/s:231/ss:e/p:3">section 231(e)(3) of
 				the Communications Act of 1934</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/47/231/e/3">47 U.S.C. 231(e)(3)</cato:entity-ref>)</cato:entity>;</text>
 								</subparagraph>
                 <subparagraph id="H6091E6F09C03429E87D490285657DE35">
@@ -1084,7 +1104,8 @@
 				<term>Internet-restricting country</term> means a country designated by the
 				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1900">Secretary of State</cato:entity-ref> pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Global Online Freedom Act of 2013/s:104/ss:a" proposed="true">section 104(a) of the
 				<short-title>Global Online Freedom Act of
-				2013</short-title></cato:entity-ref>;</text>
+				2013</short-title>
+                    </cato:entity-ref>;</text>
 								</subparagraph>
                 <subparagraph id="H925B376BC6F44748BD9F41A190A7671E">
                   <enum>(C)</enum>
@@ -1145,7 +1166,8 @@
           <enum>(c)</enum>
           <header>Effective
 			 date</header>
-          <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Export Administration Act of 1979/s:6/ss:t" proposed="true">Section 6(t) of the Export Administration Act of 1979</cato:entity-ref>, as
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Export Administration Act of 1979/s:6/ss:t" proposed="true">Section 6(t) of the Export Administration Act of 1979</cato:entity-ref>, as
 			 added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Export Administration Act of 1979/s:301/ss:a" proposed="true">subsection (a)</cato:entity-ref>, shall take effect on the date of the enactment of this
 			 Act and shall apply with respect to the export of goods or technology on the
 			 list established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Export Administration Act of 1979/s:6/ss:t/p:1" proposed="true">paragraph (1)</cato:entity-ref> of such section on or after 1 year after
@@ -1154,4 +1176,5 @@
       </section>
     </title>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

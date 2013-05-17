@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr981ih">
+<doc>
+  <docmeta id="113hr981ih">
     <bill congress="113" type="hr" number="981" version="ih"/>
-    <revision id="7" commit-time="2013-04-01T23:12:06+00:00" comitter="/users/favila.xml" doc="/docs/113hr981ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H753ECF61400A4DD1A72D58B1FAC53032" public-private="public">
+    <revision size="3453" annotations="0" id="7" commit-time="2013-04-01T23:12:06+00:00" committer="favila" doc="113hr981ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H753ECF61400A4DD1A72D58B1FAC53032" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -121,10 +125,14 @@
         <enum>(c)</enum>
         <header>Authorization of
 			 Appropriations</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be appropriated to the
-			 <cato:entity-ref entity-type="federal-body" entity-id="1400">Secretary of the Interior</cato:entity-ref> <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="RARE Act of 2013/s:2" proposed="true">this section</cato:entity-ref></cato:property> <cato:funds-and-year amount="10000000" year="2014..2016">$10,000,000 for the period
-			 of fiscal years 2014 through 2016</cato:funds-and-year>.</cato:entity></text>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be appropriated to the
+			 <cato:entity-ref entity-type="federal-body" entity-id="1400">Secretary of the Interior</cato:entity-ref> <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="RARE Act of 2013/s:2" proposed="true">this section</cato:entity-ref>
+            </cato:property> <cato:funds-and-year amount="10000000" year="2014..2016">$10,000,000 for the period
+			 of fiscal years 2014 through 2016</cato:funds-and-year>.</cato:entity>
+        </text>
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

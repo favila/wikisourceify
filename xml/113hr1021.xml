@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1021ih">
+<doc>
+  <docmeta id="113hr1021ih">
     <bill congress="113" type="hr" number="1021" version="ih"/>
-    <revision id="5" commit-time="2013-04-02T19:57:10+00:00" comitter="/users/favila.xml" doc="/docs/113hr1021ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H27786E51247C439C93B9A39834E70D46" public-private="public">
+    <revision size="2509" annotations="0" id="5" commit-time="2013-04-02T19:57:10+00:00" committer="favila" doc="113hr1021ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H27786E51247C439C93B9A39834E70D46" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -58,14 +62,16 @@
         <enum>(b)</enum>
         <header>Duck stamp
 			 funds</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="LAND Act/s:2/ss:a" proposed="true">Subsection (a)</cato:entity-ref> shall not apply to land purchased with funds
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="LAND Act/s:2/ss:a" proposed="true">Subsection (a)</cato:entity-ref> shall not apply to land purchased with funds
 			 made available through the sale of Federal Migratory Bird Hunting and
 			 Conservation Stamps.</text>
 			</subsection>
       <subsection id="H82D7FCEC4B6F41C6A47CDBEE25ECC6C5">
         <enum>(c)</enum>
         <header>Easements</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="LAND Act/s:2/ss:a" proposed="true">Subsection
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="LAND Act/s:2/ss:a" proposed="true">Subsection
 			 (a)</cato:entity-ref> shall not apply to easements acquired by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary of the Interior</cato:entity-ref> to
 			 facilitate management of Federal lands.</text>
 			</subsection>
@@ -86,10 +92,12 @@
       <subsection id="H00070AD3784C45B5826747544476299A">
         <enum>(b)</enum>
         <header>Easements</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="LAND Act/s:2/ss:a" proposed="true">Subsection
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="LAND Act/s:2/ss:a" proposed="true">Subsection
 			 (a)</cato:entity-ref> shall not apply to easements acquired by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1200">Secretary of Agriculture</cato:entity-ref> to
 			 facilitate management of Federal lands.</text>
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

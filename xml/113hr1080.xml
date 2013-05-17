@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr1080ih">
+<doc>
+  <docmeta id="113hr1080ih">
     <bill congress="113" type="hr" number="1080" version="ih"/>
-    <revision id="5" commit-time="2013-04-04T16:34:10+00:00" comitter="/users/favila.xml" doc="/docs/113hr1080ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H57B38EC95055436ABA301DC6A85A3F1B" public-private="public">
+    <revision size="4784" annotations="0" id="5" commit-time="2013-04-04T16:34:10+00:00" committer="favila" doc="113hr1080ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H57B38EC95055436ABA301DC6A85A3F1B" public-private="public">
 	<metadata>
 <dublinCore>
 <title>113 HR 1080 IH: To amend the Sikes Act to promote the use of cooperative agreements under such Act for land management related to Department of Defense readiness activities and to amend title 10, United States Code, to facilitate interagency cooperation in conservation programs to avoid or reduce adverse impacts on military readiness activities.</title>
@@ -47,7 +51,9 @@
         <enum>(a)</enum>
         <header>Multiyear
 			 agreements To fund long-Term management</header>
-        <text display-inline="yes-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Sikes Act/s:103A/ss:b">Subsection (b) of section 103A of the Sikes
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Sikes Act/s:103A/ss:b">Subsection (b) of section 103A of the Sikes
 			 Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/16/670c-1">16 U.S.C. 670c–1</external-xref>)</cato:entity> is amended—</text>
 				<paragraph id="H7D46F5C91302466AA529ABABA1A038BB">
           <enum>(1)</enum>
@@ -87,7 +93,8 @@
         <enum>(b)</enum>
         <header>Availability of
 			 funds and relation to other laws</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Sikes Act/s:103A/ss:c">Subsection (c) of such section</cato:entity-ref>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Sikes Act/s:103A/ss:c">Subsection (c) of such section</cato:entity-ref>
 			 is amended to read as follows:</text>
 				<quoted-block display-inline="no-display-inline" id="H44D87D94FB5A4B4F8A300BE245774864" style="OLC">
 					<subsection id="H5ADBF0C8391A420D81F1FFAFC3CFA706">
@@ -119,7 +126,8 @@
 			 interagency cooperation in conservation programs of the Departments of Defense,
 			 Agriculture, and Interior to avoid or reduce adverse impacts on military
 			 readiness activities</header>
-      <text display-inline="no-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/2684a">Section
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/2684a">Section
 			 2684a of title 10, United States Code</cato:entity-ref>, is amended—</text>
 			<paragraph id="H33120BE76D0D4A449BE7C654030C9C4B">
         <enum>(1)</enum>
@@ -139,7 +147,8 @@
             <text display-inline="yes-display-inline">In order to facilitate interagency
 				cooperation and enhance the effectiveness of actions that will protect both the
 				environment and military readiness, the recipient of funds provided pursuant an
-				agreement under this section or under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Sikes Act">Sikes Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/16/etseq">16 U.S.C. et seq.</cato:entity-ref>)</cato:entity> may,
+				agreement under this section or under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Sikes Act">Sikes Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/16/etseq">16 U.S.C. et seq.</cato:entity-ref>)</cato:entity> may,
 				with regard to the lands and waters within the scope of the agreement, use such
 				funds to satisfy any matching funds or cost-sharing requirement of any
 				conservation program of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1200">Department of Agriculture</cato:entity-ref> or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Department of the
@@ -152,4 +161,5 @@
 			</paragraph>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

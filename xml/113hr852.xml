@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr852ih">
+<doc>
+  <docmeta id="113hr852ih">
     <bill congress="113" type="hr" number="852" version="ih"/>
-    <revision id="5" commit-time="2013-03-26T22:25:31+00:00" comitter="/users/favila.xml" doc="/docs/113hr852ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HD6F23EFBA6AE49909EA488D9D6E5D297" public-private="public">
+    <revision size="5917" annotations="0" id="5" commit-time="2013-03-26T22:25:31+00:00" committer="favila" doc="113hr852ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HD6F23EFBA6AE49909EA488D9D6E5D297" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -201,9 +205,12 @@
         <enum>(a)</enum>
         <header>Authority To use
 			 fund amounts</header>
-        <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be charged against the <cato:property name="funds-source">United
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be charged against the <cato:property name="funds-source">United
 			 States Mint Public Enterprise Fund</cato:property>, <cato:funds-and-year amount="indefinite">such amounts as may be necessary</cato:funds-and-year> <cato:property name="purpose">to pay for
-			 the costs of the medals struck pursuant to <cato:entity-ref entity-type="act" value="Shirley Chisholm Congressional Gold Medal Act" proposed="true">this Act</cato:entity-ref></cato:property>.</cato:entity></text>
+			 the costs of the medals struck pursuant to <cato:entity-ref entity-type="act" value="Shirley Chisholm Congressional Gold Medal Act" proposed="true">this Act</cato:entity-ref>
+            </cato:property>.</cato:entity>
+        </text>
 			</subsection>
       <subsection id="HD2582AED43094E389BF8A871F6507F33">
         <enum>(b)</enum>
@@ -215,4 +222,5 @@
 			</subsection>
     </section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

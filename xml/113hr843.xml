@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr843ih">
+<doc>
+  <docmeta id="113hr843ih">
     <bill congress="113" type="hr" number="843" version="ih"/>
-    <revision id="7" commit-time="2013-03-26T21:51:14+00:00" comitter="/users/favila.xml" doc="/docs/113hr843ih/7.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8A9D31727E714269AF2A9480C26EBDB9" public-private="public">
+    <revision size="6653" annotations="0" id="7" commit-time="2013-03-26T21:51:14+00:00" committer="favila" doc="113hr843ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H8A9D31727E714269AF2A9480C26EBDB9" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -47,7 +51,9 @@
       <enum>2.</enum>
       <header>San Francisco Bay
 			 restoration grant program</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/t:I">Title I of the Federal Water Pollution
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/t:I">Title I of the Federal Water Pollution
 			 Control Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/33/1251/etseq">33 U.S.C. 1251 et seq.</cato:entity-ref>)</cato:entity> is amended by adding at the end the
 			 following:</text>
 			<quoted-block display-inline="no-display-inline" id="HD724911F9693496296BEFD5C9D954024" style="OLC">
@@ -220,9 +226,12 @@
               <enum>(1)</enum>
               <header>Authorization of
 				appropriations</header>
-              <text><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated to the
-				<cato:entity-ref entity-type="federal-body" entity-id="6800">Administrator</cato:entity-ref> <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/s:123" proposed="true">this section</cato:entity-ref></cato:property> <cato:funds-and-year amount="5000000" year="2013, 2014, 2015, 2016, 2017">$5,000,000 for each of fiscal years
-				2013 through 2017</cato:funds-and-year>.</cato:entity></text>
+              <text>
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated to the
+				<cato:entity-ref entity-type="federal-body" entity-id="6800">Administrator</cato:entity-ref> <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/s:123" proposed="true">this section</cato:entity-ref>
+                  </cato:property> <cato:funds-and-year amount="5000000" year="2013, 2014, 2015, 2016, 2017">$5,000,000 for each of fiscal years
+				2013 through 2017</cato:funds-and-year>.</cato:entity>
+              </text>
 						</paragraph>
             <paragraph id="H949F24A51EF54537BAE5BFC80289110C">
               <enum>(2)</enum>
@@ -253,4 +262,5 @@
       </quoted-block>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

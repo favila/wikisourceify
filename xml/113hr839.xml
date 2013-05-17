@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr839ih">
+<doc>
+  <docmeta id="113hr839ih">
     <bill congress="113" type="hr" number="839" version="ih"/>
-    <revision id="5" commit-time="2013-03-26T20:39:00+00:00" comitter="/users/favila.xml" doc="/docs/113hr839ih/5.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H148D6CC4EC9D4BE1960166893C4FA822" key="H" public-private="public"> 
+    <revision size="6698" annotations="0" id="5" commit-time="2013-03-26T20:39:00+00:00" committer="favila" doc="113hr839ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H148D6CC4EC9D4BE1960166893C4FA822" key="H" public-private="public"> 
 <form> 
 <distribution-code display="yes">I</distribution-code> 
 <congress>113th CONGRESS</congress> <session>1st Session</session> 
@@ -38,7 +42,8 @@
 <subsection id="H1D4AA9D5C97345C79FFDEA2280ED6B56">
         <enum>(c)</enum>
         <header>Servicer</header>
-        <text>The term <term>servicer</term> has the same meaning as in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Truth in Lending Act/s:129A">section 129A of the Truth in Lending Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/1639a">15 U.S.C. 1639a</cato:entity-ref>)</cato:entity>, except that such term includes a person who makes or holds a residential mortgage loan (including a pool of residential mortgage loans), if such person also services the loan.</text> </subsection>
+        <text>The term <term>servicer</term> has the same meaning as in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Truth in Lending Act/s:129A">section 129A of the Truth in Lending Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/1639a">15 U.S.C. 1639a</cato:entity-ref>)</cato:entity>, except that such term includes a person who makes or holds a residential mortgage loan (including a pool of residential mortgage loans), if such person also services the loan.</text> </subsection>
 <subsection id="HA0FA0745C64E4B07B3099F7911E0EA53">
         <enum>(d)</enum>
         <header>Short sale</header>
@@ -88,7 +93,8 @@
 <subparagraph id="HF5E92BA3D471491187E44FCA51C13BDF">
             <enum>(C)</enum>
             <header>Applicability</header>
-            <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Prompt Notification of Short Sales Act/s:3/ss:a/p:1/sp:A" proposed="true">Subparagraph (A)</cato:entity-ref> shall apply, except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Prompt Notification of Short Sales Act/s:3/ss:b" proposed="true">subsection (b)</cato:entity-ref>, and notwithstanding any other provision of law or of any contract, including a contract between a servicer of a residential mortgage loan and a securitization vehicle or other investment vehicle.</text> </subparagraph>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Prompt Notification of Short Sales Act/s:3/ss:a/p:1/sp:A" proposed="true">Subparagraph (A)</cato:entity-ref> shall apply, except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Prompt Notification of Short Sales Act/s:3/ss:b" proposed="true">subsection (b)</cato:entity-ref>, and notwithstanding any other provision of law or of any contract, including a contract between a servicer of a residential mortgage loan and a securitization vehicle or other investment vehicle.</text> </subparagraph>
 <subparagraph id="HC2A3DF80ACB340E4A785B657FA2774F4">
             <enum>(D)</enum>
             <header>Content</header>
@@ -97,7 +103,8 @@
 <paragraph id="H5FA7388BA9B44C9E98B91FA4CF2E47A1">
           <enum>(2)</enum>
           <header>Mortgagor submission</header>
-          <text display-inline="yes-display-inline"><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Prompt Notification of Short Sales Act/s:3/ss:a/p:1" proposed="true">Paragraph (1)</cato:entity-ref> shall apply in any case in which the mortgagor under a residential mortgage loan submits to the servicer thereof—</text> 
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Prompt Notification of Short Sales Act/s:3/ss:a/p:1" proposed="true">Paragraph (1)</cato:entity-ref> shall apply in any case in which the mortgagor under a residential mortgage loan submits to the servicer thereof—</text> 
 <subparagraph id="H71696C07877E45A9853D1C41293E6DB5">
             <enum>(A)</enum>
             <text display-inline="yes-display-inline">a written offer for a short sale of the dwelling or residential real property that is subject to the mortgage, deed of trust, or other security interest that secures the mortgage loan; and</text> </subparagraph>
@@ -113,11 +120,13 @@
 <subsection id="H889904297ED14420971C045F38125BF2">
         <enum>(b)</enum>
         <header>Inapplicability to certain existing mortgages</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Prompt Notification of Short Sales Act/s:3/ss:a" proposed="true">Subsection (a)</cato:entity-ref> shall not apply with respect to any residential mortgage with respect to which the mortgagor and the mortgagee or servicer have entered into a written agreement before the date of enactment of this Act explicitly providing a procedure or terms for approval of a short sale.</text> </subsection>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Prompt Notification of Short Sales Act/s:3/ss:a" proposed="true">Subsection (a)</cato:entity-ref> shall not apply with respect to any residential mortgage with respect to which the mortgagor and the mortgagee or servicer have entered into a written agreement before the date of enactment of this Act explicitly providing a procedure or terms for approval of a short sale.</text> </subsection>
 <subsection display-inline="no-display-inline" id="H7FD84E871FAB4E54B558F183FB2FB3DF">
         <enum>(c)</enum>
         <header>Treatment of other time limits</header>
         <text display-inline="yes-display-inline">This section may not be construed to preempt, annul, or otherwise affect any other provision of law or of any contract or program that provides a shorter period than is provided under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Prompt Notification of Short Sales Act/s:3/ss:a" proposed="true">subsection (a)</cato:entity-ref> for a decision by the servicer of a residential mortgage loan regarding a short sale of the dwelling or residential real property that is subject to the mortgage, deed or trust, or other security interest that secures the mortgage loan.</text> </subsection>
     </section>
 </legis-body> 
-</bill></doc>
+</bill>
+</doc>

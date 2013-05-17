@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr853ih">
+<doc>
+  <docmeta id="113hr853ih">
     <bill congress="113" type="hr" number="853" version="ih"/>
-    <revision id="9" commit-time="2013-03-26T22:44:04+00:00" comitter="/users/favila.xml" doc="/docs/113hr853ih/9.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H74B5A7F988434F67B14F50289949B600" public-private="public">
+    <revision size="30901" annotations="0" id="9" commit-time="2013-03-26T22:44:04+00:00" committer="favila" doc="113hr853ih/9.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H74B5A7F988434F67B14F50289949B600" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -66,7 +70,8 @@
 			<subsection id="H2BE50EBF7B404650A75EBC2F6E692631">
         <enum>(a)</enum>
         <header>Findings</header>
-        <text><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
 			 finds that—</text>
 				<paragraph id="H7A68D403942B4AA8A4D97EC2DC3D3092">
           <enum>(1)</enum>
@@ -204,7 +209,8 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text>The <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Trade Act of 1974">Trade Act of 1974</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/19/2102/etseq">19 U.S.C. 2102 et seq.</cato:entity-ref>)</cato:entity> is amended
+        <text>The <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Trade Act of 1974">Trade Act of 1974</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/19/2102/etseq">19 U.S.C. 2102 et seq.</cato:entity-ref>)</cato:entity> is amended
 			 by adding at the end the following:</text>
 				<quoted-block display-inline="no-display-inline" id="HD988761EA8744B6FA75EBBA40F609FC4" style="OLC">
 					<title id="H47091CF836BE42D794C1437E0871C56D">
@@ -280,7 +286,8 @@
                     <text>for expenditures
 				relating to citrus disease research and development under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Citrus Disease Research and Development Trust Fund Act of 2013/s:4" proposed="true">section 4 of the
 				<short-title>Citrus Disease Research and Development Trust
-				Fund Act of 2013</short-title></cato:entity-ref>, including costs relating to contracts or other
+				Fund Act of 2013</short-title>
+                      </cato:entity-ref>, including costs relating to contracts or other
 				agreements entered into to carry out citrus disease research and development;
 				and</text>
 									</subparagraph>
@@ -351,8 +358,10 @@
                 <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref> may remit to the
 				general fund of the Treasury such amounts as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1200">Secretary of Agriculture</cato:entity-ref>
 				reports to be in excess of the amounts necessary to meet the purposes of the
-				<short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Citrus Disease Research and Development Trust Fund Act of 2013" proposed="true">Citrus Disease Research and Development Trust
-				Fund Act of 2013</cato:entity-ref></short-title>.</text>
+				<short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Citrus Disease Research and Development Trust Fund Act of 2013" proposed="true">Citrus Disease Research and Development Trust
+				Fund Act of 2013</cato:entity-ref>
+                  </short-title>.</text>
 							</subsection>
               <subsection id="H983CFE4D715E42EF96DDD405B665049A">
                 <enum>(g)</enum>
@@ -360,8 +369,10 @@
 				provision</header>
                 <text>The Trust Fund shall terminate on December 31 of the
 				fifth calendar year that begins after the date of the enactment of the
-				<short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Citrus Disease Research and Development Trust Fund Act of 2013" proposed="true">Citrus Disease Research and Development Trust
-				Fund Act of 2013</cato:entity-ref></short-title> and all amounts in the Trust Fund on December 31
+				<short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Citrus Disease Research and Development Trust Fund Act of 2013" proposed="true">Citrus Disease Research and Development Trust
+				Fund Act of 2013</cato:entity-ref>
+                  </short-title> and all amounts in the Trust Fund on December 31
 				of that fifth calendar year shall be transferred to the general fund of the
 				Treasury.</text>
 							</subsection>
@@ -388,9 +399,11 @@
 				the amount of funds being transferred into the Citrus Disease Research and
 				Development Trust Fund under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Trade Act of 1974/s:1001" proposed="true">section 1001</cato:entity-ref> so that amounts available in the
 				Trust Fund are insufficient to meet the purposes of the
-				<short-title><cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Citrus Disease Research and Development Trust Fund Act of 2013" proposed="true">Citrus Disease Research and Development Trust
+				<short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Citrus Disease Research and Development Trust Fund Act of 2013" proposed="true">Citrus Disease Research and Development Trust
 				Fund Act of
-				2013</cato:entity-ref></short-title>.</text>
+				2013</cato:entity-ref>
+                  </short-title>.</text>
 							</paragraph>
             </section>
           </title>
@@ -997,7 +1010,9 @@
       <enum>6.</enum>
       <header>Extension of
 			 customs user fees</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Consolidated Omnibus Budget Reconciliation Act of 1985/s:13031/ss:j/p:3">Section
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Consolidated Omnibus Budget Reconciliation Act of 1985/s:13031/ss:j/p:3">Section
 			 13031(j)(3) of the Consolidated Omnibus Budget Reconciliation Act of 1985</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/19/58c/j/3">19
 			 U.S.C. 58c(j)(3)</cato:entity-ref>)</cato:entity> is amended by adding at the end the following:</text>
 			<quoted-block display-inline="no-display-inline" id="HFD7410660501486591FE368E7810D618" style="OLC">
@@ -1022,4 +1037,5 @@
       </quoted-block>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>

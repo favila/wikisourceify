@@ -1,7 +1,11 @@
-<doc><docmeta id="113hr846ih">
+<doc>
+  <docmeta id="113hr846ih">
     <bill congress="113" type="hr" number="846" version="ih"/>
-    <revision id="4" commit-time="2013-03-26T21:59:14+00:00" comitter="/users/favila.xml" doc="/docs/113hr846ih/4.xml" status="complete"><description>Edited via AKN</description></revision>
-</docmeta><bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H105DC58D6A8D419C8877A07E6D1B89ED" public-private="public">
+    <revision size="3136" annotations="0" id="4" commit-time="2013-03-26T21:59:14+00:00" committer="favila" doc="113hr846ih/4.xml" status="complete">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H105DC58D6A8D419C8877A07E6D1B89ED" public-private="public">
 	<form>
 		<distribution-code display="yes">I</distribution-code>
 		<congress>113th CONGRESS</congress>
@@ -78,7 +82,9 @@
       <enum>2.</enum>
       <header>Medicare payment
 			 for imaging services</header>
-      <text display-inline="no-display-inline"><cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation"><cato:entity-ref entity-type="act" value="Social Security Act/s:1848/ss:b/p:4">Section
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Social Security Act/s:1848/ss:b/p:4">Section
 			 1848(b)(4) of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395w–4/b/4">42 U.S.C. 1395w–4(b)(4)</cato:entity-ref>)</cato:entity> is amended by
 			 adding at the end the following new subparagraph:</text>
 			<quoted-block id="HE1CD7A0ABFEC4B9BA5C0BC464FA8C96B" style="OLC">
@@ -127,4 +133,5 @@
       </quoted-block>
 		</section>
   </legis-body>
-</bill></doc>
+</bill>
+</doc>
