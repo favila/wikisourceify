@@ -22,11 +22,40 @@
 
 <key name="wikipedia" match="/items/item/@wikipedia" use="../@id"/>
 
+
+<template name="search-and-replace">
+    <param name="input"/>
+    <param name="search-string"/>
+    <param name="replace-string"/>
+    <choose>
+    <when test="$search-string and contains($input,$search-string)">
+       <value-of
+           select="substring-before($input,$search-string)"/>
+       <value-of select="$replace-string"/>
+       <call-template name="search-and-replace">
+         <with-param name="input" select="substring-after($input,$search-string)"/>
+         <with-param name="search-string" select="$search-string"/>
+         <with-param name="replace-string" select="$replace-string"/>
+       </call-template>
+    </when>
+    <otherwise>
+      <value-of select="$input"/>
+    </otherwise>
+    </choose>
+</template>
+
 <template match="text()">
+    <!-- the normalization presentes an issue we'll need to address when it's getting down to certain levels -->
     <variable name="normalized" select="normalize-space()"/>
     <variable name="wikiescape" select="contains(., '[') or contains(., '{{') or contains('.', &quot;&apos;&apos;&quot;)"/>
     <if test="$wikiescape">&lt;nowiki></if>
-    <copy select="$normalized"/>
+<!-- We're going to de-tab the text when we get down to the nitty-gritty, else it goofs up the wikiheaders etc -->
+   <call-template name="search-and-replace">
+     <with-param name="input" select="$normalized" />
+     <with-param name="search-string" select="'&#x9;'" />
+     <with-param name="replace-string" select="''" />
+   </call-template>
+<!--     <copy select="$normalized"/> -->
     <if test="$wikiescape">&lt;/nowiki></if>
     <if test="string-length($normalized)=0 and string-length(.)>0">
         <text> </text>
@@ -100,7 +129,7 @@
             <value-of select="$wikipage"/>
             <text>|</text>
             <apply-templates/>
-            <text>]]</text>
+            <text>]] </text>
         </when>
         <otherwise>
             <apply-templates/>
@@ -117,13 +146,20 @@
 </template>
 
 <template match="cato:entity-ref[@entity-type='federal-body']">
+    <text> </text>    
     <call-template name="wikilink">
         <with-param name="id" select="(@entity-id | @entity-parent-id)[1]"/>
         <with-param name="idx" select="$federal-bodies"/>
     </call-template>
 </template>
 
+<template match="cato:entity-ref[@entity-type='act']">
+    <text> </text>    
+    <apply-templates/>
+</template>
+
 <template match="committee-name">
+    <text> </text>    
     <call-template name="wikilink">
         <with-param name="id" select="(@committee-id | @committee)[1]"/>
         <with-param name="idx" select="$committees"/>
@@ -140,7 +176,7 @@
     <value-of select="concat($congress, '-', $number)"/>
     <text>|</text>
     <apply-templates/>
-    <text>]]</text>
+    <text>]] </text>
 </template>
 
 <template match="cato:entity-ref[@entity-type='uscode'][starts-with(@value, 'usc/')]
@@ -152,7 +188,7 @@
     <value-of select="concat($title,'/',$section)"/>
     <text> </text>
     <apply-templates/>
-    <text>]</text>
+    <text>] </text>
 </template>
 
 <!-- 
@@ -230,6 +266,22 @@
     <apply-templates select="./text()"/>
     <text>– </text>
 </template>
+
+<template match="term">
+    <text> </text>
+    <apply-templates select="./text()"/>
+    <text> </text>
+</template>
+
+<!-- <template match="header">
+   <call-template name="search-and-replace">
+     <with-param name="input" select="text()" />
+     <with-param name="search-string" select="'&#x9;'" />
+     <with-param name="replace-string" select="''" />
+   </call-template>  
+    <text>– </text>
+</template>
+ -->
 
 <template 
     name="block-unit"
