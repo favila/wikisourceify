@@ -83,14 +83,26 @@
     </for-each>
 </template>
 
+<variable name="besttitle" select="//short-title[text()] | //official-title[text() and not (//short-title[text()])]"/>
+
+
 
 <template match="/doc">
 <variable name="action-date" select="*[2]/form/action/action-date/@date"/>
-{{Act of Congress
+{{header
+| author     = | override_author = United States Congress
+| translator = 
+| section    = 
+| previous   = 
+| next       = 
+| year       = 
+| notes      = ''{{USBill|<value-of select="docmeta/bill/@congress"/>|<value-of select="docmeta/bill/@type"/>|<value-of select="docmeta/bill/@number"/>}}''
+| categories =
+| portal     =
 | congress       = <value-of select="docmeta/bill/@congress"/>
 | session        = <value-of select="substring(*[2]/form/session, 1, 1)"/>
 <!-- | pl             =  -->
-| title          = <value-of select="normalize-space(*[2]/form/official-title)"/>
+| title          = <value-of select="normalize-space($besttitle)"/> ( <value-of select="docmeta/bill/@type"/> <value-of select="docmeta/bill/@number"/> ; <value-of select="docmeta/bill/@congress"/>th Congress)
 <!-- | override_previous =  -->
 <!-- | statvolume     =  -->
 <!-- | statpage       =  -->
