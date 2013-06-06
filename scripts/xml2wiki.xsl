@@ -4,7 +4,6 @@
     Transform xml from deepbills into wiki text for wikisource
     Created by Francis Avila on 2013-04-04.
 -->
-
 <stylesheet version="1.0"
     xmlns="http://www.w3.org/1999/XSL/Transform"
     xmlns:cato="http://namespaces.cato.org/catoxml"
@@ -96,12 +95,14 @@
 </variable>
 
 <variable name="besttitle" select="//short-title[text()] | //official-title[text() and not (//short-title[text()])]"/>
+<variable name="billtype" select="/doc/docmeta/bill/@type"/>
 
 <template match="/doc">
 <variable name="action-date" select="*[2]/form/action/action-date/@date"/>
 {{header
- | title      = <value-of select="normalize-space($besttitle)"/> ( <value-of select="docmeta/bill/@type"/> <value-of select="docmeta/bill/@number"/> ; <value-of select="docmeta/bill/@congress"/><text>th Congress)</text>
- | author     = <value-of select="$author"/>
+ | title      = <value-of select="normalize-space($besttitle)"/> ( <value-of select='translate($billtype, "abcdefghijklmnopqrstuvwxyz", "ABCDEFGHIJKLMNOPQRSTUVWXYZ")'/> <value-of select="docmeta/bill/@number"/> ; <value-of select="docmeta/bill/@congress"/><text>th Congress)</text>
+ | author     = <value-of select="//sponsor[text()]"/>
+ | related_author = United States Congress
  | translator = 
  | section    = 
  | previous   = 
@@ -109,19 +110,24 @@
  | year       = <value-of select="substring($action-date, 1, 4)"/>
  | month      = <value-of select="substring($action-date, 5, 2)"/>
  | day        = <value-of select="substring($action-date, 7, 2)"/>
- | notes      = ''{{USBill|<value-of select="docmeta/bill/@congress"/>|<value-of select="docmeta/bill/@type"/>|<value-of select="docmeta/bill/@number"/>}}''<text> as introduced</text>
+ | notes      = ''{{USBill|<value-of select="docmeta/bill/@congress"/>|<value-of select="$billtype"/>|<value-of select="docmeta/bill/@number"/>}}''<text> as introduced</text>
  | categories =
  | portal     =
  | congress   = <value-of select="docmeta/bill/@congress"/>
  | session    = <value-of select="substring(*[2]/form/session, 1, 1)"/>
- | title      = <value-of select="normalize-space($besttitle)"/> ( <value-of select="docmeta/bill/@type"/> <value-of select="docmeta/bill/@number"/> ; <value-of select="docmeta/bill/@congress"/><text>th Congress)</text>
+ | title      = <value-of select="normalize-space($besttitle)"/> ( <value-of select='translate($billtype, "abcdefghijklmnopqrstuvwxyz", "ABCDEFGHIJKLMNOPQRSTUVWXYZ")'/> <value-of select="docmeta/bill/@number"/> ; <value-of select="docmeta/bill/@congress"/><text>th Congress)</text>
  | bill       = <value-of select="docmeta/bill/@number"/>
  | billtype   = <value-of select="docmeta/bill/@type"/>
  | purpose    = <value-of select="normalize-space(*[2]/form/official-title)"/>
+ | wikipedia  =
 }}
 
-}}
 <apply-templates select="*[2]"/>
+<text>
+{{PD-USGov}}
+[[Category:Proposed United States federal law]]
+[[Category:Proposed United States federal law of the 113th Congress]]
+</text>    
 </template>
 
 
@@ -252,7 +258,10 @@
     </if>
 </template>
 
-<template match="@id">{{anchor|<value-of select="."/>}}</template>
+<template match="@id"></template>
+<!-- 
+    removed per Michelle. Yuck.
+    <template match="@id">{{anchor|<value-of select="."/>}}</template> -->
 
 <template name="level">
     <param name="context" select="."/>
