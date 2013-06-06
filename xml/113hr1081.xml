@@ -1,7 +1,7 @@
 <doc>
   <docmeta id="113hr1081ih">
     <bill congress="113" type="hr" number="1081" version="ih"/>
-    <revision size="1871" annotations="0" id="4" commit-time="2013-04-04T16:34:57+00:00" committer="favila" doc="113hr1081ih/4.xml" status="complete">
+    <revision size="1871" annotations="0" id="5" commit-time="2013-05-21T22:56:05Z" committer="mbohmer" doc="113hr1081ih/5.xml" status="complete">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
@@ -70,8 +70,9 @@
       <paragraph id="H780DED27FB1A41389D9494CBBF024517">
         <enum>(2)</enum>
         <text>is subject to
-			 trial for that offense by a military commission under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/10/47A">chapter 47A</external-xref> of title 10,
-			 United States Code;</text>
+			 trial for that offense by a military commission under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/10/47A">
+              <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/10/47A">chapter 47A</external-xref> of title 10,
+			 United States Code</cato:entity-ref>;</text>
 			</paragraph>
       <continuation-text continuation-text-level="section">shall be tried
 			 for that offense only by a military commission under that chapter.</continuation-text>
