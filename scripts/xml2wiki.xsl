@@ -83,37 +83,43 @@
     </for-each>
 </template>
 
+<variable name="author">
+    <variable name="normalized" select="normalize-space()"/>
+    <variable name="authorid" select="(//sponsor/@name-id)[1]"/>
+    <variable name="wikipage">
+        <call-template name="wikipedia-key">
+            <with-param name="id" select="$authorid"/>
+            <with-param name="lookupdoc" select="$people"/>
+        </call-template>
+    </variable>
+    <value-of select="$wikipage"/>
+</variable>
+
 <variable name="besttitle" select="//short-title[text()] | //official-title[text() and not (//short-title[text()])]"/>
-
-
 
 <template match="/doc">
 <variable name="action-date" select="*[2]/form/action/action-date/@date"/>
 {{header
-| author     = | override_author = United States Congress
-| translator = 
-| section    = 
-| previous   = 
-| next       = 
-| year       = 
-| notes      = ''{{USBill|<value-of select="docmeta/bill/@congress"/>|<value-of select="docmeta/bill/@type"/>|<value-of select="docmeta/bill/@number"/>}}''
-| categories =
-| portal     =
-| congress       = <value-of select="docmeta/bill/@congress"/>
-| session        = <value-of select="substring(*[2]/form/session, 1, 1)"/>
-<!-- | pl             =  -->
-| title          = <value-of select="normalize-space($besttitle)"/> ( <value-of select="docmeta/bill/@type"/> <value-of select="docmeta/bill/@number"/> ; <value-of select="docmeta/bill/@congress"/>th Congress)
-<!-- | override_previous =  -->
-<!-- | statvolume     =  -->
-<!-- | statpage       =  -->
-| year           = <value-of select="substring($action-date, 1, 4)"/>
-| month          = <value-of select="substring($action-date, 5, 2)"/>
-| day            = <value-of select="substring($action-date, 7, 2)"/>
-| bill           = <value-of select="docmeta/bill/@number"/>
-| billtype       = <value-of select="docmeta/bill/@type"/>
-<!-- | notes          =  -->
-<!-- | resolution     =  -->
-| purpose        = <value-of select="normalize-space(*[2]/form/official-title)"/>
+ | title      = <value-of select="normalize-space($besttitle)"/> ( <value-of select="docmeta/bill/@type"/> <value-of select="docmeta/bill/@number"/> ; <value-of select="docmeta/bill/@congress"/><text>th Congress)</text>
+ | author     = <value-of select="$author"/>
+ | translator = 
+ | section    = 
+ | previous   = 
+ | next       = 
+ | year       = <value-of select="substring($action-date, 1, 4)"/>
+ | month      = <value-of select="substring($action-date, 5, 2)"/>
+ | day        = <value-of select="substring($action-date, 7, 2)"/>
+ | notes      = ''{{USBill|<value-of select="docmeta/bill/@congress"/>|<value-of select="docmeta/bill/@type"/>|<value-of select="docmeta/bill/@number"/>}}''<text> as introduced</text>
+ | categories =
+ | portal     =
+ | congress   = <value-of select="docmeta/bill/@congress"/>
+ | session    = <value-of select="substring(*[2]/form/session, 1, 1)"/>
+ | title      = <value-of select="normalize-space($besttitle)"/> ( <value-of select="docmeta/bill/@type"/> <value-of select="docmeta/bill/@number"/> ; <value-of select="docmeta/bill/@congress"/><text>th Congress)</text>
+ | bill       = <value-of select="docmeta/bill/@number"/>
+ | billtype   = <value-of select="docmeta/bill/@type"/>
+ | purpose    = <value-of select="normalize-space(*[2]/form/official-title)"/>
+}}
+
 }}
 <apply-templates select="*[2]"/>
 </template>
