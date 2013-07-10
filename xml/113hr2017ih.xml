@@ -1,0 +1,531 @@
+<doc>
+  <docmeta id="113hr2017ih">
+    <bill congress="113" type="hr" number="2017" version="ih"/>
+    <revision size="16982" annotations="0" status="complete" id="4" commit-time="2013-07-05T20:16:51Z" committer="mbohmer" doc="113hr2017ih/4.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HF6E3FF3304B74BF6AD5D3196AAD7C276" public-private="public">
+	<metadata>
+<dublinCore>
+<title>113 HR 2017 IH: EAC Improvements Act of 2013</title>
+<publisher>U.S. House of Representatives</publisher>
+<date>2013-05-16</date>
+<format>text/xml</format>
+<language>EN</language>
+<rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2017</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20130516">May 16, 2013</action-date>
+			<action-desc>
+        <sponsor name-id="B001227">Mr. Brady of
+			 Pennsylvania</sponsor> (for himself, <cosponsor name-id="L000397">Ms.
+			 Lofgren</cosponsor>, and <cosponsor name-id="V000130">Mr. Vargas</cosponsor>)
+			 introduced the following bill; which was referred to the
+			 <committee-name committee-id="HHA00">Committee on House
+			 Administration</committee-name>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Help America Vote Act of 2002 to improve the
+		  operations of the Election Assistance Commission, and for other
+		  purposes.</official-title>
+	</form>
+	<legis-body id="H4C70357496AF4694BAF8DC634F1AACBD" style="OLC">
+		<section id="H6ACC2EBEAC794EF2ADA0ACFB5CBF78C0" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title;
+			 findings</header>
+			<subsection id="H93480729127D4EE1A371CBF91BB43CCA">
+        <enum>(a)</enum>
+        <header>Short
+			 title</header>
+        <text display-inline="yes-display-inline">This Act may be cited
+			 as the <quote>
+            <short-title>EAC Improvements Act of
+			 2013</short-title>
+          </quote>.</text>
+			</subsection>
+      <subsection id="HD924320EBCD24C10AB1BFDD213E9FC6A">
+        <enum>(b)</enum>
+        <header>Findings</header>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
+			 finds the following:</text>
+				<paragraph id="H1C52F6836DD944B89FA320C776D5882C">
+          <enum>(1)</enum>
+          <text display-inline="yes-display-inline">The elections for Federal office which were
+			 held in November 2012 were plagued with a number of serious problems,
+			 including—</text>
+					<subparagraph id="H7BFB9341E9F044F281BDFBA2420C579E">
+            <enum>(A)</enum>
+            <text>long lines at
+			 polling places;</text>
+					</subparagraph>
+          <subparagraph id="H5F78AE1B066D4EED828DD71542D6C9C1">
+            <enum>(B)</enum>
+            <text display-inline="yes-display-inline">poll workers who were trained
+			 inadequately;</text>
+					</subparagraph>
+          <subparagraph id="HFA8AE5D5E420427181ABE08AF4452E3B">
+            <enum>(C)</enum>
+            <text>the reduction of
+			 hours for early voting; and</text>
+					</subparagraph>
+          <subparagraph id="H278CFF7C3E92457CB26ADA9B7AD91601">
+            <enum>(D)</enum>
+            <text>the imposition of
+			 practices which restricted eligible individuals from voting, such as
+			 requirements to produce photo identification.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="HA96EED8776174B25A2DD0583BF51CD76">
+          <enum>(2)</enum>
+          <text>At the time these
+			 problems were developing, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Election Assistance Commission</cato:entity-ref>, an agency of the
+			 Federal Government which was established to assist the States in the
+			 administration of elections, lacked a quorum in its membership and therefore
+			 could not meet, appoint an executive director or general counsel, or otherwise
+			 take any actions to prevent these problems from occurring.</text>
+				</paragraph>
+        <paragraph id="HD771BF094C7A4F30AFC12FF248B4C976">
+          <enum>(3)</enum>
+          <text>The inability of
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref> to carry out its duties meant that it could not convene its
+			 Standards Board, a collection of State and local election officials with the
+			 authority to review guidelines for the voluntary standards applicable to the
+			 voting systems used to administer these elections and to make recommendations
+			 for best practices for election administration.</text>
+				</paragraph>
+        <paragraph id="HA13C93DAEF84486D876BE46B91DFE734">
+          <enum>(4)</enum>
+          <text>The inability of
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref> to carry out its duties meant that no new laboratories could be
+			 certified to develop and test the equipment used in these elections.</text>
+				</paragraph>
+        <paragraph id="H8E921F8184CB4632BD62D297831E60A3">
+          <enum>(5)</enum>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Election
+			 Assistance Commission</cato:entity-ref> should be allowed to investigate fully the problems which
+			 plagued the elections held in November 2012 and to develop solutions.</text>
+				</paragraph>
+        <paragraph id="H068E121A5AEA421EA2816B18388F196C">
+          <enum>(6)</enum>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Election
+			 Assistance Commission</cato:entity-ref> should be given the tools it needs to carry out its
+			 mission in a manner immune from illogic and partisan bickering, so that it can
+			 provide States and others involved in the administration of elections with the
+			 guidance that will enable them to provide each citizen who wishes to
+			 participate in the electoral process the ability to do so.</text>
+				</paragraph>
+        <paragraph id="H609FA727DEF14F4E8DF662EEFB5A10B6">
+          <enum>(7)</enum>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Election
+			 Assistance Commission</cato:entity-ref> should be permitted to provide to taxpayers and election
+			 officials accurate information on the voting equipment used to administer
+			 elections and to hold the vendors of such equipment accountable for any
+			 problems that may arise with its use.</text>
+				</paragraph>
+      </subsection>
+    </section>
+    <section display-inline="no-display-inline" id="HF3009D3BB38D47509200F15DB2E919E6">
+      <enum>2.</enum>
+      <header>Reauthorization
+			 of Commission</header>
+			<subsection id="H62FC69E739584540A66E2332BA802F37">
+        <enum>(a)</enum>
+        <header>Reauthorization</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Help America Vote Act of 2002/s:210">Section 210 of the Help America Vote Act of
+			 2002</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/15330">42 U.S.C. 15330</external-xref>)</cato:entity> is amended by striking <quote>for each of the fiscal
+			 years 2003 through 2005</quote> and inserting <quote>for each of the fiscal
+			 years 2014 through 2018</quote>.</text>
+			</subsection>
+      <subsection id="H08C9E19C1AE5426888DFCCDFC0BAD64E">
+        <enum>(b)</enum>
+        <header>Treatment of
+			 commission in same manner as federal election commission for purposes of
+			 paperwork reduction act</header>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3502//1">
+            <external-xref legal-doc="usc" parsable-cite="usc/44/3502">Section 3502(1)</external-xref> of title 44, United
+			 States Code</cato:entity-ref>, is amended—</text>
+				<paragraph id="H569E4A94E108459FB88CAC3670A94192">
+          <enum>(1)</enum>
+          <text display-inline="yes-display-inline">by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3502//1/B,C,D">subparagraphs (B), (C),
+			 and (D)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3502//1/C,D,E" proposed="true">subparagraphs (C), (D), and (E)</cato:entity-ref>; and</text>
+				</paragraph>
+        <paragraph id="HE1C338631FCF425BA6DAA74BFC5E84B6">
+          <enum>(2)</enum>
+          <text>by inserting after
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3502//1/A">subparagraph (A)</cato:entity-ref> the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="HD4536CBB71794477A88C493459425598" style="OLC">
+						<subparagraph id="H6F90A9E3958A4A669E9B90214BE05496">
+              <enum>(B)</enum>
+              <text display-inline="yes-display-inline">the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Election Assistance
+				Commission</cato:entity-ref>;</text>
+						</subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </subsection>
+    </section>
+    <section id="H07066166346641338B08458F614B29B4">
+      <enum>3.</enum>
+      <header>Requiring states
+			 to participate in post-general election surveys</header>
+			<subsection id="HC2D39C569CB245A5B8883A70E3661793">
+        <enum>(a)</enum>
+        <header>Requirement</header>
+        <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Help America Vote Act of 2002/t:III">Title III of the Help America Vote Act of 2002</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/15481/etseq">42 U.S.C. 15481 et seq.</cato:entity-ref>)</cato:entity> is amended by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Help America Vote Act of 2002/s:303">section 303</cato:entity-ref> the following new section:</text>
+				<quoted-block display-inline="no-display-inline" id="HAB91512940ED49C0975929AD27B0616E" style="OLC">
+					<section id="HE25C75C223F74C289CBB3D0B1AC63B73">
+            <enum>303A.</enum>
+            <header>Requiring
+				participation in post-general election surveys</header>
+						<subsection id="HB68886F4F0434875BF6E60B78864BFDD">
+              <enum>(a)</enum>
+              <header>Requirement</header>
+              <text display-inline="yes-display-inline">Each State shall furnish to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref>
+				such information as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref> may request for purposes of conducting any
+				post-election survey of the States with respect to the administration of a
+				regularly scheduled general election for Federal office.</text>
+						</subsection>
+            <subsection id="H999966D0C5D7409DAC2456912023B675">
+              <enum>(b)</enum>
+              <header>Effective
+				date</header>
+              <text>This section shall apply with respect to the regularly
+				scheduled general election for Federal office held in November 2014 and any
+				succeeding
+				election.</text>
+						</subsection>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+      <subsection id="HC33ACA2A0E0A4BDEBEF69911564D3A6F">
+        <enum>(b)</enum>
+        <header>Conforming
+			 amendment relating to enforcement</header>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Help America Vote Act of 2002/s:401">Section 401 of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/15511">42
+			 U.S.C. 15511</cato:entity-ref>)</cato:entity> is amended by striking <quote>and 303</quote> and inserting
+			 <quote>303, and 303A</quote>.</text>
+			</subsection>
+      <subsection id="HF7758264F28C4F298AD9C52F52E1241D">
+        <enum>(c)</enum>
+        <header>Clerical
+			 amendment</header>
+        <text>The table of contents of such Act is amended by inserting after the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Help America Vote Act of 2002/s:303">section 303</cato:entity-ref> the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="H3893927F2B2E4FF9AD020DF3681642F1" style="OLC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">Sec. 303A. Requiring participation in
+				post-general election
+				surveys.</toc-entry>
+					</toc>
+					<after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+    </section>
+    <section id="H27E43664D2E248129E914347381066CB">
+      <enum>4.</enum>
+      <header>Determining
+			 extent to which disabled individuals have access to polling places</header>
+			<subsection id="H4D403F89F5234B1980DC6635D3AE614C">
+        <enum>(a)</enum>
+        <header>Ongoing surveys
+			 of compliance with ADA</header>
+        <text>In accordance with <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Help America Vote Act of 2002/s:241">section 241 of the Help
+			 America Vote Act of 2002</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/15381">42 U.S.C. 15381</external-xref>)</cato:entity>, not later than 180 days after the
+			 date of the regularly scheduled general election for Federal office held in
+			 November 2014 and each succeeding regularly scheduled general election for
+			 Federal office, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Election Assistance Commission</cato:entity-ref>, shall, with the assistance
+			 of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0500">Comptroller General</cato:entity-ref>, conduct and publish a survey of each polling place
+			 used for the election to determine the percentage of such polling places that
+			 were in compliance with the standards applicable to such locations under the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Americans With Disabilities Act of 1990">Americans With Disabilities Act of 1990</cato:entity-ref>.</text>
+			</subsection>
+      <subsection id="H260087935873497DB7B72C75D78D87C1">
+        <enum>(b)</enum>
+        <header>Evaluation of
+			 need To continue surveys</header>
+        <text display-inline="yes-display-inline">At
+			 the time the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Election Assistance Commission</cato:entity-ref> publishes the results of the survey
+			 conducted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="EAC Improvements Act of 2013/s:4/ss:a" proposed="true">subsection (a)</cato:entity-ref> with respect to the regularly scheduled general
+			 election for Federal office held in November 2022, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref> shall
+			 evaluate and make a recommendation to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> regarding whether the percentage
+			 of polling places in compliance with the standards applicable to such locations
+			 under the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Americans With Disabilities Act of 1990">Americans With Disabilities Act of 1990</cato:entity-ref> has increased to such an
+			 extent that there is no longer a need to conduct surveys under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="EAC Improvements Act of 2013/s:4/ss:a" proposed="true">subsection (a)</cato:entity-ref>
+			 with respect to subsequent elections.</text>
+			</subsection>
+    </section>
+    <section id="H64D0FF980A7444F8AAD90BE85618467E">
+      <enum>5.</enum>
+      <header>Establishment of
+			 procedures and fee schedules for conducting testing of voting equipment
+			 hardware and software; payment of user fees for compensation of accredited
+			 laboratories</header>
+			<subsection id="H97CC630C85BF4C7B9DBB57A02AA65381">
+        <enum>(a)</enum>
+        <header>In
+			 General</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Help America Vote Act of 2002/s:231/ss:b">Section 231(b) of the
+			 Help America Vote Act of 2002</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/15371">
+              <cato:entity-ref entity-type="uscode" value="usc/42/15371/b">42 U.S.C. 15371(b)</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended by adding at the
+			 end the following new paragraphs:</text>
+				<quoted-block display-inline="no-display-inline" id="H794F95BE9BB241028BD4321437C4C373" style="OLC">
+					<paragraph id="HBDC618F14B604C069E924C3886A27D7B">
+            <enum>(3)</enum>
+            <header>Procedures for
+				conducting testing; payment of user fees for compensation of accredited
+				laboratories</header>
+						<subparagraph id="H766045A1385145BB9351791B3345A393">
+              <enum>(A)</enum>
+              <header>Establishment of
+				escrow account</header>
+              <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref>
+				shall establish an escrow account (to be known as the <quote>Testing Escrow
+				Account</quote>) that will serve as the exclusive source for making payments to
+				accredited laboratories for the costs of the testing carried out in connection
+				with the certification, decertification, and recertification of voting system
+				hardware and software.</text>
+						</subparagraph>
+            <subparagraph id="H41AB8EBB46FB4B79A16A7E0DC2B273AC">
+              <enum>(B)</enum>
+              <header>Schedule of
+				fees</header>
+              <text display-inline="yes-display-inline">In consultation with the accredited laboratories, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref> shall establish and regularly update a schedule of fees for the testing carried out in connection with the certification, decertification, and recertification of voting system hardware and software, based on the reasonable costs expected to be incurred by the accredited laboratories in carrying out the testing for various types of hardware and software.</text>
+						</subparagraph>
+            <subparagraph id="HADA9425C85F940F586CAE79F9559E5F4">
+              <enum>(C)</enum>
+              <header>Requests and
+				payments by manufacturers</header>
+              <text display-inline="yes-display-inline">A
+				manufacturer of voting system hardware and software may not have the hardware
+				or software tested by an accredited laboratory under this section
+				unless—</text>
+							<clause id="H36200CE0375843BD9816615DFD38B5A8">
+                <enum>(i)</enum>
+                <text>the manufacturer
+				submits a detailed request for the testing to the Commission;</text>
+							</clause>
+              <clause id="H25FD165878E84B0683D3871DEE71951D">
+                <enum>(ii)</enum>
+                <text display-inline="yes-display-inline">the request provides sufficient information
+				for the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref> to determine the applicable fee for the testing under the
+				schedule established and in effect under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Help America Vote Act of 2002/s:231/ss:b/p:3/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>;</text>
+							</clause>
+              <clause id="H7834B9EAC56C4011AC1EEA1DC8ECDA98">
+                <enum>(iii)</enum>
+                <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref>
+				approves the request; and</text>
+							</clause>
+              <clause id="H233F5031DACE4647A8CB5DCC7D7DC58B">
+                <enum>(iv)</enum>
+                <text>the manufacturer
+				pays to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref>, for deposit into the Testing Escrow Account established
+				under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Help America Vote Act of 2002/s:231/ss:b/p:3/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>, the applicable fee for the testing.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph display-inline="no-display-inline" id="HE167F2B0024F4E6FBA228AFF1225927F">
+              <enum>(D)</enum>
+              <header>Selection of
+				laboratory</header>
+              <text>Upon approving a request for testing and receiving the
+				payment from a manufacturer required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Help America Vote Act of 2002/s:231/ss:b/p:3/sp:C" proposed="true">subparagraph (C)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref>
+				shall select at random (to the greatest extent practicable), from all
+				laboratories which are accredited under this section to carry out the specific
+				testing requested by the manufacturer, an accredited laboratory to carry out
+				the testing.</text>
+						</subparagraph>
+            <subparagraph id="H3657E5DE979C4830BCDA01B11AED493F">
+              <enum>(E)</enum>
+              <header>Payments to
+				laboratories</header>
+              <text display-inline="yes-display-inline">Upon determining
+				that a laboratory selected to carry out testing pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Help America Vote Act of 2002/s:231/ss:b/p:3/sp:D" proposed="true">subparagraph (D)</cato:entity-ref>
+				has completed the testing in accordance with the approved request, the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref> shall make a payment to the laboratory from the Testing Escrow
+				Account established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Help America Vote Act of 2002/s:231/ss:b/p:3/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> in an amount equal to the applicable
+				fee paid by the manufacturer under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Help America Vote Act of 2002/s:231/ss:b/p:3/sp:C/cl:iv" proposed="true">subparagraph (C)(iv)</cato:entity-ref>.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph display-inline="no-display-inline" id="H19A4E313649B45789F6C6AD134AC2254">
+            <enum>(4)</enum>
+            <header>Dissemination of
+				additional information on accredited laboratories</header>
+						<subparagraph id="H7DB22D6DEF9440F69EDC0FC413CC8B0A">
+              <enum>(A)</enum>
+              <header>List of
+				accredited laboratories</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref> shall maintain and publish
+				an updated list of all accredited laboratories under this section.</text>
+						</subparagraph>
+            <subparagraph id="H864E500A45814F1E8E96215F1F69A429">
+              <enum>(B)</enum>
+              <header>Information on
+				status of laboratories</header>
+              <text display-inline="yes-display-inline">In
+				addition to updating the list maintained and published under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Help America Vote Act of 2002/s:231/ss:b/p:4/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>,
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref> shall promptly notify <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>, the chief State election
+				official of each State, and the public whenever—</text>
+							<clause id="H42F5F9CA26B64DCCAC9D23C8E46503D8">
+                <enum>(i)</enum>
+                <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref> revokes, terminates, or suspends the accreditation of a laboratory under this section;</text>
+							</clause>
+              <clause id="H52AF2F4E96E748DDA27A38F893FAC0F5">
+                <enum>(ii)</enum>
+                <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref> restores the accreditation of a laboratory under this section which has been revoked, terminated, or suspended; or</text>
+							</clause>
+              <clause id="HD356D955D06E47219293CA833D4E1B6C">
+                <enum>(iii)</enum>
+                <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref>
+				has credible evidence of a significant security failure at an accredited
+				laboratory.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="H0B6A02AEED6F448A815B5BCFECC2E275">
+              <enum>(C)</enum>
+              <header>Information on
+				testing</header>
+              <text display-inline="yes-display-inline">Upon completion of the testing of a voting system under this section, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref> shall promptly disseminate to the public the identification of the laboratory which carried out the testing.</text>
+						</subparagraph>
+          </paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+      <subsection id="H19864B58C50643D5B2F8E1FAB4EB1219">
+        <enum>(b)</enum>
+        <header>Conforming
+			 Amendments</header>
+        <text>
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Help America Vote Act of 2002/s:231">Section 231 of such Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/15371">42 U.S.C. 15371</cato:entity-ref>)</cato:entity> is further amended—</text>
+				<paragraph id="H550184DFB8FC4740B0A074E9ACE29CCD">
+          <enum>(1)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Help America Vote Act of 2002/s:231/ss:a/p:1">subsection (a)(1)</cato:entity-ref>, by striking <quote>testing, certification,</quote> and all that follows and inserting the following: <quote>testing of voting system hardware and software by accredited laboratories in connection with the certification, decertification, and recertification of the hardware and software for purposes of this Act.</quote>;</text>
+				</paragraph>
+        <paragraph id="HBBEA39C250664C8D9E1AA35CEE9086B3">
+          <enum>(2)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Help America Vote Act of 2002/s:231/ss:a/p:2">subsection (a)(2)</cato:entity-ref>, by striking <quote>testing, certification,</quote> and all that follows and inserting the following: <quote>testing of its voting system hardware and software by the laboratories accredited by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref> under this section in connection with certifying, decertifying, and recertifying the hardware and software.</quote>;</text>
+				</paragraph>
+        <paragraph id="HA13BDA49093C45209AC94EE11322D879">
+          <enum>(3)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Help America Vote Act of 2002/s:231/ss:b/p:1">subsection (b)(1)</cato:entity-ref>, by striking <quote>testing, certification, decertification, and recertification</quote> and inserting <quote>testing</quote>; and</text>
+				</paragraph>
+        <paragraph id="H1F1B30B681EF454290FE2946DFF560A0">
+          <enum>(4)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Help America Vote Act of 2002/s:231/ss:d">subsection (d)</cato:entity-ref>, by striking <quote>testing, certification, decertification, and recertification</quote> each place it appears and inserting <quote>testing</quote>.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="H7F3DF1C3023E44F192951DE02387DC6A">
+        <enum>(c)</enum>
+        <header>Deadline for
+			 Establishment of Escrow Account and Schedule of Fees</header>
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Election
+			 Assistance Commission</cato:entity-ref> shall establish the Testing Escrow Account and schedule
+			 of fees described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Help America Vote Act of 2002/s:231/ss:b/p:3">section 231(b)(3) of the Help America Vote Act of 2002</cato:entity-ref> (as
+			 added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="EAC Improvements Act of 2013/s:5/ss:a" proposed="true">subsection (a)</cato:entity-ref>) not later than January 1, 2014.</text>
+			</subsection>
+    </section>
+    <section id="H35709814B1034778BCDEFB27C966DDC5">
+      <enum>6.</enum>
+      <header>Study of methods
+			 to reduce costs of administering elections</header>
+			<subsection id="H3C83A29F330C4CC391AAACAE85481F78">
+        <enum>(a)</enum>
+        <header>Analysis of
+			 factors affecting costs of administering elections</header>
+        <text display-inline="yes-display-inline">The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Election Assistance Commission</cato:entity-ref> shall conduct a study analyzing various factors
+			 that affect the costs to States and units of local government of administering
+			 elections for Federal office, including the following specific factors:</text>
+				<paragraph id="H5E1EF7A5C22245A59B0B23C9E9162BB7">
+          <enum>(1)</enum>
+          <text>The durability of
+			 the equipment used in voting systems.</text>
+				</paragraph>
+        <paragraph id="H649DCAE222614C0EAE443FCD4BA897B4">
+          <enum>(2)</enum>
+          <text>The extent to
+			 which States and units of local government must replace existing systems
+			 because such systems are not capable of using enhanced software or are not
+			 capable of being upgraded in a cost-effective manner.</text>
+				</paragraph>
+        <paragraph id="H7B20A2A7AFA04764AC038A90C6434EA8">
+          <enum>(3)</enum>
+          <text>The lack of
+			 competition among vendors and manufacturers of the equipment used in voting
+			 systems because of consolidation in the voting system industry.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="H7148656802914DF38083101BF6FC4290">
+        <enum>(b)</enum>
+        <header>Recommendations
+			 for steps To reduce costs</header>
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref> shall include in the
+			 study conducted under this section such recommendations as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref> shall
+			 consider appropriate to reduce the costs incurred by States and units of local
+			 government in administering elections for Federal office, including
+			 recommendations for legislative action by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> or the States.</text>
+			</subsection>
+      <subsection id="H38F5BDEF5BB940A7AE7B621FE311D765">
+        <enum>(c)</enum>
+        <header>Deadline</header>
+        <text>Not
+			 later than 180 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref>
+			 shall submit the study conducted under this section to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>.</text>
+			</subsection>
+    </section>
+    <section id="HEC6F247C41BF4262AFE3464C56B30C8F">
+      <enum>7.</enum>
+      <header>Study of methods
+			 for increasing efficiency and cost-effectiveness of election assistance
+			 commission</header>
+			<subsection id="HC39D8993DDFC46FF80EACBADAFEE5744">
+        <enum>(a)</enum>
+        <header>Study</header>
+        <text>The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0500">Comptroller General</cato:entity-ref> shall conduct a study of the administrative operations of
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Election Assistance Commission</cato:entity-ref>, and shall include in the study an analysis
+			 of various methods for increasing the efficiency and cost-effectiveness of such
+			 operations.</text>
+			</subsection>
+      <subsection id="HC33F8C4A68C44365B353087DD696F4B0">
+        <enum>(b)</enum>
+        <header>Deadline;
+			 report</header>
+        <text>Not later than 90 days after the date of the enactment of
+			 this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0500">Comptroller General</cato:entity-ref> shall submit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a report on the
+			 study conducted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="EAC Improvements Act of 2013/s:7/ss:a" proposed="true">subsection (a)</cato:entity-ref>, and shall include in the report such
+			 recommendations as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0500">Comptroller General</cato:entity-ref> considers appropriate.</text>
+			</subsection>
+      <subsection id="HB46CAA8C41C44708AFCD74147518C395">
+        <enum>(c)</enum>
+        <header>Participation of
+			 Election Assistance Commission</header>
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Election Assistance Commission</cato:entity-ref>
+			 shall provide the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0500">Comptroller General</cato:entity-ref> with such assistance as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0500">Comptroller
+			 General</cato:entity-ref> may require to carry out this section.</text>
+			</subsection>
+    </section>
+  </legis-body>
+</bill>
+</doc>
