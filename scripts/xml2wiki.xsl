@@ -18,9 +18,7 @@
 <variable name="committees" select="document('../lookups/committee.xml')"/>
 <variable name="federal-bodies" select="document('../lookups/federal-body.xml')"/>
 
-
 <key name="wikipedia" match="/items/item/@wikipedia" use="../@id"/>
-
 
 <template name="search-and-replace">
     <param name="input"/>
@@ -98,10 +96,9 @@
 <variable name="billtype" select="/doc/docmeta/bill/@type"/>
 
 <template match="/doc">
-<variable name="action-date" select="*[2]/form/action/action-date/@date"/>
-{{header
+<variable name="action-date" select="*[2]/form/action/action-date/@date"/>{{header
  | title      = <value-of select="normalize-space($besttitle)"/> ( <value-of select='translate($billtype, "abcdefghijklmnopqrstuvwxyz", "ABCDEFGHIJKLMNOPQRSTUVWXYZ")'/> <value-of select="docmeta/bill/@number"/> ; <value-of select="docmeta/bill/@congress"/><text>th Congress)</text>
- | author     = <value-of select="//sponsor[text()]"/>
+ | author     = <value-of select="$author"/>
  | related_author = United States Congress
  | translator = 
  | section    = 
@@ -121,7 +118,6 @@
  | purpose    = <value-of select="normalize-space(*[2]/form/official-title)"/>
  | wikipedia  =
 }}
-
 <apply-templates select="*[2]"/>
 <text>
 {{PD-USGov}}
@@ -132,6 +128,7 @@
 
 
 <template match="distribution-code"/>
+<template match="dublinCore"/>
 
 <template match="congress|session|legis-num|legis-type|current-chamber|action-desc|action-date">
 {{Center|<apply-templates/>}}
@@ -238,8 +235,8 @@
  -->
 
 <template match="toc">
-    <!-- TOC is created by hand -->
-    <text>__NOTOC__&#xA;</text>
+    <!-- TOC is created by hand 
+    <text>__NOTOC__&#xA;</text>-->
     <apply-templates/>
 </template>
 
