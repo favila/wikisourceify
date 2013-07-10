@@ -190,6 +190,13 @@
     </call-template>
 </template>
 
+<template match="cato:entity-ref[@entity-type='committee']">
+    <text> </text>    
+    <call-template name="wikilink">
+        <with-param name="id" select="(@entity-id | @committee)[1]"/>
+        <with-param name="idx" select="$committees"/>
+    </call-template>
+</template>
 
 <template match="cato:entity-ref[@entity-type='public-law']
     | external-xref[@legal-doc='public-law']">
