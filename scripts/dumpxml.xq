@@ -16,5 +16,5 @@ return document { element doc { $head, $body } }
 };
 for $doc in local:docs-with-meta()
 let $bill := $doc/doc/docmeta/bill,
-    $docname := concat($bill/@congress, $bill/@type, $bill/@number)
+    $docname := concat($bill/@congress, $bill/@type, $bill/@number, $bill/@version)
 return put($doc, concat('file://', $cwd,  $docname, '.xml'))
