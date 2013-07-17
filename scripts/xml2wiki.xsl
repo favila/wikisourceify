@@ -67,9 +67,9 @@
  -->
 
 <template match="quote">
-    <text>“</text>
+    <text> “</text>
     <apply-templates/>
-    <text>”</text>
+    <text>” </text>
 </template>
 
 <template name="wikipedia-key">
@@ -207,12 +207,17 @@
     <text>]] </text>
 </template>
 
+<!-- We need to suppress the external-xref when it's a usc mention AND contained within one of our usc
+references. This isn't perfect but it presumed that if we wrapped it we did so to provide a more
+specific reference than the external one.
+    -->
+
 <template match="cato:entity-ref[@entity-type='uscode'][starts-with(@value, 'usc/')]
-    |external-xref[@legal-doc='usc']">
+    |external-xref[@legal-doc='usc' and not(parent::cato:entity-ref[@entity-type='uscode'])]">
     <variable name="parts" select="str:tokenize(@value, '/')"/>
     <variable name="title" select="$parts[2]"/>
     <variable name="section" select="$parts[3]"/>
-    <text>[http://www.law.cornell.edu/uscode/text/</text>
+    <text> [http://www.law.cornell.edu/uscode/text/</text>
     <value-of select="concat($title,'/',$section)"/>
     <text> </text>
     <apply-templates/>
