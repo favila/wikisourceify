@@ -215,7 +215,7 @@ Using the key and Muenchian grouping to remove dupes
     <variable name="parts" select="str:tokenize(@value, '/')"/>
     <variable name="congress" select="$parts[2]"/>
     <variable name="sal-number" select="$parts[3]"/>
-    <text>{{SAL</text>
+    <text>{{USStatute</text>
     <value-of select="concat($congress, '|', $sal-number)"/>
     <text>}}</text>
 </template>
@@ -298,7 +298,7 @@ wuff what a hassle. this is option but may have values like:
     </call-template>
 </variable>
 -->
-{{Infobox U.S. legislation
+{{Infobox United States federal proposed legislation
 | name            = <value-of select="normalize-space($shorttitle)"/>
 | fullname        = <value-of select="normalize-space($fulltitle)"/>
 | acronym         = 
