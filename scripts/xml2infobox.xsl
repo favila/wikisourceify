@@ -131,7 +131,7 @@
     <value-of select="$wikipage"/>
     <text>|</text>
     <value-of select="$wikiname"/>    
-    <text>]] </text>
+    <text>]], </text>
 </template>
 
 <template match="committee-name">
@@ -175,11 +175,11 @@
     </variable>
     <choose>
         <when test="$wikipage">
-            <text>[[w:</text>
+            <text>[[</text>
             <value-of select="$wikipage"/>
             <text>|</text>
             <apply-templates/>
-            <text>]] </text>
+            <text>]], </text>
         </when>
         <otherwise>
             <apply-templates/>
@@ -188,36 +188,127 @@
 </template>
 
 
+<template match="cato:entity-ref[@entity-type='uscode'][starts-with(@value, 'usc/')]
+    |external-xref[@legal-doc='usc' and not(parent::cato:entity-ref[@entity-type='uscode'])]">
+    <variable name="parts" select="str:tokenize(@value, '/')"/>
+    <variable name="title" select="$parts[2]"/>
+    <variable name="section" select="$parts[3]"/>
+    <text>[http://www.law.cornell.edu/uscode/text/</text>
+    <value-of select="concat($title,'/',$section)"/>
+    <text> </text>
+    <apply-templates/>
+    <text>], </text>
+</template>
+
 <!--
 Using the key and Muenchian grouping to remove dupes
 -->
-<template match="cato:entity-ref[@entity-type='federal-body']">
-    <for-each select="entity-ref[count(. | key('federal-bodies', @entity-id)[1]) = 1]">
-        <for-each select="key('federal-bodies', @entity-id)">
+<!-- <template match="cato:entity-ref[@entity-type='federal-body']">
+    <for-each select="cato:entity-ref[count(. | key('federal-bodies', (@entity-id | @entity-parent-id)[1])[1]) = 1]">
+        <for-each select="key('federal-bodies', (@entity-id | @entity-parent-id)[1])">
             <call-template name="wikilink">
                 <with-param name="id" select="(@entity-id | @entity-parent-id)[1]"/>
                 <with-param name="idx" select="$federal-bodies"/>
             </call-template>
         </for-each>
     </for-each>
+</template> -->
+
+
+
+
+<template match="cato:entity[@entity-type='auth-auth-approp']">
+ <!-- within this we need the funds-and-year tag for elements @amount & @year -->
+     <for-each select="cato:funds-and-year">
+        <text>[AAA:(amount:</text>
+        <value-of select="concat(@amount, '|year:', @year)"/>
+        <text>)],</text>
+    </for-each>
 </template>
 
-<template match="cato:entity-ref[@entity-type='public-law']">
+<template match="cato:entity[@entity-type='auth-approp']">
+ <!-- within this we need the funds-and-year tag for elements @amount & @year -->
+<!--     <text>[AA:</text>
+    <value-of select="concat(@amount, '|', @year)"/>
+    <text>].</text>    
+ -->
+     <for-each select="cato:funds-and-year">
+        <text>[AA:(amount:</text>
+        <value-of select="concat(@amount, '|year:', @year)"/>
+        <text>)],</text>
+    </for-each>
+</template>
+
+<template match="cato:entity-ref[@entity-type='federal-body']">
+            <call-template name="wikilink">
+                <with-param name="id" select="(@entity-id | @entity-parent-id)[1]"/>
+                <with-param name="idx" select="$federal-bodies"/>
+            </call-template>
+</template>    
+
+<template match="cato:entity-ref[@entity-type='federal-body']">
+            <call-template name="wikilink">
+                <with-param name="id" select="(@entity-id | @entity-parent-id)[1]"/>
+                <with-param name="idx" select="$federal-bodies"/>
+            </call-template>
+</template>
+
+<!-- This may actually not be necessary; do we not have anywhere in the info box for PL? -->
+ <template match="cato:entity-ref[@entity-type='public-law']">
     <variable name="parts" select="str:tokenize(@value, '/')"/>
     <variable name="congress" select="$parts[2]"/>
     <variable name="pl-number" select="$parts[3]"/>
-    <text>{{USPL</text>
+    <text>{{USPL|</text>
     <value-of select="concat($congress, '|', $pl-number)"/>
-    <text>}}</text>
+    <text>}},</text>
 </template>
 
 <template match="cato:entity-ref[@entity-type='statute-at-large']">
     <variable name="parts" select="str:tokenize(@value, '/')"/>
     <variable name="congress" select="$parts[2]"/>
     <variable name="sal-number" select="$parts[3]"/>
-    <text>{{USStatute</text>
+    <text>{{USStatute|</text>
     <value-of select="concat($congress, '|', $sal-number)"/>
-    <text>}}</text>
+    <text>}},</text>
+</template>
+
+<template match="cato:entity-ref[@entity-type='uscode'][starts-with(@value, 'usc/')]
+    |external-xref[@legal-doc='usc' and not(parent::cato:entity-ref[@entity-type='uscode'])]">
+    <variable name="parts" select="str:tokenize(@value, '/')"/>
+    <variable name="descr" select="$parts[1]"/>    
+    <variable name="title" select="$parts[2]"/>
+    <variable name="section" select="$parts[3]"/>
+    <variable name="ss1" select="$parts[4]"/>
+    <variable name="ss2" select="$parts[5]"/>
+    <variable name="ss3" select="$parts[6]"/>
+
+    <text></text>
+    <if test="string-length($title) > 0">
+        <text>{{USCSub|</text>
+        <value-of select="$title"/>
+        <if test="string-length($section) > 0">
+            <text>|</text><value-of select="$section"/>
+        </if>
+        <if test="string-length($ss1) > 0">
+            <text>|</text><value-of select="$ss1"/>
+        </if>
+        <if test="string-length($ss2) > 0">
+            <text>|</text><value-of select="$ss2"/>
+        </if>
+        <if test="string-length($ss3) > 0">
+            <text>|</text><value-of select="$ss3"/>
+        </if>
+        <text>}}</text>        
+    </if>
+    <text>, </text>     
+</template>
+
+<template match="cato:entity-ref[@entity-type='act']">
+    <variable name="parts" select="str:tokenize(@value, '/')"/>
+    <variable name="title" select="$parts[1]"/>
+    <text>"</text>
+    <value-of select="$title"/>
+    <text>", </text>
 </template>
 
 <!-- 
@@ -276,6 +367,12 @@ wuff what a hassle. this is option but may have values like:
     <apply-templates select="//cato:entity-ref[@entity-type='federal-body']"/>
 </variable>
 
+<variable name="acts">
+    <apply-templates select="//cato:entity-ref[@entity-type='act']">
+        <sort select="@parts" />
+    </apply-templates>
+</variable>
+
 <variable name="public-law">
     <apply-templates select="//cato:entity-ref[@entity-type='public-law']"/>
 </variable>
@@ -288,6 +385,13 @@ wuff what a hassle. this is option but may have values like:
     <apply-templates select="//cato:entity-ref[@entity-type='statute-at-large']"/>
 </variable>
 
+<variable name="auth-approp">
+    <apply-templates select="//cato:entity[@entity-type='auth-auth-approp']"/>
+</variable>
+
+<variable name="approp">
+    <apply-templates select="//cato:entity[@entity-type='auth-approp']"/>
+</variable>
 
 <template match="/doc">
 <!--
@@ -308,19 +412,19 @@ wuff what a hassle. this is option but may have values like:
 | sponsored by    = <value-of select="$author"/>
 | number of co-sponsors = <value-of select="count(//cosponsor)"/>
 | public law url  = 
-| cite public law = <value-of select="$public-law"/><!--{{USPL|XXX|YY}} where X is the congress number and Y is the law number-->
+| cite public law = <!-- <value-of select="$public-law"/> --><!--{{USPL|XXX|YY}} where X is the congress number and Y is the law number-->
 | cite statutes at large = <value-of select="$statute-at-large"/><!--{{usstat}} can be used-->
-| acts amended    = <!--list, if applicable; make wikilinks where possible-->
+| acts affected    = <value-of select="$acts"/><!--list, if applicable; make wikilinks where possible-->
 | acts repealed   = <!--list, if applicable; make wikilinks where possible-->
-| title amended   = <!--US code titles changed-->
+| title affected   = <!--US code titles changed-->
 | sections created = <!--{{USC}} can be used-->
-| sections amended = <!--list, if applicable; make wikilinks where possible-->
+| sections affected = <value-of select="$uscode"/><!--list, if applicable; make wikilinks where possible-->
 | agenciesaffected = <value-of select="$agencies-affected"/> <!--list of federal agencies that would be affected by the legislation, wikilinks where possible-->
-| authorizationsofappropriations = <!--a dollar amount, with dollar sign, possibly including a time period-->
-| appropriations = <!--a dollar amount, with dollar sign, possibly including a time period-->
+| authorizationsofappropriations = <value-of select="$auth-approp"/> <!--a dollar amount, with dollar sign, possibly including a time period-->
+| appropriations = <value-of select="$approp"/> <!--a dollar amount, with dollar sign, possibly including a time period-->
 | leghisturl      = 
 | introducedin    = <value-of select="$chamber"/>
-| introducedbill  = ''{{USBill|<value-of select="docmeta/bill/@congress"/>|<value-of select="$billtype"/>|<value-of select="docmeta/bill/@number"/>}}''
+| introducedbill  = {{USBill|<value-of select="docmeta/bill/@congress"/>|<value-of select="$billtype"/>|<value-of select="docmeta/bill/@number"/>}}
 | introducedby    = <value-of select="$author"/>
 | introduceddate  = <value-of select="*[2]/form/action/action-date[text()]"/>
 | committees      = <apply-templates select="bill/form/action/action-desc/committee-name"/>
