@@ -23,6 +23,7 @@
 <key name="nicename" match="/items/item/@name" use="../@id"/>
 <key name="committees" match="/doc/bill/form/action/committee-name" use="committee-id" />
 <key name="federal-bodies" match="cato:entity-ref[@entity-type='federal-body']" use="@entity-id"/>
+<key name="act-names" match="cato:entity-ref[@entity-type='act']" use="str:tokenize(@value, '/')[1]"/>
 
 <template name="search-and-replace">
     <param name="input"/>
@@ -127,10 +128,8 @@
             <with-param name="lookupdoc" select="$committees"/>
         </call-template>
     </variable>    
-    <text>[[w:</text>
+    <text>[[</text>
     <value-of select="$wikipage"/>
-    <text>|</text>
-    <value-of select="$wikiname"/>    
     <text>]], </text>
 </template>
 
@@ -179,6 +178,29 @@
             <value-of select="$wikipage"/>
             <text>|</text>
             <apply-templates/>
+            <text>]], </text>
+        </when>
+        <otherwise>
+            <apply-templates/>
+        </otherwise>
+    </choose>
+</template>
+
+<!-- We've added this because we want the full wikipedia names for these wikilinks (as opposed to the people)
+ -->
+ <template name="wikilinkfederalbodies">
+    <param name="id"/>
+    <param name="idx"/>
+    <variable name="wikipage">
+        <call-template name="wikipedia-key">
+            <with-param name="id" select="$id"/>
+            <with-param name="lookupdoc" select="$idx"/>
+        </call-template>
+    </variable>
+    <choose>
+        <when test="$wikipage">
+            <text>[[</text>
+            <value-of select="$wikipage"/>
             <text>]], </text>
         </when>
         <otherwise>
@@ -240,18 +262,11 @@ Using the key and Muenchian grouping to remove dupes
 </template>
 
 <template match="cato:entity-ref[@entity-type='federal-body']">
-            <call-template name="wikilink">
+            <call-template name="wikilinkfederalbodies">
                 <with-param name="id" select="(@entity-id | @entity-parent-id)[1]"/>
                 <with-param name="idx" select="$federal-bodies"/>
             </call-template>
 </template>    
-
-<template match="cato:entity-ref[@entity-type='federal-body']">
-            <call-template name="wikilink">
-                <with-param name="id" select="(@entity-id | @entity-parent-id)[1]"/>
-                <with-param name="idx" select="$federal-bodies"/>
-            </call-template>
-</template>
 
 <!-- This may actually not be necessary; do we not have anywhere in the info box for PL? -->
  <template match="cato:entity-ref[@entity-type='public-law']">
@@ -352,24 +367,21 @@ wuff what a hassle. this is option but may have values like:
       </choose>
     </template>
 
-<!--
-<template name="agencies-affected" select="/entity-ref[@entity-type='federal-body']">
-    <for-each select="entity-ref[@entity-type='federal-body']">
-    <call-template name="wikilink">
-        <with-param name="id" select="(@entity-id | @entity-parent-id)[1]"/>
-        <with-param name="idx" select="$federal-bodies"/>
-    </call-template>
-    </for-each>
-</template>
--->
-
+<!-- Deduped! -->
 <variable name="agencies-affected">
-    <apply-templates select="//cato:entity-ref[@entity-type='federal-body']"/>
+    <apply-templates select="//cato:entity-ref[@entity-type='federal-body' 
+        and generate-id(.) = generate-id(key('federal-bodies', (@entity-id | @entity-parent-id)[1])[1])
+        ]">
+        <sort select="(@entity-id | @entity-parent-id)[1]"/>
+    </apply-templates>
 </variable>
 
 <variable name="acts">
-    <apply-templates select="//cato:entity-ref[@entity-type='act']">
-        <sort select="@parts" />
+<!--         and generate-id(.) = generate-id(key('act-names', @value)[1]) -->
+    <apply-templates select="//cato:entity-ref[@entity-type='act' 
+        and generate-id(.) = generate-id(key('act-names', str:tokenize(@value, '/')[1])[1])
+        ]">
+        <sort select="@value" />
     </apply-templates>
 </variable>
 
