@@ -107,7 +107,7 @@
             <with-param name="lookupdoc" select="$people"/>
         </call-template>
     </variable>    
-    <text>[[w:</text>
+    <text>[[</text>
     <value-of select="$wikipage"/>
     <text>|</text>
     <value-of select="$wikiname"/>    
@@ -209,7 +209,7 @@
     </choose>
 </template>
 
-
+<!-- 
 <template match="cato:entity-ref[@entity-type='uscode'][starts-with(@value, 'usc/')]
     |external-xref[@legal-doc='usc' and not(parent::cato:entity-ref[@entity-type='uscode'])]">
     <variable name="parts" select="str:tokenize(@value, '/')"/>
@@ -221,7 +221,7 @@
     <apply-templates/>
     <text>], </text>
 </template>
-
+ -->
 <!--
 Using the key and Muenchian grouping to remove dupes
 -->
@@ -293,9 +293,9 @@ Using the key and Muenchian grouping to remove dupes
     <variable name="descr" select="$parts[1]"/>    
     <variable name="title" select="$parts[2]"/>
     <variable name="section" select="$parts[3]"/>
-    <variable name="ss1" select="$parts[4]"/>
+<!--     <variable name="ss1" select="$parts[4]"/>
     <variable name="ss2" select="$parts[5]"/>
-    <variable name="ss3" select="$parts[6]"/>
+    <variable name="ss3" select="$parts[6]"/> -->
 
     <text></text>
     <if test="string-length($title) > 0">
@@ -303,15 +303,6 @@ Using the key and Muenchian grouping to remove dupes
         <value-of select="$title"/>
         <if test="string-length($section) > 0">
             <text>|</text><value-of select="$section"/>
-        </if>
-        <if test="string-length($ss1) > 0">
-            <text>|</text><value-of select="$ss1"/>
-        </if>
-        <if test="string-length($ss2) > 0">
-            <text>|</text><value-of select="$ss2"/>
-        </if>
-        <if test="string-length($ss3) > 0">
-            <text>|</text><value-of select="$ss3"/>
         </if>
         <text>}}</text>        
     </if>
@@ -323,6 +314,10 @@ Using the key and Muenchian grouping to remove dupes
     <variable name="title" select="$parts[1]"/>
     <text>"</text>
     <value-of select="$title"/>
+    <text> [</text>
+    <value-of select="count(key('act-names', $title))"/>    
+    <text>]</text>
+
     <text>", </text>
 </template>
 
@@ -376,14 +371,21 @@ wuff what a hassle. this is option but may have values like:
     </apply-templates>
 </variable>
 
+<!-- DON TESTING -->
+<template name="act-name-only">
+    <value-of select="str:tokenize(element()/@value, '/')[1]"/>
+</template>
+
 <variable name="acts">
-<!--         and generate-id(.) = generate-id(key('act-names', @value)[1]) -->
     <apply-templates select="//cato:entity-ref[@entity-type='act' 
         and generate-id(.) = generate-id(key('act-names', str:tokenize(@value, '/')[1])[1])
         ]">
         <sort select="@value" />
     </apply-templates>
 </variable>
+
+
+<key name="act-names" match="cato:entity-ref[@entity-type='act']" use="str:tokenize(@value, '/')[1]"/>
 
 <variable name="public-law">
     <apply-templates select="//cato:entity-ref[@entity-type='public-law']"/>
