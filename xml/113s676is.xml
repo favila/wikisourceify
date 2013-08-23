@@ -1,0 +1,1541 @@
+<doc>
+  <docmeta id="113s676is">
+    <bill congress="113" type="s" number="676" version="is"/>
+    <revision size="47119" annotations="0" status="complete" id="8" commit-time="2013-08-20T14:30:15Z" committer="mbohmer" doc="113s676is/8.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata>
+<dublinCore>
+<title>113 S676 IS: Identity Theft and Tax Fraud Prevention Act of 2013</title>
+<publisher>U.S. Senate</publisher>
+<date>2013-04-09</date>
+<format>text/xml</format>
+<language>EN</language>
+<rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 676</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20130409">April 9, 2013</action-date>
+			<action-desc>
+        <sponsor name-id="S282">Mr. Nelson</sponsor> (for himself,
+			 <cosponsor name-id="S221">Mrs. Feinstein</cosponsor>, <cosponsor name-id="S270">Mr. Schumer</cosponsor>, and <cosponsor name-id="S308">Mr.
+			 Cardin</cosponsor>) introduced the following bill; which was read twice and
+			 referred to the <committee-name committee-id="SSFI00">Committee on
+			 Finance</committee-name>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To prevent tax-related identity theft and tax
+		  fraud.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short
+			 title, etc</header>
+			<subsection id="id924FBC8CF0324D2981BB8981B3E90686">
+        <enum>(a)</enum>
+        <header>Short
+			 title</header>
+        <text display-inline="yes-display-inline">This Act may be cited
+			 as the <quote>
+            <short-title>Identity Theft and Tax Fraud
+			 Prevention Act of 2013</short-title>
+          </quote>.</text>
+			</subsection>
+      <subsection id="id6B2569BA0FDE4F548F31AE4AFDE2647B">
+        <enum>(b)</enum>
+        <header>Table of
+			 contents</header>
+        <text>The table of contents of this Act is as follows:</text>
+				<toc>
+					<toc-entry idref="S1" level="section">Sec. 1. Short title,
+				etc.</toc-entry>
+					<toc-entry idref="id368FBB32AA1F458BB17866628CA48248" level="title">TITLE I—Protecting victims of tax-related identity
+				theft</toc-entry>
+					<toc-entry idref="ide7f6dfeaec6f4a99803af76385abd34b" level="section">Sec. 101. Expedited refunds for identity theft
+				victims.</toc-entry>
+					<toc-entry idref="idddcf463c5dc24a67805ff5b9fc57dc77" level="section">Sec. 102. Single point of contact for identity theft
+				victims.</toc-entry>
+					<toc-entry idref="id56867ea9e8c84ac2aeec03256ae8c7a5" level="section">Sec. 103. Enhancements to IRS PIN Program.</toc-entry>
+					<toc-entry idref="idebf63d7839d745cca1add44bc87ab83a" level="section">Sec. 104. Electronic filing opt out.</toc-entry>
+					<toc-entry idref="idACCC8044ECCC4A8E8685003C3D71626D" level="title">TITLE II—Shutting down abusive identity theft and tax fraud
+				schemes</toc-entry>
+					<toc-entry idref="id213BA7CA640C409A81BACAB293CCB090" level="section">Sec. 201. Restrictions on ability to use prepaid cards for tax
+				fraud.</toc-entry>
+					<toc-entry idref="id16E0A737D0594BD6A3EA5F45F680C1B9" level="section">Sec. 202. Limitation on multiple tax refunds to the same
+				account.</toc-entry>
+					<toc-entry idref="id73E5C468174D4D5EAF903253675B53D9" level="title">TITLE III—Adding critical new protections to safeguard social
+				security numbers</toc-entry>
+					<toc-entry idref="id23781CB5D4314E0CA33E597E63B55C63" level="section">Sec. 301. Restriction on access to the death master
+				file.</toc-entry>
+					<toc-entry idref="id4BC194CAC34D4FA2BD97F008A43F38BF" level="section">Sec. 302. Prohibiting the display of Social Security account
+				numbers on newly issued Medicare identification cards and communications
+				provided to Medicare beneficiaries.</toc-entry>
+					<toc-entry idref="ID7CC536A46D7547E8A1F7B8E1B93E4C8B" level="section">Sec. 303. Prohibition of the display, sale, or purchase of
+				Social Security numbers.</toc-entry>
+					<toc-entry idref="ID809003DC49BE480AB15715CE8D30F24E" level="section">Sec. 304. Criminal penalties for the misuse of a Social
+				Security number.</toc-entry>
+					<toc-entry idref="IDC8E2704C7FBA48B08F3FB5C66513656F" level="section">Sec. 305. Civil actions and civil penalties.</toc-entry>
+					<toc-entry idref="idB9871D259C1F4FC785A895236E8E876F" level="title">TITLE IV—Strengthening laws and improving enforcement against
+				tax-related identity theft</toc-entry>
+					<toc-entry idref="id7C8BFFAE82EB4FCCAB7EDE4E5D3672C2" level="section">Sec. 401. Criminal penalty for using a false identity in
+				connection with tax fraud.</toc-entry>
+					<toc-entry idref="idC040140CEDC342A693123B84CCA39703" level="section">Sec. 402. Increased penalty for improper disclosure or use of
+				information by preparers of returns.</toc-entry>
+					<toc-entry idref="idFEDCC114D1164A42BB323838E309D4DE" level="section">Sec. 403. Authority to transfer Internal Revenue Service
+				appropriations to use for tax fraud enforcement.</toc-entry>
+					<toc-entry idref="ide1fdf6af42b24ee8bf6a2ac6432a4d3a" level="section">Sec. 404. Local law enforcement liaison.</toc-entry>
+					<toc-entry idref="id42D0E69E7C1348C99BD11F10FC2878FB" level="title">TITLE V—Accelerating transition to a real-time tax system that
+				protects taxpayers and reduces fraud</toc-entry>
+					<toc-entry idref="id9E2A6E05E4D74A68B245DEF2B615A842" level="section">Sec. 501. Improvement in access to information in the National
+				Directory of New Hires for tax administration purposes.</toc-entry>
+					<toc-entry idref="idc1952975f0ba445c957cde0f32290422" level="section">Sec. 502. Plan of action for transitioning to a real-time tax
+				system.</toc-entry>
+				</toc>
+			</subsection>
+    </section>
+    <title id="id368FBB32AA1F458BB17866628CA48248">
+      <enum>I</enum>
+      <header>Protecting
+			 victims of tax-related identity theft</header>
+			<section id="ide7f6dfeaec6f4a99803af76385abd34b">
+        <enum>101.</enum>
+        <header>Expedited
+			 refunds for identity theft victims</header>
+        <text display-inline="no-display-inline">Not later than 180 days after the date of
+			 enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref>, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary’s</cato:entity-ref>
+			 delegate, shall establish a plan of action to reduce the administrative time
+			 required to process and resolve cases of identity theft in connection with tax
+			 returns, including the issuance of refunds to legitimate taxpayers, to no more
+			 than 90 days, on average.</text>
+			</section>
+      <section id="idddcf463c5dc24a67805ff5b9fc57dc77">
+        <enum>102.</enum>
+        <header>Single point
+			 of contact for identity theft victims</header>
+        <text display-inline="no-display-inline">Not later than 180 days after the date of
+			 enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref>, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary’s</cato:entity-ref>
+			 delegate, shall establish new procedures to ensure that any taxpayer whose
+			 return has been delayed or otherwise adversely affected due to identity theft
+			 has a single point of contact at the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2050">Internal Revenue Service</cato:entity-ref> throughout the
+			 processing of his or her case. The single point of contact shall track the case
+			 of the taxpayer from start to finish and coordinate with other specialized
+			 units to resolve case issues as quickly as possible.</text>
+			</section>
+      <section id="id56867ea9e8c84ac2aeec03256ae8c7a5">
+        <enum>103.</enum>
+        <header>Enhancements
+			 to IRS PIN Program</header>
+				<subsection id="id7986236E6C414526B57F0B6B7E124C64">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the
+			 Treasury</cato:entity-ref>, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary’s</cato:entity-ref> delegate, shall issue a personal identification
+			 number to identity theft victims as soon as practicable after their true
+			 identity has been established and verified.</text>
+				</subsection>
+        <subsection id="id120B896F29874614849582088049B8FE">
+          <enum>(b)</enum>
+          <header>Report</header>
+          <text display-inline="yes-display-inline">Not later than 360 days after the date of
+			 enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref> shall submit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a
+			 report analyzing the effectiveness of the program described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:103/ss:a" proposed="true">subsection (a)</cato:entity-ref>
+			 in reducing tax fraud.</text>
+				</subsection>
+      </section>
+      <section id="idebf63d7839d745cca1add44bc87ab83a">
+        <enum>104.</enum>
+        <header>Electronic
+			 filing opt out</header>
+        <text display-inline="no-display-inline">Not later than
+			 180 days after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the
+			 Treasury</cato:entity-ref>, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary’s</cato:entity-ref> delegate, shall implement a program under which a
+			 person who has filed an identity theft affidavit with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> may elect
+			 to prevent the processing of any Federal tax return submitted in an electronic
+			 format by a person purporting to be such a person.</text>
+			</section>
+    </title>
+    <title id="idACCC8044ECCC4A8E8685003C3D71626D">
+      <enum>II</enum>
+      <header>Shutting down
+			 abusive identity theft and tax fraud schemes</header>
+			<section id="id213BA7CA640C409A81BACAB293CCB090">
+        <enum>201.</enum>
+        <header>Restrictions
+			 on ability to use prepaid cards for tax fraud</header>
+				<subsection id="idB9500FC52EF44BD7B3A500C7EFD41831">
+          <enum>(a)</enum>
+          <header>Accounts with
+			 elevated risk of identity theft</header>
+					<paragraph id="id97071F41C8FF4A9AAF3476C9C8774998">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>Not later than 360 days after the date of the enactment
+			 this Act, the Federal primary financial regulatory agencies, in consultation
+			 with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref>, shall jointly prescribe regulations
+			 requiring newly issued deposit or transaction account numbers, as the case may
+			 be, to be distinguishable between verified accounts and at-risk
+			 accounts.</text>
+					</paragraph>
+          <paragraph id="idF4E573CC612748319C0DC9F0C008798B">
+            <enum>(2)</enum>
+            <header>Definitions</header>
+            <text>As
+			 used in this section—</text>
+						<subparagraph id="id3C417D757CF44E35AC81BAE8C17ED1FE">
+              <enum>(A)</enum>
+              <text>the term
+			 <quote>at-risk account</quote> means any deposit account or transaction
+			 account, including accounts associated with a prepaid access arrangement, that
+			 is not a verified account;</text>
+						</subparagraph>
+            <subparagraph id="id6AEF3B13F5124AD8B0FAFB6F8D483371">
+              <enum>(B)</enum>
+              <text>the term
+			 <quote>primary financial regulatory agency</quote> has the same meaning as in
+			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Dodd-Frank Wall Street Reform and Consumer Protection Act/s:2/ss:12">section 2(12) of the Dodd-Frank Wall Street Reform and Consumer Protection Act</cato:entity-ref>
+			 (<external-xref legal-doc="usc" parsable-cite="usc/12/5301">
+                    <cato:entity-ref entity-type="uscode" value="usc/12/5301/12">12 U.S.C. 5301(12)</cato:entity-ref>
+                  </external-xref>)</cato:entity>; and</text>
+						</subparagraph>
+            <subparagraph id="idE78648CFFEDA444DA3DA6A9065041038">
+              <enum>(C)</enum>
+              <text>the term
+			 <quote>verified account</quote> means any deposit account or transaction
+			 account in which the identity of the account holder and any prepaid access
+			 customer associated with the account is verified by—</text>
+							<clause id="idA0D580297E19440DB370C17E913E363E">
+                <enum>(i)</enum>
+                <text>customer
+			 identification procedures that comply with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5318/l">
+                    <external-xref legal-doc="usc" parsable-cite="usc/31/5318">section 5318(l)</external-xref> of title 31, United
+			 States Code</cato:entity-ref>; and</text>
+							</clause>
+              <clause id="id7502100458CD446FB36E13810BBC9A61">
+                <enum>(ii)</enum>
+                <text>direct review of
+			 an original, unexpired government-issued form of identification bearing a
+			 photograph or similar safeguard, such as a driver’s license or passport.</text>
+							</clause>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection id="id041A6829D21048E89D502C2A88EC0BE1">
+          <enum>(b)</enum>
+          <header>GAO audit of
+			 debit card issuers To ensure compliance with customer identification
+			 requirements</header>
+					<paragraph id="idDA17573DCFFA4F9CB4271983A7AE9A8B">
+            <enum>(1)</enum>
+            <header>Review and
+			 evaluation</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0500">Comptroller General of the United States</cato:entity-ref> shall
+			 review and evaluate the effectiveness of the current Customer Identification
+			 Program rules implementing the customer identification program requirements
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5318/l">
+                <external-xref legal-doc="usc" parsable-cite="usc/31/5318">section 5318(l)</external-xref> of title 31, United States Code</cato:entity-ref>, as such rules apply to
+			 the prepaid card industry.</text>
+					</paragraph>
+          <paragraph id="id36B19ED29BD24787AA73BDA05A85F332">
+            <enum>(2)</enum>
+            <header>Required
+			 considerations</header>
+            <text>The review and evaluation required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:201/ss:b/p:1" proposed="true">paragraph
+			 (1)</cato:entity-ref> shall—</text>
+						<subparagraph id="id786C288B0AC54ABB88A5750EC9CEE885">
+              <enum>(A)</enum>
+              <text>consider whether
+			 weaknesses in current customer identification programs are contributing to
+			 identity theft and financial loss, particularly with respect to tax fraud;
+			 and</text>
+						</subparagraph>
+            <subparagraph id="id0E0641DADF7C4FCFA23A916E7B4224CE">
+              <enum>(B)</enum>
+              <text>review
+			 whether—</text>
+							<clause id="idA0AB4E1E9EF34D26B537526F6A6A3F63">
+                <enum>(i)</enum>
+                <text>current
+			 risk-based standards for customer identification are the best means to prevent
+			 criminal use of prepaid cards and provide sufficient guidance and certainty to
+			 the sellers and providers of prepaid access;</text>
+							</clause>
+              <clause id="id6C6A41D4B7E44FEFBDA9A2601AE2A3AD">
+                <enum>(ii)</enum>
+                <text>current
+			 exclusions from customer identification requirements, such as exclusions for
+			 government benefit programs, are appropriate; and</text>
+							</clause>
+              <clause id="idD6316E30F1A54AB9AD43B97CC67C8DB9">
+                <enum>(iii)</enum>
+                <text>Federal
+			 regulatory agencies exercise adequate oversight and supervision of customer
+			 identification practices of the prepaid card industry.</text>
+							</clause>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="idAEF5EDAB14A442E8BCBE141A1FF89C8A">
+            <enum>(3)</enum>
+            <header>Report to
+			 Congress</header>
+            <text>Not later than 360 days after the date of the enactment
+			 this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0500">Comptroller General of the United States</cato:entity-ref> shall submit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
+			 a report—</text>
+						<subparagraph id="id06B519E17C4D4941823F2B2E8238344C">
+              <enum>(A)</enum>
+              <text>on the findings
+			 of the review and evaluation required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:201/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>; and</text>
+						</subparagraph>
+            <subparagraph id="id356DFF04D960464088C922E16B4BE1F5">
+              <enum>(B)</enum>
+              <text>containing any
+			 recommendations or proposals for legislative or administrative action to
+			 improve the customer identification practices of the prepaid card
+			 industry.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+      </section>
+      <section id="id16E0A737D0594BD6A3EA5F45F680C1B9">
+        <enum>202.</enum>
+        <header>Limitation on
+			 multiple tax refunds to the same account</header>
+				<subsection id="id7F6A3EA3354E48D694926EE3B6116DD0">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text display-inline="yes-display-inline">Not later than 180
+			 days after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref>, or
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary's</cato:entity-ref> delegate, shall issue regulations that restrict the delivery or
+			 deposit of multiple tax refunds from the same tax year to the same individual
+			 account or mailing address.</text>
+				</subsection>
+        <subsection id="id6A6CDD5B2C00481E8904101B27DA5A51">
+          <enum>(b)</enum>
+          <header>Exception</header>
+          <text display-inline="yes-display-inline">The regulation promulgated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:202/ss:a" proposed="true">subsection
+			 (a)</cato:entity-ref> shall provide that the restrictions shall not apply in cases and situations
+			 where the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> determines there is not a likelihood of tax fraud.</text>
+				</subsection>
+      </section>
+    </title>
+    <title id="id73E5C468174D4D5EAF903253675B53D9">
+      <enum>III</enum>
+      <header>Adding critical
+			 new protections to safeguard social security numbers</header>
+			<section id="id23781CB5D4314E0CA33E597E63B55C63">
+        <enum>301.</enum>
+        <header>Restriction on
+			 access to the death master file</header>
+				<subsection id="idF97896F99BE74AFCBC3E73FAAE64A83E">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>Not later than 90 days after the date of the enactment of
+			 this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner of the Social Security Administration</cato:entity-ref> shall vest all
+			 responsibilities for the release of Social Security death records to
+			 non-governmental persons or entities with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary of Commerce</cato:entity-ref> through a
+			 memorandum of understanding.</text>
+				</subsection>
+        <subsection id="idEF277AE08CD54048A0672BF9625F4993">
+          <enum>(b)</enum>
+          <header>Prohibition</header>
+          <text>The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary of Commerce</cato:entity-ref> shall not disclose information contained in Social
+			 Security death records to any non-governmental person or entity with respect to
+			 any individual who has died at any time during the calendar year in which the
+			 request for disclosure is made or the succeeding 2 calendar years unless such
+			 person is certified under the program established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:301/ss:c" proposed="true">subsection (c)</cato:entity-ref>.</text>
+				</subsection>
+        <subsection id="idEBD68079C66047778661C1BC2142A4F0">
+          <enum>(c)</enum>
+          <header>Certification
+			 program</header>
+					<paragraph id="idCC1E9253DB234A9D90A42C5300F958F7">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary of
+			 Commerce</cato:entity-ref> shall establish a program—</text>
+						<subparagraph id="idFB2E8D62604845298757F3D5651EA7DB">
+              <enum>(A)</enum>
+              <text display-inline="yes-display-inline">to certify persons who are eligible to
+			 access the information described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:301/ss:b" proposed="true">subsection (b)</cato:entity-ref> contained on the Death
+			 Master File, and</text>
+						</subparagraph>
+            <subparagraph id="id28A3B7B1F0B749D49E8AA44D533F7799">
+              <enum>(B)</enum>
+              <text display-inline="yes-display-inline">to perform periodic and unscheduled audits
+			 of certified persons to determine the compliance by such certified persons with
+			 the requirements of the program.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="id28EFF8D033C741C1A3D0B2D02913FCAA">
+            <enum>(2)</enum>
+            <header>Certification</header>
+            <text display-inline="yes-display-inline">A person shall not be certified nor remain
+			 certified under the program established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:301/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref> unless—</text>
+						<subparagraph id="id8407B99ABBA84E94BAC0A02DC3569E7F">
+              <enum>(A)</enum>
+              <text display-inline="yes-display-inline">the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary of Commerce</cato:entity-ref> determines that
+			 access to the information described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:301/ss:b" proposed="true">subsection (b)</cato:entity-ref> is appropriate
+			 because—</text>
+							<clause id="id12794F91EDD34B69BEB3D28F388BAE54">
+                <enum>(i)</enum>
+                <text display-inline="yes-display-inline">such person has a legitimate interest in
+			 preventing fraud or unauthorized financial transactions,</text>
+							</clause>
+              <clause id="id0A60E42018EC407192B5DBB2A7754DD1">
+                <enum>(ii)</enum>
+                <text display-inline="yes-display-inline">such access will facilitate compliance by
+			 such person with an applicable law, regulation, court order, or fiduciary
+			 duty,</text>
+							</clause>
+              <clause id="id8EB8C76B3BDB43CFAE85AB0E0E691513">
+                <enum>(iii)</enum>
+                <text>such access
+			 will facilitate timely and proper administration by such person of an insurance
+			 policy or benefit program, or</text>
+							</clause>
+              <clause commented="no" id="id9A4DBAAC37A1486FB8B09E88A5783B69">
+                <enum>(iv)</enum>
+                <text>such person is
+			 subject to disclosure requirements under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Gramm-Leach-Bliley Act/s:502">section 502 of the Gramm-Leach-Bliley
+			 Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/6802">
+                      <cato:entity-ref entity-type="uscode" value="usc/15/6802">15 U.S.C. 6802</cato:entity-ref>
+                    </external-xref>)</cato:entity>, <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Fair Credit Reporting Act/s:620">section 620 of the Fair Credit Reporting Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/1681r">15 U.S.C.
+			 1681r</cato:entity-ref>)</cato:entity>, or any other Federal statute that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> determines, following
+			 notice and comment rulemaking, provides sufficient protection against improper
+			 disclosure of information described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:301/ss:b" proposed="true">subsection (b)</cato:entity-ref>, and</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="id302E7E72755D40D79B274D07F95757C2">
+              <enum>(B)</enum>
+              <text display-inline="yes-display-inline">the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary of Commerce</cato:entity-ref> verifies that
+			 such person has facilities and procedures in place to safeguard such
+			 information, and experience in maintaining the confidentiality, security, and
+			 appropriate use of such information.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="id3E9079E0246943EAA0C4BB44C6054CE6">
+            <enum>(3)</enum>
+            <header>Fees</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary of Commerce</cato:entity-ref> shall establish
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/9701">
+                <external-xref legal-doc="usc" parsable-cite="usc/31/9701">section 9701</external-xref> of title 31, United States Code</cato:entity-ref>, for the charge of fees
+			 sufficient to cover all costs associated with evaluating applications for
+			 certification and auditing, inspecting, and monitoring certified persons under
+			 the program.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="id531A05FDA9B744DDAF241767D471894E">
+          <enum>(d)</enum>
+          <header>Imposition of
+			 penalty</header>
+					<paragraph id="idB308202F94E94923881A705D35F051CC">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:301/ss:d/p:2" proposed="true">paragraph (2)</cato:entity-ref>, any person who is certified
+			 under the program established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:301/ss:c" proposed="true">subsection (c)</cato:entity-ref>, who receives information
+			 described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:301/ss:b" proposed="true">subsection (b)</cato:entity-ref>, and who during the period of time described in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:301/ss:b" proposed="true">subsection (b)</cato:entity-ref>—</text>
+						<subparagraph id="id49215753017A44059CC5285E7528A8CD">
+              <enum>(A)</enum>
+              <text>discloses such
+			 information to any other person, or</text>
+						</subparagraph>
+            <subparagraph id="id985E9F811E8648E7BD80841E1D699C0C">
+              <enum>(B)</enum>
+              <text>uses any such
+			 information to commit, or aid or abet, any criminal offense,</text>
+						</subparagraph>
+            <continuation-text continuation-text-level="paragraph">shall pay a
+			 penalty of $5,000 for each such disclosure or use, but the total amount imposed
+			 under this subsection on such a person for any calendar year shall not exceed
+			 $500,000.</continuation-text>
+          </paragraph>
+          <paragraph commented="no" id="id9537ACC9F1A7495B8A946678A70A4594">
+            <enum>(2)</enum>
+            <header>Exception</header>
+            <text>A
+			 person who—</text>
+						<subparagraph commented="no" id="id5587AA76F8EA4B7E8D020BCAD020CECC">
+              <enum>(A)</enum>
+              <text>is certified
+			 under the program established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:301/ss:c" proposed="true">subsection (c)</cato:entity-ref>,</text>
+						</subparagraph>
+            <subparagraph commented="no" id="id87F1A7488D29467988F4429FAC65BE8A">
+              <enum>(B)</enum>
+              <text>upon request by
+			 another person, verifies that an individual is or is not deceased pursuant to
+			 information contained on the Death Master File, and</text>
+						</subparagraph>
+            <subparagraph commented="no" id="id221CE48A054C4B10A603D7408F3F398A">
+              <enum>(C)</enum>
+              <text>does not disclose
+			 any additional information described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:301/ss:b" proposed="true">subsection (b)</cato:entity-ref>,</text>
+						</subparagraph>
+            <continuation-text continuation-text-level="paragraph">shall not be
+			 subject to a penalty pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:301/ss:d/p:1" proposed="true">paragraph (1)</cato:entity-ref>.</continuation-text>
+          </paragraph>
+        </subsection>
+        <subsection id="id8F85107B7D934788A4185D09F37006E8">
+          <enum>(e)</enum>
+          <header>Exemption from
+			 Freedom of Information Act requirement with respect to certain records of
+			 deceased individuals</header>
+					<paragraph id="idD43EC660B0B04C79985991ABB9C2AD8A">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>Subsequent to the date on which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary of Commerce</cato:entity-ref>
+			 establishes the program described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:301/ss:c/p:1" proposed="true">subsection (c)(1)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Social Security
+			 Administration</cato:entity-ref> shall not be compelled to disclose any information described in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:301/ss:b" proposed="true">subsection (b)</cato:entity-ref> to any non-governmental person or entity who is not certified
+			 under such program.</text>
+					</paragraph>
+          <paragraph id="idBD1B2677CF494EE88837BB76C81DBC3B">
+            <enum>(2)</enum>
+            <header>Treatment of
+			 information</header>
+            <text>For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/552">
+                <external-xref legal-doc="usc" parsable-cite="usc/5/552">section 552</external-xref> of title 5, United States
+			 Code</cato:entity-ref>, this section shall be considered a statute described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/552/b/3/B">subsection
+			 (b)(3)(B) of such section 552</cato:entity-ref>.</text>
+					</paragraph>
+        </subsection>
+      </section>
+      <section id="id4BC194CAC34D4FA2BD97F008A43F38BF">
+        <enum>302.</enum>
+        <header>Prohibiting
+			 the display of Social Security account numbers on newly issued Medicare
+			 identification cards and communications provided to Medicare
+			 beneficiaries</header>
+				<subsection id="IDa385fc72d009413f8355c2695e9b0010">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>Not later than 2 years after the date of the enactment of
+			 this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary of Health and Human Services</cato:entity-ref>, in consultation with the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner of Social Security</cato:entity-ref>, shall establish and begin to implement
+			 procedures to eliminate the unnecessary collection, use, and display of Social
+			 Security account numbers of Medicare beneficiaries.</text>
+				</subsection>
+        <subsection id="ID5a799ac718fa48828956606ac0d71ea8">
+          <enum>(b)</enum>
+          <header>Newly issued
+			 medicare cards and communications provided to beneficiaries</header>
+					<paragraph id="idFEF925ABFB9A49138A85A3A030490556">
+            <enum>(1)</enum>
+            <header>Newly issued
+			 cards</header>
+						<subparagraph id="id3587B9731ECC422E98F8049390AE7336">
+              <enum>(A)</enum>
+              <header>In
+			 general</header>
+              <text>Not later than 4 years after the date of enactment of
+			 this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary of Health and Human Services</cato:entity-ref>, in consultation with the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner of Social Security</cato:entity-ref>, shall ensure that each newly issued Medicare
+			 identification card meets the requirements described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:302/ss:b/p:1/sp:B" proposed="true">subparagraph
+			 (B)</cato:entity-ref>.</text>
+						</subparagraph>
+            <subparagraph id="id809B7F21CCEC4D3E91CFE26070768ACA">
+              <enum>(B)</enum>
+              <header>Requirements</header>
+							<clause id="id848D05E116394DF19575F8167373E9A0">
+                <enum>(i)</enum>
+                <header>In
+			 general</header>
+                <text>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:302/ss:b/p:1/sp:B/cl:ii" proposed="true">clauses (ii)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:302/ss:b/p:1/sp:B/cl:iii" proposed="true">(iii)</cato:entity-ref>, the requirements
+			 described in this subparagraph are, with respect to a Medicare identification
+			 card, that the card does not display or electronically store (in an unencrypted
+			 format) a Medicare beneficiary’s Social Security account number.</text>
+							</clause>
+              <clause id="id5032C759A8494AC5A224CD48F4832222">
+                <enum>(ii)</enum>
+                <header>Exception</header>
+                <text>The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> may waive the requirements under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:302/ss:b/p:1/sp:B/cl:i" proposed="true">clause (i)</cato:entity-ref> in the case where the
+			 health insurance claim number of a beneficiary is the Social Security number of
+			 the beneficiary, the beneficiary's spouse, or another individual.</text>
+							</clause>
+              <clause id="ID8bb27596ee8d455982b9807e004e4f9d">
+                <enum>(iii)</enum>
+                <header>Use of
+			 partial account number</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary of Health and Human
+			 Services</cato:entity-ref>, in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner of Social Security</cato:entity-ref>, may provide
+			 for the use of a partial Social Security account number on a Medicare
+			 identification card if the Secretary determines that such use does not allow an
+			 unacceptable risk of fraudulent use.</text>
+							</clause>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="id1B445E99659B48B594A912DB839B525F">
+            <enum>(2)</enum>
+            <header>Communications
+			 provided to beneficiaries</header>
+            <text>Not later than 4 years after the date
+			 of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary of Health and Human Services</cato:entity-ref> shall
+			 prohibit the display of a Medicare beneficiary’s Social Security account number
+			 on written or electronic communication provided to the beneficiary unless the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>, in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner of Social Security</cato:entity-ref>, determines
+			 that inclusion of Social Security account numbers on such communications is
+			 essential for the operation of the Medicare program.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="idD36C7784DE97480DA555426A40AB632B">
+          <enum>(c)</enum>
+          <header>Medicare
+			 beneficiary defined</header>
+          <text>In this section, the term <term>Medicare
+			 beneficiary</term> means an individual entitled to, or enrolled for, benefits
+			 under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Social Security Act/t:XVIII/pt:A">part A of title XVIII of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395c/etseq">42 U.S.C. 1395c et
+			 seq.</cato:entity-ref>)</cato:entity> or enrolled for benefits under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Social Security Act/pt:B">part B of such title</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395j/etseq">42 U.S.C. 1395j et
+			 seq.</cato:entity-ref>)</cato:entity>.</text>
+				</subsection>
+        <subsection id="H681EEE47D16846BE8225AF41DBF3203">
+          <enum>(d)</enum>
+          <header>Conforming
+			 amendments</header>
+					<paragraph id="idE2B4143D73714E7496B15F626BC55126">
+            <enum>(1)</enum>
+            <header>Reference in
+			 the Social Security Act</header>
+            <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:205/ss:c/p:2/sp:C">Section 205(c)(2)(C) of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/405/c/2/C">42
+			 U.S.C. 405(c)(2)(C)</cato:entity-ref>)</cato:entity> is amended—</text>
+						<subparagraph id="id8C6FFC588C0F4796979D89B4AF9F2C08">
+              <enum>(A)</enum>
+              <text>by moving <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:205/ss:c/p:2/sp:C/cl:x">clause
+			 (x)</cato:entity-ref>, as added by <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:1414/ss:a/p:2">section 1414(a)(2) of the Patient Protection and Affordable
+			 Care Act</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/111/148">
+                    <cato:entity-ref entity-type="public-law" value="public-law/111/148">Public Law 111–148</cato:entity-ref>
+                  </external-xref>)</cato:entity>, 6 ems to the left;</text>
+						</subparagraph>
+            <subparagraph id="id057F1A6ADF894E829EB1400979EDB18B">
+              <enum>(B)</enum>
+              <text>by redesignating
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:205/ss:c/p:2/sp:C/cl:x">clause (x)</cato:entity-ref>, as added by <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Social Security Number Protection Act of 2010/s:2/ss:a/p:1">section 2(a)(1) of the Social Security Number
+			 Protection Act of 2010</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1305/note">
+                    <external-xref legal-doc="usc" parsable-cite="usc/42/1305">42 U.S.C. 1305</external-xref> note</cato:entity-ref>)</cato:entity>, as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:205/ss:c/p:2/sp:C/cl:xii" proposed="true">clause (xii)</cato:entity-ref>; and</text>
+						</subparagraph>
+            <subparagraph id="id9896E285B5504104860C08CE1DD4E933">
+              <enum>(C)</enum>
+              <text>by adding after
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:205/ss:c/p:2/sp:C/cl:xii" proposed="true">clause (xii)</cato:entity-ref>, as redesignated by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:302/ss:d/p:1/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>, the following new
+			 clause:</text>
+							<quoted-block id="HD673FF97D42A4A49B77724B498240085" style="OLC">
+								<clause id="H7A131A0B07A2430000B1BA231022D8F2" indent="up3">
+                  <enum>(xiii)</enum>
+                  <text display-inline="yes-display-inline">Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:302" proposed="true">section 302 of the
+				<short-title>Identity Theft and Tax Fraud Prevention Act
+				of 2013</short-title>
+                    </cato:entity-ref>, social security account numbers shall not be displayed
+				on Medicare identification cards or on communications provided to Medicare
+				beneficiaries.</text>
+								</clause>
+                <after-quoted-block>.</after-quoted-block>
+              </quoted-block>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="idAEF1C48D822541E5948E1DE2B380E7B1">
+            <enum>(2)</enum>
+            <header>Access to
+			 information</header>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:205/ss:r">Section 205(r) of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/405/r">42 U.S.C.
+			 405(r)</cato:entity-ref>)</cato:entity> is amended by adding at the end the following new paragraph:</text>
+						<quoted-block display-inline="no-display-inline" id="id2065483BC80C4277A8869A0EA6DD894E" style="OLC">
+							<paragraph id="ID7e95d3510c5941e6be9cf8496bc09bad" indent="up1">
+                <enum>(10)</enum>
+                <text>To prevent and identify fraudulent
+				activity, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner</cato:entity-ref> shall upon the request of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> or
+				upon the request of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary of Health and Human Services</cato:entity-ref> enter into a
+				reimbursable agreement with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> to provide
+				information collected under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:205/ss:r/p:1">paragraph (1)</cato:entity-ref> if—</text>
+								<subparagraph id="id97FDACCDFE074C999D6E8782C6FF0EC1">
+                  <enum>(A)</enum>
+                  <text>the requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:205/ss:r/p:3/sp:A">subparagraphs (A)</cato:entity-ref>
+				and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:205/ss:r/p:3/sp:B">(B) of paragraph (3)</cato:entity-ref> are met; and</text>
+								</subparagraph>
+                <subparagraph id="id76209C8326144498B19D09E8060B322D">
+                  <enum>(B)</enum>
+                  <text>such agreement includes appropriate
+				provisions to protect the confidentiality of information provided by the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commissioner</cato:entity-ref> under such
+				agreement.</text>
+								</subparagraph>
+              </paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="ID4ad158bc787a4d32997c714151796b32">
+          <enum>(e)</enum>
+          <header>Pilot
+			 program</header>
+					<paragraph id="id9D8D729D90A04747A2CB8CBDE956250D">
+            <enum>(1)</enum>
+            <header>Establishment</header>
+            <text>The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall establish a pilot program utilizing smart card technology to
+			 evaluate—</text>
+						<subparagraph id="ID28e966e9eb464ef7b78199e896efdf86">
+              <enum>(A)</enum>
+              <text>the applicability
+			 of smart card technology to the Medicare program under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Social Security Act/t:XVIII">title XVIII of the
+			 Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395">
+                    <cato:entity-ref entity-type="uscode" value="usc/42/1395/etseq">42 U.S.C. 1395 et seq.</cato:entity-ref>
+                  </external-xref>)</cato:entity>, including the applicability of
+			 such technology to Medicare beneficiaries or Medicare providers; and</text>
+						</subparagraph>
+            <subparagraph id="ID3f2857fecf7f4b62b2ffb5dd0d0f2d91">
+              <enum>(B)</enum>
+              <text>whether such
+			 cards would be effective in preventing fraud under the Medicare program.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="ID3b5e33bb81924b3a86fc5d2d1e8d4d30">
+            <enum>(2)</enum>
+            <header>Implementation</header>
+						<subparagraph id="IDb07560c3053942bdab55de9c0efec761">
+              <enum>(A)</enum>
+              <header>Initial
+			 implementation</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall implement the pilot program
+			 under this subsection not later than 1 year after the date of enactment of this
+			 Act.</text>
+						</subparagraph>
+            <subparagraph id="IDc487eed633034e7faec09a22cdf2112b">
+              <enum>(B)</enum>
+              <header>Scope and
+			 duration</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall conduct the pilot program—</text>
+							<clause id="id390F6511652A4446ADC63B022B62A275">
+                <enum>(i)</enum>
+                <text>in
+			 not less than 2 States; and</text>
+							</clause>
+              <clause id="idC91C567BC3B2493992C0057EDFF780E6">
+                <enum>(ii)</enum>
+                <text>for a period of
+			 not less than 180 days or more than 2 years.</text>
+							</clause>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="ID3d2bfee6c98245bd9ab53a748aeaebc7">
+            <enum>(3)</enum>
+            <header>Report</header>
+            <text>Not
+			 later than 12 months after the completion of the pilot program under this
+			 subsection, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall submit to the appropriate committees of
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> and make available to the public a report that includes the
+			 following:</text>
+						<subparagraph id="ID9e2df53a71b4415a9a7da83ea3ce4b6d">
+              <enum>(A)</enum>
+              <text>A summary of the
+			 pilot program and findings, including—</text>
+							<clause id="IDa0bd80407e38436099fbfe966f4ff483">
+                <enum>(i)</enum>
+                <text>the
+			 costs or savings to the Medicare program as a result of the implementation of
+			 the pilot program;</text>
+							</clause>
+              <clause id="ID65bb1dd1ab97420aac8beaf37eef2a0f">
+                <enum>(ii)</enum>
+                <text>whether the use
+			 of smart card technology resulted in improvements in the quality of care
+			 provided to Medicare beneficiaries under the pilot program; and</text>
+							</clause>
+              <clause id="IDbfe318b1447444df9c84d53bd29a52bc">
+                <enum>(iii)</enum>
+                <text>whether such
+			 technology was useful in preventing or detecting fraud, waste, and abuse in the
+			 Medicare program.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph commented="no" display-inline="no-display-inline" id="ID9c1a67d491c943f39237ce33818ebbe0">
+              <enum>(B)</enum>
+              <text>Recommendations
+			 regarding whether the use of smart card technology should be expanded under the
+			 Medicare program.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="ID223a2a1fbc2c4b15badaf23c9924493c">
+            <enum>(4)</enum>
+            <header>Definitions</header>
+            <text>In
+			 this subsection:</text>
+						<subparagraph id="id6A7206A9D16941579C03528D726C7F63">
+              <enum>(A)</enum>
+              <header>Medicare
+			 provider</header>
+              <text>The term <term>Medicare provider</term> includes a
+			 provider of services (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Social Security Act/s:1861/ss:u">section 1861(u) of the Social Security Act</cato:entity-ref>
+			 (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">
+                    <cato:entity-ref entity-type="uscode" value="usc/42/1395x/u">42 U.S.C. 1395x(u)</cato:entity-ref>
+                  </external-xref>)</cato:entity>) and a supplier (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Social Security Act/s:1861/ss:d">section 1861(d) of such Act</cato:entity-ref>
+			 (<external-xref legal-doc="usc" parsable-cite="usc/42/1395x">
+                    <cato:entity-ref entity-type="uscode" value="usc/42/1395x/d">42 U.S.C. 1395x(d)</cato:entity-ref>
+                  </external-xref>)</cato:entity>).</text>
+						</subparagraph>
+            <subparagraph id="id107646EB5A744857A95D4DF9DEEDF558">
+              <enum>(B)</enum>
+              <header>Secretary</header>
+              <text>The
+			 term <term>Secretary</term> means the Secretary of Health and Human
+			 Services.</text>
+						</subparagraph>
+            <subparagraph id="idA2232E6D03B74CB8ACD93FA02ED236A1">
+              <enum>(C)</enum>
+              <header>Smart
+			 card</header>
+              <text>The term <term>smart card</term> means identification used
+			 by a Medicare beneficiary or a Medicare provider that includes anti-fraud
+			 attributes. Such a card—</text>
+							<clause id="ID9e6c07d5b24a457bb0639e89a944d308">
+                <enum>(i)</enum>
+                <text>may
+			 rely on existing commercial data transfer networks or on a network of
+			 proprietary card readers or databases; and</text>
+							</clause>
+              <clause id="ID1584f2371ea0493aa1c7f02adc0f4313">
+                <enum>(ii)</enum>
+                <text>may
+			 include—</text>
+								<subclause id="IDbaac3ceba4b845c5967b6db057858a4b">
+                  <enum>(I)</enum>
+                  <text>cards using
+			 technology adapted from the financial services industry;</text>
+								</subclause>
+                <subclause id="IDb3ae76e7000b4ace8eaad715419e32c9">
+                  <enum>(II)</enum>
+                  <text>cards containing
+			 individual biometric identification, provided that such identification is
+			 encrypted and not contained in any central database;</text>
+								</subclause>
+                <subclause id="ID7fffc755d93948f6bd23715630c148c3">
+                  <enum>(III)</enum>
+                  <text>cards adapting
+			 technology and processes utilized in the TRICARE program under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/10/55">chapter 55 of
+			 title 10, United States Code</cato:entity-ref>, or by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Veterans’ Administration</cato:entity-ref>; or</text>
+								</subclause>
+                <subclause commented="no" display-inline="no-display-inline" id="idA0EB64DEEA754298BCEF0A71E0AD59A7">
+                  <enum>(IV)</enum>
+                  <text>such other
+			 technology as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> determines appropriate.</text>
+								</subclause>
+              </clause>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+      </section>
+      <section id="ID7CC536A46D7547E8A1F7B8E1B93E4C8B">
+        <enum>303.</enum>
+        <header>Prohibition of
+			 the display, sale, or purchase of Social Security numbers</header>
+				<subsection id="ID1CD9C99FCC0844F1B426B822FAEB97F8">
+          <enum>(a)</enum>
+          <header>Prohibition</header>
+					<paragraph id="ID9717757093A74B6C911F618D44DAA9CA">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/18/47">
+                <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/47">Chapter 47</external-xref> of title 18, United States Code</cato:entity-ref>, is amended by
+			 inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1028A">section 1028A</cato:entity-ref> the following:</text>
+						<quoted-block id="ID591479B9727E4CF6B953FFAA9C6462D4" style="USC">
+							<section id="IDCC7E0D10B26247918C5FA6A720804D4F">
+                <enum>1028B.</enum>
+                <header>Prohibition
+				of the display, sale, or purchase of Social Security numbers</header>
+								<subsection id="ID9ED4AB70B1B349C4AC344CB800CB00B2">
+                  <enum>(a)</enum>
+                  <header>Definitions</header>
+                  <text>In
+				this section:</text>
+									<paragraph id="IDF2DF866CD106497F9595566EB73C1278">
+                    <enum>(1)</enum>
+                    <header>Display</header>
+                    <text>The
+				term <term>display</term> means to intentionally communicate or otherwise make
+				available (on the Internet or in any other manner) to the general public an
+				individual’s Social Security number.</text>
+									</paragraph>
+                  <paragraph id="ID926483225E2C4C68B705FCDB8F24E033">
+                    <enum>(2)</enum>
+                    <header>Person</header>
+                    <text>The
+				term <term>person</term> means any individual, partnership, corporation, trust,
+				estate, cooperative, association, or any other entity.</text>
+									</paragraph>
+                  <paragraph id="ID5E76A0F01EDD4A6FBEC99959C042AC00">
+                    <enum>(3)</enum>
+                    <header>Purchase</header>
+                    <text>The
+				term <term>purchase</term> means providing directly or indirectly, anything of
+				value in exchange for a Social Security number.</text>
+									</paragraph>
+                  <paragraph id="ID7A8A599D0A474627BB3F50FB3BED2971">
+                    <enum>(4)</enum>
+                    <header>Sale</header>
+                    <text>The
+				term <term>sale</term> means obtaining, directly or indirectly, anything of
+				value in exchange for a Social Security number.</text>
+									</paragraph>
+                  <paragraph id="ID27021B9E5860447699FCA07F88A1BA3E">
+                    <enum>(5)</enum>
+                    <header>State</header>
+                    <text>The
+				term <term>State</term> means any State of the United States, the District of
+				Columbia, Puerto Rico, the Northern Mariana Islands, the United States Virgin
+				Islands, Guam, American Samoa, and any territory or possession of the United
+				States.</text>
+									</paragraph>
+                </subsection>
+                <subsection id="ID5961988157C64DE4B03CD375572E2FB0">
+                  <enum>(b)</enum>
+                  <header>Limitation on
+				display</header>
+                  <text>No person may display any individual’s Social Security
+				number to the general public without the affirmatively expressed consent of the
+				individual.</text>
+								</subsection>
+                <subsection id="IDF15E5BFCD5134D88B0044301EB1FEB46">
+                  <enum>(c)</enum>
+                  <header>Limitation on
+				sale or purchase</header>
+                  <text>Except as otherwise provided in this section, no
+				person may sell or purchase any individual’s Social Security number without the
+				affirmatively expressed consent of the individual.</text>
+								</subsection>
+                <subsection id="ID1F67184F45BF44AA965DA3E71DFB8F82">
+                  <enum>(d)</enum>
+                  <header>Prerequisites
+				for consent</header>
+                  <text>In order for consent to exist under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1028B/b" proposed="true">subsection (b)</cato:entity-ref> or
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1028B/c" proposed="true">(c)</cato:entity-ref>, the person displaying or seeking to display, selling or attempting to
+				sell, or purchasing or attempting to purchase, an individual’s Social Security
+				number shall—</text>
+									<paragraph id="ID2D6516162E714D079C5181FCF1673B01">
+                    <enum>(1)</enum>
+                    <text>inform the
+				individual of the general purpose for which the number will be used, the types
+				of persons to whom the number may be available, and the scope of transactions
+				permitted by the consent; and</text>
+									</paragraph>
+                  <paragraph id="ID717516B5978E42E1998FC96D1BA7D52B">
+                    <enum>(2)</enum>
+                    <text>obtain the
+				affirmatively expressed consent (electronically or in writing) of the
+				individual.</text>
+									</paragraph>
+                </subsection>
+                <subsection id="IDF76649776BB24F1EBE072DDBC39900AB">
+                  <enum>(e)</enum>
+                  <header>Exceptions</header>
+                  <text>Nothing
+				in this section shall be construed to prohibit or limit the display, sale, or
+				purchase of a Social Security number—</text>
+									<paragraph id="ID96CF0E99736942C40039FBF5CE61505B">
+                    <enum>(1)</enum>
+                    <text>required,
+				authorized, or excepted under any Federal law;</text>
+									</paragraph>
+                  <paragraph id="ID4F0E77F52B7248EDB2688DDF9BB3C39C">
+                    <enum>(2)</enum>
+                    <text>for a public
+				health purpose, including the protection of the health or safety of an
+				individual in an emergency situation;</text>
+									</paragraph>
+                  <paragraph id="IDD06EEF56A3EC43D5B94691581ECEECE1">
+                    <enum>(3)</enum>
+                    <text>for a national
+				security purpose;</text>
+									</paragraph>
+                  <paragraph id="IDAC2362D647B0485D96A3AF00CE72286E">
+                    <enum>(4)</enum>
+                    <text>for a law
+				enforcement purpose, including the investigation of fraud and the enforcement
+				of a child support obligation;</text>
+									</paragraph>
+                  <paragraph id="ID56EFC3FE4E14402DA42B96EDF7FB6565">
+                    <enum>(5)</enum>
+                    <text>if the display,
+				sale, or purchase of the number is for a use occurring as a result of an
+				interaction between businesses, governments, or business and government
+				(regardless of which entity initiates the interaction), including, but not
+				limited to—</text>
+										<subparagraph id="ID7E2DB1687A7F4875B8A31649759D76CD">
+                      <enum>(A)</enum>
+                      <text>the prevention of
+				fraud (including fraud in protecting an employee’s right to employment
+				benefits);</text>
+										</subparagraph>
+                    <subparagraph id="ID6853AE208C0A4074B1E01B0066CFB934">
+                      <enum>(B)</enum>
+                      <text>the facilitation
+				of credit checks or the facilitation of background checks of employees,
+				prospective employees, or volunteers;</text>
+										</subparagraph>
+                    <subparagraph id="IDB4DB36EB61F24DAB8D29F7605746F147">
+                      <enum>(C)</enum>
+                      <text>the retrieval of
+				other information from other businesses, commercial enterprises, government
+				entities, or private nonprofit organizations; or</text>
+										</subparagraph>
+                    <subparagraph id="IDFD5D4B1EE40443A2BC81F6AAF439C159">
+                      <enum>(D)</enum>
+                      <text>when the
+				transmission of the number is incidental to, and in the course of, the sale,
+				lease, franchising, or merger of all, or a portion of, a business;</text>
+										</subparagraph>
+                  </paragraph>
+                  <paragraph id="ID253D5077DE0D487A00F4BA3E33F938FF">
+                    <enum>(6)</enum>
+                    <text>if the transfer
+				of such a number is part of a data matching program involving a Federal, State,
+				or local agency; or</text>
+									</paragraph>
+                  <paragraph id="IDAD80E6C07EFF47438BFBF6B3FFEE1134">
+                    <enum>(7)</enum>
+                    <text>if such number is
+				required to be submitted as part of the process for applying for any type of
+				Federal, State, or local government benefit or program;</text>
+									</paragraph>
+                  <continuation-text continuation-text-level="subsection">except
+				that, nothing in this subsection shall be construed as permitting a
+				professional or commercial user to display or sell a Social Security number to
+				the general public.</continuation-text>
+                </subsection>
+                <subsection id="ID214DF1F302C74C0089861B32524D12F2">
+                  <enum>(f)</enum>
+                  <header>Limitation</header>
+                  <text>Nothing
+				in this section shall prohibit or limit the display, sale, or purchase of
+				Social Security numbers as permitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Gramm-Leach-Bliley Act/t:V">title V of the Gramm-Leach-Bliley
+				Act</cato:entity-ref>, or for the purpose of affiliate sharing as permitted under the
+				<act-name parsable-cite="FCRA">
+                      <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Fair Credit Reporting Act">Fair Credit Reporting Act</cato:entity-ref>
+                    </act-name>, except
+				that no entity regulated under such Acts may make Social Security numbers
+				available to the general public, as may be determined by the appropriate
+				regulators under such Acts. For purposes of this subsection, the general public
+				shall not include affiliates or unaffiliated third-party business entities as
+				may be defined by the appropriate
+				regulators.</text>
+								</subsection>
+              </section>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+          <paragraph id="ID706F4EFE63F445A48E00BD63A0746DAE">
+            <enum>(2)</enum>
+            <header>Conforming
+			 amendment</header>
+            <text>The chapter analysis for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/18/47">
+                <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/47">chapter 47</external-xref> of title 18, United
+			 States Code</cato:entity-ref>, is amended by inserting after the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1028">section 1028</cato:entity-ref>
+			 the following:</text>
+						<quoted-block id="ID3E00B4764553469193B9A4E11C883C00" style="USC">
+							<toc regeneration="no-regeneration">
+								<toc-entry level="section">1028B. Prohibition of the display, sale,
+				or purchase of Social Security
+				numbers.</toc-entry>
+							</toc>
+							<after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="ID747FEC2509024944BE634643591F112D">
+          <enum>(b)</enum>
+          <header>Study;
+			 report</header>
+					<paragraph id="IDB372B6B60CD94F77B7D5AA00D282531E">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> shall conduct a study and prepare a
+			 report on all of the uses of Social Security numbers permitted, required,
+			 authorized, or excepted under any Federal law. The report shall include a
+			 detailed description of the uses allowed as of the date of enactment of this
+			 Act, the impact of such uses on privacy and data security, and shall evaluate
+			 whether such uses should be continued or discontinued by appropriate
+			 legislative action.</text>
+					</paragraph>
+          <paragraph id="ID6C33538842404AC5920047B3F37D8007">
+            <enum>(2)</enum>
+            <header>Report</header>
+            <text>Not
+			 later than 1 year after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref>
+			 shall report to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> findings under this subsection. The report shall
+			 include such recommendations for legislation based on criteria the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney
+			 General</cato:entity-ref> determines to be appropriate.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="IDDEA0009C1984452CA000EC1B0127008C">
+          <enum>(c)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendments made by this section shall take effect on the
+			 date that is 30 days after the date on which the final regulations promulgated
+			 under section 5 are published in the Federal Register.</text>
+				</subsection>
+      </section>
+      <section id="ID809003DC49BE480AB15715CE8D30F24E">
+        <enum>304.</enum>
+        <header>Criminal
+			 penalties for the misuse of a Social Security number</header>
+				<subsection id="ID97C018133E0D45C6A0A5065F1CF90951">
+          <enum>(a)</enum>
+          <header>Prohibition of
+			 wrongful use as personal identification number</header>
+          <text>No person may
+			 obtain any individual’s Social Security number for purposes of locating or
+			 identifying an individual with the intent to physically injure, harm, or use
+			 the identity of the individual for any illegal purpose.</text>
+				</subsection>
+        <subsection id="ID924796296AED4EFE9BE7236DB12079E5">
+          <enum>(b)</enum>
+          <header>Criminal
+			 sanctions</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Social Security Act/s:208/ss:a">Section 208(a) of the <act-name parsable-cite="SSA">Social Security Act</act-name>
+              </cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/408">
+                <cato:entity-ref entity-type="uscode" value="usc/42/408/a">42 U.S.C. 408(a)</cato:entity-ref>
+              </external-xref>)</cato:entity> is
+			 amended—</text>
+					<paragraph id="ID18139DEB81EA482DAB6E6EF4CF56BADB">
+            <enum>(1)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:208/ss:a/p:8">paragraph (8)</cato:entity-ref>,
+			 by inserting <quote>or</quote> after the semicolon; and</text>
+					</paragraph>
+          <paragraph id="ID2909483A667E4073BBB568B9C76311E4">
+            <enum>(2)</enum>
+            <text>by inserting
+			 after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:208/ss:a/p:8">paragraph (8)</cato:entity-ref> the following:</text>
+						<quoted-block id="IDAD4127FF684C4F918F22A37F835E7B81">
+							<paragraph id="IDCA93DA5D7C564FA79D81ADDB17AB4C80">
+                <enum>(9)</enum>
+                <text>except as
+				provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1028B/e" proposed="true">subsections (e)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1028B/f" proposed="true">(f) of <external-xref legal-doc="usc" parsable-cite="usc/18/1028B">section 1028B</external-xref> of title 18, United States
+				Code</cato:entity-ref>, knowingly and willfully displays, sells, or purchases (as those terms are
+				defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1028B/a" proposed="true">
+                    <external-xref legal-doc="usc" parsable-cite="usc/18/1028B">section 1028B(a)</external-xref> of title 18, United States Code</cato:entity-ref>) any individual’s
+				Social Security account number without having met the prerequisites for consent
+				under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1028B/d" proposed="true">
+                    <external-xref legal-doc="usc" parsable-cite="usc/18/1028B">section 1028B(d)</external-xref> of title 18, United States Code</cato:entity-ref>; or</text>
+							</paragraph>
+              <paragraph id="ID92F11E06EC4541548E735138116C98BF">
+                <enum>(10)</enum>
+                <text>obtains any
+				individual’s Social Security number for the purpose of locating or identifying
+				the individual with the intent to injure or to harm that individual, or to use
+				the identity of that individual for an illegal
+				purpose;</text>
+							</paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+      </section>
+      <section id="IDC8E2704C7FBA48B08F3FB5C66513656F">
+        <enum>305.</enum>
+        <header>Civil actions
+			 and civil penalties</header>
+				<subsection id="IDC38B162283E8477DAD105300F3CDC3AF">
+          <enum>(a)</enum>
+          <header>Civil action in
+			 State courts</header>
+					<paragraph id="IDE4FA2FC69C944A4E8C8621061567B552">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>Any individual aggrieved by an act of any person in
+			 violation of this Act or any amendments made by this Act may, if otherwise
+			 permitted by the laws or rules of the court of a State, bring in an appropriate
+			 court of that State—</text>
+						<subparagraph id="ID8BE063925CA4468392298F4C660041FE">
+              <enum>(A)</enum>
+              <text>an action to
+			 enjoin such violation;</text>
+						</subparagraph>
+            <subparagraph id="IDF82D6B4E23B742C08B4FF51BE2EAC411">
+              <enum>(B)</enum>
+              <text>an action to
+			 recover for actual monetary loss from such a violation, or to receive up to
+			 $500 in damages for each such violation, whichever is greater; or</text>
+						</subparagraph>
+            <subparagraph id="ID7841D3EDECB445A385CE5289D0898170">
+              <enum>(C)</enum>
+              <text>both such
+			 actions.</text>
+						</subparagraph>
+            <continuation-text continuation-text-level="paragraph">It shall be
+			 an affirmative defense in any action brought under this paragraph that the
+			 defendant has established and implemented, with due care, reasonable practices
+			 and procedures to effectively prevent violations of the regulations prescribed
+			 under this Act. If the court finds that the defendant willfully or knowingly
+			 violated the regulations prescribed under this subsection, the court may, in
+			 its discretion, increase the amount of the award to an amount equal to not more
+			 than 3 times the amount available under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Identity Theft and Tax Fraud Prevention Act of 2013/s:305/ss:a/p:1/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>.</continuation-text>
+          </paragraph>
+          <paragraph id="ID5F9632C87E56420D87ABC9066402CB1F">
+            <enum>(2)</enum>
+            <header>Statute of
+			 limitations</header>
+            <text>An action may be commenced under this subsection not
+			 later than the earlier of—</text>
+						<subparagraph id="ID17C1B4C12E9840DA9D15C79E16136342">
+              <enum>(A)</enum>
+              <text>5 years after the
+			 date on which the alleged violation occurred; or</text>
+						</subparagraph>
+            <subparagraph id="IDA1B8D2E5D4694FF68EED4123D1F1DAE2">
+              <enum>(B)</enum>
+              <text>3 years after the
+			 date on which the alleged violation was or should have been reasonably
+			 discovered by the aggrieved individual.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="ID15BE314D4E3B4CCFB53BDC71EEECBD22">
+            <enum>(3)</enum>
+            <header>Nonexclusive
+			 remedy</header>
+            <text>The remedy provided under this subsection shall be in
+			 addition to any other remedies available to the individual.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="IDF31662059EF64319868D0011F4F9F41D">
+          <enum>(b)</enum>
+          <header>Civil
+			 penalties</header>
+					<paragraph id="ID854B926E2C2749EA83FDD0EBCD2EF5E2">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>Any person who the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> determines has
+			 violated any section of this Act or of any amendments made by this Act shall be
+			 subject, in addition to any other penalties that may be prescribed by
+			 law—</text>
+						<subparagraph id="ID4CB3B6D95A654A95A1CBE300AFE1F428">
+              <enum>(A)</enum>
+              <text>to a civil
+			 penalty of not more than $5,000 for each such violation; and</text>
+						</subparagraph>
+            <subparagraph id="IDEED4AECBC8684E0FA25BAC749DE846B3">
+              <enum>(B)</enum>
+              <text>to a civil
+			 penalty of not more than $50,000, if the violations have occurred with such
+			 frequency as to constitute a general business practice.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="ID99042C1895EA461B9B1B871DD816A100">
+            <enum>(2)</enum>
+            <header>Determination
+			 of violations</header>
+            <text>Any willful violation committed contemporaneously
+			 with respect to the Social Security numbers of 2 or more individuals by means
+			 of mail, telecommunication, or otherwise, shall be treated as a separate
+			 violation with respect to each such individual.</text>
+					</paragraph>
+          <paragraph id="ID9E8AB967EFA5476EA12CFF707DE78EB0">
+            <enum>(3)</enum>
+            <header>Enforcement
+			 procedures</header>
+            <text>The provisions of <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:1128A">section 1128A of the
+			 <act-name parsable-cite="SSA">Social Security Act</act-name>
+                </cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1320a–7a">42 U.S.C.
+			 1320a–7a</cato:entity-ref>)</cato:entity>, other than 
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1128A/ss:a">subsections (a)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1128A/ss:b">(b)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1128A/ss:f">(f)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1128A/ss:h">(h)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1128A/ss:i">(i)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1128A/ss:j">(j)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1128A/ss:m">(m)</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1128A/ss:mn">(n)</cato:entity-ref>
+			 and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1128A/ss:c">first sentence of subsection (c) of such section</cato:entity-ref>, and the provisions of
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:205/ss:d">subsections (d)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:205/ss:e">(e)</cato:entity-ref> of <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:205">section 205 of such Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/405">
+                  <cato:entity-ref entity-type="uscode" value="usc/42/405">42 U.S.C. 405</cato:entity-ref>
+                </external-xref>)</cato:entity> shall apply
+			 to a civil penalty action under this subsection in the same manner as such
+			 provisions apply to a penalty or proceeding under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:1128A/ss:a">section 1128A(a) of such Act</cato:entity-ref>
+			 (<cato:entity-ref entity-type="uscode" value="usc/42/1320a–7a/a">42 U.S.C. 1320a–7a(a)</cato:entity-ref>)</cato:entity>, except that, for purposes of this paragraph, any
+			 reference in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:1128A">section 1128A of such Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1320a-7a">
+                  <cato:entity-ref entity-type="uscode" value="usc/42/1320a–7a">42 U.S.C. 1320a–7a</cato:entity-ref>
+                </external-xref>)</cato:entity> to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>
+			 shall be deemed to be a reference to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref>.</text>
+					</paragraph>
+        </subsection>
+      </section>
+    </title>
+    <title id="idB9871D259C1F4FC785A895236E8E876F">
+      <enum>IV</enum>
+      <header>Strengthening
+			 laws and improving enforcement against tax-related identity theft</header>
+			<section id="id7C8BFFAE82EB4FCCAB7EDE4E5D3672C2">
+        <enum>401.</enum>
+        <header>Criminal
+			 penalty for using a false identity in connection with tax fraud</header>
+				<subsection id="id9C52109E00C8433785145C2FA97E8CDF">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7206">
+              <external-xref legal-doc="usc" parsable-cite="usc/26/7206">Section 7206</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is
+			 amended—</text>
+					<paragraph id="idBD000F1222E449858281DC988EDB3831">
+            <enum>(1)</enum>
+            <text>by striking
+			 <quote>Any person</quote> and inserting the following:</text>
+						<quoted-block display-inline="no-display-inline" id="idE1FA38C26D97499CBFAECD9D39C28E7E" style="OLC">
+							<subsection id="idE8F912D38A904503A097A4812A1AB72A">
+                <enum>(a)</enum>
+                <header>In
+				general</header>
+                <text>Any person</text>
+							</subsection>
+              <after-quoted-block>,
+				and</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+          <paragraph id="id6B9F5F6A9AFE41AE9BD065365691FF23">
+            <enum>(2)</enum>
+            <text>by adding at the
+			 end the following new subsection:</text>
+						<quoted-block display-inline="no-display-inline" id="id8C3FC2A22D184770BED7FE1793362E23" style="OLC">
+							<subsection id="id0CEB571AEA6B489785725B1445D8975B">
+                <enum>(b)</enum>
+                <header>Use of false
+				identity</header>
+                <text>Any person who willfully misappropriates another
+				person's taxpayer identity (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6103/ss:b/p:6">section 6103(b)(6)</cato:entity-ref>) for the purpose
+				of making any list, return, account, statement, or other document submitted to
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> under the provisions of this title shall be guilty of a felony
+				and, upon conviction thereof, shall be fined not more than $250,000 ($500,000
+				in the case of a corporation) or imprisoned not more than 5 years, or both,
+				together with the costs of
+				prosecution.</text>
+							</subsection>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="id7F14A8FA5F6940778D50C9EAEB63B71D">
+          <enum>(b)</enum>
+          <header>Aggravated
+			 identity theft</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1028A/c">
+              <external-xref legal-doc="usc" parsable-cite="usc/18/1028A">Section 1028A(c)</external-xref> of title 18, United States Code</cato:entity-ref>,
+			 is amended by striking <quote>or</quote> at the end of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1028A/c/10">paragraph (10)</cato:entity-ref>, by
+			 striking the period at the end of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1028A/c/11">paragraph (11)</cato:entity-ref> and inserting <quote>;
+			 or</quote>, and by adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="idE035E9FD23D24664BFABD3E100E2EADC" style="OLC">
+						<paragraph id="id5BE59F5E00E049AA84B2B70DCA214D22">
+              <enum>(12)</enum>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7206/ss:b">section 7206(b)
+				of the Internal Revenue Code of 1986</cato:entity-ref> (relating to use of false identity in
+				connection with tax
+				fraud).</text>
+						</paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="id4D860EF428AA4BC5B1840B63A32AA859">
+          <enum>(c)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendments made by this section shall apply to offenses
+			 committed after the date of the enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section id="idC040140CEDC342A693123B84CCA39703">
+        <enum>402.</enum>
+        <header>Increased
+			 penalty for improper disclosure or use of information by preparers of
+			 returns</header>
+				<subsection id="id3A9C519DCE8447CF90E6CA6C69250AF3">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6713/ss:a">Section 6713(a) of the Internal Revenue Code of 1986</cato:entity-ref> is
+			 amended—</text>
+					<paragraph id="id6CD3F87C99874CC29F79E9770D4327EC">
+            <enum>(1)</enum>
+            <text>by striking
+			 <quote>$250</quote> and inserting <quote>$1,000</quote>, and</text>
+					</paragraph>
+          <paragraph id="idF8DDFCC33BC04262A8036280F2F8E526">
+            <enum>(2)</enum>
+            <text>by striking
+			 <quote>$10,000</quote> and inserting <quote>$50,000</quote>.</text>
+					</paragraph>
+        </subsection>
+        <subsection commented="no" id="idAF0CFB8F9E89461F96DF0B5CAE0834FE">
+          <enum>(b)</enum>
+          <header>Criminal
+			 penalty</header>
+          <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7216/ss:a">Section 7216(a) of the Internal Revenue Code of 1986</cato:entity-ref> is
+			 amended by striking <quote>$1,000</quote> and inserting
+			 <quote>$100,000</quote>.</text>
+				</subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="id2609AA7801D54802AEB2E7D40AECD2B1">
+          <enum>(c)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendments made by this section shall apply to
+			 disclosures or uses after the date of the enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section commented="no" id="idFEDCC114D1164A42BB323838E309D4DE">
+        <enum>403.</enum>
+        <header>Authority to
+			 transfer Internal Revenue Service appropriations to use for tax fraud
+			 enforcement</header>
+        <text display-inline="no-display-inline">For any fiscal
+			 year, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2050">Commissioner of Internal Revenue</cato:entity-ref> may transfer not more than
+			 $10,000,000 to the <quote>Enforcement</quote> account of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2050">Internal Revenue
+			 Service</cato:entity-ref> from amounts appropriated to other <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2050">Internal Revenue Service</cato:entity-ref> accounts.
+			 Any amounts so transferred shall be used solely for the purposes of preventing
+			 and resolving potential cases of tax fraud.</text>
+			</section>
+      <section id="ide1fdf6af42b24ee8bf6a2ac6432a4d3a">
+        <enum>404.</enum>
+        <header>Local law
+			 enforcement liaison</header>
+				<subsection id="id12af2e2e5398488cbb62be08ec9774b9">
+          <enum>(a)</enum>
+          <header>Establishment</header>
+          <text>The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2050">Commissioner of Internal Revenue</cato:entity-ref> shall establish within the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-parent-id="2050" value="Criminal Investigation Division">Criminal
+			 Investigation Division of the Internal Revenue Service</cato:entity-ref> the position of Local
+			 Law Enforcement Liaison.</text>
+				</subsection>
+        <subsection id="id52add26c4295487593df3f4a275f2538">
+          <enum>(b)</enum>
+          <header>Duties</header>
+          <text>The
+			 Local Law Enforcement Liaison shall serve as the primary source of contact for
+			 State and local law enforcement authorities with respect to tax-related
+			 identity theft and other tax fraud matters, having duties that shall
+			 include—</text>
+					<paragraph id="id5ea1a214dbea437085edd8be306d2848">
+            <enum>(1)</enum>
+            <text>receiving
+			 information from State and local law enforcement authorities;</text>
+					</paragraph>
+          <paragraph id="id41c33857266e42839fb81d4acd7a5e92">
+            <enum>(2)</enum>
+            <text>responding to
+			 inquiries from State and local law enforcement authorities;</text>
+					</paragraph>
+          <paragraph id="id50e51a3b177e422aafdda9f0ade66530">
+            <enum>(3)</enum>
+            <text>administering
+			 authorized information-sharing initiatives with State or local law enforcement
+			 authorities and reviewing the performance of such initiatives;</text>
+					</paragraph>
+          <paragraph id="id403ca3b320a8417cab6dacc73580ebf7">
+            <enum>(4)</enum>
+            <text>ensuring any
+			 information provided through authorized information-sharing initiatives with
+			 State or local law enforcement authorities is used only for the prosecution of
+			 identity theft-related crimes and not re-disclosed to third parties; and</text>
+					</paragraph>
+          <paragraph id="idacba8a22f5ba40debdaecd1aa28510bf">
+            <enum>(5)</enum>
+            <text>any other duties
+			 as delegated by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2050">Commissioner of Internal Revenue</cato:entity-ref>.</text>
+					</paragraph>
+        </subsection>
+      </section>
+    </title>
+    <title id="id42D0E69E7C1348C99BD11F10FC2878FB">
+      <enum>V</enum>
+      <header>Accelerating
+			 transition to a real-time tax system that protects taxpayers and reduces
+			 fraud</header>
+			<section id="id9E2A6E05E4D74A68B245DEF2B615A842">
+        <enum>501.</enum>
+        <header>Improvement in
+			 access to information in the National Directory of New Hires for tax
+			 administration purposes</header>
+				<subsection commented="no" display-inline="no-display-inline" id="idBB99F90E9867480A9F429E9122B13D00">
+          <enum>(a)</enum>
+          <header display-inline="yes-display-inline">In general</header>
+          <text display-inline="yes-display-inline">
+            
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:453/ss:i/p:3">Paragraph (3)</cato:entity-ref> of <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Social Security Act/s:453/ss:i">section 453(i) of the
+			 <act-name parsable-cite="SSA">Social Security Act</act-name>
+              </cato:entity-ref>
+               (<external-xref legal-doc="usc" parsable-cite="usc/42/653">
+                <cato:entity-ref entity-type="uscode" value="usc/42/653/i">42 U.S.C. 653(i)</cato:entity-ref>
+              </external-xref>)</cato:entity>
+			 is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="id98A51F652B8848E0802329065A0DFEB4" style="OLC">
+						<paragraph commented="no" display-inline="no-display-inline" id="id3D2822A463634119AAAF701B13E0D9D0">
+              <enum>(3)</enum>
+              <header display-inline="yes-display-inline">Administration of Federal tax
+				laws</header>
+              <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the
+				Treasury</cato:entity-ref> shall have access to the information in the National Directory of New
+				Hires for purposes of administering the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986">Internal Revenue Code of
+				1986</cato:entity-ref>.</text>
+						</paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="idDCDAF1E343994AD59A6611099E21AFB7">
+          <enum>(b)</enum>
+          <header display-inline="yes-display-inline">Effective
+			 date</header>
+          <text display-inline="yes-display-inline">The amendment made by
+			 this section shall take effect on the date of the enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section id="idc1952975f0ba445c957cde0f32290422">
+        <enum>502.</enum>
+        <header>Plan of action
+			 for transitioning to a real-time tax system</header>
+        <text display-inline="no-display-inline">Not later than 270 days after the date of
+			 enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref>, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary's</cato:entity-ref>
+			 delegate, shall submit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a report analyzing and outlining options and
+			 potential timelines for moving toward a tax system that reduces burdens on
+			 taxpayers and decreases tax fraud through real-time information
+			 matching.</text>
+			</section>
+    </title>
+  </legis-body>
+</bill>
+</doc>

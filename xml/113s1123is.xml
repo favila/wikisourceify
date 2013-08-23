@@ -1,0 +1,968 @@
+<doc>
+  <docmeta id="113s1123is">
+    <bill congress="113" type="s" number="1123" version="is"/>
+    <revision size="28129" annotations="0" status="complete" id="6" commit-time="2013-08-07T20:12:58Z" committer="mbohmer" doc="113s1123is/6.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata>
+<dublinCore>
+<title>113 S1123 IS: Preventing and Reducing Improper Medicare and Medicaid Expenditures Act of 2013</title>
+<publisher>U.S. Senate</publisher>
+<date>2013-06-10</date>
+<format>text/xml</format>
+<language>EN</language>
+<rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 1123</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20130610">June 10, 2013</action-date>
+			<action-desc>
+        <sponsor name-id="S277">Mr. Carper</sponsor> (for himself,
+			 <cosponsor name-id="S301">Mr. Coburn</cosponsor>, <cosponsor name-id="S330">Mr.
+			 Bennet</cosponsor>, <cosponsor name-id="S337">Mr. Coons</cosponsor>,
+			 <cosponsor name-id="S311">Ms. Klobuchar</cosponsor>, <cosponsor name-id="S258">Ms. Landrieu</cosponsor>, <cosponsor name-id="S312">Mrs.
+			 McCaskill</cosponsor>, <cosponsor name-id="S327">Mr. Warner</cosponsor>,
+			 <cosponsor name-id="S340">Ms. Ayotte</cosponsor>, <cosponsor name-id="S254">Mr.
+			 Enzi</cosponsor>, <cosponsor name-id="S305">Mr. Isakson</cosponsor>, and
+			 <cosponsor name-id="S310">Mr. Corker</cosponsor>) introduced the following
+			 bill; which was read twice and referred to the
+			 <committee-name committee-id="SSFI00">Committee on
+			 Finance</committee-name>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend titles XVIII and XIX of the Social Security Act
+		  to curb waste, fraud, and abuse in the Medicare and Medicaid
+		  programs.</official-title>
+	</form>
+	<legis-body>
+		<section id="idA5198DE67BD6406BA2F439F8E1D7036C" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title; table of
+			 contents</header>
+			<subsection id="idE469FE9D53D64648BAE119912C0E5BE7">
+        <enum>(a)</enum>
+        <header>Short
+			 title</header>
+        <text display-inline="yes-display-inline">This Act may be cited
+			 as the <quote>
+            <short-title>Preventing and Reducing
+			 Improper Medicare and Medicaid Expenditures Act of 2013</short-title>
+          </quote>
+			 or the <quote>
+            <short-title>PRIME Act of
+			 2013</short-title>
+          </quote> .</text>
+			</subsection>
+      <subsection commented="no" display-inline="no-display-inline" id="id0227E620223740E58E1A3AB5C604B009">
+        <enum>(b)</enum>
+        <header>Table of
+			 contents</header>
+        <text>The table of contents of this Act is as follows:</text>
+				<toc>
+					<toc-entry idref="idA5198DE67BD6406BA2F439F8E1D7036C" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="idD6C13848F14E4459BF41FEE2EAAF53C0" level="title">TITLE I—Curbing improper payments</toc-entry>
+					<toc-entry idref="idFC92A0D4B3C54E15B0A051396B77F6CC" level="section">Sec. 101. Requiring valid prescriber National Provider
+				Identifiers on pharmacy claims.</toc-entry>
+					<toc-entry idref="id66CBD3F60DF0472CB60EF6AC191B029A" level="section">Sec. 102. Reforming how CMS tracks and corrects the
+				vulnerabilities identified by Recovery Audit Contractors.</toc-entry>
+					<toc-entry idref="idF3F4CB8B4312434BBFF4EBB64CFC99E1" level="section">Sec. 103. Improving Senior Medicare Patrol and fraud reporting
+				rewards.</toc-entry>
+					<toc-entry idref="id8ED63D28BD374B6F9654154B597D179C" level="section">Sec. 104. Strengthening Medicaid Program integrity through
+				flexibility.</toc-entry>
+					<toc-entry idref="idF52532BF395E4426B29A60D35EFD0BF9" level="section">Sec. 105. Establishing Medicare administrative contractor error
+				reduction incentives.</toc-entry>
+					<toc-entry idref="IDd564432678de4d8e8ca35d6a50fd9096" level="section">Sec. 106. Strengthening penalties for the illegal distribution
+				of a Medicare, Medicaid, or CHIP beneficiary identification or billing
+				privileges.</toc-entry>
+					<toc-entry idref="id73D0A83E10CC455DA61535C246717F02" level="title">TITLE II—Improving data sharing</toc-entry>
+					<toc-entry level="section">Sec. 201. Access to the National Directory
+				of New Hires.</toc-entry>
+					<toc-entry idref="ID4e86f6eda0144ac4962550bdec38496a" level="section">Sec. 202. Improving the sharing of data between the Federal
+				Government and State Medicaid programs.</toc-entry>
+					<toc-entry idref="id86140AF510E245BFB5679FE8168995A4" level="section">Sec. 203. Improving claims processing and detection of fraud
+				within the Medicaid and CHIP programs.</toc-entry>
+					<toc-entry idref="id83CDDC90C21D4ED7AE4B791DE40D6163" level="title">TITLE III—Report on implementation</toc-entry>
+					<toc-entry idref="ID1ba1dc1e81e64378ae03b789d8c7f6b1" level="section">Sec. 301. Report on implementation.</toc-entry>
+				</toc>
+			</subsection>
+    </section>
+    <title id="idD6C13848F14E4459BF41FEE2EAAF53C0">
+      <enum>I</enum>
+      <header>Curbing improper
+			 payments</header>
+			<section id="idFC92A0D4B3C54E15B0A051396B77F6CC">
+        <enum>101.</enum>
+        <header>Requiring
+			 valid prescriber National Provider Identifiers on pharmacy claims</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1860D–4/ss:c">Section 1860D–4(c) of the Social Security
+			 Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395w-104">
+              <cato:entity-ref entity-type="uscode" value="usc/42/1395w–104/c">42 U.S.C. 1395w–104(c)</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended by adding at the end the following new
+			 paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="idA9151E24317F4FFDA0083E6A31FCDC89" style="OLC">
+					<paragraph id="id8F042A1ED04C4FBEA32FD8E4782EE7D3">
+            <enum>(4)</enum>
+            <header>Requiring valid
+				prescriber National Provider Identifiers on pharmacy claims</header>
+						<subparagraph id="id6B664D64D83F44EC9A15D101BB1FB0A8">
+              <enum>(A)</enum>
+              <header>In
+				general</header>
+              <text display-inline="yes-display-inline">For plan year 2015
+				and subsequent plan years, subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1860D–4/ss:c/p:4/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall
+				prohibit PDP sponsors of prescription drug plans from paying claims for
+				prescription drugs under this part that do not include a valid prescriber
+				National Provider Identifier.</text>
+						</subparagraph>
+            <subparagraph id="idFDA23967E08641138B1C2471FCD1C38E">
+              <enum>(B)</enum>
+              <header>Procedures</header>
+              <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall establish—</text>
+							<clause id="id022294DB01E7400E9F9813EC31410DB8">
+                <enum>(i)</enum>
+                <text display-inline="yes-display-inline">procedures for determining the validity of
+				prescriber National Provider Identifiers under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1860D–4/ss:c/p:4/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>; and</text>
+							</clause>
+              <clause id="id9E6F06671EEF4E9FBE14896142D62CE0">
+                <enum>(ii)</enum>
+                <text>procedures for
+				transferring to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7504">Inspector General of the Department of Health and Human
+				Services</cato:entity-ref> and appropriate law enforcement agencies and other oversight entities
+				information on those National Provider Identifiers and pharmacy claims,
+				including records related to such claims, that the Secretary determines are
+				invalid under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1860D–4/ss:c/p:4/sp:B/cl:i" proposed="true">clause (i)</cato:entity-ref>.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="idDEC2B9FA731848969A78888B919326E7">
+              <enum>(C)</enum>
+              <header>Report</header>
+              <text display-inline="yes-display-inline">Not later than January 1, 2017, the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7004">Inspector General of the Department of Health and Human Services</cato:entity-ref> shall submit
+				to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a report on the effectiveness of the procedures established under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1860D–4/ss:c/p:4/sp:B" proposed="true">subparagraph
+				(B)</cato:entity-ref>.</text>
+						</subparagraph>
+          </paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</section>
+      <section id="id66CBD3F60DF0472CB60EF6AC191B029A">
+        <enum>102.</enum>
+        <header>Reforming how
+			 CMS tracks and corrects the vulnerabilities identified by Recovery Audit
+			 Contractors</header>
+				<subsection id="id89A63C56D1D046CDA34664D915D37FCF">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Social Security Act/s:1893/ss:h">Section 1893(h) of
+			 the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395ddd">
+                <cato:entity-ref entity-type="uscode" value="usc/42/1395ddd/h">42 U.S.C. 1395ddd(h)</cato:entity-ref>
+              </external-xref>)</cato:entity> is amended—</text>
+					<paragraph id="idA45F87261B0D407F919288B962A703E6">
+            <enum>(1)</enum>
+            <text display-inline="yes-display-inline">in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1893/ss:h/p:8">paragraph (8)</cato:entity-ref>—</text>
+						<subparagraph id="id6A72CE958807421498AB3453AED0E0E7">
+              <enum>(A)</enum>
+              <text display-inline="yes-display-inline">by striking <quote>
+                  <header-in-text level="paragraph" style="OLC">report</header-in-text>.—The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>
+                </quote>
+			 and inserting “<header-in-text level="paragraph" style="OLC">report</header-in-text>.—</text>
+							<quoted-block display-inline="no-display-inline" id="idAE9F1B95F4834B5A9B0B92B38A79F927" style="OLC">
+								<subparagraph id="idA3F3578D415249A2A23F5AF7A949FFCF">
+                  <enum>(A)</enum>
+                  <header>In
+				general</header>
+                  <text display-inline="yes-display-inline">Subject to
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1893/ss:h/p:8/sp:C" proposed="true">subparagraph (C)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>
+                  </text>
+								</subparagraph>
+                <after-quoted-block>;
+				and</after-quoted-block>
+              </quoted-block>
+						</subparagraph>
+            <subparagraph id="idBF01455BEBB7485D9D4632FB46D503DE">
+              <enum>(B)</enum>
+              <text>by adding after
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1893/ss:h/p:8/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>, as inserted by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Preventing and Reducing Improper Medicare and Medicaid Expenditures Act of 2013/s:102/ss:a/p:1/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>, the following new
+			 subparagraphs:</text>
+							<quoted-block display-inline="no-display-inline" id="id50E0794369CB4AAB8024162DF09C72AE" style="OLC">
+								<subparagraph id="ID3b032bbf25ee4338b82dc017a17eed02">
+                  <enum>(B)</enum>
+                  <header>Inclusion of
+				improper payment vulnerabilities identified</header>
+                  <text>Each report submitted
+				under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1893/ss:h/p:8/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> shall, subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1893/ss:h/p:8/sp:C" proposed="true">subparagraph (C)</cato:entity-ref>, include—</text>
+									<clause id="id4D94941D25A34C75B29DEC6095804BB2">
+                    <enum>(i)</enum>
+                    <text>a
+				description of—</text>
+										<subclause id="id497436A998A549D18F21C3D09AFAA6A6">
+                      <enum>(I)</enum>
+                      <text>the types and
+				financial cost to the program under this title of improper payment
+				vulnerabilities identified by recovery audit contractors under this subsection;
+				and</text>
+										</subclause>
+                    <subclause id="id96BC243619084FF1B363CF25F6E87C1C">
+                      <enum>(II)</enum>
+                      <text>how the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>
+				is addressing such improper payment vulnerabilities; and</text>
+										</subclause>
+                  </clause>
+                  <clause id="id65CF3D11415249B9B3BEE36320C63106">
+                    <enum>(ii)</enum>
+                    <text>an assessment of
+				the effectiveness of changes made to payment policies and procedures under this
+				title in order to address the vulnerabilities so identified.</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="id63AB8851BAE2485A86762AF13F0F9FB4">
+                  <enum>(C)</enum>
+                  <header>Limitation</header>
+                  <text>The
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall ensure that each report submitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1893/ss:h/p:8/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> does
+				not include information that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> determines would be sensitive or
+				would otherwise negatively impact program
+				integrity.</text>
+								</subparagraph>
+                <after-quoted-block>;
+				and</after-quoted-block>
+              </quoted-block>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="id39137A7A5A3B47518A8A24BF6E7C2B7A">
+            <enum>(2)</enum>
+            <text display-inline="yes-display-inline">by adding at the end the following new
+			 paragraph:</text>
+						<quoted-block display-inline="no-display-inline" id="id25E554A0AE5A4374896505DF4241C852" style="OLC">
+							<paragraph id="id09F3C7A27F92479B85E18D4D6CB74E8B">
+                <enum>(10)</enum>
+                <header>Addressing
+				improper payment vulnerabilities</header>
+                <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall address improper
+				payment vulnerabilities identified by recovery audit contractors under this
+				subsection in a timely manner, prioritized based on the risk to the program
+				under this
+				title.</text>
+							</paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection commented="no" id="ID0572ae6fcca549ceb14ae7372ad3c18d">
+          <enum>(b)</enum>
+          <header>Use of Medicare
+			 and Medicaid recovery audit contractor recoveries for provider education and To
+			 prevent improper payments and fraud</header>
+					<paragraph id="ID94b679e6a1e24faa9fd5594704f065b7">
+            <enum>(1)</enum>
+            <header>Medicare RAC
+			 program</header>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:1893/ss:h/p:1/sp:C">Section 1893(h)(1)(C) of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395ddd/h/1/C">42
+			 U.S.C. 1395ddd(h)(1)(C)</cato:entity-ref>)</cato:entity> is amended—</text>
+						<subparagraph id="IDa821279f00204a408becf60212218e34">
+              <enum>(A)</enum>
+              <text>by striking
+			 <quote>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall retain</quote> and inserting “the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>—</text>
+							<quoted-block display-inline="no-display-inline" id="idA5325A365F414DCAA6869F3A6BC64AAB" style="OLC">
+								<clause id="id88D0D404B93A4CCE84B8E83089A3271F">
+                  <enum>(i)</enum>
+                  <text>shall
+				retain</text>
+								</clause>
+                <after-quoted-block>;</after-quoted-block>
+              </quoted-block>
+						</subparagraph>
+            <subparagraph id="id0725414502864F04A57A30F7823361EC">
+              <enum>(B)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1893/ss:h/p:1/sp:C/cl:i" proposed="true">clause (i)</cato:entity-ref>, as
+			 added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Preventing and Reducing Improper Medicare and Medicaid Expenditures Act of 2013/s:102/ss:b/p:1/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>—</text>
+							<clause id="id71D474A77EB64E6C98D4EFC463C4ED4F">
+                <enum>(i)</enum>
+                <text>by
+			 inserting <quote>, in addition to any other funds that may be
+			 available,</quote> after <quote>available</quote>;</text>
+							</clause>
+              <clause id="idBCE6C6AF7A56444F829AA4933E2B7CF5">
+                <enum>(ii)</enum>
+                <text>by
+			 inserting <quote>until expended</quote> after <quote>Services</quote>;
+			 and</text>
+							</clause>
+              <clause id="id06368D8633324044BD97868B3C2B2A04">
+                <enum>(iii)</enum>
+                <text>by striking the
+			 period at the end and inserting a semicolon; and</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="ID274075c714014c9f87ac295b222f497f">
+              <enum>(C)</enum>
+              <text>by adding at the
+			 end the following new clauses:</text>
+							<quoted-block display-inline="no-display-inline" id="idBDE2B3CAFE864D90889E6F5A307605FA" style="OLC">
+								<clause id="id2759D3B6A1FC4347BC6F3B08EFEEFD11">
+                  <enum>(ii)</enum>
+                  <text>may retain an
+				additional portion of the amounts recovered (not to exceed 25 percent of such
+				amounts recovered) which shall be available, in addition to any other funds
+				that may be available, to such program management account until expended for
+				purposes of activities to address problems that contribute to improper payments
+				and fraud under this title; and</text>
+								</clause>
+                <clause id="idC135D478E044410EB5CD97D3A9D3BDD8">
+                  <enum>(iii)</enum>
+                  <text>shall retain an
+				additional 5 percent of such amounts recovered to be made available, in
+				addition to any other funds that may be available, to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7004">Inspector General of
+				the Department of Health and Human Services</cato:entity-ref> until expended for the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7504">Inspector
+				General</cato:entity-ref> to carry out activities of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7504">Inspector General</cato:entity-ref> relating to
+				investigating improper payments or auditing internal controls associated with
+				payments under this
+				title.</text>
+								</clause>
+                <after-quoted-block>.</after-quoted-block>
+              </quoted-block>
+						</subparagraph>
+          </paragraph>
+          <paragraph commented="no" id="ID7b14d55f69a148688ddccce365f89472">
+            <enum>(2)</enum>
+            <header>Medicaid RAC
+			 program</header>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:1936">Section 1936 of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1396u–6">42 U.S.C.
+			 1396u–6</cato:entity-ref>)</cato:entity> is amended by adding at the end the following new subsection:</text>
+						<quoted-block display-inline="no-display-inline" id="id30D31059768C4D72ACC581A5B099F123" style="OLC">
+							<subsection commented="no" id="IDd2e8d4368b8b452887a984e3174df029">
+                <enum>(f)</enum>
+                <header>Amounts
+				recovered through recovery audit contractors</header>
+                <text>Notwithstanding any
+				other provision of law, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>—</text>
+								<paragraph commented="no" id="idDB931BBE7B184ABF8853F79E1AE07266">
+                  <enum>(1)</enum>
+                  <text>may retain a
+				portion of the amounts recovered pursuant to the program established under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1902/ss:a/p:42/sp:B">section 1902(a)(42)(B)</cato:entity-ref> (not to exceed 25 percent of the Federal share of such
+				amounts recovered) which shall be available, in addition to any other funds
+				that may be available, to the program management account of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7530">Centers for
+				Medicare &amp; Medicaid Services</cato:entity-ref> for purposes of activities to address problems
+				that contribute to improper payments and fraud under this title; and</text>
+								</paragraph>
+                <paragraph commented="no" id="idEF2E16BA60A44D85A28797ECD436474B">
+                  <enum>(2)</enum>
+                  <text>shall retain an
+				additional 5 percent of the Federal share of such amounts recovered to be made
+				available, in addition to any other funds that may be available, to the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7504">Inspector General of the Department of Health and Human Services</cato:entity-ref> until expended
+				for the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7504">Inspector General</cato:entity-ref> to carry out activities of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7004">Inspector General</cato:entity-ref>
+				relating to investigating improper payments or auditing internal controls
+				associated with payments under this
+				title.</text>
+								</paragraph>
+              </subsection>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+          <paragraph id="id8C163ECE9BE041DD931B1E24E43C44F4">
+            <enum>(3)</enum>
+            <header>Effective
+			 date</header>
+            <text>The amendments made by this section shall take effect on
+			 January 1, 2014.</text>
+					</paragraph>
+        </subsection>
+      </section>
+      <section id="idF3F4CB8B4312434BBFF4EBB64CFC99E1">
+        <enum>103.</enum>
+        <header>Improving
+			 Senior Medicare Patrol and fraud reporting rewards</header>
+				<subsection id="id0E1A72F249E64A9390BB53A3FB2EB38A">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary of Health and Human Services</cato:entity-ref> (in this
+			 section referred to as the <term>Secretary</term>) shall develop a plan to
+			 revise the incentive program under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Health Insurance Portability and Accountability Act of 1996/s:203/ss:b">section 203(b) of the Health Insurance
+			 Portability and Accountability Act of 1996</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395b-5">
+                <cato:entity-ref entity-type="uscode" value="usc/42/1395b–5/b">42 U.S.C. 1395b–5(b)</cato:entity-ref>
+              </external-xref>)</cato:entity> to encourage
+			 greater participation by individuals to report fraud and abuse in the Medicare
+			 program. Such plan shall include recommendations for—</text>
+					<paragraph id="idB80504BEFED7454C8798CFA8EF0B37FB">
+            <enum>(1)</enum>
+            <text>ways to enhance
+			 rewards for individuals reporting under the incentive program, including
+			 rewards based on information that leads to an administrative action; and</text>
+					</paragraph>
+          <paragraph id="id9D716C8B806147748FB1091B015986B8">
+            <enum>(2)</enum>
+            <text>extending the
+			 incentive program to the Medicaid program.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="id27D77A62FBC64FF2800684C576002CF0">
+          <enum>(b)</enum>
+          <header>Public
+			 awareness and education campaign</header>
+          <text>The plan developed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Preventing and Reducing Improper Medicare and Medicaid Expenditures Act of 2013/s:103/ss:a" proposed="true">subsection (a)</cato:entity-ref>
+			 shall also include recommendations for the use of the Senior Medicare Patrols
+			 authorized under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Older Americans Act of 1965/s:411">section 411 of the Older Americans Act of 1965</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/3032">42 U.S.C.
+			 3032</cato:entity-ref>)</cato:entity> to conduct a public awareness and education campaign to encourage
+			 participation in the revised incentive program under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Preventing and Reducing Improper Medicare and Medicaid Expenditures Act of 2013/s:103/ss:a" proposed="true">subsection (a)</cato:entity-ref>.</text>
+				</subsection>
+        <subsection id="ID49487b525b474085a5e8794c25eff601">
+          <enum>(c)</enum>
+          <header>Submission of
+			 plan</header>
+          <text>Not later than 180 days after the date of enactment of this
+			 Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall submit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> the plan developed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Preventing and Reducing Improper Medicare and Medicaid Expenditures Act of 2013/s:103/ss:a" proposed="true">subsection
+			 (a)</cato:entity-ref>.</text>
+				</subsection>
+      </section>
+      <section id="id8ED63D28BD374B6F9654154B597D179C">
+        <enum>104.</enum>
+        <header>Strengthening
+			 Medicaid Program integrity through flexibility</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1936">Section 1936 of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1396u–6">42
+			 U.S.C. 1396u–6</cato:entity-ref>)</cato:entity> is amended—</text>
+				<paragraph id="id95ED6F4FDB954BDC876A13CCA4178971">
+          <enum>(1)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1936/ss:a">subsection (a)</cato:entity-ref>,
+			 by inserting <quote>, or otherwise,</quote> after <quote>entities</quote>;
+			 and</text>
+				</paragraph>
+        <paragraph id="idE02B766D47024D7ABF8053EB41924B6F">
+          <enum>(2)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1936/ss:e">subsection
+			 (e)</cato:entity-ref>—</text>
+					<subparagraph id="id92329B276517460293B1194D11CC6DAB">
+            <enum>(A)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1936/ss:e/p:1">paragraph (1)</cato:entity-ref>,
+			 in the matter preceding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1936/ss:e/p:1/sp:A">subparagraph (A)</cato:entity-ref>, by inserting <quote>(including the
+			 costs of equipment, salaries and benefits, and travel and training)</quote>
+			 after <quote>Program under this section</quote>; and</text>
+					</subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id3877FFAA519945AA8CEF2AB479FE4B98">
+            <enum>(B)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1936/ss:e/p:3">paragraph (3)</cato:entity-ref>,
+			 by striking <quote>by 100</quote> and inserting <quote>by 100, or such number
+			 as determined necessary by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> to carry out the
+			 Program,</quote>.</text>
+					</subparagraph>
+        </paragraph>
+      </section>
+      <section id="idF52532BF395E4426B29A60D35EFD0BF9">
+        <enum>105.</enum>
+        <header>Establishing
+			 Medicare administrative contractor error reduction incentives</header>
+				<subsection id="id80F40A19AD0145858EA0B14A419A8DAE">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Social Security Act/s:1874A/ss:b/p:1/sp:D">Section
+			 1874A(b)(1)(D) of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395kk">
+                <cato:entity-ref entity-type="uscode" value="usc/42/1395kk/b/1/D">42 U.S.C. 1395kk(b)(1)(D)</cato:entity-ref>
+              </external-xref>)</cato:entity> is
+			 amended—</text>
+					<paragraph id="id25475D9F3F404DFC873E850CEBA78FF9">
+            <enum>(1)</enum>
+            <text display-inline="yes-display-inline">by striking <quote>
+                <header-in-text level="subparagraph" style="OLC">quality</header-in-text>.—The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>
+              </quote> and inserting “<header-in-text level="subparagraph" style="OLC">quality</header-in-text>.—</text>
+						<quoted-block display-inline="no-display-inline" id="idD82DD1A2FD8C4D9F94390D5189B03D70" style="OLC">
+							<clause id="id55368F215075406392C7A584E43B3205">
+                <enum>(i)</enum>
+                <header>In
+				general</header>
+                <text display-inline="yes-display-inline">Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1874A/ss:b/p:1/sp:D/cl:ii" proposed="true">clauses
+				(ii)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1874A/ss:b/p:1/sp:D/cl:iii" proposed="true">(iii)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>
+                </text>
+							</clause>
+              <after-quoted-block>;
+				and</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+          <paragraph id="id5F8F7A65FDC34051AAF1BFD8CF6059BB">
+            <enum>(2)</enum>
+            <text display-inline="yes-display-inline">by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1874A/ss:b/p:1/sp:D/cl:i">clause (i)</cato:entity-ref>, as added by
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Preventing and Reducing Improper Medicare and Medicaid Expenditures Act of 2013/s:105/ss:a/p:1" proposed="true">paragraph (1)</cato:entity-ref>, the following new clauses:</text>
+						<quoted-block display-inline="no-display-inline" id="id9AEE0A0B02604B168D4BA2C0A21609A5" style="OLC">
+							<clause id="id25C69916D6D24F88B84F735027A2AB99">
+                <enum>(ii)</enum>
+                <header>Improper
+				payment error rate reduction incentives</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall
+				provide incentives for medicare administrative contractors to reduce the
+				improper payment error rates in their jurisdictions.</text>
+							</clause>
+              <clause id="id94F031D501454EC6BE609572A981FEA7">
+                <enum>(iii)</enum>
+                <header>Incentives</header>
+                <text>The
+				incentives provided for under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1874A/ss:b/p:1/sp:D/cl:ii" proposed="true">clause (ii)</cato:entity-ref>—</text>
+								<subclause id="id7CC995F3E5B84B78A87E97BA4EDEE314">
+                  <enum>(I)</enum>
+                  <text>may include a
+				sliding scale of bonus payments and additional incentives to medicare
+				administrative contractors that reduce the improper payment error rates in
+				their jurisdictions to certain benchmark levels, as determined by the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>; and</text>
+								</subclause>
+                <subclause id="id0C7962A266614025B943573E00C087AD">
+                  <enum>(II)</enum>
+                  <text>shall include
+				substantial reductions in award fee payments under award fee contracts, for any
+				medicare administrative contractor that reaches an upper end error threshold or
+				other threshold as determined by the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>.</text>
+								</subclause>
+              </clause>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="idF2FED3CAAED6418E9F074AD4BA95E637">
+          <enum>(b)</enum>
+          <header>Effective
+			 date</header>
+					<paragraph commented="no" display-inline="no-display-inline" id="idA089569A299D490FAEE9C47F29003B83">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>The amendments made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Preventing and Reducing Improper Medicare and Medicaid Expenditures Act of 2013/s:105/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall apply to
+			 contracts entered into or renewed on or after the date that is 12 months after
+			 the date of enactment of this Act.</text>
+					</paragraph>
+          <paragraph commented="no" display-inline="no-display-inline" id="idE114BA85385745B19EA76F7A1F0D6787">
+            <enum>(2)</enum>
+            <header>Contracts
+			 entered into or renewed prior to effective date</header>
+            <text>In the case of
+			 contracts in existence on or after the date of the enactment of this Act and
+			 that are not subject to the effective date under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Preventing and Reducing Improper Medicare and Medicaid Expenditures Act of 2013/s:105/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary
+			 of Health and Human Services</cato:entity-ref> shall, when appropriate and practicable, seek to
+			 apply the incentives provided for in the amendments made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Preventing and Reducing Improper Medicare and Medicaid Expenditures Act of 2013/s:105/ss:a" proposed="true">subsection (a)</cato:entity-ref>
+			 through contract modifications.</text>
+					</paragraph>
+        </subsection>
+      </section>
+      <section id="IDd564432678de4d8e8ca35d6a50fd9096">
+        <enum>106.</enum>
+        <header>Strengthening
+			 penalties for the illegal distribution of a Medicare, Medicaid, or CHIP
+			 beneficiary identification or billing privileges</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:1128B/ss:b">Section 1128B(b) of the Social Security Act</cato:entity-ref>
+			 (<cato:entity-ref entity-type="uscode" value="usc/42/1320a–7b/b">42 U.S.C. 1320a–7b(b)</cato:entity-ref>)</cato:entity> is amended by adding at the end the following:</text>
+				<quoted-block display-inline="no-display-inline" id="idD40A49E69953401D9C145CC5CD65F48A" style="OLC">
+					<paragraph id="ID33612082cdb54225b34e6a7efbae0e98">
+            <enum>(4)</enum>
+            <text>Whoever knowingly,
+				intentionally, and with the intent to defraud purchases, sells or distributes,
+				or arranges for the purchase, sale, or distribution of a Medicare, Medicaid, or
+				CHIP beneficiary identification number or billing privileges under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/t:XVIII">title XVIII</cato:entity-ref>,
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/t:XIX">title XIX</cato:entity-ref>, or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/t:XXI">title XXI</cato:entity-ref> shall be imprisoned for not more than 10 years or fined
+				not more than $500,000 ($1,000,000 in the case of a corporation), or
+				both.</text>
+					</paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</section>
+    </title>
+    <title id="id73D0A83E10CC455DA61535C246717F02">
+      <enum>II</enum>
+      <header>Improving data
+			 sharing</header>
+			<section id="idDB1499ADC3DA4F66B3371A807DA3A6C3">
+        <enum>201.</enum>
+        <header>Access to the
+			 National Directory of New Hires</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Social Security Act/s:453/ss:j">Section 453(j) of the Social Security Act</cato:entity-ref>
+			 (<cato:entity-ref entity-type="uscode" value="usc/42/653">42 U.S.C. 653 (j)</cato:entity-ref>)</cato:entity> is amended by adding at the end of the following new
+			 paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="id500A96A3D0BE4CF1991F5E9CCF41D7AB" style="OLC">
+					<paragraph id="id6d38379c18d24b98879eae714618e306">
+            <enum>(12)</enum>
+            <header>Information
+				comparisons and disclosures to assist in administration of the Medicare program
+				and State health subsidy programs</header>
+						<subparagraph id="id54912b00b53944baa5c187ff19787815">
+              <enum>(A)</enum>
+              <header>Disclosure to
+				the Administrator of the Centers for Medicare &amp; Medicaid
+				Services</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7530">Administrator of the Centers for Medicare &amp;
+				Medicaid</cato:entity-ref> shall have access to the information in the National Directory of New
+				Hires for purposes of determining the eligibility of an applicant for, or
+				enrollee in, the Medicare program under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/t:XVIII">title XVIII</cato:entity-ref> or an applicable State
+				health subsidy program (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:1413/ss:e">section 1413(e) of the Patient Protection
+				and Affordable Care Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/18083">
+                    <cato:entity-ref entity-type="uscode" value="usc/42/18083/e">42 U.S.C. 18083(e)</cato:entity-ref>
+                  </external-xref>)</cato:entity>).</text>
+						</subparagraph>
+            <subparagraph id="idecfd27b5fcba43b38e663728970e47df">
+              <enum>(B)</enum>
+              <header>Disclosure to
+				the Inspector General of the Department of Health and Human Services</header>
+							<clause id="id2f9f7ae734694e33b34d4b3c314a7260">
+                <enum>(i)</enum>
+                <header>In
+				general</header>
+                <text>If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7504">Inspector General of the Department of Health and
+				Human Services</cato:entity-ref> transmits to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref> the names and social security account
+				numbers of individuals, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref> shall disclose to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7504">Inspector General</cato:entity-ref>
+				information on such individuals and their employers maintained in the National
+				Directory of New Hires.</text>
+							</clause>
+              <clause id="id7c9926b96e7a457ab93ed150a588896b">
+                <enum>(ii)</enum>
+                <header>Use of
+				information</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7004">Inspector General of the Department of Health and
+				Human Services</cato:entity-ref> may use information provided under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:453/ss:j/p:12/sp:B/cl:i" proposed="true">clause (i)</cato:entity-ref> only for purposes
+				of—</text>
+								<subclause id="id4d2badf0c84641a699e1126eec5f4a79">
+                  <enum>(I)</enum>
+                  <text>determining the
+				eligibility of an applicant for, or enrollee in, the Medicare program under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/t:XVIII">title XVIII</cato:entity-ref> or an applicable State health subsidy program (as defined in
+				<cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:1413/ss:e">section 1413(e) of the Patient Protection and Affordable Care Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/18083/e">42 U.S.C.
+				18083(e)</cato:entity-ref>)</cato:entity>); or</text>
+								</subclause>
+                <subclause id="id8a1d016310cf4c7e8a80b0e7f2704082">
+                  <enum>(II)</enum>
+                  <text>evaluating the
+				integrity of the Medicare program or an applicable State health subsidy program
+				(as so defined).</text>
+								</subclause>
+              </clause>
+            </subparagraph>
+            <subparagraph id="id1ff42b7c308344e2814d989be8fbc59d">
+              <enum>(C)</enum>
+              <header>Disclosure to
+				State agencies</header>
+							<clause id="id125fc79aa61e41d2ae0d38966f828036">
+                <enum>(i)</enum>
+                <header>In
+				general</header>
+                <text>If, for purposes of administering an applicable State
+				health subsidy program (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:1413/ss:e">section 1413(e) of the Patient Protection
+				and Affordable Care Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/18083">
+                      <cato:entity-ref entity-type="uscode" value="usc/42/18083/e">42 U.S.C. 18083(e)</cato:entity-ref>
+                    </external-xref>)</cato:entity>), a State agency responsible for
+				administering such program transmits to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> the names and social
+				security account numbers of individuals, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall disclose to such
+				State agency information on such individuals and their employers maintained in
+				the National Directory of New Hires, subject to this subparagraph.</text>
+							</clause>
+              <clause id="id0272d730546a4fa2915ad250feaa2663">
+                <enum>(ii)</enum>
+                <header>Condition on
+				disclosure by the Secretary</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall make a disclosure
+				under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:453/ss:j/p:12/sp:C/cl:i" proposed="true">clause (i)</cato:entity-ref> only to the extent that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> determines that the
+				disclosure would not interfere with the effective operation of the program
+				under this part.</text>
+							</clause>
+              <clause id="id79045c98c383462eb9467440b0a87a9c">
+                <enum>(iii)</enum>
+                <header>Use and
+				disclosure of information by State agencies</header>
+								<subclause id="id35c6a65f64f440dea30ed44c7c2c061f">
+                  <enum>(I)</enum>
+                  <header>In
+				general</header>
+                  <text>A State agency may not use or disclose information
+				provided under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:453/ss:j/p:12/sp:C/cl:i" proposed="true">clause (i)</cato:entity-ref> except for purposes of administering a program
+				referred to in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:453/ss:j/p:12/sp:C/cl:i" proposed="true">clause (i)</cato:entity-ref>.</text>
+								</subclause>
+                <subclause id="idce675c1450fd4164b4e9fb1bc0156aef">
+                  <enum>(II)</enum>
+                  <header>Information
+				security</header>
+                  <text>The State agency shall have in effect data security and
+				control policies that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> finds adequate to ensure the security of
+				information obtained under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:453/ss:j/p:12/sp:C/cl:i" proposed="true">clause (i)</cato:entity-ref> and to ensure that access to such
+				information is restricted to authorized persons for purposes of authorized uses
+				and disclosures.</text>
+								</subclause>
+                <subclause id="id07430cccda6f4201a080dc82162991ec">
+                  <enum>(III)</enum>
+                  <header>Penalty for
+				misuse of information</header>
+                  <text>An officer or employee of the State agency
+				who fails to comply with this clause shall be subject to the sanctions under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:453/ss:l/p:2">subsection (l)(2)</cato:entity-ref> to the same extent as if such officer or employee were an
+				officer or employee of the United States.</text>
+								</subclause>
+              </clause>
+              <clause id="idb41549c1da404c62bd9fa3afb7765f40">
+                <enum>(iv)</enum>
+                <header>Procedural
+				requirements</header>
+                <text>State agencies requesting information under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:453/ss:j/p:12/sp:C/cl:i" proposed="true">clause
+				(i)</cato:entity-ref> shall adhere to uniform procedures established by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> governing
+				information requests and data matching under this paragraph.</text>
+							</clause>
+              <clause id="id3b3a5758e169432296b3089f3cd5b2c4">
+                <enum>(v)</enum>
+                <header>Reimbursement
+				of costs</header>
+                <text>The State agency shall reimburse the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>, in
+				accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:453/ss:k/p:3">subsection (k)(3)</cato:entity-ref>, for the costs incurred by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> in
+				furnishing the information requested under this
+				subparagraph.</text>
+							</clause>
+            </subparagraph>
+          </paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</section>
+      <section id="ID4e86f6eda0144ac4962550bdec38496a">
+        <enum>202.</enum>
+        <header>Improving the
+			 sharing of data between the Federal Government and State Medicaid
+			 programs</header>
+				<subsection id="id4C60B766B69343C9B6A4C00D16823A19">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary of Health and Human Services</cato:entity-ref> (in this
+			 section referred to as the <quote>Secretary</quote>) shall establish a plan to
+			 encourage and facilitate the participation of States in the Medicare-Medicaid
+			 Data Match Program (commonly referred to as the <quote>Medi-Medi
+			 Program</quote>) under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Social Security Act/s:1893/ss:g">section 1893(g) of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395ddd/g">42 U.S.C.
+			 1395ddd(g)</cato:entity-ref>)</cato:entity>.</text>
+				</subsection>
+        <subsection id="ID591495a440b64d0baa1180232a3ce9b8">
+          <enum>(b)</enum>
+          <header>Program
+			 revisions To improve Medi-Medi Data Match Program participation by
+			 States</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Social Security Act/s:1893/ss:g/p:1/sp:A">Section 1893(g)(1)(A) of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395ddd/g/1/A">42
+			 U.S.C. 1395ddd(g)(1)(A)</cato:entity-ref>)</cato:entity> is amended—</text>
+					<paragraph id="ID5c81c108deb241639897e6e17f1b2ada">
+            <enum>(1)</enum>
+            <text>in the matter
+			 preceding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1893/ss:g/p:1/sp:A/cl:i">clause (i)</cato:entity-ref>, by inserting <quote>or otherwise</quote> after
+			 <quote>eligible entities</quote>;</text>
+					</paragraph>
+          <paragraph id="ID67e123ec5fda444091dca778165a10bb">
+            <enum>(2)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1893/ss:g/p:1/sp:A/cl:i">clause
+			 (i)</cato:entity-ref>—</text>
+						<subparagraph id="ID3abbd50b18774d559f4ae13d0f065f78">
+              <enum>(A)</enum>
+              <text>by inserting
+			 <quote>to review claims data</quote> after <quote>algorithms</quote>;
+			 and</text>
+						</subparagraph>
+            <subparagraph id="IDa46e4d39e5f7492980e24e8e8b793183">
+              <enum>(B)</enum>
+              <text>by striking
+			 <quote>service, time, or patient</quote> and inserting <quote>provider,
+			 service, time, or patient</quote>;</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="ID458aa588377443e39dffe3c757d44dfa">
+            <enum>(3)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1893/ss:g/p:1/sp:A/cl:ii">clause
+			 (ii)</cato:entity-ref>—</text>
+						<subparagraph id="idEDC463C1764C4EB5B4293F91799A7077">
+              <enum>(A)</enum>
+              <text>by inserting
+			 <quote>to investigate and recover amounts with respect to suspect
+			 claims</quote> after <quote>appropriate actions</quote>; and</text>
+						</subparagraph>
+            <subparagraph id="id0AB0724F5DC846029683BF958468A40F">
+              <enum>(B)</enum>
+              <text>by striking
+			 <quote>; and</quote> and inserting a semicolon;</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="id0C90D9FC540E41B18F2A6912F6EB59B4">
+            <enum>(4)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1893/ss:g/p:1/sp:A/cl:iii">clause (iii)</cato:entity-ref>,
+			 by striking the period and inserting <quote>; and</quote>; and</text>
+					</paragraph>
+          <paragraph id="ID7bcc8f4037a1421a822fd96d487c0bf7">
+            <enum>(5)</enum>
+            <text>by adding at end
+			 the following new clause:</text>
+						<quoted-block display-inline="no-display-inline" id="id3FE8E2918C0549CEA9EABDBA5B66541A" style="OLC">
+							<clause id="idDA363B59088445F09A3766E4622A0AAD">
+                <enum>(iv)</enum>
+                <text>furthering the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary’s</cato:entity-ref> design, development, installation, or enhancement of an automated
+				data system architecture—</text>
+								<subclause id="id338D443F179547EFB9F46069C7859011">
+                  <enum>(I)</enum>
+                  <text>to collect,
+				integrate, and assess data for purposes of program integrity, program
+				oversight, and administration, including the Medi-Medi Program; and</text>
+								</subclause>
+                <subclause id="idC4ACAAC1A04D4B7B98E08616ECDAFDCD">
+                  <enum>(II)</enum>
+                  <text>that improves
+				the coordination of requests for data from
+				States.</text>
+								</subclause>
+              </clause>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="idDCEC8807BB754352A971215A8DEC6576">
+          <enum>(c)</enum>
+          <header>Providing
+			 states with data on improper payments made for items or services provided to
+			 dual eligible individuals</header>
+					<paragraph id="id52FD31D98EE54E8D9E6975BA28602D02">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall develop and implement a plan that
+			 allows each State agency responsible for administering a State plan for medical
+			 assistance under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/t:XIX">title XIX of the Social Security Act</cato:entity-ref> access to relevant data
+			 on improper or fraudulent payments made under the Medicare program under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/t:XVIII">title
+			 XVIII of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395">
+                  <cato:entity-ref entity-type="uscode" value="usc/42/1395/etseq">42 U.S.C. 1395 et seq.</cato:entity-ref>
+                </external-xref>)</cato:entity> for health care items
+			 or services provided to dual eligible individuals.</text>
+					</paragraph>
+          <paragraph id="id4D5D9F5AD402439E8D8BD2DE8336D753">
+            <enum>(2)</enum>
+            <header>Dual eligible
+			 individual defined</header>
+            <text>In this section, the term <term>dual eligible
+			 individual</term> means an individual who is entitled to, or enrolled for,
+			 benefits under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/t:XVIII/pt:A">part A of title XVIII of the Social Security Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1395c/etseq">42 U.S.C.
+			 1395c et seq.</cato:entity-ref>)</cato:entity>, or enrolled for benefits under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/t:XVIII/pt:B">part B of title XVIII of such
+			 Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395j">
+                  <cato:entity-ref entity-type="uscode" value="usc/42/1395j/etseq">42 U.S.C. 1395j et seq.</cato:entity-ref>
+                </external-xref>)</cato:entity>, and is eligible for medical assistance under a
+			 State plan under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/t:XIX">title XIX of such Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1396">
+                  <cato:entity-ref entity-type="uscode" value="usc/42/1396/etseq">42 U.S.C. 1396 et seq.</cato:entity-ref>
+                </external-xref>)</cato:entity> or under a
+			 waiver of such plan.</text>
+					</paragraph>
+        </subsection>
+      </section>
+      <section commented="no" display-inline="no-display-inline" id="id86140AF510E245BFB5679FE8168995A4">
+        <enum>203.</enum>
+        <header>Improving
+			 claims processing and detection of fraud within the Medicaid and CHIP
+			 programs</header>
+				<subsection id="IDbb20c82d7aea4ca59f02daca9dfc10d4">
+          <enum>(a)</enum>
+          <header>Medicaid</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Social Security Act/s:1903/ss:i">Section
+			 1903(i) of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1396b">
+                <cato:entity-ref entity-type="uscode" value="usc/42/1396b/i">42 U.S.C. 1396b(i)</cato:entity-ref>
+              </external-xref>)</cato:entity>, as amended by <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:2001/ss:a/p:2/sp:B">section
+			 2001(a)(2)(B) of the Patient Protection and Affordable Care Act</cato:entity-ref> (<cato:entity-ref entity-type="public-law" value="public-law/111/148">Public Law
+			 111–148</cato:entity-ref>)</cato:entity>, is amended—</text>
+					<paragraph id="ID5a6d544af17e4a5abf4b773b4847a1c9">
+            <enum>(1)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1903/ss:i/p:25">paragraph
+			 (25)</cato:entity-ref>, by striking <quote>or</quote> at the end;</text>
+					</paragraph>
+          <paragraph id="IDd7303e6ac53c4bee9270b08f609415ad">
+            <enum>(2)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1903/ss:i/p:26">paragraph
+			 (26)</cato:entity-ref>, by striking the period and inserting <quote>; or</quote>; and</text>
+					</paragraph>
+          <paragraph id="IDe395e2b290bc4630ac49c23e9e27bf23">
+            <enum>(3)</enum>
+            <text>by adding after
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1903/ss:i/p:26">paragraph (26)</cato:entity-ref>, the following new paragraph:</text>
+						<quoted-block display-inline="no-display-inline" id="id0F81DDA05718431DA2294880E1D42DC6" style="OLC">
+							<paragraph id="IDd7136516391d4d2487d947e1bb1b7871">
+                <enum>(27)</enum>
+                <text>with respect to
+				amounts expended for an item or service for which medical assistance is
+				provided under the State plan or under a waiver of such plan unless the claim
+				for payment for such item or service contains a valid beneficiary
+				identification number that, for purposes of the individual who received such
+				item or service, has been determined by the State agency to correspond to an
+				individual who is eligible to receive benefits under the State plan or
+				waiver.</text>
+							</paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="ID571fd83377d84e6696393e1b8b6fcd50">
+          <enum>(b)</enum>
+          <header>CHIP</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Social Security Act/s:2107/ss:e/p:1/sp:I">Section
+			 2107(e)(1)(I) of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1397gg">
+                <cato:entity-ref entity-type="uscode" value="usc/42/1397gg/e/1/I">42 U.S.C. 1397gg(e)(1)(I)</cato:entity-ref>
+              </external-xref>)</cato:entity> is amended
+			 by striking <quote>and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:2107/ss:e/p:17">(17)</cato:entity-ref>
+            </quote> and inserting <quote>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:2107/ss:e/p:17">(17)</cato:entity-ref>, and
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:2107/ss:e/p:27">(27)</cato:entity-ref>
+            </quote>.</text>
+				</subsection>
+      </section>
+    </title>
+    <title id="id83CDDC90C21D4ED7AE4B791DE40D6163">
+      <enum>III</enum>
+      <header>Report on
+			 implementation</header>
+			<section id="ID1ba1dc1e81e64378ae03b789d8c7f6b1">
+        <enum>301.</enum>
+        <header>Report on
+			 implementation</header>
+        <text display-inline="no-display-inline">Not later than
+			 270 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary of Health
+			 and Human Services</cato:entity-ref> shall submit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a report on the implementation of
+			 the provisions of, and the amendments made by, this Act.</text>
+			</section>
+    </title>
+  </legis-body>
+</bill>
+</doc>

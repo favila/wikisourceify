@@ -1,8 +1,8 @@
 <doc>
   <docmeta id="113hres35ih">
     <bill congress="113" type="hres" number="35" version="ih"/>
-    <revision size="6217" annotations="0" id="6" commit-time="2013-05-06T15:34:03+00:00" committer="favila" doc="113hres35ih/6.xml" status="complete">
-      <description/>
+    <revision size="6217" annotations="0" id="7" commit-time="2013-08-05T15:37:35Z" committer="mbohmer" doc="113hres35ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <resolution xmlns:cato="http://namespaces.cato.org/catoxml" dms-id="H80A03299F37B4242AF757071618D644F" key="H" public-private="public" resolution-stage="Introduced-in-House" resolution-type="house-resolution" star-print="no-star-print">
@@ -72,17 +72,17 @@
 	</form>
 	<preamble>
 		<whereas>
-      <text>Whereas the United States Attorney General is a key
+      <text>Whereas the <cato:entity-ref entity-type="federal-body" entity-id="1501">United States Attorney General</cato:entity-ref> is a key
 			 position in the Executive Branch;</text>
 		</whereas>
     <whereas>
       <text>Whereas the laws of the United States are enforced and
-			 upheld by the United States Attorney General;</text>
+			 upheld by the <cato:entity-ref entity-type="federal-body" entity-id="1501">United States Attorney General</cato:entity-ref>;</text>
 		</whereas>
     <whereas>
       <text>Whereas the <cato:entity-ref entity-type="act" value="Judiciary Act of 1789">Judiciary Act of 1789</cato:entity-ref> created the <cato:entity-ref entity-type="federal-body" entity-id="1501">Office of
 			 the Attorney General</cato:entity-ref> and the <cato:entity-ref entity-type="federal-body" entity-id="1501">Attorney General</cato:entity-ref> represents the United States in
-			 legal matters and gives advice and opinions to the President and to the heads
+			 legal matters and gives advice and opinions to the <cato:entity-ref entity-type="federal-body" entity-id="1100">President</cato:entity-ref> and to the heads
 			 of the executive departments of the United States Government;</text>
 		</whereas>
     <whereas>
@@ -98,7 +98,7 @@
     <whereas>
       <text>Whereas the people of the United States further expect
 			 that when mistakes are made, the Nation’s top law enforcement office will not
-			 seek to cover up such mistakes, but will cooperate with Congress and the
+			 seek to cover up such mistakes, but will cooperate with <cato:entity-ref entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> and the
 			 American public in disclosing the events and circumstances and transparently
 			 addressing the issues;</text>
 		</whereas>
@@ -176,8 +176,8 @@
 			 information and has been intransigent, obstructionist, and obdurate;</text>
 		</whereas>
     <whereas>
-      <text>Whereas in response to Bureau of Alcohol, Tobacco,
-			 Firearms, and Explosives whistleblowers who came to Congress for redress, the
+      <text>Whereas in response to <cato:entity-ref entity-type="federal-body" entity-id="1560">Bureau of Alcohol, Tobacco,
+			 Firearms, and Explosives</cato:entity-ref> whistleblowers who came to <cato:entity-ref entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> for redress, the
 			 Administration, through Attorney General Holder’s office, retaliated against
 			 such whistleblowers;</text>
 		</whereas>

@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113hr3ih">
     <bill congress="113" type="hr" number="3" version="ih"/>
-    <revision size="11545" annotations="0" id="6" commit-time="2013-04-11T22:27:16+00:00" committer="favila" doc="113hr3ih/6.xml" status="complete">
-      <description/>
+    <revision size="11950" annotations="0" id="8" commit-time="2013-07-30T16:39:48Z" committer="mbohmer" doc="113hr3ih/8.xml" status="complete">
+      <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H79281E3772B645C8A0B21E2F9BD3A445" public-private="public">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata>
 <dublinCore>
-<dc:title>113 HR 3 IH: Northern Route Approval Act</dc:title>
-<dc:publisher>U.S. House of Representatives</dc:publisher>
-<dc:date>2013-03-15</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<title>113 HR 3 IH: Northern Route Approval Act</title>
+<publisher>U.S. House of Representatives</publisher>
+<date>2013-03-15</date>
+<format>text/xml</format>
+<language>EN</language>
+<rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</rights>
 </dublinCore>
 </metadata>
 <form>
@@ -131,7 +131,7 @@
     <section id="HDD90D2A5A55248ECA280A593585F77E1">
       <enum>2.</enum>
       <header>Findings</header>
-      <text display-inline="no-display-inline">The Congress finds the following:</text>
+      <text display-inline="no-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
 			<paragraph id="HD9B608DFCB084A379636E3185E6FA0BB">
         <enum>(1)</enum>
         <text display-inline="yes-display-inline">To maintain our Nation’s competitive edge
@@ -164,8 +164,8 @@
 			</paragraph>
       <paragraph id="H854CE7C511E64FF19EB9E0661395DD44">
         <enum>(5)</enum>
-        <text>The Department of
-			 State and other Federal agencies have over a long period of time conducted
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1900">Department of
+			 State</cato:entity-ref> and other Federal agencies have over a long period of time conducted
 			 extensive studies and analysis of the technical aspects and of the
 			 environmental, social, and economic impacts of the proposed Keystone XL
 			 pipeline.</text>
@@ -189,8 +189,9 @@
       <enum>3.</enum>
       <header>Keystone XL
 			 permit approval</header>
-      <text display-inline="no-display-inline">Notwithstanding Executive Order No. 13337 (3
-			 U.S.C. 301 note), Executive Order No. 11423 (<external-xref legal-doc="usc" parsable-cite="usc/3/301">3 U.S.C. 301</external-xref> note), section 301 of
+      <text display-inline="no-display-inline">Notwithstanding Executive Order No. 13337 (<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/3/301/note">3
+			 U.S.C. 301 note</cato:entity-ref>), Executive Order No. 11423 (<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/3/301/note">
+          <external-xref legal-doc="usc" parsable-cite="usc/3/301">3 U.S.C. 301</external-xref> note</cato:entity-ref>), section 301 of
 			 title 3, United States Code, and any other Executive order or provision of law,
 			 no Presidential permit shall be required for the pipeline described in the
 			 application filed on May 4, 2012, by TransCanada Keystone Pipeline, L.P. to the
@@ -198,10 +199,14 @@
 			 the Nebraska reroute evaluated in the Final Evaluation Report issued by the
 			 Nebraska Department of Environmental Quality in January 2013 and approved by
 			 the Nebraska governor. The final environmental impact statement issued by the
-			 Secretary of State on August 26, 2011, coupled with the Final Evaluation Report
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1900">Secretary of State</cato:entity-ref> on August 26, 2011, coupled with the Final Evaluation Report
 			 described in the previous sentence, shall be considered to satisfy all
-			 requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321
-			 et seq.) and of the National Historic Preservation Act (<external-xref legal-doc="usc" parsable-cite="usc/16/470">16 U.S.C. 470 et seq.</external-xref>).</text>
+			 requirements of the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="National Environmental Policy Act of 1969">National Environmental Policy Act of 1969</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/4321/etseq">42 U.S.C. 4321
+			 et seq.</cato:entity-ref>)</cato:entity> and of the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="National Historic Preservation Act">National Historic Preservation Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/16/470">
+            <cato:entity-ref entity-type="uscode" value="usc/16/470/etseq">16 U.S.C. 470 et seq.</cato:entity-ref>
+          </external-xref>)</cato:entity>.</text>
 		</section>
     <section id="HF76E27B08B8B4509902341FA257B5685">
       <enum>4.</enum>
@@ -212,8 +217,8 @@
         <header>Exclusive
 			 jurisdiction</header>
         <text display-inline="yes-display-inline">Except for
-			 review by the Supreme Court on writ of certiorari, the United States Court of
-			 Appeals for the District of Columbia Circuit shall have original and exclusive
+			 review by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1001">Supreme Court</cato:entity-ref> on writ of certiorari, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="District of Columbia Circuit" entity-parent-id="1003">United States Court of
+			 Appeals for the District of Columbia Circuit</cato:entity-ref> shall have original and exclusive
 			 jurisdiction to determine—</text>
 				<paragraph id="H267643EC9D5E44229217101B2DCDFC59">
           <enum>(1)</enum>
@@ -232,8 +237,9 @@
         <paragraph id="HAEC4344A41B94DA6BA70CC41BE57723F">
           <enum>(3)</enum>
           <text display-inline="yes-display-inline">the adequacy of any environmental impact
-			 statement prepared under the National Environmental Policy Act of 1969 (42
-			 U.S.C. 4321 et seq.), or of any analysis under any other Act, with respect to
+			 statement prepared under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="National Environmental Policy Act of 1969">National Environmental Policy Act of 1969</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/4321/etseq">42
+			 U.S.C. 4321 et seq.</cato:entity-ref>)</cato:entity>, or of any analysis under any other Act, with respect to
 			 any action taken, made, granted, or issued, or deemed to be taken, made,
 			 granted, or issued under this Act.</text>
 				</paragraph>
@@ -250,9 +256,9 @@
         <enum>(c)</enum>
         <header>Expedited
 			 consideration</header>
-        <text display-inline="yes-display-inline">The United
-			 States Court of Appeals for the District of Columbia Circuit shall set any
-			 action brought under subsection (a) for expedited consideration, taking into
+        <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="District of Columbia Circuit" entity-parent-id="1003">United
+			 States Court of Appeals for the District of Columbia Circuit</cato:entity-ref> shall set any
+			 action brought under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Northern Route Approval Act/s:4/ss:a" proposed="true">subsection (a)</cato:entity-ref> for expedited consideration, taking into
 			 account the national interest of enhancing national energy security by
 			 providing access to the significant oil reserves in Canada that are needed to
 			 meet the demand for oil.</text>
@@ -265,12 +271,15 @@
 			<subsection id="HBA24E0569DD74E94870EC754E3FDB62B">
         <enum>(a)</enum>
         <header>Findings</header>
-        <text display-inline="yes-display-inline">The Congress finds that—</text>
+        <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds that—</text>
 				<paragraph id="HE0300F59C013409EB7B3D105A928A4AB">
           <enum>(1)</enum>
           <text>environmental
 			 reviews performed for the Keystone XL pipeline project satisfy the requirements
-			 of section 7 of the Endangered Species Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/16/1536">16 U.S.C. 1536(a)(2)</external-xref>) in
+			 of <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Endangered Species Act of 1973/s:7">section 7 of the Endangered Species Act of 1973</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/16/1536">
+                <cato:entity-ref entity-type="uscode" value="usc/16/1536/a/2">16 U.S.C. 1536(a)(2)</cato:entity-ref>
+              </external-xref>)</cato:entity> in
 			 its entirety; and</text>
 				</paragraph>
         <paragraph id="H139AE72C70EE4CA599232D833CD17267">
@@ -285,10 +294,13 @@
         <enum>(b)</enum>
         <header>Biological
 			 opinion</header>
-        <text display-inline="yes-display-inline">The Secretary of the
-			 Interior is deemed to have issued a written statement setting forth the
-			 Secretary’s opinion containing such findings under section 7(b)(1)(A) of the
-			 Endangered Species Act of 1973 (<external-xref legal-doc="usc" parsable-cite="usc/16/1536">16 U.S.C. 1536(b)(1)(A)</external-xref>) and any taking of the
+        <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary of the
+			 Interior</cato:entity-ref> is deemed to have issued a written statement setting forth the
+			 Secretary’s opinion containing such findings under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Endangered Species Act of 1973/s:7/ss:b/p:1/sp:A">section 7(b)(1)(A) of the
+			 Endangered Species Act of 1973</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/16/1536">
+              <cato:entity-ref entity-type="uscode" value="usc/16/1536/b/1/A">16 U.S.C. 1536(b)(1)(A)</cato:entity-ref>
+            </external-xref>)</cato:entity> and any taking of the
 			 American burying beetle that is incidental to the construction or operation and
 			 maintenance of the Keystone XL pipeline as it may be ultimately defined in its
 			 entirety, shall not be considered a prohibited taking of such species under
@@ -300,11 +312,15 @@
       <header>Right-of-way and
 			 temporary use permit</header>
       <text display-inline="no-display-inline">The
-			 Secretary of the Interior is deemed to have granted or issued a grant of
-			 right-of-way and temporary use permit under section 28 of the Mineral Leasing
-			 Act (<external-xref legal-doc="usc" parsable-cite="usc/30/185">30 U.S.C. 185</external-xref>) and the Federal Land Policy and Management Act of 1976 (43
-			 U.S.C. 1701 et seq.), as set forth in the application tendered to the Bureau of
-			 Land Management for the Keystone XL pipeline.</text>
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary of the Interior</cato:entity-ref> is deemed to have granted or issued a grant of
+			 right-of-way and temporary use permit under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Mineral Leasing Act/s:28">section 28 of the Mineral Leasing
+			 Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/30/185">
+            <cato:entity-ref entity-type="uscode" value="usc/30/185">30 U.S.C. 185</cato:entity-ref>
+          </external-xref>)</cato:entity> and the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Federal Land Policy and Management Act of 1976">Federal Land Policy and Management Act of 1976</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/43/1701/etseq">43
+			 U.S.C. 1701 et seq.</cato:entity-ref>)</cato:entity>, as set forth in the application tendered to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1422">Bureau of
+			 Land Management</cato:entity-ref> for the Keystone XL pipeline.</text>
 		</section>
     <section display-inline="no-display-inline" id="H6BDFEA3F042B414CA2DCA09A0294BA26">
       <enum>7.</enum>
@@ -314,13 +330,19 @@
         <enum>(a)</enum>
         <header>Issuance of
 			 permits</header>
-        <text>The Secretary of the Army, not later than 90 days after
-			 receipt of an application therefor, shall issue all permits under section 404
-			 of the Federal Water Pollution Control Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1344">33 U.S.C. 1344</external-xref>) and section 10 of
-			 the Act of March 3, 1899 (<external-xref legal-doc="usc" parsable-cite="usc/33/403">33 U.S.C. 403</external-xref>; commonly known as the Rivers and
-			 Harbors Appropriations Act of 1899), necessary for the construction, operation,
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2100">Secretary of the Army</cato:entity-ref>, not later than 90 days after
+			 receipt of an application therefor, shall issue all permits under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/s:404">section 404
+			 of the Federal Water Pollution Control Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/33/1344">
+              <cato:entity-ref entity-type="uscode" value="usc/33/1344">33 U.S.C. 1344</cato:entity-ref>
+            </external-xref>)</cato:entity> and <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Rivers and Harbors Appropriations Act of 1899/s:10" official-title="true">section 10 of
+			 the Act of March 3, 1899</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/33/403">
+              <cato:entity-ref entity-type="uscode" value="usc/33/403">33 U.S.C. 403</cato:entity-ref>
+            </external-xref>; commonly known as the Rivers and
+			 Harbors Appropriations Act of 1899)</cato:entity>, necessary for the construction, operation,
 			 and maintenance of the pipeline described in the May 4, 2012, application
-			 referred to in section 3, as supplemented by the Nebraska reroute. The
+			 referred to in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Northern Route Approval Act/s:3" proposed="true">section 3</cato:entity-ref>, as supplemented by the Nebraska reroute. The
 			 application shall be based on the administrative record for the pipeline as of
 			 the date of enactment of this Act, which shall be considered complete.</text>
 			</subsection>
@@ -328,26 +350,32 @@
         <enum>(b)</enum>
         <header>Waiver of
 			 procedural requirements</header>
-        <text>The Secretary may waive any procedural
-			 requirement of law or regulation that the Secretary considers desirable to
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref> may waive any procedural
+			 requirement of law or regulation that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref> considers desirable to
 			 waive in order to accomplish the purposes of this section.</text>
 			</subsection>
       <subsection id="HAF4A4762364C42778254A021FF3496E5">
         <enum>(c)</enum>
         <header>Issuance in
 			 absence of action by the Secretary</header>
-        <text>If the Secretary has not
-			 issued a permit described in subsection (a) on or before the last day of the
-			 90-day period referred to in subsection (a), the permit shall be deemed issued
-			 under section 404 of the Federal Water Pollution Control Act (<external-xref legal-doc="usc" parsable-cite="usc/33/1344">33 U.S.C. 1344</external-xref>)
-			 or section 10 of the Act of March 3, 1899 (<external-xref legal-doc="usc" parsable-cite="usc/33/403">33 U.S.C. 403</external-xref>), as appropriate, on
+        <text>If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref> has not
+			 issued a permit described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Northern Route Approval Act/s:7/ss:a" proposed="true">subsection (a)</cato:entity-ref> on or before the last day of the
+			 90-day period referred to in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Northern Route Approval Act/s:7/ss:a" proposed="true">subsection (a)</cato:entity-ref>, the permit shall be deemed issued
+			 under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/s:404">section 404 of the Federal Water Pollution Control Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/33/1344">
+              <cato:entity-ref entity-type="uscode" value="usc/33/1344">33 U.S.C. 1344</cato:entity-ref>
+            </external-xref>)</cato:entity>
+			 or <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Rivers and Harbors Appropriations Act of 1899/s:10" official-title="true">section 10 of the Act of March 3, 1899</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/33/403">
+              <cato:entity-ref entity-type="uscode" value="usc/33/403">33 U.S.C. 403</cato:entity-ref>
+            </external-xref>)</cato:entity>, as appropriate, on
 			 the day following such last day.</text>
 			</subsection>
       <subsection id="H0C7910EF844C4278A5F16FBA86F57ACE">
         <enum>(d)</enum>
         <header>Limitation</header>
         <text>The
-			 Administrator of the Environmental Protection Agency may not prohibit or
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6800">Administrator of the Environmental Protection Agency</cato:entity-ref> may not prohibit or
 			 restrict an activity or use of an area that is authorized under this
 			 section.</text>
 			</subsection>
@@ -357,9 +385,12 @@
       <header>Migratory Bird
 			 Treaty Act permit</header>
       <text display-inline="no-display-inline">The
-			 Secretary of the Interior is deemed to have issued a special purpose permit
-			 under the Migratory Bird Treaty Act (<external-xref legal-doc="usc" parsable-cite="usc/16/703">16 U.S.C. 703 et seq.</external-xref>), as described in
-			 the application filed with the United States Fish and Wildlife Service for the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary of the Interior</cato:entity-ref> is deemed to have issued a special purpose permit
+			 under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Migratory Bird Treaty Act">Migratory Bird Treaty Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/16/703">
+            <cato:entity-ref entity-type="uscode" value="usc/16/703/etseq">16 U.S.C. 703 et seq.</cato:entity-ref>
+          </external-xref>)</cato:entity>, as described in
+			 the application filed with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1448">United States Fish and Wildlife Service</cato:entity-ref> for the
 			 Keystone XL pipeline on January 11, 2013.</text>
 		</section>
   </legis-body>
