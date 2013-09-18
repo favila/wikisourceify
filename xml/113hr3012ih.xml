@@ -1,0 +1,904 @@
+<doc>
+  <docmeta id="113hr3012ih">
+    <bill congress="113" type="hr" number="3012" version="ih"/>
+    <revision size="27639" annotations="0" status="complete" id="5" commit-time="2013-08-28T20:32:16Z" committer="mbohmer" doc="113hr3012ih/5.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9E96761D0B4A40B6A8BC1CC96FE89DD9" public-private="public">
+	<metadata>
+<dublinCore>
+<title>113 HR 3012 IH: Markets and Trading Reorganization Act</title>
+<publisher>U.S. House of Representatives</publisher>
+<date>2013-08-02</date>
+<format>text/xml</format>
+<language>EN</language>
+<rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 3012</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20130802">August 2, 2013</action-date>
+			<action-desc>
+        <sponsor name-id="C001037">Mr. Capuano</sponsor> (for
+			 himself, <cosponsor name-id="L000562">Mr. Lynch</cosponsor>,
+			 <cosponsor name-id="H001047">Mr. Himes</cosponsor>, and
+			 <cosponsor name-id="D000620">Mr. Delaney</cosponsor>) introduced the following
+			 bill; which was referred to the <committee-name committee-id="HBA00">Committee
+			 on Financial Services</committee-name>, and in addition to the Committee on
+			 <committee-name committee-id="HAG00">Agriculture</committee-name>, for a period
+			 to be subsequently determined by the Speaker, in each case for consideration of
+			 such provisions as fall within the jurisdiction of the committee
+			 concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To establish the Securities and Derivatives Commission in
+		  order to combine the functions of the Commodity Futures Trading Commission and
+		  the Securities and Exchange Commission in a single independent regulatory
+		  commission.</official-title>
+	</form>
+	<legis-body id="H3BD71E45F7824EF6919F1BA53348EB15" style="OLC">
+		<section id="H8968615CA0C94DD6B80931CEBC2370DB" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title; table of
+			 contents</header>
+			<subsection id="H0ADA1C7C21CC44BDA17900CD30D303B1">
+        <enum>(a)</enum>
+        <header>Short
+			 title</header>
+        <text>This Act may be cited as the <quote>
+            <short-title>Markets and Trading Reorganization
+			 Act</short-title>
+          </quote>.</text>
+			</subsection>
+      <subsection id="H6ECF0864B0EA43C8811BE9D986A25812">
+        <enum>(b)</enum>
+        <header>Table of
+			 contents</header>
+        <text display-inline="yes-display-inline">The table of
+			 contents of this Act is as follows:</text>
+				<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+					<toc-entry idref="H8968615CA0C94DD6B80931CEBC2370DB" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="H7D1442BE7B484CCB9426F7DDCD2B8C48" level="section">Sec. 2. Purposes.</toc-entry>
+					<toc-entry idref="H01A22730331049698E1E402D17E6770E" level="section">Sec. 3. Definition.</toc-entry>
+					<toc-entry idref="HF70CA800612B42E8BA7BD46D476BE615" level="title">Title I—Establishment of commission </toc-entry>
+					<toc-entry idref="HEA81753D38BD4CEDA3C5034D72ACB104" level="section">Sec. 101. Establishment.</toc-entry>
+					<toc-entry idref="H9B48B1D9F39E45C1AA4277AA9DF6DE4E" level="section">Sec. 102. Members; appointment; terms.</toc-entry>
+					<toc-entry idref="H180CC6FE881B4E0C97F7F9B44974AFB1" level="section">Sec. 103. Organization of Commission.</toc-entry>
+					<toc-entry idref="H4C744CEC79B34AC89F5A540E810E80EB" level="title">Title II—Transfers of functions </toc-entry>
+					<toc-entry idref="HB1A86C271798484B9BF897325A4C818F" level="section">Sec. 201. Commodity Futures Trading Commission
+				functions.</toc-entry>
+					<toc-entry idref="H826389FA80064263834FED9ADB675A67" level="section">Sec. 202. Securities and Exchange Commission
+				functions.</toc-entry>
+					<toc-entry idref="H03F69DE7D912496685009545AE67E074" level="title">Title III—Administrative provisions </toc-entry>
+					<toc-entry idref="H50F839C6785B4C9B9860C54A85875BED" level="section">Sec. 301. Personnel provisions.</toc-entry>
+					<toc-entry idref="H0A25C6AC548947C78D510AFDB0320DB1" level="section">Sec. 302. General administrative provisions.</toc-entry>
+					<toc-entry idref="HE2AAEA6A04E640D08AFEF72BC661AB93" level="title">Title IV—Fee and Funding Authority</toc-entry>
+					<toc-entry idref="H5470700105B440A69AC756309608795C" level="section">Sec. 401. Funding authority of the Commission.</toc-entry>
+					<toc-entry idref="H15118F887FE449D8A54A609D3535319C" level="title">Title V—Transitional, savings, and conforming
+				provisions</toc-entry>
+					<toc-entry idref="HBAA4C80C2DE0442C8B12909CAB51450E" level="section">Sec. 501. Savings provisions.</toc-entry>
+					<toc-entry idref="H8A5FCBFDBD6C42FCB03451F8B3C3EE4A" level="section">Sec. 502. Reference.</toc-entry>
+					<toc-entry idref="H192027FAB00B4ED9ACE9CFEDAA72C4DF" level="section">Sec. 503. Amendments.</toc-entry>
+					<toc-entry idref="H6F9530902901454999215A13563E1E12" level="title">Title VI—Effective date</toc-entry>
+					<toc-entry idref="HA5225558E87548ACBE9EA461FE3DEF3D" level="section">Sec. 601. Effective date.</toc-entry>
+				</toc>
+			</subsection>
+    </section>
+    <section commented="no" id="H7D1442BE7B484CCB9426F7DDCD2B8C48">
+      <enum>2.</enum>
+      <header>Purposes</header>
+      <text display-inline="no-display-inline">The purposes of this Act are—</text>
+			<paragraph commented="no" id="H837E4F5021F544D5B605968CDA521A11">
+        <enum>(1)</enum>
+        <text>to establish a
+			 single Federal regulatory body with jurisdiction over securities, derivatives,
+			 options, futures, and related markets and instruments;</text>
+			</paragraph>
+      <paragraph commented="no" id="H75FB6B216E0F4C1D98EEA655193A1C3E">
+        <enum>(2)</enum>
+        <text>to coordinate the
+			 regulation of relevant financial markets;</text>
+			</paragraph>
+      <paragraph commented="no" id="H20A4AB1EFE23423F88EBA12D3E27D1B2">
+        <enum>(3)</enum>
+        <text>to strengthen
+			 investor confidence in United States financial markets; and</text>
+			</paragraph>
+      <paragraph commented="no" id="H9C39B8A59CBB405BBA55F1F8A1CEF011">
+        <enum>(4)</enum>
+        <text>to ensure the
+			 efficiency and competitiveness of those markets.</text>
+			</paragraph>
+    </section>
+    <section id="H01A22730331049698E1E402D17E6770E">
+      <enum>3.</enum>
+      <header>Definition</header>
+      <text display-inline="no-display-inline">As used in this Act, the term
+			 <term>Commission</term>, other than where expressly referring to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Securities
+			 and Exchange Commission</cato:entity-ref> or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9507">Commodity Futures Trading Commission</cato:entity-ref>, means the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Securities and Derivatives Commission</cato:entity-ref> established by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Markets and Trading Reorganization Act/s:101">section 101 of this
+			 Act</cato:entity-ref>.</text>
+		</section>
+    <title id="HF70CA800612B42E8BA7BD46D476BE615">
+      <enum>I</enum>
+      <header>Establishment of
+			 commission </header>
+			<section id="HEA81753D38BD4CEDA3C5034D72ACB104">
+        <enum>101.</enum>
+        <header>Establishment</header>
+        <text display-inline="no-display-inline">There is established an independent
+			 regulatory commission to be known as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Securities and Derivatives
+			 Commission</cato:entity-ref>.</text>
+			</section>
+      <section id="H9B48B1D9F39E45C1AA4277AA9DF6DE4E">
+        <enum>102.</enum>
+        <header>Members;
+			 appointment; terms</header>
+				<subsection id="HF4BA37D2D97A4AAEADBC732BEFDA44E8">
+          <enum>(a)</enum>
+          <header>Composition of
+			 commission</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> shall be composed of 5 commissioners
+			 appointed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>, by and with the advice and consent of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0010">Senate</cato:entity-ref>.
+			 One of the commissioners shall be designated by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> as chairperson.
+			 Not more than three of such commissioners shall be members of the same
+			 political party. Each commissioner shall be selected solely on the basis of
+			 integrity and demonstrated knowledge of the operations of the markets subject
+			 to the jurisdiction of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>.</text>
+				</subsection>
+        <subsection id="HD34AF75C0AD14D5999ADF628D2013835">
+          <enum>(b)</enum>
+          <header>Qualifications</header>
+          <text>In
+			 appointing commissioners under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Markets and Trading Reorganization Act/s:102/ss:a" proposed="true">subsection (a)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> shall—</text>
+					<paragraph id="H0C3ED9BF03E34CD1A2E1F6682B47DDCB">
+            <enum>(1)</enum>
+            <text display-inline="yes-display-inline">select persons who each have demonstrated
+			 knowledge of securities, futures, swaps, or other derivatives, the regulation
+			 of such instruments, or the markets for agricultural or other types of
+			 commodities underlying transactions subject to the oversight of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>
+			 under this Act; and</text>
+					</paragraph>
+          <paragraph id="H822C3DCFBC854F72A1A1297CDC84E845">
+            <enum>(2)</enum>
+            <text display-inline="yes-display-inline">seek to ensure that the demonstrated
+			 knowledge of the commissioners is balanced with respect to such areas, with at
+			 least one commissioner having knowledge of the agricultural commodities
+			 market.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="HC59793D7820C430F8650E088045F764E">
+          <enum>(c)</enum>
+          <header>Terms</header>
+          <text>Each
+			 commissioner shall be appointed for a term of 5 years, except that a
+			 commissioner may continue to serve after the expiration of such term until a
+			 successor is appointed and has qualified.</text>
+					<paragraph commented="no" id="H22056B20DDDC4D36A76E0C8BA777D6F9">
+            <enum>(1)</enum>
+            <text>The terms of
+			 office of the commissioners first taking office after the enactment of this Act
+			 shall expire, as designated by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> at the time of their
+			 appointment—</text>
+						<subparagraph commented="no" id="H461C88A6175646E0BE7F62E024C002DE">
+              <enum>(A)</enum>
+              <text>one at the end of
+			 1 year;</text>
+						</subparagraph>
+            <subparagraph commented="no" id="HA4A507B672D24441876D43F3E73852A3">
+              <enum>(B)</enum>
+              <text>two at the end of
+			 3 years; and</text>
+						</subparagraph>
+            <subparagraph commented="no" id="H73C5685DA5E74E3D9389B80365ADE51B">
+              <enum>(C)</enum>
+              <text>two at the end of
+			 5 years.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph commented="no" id="H9A0761917DD842D989842CCB032A164D">
+            <enum>(2)</enum>
+            <text>Any commissioner
+			 appointed to fill a vacancy occurring prior to the expiration of the term for
+			 which the predecessor was appointed shall be appointed for the remainder of
+			 such term.</text>
+					</paragraph>
+        </subsection>
+      </section>
+      <section id="H180CC6FE881B4E0C97F7F9B44974AFB1">
+        <enum>103.</enum>
+        <header>Organization of
+			 Commission</header>
+				<subsection id="H48E716CE1922410DB3350E2067C17E56">
+          <enum>(a)</enum>
+          <header>Required
+			 divisions</header>
+          <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>
+			 shall establish the principal divisions and subdivisions of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>,
+			 including, at a minimum, the following three divisions:</text>
+					<paragraph id="H4C287EF198F545718F8D75F117626474">
+            <enum>(1)</enum>
+            <text>A
+			 Markets and Trading Division with oversight of market conduct and utilities,
+			 the conduct of market professionals, and self-regulatory organizations with
+			 regard to such market professionals, including related examination
+			 functions.</text>
+					</paragraph>
+          <paragraph id="HDF1FC9EAD6E14AC6B6ACC552530DD0AE">
+            <enum>(2)</enum>
+            <text>An Issuers and
+			 Financial Disclosures Division with oversight of the issuance of securities,
+			 including investment companies and related rules and examinations.</text>
+					</paragraph>
+          <paragraph id="HD1BC1DED8F1E43AFA9D602B2C41E408A">
+            <enum>(3)</enum>
+            <text>An Enforcement
+			 Division responsible for the enforcement of all rules of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H13237910F4EE4DCBA938EC4AC9FECA07">
+          <enum>(b)</enum>
+          <header>Other
+			 offices</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> may establish such other offices as it
+			 determines useful in the conduct of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>’s affairs.</text>
+				</subsection>
+      </section>
+    </title>
+    <title id="H4C744CEC79B34AC89F5A540E810E80EB">
+      <enum>II</enum>
+      <header>Transfers of
+			 functions </header>
+			<section id="HB1A86C271798484B9BF897325A4C818F">
+        <enum>201.</enum>
+        <header>Commodity
+			 Futures Trading Commission functions</header>
+        <text display-inline="no-display-inline">There are transferred to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> all
+			 functions of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9507">Commodity Futures Trading Commission</cato:entity-ref> and of any officer or
+			 component of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9507">Commodity Futures Trading Commission</cato:entity-ref>.</text>
+			</section>
+      <section id="H826389FA80064263834FED9ADB675A67">
+        <enum>202.</enum>
+        <header>Securities and
+			 Exchange Commission functions</header>
+        <text display-inline="no-display-inline">There are transferred to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> all
+			 functions of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Securities and Exchange Commission</cato:entity-ref> and of any officer or
+			 component of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Securities and Exchange Commission</cato:entity-ref>.</text>
+			</section>
+    </title>
+    <title id="H03F69DE7D912496685009545AE67E074">
+      <enum>III</enum>
+      <header>Administrative
+			 provisions </header>
+			<section id="H50F839C6785B4C9B9860C54A85875BED">
+        <enum>301.</enum>
+        <header>Personnel
+			 provisions</header>
+				<subsection id="HEE3114B933EF436E984191D5E414428C">
+          <enum>(a)</enum>
+          <header>Appointment and
+			 compensation</header>
+          <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>
+			 may appoint and fix the compensation of such officers and employees as may be
+			 necessary to carry out the functions of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>. Except as otherwise
+			 provided by law, such officers and employees shall be appointed in accordance
+			 with the civil service laws and the compensation of such employees shall be
+			 fixed in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/4802">
+              <external-xref legal-doc="usc" parsable-cite="usc/5/4802">section 4802</external-xref> of title 5, United States Code</cato:entity-ref>. The
+			 Commission shall, in accordance with such section, adjust the compensation of
+			 employees so that the compensation of employees transferred from the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9507">Commodity
+			 Futures Trading Commission</cato:entity-ref> pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Markets and Trading Reorganization Act/s:301/ss:b" proposed="true">subsection (b)</cato:entity-ref> and the compensation of
+			 employees transferred from the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Securities and Exchange Commission</cato:entity-ref> under such
+			 subsection are aligned. In making such an adjustment, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> shall not
+			 reduce the compensation of any employee.</text>
+				</subsection>
+        <subsection id="H9454F5935D884C9F8D97FF6AFE3A3E6B">
+          <enum>(b)</enum>
+          <header>Transfer of
+			 employees</header>
+					<paragraph id="HB422B483138D47E78013A925EF97FC58">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>All employees of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9507">Commodity Futures Trading Commission</cato:entity-ref>
+			 and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Securities and Exchange Commission</cato:entity-ref> shall be transferred to the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>. Each employee to be transferred under this subsection shall be
+			 transferred not later than 90 days after the effective date set forth in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Markets and Trading Reorganization Act/s:601" proposed="true">section 601</cato:entity-ref>.</text>
+					</paragraph>
+          <paragraph id="H083613A2DD984EDF8F5E1BA7A5CB6141">
+            <enum>(2)</enum>
+            <header>Employee status
+			 and functions</header>
+						<subparagraph commented="no" id="HD3811E6446F547BF92D835F96AAA02A5">
+              <enum>(A)</enum>
+              <header>Status</header>
+              <text>The
+			 transfer of employees under this section shall not affect the status of the
+			 transferred employees as employees of an agency of the United States under any
+			 provision of law. Each transferred employee shall be placed in a position at
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> with the same status and tenure as the transferred employee held
+			 on the day before the date on which the employee was transferred.</text>
+						</subparagraph>
+            <subparagraph id="H7DA699A252C2441C9417AA7D32F9E092">
+              <enum>(B)</enum>
+              <header>Functions</header>
+              <text>To
+			 the extent practicable, each transferred employee shall be placed in a position
+			 at the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> responsible for the same functions and duties as the
+			 transferred employee had on the day before the date on which the employee was
+			 transferred, in accordance with the expertise and preferences of the
+			 transferred employee.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="HD2C6546CFD6F42578B95B834AD7FD793">
+            <enum>(3)</enum>
+            <header>Personnel
+			 actions limited</header>
+						<subparagraph id="HB58F9A40480B4E8381AB5BD394A7F1F5">
+              <enum>(A)</enum>
+              <header>Protection</header>
+              <text display-inline="yes-display-inline">Except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Markets and Trading Reorganization Act/s:301/ss:b/p:3/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>,
+			 each transferred employee shall not, during the 3-year period beginning on the
+			 transfer date, be involuntarily separated, or involuntarily reassigned outside
+			 his or her locality pay area.</text>
+						</subparagraph>
+            <subparagraph id="HE7B60EF06587431FBE679C9D27A459E9">
+              <enum>(B)</enum>
+              <header>Exceptions</header>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Markets and Trading Reorganization Act/s:301/ss:b/p:3/sp:A" proposed="true">Subparagraph
+			 (A)</cato:entity-ref> does not limit the right of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> to—</text>
+							<clause id="H10A21D62848A44B2A1995492BE90694B">
+                <enum>(i)</enum>
+                <text>separate an
+			 employee for cause or for unacceptable performance;</text>
+							</clause>
+              <clause id="H68DED3D3E4804DC09C74EDE6AE6A06E1">
+                <enum>(ii)</enum>
+                <text>terminate an
+			 appointment to a position excepted from the competitive service because of its
+			 confidential policy-making, policy-determining, or policy-advocating character;
+			 or</text>
+							</clause>
+              <clause commented="no" id="H90248E33E962421182C17FB8F6C29F7E">
+                <enum>(iii)</enum>
+                <text>reassign an
+			 employee outside such employee’s locality pay area when the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>
+			 determines that the reassignment is necessary for the efficient operation of
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>.</text>
+							</clause>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="H4850F9361E3D4EE780118A57A11D9724">
+            <enum>(4)</enum>
+            <header>Pay</header>
+						<subparagraph id="H67BFCA2956A149178B268388BBD4B694">
+              <enum>(A)</enum>
+              <header>Protection</header>
+							<clause id="H160D4A73E264476A9D83B27E2323F3E7">
+                <enum>(i)</enum>
+                <header>In
+			 general</header>
+                <text>Except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Markets and Trading Reorganization Act/s:301/ss:b/p:4/sp:A/cl:ii" proposed="true">clause (ii)</cato:entity-ref>, each transferred
+			 employee shall, during the 3-year period beginning on the designated transfer
+			 date, receive pay at a rate equal to not less than the basic rate of pay
+			 (including any geographic differential) that the employee received during the
+			 pay period immediately preceding the date of transfer.</text>
+							</clause>
+              <clause id="H0B36F27E4B3D4F719DDAD401C9C3DA7C">
+                <enum>(ii)</enum>
+                <header>Limitation</header>
+                <text>Notwithstanding
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Markets and Trading Reorganization Act/s:301/ss:b/p:4/sp:A/cl:i" proposed="true">clause (i)</cato:entity-ref>, if the employee was receiving a higher rate of basic pay on a
+			 temporary basis (because of a temporary assignment, temporary promotion, or
+			 other temporary action) immediately before the date of transfer, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>
+			 may reduce the rate of basic pay on the date on which the rate would have been
+			 reduced but for the transfer, and the protected rate for the remainder of the
+			 3-year period shall be the reduced rate that would have applied, but for the
+			 transfer.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="H5F054CBDECCA4BB5A000334C1249FD39">
+              <enum>(B)</enum>
+              <header>Exceptions</header>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Markets and Trading Reorganization Act/s:301/ss:b/p:4/sp:A" proposed="true">Subparagraph
+			 (A)</cato:entity-ref> does not limit the right of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> to reduce the rate of basic pay
+			 of a transferred employee—</text>
+							<clause id="HB9F15F378B8D40BB9269467752930053">
+                <enum>(i)</enum>
+                <text>for
+			 cause or for unacceptable performance; or</text>
+							</clause>
+              <clause id="H83B398D729DE4CC5894B159EF45B7C59">
+                <enum>(ii)</enum>
+                <text>with the consent
+			 of the employee.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph commented="no" id="HFEFDBA9203364B9DAE51CD2D9A94CD75">
+              <enum>(C)</enum>
+              <header>Protection only
+			 while employed</header>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Markets and Trading Reorganization Act/s:301/ss:b/p:4/sp:A" proposed="true">Subparagraph (A)</cato:entity-ref> applies to a transferred employee
+			 only while that employee remains employed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>.</text>
+						</subparagraph>
+            <subparagraph id="HE04FEA79D7664362B6B65B3CC4DA7F06">
+              <enum>(D)</enum>
+              <header>Pay increases
+			 permitted</header>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Markets and Trading Reorganization Act/s:301/ss:b/p:4/sp:A" proposed="true">Subparagraph (A)</cato:entity-ref> does not limit the authority of the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> to increase the pay of a transferred employee.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+      </section>
+      <section id="H0A25C6AC548947C78D510AFDB0320DB1">
+        <enum>302.</enum>
+        <header>General
+			 administrative provisions</header>
+				<subsection id="H55199E09D3A646B587F0AF1FCA5AFA22">
+          <enum>(a)</enum>
+          <header>General
+			 authority</header>
+          <text>In carrying out any function transferred by this Act,
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>, or any officer or employee of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>, may exercise any
+			 authority available by law with respect to such function to the official or
+			 agency from which such function is transferred, and the actions of the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>, or any officer or employee of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> in exercising such
+			 authority shall have the same force and effect as when exercised by such
+			 official or agency.</text>
+				</subsection>
+        <subsection id="HE898E1EC3EEE4FDBBED226428F7320E6">
+          <enum>(b)</enum>
+          <header>Rules</header>
+          <text>The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> may prescribe such rules and regulations as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>
+			 determines necessary or appropriate to administer and manage the functions of
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>.</text>
+				</subsection>
+        <subsection id="HBD0136076F0245A2A9027743F0749E3F">
+          <enum>(c)</enum>
+          <header>Contracts</header>
+          <text>The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> may make, enter into, and perform such contracts, grants, leases,
+			 cooperative agreements, or other similar transactions with Federal or other
+			 public agencies (including State and local governments) and private
+			 organizations and persons, and make such payments, by way of advance or
+			 reimbursement, as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> may determine necessary or appropriate to
+			 carry out functions of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>.</text>
+				</subsection>
+        <subsection id="H2D54D7ECB6FE4802B7A7D3D5CC0C7399">
+          <enum>(d)</enum>
+          <header>Regional and
+			 field offices</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> may establish, alter, discontinue,
+			 or maintain such regional or other field offices as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> may find
+			 necessary or appropriate to perform functions of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>.</text>
+				</subsection>
+        <subsection commented="no" id="HC440D0923D3F4880BA8FD6A52A5D58D6">
+          <enum>(e)</enum>
+          <header>Reserve
+			 fund</header>
+          <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> may
+			 obligate amounts in the Reserve Fund established under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Securities Exchange Act of 1934/s:4/ss:i">section 4(i) of the
+			 Securities Exchange Act of 1934</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/78d">
+                <cato:entity-ref entity-type="uscode" value="usc/15/78d/i">15 U.S.C. 78d(i)</cato:entity-ref>
+              </external-xref>)</cato:entity>, not to exceed a total of
+			 $100,000,000 in any 1 fiscal year, as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> determines is necessary to
+			 carry out the functions of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>, including those transferred by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Markets and Trading Reorganization Act/t:II" proposed="true">title
+			 II of this Act</cato:entity-ref>. Any amounts in the reserve fund shall remain available until
+			 expended. Not later than 10 days after the date on which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>
+			 obligates amounts under this subsection, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> shall notify <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
+			 of the date, amount, and purpose of the obligation.</text>
+				</subsection>
+      </section>
+    </title>
+    <title id="HE2AAEA6A04E640D08AFEF72BC661AB93">
+      <enum>IV</enum>
+      <header>Fee
+			 and Funding Authority</header>
+			<section id="H5470700105B440A69AC756309608795C">
+        <enum>401.</enum>
+        <header>Funding
+			 authority of the Commission
+        </header>
+				<subsection id="HCCCBFE7A6BE045988EF0772936A9F4BD">
+          <enum>(a)</enum>
+          <header>Commodity
+			 Futures Trading Commission</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Commodity Exchange Act/s:12">Section 12 of the Commodity Exchange Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/7/16">7
+			 U.S.C. 16</cato:entity-ref>)</cato:entity> is amended—</text>
+					<paragraph id="H0F78F129B98C40D39E4DDF3C768584C7">
+            <enum>(1)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Commodity Exchange Act/s:12/ss:b/p:1">subsection
+			 (b)(1)</cato:entity-ref>, by striking <quote>and as may be from time to time appropriated for by
+			 Congress</quote>;</text>
+					</paragraph>
+          <paragraph id="H1A3C1FE228AC410D80BA8B790EEAE5C3">
+            <enum>(2)</enum>
+            <text>by striking
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Commodity Exchange Act/s:12/ss:d">subsection (d)</cato:entity-ref>; and</text>
+					</paragraph>
+          <paragraph id="H9BCC756829E4473D8E3D60FB5C18CF97">
+            <enum>(3)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Commodity Exchange Act/s:12/ss:f/p:3">subsection
+			 (f)(3)</cato:entity-ref>, by striking <quote>Any payment or reimbursement accepted shall be
+			 considered a reimbursement to the appropriated funds of the Commission.</quote>
+			 and inserting <quote>Such payments or reimbursements shall be available to the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9507">Commission</cato:entity-ref> without further appropriation.</quote>.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H904D67FAB1DB43D1B1828BBA55939207">
+          <enum>(b)</enum>
+          <header>Securities and
+			 Exchange Commission</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Securities Exchange Act of 1934/s:31">Section
+			 31 of the Securities Exchange Act of 1934</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/78ee">
+                <cato:entity-ref entity-type="uscode" value="usc/15/78ee">15 U.S.C. 78ee</cato:entity-ref>
+              </external-xref>)</cato:entity> is amended—</text>
+					<paragraph id="H776705982C3847C69BD7CA9ADDC319CF">
+            <enum>(1)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securities Exchange Act of 1934/s:31/ss:a">subsection
+			 (a)</cato:entity-ref>—</text>
+						<subparagraph id="H9F760B0FF5194824A7EB93FACBBADB8E">
+              <enum>(A)</enum>
+              <text>in the heading for
+			 such subsection, by striking <quote>
+                  <header-in-text level="subsection" style="OLC">Recovery of Costs of Annual Appropriation</header-in-text>
+                </quote>
+			 and inserting <quote>
+                  <header-in-text level="subsection" style="OLC">In
+			 general</header-in-text>
+                </quote>; and</text>
+						</subparagraph>
+            <subparagraph id="H48A23D78DE6842B5A7072D61B4A166C8">
+              <enum>(B)</enum>
+              <text>by striking
+			 <quote>recover the costs to the Government of the annual appropriation to the
+			 Commission by Congress</quote> and inserting <quote>cover the costs to the
+			 Commission for the supervision and regulation of securities markets and
+			 securities professionals, and use such fees and assessments without further
+			 appropriation</quote>;</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="H02BE0B4EB21F4CD18438EF168A9BAAA5">
+            <enum>(2)</enum>
+            <text>by striking
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securities Exchange Act of 1934/s:31/ss:i">subsection (i)</cato:entity-ref>;</text>
+					</paragraph>
+          <paragraph id="H87E9E8EDBB1A4B86A781A4537E98D981">
+            <enum>(3)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securities Exchange Act of 1934/s:31/ss:j">subsection
+			 (j)</cato:entity-ref>—</text>
+						<subparagraph id="H5CE94E3E57B045FBA01EB724A92D5E67">
+              <enum>(A)</enum>
+              <text>by striking
+			 <quote>regular appropriation to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> by Congress</quote> each place
+			 such term appears and inserting <quote>target offsetting collection
+			 amount</quote>; and</text>
+						</subparagraph>
+            <subparagraph id="H41FC51EB08054CDF83063C80E176C747">
+              <enum>(B)</enum>
+              <text>by amending
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securities Exchange Act of 1934/s:31/ss:j/p:4/sp:A">paragraph (4)(A)</cato:entity-ref> to read as follows:</text>
+							<quoted-block display-inline="no-display-inline" id="H59728C9C1D9E49B8A97558139767A273" style="OLC">
+								<subparagraph id="HC5F62F663A1847D9882E185C5C5CF126">
+                  <enum>(A)</enum>
+                  <header>Annual
+				adjustment</header>
+                  <text display-inline="yes-display-inline">An adjusted rate
+				prescribed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securities Exchange Act of 1934/s:31/ss:j/p:1">paragraph (1)</cato:entity-ref> shall take effect on the first day of the fiscal
+				year to which such rate applies.</text>
+								</subparagraph>
+                <after-quoted-block>;
+				and</after-quoted-block>
+              </quoted-block>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="HC7F64726F6CA4A1DA8C8835A32E09E7F">
+            <enum>(4)</enum>
+            <text>by striking
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securities Exchange Act of 1934/s:31/ss:k">subsection (k)</cato:entity-ref>.</text>
+					</paragraph>
+        </subsection>
+      </section>
+    </title>
+    <title id="H15118F887FE449D8A54A609D3535319C">
+      <enum>V</enum>
+      <header>Transitional,
+			 savings, and conforming provisions</header>
+			<section id="HBAA4C80C2DE0442C8B12909CAB51450E">
+        <enum>501.</enum>
+        <header>Savings
+			 provisions</header>
+				<subsection id="H4CE57B6BC8DF46348E292963DF80C1F6">
+          <enum>(a)</enum>
+          <header>Continuity of
+			 legal instruments</header>
+          <text>All orders, determinations, rules, regulations,
+			 permits, grants, contracts, certificates, licenses, and privileges—</text>
+					<paragraph id="H84D9FE4C17544FC6809D5EA7781ED3C8">
+            <enum>(1)</enum>
+            <text display-inline="yes-display-inline">which have been issued, made, granted, or
+			 allowed to become effective by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Securities and Exchange
+			 Commission</cato:entity-ref>, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9507">Commodity Futures Trading Commission</cato:entity-ref>, or any component
+			 thereof, or by a court of competent jurisdiction, in the performance of
+			 functions which are transferred under this Act to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>, and</text>
+					</paragraph>
+          <paragraph id="H176519AA7AC448F69BAAF2C24E3A33E9">
+            <enum>(2)</enum>
+            <text>which are in
+			 effect at the time this Act takes effect,</text>
+					</paragraph>
+          <continuation-text continuation-text-level="subsection">shall
+			 continue in effect according to their terms until modified, terminated,
+			 superseded, set aside, or revoked in accordance with the law by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>,
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>, or other authorized official, a court of competent
+			 jurisdiction, or by operation of law.</continuation-text>
+        </subsection>
+        <subsection id="H689FA4C777F048C2B9CF29CC98DD8B1D">
+          <enum>(b)</enum>
+          <header>Continuity of
+			 proceedings</header>
+					<paragraph id="H98D187F07D1B45DE9139EED586724CFE">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>The provisions of this Act shall not affect any
+			 proceedings, including notices of proposed rulemaking, or any application for
+			 any license, permit, certificate, or financial assistance pending on the
+			 effective date of this Act before either the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Securities and Exchange Commission</cato:entity-ref>
+			 or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9507">Commodity Futures Trading Commission</cato:entity-ref>, or any component thereof,
+			 functions of which are transferred by this Act. Such proceedings and
+			 applications, to the extent that they relate to functions so transferred, shall
+			 be continued. Orders shall be issued in such proceedings, appeals shall be
+			 taken therefrom, and payments shall be made pursuant to such orders, as if this
+			 Act had not been enacted and orders issued in any such proceedings shall
+			 continue in effect until modified, terminated, superseded, or revoked by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>, by a court of competent jurisdiction, or by operation of law.
+			 Nothing in this subsection shall be construed to prohibit the discontinuance or
+			 modification of any such proceeding under the same terms and conditions and to
+			 the same extent that such proceeding could have been discontinued or modified
+			 if this Act had not been enacted.</text>
+					</paragraph>
+          <paragraph id="HE20648C1CFE0437A9E81A846008CBB63">
+            <enum>(2)</enum>
+            <header>Regulations
+			 concerning transfers</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> may prescribe regulations
+			 providing for the orderly transfer of proceedings continued under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Markets and Trading Reorganization Act/s:501/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>
+			 to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="HC6D08725C9D54692B1CF98184545DD81">
+          <enum>(c)</enum>
+          <header>Pending
+			 litigation</header>
+          <text>Except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Markets and Trading Reorganization Act/s:501/ss:e" proposed="true">subsection (e)</cato:entity-ref>—</text>
+					<paragraph id="HF1098EB6F769485A932A85EC037607B8">
+            <enum>(1)</enum>
+            <text>the provisions of
+			 this Act shall not affect suits commenced prior to the effective date of this
+			 Act; and</text>
+					</paragraph>
+          <paragraph id="H2C2BCEF8403447C58C74D3521087A406">
+            <enum>(2)</enum>
+            <text>in all such suits,
+			 proceedings shall be had, appeals taken, and judgments rendered in the same
+			 manner and effect as if this Act had not been enacted.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H17255215A4014BE4A9843E1667D7B9DA">
+          <enum>(d)</enum>
+          <header>Nonabatement</header>
+          <text display-inline="yes-display-inline">No suit, action, or other proceeding
+			 commenced by or against any officer in the official capacity of such individual
+			 as an officer of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Securities and Exchange Commission</cato:entity-ref> or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9507">Commodity
+			 Futures Trading Commission</cato:entity-ref>, or any component thereof, functions of which are
+			 transferred by this Act, shall abate by reason of the enactment of this Act. No
+			 cause of action by or against any department or agency, functions of which are
+			 transferred by this Act, or by or against any officer thereof in the official
+			 capacity of such officer shall abate by reason of the enactment of this
+			 Act.</text>
+				</subsection>
+        <subsection id="H49FD050C146D40A1ADA40EAE876C10D8">
+          <enum>(e)</enum>
+          <header>Substitution of
+			 parties</header>
+          <text display-inline="yes-display-inline">If, before the date
+			 on which this Act takes effect, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Securities and Exchange Commission</cato:entity-ref> or the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9507">Commodity Futures Trading Commission</cato:entity-ref>, or any component thereof, or officer
+			 thereof in the official capacity of such officer, is a party to a suit, and
+			 under this Act any function of such department, agency, or officer is
+			 transferred to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> or any other official of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>, then
+			 such suit shall be continued with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> or other appropriate official
+			 of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref> substituted or added as a party.</text>
+				</subsection>
+        <subsection id="HA1BE6718E7564F4F93944B6A6DB542E1">
+          <enum>(f)</enum>
+          <header>Judicial review
+			 as required by existing law</header>
+          <text>Orders and actions of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>
+			 in the exercise of functions transferred under this Act shall be subject to
+			 judicial review to the same extent and in the same manner as if such orders and
+			 actions had been by the agency or office, or part thereof, exercising such
+			 functions immediately preceding their transfer. Any statutory requirements
+			 relating to notice, hearings, action upon the record, or administrative review
+			 that apply to any function transferred by this Act shall apply to the exercise
+			 of such function by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Commission</cato:entity-ref>.</text>
+				</subsection>
+      </section>
+      <section id="H8A5FCBFDBD6C42FCB03451F8B3C3EE4A">
+        <enum>502.</enum>
+        <header>Reference</header>
+        <text display-inline="no-display-inline">Any reference in any other Federal law to
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Securities and Exchange Commission</cato:entity-ref> or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9507">Commodity Futures Trading
+			 Commission</cato:entity-ref> shall be deemed a reference to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Securities and Derivatives
+			 Commission</cato:entity-ref> established by this Act.</text>
+			</section>
+      <section id="H192027FAB00B4ED9ACE9CFEDAA72C4DF">
+        <enum>503.</enum>
+        <header>Amendments</header>
+				<subsection id="HA12A2B9CECDB4E488035ACB257B13F37">
+          <enum>(a)</enum>
+          <header>Executive
+			 schedule salaries</header>
+					<paragraph id="H33833D28C0AA4234A49E83D439DAA91E">
+            <enum>(1)</enum>
+            <header>Chairperson</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/5314">Section
+			 5314 of title 5, United States Code</cato:entity-ref>, is amended—</text>
+						<subparagraph id="H8D20B3C303F748EC9A620791F3550E91">
+              <enum>(A)</enum>
+              <text>by striking
+			 <quote>Chairman, Securities and Exchange Commission.</quote> and inserting
+			 <quote>Chairperson, Securities and Derivatives Commission.</quote>; and</text>
+						</subparagraph>
+            <subparagraph id="H5B5BFA42DD2F4798AEDD04DB17A15E4F">
+              <enum>(B)</enum>
+              <text>by striking
+			 <quote>Chairman, Commodity Futures Trading Commission.</quote>.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="H8471FF76E12140A6BBA4E5A6A0F6FEB6">
+            <enum>(2)</enum>
+            <header>Members</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/5315">Section
+			 5315 of title 5, United States Code</cato:entity-ref>, is amended—</text>
+						<subparagraph id="H0A1A22F0B80144DEA5ED9A8DFDF996ED">
+              <enum>(A)</enum>
+              <text>by striking
+			 <quote>Members, Securities and Exchange Commission</quote> and inserting
+			 <quote>Members, Securities and Derivatives Commission</quote>; and</text>
+						</subparagraph>
+            <subparagraph id="H2FC0952A16C34885B40E8F15D981D2EB">
+              <enum>(B)</enum>
+              <text>by striking
+			 <quote>Members, Commodity Futures Trading Commission.</quote>.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection id="H255E8098142B445689D372073943AC54">
+          <enum>(b)</enum>
+          <header>Conforming
+			 amendments</header>
+					<paragraph id="HED31A70DB5EE4DE3BAF389ED8CC5DAAE">
+            <enum>(1)</enum>
+            <header>Securities
+			 exchange act</header>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Securities Exchange Act of 1934/s:4/ss:a">Sections 4(a) of the Securities Exchange Act of 1934</cato:entity-ref>
+			 (<external-xref legal-doc="usc" parsable-cite="usc/15/78d">
+                  <cato:entity-ref entity-type="uscode" value="usc/15/78d/a">15 U.S.C. 78d(a)</cato:entity-ref>
+                </external-xref>)</cato:entity> is amended—</text>
+						<subparagraph id="H124AB9739447436B818C83E147897301">
+              <enum>(A)</enum>
+              <text>by striking
+			 <quote>There is hereby established a <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Securities and Exchange Commission</cato:entity-ref>
+			 (hereinafter referred to as the <term>Commission</term>) to be composed of five
+			 commissioners to be appointed by the President by and with the advice and
+			 consent of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0010">Senate</cato:entity-ref>. Not more than three of such commissioners shall be
+			 members of the same political party, and in making appointments members of
+			 different political parties shall be appointed alternately as nearly as may be
+			 practicable.</quote>; and</text>
+						</subparagraph>
+            <subparagraph id="H5A223308016D4580BB9D1E8FD2BAF6A7">
+              <enum>(B)</enum>
+              <text>by striking
+			 <quote>Each commissioner shall hold office for a term of five years and until
+			 his successor is appointed and has qualified, except that he shall not so
+			 continue to serve beyond the expiration of the next session of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
+			 subsequent to the expiration of said fixed term of office, and except (1) any
+			 commissioner appointed to fill a vacancy occurring prior to the expiration of
+			 the term for which his predecessor was appointed shall be appointed for the
+			 remainder of such term, and (2) the terms of office of the commissioners first
+			 taking office after the enactment of this title shall expire as designated by
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> at the time of nomination, one at the end of one year, one at the
+			 end of two years, one at the end of three years, one at the end of four years,
+			 and one at the end of five years, after the date of the enactment of this
+			 title.</quote>.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="HA560B7827283409FA4CCD52B26E1648F">
+            <enum>(2)</enum>
+            <header>Commodity
+			 exchange act</header>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Commodity Exchange Act/s:2/ss:a">Section 2(a) of the Commodity Exchange Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/7/2a">7 U.S.C.
+			 2a</cato:entity-ref>)</cato:entity> is amended by striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Commodity Exchange Act/s:2/ss:a/p:2, 3, 4">paragraphs (2), (3), and (4)</cato:entity-ref>.</text>
+					</paragraph>
+          <paragraph id="HC746D70BB1D3480BAA07F537DE1691DD">
+            <enum>(3)</enum>
+            <header>Dodd-Frank</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Dodd-Frank Wall Street Reform and Consumer Protection Act/s:111/ss:b/p:1">Section 111(b)(1) of the Dodd-Frank Wall
+			 Street Reform and Consumer Protection Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/12/5321">
+                  <cato:entity-ref entity-type="uscode" value="usc/12/5321/b/1">12 U.S.C. 5321(b)(1)</cato:entity-ref>
+                </external-xref>)</cato:entity> is
+			 amended—</text>
+						<subparagraph id="HDF6F406B9B114E719A0A7636B261F951">
+              <enum>(A)</enum>
+              <text>by amending
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Dodd-Frank Wall Street Reform and Consumer Protection Act/s:111/ss:b/p:1/sp:E">subparagraph (E)</cato:entity-ref> to read as follows:</text>
+							<quoted-block display-inline="no-display-inline" id="H0DBB38A59A4745FAAF25AC99460E3CA2" style="OLC">
+								<subparagraph id="HE83A20A4C3684DAFB8ECE558CE6F3BE8">
+                  <enum>(E)</enum>
+                  <text display-inline="yes-display-inline">the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Securities and Derivatives Commission" proposed="true">Chairperson of the Securities and
+				Derivatives
+				Commission</cato:entity-ref>;</text>
+								</subparagraph>
+                <after-quoted-block>;</after-quoted-block>
+              </quoted-block>
+						</subparagraph>
+            <subparagraph id="HF17F3E06AA464368B9238ABC84800C74">
+              <enum>(B)</enum>
+              <text>by striking
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Dodd-Frank Wall Street Reform and Consumer Protection Act/s:111/ss:b/p:1/sp:G">subparagraph (G)</cato:entity-ref>; and</text>
+						</subparagraph>
+            <subparagraph id="HEA94B4D982874E2E87AC757BA27544A3">
+              <enum>(C)</enum>
+              <text>by redesignating
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Dodd-Frank Wall Street Reform and Consumer Protection Act/s:111/ss:b/p:1/sp:H, I, J">subparagraphs (H), (I), and (J)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Dodd-Frank Wall Street Reform and Consumer Protection Act/s:111/ss:b/p:1/sp:G, H, I" proposed="true">subparagraphs (G), (H), and (I)</cato:entity-ref>,
+			 respectively.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+      </section>
+    </title>
+    <title id="H6F9530902901454999215A13563E1E12">
+      <enum>VI</enum>
+      <header>Effective
+			 date</header>
+			<section id="HA5225558E87548ACBE9EA461FE3DEF3D">
+        <enum>601.</enum>
+        <header>Effective
+			 date</header>
+        <text display-inline="no-display-inline">The provisions of this
+			 Act shall take effect 1 year after the date of enactment of this Act, except
+			 that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> may nominate and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0010">Senate</cato:entity-ref> confirm Commissioners prior to
+			 such date.</text>
+			</section>
+    </title>
+  </legis-body>
+</bill>
+</doc>

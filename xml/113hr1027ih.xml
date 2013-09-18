@@ -1,7 +1,7 @@
 <doc>
   <docmeta id="113hr1027ih">
     <bill congress="113" type="hr" number="1027" version="ih"/>
-    <revision size="27208" annotations="0" id="5" commit-time="2013-04-02T21:14:40+00:00" committer="favila" doc="113hr1027ih/5.xml" status="complete">
+    <revision size="27208" annotations="0" id="6" commit-time="2013-09-16T16:01:28Z" committer="mbohmer" doc="113hr1027ih/6.xml" status="complete">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
@@ -175,11 +175,15 @@
       <enum>5.</enum>
       <header>Authorization of
 			 appropriations</header>
-      <text display-inline="no-display-inline">There are
-			 authorized to be appropriated to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> for United States research,
+      <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are
+			 authorized to be appropriated to the <cato:entity-ref entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> <cato:property name="purpose">for United States research,
 			 development, engineering, demonstration, and commercial application of vehicles
-			 and related technologies, including activities authorized under this Act, such
-			 sums as may be necessary for each of fiscal years 2014 through 2018.</text>
+			 and related technologies, including activities authorized under <cato:entity-ref entity-type="act" value="Advanced Vehicle Technology Act of 2013" proposed="true">this Act</cato:entity-ref>
+            </cato:property>, <cato:funds-and-year amount="indefinite" year="2014..2018">such
+			 sums as may be necessary for each of fiscal years 2014 through 2018.</cato:funds-and-year>
+          </cato:entity>
+        </text>
 		</section>
     <title id="H8A78B68A1A3E49CF918501DE1C50DAE1">
       <enum>I</enum>

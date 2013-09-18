@@ -1,8 +1,8 @@
 <doc>
   <docmeta id="113hr808ih">
     <bill congress="113" type="hr" number="808" version="ih"/>
-    <revision size="55808" annotations="0" id="17" commit-time="2013-03-25T17:41:28+00:00" committer="favila" doc="113hr808ih/17.xml" status="complete">
-      <description/>
+    <revision size="55808" annotations="0" id="18" commit-time="2013-09-16T17:55:44Z" committer="mbohmer" doc="113hr808ih/18.xml" status="complete">
+      <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HD56B62F4CCD94923A8D0952EA158D22E" public-private="public">
@@ -1714,9 +1714,11 @@
 			 general</header>
           <text display-inline="yes-display-inline">
             <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized
-			 to be appropriated <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Department of Peacebuilding Act of 2013" proposed="true">this Act</cato:entity-ref>
-              </cato:property> <cato:funds-and-year amount="indefinite">such sums as may be necessary</cato:funds-and-year>.</cato:entity>
-          </text>
+			 to be appropriated <cato:property name="purpose">to carry out <cato:entity-ref proposed="true" value="Department of Peacebuilding Act of 2013" entity-type="act">this Act</cato:entity-ref>
+                </cato:property>
+               <cato:funds-and-year amount="indefinite">such sums as may be necessary</cato:funds-and-year>.
+          </cato:entity>
+            </text>
 				</subsection>
         <subsection id="H57B6EEFCC1F94E37A78C79B6F461738A">
           <enum>(b)</enum>

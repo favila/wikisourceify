@@ -1,0 +1,2380 @@
+<doc>
+  <docmeta id="113hr2690ih">
+    <bill congress="113" type="hr" number="2690" version="ih"/>
+    <revision size="71573" annotations="0" status="complete" id="7" commit-time="2013-08-30T19:21:49Z" committer="mbohmer" doc="113hr2690ih/7.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2B36098D5D644ECB98A7A6B2A367AFC4" public-private="public">
+	<metadata>
+<dublinCore>
+<title>113 HR 2690 IH: Innovate to Deliver Act of 2013</title>
+<publisher>U.S. House of Representatives</publisher>
+<date>2013-07-16</date>
+<format>text/xml</format>
+<language>EN</language>
+<rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>H. R. 2690</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20130716">July 16, 2013</action-date>
+			<action-desc>
+        <sponsor name-id="C000984">Mr. Cummings</sponsor> (for
+			 himself, <cosponsor name-id="L000562">Mr. Lynch</cosponsor>,
+			 <cosponsor name-id="T000266">Mr. Tierney</cosponsor>,
+			 <cosponsor name-id="C001078">Mr. Connolly</cosponsor>,
+			 <cosponsor name-id="S001175">Ms. Speier</cosponsor>,
+			 <cosponsor name-id="N000147">Ms. Norton</cosponsor>,
+			 <cosponsor name-id="D000096">Mr. Danny K. Davis of Illinois</cosponsor>, and
+			 <cosponsor name-id="K000385">Ms. Kelly of Illinois</cosponsor>) introduced the
+			 following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government
+			 Reform</committee-name>, and in addition to the Committee on the
+			 <committee-name committee-id="HJU00">Judiciary</committee-name>, for a period
+			 to be subsequently determined by the Speaker, in each case for consideration of
+			 such provisions as fall within the jurisdiction of the committee
+			 concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To enhance the long-term profitability of the United
+		  States Postal Service through enhanced innovation, operational flexibility,
+		  workforce realignment, and regulatory relief.</official-title>
+	</form>
+	<legis-body id="H7C33387766F4460EA4ECB009C5D92E21" style="OLC">
+		<section id="H8195C4F20D5A466FA853EDC590540664" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title; table of
+			 contents; references</header>
+			<subsection id="HD3FB64B1357D46CB9C6E466AEC0A3F02">
+        <enum>(a)</enum>
+        <header>Short
+			 title</header>
+        <text>This Act may be cited as the <quote>
+            <short-title>Innovate to Deliver Act of
+			 2013</short-title>
+          </quote>.</text>
+			</subsection>
+      <subsection id="HBA6ED81A563249F5BC9A4BE540DD3F77">
+        <enum>(b)</enum>
+        <header>Table of
+			 contents</header>
+        <text>The table of contents of this Act is as follows:</text>
+				<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+					<toc-entry idref="H8195C4F20D5A466FA853EDC590540664" level="section">Sec. 1. Short title; table of contents; references.</toc-entry>
+					<toc-entry idref="H6BDC4A058B6C40919895CB33AA32D28C" level="title">Title I—POSTAL SERVICE PROFITABILITY AND REVENUE-GENERATING
+				ENHANCEMENTS</toc-entry>
+					<toc-entry idref="HCA9A7BC2BEF4479FB1B0922051929F7A" level="subtitle">Subtitle A—Postal Service Products and Pricing</toc-entry>
+					<toc-entry idref="HFA3D83C977FD4FE3AC57259BDAA2A9D5" level="section">Sec. 101. USPS innovation officer and
+				accountability.</toc-entry>
+					<toc-entry idref="H23F56095809D40A5ABFA06B96CAD6EE3" level="section">Sec. 102. Authority to offer nonpostal services.</toc-entry>
+					<toc-entry idref="H3E2EC71ECE0D4CD9B3C6FEAE7563CEDB" level="section">Sec. 103. Requirement that market-dominant products cover
+				attributable costs.</toc-entry>
+					<toc-entry idref="HCE29D0544A214C7AA72CDB2EE82853B4" level="section">Sec. 104. PRC to revisit CPI cap instituted under
+				PAEA.</toc-entry>
+					<toc-entry idref="H7AFB8F52DA7D495694E015AB44ADD78A" level="section">Sec. 105. Enhanced product innovation.</toc-entry>
+					<toc-entry idref="H219ACA4861254FF4A04B693E28B64348" level="section">Sec. 106. Authority to ship beer, wine and distilled
+				spirits.</toc-entry>
+					<toc-entry idref="H0F00A7CCC16C4C5EBF095A5C8B103475" level="section">Sec. 107. Repeal of uniform rate for books, films, and other
+				materials.</toc-entry>
+					<toc-entry idref="HAE4CF714C81A44ABAC47733515A48715" level="subtitle">Subtitle B—Postal Service Management</toc-entry>
+					<toc-entry idref="HC7CD82BA1A934567830BB5036BF93481" level="section">Sec. 108. USPS balanced budget minimum requirement.</toc-entry>
+					<toc-entry idref="H834245CDDC2B4231A684011B29A7A894" level="section">Sec. 109. Reporting requirement for Board of Governors and
+				Postal Regulatory Commissioners.</toc-entry>
+					<toc-entry idref="H9687860E800E4DB4A6851C6603BE9261" level="section">Sec. 110. Restrictions on postal service executive
+				compensation.</toc-entry>
+					<toc-entry idref="H7717FBCCCFA845BE937A2CAE948341BA" level="section">Sec. 111. Investment of competitive product moneys.</toc-entry>
+					<toc-entry idref="HB7011E3897814346BF4EB37C8B2A9B69" level="title">Title II—POSTAL SERVICE WORKFORCE REALIGNMENT AND
+				RIGHT-SIZING</toc-entry>
+					<toc-entry idref="H8406D722993E4944A9459065A5A00BB4" level="section">Sec. 201. Separate normal-cost percentage recalculation of
+				Federal Employees Retirement System.</toc-entry>
+					<toc-entry idref="HC1054DACCB304E2AA2EBEEC9AB6155F3" level="section">Sec. 202. Treatment of surplus contributions to Federal
+				Employees Retirement System.</toc-entry>
+					<toc-entry idref="H261FF86A97DC45DC96ABDCE0309465CF" level="section">Sec. 203. Sense of Congress.</toc-entry>
+					<toc-entry idref="H4423DCC3EE9A4953A38B643415040B73" level="section">Sec. 204. Contributions to Thrift Savings Fund of voluntary
+				separation incentive payments.</toc-entry>
+					<toc-entry idref="H5C77A7AB75F54DEFB58549B74C400B9F" level="section">Sec. 205. Service credit contributions of voluntary separation
+				incentive payments.</toc-entry>
+					<toc-entry idref="H6184574E0A3042FDB27936E1C35692FA" level="section">Sec. 206. Modification of prepayment schedule relating to
+				Postal Service Retiree Health Benefits Fund.</toc-entry>
+					<toc-entry idref="HC2A06458E540469B941866B777E19CB6" level="section">Sec. 207. Study on USPS workforce realignment and right-sizing
+				options.</toc-entry>
+					<toc-entry idref="HE597D2081BD7473697B6E44E5E9BD231" level="section">Sec. 208. Applicability of provisions relating to reductions in
+				force.</toc-entry>
+					<toc-entry idref="H1A8F09063DBE477E91D3A652302751E7" level="section">Sec. 209. Enhanced reporting on facility network
+				initiatives.</toc-entry>
+					<toc-entry idref="H7506122488B440F89EDA6FA6E190BE27" level="title">Title III—POSTAL SERVICE IMPROVEMENTS AND REGULATORY
+				RELIEF</toc-entry>
+					<toc-entry idref="HA93C0AAC901D484BA824A74E1756986D" level="section">Sec. 301. Permit appeal rights for closing of postal stations
+				and branches.</toc-entry>
+					<toc-entry idref="H21DBDBC1BEC64E6C9C10D85D53622C0D" level="section">Sec. 302. Intra-agency cooperative agreements.</toc-entry>
+					<toc-entry idref="H45F0D656CA114F72B269DA2222DF612D" level="section">Sec. 303. Grouping of negotiated service
+				agreements.</toc-entry>
+					<toc-entry idref="HBB865AA1433945FF8D75F1FEA41846AB" level="section">Sec. 304. Simplification of process for classification of
+				competitive products.</toc-entry>
+					<toc-entry idref="HD4F5F22C7B1348B08E59284FA7C012D7" level="section">Sec. 305. Development of new market-dominant classes of
+				mail.</toc-entry>
+					<toc-entry idref="H96FD60579DF84F82943FC74B9E00D819" level="section">Sec. 306. Expedited consideration of service changes by
+				PRC.</toc-entry>
+				</toc>
+			</subsection>
+      <subsection id="H8860F027A2B141AA89937C3C5F102D62">
+        <enum>(c)</enum>
+        <header>References</header>
+        <text>Except
+			 as otherwise expressly provided, whenever in this Act an amendment or repeal is
+			 expressed in terms of an amendment to, or repeal of, a section or other
+			 provision, the reference shall be considered to be made to a section or other
+			 provision of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39">title 39, United States Code</cato:entity-ref>.</text>
+			</subsection>
+    </section>
+    <title id="H6BDC4A058B6C40919895CB33AA32D28C">
+      <enum>I</enum>
+      <header>POSTAL SERVICE
+			 PROFITABILITY AND REVENUE-GENERATING ENHANCEMENTS</header>
+			<subtitle id="HCA9A7BC2BEF4479FB1B0922051929F7A">
+        <enum>A</enum>
+        <header>Postal Service
+			 Products and Pricing</header>
+				<section id="HFA3D83C977FD4FE3AC57259BDAA2A9D5">
+          <enum>101.</enum>
+          <header>USPS innovation
+			 officer and accountability</header>
+					<subsection id="HA13FE3E7AAF945EA9C95DEED6E5EA901">
+            <enum>(a)</enum>
+            <header>In
+			 general</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/39/2">Chapter 2</cato:entity-ref> is amended by adding at the end the
+			 following:</text>
+						<quoted-block id="H3A411826B2D6444393F7F5E3C9BF97C8" style="OLC">
+							<section id="HBFD410F8233945BEBC2EDAB8D9B23B1F">
+                <enum>209.</enum>
+                <header>USPS innovation
+				officer and accountability</header>
+								<subsection id="H7A906E8403024F5CA9638A8AE18BE2C2">
+                  <enum>(a)</enum>
+                  <header>In
+				general</header>
+                  <text>There shall be in the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> a <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Innovation Officer" entity-parent-id="1800" proposed="true">Chief Innovation
+				Officer</cato:entity-ref> selected by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postmaster General</cato:entity-ref> who shall have proven expertise and
+				a record of success in 1 or more of the following: postal and shipping
+				industry, innovation product research and development, marketing brand
+				strategy, emerging communications technology, or business process management.
+				The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Innovation Officer" entity-parent-id="1800" proposed="true">Chief Innovation Officer</cato:entity-ref> shall manage the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref>’s development and
+				implementation of innovative postal and nonpostal products and services.</text>
+								</subsection>
+                <subsection id="H72D96399E1CE4E259DC332911A65E179">
+                  <enum>(b)</enum>
+                  <header>Duties</header>
+                  <text>The
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Innovation Officer" entity-parent-id="1800" proposed="true">Chief Innovation Officer</cato:entity-ref> shall have as primary duties—</text>
+									<paragraph id="HE9B9B2196EE74369A986A8E3709EDB7E">
+                    <enum>(1)</enum>
+                    <text>leading the
+				development of innovative nonpostal products and services that will maximize
+				revenue to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref>;</text>
+									</paragraph>
+                  <paragraph id="H6AD1830E6E4541CB95D7D4AB3854CF5A">
+                    <enum>(2)</enum>
+                    <text>developing
+				innovative postal products and services, particularly those that utilize
+				emerging information technologies, to maximize revenue to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal
+				Service</cato:entity-ref>;</text>
+									</paragraph>
+                  <paragraph id="HEB5D419FA9A74D69AE12924124FBF911">
+                    <enum>(3)</enum>
+                    <text>monitoring the
+				performance of innovative products and services and revising them as needed to
+				meet changing market trends; and</text>
+									</paragraph>
+                  <paragraph id="H25D7B37FD3614CCABC9772454A45AFF9">
+                    <enum>(4)</enum>
+                    <text>taking into
+				consideration comments or advisory opinions, if applicable, issued by the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Postal Regulatory Committee</cato:entity-ref> prior to the initial sale of innovative postal or
+				nonpostal products and services.</text>
+									</paragraph>
+                </subsection>
+                <subsection id="H3AD1E01A6FBA48DBA968885B9D741631">
+                  <enum>(c)</enum>
+                  <header>Designation</header>
+									<paragraph id="HCC41B31407B548C5AEFD6EC72498831F">
+                    <enum>(1)</enum>
+                    <header>Deadline</header>
+                    <text>As
+				soon as practicable after the date of enactment of this section, but no later
+				than January 1, 2014, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postmaster General</cato:entity-ref> shall designate a <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Innovation Officer" entity-parent-id="1800" proposed="true">Chief Innovation
+				Officer</cato:entity-ref>.</text>
+									</paragraph>
+                  <paragraph id="H5FF91E197FAF47BF95D950CDAFCCF5E3">
+                    <enum>(2)</enum>
+                    <header>Condition</header>
+                    <text>Nothing
+				in this section shall be construed to prohibit an individual who holds another
+				office or position in the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> from serving as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Innovation Officer" entity-parent-id="1800" proposed="true">Chief Innovation
+				Officer</cato:entity-ref> under this chapter. However, upon appointment to the position of the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Innovation Officer" entity-parent-id="1800" proposed="true">Chief Innovation Officer</cato:entity-ref>, such individual may not, while serving in such
+				office, concurrently hold any other office or position in the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal
+				Service</cato:entity-ref>.</text>
+									</paragraph>
+                </subsection>
+                <subsection id="H048ECA174815402CAEDD5196218FCF76">
+                  <enum>(d)</enum>
+                  <header>Innovation
+				strategy</header>
+									<paragraph id="H77E6645649A94803A4F3DE373143EECE">
+                    <enum>(1)</enum>
+                    <header>In
+				general</header>
+                    <text>Not later than 12 months after the date on which the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Innovation Officer" entity-parent-id="1800" proposed="true">Chief Innovation Officer</cato:entity-ref> is designated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/209/c/1" proposed="true">subsection (c)(1)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postmaster
+				General</cato:entity-ref> shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSGA00">Committee on Homeland Security and Governmental
+				Affairs of the Senate</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HGO00">Committee on Oversight and Government Reform of
+				the House of Representatives</cato:entity-ref> a comprehensive strategy for maximizing revenues
+				through innovative postal and nonpostal products and services.</text>
+									</paragraph>
+                  <paragraph id="H2197BBB8C4E0479F9B6FF0171CB8463B">
+                    <enum>(2)</enum>
+                    <header>Matters to be
+				addressed</header>
+                    <text>At a minimum, the strategy required by this section
+				shall address—</text>
+										<subparagraph id="HE9E5BF519BCE4CE28FEFC586B0E2C11D">
+                      <enum>(A)</enum>
+                      <text>the specific
+				innovative postal and nonpostal products and services to be developed and
+				offered by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref>, including the nature of the market to be filled
+				by each product and service and the likely date by which each product and
+				service will be introduced;</text>
+										</subparagraph>
+                    <subparagraph id="HBCA740923ABD41AD8F47BE9C0E773925">
+                      <enum>(B)</enum>
+                      <text>the cost of
+				developing and offering each product or service;</text>
+										</subparagraph>
+                    <subparagraph id="HF5A6E60EDB194B59A7B29F6FC98217D2">
+                      <enum>(C)</enum>
+                      <text>the anticipated
+				sales volume of each product and service;</text>
+										</subparagraph>
+                    <subparagraph id="HFC2D47D5B851432DB187DA3C8756E74E">
+                      <enum>(D)</enum>
+                      <text>the anticipated
+				revenues and profits expected to be generated by each product and
+				service;</text>
+										</subparagraph>
+                    <subparagraph id="H1F300ED20AB24783B636A88B0638910F">
+                      <enum>(E)</enum>
+                      <text>the likelihood of
+				success of each innovative product and service as well as the risks associated
+				with the development and sale of each innovative product and service;</text>
+										</subparagraph>
+                    <subparagraph id="H246514B378474FA990A415D8F0845023">
+                      <enum>(F)</enum>
+                      <text>the trends
+				anticipated in market conditions that may affect the success of each product
+				and service over the 5-year period beginning on the date such strategy or
+				update is submitted; and</text>
+										</subparagraph>
+                    <subparagraph id="HE825B6F3BDB247B8B9422660754DA10C">
+                      <enum>(G)</enum>
+                      <text>the metrics that
+				will be utilized to assess the effectiveness of the innovation strategy.</text>
+										</subparagraph>
+                  </paragraph>
+                  <paragraph commented="no" id="H77E761AF38CA4F08BD19397A94C08315">
+                    <enum>(3)</enum>
+                    <header>Strategy
+				updates</header>
+                    <text display-inline="yes-display-inline">On January 1, 2018,
+				and every 3 years thereafter, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Innovation Officer" entity-parent-id="1800" proposed="true">Chief Innovation Officer</cato:entity-ref> shall submit an
+				update to the innovation strategy submitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/209/d/1" proposed="true">paragraph (1)</cato:entity-ref> to the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSGA00">Committee on Homeland Security and Governmental Affairs of the Senate</cato:entity-ref>, the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HGO00">Committee on Oversight and Government Reform of the House of Representatives</cato:entity-ref>,
+				and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Postal Regulatory Commission</cato:entity-ref>.</text>
+									</paragraph>
+                </subsection>
+                <subsection id="H3A94E55208AE44C39EAF7FD885AD2E34">
+                  <enum>(e)</enum>
+                  <header>Report on
+				performance</header>
+									<paragraph id="HA2758B9A74584541AC41DA12EB59A34B">
+                    <enum>(1)</enum>
+                    <header>In
+				general</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postmaster General</cato:entity-ref> shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSGA00">Committee on
+				Homeland Security and Governmental Affairs of the Senate</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HGO00">Committee on
+				Oversight and Government Reform of the House of Representatives</cato:entity-ref>, and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Postal
+				Regulatory Commission</cato:entity-ref> with the President’s budget submission under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/1105/a">section
+				1105(a) of title 31</cato:entity-ref> a report that details the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref>’s progress in
+				implementing the Innovation Strategy.</text>
+									</paragraph>
+                  <paragraph id="H62C91A99BF294807A652B09673355A07">
+                    <enum>(2)</enum>
+                    <header>Matters to be
+				addressed</header>
+                    <text>At a minimum, the report required by this section shall
+				address—</text>
+										<subparagraph id="H5C3E34E4CCA043C3AB0004707D52FDE7">
+                      <enum>(A)</enum>
+                      <text>the revenue
+				generated by each product and service developed through the Innovation Strategy
+				and the costs of developing and offering each such product and service for the
+				most recent fiscal year;</text>
+										</subparagraph>
+                    <subparagraph id="H7801B966745E4760A558F38F1BA6A98D">
+                      <enum>(B)</enum>
+                      <text>the total sales
+				volume and revenue generated by each product and service on a monthly basis for
+				the preceding year;</text>
+										</subparagraph>
+                    <subparagraph id="HE4C03829380842D8901A6D3D8069CCD2">
+                      <enum>(C)</enum>
+                      <text>trends in the
+				markets filled by each product and service;</text>
+										</subparagraph>
+                    <subparagraph id="HAFD517C368FD431FABE7D34DC665B08A">
+                      <enum>(D)</enum>
+                      <text>products and
+				services identified in the Innovation Strategy that are to be discontinued, the
+				date on which the discontinuance will occur, and the reasons for the
+				discontinuance;</text>
+										</subparagraph>
+                    <subparagraph id="HF2A779B2DF8C478B9B9AFDF955D9031F">
+                      <enum>(E)</enum>
+                      <text>alterations in
+				products and services identified in the Innovation Strategy that will be made
+				to meet changing market conditions, and an explanation of how these alterations
+				will ensure the success of the products and services; and</text>
+										</subparagraph>
+                    <subparagraph id="H4DEBD3C6A3FD4E808B13007D96DA2F06">
+                      <enum>(F)</enum>
+                      <text>the performance of
+				the Innovation Strategy according to the metrics identified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/209/d/2/G" proposed="true">subsection
+				(d)(2)(G)</cato:entity-ref>.</text>
+										</subparagraph>
+                  </paragraph>
+                </subsection>
+                <subsection id="H4C5F7451C5264BBFB062567F255DFA06">
+                  <enum>(f)</enum>
+                  <header>Comptroller
+				general</header>
+									<paragraph id="H8493BA029638498ABBDFCE5531E49D73">
+                    <enum>(1)</enum>
+                    <header>In
+				general</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0500">Comptroller General</cato:entity-ref> shall conduct a study on the
+				implementation of the innovation strategy not later than 4 years after the date
+				of enactment of this section.</text>
+									</paragraph>
+                  <paragraph id="HB379F043FB274D2396D52D525A0A86C2">
+                    <enum>(2)</enum>
+                    <header>Contents</header>
+                    <text>At
+				a minimum, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0500">Comptroller General</cato:entity-ref> shall assess the effectiveness of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal
+				Service</cato:entity-ref> in identifying, developing, and selling innovative postal and nonpostal
+				products and services. The study shall also include—</text>
+										<subparagraph id="H0776909BFD9E4DB88FC07A50C55B740B">
+                      <enum>(A)</enum>
+                      <text>an audit of the
+				costs of developing each innovative postal and nonpostal product and service
+				developed or offered by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> during the period beginning on the
+				date of enactment of this section and ending 4 years after such date;</text>
+										</subparagraph>
+                    <subparagraph id="H1E3AAD570C8F44198BCCAE24DA631D5F">
+                      <enum>(B)</enum>
+                      <text>the sales volume
+				of each such product and service;</text>
+										</subparagraph>
+                    <subparagraph id="H2B185C6A936C4AAAA848CC12AA8B6E7E">
+                      <enum>(C)</enum>
+                      <text>the revenues and
+				profits generated by each such product and service; and</text>
+										</subparagraph>
+                    <subparagraph id="H8C80E2E6CBB74FE596F5CE4B58BC0640">
+                      <enum>(D)</enum>
+                      <text>the likelihood of
+				continued success of each such product and service.</text>
+										</subparagraph>
+                  </paragraph>
+                  <paragraph id="H99EF6CB4E3E0481FAC5CEFA814FC1780">
+                    <enum>(3)</enum>
+                    <header>Submission</header>
+                    <text>The
+				results of the study required under this subsection shall be submitted to the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSGA00">Committee on Homeland Security and Governmental Affairs of the Senate</cato:entity-ref> and the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HGO00">Committee on Oversight and Government Reform of the House of
+				Representatives</cato:entity-ref>.</text>
+									</paragraph>
+                </subsection>
+              </section>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</subsection>
+          <subsection id="H5D65F1BC4DD4469F831DCD7FFC62DF52">
+            <enum>(b)</enum>
+            <header>Clerical
+			 amendment</header>
+            <text>The table of sections at the beginning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/39/2" proposed="true">chapter 2</cato:entity-ref> is
+			 amended by adding at the end the following:</text>
+						<quoted-block id="H126E4FFC05B64E2FB4DF80D653BEE5E8" style="OLC">
+							<toc regeneration="no-regeneration">
+								<toc-entry level="section">209. USPS innovation officer and
+				accountability.</toc-entry>
+							</toc>
+							<after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</subsection>
+        </section>
+        <section id="H23F56095809D40A5ABFA06B96CAD6EE3">
+          <enum>102.</enum>
+          <header>Authority to
+			 offer nonpostal services</header>
+					<subsection id="HB505BBF9E7B64D0B8447F641242881E1">
+            <enum>(a)</enum>
+            <header>Specific
+			 power</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/a">Section 404(a)</cato:entity-ref> is amended—</text>
+						<paragraph id="H6C7E0E683EC74E9BBA904CC8D1DF4CAB">
+              <enum>(1)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/a/7">paragraph (7)</cato:entity-ref>,
+			 by striking <quote>and</quote> at the end;</text>
+						</paragraph>
+            <paragraph id="H02804E0A197F422D97B162B0CED232CF">
+              <enum>(2)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/a/8">paragraph (8)</cato:entity-ref>,
+			 by striking the period and inserting <quote>; and</quote>; and</text>
+						</paragraph>
+            <paragraph id="HF9CCF110D15F43F4B12FB8CF652A72AE">
+              <enum>(3)</enum>
+              <text>by adding at the
+			 end the following:</text>
+							<quoted-block id="HDA8B1E3DBD6D46F49D6012EE67599DF9" style="OLC">
+								<paragraph id="HA9D98981854045C389770F07DCBB0495">
+                  <enum>(9)</enum>
+                  <text>to provide
+				nonpostal services in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/e">subsection
+				(e)</cato:entity-ref>.</text>
+								</paragraph>
+                <after-quoted-block>.</after-quoted-block>
+              </quoted-block>
+						</paragraph>
+          </subsection>
+          <subsection id="HB305AE6B52FC4741993B63ABFBCAD439">
+            <enum>(b)</enum>
+            <header>Nonpostal
+			 services</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/e">Section 404(e)</cato:entity-ref> is amended to read as follows:</text>
+						<quoted-block id="HB3CCBA8776F64A24B685D131324E1CC7" style="OLC">
+							<subsection id="H146F5041468F4CF88F6FF4B2EFBA18F5">
+                <enum>(e)</enum>
+                <paragraph commented="no" display-inline="yes-display-inline" id="HF14745009014465A87C322DEE76CD4AF">
+                  <enum>(1)</enum>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> may
+				provide nonpostal services that use the processing, transportation, delivery,
+				retail network, technology, or other resources of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> in a
+				manner consistent with the public interest.</text>
+								</paragraph>
+                <paragraph id="H5FC46C89E0DE4833A6071871FCBBDFBB" indent="up1">
+                  <enum>(2)</enum>
+                  <text>At least 90 days before offering new
+				nonpostal services, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> shall request an advisory opinion from
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Postal Regulatory Commission</cato:entity-ref> that evaluates the extent to which the
+				provision of such nonpostal services—</text>
+									<subparagraph id="H67A310E9F25F416FBBE9B1FAB5B73CCD">
+                    <enum>(A)</enum>
+                    <text>would use the processing,
+				transportation, delivery, retail network, technology, or other resources of the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref>; and</text>
+									</subparagraph>
+                  <subparagraph id="H769C932AC4D54C17B472422A62BFD491">
+                    <enum>(B)</enum>
+                    <text>would be consistent with the public
+				interest.</text>
+									</subparagraph>
+                </paragraph>
+                <paragraph id="H1842456A37E348619A02B2A7917372A6" indent="up1">
+                  <enum>(3)</enum>
+                  <text>Within 45 days after receiving the
+				request under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/e/2" proposed="true">paragraph (2)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Postal Regulatory Commission</cato:entity-ref>—</text>
+									<subparagraph id="HC0B126273FAB48C08D93BBD7021607BD">
+                    <enum>(A)</enum>
+                    <text>shall issue its advisory opinion to
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref>; and</text>
+									</subparagraph>
+                  <subparagraph id="H247AF1A7A17D4253B1077C36599C3F86">
+                    <enum>(B)</enum>
+                    <text>shall transmit a copy of such opinion,
+				together with the original request, to—</text>
+										<clause id="H6DF09EA8B2A54713A588A1DFC5112D6D">
+                      <enum>(i)</enum>
+                      <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HGO00">Committee on Oversight and
+				Government Reform of the House of Representatives</cato:entity-ref>; and</text>
+										</clause>
+                    <clause id="HCD9D3A2DAFD1413D80088505F89F158D">
+                      <enum>(ii)</enum>
+                      <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSGA00">Committee on Homeland Security
+				and Governmental Affairs of the Senate</cato:entity-ref>.</text>
+										</clause>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="H06E6610D773740DA98FB1B30C96255CB" indent="up1">
+                  <enum>(4)</enum>
+                  <text>For purposes of this title, the term
+				<quote>nonpostal services</quote> means services and products other than postal
+				services as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/102//5">section 102(5)</cato:entity-ref>, including—</text>
+									<subparagraph id="H344C507CE9C34CF0A53582C874C7A4F3">
+                    <enum>(A)</enum>
+                    <text>check-cashing services;</text>
+									</subparagraph>
+                  <subparagraph id="H196DC8E454594E7288009BC91DFB9326">
+                    <enum>(B)</enum>
+                    <text>new technology and media
+				services;</text>
+									</subparagraph>
+                  <subparagraph id="H944B6399439A4D2A951BB76D47FF6941">
+                    <enum>(C)</enum>
+                    <text>warehousing and logistics;</text>
+									</subparagraph>
+                  <subparagraph id="H8E7B541AE45243C8A760A7C30652D46F">
+                    <enum>(D)</enum>
+                    <text>facility leasing; and</text>
+									</subparagraph>
+                  <subparagraph id="H3612A57678F847269A3ED3A438EB5A9F">
+                    <enum>(E)</enum>
+                    <text>public internet access
+				services.</text>
+									</subparagraph>
+                </paragraph>
+              </subsection>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</subsection>
+        </section>
+        <section id="H3E2EC71ECE0D4CD9B3C6FEAE7563CEDB">
+          <enum>103.</enum>
+          <header>Requirement
+			 that market-dominant products cover attributable costs</header>
+					<subsection id="H6ADCB06A2374487AA3C2E19C08AA4A39">
+            <enum>(a)</enum>
+            <header>Repeal</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/c/2">Paragraph
+			 (2) of section 3622(c)</cato:entity-ref> is repealed.</text>
+					</subsection>
+          <subsection id="H6EBBA074D1EC4EBB88120FB2E54DC50D">
+            <enum>(b)</enum>
+            <header>Each class To
+			 bear attributable costs</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/d/1">Section 3622(d)(1)</cato:entity-ref> is amended—</text>
+						<paragraph id="HC6F807976B6A44D0B35FDBDE8B632990">
+              <enum>(1)</enum>
+              <text>by redesignating
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/d/1/A..E">subparagraphs (A) through (E)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/d/1/B..F" proposed="true">subparagraphs (B) through (F)</cato:entity-ref>;</text>
+						</paragraph>
+            <paragraph id="HC6E33A35960742FD8ABFDBBAB373C6C2">
+              <enum>(2)</enum>
+              <text>by inserting
+			 before <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/d/1/B" proposed="true">subparagraph (B)</cato:entity-ref> (as so redesignated by paragraph (1)) the
+			 following:</text>
+							<quoted-block id="HB027A3B44D6048F4928FADD864740B84" style="OLC">
+								<subparagraph id="H419FB96C6AE544AA8C9BF73B569A3171">
+                  <enum>(A)</enum>
+                  <text>require that each
+				class or type of mail service shall bear the direct and indirect postal costs
+				attributable to such class or type through reliably identified causal
+				relationships plus that portion of all other costs of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref>
+				reasonably assignable to such class or
+				type;</text>
+								</subparagraph>
+                <after-quoted-block>;
+				and</after-quoted-block>
+              </quoted-block>
+						</paragraph>
+            <paragraph id="HD7483BC5FF1746D99BA608A3FEA50B07">
+              <enum>(3)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/d/1/B" proposed="true">subparagraph
+			 (B)</cato:entity-ref> (as so redesignated by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/d/1">paragraph (1)</cato:entity-ref>) by inserting <quote>, excluding
+			 changes required to satisfy subparagraph (A),</quote> before <quote>to be
+			 set</quote>.</text>
+						</paragraph>
+          </subsection>
+        </section>
+        <section id="HCE29D0544A214C7AA72CDB2EE82853B4">
+          <enum>104.</enum>
+          <header>PRC to revisit
+			 CPI cap instituted under PAEA</header>
+          <text display-inline="no-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622">Section 3622</cato:entity-ref> is amended—</text>
+					<paragraph id="H00A15652D3084D1F8601FA17A6A1DE7D">
+            <enum>(1)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/c">subsection
+			 (c)</cato:entity-ref>—</text>
+						<subparagraph id="H604A7B9C138B4A0C92BBFE4B6CBB165A">
+              <enum>(A)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/c/13">paragraph (13)</cato:entity-ref>,
+			 by striking <quote>and</quote> at the end;</text>
+						</subparagraph>
+            <subparagraph id="H5ABCAC98EF9E44DA904FA2995B52E3BB">
+              <enum>(B)</enum>
+              <text>by redesignating
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/c/14">paragraph (14)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/c/15" proposed="true">paragraph (15)</cato:entity-ref>; and</text>
+						</subparagraph>
+            <subparagraph id="H52CA38CFD80245DA998D4E450CD17A0F">
+              <enum>(C)</enum>
+              <text>by inserting
+			 after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/c/13">paragraph (13)</cato:entity-ref> the following:</text>
+							<quoted-block id="H7A75B1757B7F4C03AFC3F3242AFB211F" style="OLC">
+								<paragraph id="H659E49DD2E2D4B809506BFE32595497D">
+                  <enum>(14)</enum>
+                  <text>the value to the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> of having pricing flexibility that would apply a price cap
+				across all classes of market dominant products in comparison to a class-based
+				price cap; and</text>
+								</paragraph>
+                <after-quoted-block>;
+				and</after-quoted-block>
+              </quoted-block>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="H2BFA6C6F5B4145CE80C8D501A601884C">
+            <enum>(2)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/d/3">subsection
+			 (d)(3)</cato:entity-ref>, by striking <quote>Ten</quote> and inserting
+			 <quote>Seven</quote>.</text>
+					</paragraph>
+        </section>
+        <section id="H7AFB8F52DA7D495694E015AB44ADD78A">
+          <enum>105.</enum>
+          <header>Enhanced
+			 product innovation</header>
+					<subsection id="H734957A9B43541F3BC1B9F1A3A22E3E4">
+            <enum>(a)</enum>
+            <header>Dollar-Amount
+			 limitation relating to market tests of experimental
+			 products</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3641/e/1">Section 3641(e)(1)</cato:entity-ref> is amended by striking
+			 <quote>$10,000,000</quote> and inserting <quote>$50,000,000</quote>.</text>
+					</subsection>
+          <subsection id="HB71921F8A629414FB9C4D4D961D38F5D">
+            <enum>(b)</enum>
+            <header>Dollar-Amount
+			 limitation relating to exemption authority</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3641/e/2">Section 3641(e)(2)</cato:entity-ref> is
+			 amended by striking <quote>$50,000,000</quote> and inserting
+			 <quote>$100,000,000</quote>.</text>
+					</subsection>
+        </section>
+        <section id="H219ACA4861254FF4A04B693E28B64348">
+          <enum>106.</enum>
+          <header>Authority to
+			 ship beer, wine and distilled spirits</header>
+					<subsection id="HAEEC2E9CF35244C4BCBEC62A0774B44B">
+            <enum>(a)</enum>
+            <header>Mailability</header>
+						<paragraph id="H58F8011466D540739A58445DDC9D61B4">
+              <enum>(1)</enum>
+              <header>Nonmailable
+			 articles</header>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1716/f">
+                  <external-xref legal-doc="usc" parsable-cite="usc/18/1716">Section 1716(f)</external-xref> of title 18, United States Code</cato:entity-ref>, is
+			 amended by striking <quote>mails</quote> and inserting <quote>mails, except to
+			 the extent that the mailing is allowable under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3001/p">section 3001(p) of title
+			 39</cato:entity-ref>
+                </quote>.</text>
+						</paragraph>
+            <paragraph id="H746B83AAE8E248BF9214B2029D116A54">
+              <enum>(2)</enum>
+              <header>Application of
+			 laws</header>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1161">
+                  <external-xref legal-doc="usc" parsable-cite="usc/18/1161">Section 1161</external-xref> of title 18, United States Code</cato:entity-ref>, is amended, by
+			 inserting <quote>, and, with respect to the mailing of distilled spirits, wine,
+			 or malt beverages (as those terms are defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Federal Alcohol Administration Act/s:117">section 117 of the Federal
+			 Alcohol Administration Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/27/211">
+                      <cato:entity-ref entity-type="uscode" value="usc/27/211">27 U.S.C. 211</cato:entity-ref>
+                    </external-xref>)</cato:entity>), is in conformity with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3001/p">section
+			 3001(p) of title 39</cato:entity-ref>
+                </quote> after <quote>Register</quote>.</text>
+						</paragraph>
+          </subsection>
+          <subsection id="H879458312C5244CE93F86D9BBB758E9A">
+            <enum>(b)</enum>
+            <header>Regulations</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3001">Section
+			 3001 of title 39, United States Code</cato:entity-ref>, is amended by adding at the end the
+			 following:</text>
+						<quoted-block id="HF4863E8E735B425CA13673601E196A3C" style="OLC">
+							<subsection id="HB46724E3CC0043D9A5FFAF059C09EA3B">
+                <enum>(p)</enum>
+                <paragraph commented="no" display-inline="yes-display-inline" id="H977F5B3CD47642C992A535A8F436578F">
+                  <enum>(1)</enum>
+                  <text>In this subsection, the
+				terms <quote>distilled spirits</quote>, <quote>wine</quote>, and <quote>malt
+				beverage</quote> have the same meanings as in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Federal Alcohol Administration Act/s:117">section 117 of the Federal
+				Alcohol Administration Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/27/211">
+                        <cato:entity-ref entity-type="uscode" value="usc/27/211">27 U.S.C. 211</cato:entity-ref>
+                      </external-xref>)</cato:entity>.</text>
+								</paragraph>
+                <paragraph id="HAF70B5F2489E4D509A0124BE5333E6D8" indent="up1">
+                  <enum>(2)</enum>
+                  <text>Distilled spirits, wine, or malt
+				beverages shall be considered mailable if mailed—</text>
+									<subparagraph id="H70B94AA86B2241C6BE9209709C52D7B7">
+                    <enum>(A)</enum>
+                    <text>in accordance with the laws and
+				regulations of—</text>
+										<clause id="H17BC288ACE4A49AD905074BE938563A5">
+                      <enum>(i)</enum>
+                      <text>the State, territory, or district
+				of the United States where the sender or duly authorized agent initiates the
+				mailing; and</text>
+										</clause>
+                    <clause id="H79EEEEFE08914C47B4891EB50F89C5FF">
+                      <enum>(ii)</enum>
+                      <text>the State, territory, or district
+				of the United States where the addressee or duly authorized agent takes
+				delivery; and</text>
+										</clause>
+                  </subparagraph>
+                  <subparagraph id="H3E4CF1ECB24847D3B953A5D17D351E5D">
+                    <enum>(B)</enum>
+                    <text>to an addressee who is at least 21
+				years of age—</text>
+										<clause id="HCFB6094CC22C41258DF1300DFCE9D567">
+                      <enum>(i)</enum>
+                      <text>who provides a signature and
+				presents a valid, government-issued photo identification upon delivery;
+				or</text>
+										</clause>
+                    <clause id="H3FFBC2F440F142D19FA607EF93242D78">
+                      <enum>(ii)</enum>
+                      <text>the duly authorized agent of
+				whom—</text>
+											<subclause id="HE8E274CB30B04432990C1A7AE649526A">
+                        <enum>(I)</enum>
+                        <text>is at least 21 years of age; and</text>
+											</subclause>
+                      <subclause id="H8281AEC78C0C4E46AA78F2A1D53BF320">
+                        <enum>(II)</enum>
+                        <text>provides a signature and presents a
+				valid, government-issued photo identification upon delivery.</text>
+											</subclause>
+                    </clause>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="H498B3113A7E1437BAE024283FD71B214" indent="up1">
+                  <enum>(3)</enum>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> shall prescribe
+				such regulations as may be necessary to carry out this
+				subsection.</text>
+								</paragraph>
+              </subsection>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</subsection>
+          <subsection id="HE23815BA79724F608038ED6657209BC7">
+            <enum>(c)</enum>
+            <header>Effective
+			 date</header>
+            <text>The amendments made by this section shall take effect on the
+			 earlier of—</text>
+						<paragraph id="H4F4D81982D8348CD922E1E04A32E5D88">
+              <enum>(1)</enum>
+              <text>the date on which
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> issues regulations under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3001/p">
+                  <external-xref legal-doc="usc" parsable-cite="usc/39/3001">section 3001(p)</external-xref> of title 39, United
+			 States Code</cato:entity-ref>, as amended by this section; or</text>
+						</paragraph>
+            <paragraph id="HE81E50CDB5E247C5BA5A568CAFF9DD7E">
+              <enum>(2)</enum>
+              <text>120 days after the
+			 date of enactment of this Act.</text>
+						</paragraph>
+          </subsection>
+        </section>
+        <section id="H0F00A7CCC16C4C5EBF095A5C8B103475">
+          <enum>107.</enum>
+          <header>Repeal of
+			 uniform rate for books, films, and other materials</header>
+					<subsection id="HA50C3D42435E4246A7A66FC974A311A1">
+            <enum>(a)</enum>
+            <header>In
+			 general</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3683">Section 3683</cato:entity-ref> is repealed.</text>
+					</subsection>
+          <subsection id="H0DB74F483425446DAB2B378B1389A707">
+            <enum>(b)</enum>
+            <header>Clerical
+			 amendment</header>
+            <text>The table of sections at the beginning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/39/36">chapter 36</cato:entity-ref> is
+			 amended by repealing the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3683">section 3683</cato:entity-ref>.</text>
+					</subsection>
+        </section>
+      </subtitle>
+      <subtitle id="HAE4CF714C81A44ABAC47733515A48715">
+        <enum>B</enum>
+        <header>Postal Service
+			 Management</header>
+				<section id="HC7CD82BA1A934567830BB5036BF93481">
+          <enum>108.</enum>
+          <header>USPS balanced
+			 budget minimum requirement</header>
+          <text display-inline="no-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/b">Section 404(b)</cato:entity-ref> is amended—</text>
+					<paragraph id="H5707C7CA9AEC4AEF97BEA43955096E98">
+            <enum>(1)</enum>
+            <text>by striking
+			 <quote>(b)</quote> and inserting <quote>(b)(1)</quote>; and</text>
+					</paragraph>
+          <paragraph id="H34E58C3471254A4493C74EB0209350FD">
+            <enum>(2)</enum>
+            <text>by adding at the
+			 end the following:</text>
+						<quoted-block id="H67D72B24D9264F76912B69B85EEF2F4D" style="OLC">
+							<paragraph commented="no" display-inline="no-display-inline" id="H1E32AA8B8D464972A62B897ED14336D8" indent="up1">
+                <enum>(2)</enum>
+                <text display-inline="yes-display-inline">Notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/d/1/B">subparagraphs (B)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/d/1/E">(E) of
+				section 3622(d)(1)</cato:entity-ref>, within 180 days after the date of enactment of this
+				paragraph, the Governors shall ensure that the rates and fees charged for
+				market dominant products, and the level and quality of service provided by the
+				Postal Service, shall be adjusted in accordance with current law so that the
+				total revenues received by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref>, in fiscal year 2014 and each
+				subsequent fiscal year, from all sources are at least equal to the total costs
+				incurred in the provision of postal services, except that the Governors shall
+				continue to provide all public services for which appropriations are made to
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> under section 2401.</text>
+							</paragraph>
+              <paragraph id="H11A6757C5EDB4DBD8D28C4361AB0F75E" indent="up1">
+                <enum>(3)</enum>
+                <text display-inline="yes-display-inline">After the end of the 2-year period
+				beginning on October 1, 2013, for any fiscal year that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> is
+				not in compliance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/b/2" proposed="true">paragraph (2)</cato:entity-ref>, the Governors shall not receive a salary
+				or compensation of any kind for the following fiscal year, but shall be
+				reimbursed for travel and reasonable expenses incurred in attending meetings of
+				the
+				Board.</text>
+							</paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </section>
+        <section display-inline="no-display-inline" id="H834245CDDC2B4231A684011B29A7A894" section-type="subsequent-section">
+          <enum>109.</enum>
+          <header>Reporting
+			 requirement for Board of Governors and Postal Regulatory Commissioners</header>
+					<subsection id="HB2036D541C2F43159CBC6B9FBB683B86">
+            <enum>(a)</enum>
+            <header>Board of
+			 Governors</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/202/a">Section 202(a)</cato:entity-ref> is amended by adding at the end the
+			 following:</text>
+						<quoted-block display-inline="no-display-inline" id="H3F749ACCE55B472D8EAF3CE03CB70E24" style="USC">
+							<paragraph id="H4290C1E223C4489B940FAEDE377361B8">
+                <enum>(3)</enum>
+                <text display-inline="yes-display-inline">Not later than 60 days after the end of
+				each fiscal year, the Board of Governors shall submit an itemized report
+				describing all travel and reimbursable business travel expenses paid to each
+				Governor when performing Board duties to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HGO00">Committee on Oversight and
+				Government Reform of the House of Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSGA00">Committee on Homeland
+				Security and Governmental Affairs of the Senate</cato:entity-ref>. The report submitted under
+				this paragraph shall include a detailed justification for any travel or
+				reimbursable business travel expense that deviates from the Board’s travel and
+				reimbursable business travel expense policies and guidelines under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/202/a/1">paragraph
+				(1)</cato:entity-ref>.</text>
+							</paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</subsection>
+          <subsection id="H702F63B6F8334DEBBBF197F97B6F1614">
+            <enum>(b)</enum>
+            <header>Administration</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/504/d">Section
+			 504(d)</cato:entity-ref> is amended—</text>
+						<paragraph id="HF8C1C4C086F5453885B608AD3B7DCA11">
+              <enum>(1)</enum>
+              <text>by striking
+			 <quote>(d)</quote> and inserting <quote>(d)(1)</quote>; and</text>
+						</paragraph>
+            <paragraph id="H623CBC266296429790BA5450F8423166">
+              <enum>(2)</enum>
+              <text>by adding at the
+			 end the following:</text>
+							<quoted-block display-inline="no-display-inline" id="H06DE2E27638047F4AD1A72B149118943" style="USC">
+								<paragraph commented="no" id="HAD766688B45045BEB4A3E40A70AD5F38">
+                  <enum>(2)</enum>
+                  <text display-inline="yes-display-inline">Not later than 60 days after the end of
+				each fiscal year, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Postal Regulatory Commission</cato:entity-ref>ers shall submit an itemized
+				report describing all travel and reimbursable business travel expenses paid to
+				each Commissioner, including the Chairman, when performing regulatory duties to
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HGO00">Committee on Oversight and Government Reform of the House of
+				Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSGA00">Committee on Homeland Security and Governmental Affairs
+				of the Senate</cato:entity-ref>. The report submitted under this paragraph shall include a
+				detailed justification for any travel or reimbursable business travel expense
+				that deviates from the Commission’s travel and reimbursable business travel
+				expense policies and
+				guidelines.</text>
+								</paragraph>
+                <after-quoted-block>.</after-quoted-block>
+              </quoted-block>
+						</paragraph>
+          </subsection>
+        </section>
+        <section display-inline="no-display-inline" id="H9687860E800E4DB4A6851C6603BE9261" section-type="subsequent-section">
+          <enum>110.</enum>
+          <header>Restrictions on
+			 postal service executive compensation</header>
+					<subsection id="H4BB46754AE874195B52401B494BC9E73">
+            <enum>(a)</enum>
+            <header>Limitations on
+			 compensation</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/1003">Section 1003</cato:entity-ref> is amended—</text>
+						<paragraph id="HC52F2B8DD185453F9E7859B90946D476">
+              <enum>(1)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/1003/a">subsection (a)</cato:entity-ref>,
+			 by striking the last sentence; and</text>
+						</paragraph>
+            <paragraph id="HBA70E68A559C4699BCAD9485C20DD45C">
+              <enum>(2)</enum>
+              <text>by adding at the
+			 end the following:</text>
+							<quoted-block id="H9B0ED1830BB54DA88D132B4B47A5856D" style="OLC">
+								<subsection id="HC69D92814F4E4F21BDE93C0532654FDB">
+                  <enum>(e)</enum>
+                  <header>Limitations on
+				compensation</header>
+									<paragraph id="H58C30637788B49E9B2518B040AC3605B">
+                    <enum>(1)</enum>
+                    <header>Rates of basic
+				pay</header>
+										<subparagraph id="H26C97D7328D84BD28CD4F1E74357F144">
+                      <enum>(A)</enum>
+                      <header>In
+				general</header>
+                      <text>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/1003/e/1/B" proposed="true">subparagraph (B)</cato:entity-ref>, an officer or employee of
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> may not be paid at a rate of basic pay that exceeds the rate
+				of basic pay for level II of the Executive Schedule under section 5313 of title
+				5.</text>
+										</subparagraph>
+                    <subparagraph id="HF6ADDDD4BFEC46C6AD3204F89B332436">
+                      <enum>(B)</enum>
+                      <header>Very senior
+				executives</header>
+                      <text>Not more than 6 officers or employees of
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> that are in very senior executive positions, as determined
+				by the Board of Governors, may be paid at a rate of basic pay that does not
+				exceed the rate of basic pay for level I of the Executive Schedule under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/5312">section 5312 of title 5</cato:entity-ref>.</text>
+										</subparagraph>
+                  </paragraph>
+                  <paragraph id="HE2C1E78EF90145BCA70FE705AD2AF64A">
+                    <enum>(2)</enum>
+                    <header>Benefits</header>
+                    <text>An
+				officer or employee of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> who is in a critical senior executive
+				or equivalent position, as designated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3686/c">section 3686(c)</cato:entity-ref>, may not receive
+				fringe benefits (within the meaning given that term under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/1005/f">section 1005(f)</cato:entity-ref>) that
+				are greater than the fringe benefits received by supervisory and other
+				managerial personnel who are not subject to collective-bargaining agreements
+				under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/39/12">chapter
+				12</cato:entity-ref>.</text>
+									</paragraph>
+                </subsection>
+                <after-quoted-block>.</after-quoted-block>
+              </quoted-block>
+						</paragraph>
+          </subsection>
+          <subsection id="H79053AE881E04028824EA5494EF2CDB2">
+            <enum>(b)</enum>
+            <header>Limitation on
+			 bonus authority</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3686">Section 3686</cato:entity-ref> is amended—</text>
+						<paragraph id="HCD8957E1A7C4434BBF1B49C3D9B30B1D">
+              <enum>(1)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3686/a">subsection (a)</cato:entity-ref>,
+			 by striking <quote>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref>
+                </quote> and inserting <quote>Subject to
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3686/f" proposed="true">subsection (f)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref>
+                </quote>; and</text>
+						</paragraph>
+            <paragraph id="HA1FB254219B34AF7BEC71F7B97871F46">
+              <enum>(2)</enum>
+              <text>by adding at the
+			 end the following:</text>
+							<quoted-block id="HAE6DEA2A07484461A36FAC5EB371CD84" style="OLC">
+								<subsection id="H1FD39F8EC59043DE8881F1A19193D3EF">
+                  <enum>(f)</enum>
+                  <header>Limitation on
+				bonus authority</header>
+									<paragraph commented="no" id="HD0F9279A607C4F5E9B001A4D7A1D08DB">
+                    <enum>(1)</enum>
+                    <header>Determination</header>
+                    <text display-inline="yes-display-inline">Not later than 60 days after the end of
+				fiscal year 2014 and each fiscal year thereafter, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Office of Management and
+				Budget</cato:entity-ref> shall determine whether the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> has, with respect to such
+				fiscal year, implemented the measures needed to achieve long-term solvency and
+				balanced budgeting, as required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/b/2">paragraphs (2)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/b/3">(3) of section 404(b)</cato:entity-ref>.
+				In order to make such determination, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Office of Management and Budget</cato:entity-ref> shall
+				use the information provided under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/2009">section 2009</cato:entity-ref>.</text>
+									</paragraph>
+                  <paragraph id="H0F5194217CFF44B89F0DE1DF8C3EB6EE">
+                    <enum>(2)</enum>
+                    <header>Limitation</header>
+                    <text>The
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> may not provide a bonus or other reward under this section to an
+				officer or employee of the Postal service in a critical senior executive or
+				equivalent position, as designated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3686/c">subsection (c)</cato:entity-ref>, during a covered
+				year.</text>
+									</paragraph>
+                  <paragraph id="H055BBC7D95264B31924E7166D13DDF1A">
+                    <enum>(3)</enum>
+                    <header>Definition</header>
+                    <text display-inline="yes-display-inline">In this subsection, the term <quote>covered
+				year</quote> means the fiscal year following a fiscal year with respect to
+				which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Office of Management and Budget</cato:entity-ref> determines under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3686/f/1" proposed="true">paragraph (1)</cato:entity-ref> that
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> has not implemented the measures needed to achieve long-term
+				solvency and balanced budgeting, as required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/b/2">paragraphs (2)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/b/3">(3) of
+				section
+				404(b)</cato:entity-ref>.</text>
+									</paragraph>
+                </subsection>
+                <after-quoted-block>.</after-quoted-block>
+              </quoted-block>
+						</paragraph>
+          </subsection>
+          <subsection id="H28D76E4A4D7747D6A455A58A3A3CA309">
+            <enum>(c)</enum>
+            <header>Effective date;
+			 applicability</header>
+            <text>The amendments made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Innovate to Deliver Act of 2013/s:110/ss:a..c" proposed="true">subsections (a) through (c)</cato:entity-ref>
+			 shall—</text>
+						<paragraph id="H6D446DB4A7504DCFB1435E30E9E2DBA7">
+              <enum>(1)</enum>
+              <text>take effect on the
+			 date of enactment of this Act; and</text>
+						</paragraph>
+            <paragraph id="H34A9E3EEBB85443E9EFC6AE212DD7348">
+              <enum>(2)</enum>
+              <text>apply to any
+			 contract entered or modified by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> on or after the date of
+			 enactment of this Act.</text>
+						</paragraph>
+          </subsection>
+          <subsection id="HEEED8BD0810C4B07A46D390CDE16406E">
+            <enum>(d)</enum>
+            <header>Sunset</header>
+            <text>Effective
+			 2 years after the date of enactment of this Act—</text>
+						<paragraph id="H732E1E7620AD45DFBA0E7A69AAEF668D">
+              <enum>(1)</enum>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/1003">section 1003</cato:entity-ref> is
+			 amended—</text>
+							<subparagraph id="H273951E233044988AEEBB1DC7B6CDAB5">
+                <enum>(A)</enum>
+                <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/1003/a">subsection (a)</cato:entity-ref>,
+			 by adding at the end the following: <quote>No officer or employee shall be paid
+			 compensation at a rate in excess of the rate for level I of the Executive
+			 Schedule under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/5312">
+                      <external-xref legal-doc="usc" parsable-cite="usc/5/5312">section 5312</external-xref> of title 5</cato:entity-ref>.</quote>; and</text>
+							</subparagraph>
+              <subparagraph id="HFE1A705F8B0940EABBCCA84658EDCAEF">
+                <enum>(B)</enum>
+                <text>by striking
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/1003/e">subsection (e)</cato:entity-ref>; and</text>
+							</subparagraph>
+            </paragraph>
+            <paragraph id="H204E93F83A56444F8D012F55D6209D11">
+              <enum>(2)</enum>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3686">section 3686</cato:entity-ref> is
+			 amended—</text>
+							<subparagraph id="H3A1B9BF5D8004F3AAFC004B670773EB5">
+                <enum>(A)</enum>
+                <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3686/a">subsection (a)</cato:entity-ref>,
+			 by striking <quote>Subject to subsection (f), the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref>
+                  </quote> and
+			 inserting <quote>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref>
+                  </quote>; and</text>
+							</subparagraph>
+              <subparagraph id="H6BFFF1938DD9485D998B829D70C76E8F">
+                <enum>(B)</enum>
+                <text>by striking
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3686/f">subsection (f)</cato:entity-ref>.</text>
+							</subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+        <section id="H7717FBCCCFA845BE937A2CAE948341BA">
+          <enum>111.</enum>
+          <header>Investment of
+			 competitive product moneys</header>
+          <text display-inline="no-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/2003">Section 2003</cato:entity-ref> is amended—</text>
+					<paragraph id="H1C05526B1B5942018E07B0C84B2D479C">
+            <enum>(1)</enum>
+            <text>by redesignating
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/2003/d..h">subsections (d) through (h)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/2003/e..i" proposed="true">subsections (e) through (i)</cato:entity-ref>, respectively;
+			 and</text>
+					</paragraph>
+          <paragraph id="H384980EC878244B08AC21A9F71E7A676">
+            <enum>(2)</enum>
+            <text>by inserting after
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/2003/c">subsection (c)</cato:entity-ref> the following:</text>
+						<quoted-block id="H4718493087D74AFCA8A34D2CF0580AB1" style="OLC">
+							<subsection id="H2A95A7BD7B7E463DB7FBB0610DA65B9D">
+                <enum>(d)</enum>
+                <text display-inline="yes-display-inline">Notwithstanding any other provision of this
+				section, if the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> determines that the moneys of the Competitive
+				Products Fund are in excess of current needs, it may invest such amounts as it
+				considers appropriate in accordance with regulations which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the
+				Treasury</cato:entity-ref> shall prescribe within 180 days after the date of enactment of this
+				subsection.</text>
+							</subsection>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </section>
+      </subtitle>
+    </title>
+    <title id="HB7011E3897814346BF4EB37C8B2A9B69">
+      <enum>II</enum>
+      <header>POSTAL SERVICE
+			 WORKFORCE REALIGNMENT AND RIGHT-SIZING</header>
+			<section id="H8406D722993E4944A9459065A5A00BB4">
+        <enum>201.</enum>
+        <header>Separate
+			 normal-cost percentage recalculation of Federal Employees Retirement
+			 System</header>
+				<subsection id="H98F04114EA8E496484D8E9C0D0350D37">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8423/a/1">Section 8423(a)(1) of
+			 title 5, United States Code</cato:entity-ref>, is amended—</text>
+					<paragraph id="H90B1D9298161489D867C0411737A93BE">
+            <enum>(1)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8423/a/1/A">subparagraph
+			 (A)</cato:entity-ref>—</text>
+						<subparagraph id="HC1EF9F24EB6B4603B2EE8FBD904921F8">
+              <enum>(A)</enum>
+              <text>by striking
+			 <quote>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8423/a/1/B">subparagraph (B)</cato:entity-ref>)</quote> and inserting <quote>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8423/a/1/B">subparagraph (B)</cato:entity-ref> or
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8423/a/1/C">(C)</cato:entity-ref>)</quote>; and</text>
+						</subparagraph>
+            <subparagraph id="H73CAFC79206445CA9EE8E3CC3AA367FB">
+              <enum>(B)</enum>
+              <text>by striking
+			 <quote>and</quote> at the end;</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="HD6402124F1F549CABF89C40092584923">
+            <enum>(2)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8423/a/1/B">subparagraph
+			 (B)</cato:entity-ref>, by striking the period and inserting <quote>; and</quote>; and</text>
+					</paragraph>
+          <paragraph id="H386749E1DBB844B486B887CE1C98FDE5">
+            <enum>(3)</enum>
+            <text>by adding at the
+			 end the following:</text>
+						<quoted-block id="H8D63E5773DD94F5092E8AF6A30BD7E9C" style="OLC">
+							<subparagraph id="H7B965B314778414EB37C7D40B3B59A24">
+                <enum>(C)</enum>
+                <text>the product
+				of—</text>
+								<clause id="H509D0569975C4B8A911207214B91BCE4">
+                  <enum>(i)</enum>
+                  <text>the normal-cost percentage, as
+				determined for employees of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref> (and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Postal
+				Regulatory Commission</cato:entity-ref>), multiplied by</text>
+								</clause>
+                <clause id="HA1B04DB553E6455BA259E9469279C7B7">
+                  <enum>(ii)</enum>
+                  <text>the aggregate amount of basic pay
+				payable by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref> (and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Postal Regulatory
+				Commission</cato:entity-ref>), for the period involved, to its
+				employees.</text>
+								</clause>
+              </subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="HCB1342FCF71744159CA2A9EC987AF908">
+          <enum>(b)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendments made by
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Innovate to Deliver Act of 2013/s:201/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall be carried out as soon as practicable, except that
+			 contributions shall be set in accordance with such amendments not later than
+			 the first applicable pay period beginning in the first fiscal year beginning at
+			 least 180 days after the date of the enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section id="HC1054DACCB304E2AA2EBEEC9AB6155F3">
+        <enum>202.</enum>
+        <header>Treatment of
+			 surplus contributions to Federal Employees Retirement System</header>
+				<subsection id="HA07E0A02F3B14956880F7A4107D785CB">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8423/b">Section 8423(b) of
+			 title 5, United States Code</cato:entity-ref>, is amended by adding at the end the
+			 following:</text>
+					<quoted-block id="HECB39D3235064383B499A2D5189755F3" style="OLC">
+						<paragraph id="HFFE050D797704EABAF78C61AF77D0982" indent="up1">
+              <enum>(6)</enum>
+              <subparagraph commented="no" display-inline="yes-display-inline" id="HD0294D45E18A48DEA97542A6199AEBBE">
+                <enum>(A)</enum>
+                <text>If, for any fiscal year
+				to which this paragraph applies, the amount determined under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8423/B/1/B" proposed="true">paragraph (1)(B)</cato:entity-ref>
+				is less than zero (hereinafter in this paragraph referred to as <quote>excess
+				postal contributions to FERS</quote>), such amount shall be treated in
+				accordance with the following:</text>
+								<clause id="H5429D6008D50493DAE060CB7FBDB532B" indent="up1">
+                  <enum>(i)</enum>
+                  <text>In the case of the first fiscal year
+				to which this paragraph applies and for which excess postal contributions to
+				FERS are determined, the amount of such excess contributions shall be
+				transferred by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref> to such account as the Secretary
+				considers appropriate so that such amount shall be used for the payment of
+				obligations issued by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/2005">section 2005 of
+				title 39</cato:entity-ref>.</text>
+								</clause>
+                <clause id="HE891ACB78490442D8B65F042D762EF08" indent="up1">
+                  <enum>(ii)</enum>
+                  <text>In the case of any subsequent fiscal
+				year to which this paragraph applies and for which excess postal contributions
+				to FERS are determined, the amount of such excess contributions shall be
+				transferred by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref> to the account to which are
+				credited any Government contributions which are made by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States
+				Postal Service</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8334/a/1/B">section 8334(a)(1)(B)</cato:entity-ref> (or which would be made, but for
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8334/a/1/B/ii">clause (ii)</cato:entity-ref> thereof).</text>
+								</clause>
+              </subparagraph>
+              <subparagraph id="HC65CB4B2D7C64839BF4F938A162E2B21" indent="up1">
+                <enum>(B)</enum>
+                <text>This paragraph applies to the fiscal
+				year last ending before the date of the enactment of this paragraph and each
+				fiscal year thereafter.</text>
+							</subparagraph>
+              <subparagraph id="H856AB5AD07E641D99A8ABEFE2D9C956C" indent="up1">
+                <enum>(C)</enum>
+                <text>In the case of any transfer under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8423/b/6/A/ii" proposed="true">subparagraph (A)(ii)</cato:entity-ref> for a fiscal year corresponding to a fiscal year for which
+				a determination of Postal surplus or supplemental liability is scheduled to be
+				made under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8348/h">section 8348(h)</cato:entity-ref>, the transfer under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8423/b/6/A/ii" proposed="true">subparagraph (A)(ii)</cato:entity-ref> shall be
+				made before such determination under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8348/h">section 8348(h)</cato:entity-ref> is
+				made.</text>
+							</subparagraph>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="H663B3DF49B9C4CC0BA9E0B502BEECD59">
+          <enum>(b)</enum>
+          <header>Conforming
+			 amendment</header>
+          <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8348/h/1/B/iii">Section 8348(h)(1)(B)(iii) of title 5, United States
+			 Code</cato:entity-ref>, is amended by striking <quote>principles.</quote> and inserting
+			 <quote>principles, including any amounts described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8423/b/6/A/ii">section
+			 8423(b)(6)(A)(ii)</cato:entity-ref>.</quote>.</text>
+				</subsection>
+      </section>
+      <section id="H261FF86A97DC45DC96ABDCE0309465CF">
+        <enum>203.</enum>
+        <header>Sense of
+			 Congress</header>
+        <text display-inline="no-display-inline">It is the sense of
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref> should use its available
+			 authority as it deems necessary to provide early retirement or separation
+			 incentives to eligible Postal Service employees.</text>
+			</section>
+      <section id="H4423DCC3EE9A4953A38B643415040B73">
+        <enum>204.</enum>
+        <header>Contributions
+			 to Thrift Savings Fund of voluntary separation incentive payments</header>
+				<subsection id="H4BEA5228EFB64448AED4AFD5CCA1EC30">
+          <enum>(a)</enum>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8351/b/2">Section 8351(b)(2)
+			 of title 5, United States Code</cato:entity-ref>, is amended—</text>
+					<paragraph id="H148CB02936824AA18BE52C22AC3AE4E7">
+            <enum>(1)</enum>
+            <text>by striking the
+			 matter before <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8351/b/2/C">subparagraph (C)</cato:entity-ref> and inserting the following:</text>
+						<quoted-block id="H914FCB4442F44BE5B468643014AB1921" style="OLC">
+							<paragraph id="H09E5A6E4512540659105FCEEE9CC8D1D" indent="up1">
+                <enum>(2)</enum>
+                <subparagraph commented="no" display-inline="yes-display-inline" id="H11FBF25E8A284110B8A1AA16CE40D4E1">
+                  <enum>(A)</enum>
+                  <text>An employee or Member
+				may contribute to the Thrift Savings Fund in any pay period any amount of such
+				employee’s or Member’s basic pay for such pay period.</text>
+								</subparagraph>
+                <subparagraph id="H8F2F0EFC09554909A8B04985FE1D46C0" indent="up1">
+                  <enum>(B)</enum>
+                  <text>An employee may contribute (by direct
+				transfer to the Fund) any part of any voluntary separation incentive payment
+				that the employee receives under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/3523">section
+				3523</cato:entity-ref>.</text>
+								</subparagraph>
+              </paragraph>
+              <after-quoted-block>;
+				and</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+          <paragraph id="HC54E4C334104400B928B8C4135DE4B71">
+            <enum>(2)</enum>
+            <text>by adding at the
+			 end the following:</text>
+						<quoted-block id="HB9C6147B6BB54ED9B4FBD8A2B1A986FF" style="OLC">
+							<subparagraph id="H9E9C8492A3384D8E8CA296404A74A750" indent="up2">
+                <enum>(D)</enum>
+                <text>Notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/2105/e">section 2105(e)</cato:entity-ref>, in
+				this paragraph, the term <quote>employee</quote> includes an employee of the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref> or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Postal Regulatory
+				Commission</cato:entity-ref>.</text>
+							</subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="HDF0B158669384EC6AFC1956D676D41D0">
+          <enum>(b)</enum>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8432/a">Section 8432(a) of
+			 title 5, United States Code</cato:entity-ref>, is amended—</text>
+					<paragraph id="H4323C56BFDA54A178E65B0C8FF1964D8">
+            <enum>(1)</enum>
+            <text>by redesignating
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8432/a/3">paragraph (3)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8432/a/4" proposed="true">(4)</cato:entity-ref>;</text>
+					</paragraph>
+          <paragraph id="HE87A31046FD74A89A37808AD9343EF80">
+            <enum>(2)</enum>
+            <text>by striking the
+			 matter before <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8432/a/4" proposed="true">paragraph (4)</cato:entity-ref> (as so redesignated by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Innovate to Deliver Act of 2013/s:204/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>) and inserting
+			 the following:</text>
+						<quoted-block id="HA2C801A0528A4180AA64AF79CD2FBB56" style="OLC">
+							<subsection id="HE4F253A533924740AF36BA8C8913DC28">
+                <enum>(a)</enum>
+                <paragraph commented="no" display-inline="yes-display-inline" id="H22E93B811308452A8D80104C5D4AEA1D">
+                  <enum>(1)</enum>
+                  <text>An employee or Member
+				may contribute to the Thrift Savings Fund in any pay period, pursuant to an
+				election under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8432/b">subsection (b)</cato:entity-ref>, any amount of such employee’s or Member’s basic
+				pay for such pay period.</text>
+								</paragraph>
+                <paragraph id="HB1502B56DBF24BD688C814E37933C026" indent="up1">
+                  <enum>(2)</enum>
+                  <text>An employee may contribute (by direct
+				transfer to the Fund) any part of any voluntary separation incentive payment
+				that the employee receives under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/3523">section 3523</cato:entity-ref>.</text>
+								</paragraph>
+                <paragraph id="H9F53D959EA7844039D1FC4DDE55C408B" indent="up1">
+                  <enum>(3)</enum>
+                  <text>Contributions made under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8432/a/1" proposed="true">paragraph
+				(1)</cato:entity-ref> pursuant to an election under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8432/b">subsection (b)</cato:entity-ref> shall, with respect to each
+				pay period for which such election remains in effect, be made in accordance
+				with a program of regular contributions provided in regulations prescribed by
+				the Executive Director.</text>
+								</paragraph>
+              </subsection>
+              <after-quoted-block>;
+				and</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+          <paragraph id="H71E96F49AD6D4A1FB19DA55584B83A9D">
+            <enum>(3)</enum>
+            <text>by adding at the
+			 end the following:</text>
+						<quoted-block id="H2A8E6896F741435C9D5D0FA019735CCD" style="OLC">
+							<paragraph id="H3407587CE2A04EF681E4F804E00866F9" indent="up1">
+                <enum>(5)</enum>
+                <text>Notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/2105/e">section 2105(e)</cato:entity-ref>, in
+				this subsection the term <quote>employee</quote> includes an employee of the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref> or of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Postal Regulatory
+				Commission</cato:entity-ref>.</text>
+							</paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="HB1435F8648FC4D44B371422C8C3E79AC">
+          <enum>(c)</enum>
+          <header>Regulations</header>
+          <text>The
+			 Executive Director of the Federal Retirement Thrift Investment Board shall
+			 promulgate regulations to carry out the amendments made by this section.</text>
+				</subsection>
+      </section>
+      <section id="H5C77A7AB75F54DEFB58549B74C400B9F">
+        <enum>205.</enum>
+        <header>Service credit
+			 contributions of voluntary separation incentive payments</header>
+				<subsection id="H7F774FF7A9BE4018B1A820D4DC3A5ED3">
+          <enum>(a)</enum>
+          <header>Voluntary
+			 separation incentive payments</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> may provide
+			 voluntary separation incentive payments to employees of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> who
+			 voluntarily separate from service before October 1, 2016 (including payments to
+			 employees who retire under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8336/d/2">section <external-xref legal-doc="usc" parsable-cite="usc/5/8336">8336(d)(2)</external-xref>
+            </cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8414/b/1/B">
+              <external-xref legal-doc="usc" parsable-cite="usc/5/8414">8414(b)(1)(B)</external-xref> of title 5,
+			 United States Code</cato:entity-ref>, before October 1, 2016), which may not exceed the maximum
+			 amount provided under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/3523/b/3/B">
+              <external-xref legal-doc="usc" parsable-cite="usc/5/3523">section 3523(b)(3)(B)</external-xref> of title 5, United States Code</cato:entity-ref>, for
+			 any employee.</text>
+				</subsection>
+        <subsection id="H34195F068E434004924EC6F8B40DE76F">
+          <enum>(b)</enum>
+          <header>Additional
+			 service credit</header>
+					<paragraph id="H70103C0202C340EE9E2B96938C5E6EA0">
+            <enum>(1)</enum>
+            <header>Civil Service
+			 Retirement System</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8332">
+                <external-xref legal-doc="usc" parsable-cite="usc/5/8332">Section 8332</external-xref> of title 5, United States Code</cato:entity-ref>, is
+			 amended by adding at the end the following:</text>
+						<quoted-block id="H100C7A82F5404036BEA287AC9DA83E1E" style="OLC">
+							<subsection id="HDC34214A027F4DC4ABF6D9E551570E06">
+                <enum>(p)</enum>
+                <paragraph commented="no" display-inline="yes-display-inline" id="HC5A34287BFA341E4A545CF2AEB2DFCC8">
+                  <enum>(1)</enum>
+                  <subparagraph commented="no" display-inline="yes-display-inline" id="H4F1B30B8D5DA4D87911461AAB37D070B">
+                    <enum>(A)</enum>
+                    <text>For an employee of the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref> who is covered under this subchapter and
+				voluntarily separates from service before October 1, 2016, the Office, if so
+				directed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref>, shall add not more than 1 year to
+				the total creditable service of the employee for purposes of determining
+				entitlement to and computing the amount of an annuity under this subchapter
+				(except for a disability annuity under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8337">section 8337</cato:entity-ref>).</text>
+									</subparagraph>
+                  <subparagraph id="H987B1598862648F490DDF0D822E408B5" indent="up2">
+                    <enum>(B)</enum>
+                    <text>An employee who receives additional
+				creditable service under this paragraph may not receive a voluntary separation
+				incentive payment from the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref>.</text>
+									</subparagraph>
+                </paragraph>
+                <paragraph id="HEA5B2080A50840E2B4F0442E8289E3F8" indent="up1">
+                  <enum>(2)</enum>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref>
+				shall ensure that the average actuarial present value of the additional
+				liability of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref> to the Fund resulting from
+				additional creditable service provided under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8332/p/1" proposed="true">paragraph (1)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8411/m/1" proposed="true">section
+				8411(m)(1)</cato:entity-ref> is not more than $25,000 per employee provided additional creditable
+				service under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8332/p/1" proposed="true">paragraph (1)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8411/m/1" proposed="true">section 8411(m)(1)</cato:entity-ref>.</text>
+								</paragraph>
+                <paragraph id="H3E766A0608F046B787E5EEF7659F1D04" indent="up1">
+                  <enum>(3)</enum>
+                  <subparagraph commented="no" display-inline="yes-display-inline" id="H3FE30AAB516648BA8C1C4B7D4A8725BB">
+                    <enum>(A)</enum>
+                    <text>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8332/p/3/B" proposed="true">subparagraph
+				(B)</cato:entity-ref>, and notwithstanding any other provision of law, no deduction, deposit, or
+				contribution shall be required for service credited under this
+				subsection.</text>
+									</subparagraph>
+                  <subparagraph id="H9E4B0EDD37114D9CA0073ED90223F452" indent="up1">
+                    <enum>(B)</enum>
+                    <text>The actuarial present value of the
+				additional liability of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref> to the Fund resulting
+				from this subsection shall be included in the amount calculated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8348/h/1/A">section
+				8348(h)(1)(A)</cato:entity-ref>.</text>
+									</subparagraph>
+                </paragraph>
+              </subsection>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+          <paragraph id="H6AF7C58A892445ED98C9AFB032F422CD">
+            <enum>(2)</enum>
+            <header>Federal
+			 Employees Retirement System</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8411">
+                <external-xref legal-doc="usc" parsable-cite="usc/5/8411">Section 8411</external-xref> of title 5, United
+			 States Code</cato:entity-ref>, is amended by adding at the end the following:</text>
+						<quoted-block id="HF32B45DF6EB24D8AA65E65D0007AB14D" style="OLC">
+							<subsection id="H15C866284B3A4775A4967E698F7F6F6F">
+                <enum>(m)</enum>
+                <paragraph commented="no" display-inline="yes-display-inline" id="H671124B4DE744FFCB569C26344EA3E55">
+                  <enum>(1)</enum>
+                  <subparagraph commented="no" display-inline="yes-display-inline" id="H34155602A652402FAE25D14C1FB106BF">
+                    <enum>(A)</enum>
+                    <text>For an employee of the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref> who is covered under this chapter and voluntarily
+				separates from service before October 1, 2016, the Office, if so directed by
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref>, shall add not more than 2 years to the total
+				creditable service of the employee for purposes of determining entitlement to
+				and computing the amount of an annuity under this chapter (except for a
+				disability annuity under subchapter V of that chapter).</text>
+									</subparagraph>
+                  <subparagraph id="HB001B4FFA6AD4DC2B36B9BFAEA5059C0" indent="up2">
+                    <enum>(B)</enum>
+                    <text>An employee who receives additional
+				creditable service under this paragraph may not receive a voluntary separation
+				incentive payment from the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref>.</text>
+									</subparagraph>
+                </paragraph>
+                <paragraph id="HC04FC3844D5342EFB21DF55780D523CD" indent="up1">
+                  <enum>(2)</enum>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref>
+				shall ensure that the average actuarial present value of the additional
+				liability of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref> to the Fund resulting from
+				additional creditable service provided under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8411/m/1" proposed="true">paragraph (1)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8332/p/1" proposed="true">section
+				8332(p)(1)</cato:entity-ref> is not more than $25,000 per employee provided additional creditable
+				service under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8411/m/1" proposed="true">paragraph (1)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8332/p/1" proposed="true">section 8332(p)(1)</cato:entity-ref>.</text>
+								</paragraph>
+                <paragraph id="H8302EB90FB144A0ABA7049B4061D175C" indent="up1">
+                  <enum>(3)</enum>
+                  <subparagraph commented="no" display-inline="yes-display-inline" id="H90F8ED546DA843009B6E04BEED6388AE">
+                    <enum>(A)</enum>
+                    <text>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8332/p/3/B" proposed="true">subparagraph
+				(B)</cato:entity-ref>, and notwithstanding any other provision of law, no deduction, deposit, or
+				contribution shall be required for service credited under this
+				subsection.</text>
+									</subparagraph>
+                  <subparagraph id="H8CAF9E18352F4447ABC1185517E79EE9" indent="up1">
+                    <enum>(B)</enum>
+                    <text>The actuarial present value of the
+				additional liability of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref> to the Fund resulting
+				from this subsection shall be included in the amount calculated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8423/b/1/B">section
+				8423(b)(1)(B)</cato:entity-ref>.</text>
+									</subparagraph>
+                </paragraph>
+              </subsection>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="HB7D65C62BB134B95A45FC762B7ED2098">
+          <enum>(c)</enum>
+          <header>Goals</header>
+					<paragraph id="H40CC1EBF122C4DAEBE35A1F0E120D999">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> shall offer incentives for voluntary
+			 separation under this section and the amendments made by this section as a
+			 means of ensuring that the size and cost of the workforce of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref>
+			 is appropriate to the work required of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref>, including
+			 consideration of—</text>
+						<subparagraph id="H9AA3107B77134AAB8460CB418BD88563">
+              <enum>(A)</enum>
+              <text>the closure and
+			 consolidation of postal facilities;</text>
+						</subparagraph>
+            <subparagraph id="H5480DA5087D84E59B73A7711A19801AC">
+              <enum>(B)</enum>
+              <text>the ability to
+			 operate existing postal facilities more efficiently, including by reducing the
+			 size or scope of operations of postal facilities in lieu of closing postal
+			 facilities; and</text>
+						</subparagraph>
+            <subparagraph id="H28E41BACA30648C4A9EA6467336C26AD">
+              <enum>(C)</enum>
+              <text>the number of
+			 employees eligible, or projected in the near-term to be eligible, for
+			 retirement, including early retirement.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="HF2F8CA9D5C674B8993EA955DB16D56DA">
+            <enum>(2)</enum>
+            <header>Definition</header>
+            <text>In
+			 this subsection, the term <quote>career employee of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref>
+              </quote>
+			 means an employee of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref>—</text>
+						<subparagraph id="H6D5C782E134643898FDD92B835D36544">
+              <enum>(A)</enum>
+              <text>whose appointment
+			 is not for a limited period; and</text>
+						</subparagraph>
+            <subparagraph id="HFA3F948BCF4A45A69CC312D5204CD52C">
+              <enum>(B)</enum>
+              <text>who is eligible
+			 for benefits, including retirement coverage under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/83">chapter 83</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/84">84 of title 5,
+			 United States Code</cato:entity-ref>.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+      </section>
+      <section id="H6184574E0A3042FDB27936E1C35692FA">
+        <enum>206.</enum>
+        <header>Modification of
+			 prepayment schedule relating to Postal Service Retiree Health Benefits
+			 Fund</header>
+				<subsection id="H5F22C09B38304996B9FF19272D0E3A93">
+          <enum>(a)</enum>
+          <header>Contributions</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8906/g/2/A">Section
+			 8906(g)(2)(A) of title 5, United States Code</cato:entity-ref>, is amended by striking
+			 <quote>through September 30, 2016, be paid by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref>,
+			 and thereafter shall</quote> and inserting <quote>after the date of enactment
+			 of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Innovate to Deliver Act of 2013" proposed="true">Innovate to Deliver Act of 2013</cato:entity-ref>
+            </quote>.</text>
+				</subsection>
+        <subsection id="HC494562139794FA09634F87134207842">
+          <enum>(b)</enum>
+          <header>Postal Service
+			 Retiree Health Benefits Fund</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8909a/d">
+              <external-xref legal-doc="usc" parsable-cite="usc/5/8909a">Section 8909a(d)</external-xref> of title 5, United
+			 States Code</cato:entity-ref>, is amended—</text>
+					<paragraph id="H7BEF6A5244DB4F76B962681253727D22">
+            <enum>(1)</enum>
+            <text>by striking
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8909a/d/2">paragraph (2)</cato:entity-ref> and inserting the following:</text>
+						<quoted-block id="H468B218B97734D80BA063B11B150DEDF" style="OLC">
+							<paragraph id="H2753573385B84CD490DFA7C39FE0992E" indent="up1">
+                <enum>(2)</enum>
+                <subparagraph commented="no" display-inline="yes-display-inline" id="H58E3882A9C0B46DD9C2840F94AA0B1C2">
+                  <enum>(A)</enum>
+                  <text>Not later than 180 days
+				after the date of enactment of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Innovate to Deliver Act of 2013" proposed="true">Innovate to Deliver Act of 2013</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2400">Office</cato:entity-ref>
+				shall compute, and by June 30 of each succeeding year, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2400">Office</cato:entity-ref> shall
+				recompute, a schedule including a series of annual installments which provide
+				for the liquidation of the amount described under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8909a/d/2/B" proposed="true">subparagraph (B)</cato:entity-ref> (regardless
+				of whether the amount is a liability or surplus) by September 30, 2053, or
+				within 15 years, whichever is later, including interest at the rate used in the
+				computations under this subsection.</text>
+								</subparagraph>
+                <subparagraph id="H22E4F3BD4CC249D58E482290EBE871B3" indent="up1">
+                  <enum>(B)</enum>
+                  <text>The amount described in this
+				subparagraph is the amount, as of the date on which the applicable computation
+				or recomputation under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8909a/d/2/A" proposed="true">subparagraph (A)</cato:entity-ref> is made, that is equal to the
+				difference between—</text>
+									<clause id="HA4F18AE6B44A45709E72D27F711CFA00">
+                    <enum>(i)</enum>
+                    <text>80 percent of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref>
+				actuarial liability as of September 30 of the most recently ended fiscal year;
+				and</text>
+									</clause>
+                  <clause id="HDE7A8219D04F4E6C85B4BB3273DB532A">
+                    <enum>(ii)</enum>
+                    <text>the value of the assets of the Postal
+				Retiree Health Benefits Fund as of September 30 of the most recently ended
+				fiscal
+				year.</text>
+									</clause>
+                </subparagraph>
+              </paragraph>
+              <after-quoted-block>;</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+          <paragraph id="H066BD0D6D2EC4F62A9ED953EFDCD77B5">
+            <enum>(2)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8909a/d/3">paragraph
+			 (3)</cato:entity-ref>—</text>
+						<subparagraph id="HA195C11609284114A6D643799B59ED0E">
+              <enum>(A)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8909a/d/3/A">subparagraph
+			 (A)</cato:entity-ref>—</text>
+							<clause id="H707DB4560EF842D288528E09C0E22E34">
+                <enum>(i)</enum>
+                <text>in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8909a/d/3/A/iii">clause (iii)</cato:entity-ref>, by adding <quote>and</quote> at the end;</text>
+							</clause>
+              <clause id="H3B1C76269396484F85B36828212600E3">
+                <enum>(ii)</enum>
+                <text>in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8909a/d/3/A/iv">clause (iv)</cato:entity-ref>, by striking the semicolon at the end and inserting a period;
+			 and</text>
+							</clause>
+              <clause id="H92AB4B20A39342EAB576E3B6CF11005E">
+                <enum>(iii)</enum>
+                <text>by
+			 striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8909a/d/3/A/v..x">clauses (v) through (x)</cato:entity-ref>; and</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="HD7BD3DB87D7E4837A3A26236A37380E8">
+              <enum>(B)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8909a/d/3/B">subparagraph
+			 (B)</cato:entity-ref>, by striking <quote>2017</quote> and inserting <quote>2016</quote>;</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="H88925DFC72FB46DDAAC7B55CB325FC4C">
+            <enum>(3)</enum>
+            <text>by striking
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8909a/d/4">paragraph (4)</cato:entity-ref> and inserting the following:</text>
+						<quoted-block id="HC9BB2B3B758F41A0B43FD616D02F6A74" style="OLC">
+							<paragraph id="HB2FC2577A727418DB98C021445C53B8F" indent="up1">
+                <enum>(4)</enum>
+                <text>Computations under this subsection
+				shall be based on—</text>
+								<subparagraph id="HFE79FEF67D8545808C018FD58D23ACFB">
+                  <enum>(A)</enum>
+                  <text>economic and actuarial methods and
+				assumptions consistent with the methods and assumptions used in determining the
+				Postal surplus or supplemental liability under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8348/h">section 8348(h)</cato:entity-ref>; and</text>
+								</subparagraph>
+                <subparagraph id="H254945E051DB4547A08BFB5B5CA59ECD">
+                  <enum>(B)</enum>
+                  <text>any other methods and assumptions,
+				including a health care cost trend rate, that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2400">Director of the Office</cato:entity-ref>
+				determines to be appropriate.</text>
+								</subparagraph>
+              </paragraph>
+              <after-quoted-block>;
+				and</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+          <paragraph id="H959A7C1D50224EFB80B404F704BE86FF">
+            <enum>(4)</enum>
+            <text>by adding at the
+			 end the following:</text>
+						<quoted-block id="H7B5DF64176BE472680D5C46A6AFB53C5" style="OLC">
+							<paragraph id="HCDA05D58AE1A4348957F42BE5876F592" indent="up1">
+                <enum>(7)</enum>
+                <text>In this subsection, the term
+				<quote>Postal Service actuarial liability</quote> means the difference
+				between—</text>
+								<subparagraph id="H30401B368F474DFB938C960AAAB5655B">
+                  <enum>(A)</enum>
+                  <text>the net present value of future
+				payments required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8906/g/2/A">section 8906(g)(2)(A)</cato:entity-ref> for current and future <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United
+				States Postal Service</cato:entity-ref> annuitants; and</text>
+								</subparagraph>
+                <subparagraph id="H800A53871F9C44088B6C9C9494153BD6">
+                  <enum>(B)</enum>
+                  <text>the net present value as computed
+				under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8909a/d/1">paragraph (1)</cato:entity-ref> attributable to the future service of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal
+				Service</cato:entity-ref>
+				employees.</text>
+								</subparagraph>
+              </paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="H49A7476F05FE46ABB07F678F0996789D">
+          <enum>(c)</enum>
+          <header>Unpaid
+			 obligations of the postal service</header>
+          <text>Any obligation of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal
+			 Service</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8909a/d/3/A">
+              <external-xref legal-doc="usc" parsable-cite="usc/5/8909a">section 8909a(d)(3)(A)</external-xref> of title 5, United States Code</cato:entity-ref>, as in
+			 effect on the day before the date of enactment of this Act, that remains unpaid
+			 as of such date of enactment shall be included in the recomputation requested
+			 in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8909a/d/2">section 8909a(d)(2) of such title</cato:entity-ref> (as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Innovate to Deliver Act of 2013/s:206/ss:b" proposed="true">subsection (b) of this
+			 section</cato:entity-ref>).</text>
+				</subsection>
+        <subsection id="H4AD9D51A44004F57B369829D94084BA2">
+          <enum>(d)</enum>
+          <header>Technical and
+			 conforming amendments</header>
+					<paragraph id="H0F57B10B79524BD5A1ABEFEF5F4CBFD8">
+            <enum>(1)</enum>
+            <header>Heading</header>
+            <text>The
+			 heading of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8909a">
+                <external-xref legal-doc="usc" parsable-cite="usc/5/8909a">section 8909a</external-xref> of title 5, United States Code</cato:entity-ref>, is amended by striking
+			 <quote>Benefit</quote> and inserting <quote>Benefits</quote>.</text>
+					</paragraph>
+          <paragraph id="HD6D43861FF3C477FA6EB9C316F0D9D52">
+            <enum>(2)</enum>
+            <header>Table of
+			 sections</header>
+            <text display-inline="yes-display-inline">The table of
+			 sections at the beginning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/89">chapter 89 of such title</cato:entity-ref> is amended by striking
+			 the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8909a">section 8909a</cato:entity-ref> and inserting the following:</text>
+						<quoted-block display-inline="no-display-inline" id="H62DF5625F1754DC894385B89CEA0186E" style="USC">
+							<toc regeneration="no-regeneration">
+								<toc-entry level="section">8909a. Postal Service Retiree Health
+				Benefits
+				Fund.</toc-entry>
+							</toc>
+							<after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+      </section>
+      <section id="HC2A06458E540469B941866B777E19CB6">
+        <enum>207.</enum>
+        <header>Study on USPS
+			 workforce realignment and right-sizing options</header>
+				<subsection id="HFEAF6715666D4212838C453242038DA8">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>Not later than 1 year after the date of enactment of this
+			 Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0500">Comptroller General</cato:entity-ref> shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HGO00">Committee on Oversight and
+			 Government Reform of the House of Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSGA00">Committee on Homeland
+			 Security and Governmental Affairs of the Senate</cato:entity-ref> a report on the workforce
+			 reduction or realignment methods used by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref> to
+			 align its workforce with its needs.</text>
+				</subsection>
+        <subsection id="H0F813A7E5C6C4701A3C777E550C0317A">
+          <enum>(b)</enum>
+          <header>Contents of the
+			 report</header>
+          <text>The report required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Innovate to Deliver Act of 2013/s:207/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall include the
+			 following:</text>
+					<paragraph id="H9786BBB275944D678D167D087A53A1D9">
+            <enum>(1)</enum>
+            <text display-inline="yes-display-inline">The projected workforce needs of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal
+			 Service</cato:entity-ref> over the next 5 fiscal years, given the current mail volumes and the
+			 demand for Postal services.</text>
+					</paragraph>
+          <paragraph id="HE41910B385C84BD8A66143EFB59C5458">
+            <enum>(2)</enum>
+            <text>Possible options
+			 for allowing Postal Service employees who are eligible for voluntary early
+			 retirement to deposit voluntary separation incentive payments to obtain service
+			 credit or to otherwise allow such payments to be credited in the computation of
+			 retirement annuity benefits.</text>
+					</paragraph>
+          <paragraph commented="no" id="H238F1757FB6E45889A7FCE577F7B4023">
+            <enum>(3)</enum>
+            <text display-inline="yes-display-inline">The terms and conditions for the voluntary
+			 separation incentive payments offered under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Innovate to Deliver Act of 2013/s:205" proposed="true">section 205</cato:entity-ref>.</text>
+					</paragraph>
+          <paragraph id="HDEC7CD624AC547C2A80B071C1DA80153">
+            <enum>(4)</enum>
+            <text display-inline="yes-display-inline">The number of employees in each job
+			 category and in each postal service area to whom the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> has offered
+			 an incentive for voluntary separation, the number of offers of incentives for
+			 voluntary separation that have been accepted, the number of offers of
+			 incentives for voluntary separation that remain pending, and the number of
+			 employees in each job category and in each postal service area projected to
+			 separate from service during each quarter through the end of the first quarter
+			 of 2016.</text>
+					</paragraph>
+          <paragraph commented="no" id="HC21522D03FEE47BB8FB9F29BF801D5F4">
+            <enum>(5)</enum>
+            <text display-inline="yes-display-inline">The number of employees in each job
+			 category who are covered under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/83">chapter 83</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/84">84 of title 5, United States Code</cato:entity-ref>,
+			 and who have accepted offers of incentives for voluntary separation, including
+			 the number of employees covered under each chapter who voluntarily separated
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Innovate to Deliver Act of 2013/s:205/ss:a" proposed="true">subsection (a) of section 205</cato:entity-ref> or the authority under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Innovate to Deliver Act of 2013/s:205/ss:b" proposed="true">subsection (b) of
+			 section 205</cato:entity-ref>.</text>
+					</paragraph>
+          <paragraph id="HFEB9C7EFBC7148A38425941CB700DC65">
+            <enum>(6)</enum>
+            <text display-inline="yes-display-inline">The total savings and work hour reductions
+			 by job category and postal service area that have been realized by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal
+			 Service</cato:entity-ref> as of the date of the report and that are projected to be realized
+			 during each of the next 3 years as a result of the offers of incentives for
+			 voluntary separation.</text>
+					</paragraph>
+          <paragraph id="HF800CB7075E746D2B6F451968E828DEF">
+            <enum>(7)</enum>
+            <text display-inline="yes-display-inline">The total expenditures made by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal
+			 Service</cato:entity-ref> to provide incentives for voluntary separation.</text>
+					</paragraph>
+          <paragraph id="H74C24FE44BA3443186D1541B661E7920">
+            <enum>(8)</enum>
+            <text>Any training,
+			 retraining, or hiring that may be required by the authority the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref>
+			 is granted under this Act to develop and offer for sale nonpostal products and
+			 services.</text>
+					</paragraph>
+        </subsection>
+      </section>
+      <section id="HE597D2081BD7473697B6E44E5E9BD231">
+        <enum>208.</enum>
+        <header>Applicability
+			 of provisions relating to reductions in force</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/1005">Section 1005</cato:entity-ref> is amended by adding at the end
+			 the following:</text>
+				<quoted-block id="H5A3D8ECF69504BD189A9D4162B98F007" style="OLC">
+					<subsection id="H67FB01B077374D1985AB437120E6A200">
+            <enum>(g)</enum>
+            <paragraph commented="no" display-inline="yes-display-inline" id="H6C353B6641AA4097B6E1C2C42C5C8A4C">
+              <enum>(1)</enum>
+              <text>Except as otherwise
+				provided by any collective bargaining agreement entered into under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/39/12">chapter 12</cato:entity-ref>,
+				the provisions of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/35/I">subchapter I of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/35">chapter 35</external-xref> of title 5</cato:entity-ref> and the regulations
+				implementing such subchapter, shall apply to employees of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref>
+				who hold positions that are within bargaining units under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/1202">section 1202</cato:entity-ref>.</text>
+						</paragraph>
+            <paragraph id="H8D677B39CFE04D28B3038FB42D6CE094" indent="up1">
+              <enum>(2)</enum>
+              <text>Before using the authority provided
+				in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/1005/g/1" proposed="true">paragraph (1)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> shall demonstrate to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2400">Office of
+				Personnel Management</cato:entity-ref> how it will comply with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/3502/a/4">section 3502(a)(4) of title
+				5</cato:entity-ref>.</text>
+						</paragraph>
+          </subsection>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</section>
+      <section id="H1A8F09063DBE477E91D3A652302751E7">
+        <enum>209.</enum>
+        <header>Enhanced
+			 reporting on facility network initiatives</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/d">Section 404(d)</cato:entity-ref> is amended by adding at the
+			 end the following:</text>
+				<quoted-block id="H84998B24C4394B5C9EBD1CC2BB9CEFF0" style="OLC">
+					<paragraph id="HC5B619528E504FE99E4C867CA36232CA" indent="up1">
+            <enum>(7)</enum>
+            <subparagraph commented="no" display-inline="yes-display-inline" id="H2F40269BECD0471B83408E94790C931C">
+              <enum>(A)</enum>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postmaster General</cato:entity-ref>
+				shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSGA00">Committee on Homeland Security and Governmental Affairs of
+				the Senate</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HGO00">Committee on Oversight and Government Reform of the House of
+				Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Postal Regulatory Commission</cato:entity-ref> a report that details
+				plans to close or suspend a Postal Service retail or processing facility during
+				the period to which such report pertains. The first such report shall be
+				submitted not later than 120 days after the date of enactment of this
+				paragraph. Reports shall be submitted semiannually thereafter.</text>
+						</subparagraph>
+            <subparagraph id="H3C6E800D0FE54F2D9260440D616821CF" indent="up1">
+              <enum>(B)</enum>
+              <text>Each report submitted by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal
+				Service</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/d/7/A" proposed="true">subparagraph (A)</cato:entity-ref> shall address, at a minimum—</text>
+							<clause id="H85654B70910B46198AFDC6007E22D4DB">
+                <enum>(i)</enum>
+                <text>the specific retail and processing
+				facilities the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> plans to suspend or close;</text>
+							</clause>
+              <clause id="H9C5E6218DD6847BAA894FFE0CA0749FE">
+                <enum>(ii)</enum>
+                <text>the anticipated date of suspension or
+				closure of each such facility;</text>
+							</clause>
+              <clause id="HE8978F57EA0D4A85890A3D6754443671">
+                <enum>(iii)</enum>
+                <text>the cost of continued operations at
+				the facilities for which closure is planned;</text>
+							</clause>
+              <clause id="H6C7732C70FFF4E8E96F65AF7D99FA971">
+                <enum>(iv)</enum>
+                <text>the purpose of each such suspension
+				or closure, as determined by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/d/2/A">paragraph (2)(A)</cato:entity-ref>;</text>
+							</clause>
+              <clause id="HB226FF65C4CA49C5A030926865728D4F">
+                <enum>(v)</enum>
+                <text>plans for the establishment of
+				alternative access points for retail facilities listed in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/d/7/B/i" proposed="true">clause (i)</cato:entity-ref>, including
+				the date on which each such alternative access point shall open for business
+				and the planned location of each such alternative access point;</text>
+							</clause>
+              <clause id="HDA4EB587DB054C5DB82D3762FB5F71C9">
+                <enum>(vi)</enum>
+                <text>how each facility closure conforms
+				with previously filed actions for suspension or closure;</text>
+							</clause>
+              <clause id="H5D280F20A34F48B8ADC7ACDFAA766950">
+                <enum>(vii)</enum>
+                <text>the timeline for closure or
+				suspension activities described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/d/1">paragraphs (1)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/d/3">(3)</cato:entity-ref>, and all other formal
+				closure or suspension activities planned in connection with the retail facility
+				closure;</text>
+							</clause>
+              <clause id="HACC1A89C8E824BF89B2CC94AA7BCADEB">
+                <enum>(viii)</enum>
+                <text>how work performed at mail
+				processing facilities recommended for closure or consolidation will be
+				transferred or absorbed by other facilities within the network;</text>
+							</clause>
+              <clause id="H1BA76585EF30467AAA50A63F18E5B4FE">
+                <enum>(ix)</enum>
+                <text>cost savings expected or achieved
+				from consolidation of both retail and mail processing facilities;</text>
+							</clause>
+              <clause id="H044CE20A9DA24C888DBAB91CCD71DAFF">
+                <enum>(x)</enum>
+                <text>the impact of each planned closure on
+				postal employees, including relocation or reassignment plans; and</text>
+							</clause>
+              <clause id="H6F9F8B671D7541BAA25006DE6529088A">
+                <enum>(xi)</enum>
+                <text>the status of ongoing suspensions or
+				closures identified in previous
+				reports.</text>
+							</clause>
+            </subparagraph>
+          </paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</section>
+    </title>
+    <title id="H7506122488B440F89EDA6FA6E190BE27">
+      <enum>III</enum>
+      <header>POSTAL SERVICE
+			 IMPROVEMENTS AND REGULATORY RELIEF</header>
+			<section id="HA93C0AAC901D484BA824A74E1756986D">
+        <enum>301.</enum>
+        <header>Permit appeal
+			 rights for closing of postal stations and branches</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/d">Section
+			 404(d)</cato:entity-ref> is amended by adding after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/d/7">paragraph (7)</cato:entity-ref> (as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Innovate to Deliver Act of 2013/s:208" proposed="true">section 208 of
+			 this Act</cato:entity-ref>) the following:</text>
+				<quoted-block id="HF3A16D2645764357B921B8879730B8F3" style="OLC">
+					<paragraph id="HC64FD2A8EF504BA99C62C5F434FC7AD9" indent="up1">
+            <enum>(8)</enum>
+            <text>The provisions of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/404/d/1..6">paragraphs (1)
+				through (6)</cato:entity-ref> shall apply to postal stations and branches in the same manner as
+				the provisions apply to post
+				offices.</text>
+					</paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</section>
+      <section id="H21DBDBC1BEC64E6C9C10D85D53622C0D">
+        <enum>302.</enum>
+        <header>Intra-agency
+			 cooperative agreements</header>
+				<subsection id="H18A7ED622F14428FBED6E130E592D9FF">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/411">Section 411</cato:entity-ref> is amended—</text>
+					<paragraph id="HFAF9C22A411F49278990ADB1153850D8">
+            <enum>(1)</enum>
+            <text>in the section
+			 heading, by inserting <quote>
+                <header-in-text level="section" style="USC">;
+			 authority for intra-service agreement</header-in-text>
+              </quote> after
+			 <quote>
+                <header-in-text level="section" style="USC">agencies</header-in-text>
+              </quote>;</text>
+					</paragraph>
+          <paragraph id="HF8A79830AB9242D39B2E8BBAB9B74CEA">
+            <enum>(2)</enum>
+            <text>by inserting
+			 <quote>(a)</quote> before <quote>Executive agencies within</quote>; and</text>
+					</paragraph>
+          <paragraph id="H00BB74BD1E1C4231930C876EE3645B78">
+            <enum>(3)</enum>
+            <text>by adding at the
+			 end the following:</text>
+						<quoted-block id="HFDC020BD3AB144C6922C2829FC7F2F62" style="OLC">
+							<subsection id="HDFEF17CDB886484B8FD47EE4CDFD5C25">
+                <enum>(b)</enum>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1804">Office of the
+				Inspector General of the United States Postal Service</cato:entity-ref> and other components of
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> may enter into intra-service agreements to furnish to each
+				other property, both real and personal, and personal and nonpersonal services.
+				The furnishing of property and services under this section shall be under such
+				terms and conditions, including reimbursability, as the head of the component
+				concerned and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1804">Inspector General</cato:entity-ref> shall deem
+				necessary.</text>
+							</subsection>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="HCB209B4DCD3942218A7B5A59C5BC77BB">
+          <enum>(b)</enum>
+          <header>Clerical
+			 amendment</header>
+          <text>The table of sections at the beginning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/39/4">chapter 4</cato:entity-ref> is
+			 amended by striking the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/411">section 411</cato:entity-ref> and inserting the
+			 following:</text>
+					<quoted-block id="HB4AB1EE90EFA47C294A7E5A2D07AFC29" style="OLC">
+						<toc regeneration="no-regeneration">
+							<toc-entry level="section">411. Cooperation with other Government
+				agencies; authority for intra-service
+				agreement.</toc-entry>
+						</toc>
+						<after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+      </section>
+      <section id="H45F0D656CA114F72B269DA2222DF612D">
+        <enum>303.</enum>
+        <header>Grouping of
+			 negotiated service agreements</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/d/1">Section 3622(d)(1)</cato:entity-ref> (as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Innovate to Deliver Act of 2013/s:107/ss:b" proposed="true">section
+			 107(b) of this Act</cato:entity-ref>) is further amended—</text>
+				<paragraph id="H48280D2ED686491A8B9C2F63FBD72213">
+          <enum>(1)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/d/1/E" proposed="true">subparagraph
+			 (E)</cato:entity-ref> (as so redesignated by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Innovate to Deliver Act of 2013/s:107/ss:b" proposed="true">section 107(b)</cato:entity-ref>), by striking <quote>and</quote> at
+			 the end;</text>
+				</paragraph>
+        <paragraph id="H8F7098BDF8BC42CE8B2F0AFEA4678DAF">
+          <enum>(2)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/d/1/F" proposed="true">subparagraph
+			 (F)</cato:entity-ref> (as so redesignated by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Innovate to Deliver Act of 2013/s:107/ss:b" proposed="true">section 107(b)</cato:entity-ref>), by striking the period and
+			 inserting <quote>; and</quote>; and</text>
+				</paragraph>
+        <paragraph id="H42D21CC11EB54B72B2FDDEF2D7F874F0">
+          <enum>(3)</enum>
+          <text>by adding at the
+			 end the following:</text>
+					<quoted-block id="H0CB5048CA9EB41CBA068275CA084F477" style="OLC">
+						<subparagraph id="H63F727E6044C464B91A4D77C9DB2108C">
+              <enum>(G)</enum>
+              <text>treat similar or
+				related agreements between the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> and postal users collectively as
+				a single product for purposes of this section to the extent the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Commission</cato:entity-ref>
+				deems such treatment to be consistent with policies of this
+				title.</text>
+						</subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </section>
+      <section id="HBB865AA1433945FF8D75F1FEA41846AB">
+        <enum>304.</enum>
+        <header>Simplification
+			 of process for classification of competitive products</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3642/b">Section 3642(b)</cato:entity-ref> is amended (in the matter
+			 before <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3642/b/1">paragraph (1)</cato:entity-ref>) by striking <quote>in accordance with</quote> and
+			 inserting the following: <quote>as expeditiously as practicable. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Commission</cato:entity-ref>
+			 shall promptly admit a product into the competitive category if it
+			 meets</quote>.</text>
+			</section>
+      <section id="HD4F5F22C7B1348B08E59284FA7C012D7">
+        <enum>305.</enum>
+        <header>Development of
+			 new market-dominant classes of mail</header>
+				<subsection id="H802C1B61185C4A76B44B3CD3A61A1946">
+          <enum>(a)</enum>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/102">Section 102</cato:entity-ref> is
+			 amended—</text>
+					<paragraph id="HF2DE30CA43F74DD786694BBDE5B10D61">
+            <enum>(1)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/102//9">paragraph (9)</cato:entity-ref>,
+			 by striking <quote>and</quote> at the end;</text>
+					</paragraph>
+          <paragraph id="H2F24E71193394A80A794B35ABC03C6BF">
+            <enum>(2)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/102//10">paragraph (10)</cato:entity-ref>,
+			 by striking the period and inserting <quote>; and</quote>; and</text>
+					</paragraph>
+          <paragraph id="H6650B80C600F47BEA9EA757F91B4F297">
+            <enum>(3)</enum>
+            <text>by adding at the
+			 end the following:</text>
+						<quoted-block id="HCBDE9562571F4497A0B41F11A6E6EE59" style="OLC">
+							<paragraph id="HF9627F4B81A24B8B96589F4B2175A3B1">
+                <enum>(11)</enum>
+                <text>
+                  <quote>class of
+				mail</quote> means a grouping of similar products, subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/d/2/A">section
+				3622(d)(2)(A)</cato:entity-ref>, as further defined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Postal Regulatory
+				Commission</cato:entity-ref>.</text>
+							</paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="HD7138313EAD2432BBCB6445DA8ADE345">
+          <enum>(b)</enum>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/d/2/A">Section
+			 3622(d)(2)(A)</cato:entity-ref> is amended by inserting <quote>or under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3643" proposed="true">section 3643</cato:entity-ref>
+            </quote>
+			 after <quote>Act</quote>.</text>
+				</subsection>
+        <subsection id="HC6B7305CCCEC4C6D91FA918C02B64D8C">
+          <enum>(c)</enum>
+          <paragraph commented="no" display-inline="yes-display-inline" id="H4112405AEE454888BF1FEB837886A8E5">
+            <enum>(1)</enum>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/39/36/III">Subchapter III of
+			 chapter 36</cato:entity-ref> is amended by adding at the end the following:</text>
+						<quoted-block id="H2D322A3CF64A4BB580458473F4A20669" style="OLC">
+							<section id="H3401F5E1D5D84B5E8559CFC730185E0B">
+                <enum>3643.</enum>
+                <header>New classes of
+				mail</header>
+								<subsection id="H14A0113FDDBC44CBB1C66EFAD395267A">
+                  <enum>(a)</enum>
+                  <header>In
+				general</header>
+                  <text>Upon request of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> or users of the mails,
+				or upon its own initiative, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Postal Regulatory Commission</cato:entity-ref> may change the
+				classes of mail to which the annual limitation under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/d/1">section 3622(d)(1)</cato:entity-ref> applies
+				by adding new classes of mail. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Postal Regulatory Commission</cato:entity-ref> shall, within
+				18 months after the date of enactment of this section, promulgate (and may from
+				time to time thereafter revise) regulations to carry out this section.</text>
+								</subsection>
+                <subsection id="HFF4D11D5FC944D99B22FD1FE13B87584">
+                  <enum>(b)</enum>
+                  <header>Criteria</header>
+                  <text>All
+				determinations by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Postal Regulatory Commission</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3643/a" proposed="true">subsection (a)</cato:entity-ref> shall
+				be made in accordance with the following criteria:</text>
+									<paragraph id="H60B3FEA8B74E4A4C944FC1D3A01820C2">
+                    <enum>(1)</enum>
+                    <header>New
+				market</header>
+                    <text>Dominant classes of mail shall consist of products in the
+				sale of which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> exercises sufficient market power that it can
+				effectively set the price of such product substantially above costs, raise
+				prices significantly, decrease quality, or decrease output, without risk of
+				losing a significant level of business to other firms offering similar
+				products.</text>
+									</paragraph>
+                  <paragraph id="HFC531F84EF23407BB96A0D659BB55690">
+                    <enum>(2)</enum>
+                    <header>Products covered
+				by postal monopoly</header>
+                    <text>Any new classes of mail containing any
+				products covered by the postal monopoly shall be subject to the requirements of
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3622/d/1">section 3622(d)(1)</cato:entity-ref>. For purposes of the preceding sentence, the term
+				<quote>product covered by the postal monopoly</quote> means any product the
+				conveyance or transmission of which is reserved to the United States under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1696">
+                        <external-xref legal-doc="usc" parsable-cite="usc/18/1696">section 1696</external-xref> of title 18</cato:entity-ref>, subject to the same exception as set forth in the
+				last sentence of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/409/e/1">section 409(e)(1)</cato:entity-ref>.</text>
+									</paragraph>
+                  <paragraph id="H403CBEA93CB94D7A984967A6FE0E78FB">
+                    <enum>(3)</enum>
+                    <header>Additional
+				considerations</header>
+                    <text>In making any decision under this section, due
+				regard shall be given to—</text>
+										<subparagraph id="HC91674981ABA4ED59A8829D899A372C5">
+                      <enum>(A)</enum>
+                      <text>the availability
+				and nature of enterprises in the private sector engaged in the delivery of the
+				product involved;</text>
+										</subparagraph>
+                    <subparagraph id="H69DFAB0DA37C4D138D0403E4ACF9C0EF">
+                      <enum>(B)</enum>
+                      <text>the views of those
+				who use the product involved on the appropriateness of the proposed action;
+				and</text>
+										</subparagraph>
+                    <subparagraph id="HA6635D9F65FC48CAA3BEDCDB01236C8E">
+                      <enum>(C)</enum>
+                      <text>the likely impact
+				of the proposed action on small business concerns (within the meaning of
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3641/h">section 3641(h)</cato:entity-ref>).</text>
+										</subparagraph>
+                  </paragraph>
+                </subsection>
+                <subsection id="HFF45D9B21D0B42EA988064FE7D1E8F75">
+                  <enum>(c)</enum>
+                  <header>Notification and
+				publication requirements</header>
+									<paragraph id="H68BFAFE6377D4D5ABAC448D434D10480">
+                    <enum>(1)</enum>
+                    <header>Notification
+				requirement</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal Service</cato:entity-ref> shall, whenever it requests to add
+				a new class of mail, file with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Postal Regulatory Commission</cato:entity-ref> and publish in
+				the Federal Register a notice setting out the basis for its determination that
+				the product satisfies the criteria under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3643/b" proposed="true">subsection (b)</cato:entity-ref>. The provisions of
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/504/g">section 504(g)</cato:entity-ref> shall be available with respect to any information required to
+				be filed.</text>
+									</paragraph>
+                  <paragraph id="HD41190417DBF4100AE2267B1F9D88B84">
+                    <enum>(2)</enum>
+                    <header>Publication
+				requirement</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Postal Regulatory Commission</cato:entity-ref> shall, whenever it
+				changes the list of market-dominant classes of mail, prescribe new lists of
+				classes of mail. The revised lists shall indicate how and when any previous
+				lists are superseded, and shall be published in the Federal Register.</text>
+									</paragraph>
+                </subsection>
+                <subsection id="H353AC46D5B804B4382CF8A1E9F5EAA9F">
+                  <enum>(d)</enum>
+                  <header>Prohibition</header>
+                  <text>Except
+				as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3641">section 3641</cato:entity-ref>, a class of mail that involves the physical
+				delivery of letters, printed matter, or packages may be offered by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal
+				Service</cato:entity-ref> unless it has been assigned as a new class of mail—</text>
+									<paragraph id="HEFA3B620314A4088AAFBC587CAB97973">
+                    <enum>(1)</enum>
+                    <text>under this
+				subchapter; or</text>
+									</paragraph>
+                  <paragraph id="H58AF0D8FA68447BC89329FB873496B9E">
+                    <enum>(2)</enum>
+                    <text>by or under any
+				other provision of
+				law.</text>
+									</paragraph>
+                </subsection>
+              </section>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+          <paragraph id="H3E96BAB59D28435FB5288CF9504D837D" indent="up1">
+            <enum>(2)</enum>
+            <text>The table of sections at the
+			 beginning of chapter 36 is amended by inserting after the item relating to
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3642">section 3642</cato:entity-ref> the following:</text>
+						<quoted-block id="HEFF4299FC401449EB00AAA76A6EF8E67" style="OLC">
+							<toc regeneration="no-regeneration">
+								<toc-entry level="section">3643. New classes of
+				mail.</toc-entry>
+							</toc>
+							<after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+      </section>
+      <section id="H96FD60579DF84F82943FC74B9E00D819">
+        <enum>306.</enum>
+        <header>Expedited
+			 consideration of service changes by PRC</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3661">Section 3661</cato:entity-ref> is amended—</text>
+				<paragraph id="H88DD4F0733A249A7977E1731FABD27DD">
+          <enum>(1)</enum>
+          <text>by redesignating
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3661/c">subsection (c)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3661/d" proposed="true">subsection (d)</cato:entity-ref>; and</text>
+				</paragraph>
+        <paragraph id="H333B7114F12049958C85DC9F8B9FECB0">
+          <enum>(2)</enum>
+          <text>by inserting after
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3661/b">subsection (b)</cato:entity-ref> the following:</text>
+					<quoted-block id="HA1EF90093CA44AC78D23A1E88322BF34" style="OLC">
+						<subsection id="H60AC450DE48E4D30BC41FAD655C5599F">
+              <enum>(c)</enum>
+              <text>If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">Postal
+				Service</cato:entity-ref> seeks expedited processing for time-sensitive advisory opinions, it
+				shall state such request in its proposal filed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3661/b">subsection (b)</cato:entity-ref> and the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Commission</cato:entity-ref>, to the extent practical and in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/3661/d" proposed="true">subsection (d)</cato:entity-ref>,
+				shall comply with the request for expedited
+				consideration.</text>
+						</subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </section>
+    </title>
+  </legis-body>
+</bill>
+</doc>

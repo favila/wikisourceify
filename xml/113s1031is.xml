@@ -1,0 +1,1534 @@
+<doc>
+  <docmeta id="113s1031is">
+    <bill congress="113" type="s" number="1031" version="is"/>
+    <revision size="42344" annotations="0" status="complete" id="7" commit-time="2013-08-27T16:18:48Z" committer="mbohmer" doc="113s1031is/7.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-Senate" public-private="public">
+	<metadata>
+<dublinCore>
+<title>113 S1031 IS: Family and Retirement Health Investment Act of 2013</title>
+<publisher>U.S. Senate</publisher>
+<date>2013-05-23</date>
+<format>text/xml</format>
+<language>EN</language>
+<rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>1st Session</session>
+		<legis-num>S. 1031</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20130523">May 23, 2013</action-date>
+			<action-desc>
+        <sponsor name-id="S118">Mr. Hatch</sponsor> (for himself,
+			 <cosponsor name-id="S350">Mr. Rubio</cosponsor>, <cosponsor name-id="S317">Mr.
+			 Barrasso</cosponsor>, and <cosponsor name-id="S236">Mr. Inhofe</cosponsor>)
+			 introduced the following bill; which was read twice and referred to the
+			 <committee-name committee-id="SSFI00">Committee on
+			 Finance</committee-name>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to improve
+		  access to health care through expanded health savings accounts, and for other
+		  purposes. </official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short
+			 title, etc</header>
+			<subsection id="id53B14ED9B5B1436A8FE463E4D618761A">
+        <enum>(a)</enum>
+        <header>Short
+			 title</header>
+        <text display-inline="yes-display-inline">This Act may be cited
+			 as the <quote>
+            <short-title>Family and Retirement Health
+			 Investment Act of 2013</short-title>
+          </quote>.</text>
+			</subsection>
+      <subsection id="id0F720C8CB441411DB2D4D6AA023FD14C">
+        <enum>(b)</enum>
+        <header>Amendment of
+			 1986 Code</header>
+        <text>Except as otherwise expressly provided, whenever in
+			 this Act an amendment or repeal is expressed in terms of an amendment to, or
+			 repeal of, a section or other provision, the reference shall be considered to
+			 be made to a section or other provision of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986" entity-type="act">Internal Revenue Code of
+			 1986</cato:entity-ref>.</text>
+			</subsection>
+      <subsection id="IDb3267585cf2d4afe9dafdf11711441af">
+        <enum>(c)</enum>
+        <header>Table of
+			 contents</header>
+        <text>The table of contents is as follows:</text>
+				<toc>
+					<toc-entry idref="S1" level="section">Sec. 1. Short title,
+				etc.</toc-entry>
+					<toc-entry idref="idD3B0E8A9280847B18F3C395D170DBD07" level="title">TITLE I—Provisions relating to tax-preferred health
+				accounts</toc-entry>
+					<toc-entry idref="ID5d802a72eb8e49dc8b5080c30151a8bb" level="section">Sec. 101. Allow both spouses to make catch-up contributions to
+				the same HSA account.</toc-entry>
+					<toc-entry idref="ID723846fe55ab4676a6ca93a12cde68ea" level="section">Sec. 102. Provisions relating to Medicare.</toc-entry>
+					<toc-entry idref="ID51f4d446fc4c4eeabead631494aa7fbb" level="section">Sec. 103. Individuals eligible for veterans benefits for a
+				service-connected disability.</toc-entry>
+					<toc-entry idref="id30DF1AF8CD76428B8AF672D8D16FCB6E" level="section">Sec. 104. Individuals eligible for Indian Health Service
+				assistance.</toc-entry>
+					<toc-entry idref="id3C07BF8F922D4CFCBA95A1B8E5C36646" level="section">Sec. 105. Individuals eligible for TRICARE
+				coverage.</toc-entry>
+					<toc-entry idref="IDfa06b05591ed411892db75c86914674f" level="section">Sec. 106. FSA and HRA interaction with HSAs.</toc-entry>
+					<toc-entry idref="idFAF8E20DA1AB4E5A814CA703DB19C6B6" level="section">Sec. 107. Allowance of distributions for prescription and
+				over-the-counter medicines and drugs.</toc-entry>
+					<toc-entry idref="ID81930c7cea454402bbfc78baf748b46d" level="section">Sec. 108. Purchase of health insurance from HSA
+				account.</toc-entry>
+					<toc-entry idref="ID0c31955b523949cba0a0374d73615aac" level="section">Sec. 109. Special rule for certain medical expenses incurred
+				before establishment of account.</toc-entry>
+					<toc-entry idref="IDfb3405b06f9d42c8adadc0514293cb4e" level="section">Sec. 110. Preventive care prescription drug
+				clarification.</toc-entry>
+					<toc-entry idref="id6B6E07889C694C298788B168BC338444" level="section">Sec. 111. Equivalent bankruptcy protections for health savings
+				accounts as retirement funds.</toc-entry>
+					<toc-entry idref="id1267D92289C84E448F3130A83F535D5A" level="section">Sec. 112. Administrative error correction before due date of
+				return.</toc-entry>
+					<toc-entry idref="idDB17DEEC7F95404DBFE7EC6EE3BD0A81" level="section">Sec. 113. Reauthorization of medicaid health opportunity
+				accounts.</toc-entry>
+					<toc-entry idref="H3E9F47AEDBF742DDAD1F72C1D75EBD01" level="section">Sec. 114. Members of health care sharing ministries eligible to
+				establish health savings accounts.</toc-entry>
+					<toc-entry idref="id613EE3347482469D95BE31D8DCC94944" level="section">Sec. 115. High deductible health plans renamed HSA qualified
+				plans.</toc-entry>
+					<toc-entry idref="id58CB3C8EFA2644BF805A3A9CBC9BB172" level="section">Sec. 116. Treatment of direct primary care service
+				arrangements.</toc-entry>
+					<toc-entry idref="id659B92F3ACAB476689667B7D978B4BD8" level="section">Sec. 117. High deductible health plans with HSAs treated as
+				qualified health plans.</toc-entry>
+					<toc-entry idref="id1865682A11124250A01177638AD53998" level="section">Sec. 118. Certain stand-alone HRAs not subject to prohibition
+				on annual limits.</toc-entry>
+					<toc-entry idref="id114E39F7649D4901A198978EF9EB5D7C" level="title">TITLE II—Other provisions</toc-entry>
+					<toc-entry idref="IDf2514de3f1274a8790331f1e3b1dbf49" level="section">Sec. 121. Certain exercise equipment and physical fitness
+				programs treated as medical care.</toc-entry>
+					<toc-entry idref="IDacc7969cb585404ba4c482155cc17ed7" level="section">Sec. 122. Certain nutritional and dietary supplements to be
+				treated as medical care.</toc-entry>
+					<toc-entry idref="ID39b8a109b27a4b6582631ab1aa1144d7" level="section">Sec. 123. Certain provider fees to be treated as medical
+				care.</toc-entry>
+					<toc-entry idref="idFD80FD25DC8245EDA73407BC5392A653" level="section">Sec. 124. Repeal of annual limitations on deductibles for
+				employer-sponsored plans offered in small group market.</toc-entry>
+				</toc>
+			</subsection>
+    </section>
+    <title id="idD3B0E8A9280847B18F3C395D170DBD07">
+      <enum>I</enum>
+      <header>Provisions
+			 relating to tax-preferred health accounts</header>
+			<section id="ID5d802a72eb8e49dc8b5080c30151a8bb">
+        <enum>101.</enum>
+        <header>Allow both
+			 spouses to make catch-up contributions to the same HSA account</header>
+				<subsection id="IDee69893983d5490daae71899f96506d0">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:b/p:3" entity-type="act">Paragraph (3) of section 223(b)</cato:entity-ref> is amended by adding at
+			 the end the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="id37DD39A8A26643EA803759B46F815106" style="OLC">
+						<subparagraph id="IDa8d8db9178a644c7b1badd3f99c565f0">
+              <enum>(C)</enum>
+              <header>Special rule
+				where both spouses are eligible individuals with 1
+				account</header>
+              <text>If—</text>
+							<clause id="IDada892163aff424a91b03b0c32599af4">
+                <enum>(i)</enum>
+                <text>an individual and
+				the individual's spouse have both attained age 55 before the close of the
+				taxable year, and</text>
+							</clause>
+              <clause id="ID920430c3515d41e39ba441da9b0c958e">
+                <enum>(ii)</enum>
+                <text>the spouse is
+				not an account beneficiary of a health savings account as of the close of such
+				year,</text>
+							</clause>
+              <continuation-text continuation-text-level="subparagraph">the
+				additional contribution amount shall be 200 percent of the amount otherwise
+				determined under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Internal Revenue Code of 1986/s:223/ss:b/p:3/sp:B" entity-type="act">subparagraph
+				(B)</cato:entity-ref>.</continuation-text>
+            </subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="ID09d0101ccec242408690d9febdf6fb33">
+          <enum>(b)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendment made by this section shall apply to taxable
+			 years beginning after the date of the enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section id="ID723846fe55ab4676a6ca93a12cde68ea">
+        <enum>102.</enum>
+        <header>Provisions
+			 relating to Medicare</header>
+				<subsection id="IDc246cd7ebc0846498fd7775a317b716e">
+          <enum>(a)</enum>
+          <header>Individuals
+			 over age 65 only enrolled in Medicare Part A</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:b/p:7" entity-type="act">Paragraph (7) of
+			 section 223(b)</cato:entity-ref> is amended by adding at the end the following: <quote>This
+			 paragraph shall not apply to any individual during any period for which the
+			 individual's only entitlement to such benefits is an entitlement to hospital
+			 insurance benefits under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/t:XVIII/pt:A" entity-type="act">part A of title XVIII</cato:entity-ref> of such Act pursuant to an
+			 enrollment for such hospital insurance benefits under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:226/ss:a/p:1" entity-type="act">section 226(a)(1)</cato:entity-ref> of such
+			 Act.</quote>.</text>
+				</subsection>
+        <subsection id="ID6bea18026caf4180b352e290231fbac8">
+          <enum>(b)</enum>
+          <header>Medicare
+			 beneficiaries participating in Medicare advantage MSA may contribute their own
+			 money to their MSA</header>
+					<paragraph id="idBE01315E1139423694A7EB19451E12C6">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:138/ss:b" entity-type="act">Subsection (b) of section 138</cato:entity-ref> is amended by striking
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:138/ss:b/p:2" entity-type="act">paragraph (2)</cato:entity-ref> and by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:138/ss:b/p:3" entity-type="act">paragraphs (3)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:138/ss:b/p:4" entity-type="act">(4)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:138/ss:b/p:2" entity-type="act" proposed="true">paragraphs (2)</cato:entity-ref> and
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:138/ss:b/p:3" entity-type="act" proposed="true">(3)</cato:entity-ref>, respectively.</text>
+					</paragraph>
+          <paragraph id="id4DD84704FF3B49099C5199FEF789856A">
+            <enum>(2)</enum>
+            <header>Conforming
+			 amendment</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:138/ss:c/p:4" entity-type="act">Paragraph (4) of section 138(c)</cato:entity-ref> is amended by striking
+			 <quote>and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:138/ss:c/p:2" entity-type="act">paragraph (2)</cato:entity-ref>
+              </quote>.</text>
+					</paragraph>
+        </subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="IDb569f5d8ace94890acbaa2a60ffa3a54">
+          <enum>(c)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendments made by this section shall apply to taxable
+			 years beginning after the date of the enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section id="ID51f4d446fc4c4eeabead631494aa7fbb">
+        <enum>103.</enum>
+        <header>Individuals
+			 eligible for veterans benefits for a service-connected disability</header>
+				<subsection id="IDe5516ba1a7644d908c7611150c8469d6">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:1" entity-type="act">Paragraph (1) of section 223(c)</cato:entity-ref> is amended by adding at
+			 the end the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="id1F5F64B53B9C469DA743395F0D7EE8DC" style="OLC">
+						<subparagraph id="IDbd52825a4e3f43b4bc09ba42c52ca673">
+              <enum>(C)</enum>
+              <header>Special rule
+				for individuals eligible for certain veterans benefits</header>
+              <text>For
+				purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:1/sp:A/cl:ii" entity-type="act">subparagraph (A)(ii)</cato:entity-ref>, an individual shall not be treated as covered
+				under a health plan described in such subparagraph merely because the
+				individual receives periodic hospital care or medical services for a
+				service-connected disability under any law administered by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="3600" entity-type="federal-body">Secretary of
+				Veterans Affairs</cato:entity-ref> but only if the individual is not eligible to receive such
+				care or services for any condition other than a service-connected
+				disability.</text>
+						</subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="IDf4aadcfe813a4d64afa66bb0b014ad83">
+          <enum>(b)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendment made by this section shall apply to taxable
+			 years beginning after the date of the enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section commented="no" display-inline="no-display-inline" id="id30DF1AF8CD76428B8AF672D8D16FCB6E">
+        <enum>104.</enum>
+        <header>Individuals
+			 eligible for Indian Health Service assistance</header>
+				<subsection commented="no" display-inline="no-display-inline" id="idEB66ED60B0E844FDB3EFA9C47E6E99BE">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:1" entity-type="act">Paragraph (1) of section 223(c)</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Family and Retirement Health Investment Act of 2013/s:103" entity-type="act">section
+			 103</cato:entity-ref>, is amended by adding at the end the following new subparagraph:</text>
+					<quoted-block act-name="" id="id633125821D804C0B8521AE4ADE28DD89" style="OLC">
+						<subparagraph id="id47199CF0872C40F8B1C028DDE99F8664">
+              <enum>(D)</enum>
+              <header>Special rule
+				for individuals eligible for assistance under Indian Health Service
+				programs</header>
+              <text>For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:1/sp:A/cl:ii" entity-type="act">subparagraph (A)(ii)</cato:entity-ref>, an individual
+				shall not be treated as covered under a health plan described in such
+				subparagraph merely because the individual receives hospital care or medical
+				services under a medical care program of the Indian Health Service or of a
+				tribal
+				organization.</text>
+						</subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="idB98096975524446982E3F9CC82FAB50F">
+          <enum>(b)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendment made by this section shall apply to taxable
+			 years beginning after the date of the enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section commented="no" display-inline="no-display-inline" id="id3C07BF8F922D4CFCBA95A1B8E5C36646">
+        <enum>105.</enum>
+        <header>Individuals
+			 eligible for TRICARE coverage</header>
+				<subsection commented="no" display-inline="no-display-inline" id="id48CEBF137BCA42C8A5B16C90E2FE7AAE">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:1" entity-type="act">Paragraph (1) of section 223(c)</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Family and Retirement Health Investment Act of 2013/s:103" proposed="true">sections
+			 103</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Family and Retirement Health Investment Act of 2013/s:104" proposed="true">104</cato:entity-ref>, is amended by adding at the end the following new
+			 subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="id0AB559FA84994F158D431F3A578BCE00" style="OLC">
+						<subparagraph commented="no" display-inline="no-display-inline" id="idBA50939C5C9A43428647F795AAAB41C3">
+              <enum>(E)</enum>
+              <header>Special rule
+				for individuals eligible for assistance under tricare</header>
+              <text>For
+				purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:1/sp:A/cl:ii" entity-type="act">subparagraph (A)(ii)</cato:entity-ref>, an individual shall not be treated as covered
+				under a health plan described in such subparagraph merely because the
+				individual is eligible to receive hospital care, medical services, or
+				prescription drugs under TRICARE Extra or TRICARE Standard and such individual
+				is not enrolled in TRICARE
+				Prime.</text>
+						</subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="id42CB1D7CE5B54A55AC9A1674F78C620F">
+          <enum>(b)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendment made by this section shall apply to taxable
+			 years beginning after the date of the enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section id="IDfa06b05591ed411892db75c86914674f">
+        <enum>106.</enum>
+        <header>FSA and HRA
+			 interaction with HSAs</header>
+				<subsection id="IDcd7a0f30fd674a8bb7fe3076043a1f14">
+          <enum>(a)</enum>
+          <header>Eligible
+			 individuals include FSA and HRA participants</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:1/sp:B" entity-type="act">Subparagraph (B) of
+			 section 223(c)(1)</cato:entity-ref> is amended—</text>
+					<paragraph id="id0FEB9024EF4940D5898D3323CFFC9E69">
+            <enum>(1)</enum>
+            <text>by striking
+			 <quote>and</quote> at the end of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:1/sp:B/cl:ii" entity-type="act">clause (ii)</cato:entity-ref>,</text>
+					</paragraph>
+          <paragraph id="id751582B050014168A3C7F0336625B000">
+            <enum>(2)</enum>
+            <text>by striking the
+			 period at the end of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:1/sp:B/cl:iii" entity-type="act">clause (iii)</cato:entity-ref> and inserting <quote>, and</quote>,
+			 and</text>
+					</paragraph>
+          <paragraph commented="no" display-inline="no-display-inline" id="idAA9ACA2536254FA9BF14CBC14BC2D992">
+            <enum>(3)</enum>
+            <text>by inserting
+			 after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:1/sp:B/cl:iii" entity-type="act">clause (iii)</cato:entity-ref> the following new clause:</text>
+						<quoted-block display-inline="no-display-inline" id="idD4D1F50724254C66AFA0108FFE7982B6" style="OLC">
+							<clause id="IDf43f64f713d7490d86183baf505149da">
+                <enum>(iv)</enum>
+                <text>coverage under a
+				health flexible spending arrangement or a health reimbursement arrangement in
+				the plan year a qualified HSA distribution as described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:e" entity-type="act">section 106(e)</cato:entity-ref> is
+				made on behalf of the individual if after the qualified HSA distribution is
+				made and for the remaining duration of the plan year, the coverage provided
+				under the health flexible spending arrangement or health reimbursement
+				arrangement is converted to—</text>
+								<subclause id="IDda2cb2d0745b4c46b2ae9c7173dcc750">
+                  <enum>(I)</enum>
+                  <text>coverage that
+				does not pay or reimburse any medical expense incurred before the minimum
+				annual deductible under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:2/sp:A/cl:i" entity-type="act">paragraph (2)(A)(i)</cato:entity-ref> (prorated for the period occurring
+				after the qualified HSA distribution is made) is satisfied,</text>
+								</subclause>
+                <subclause id="ID841d3b0ac59f4bfc8c65cccec5c7e826">
+                  <enum>(II)</enum>
+                  <text>coverage that,
+				after the qualified HSA distribution is made, does not pay or reimburse any
+				medical expense incurred after the qualified HSA distribution is made other
+				than preventive care as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:2/sp:C" entity-type="act">paragraph (2)(C)</cato:entity-ref>,</text>
+								</subclause>
+                <subclause id="ID8323a7609b014fff9f17cfed47646720">
+                  <enum>(III)</enum>
+                  <text>coverage that,
+				after the qualified HSA distribution is made, pays or reimburses benefits for
+				coverage described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:2/sp:B/cl:ii" entity-type="act">clause (ii)</cato:entity-ref> (but not through insurance or for long-term
+				care services),</text>
+								</subclause>
+                <subclause id="IDa6710b062ba54e9abb4f9b61d0f87adc">
+                  <enum>(IV)</enum>
+                  <text>coverage that,
+				after the qualified HSA distribution is made, pays or reimburses benefits for
+				permitted insurance or coverage described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:223/ss:c/p:2/sp:B/cl:ii">clause (ii)</cato:entity-ref> (but not for long-term
+				care services),</text>
+								</subclause>
+                <subclause id="IDbbace8fc568343568660e1dae77e55a8">
+                  <enum>(V)</enum>
+                  <text>coverage that,
+				after the qualified HSA distribution is made, pays or reimburses only those
+				medical expenses incurred after an individual’s retirement (and no expenses
+				incurred before retirement), or</text>
+								</subclause>
+                <subclause id="IDe1d63918b6d54b6b8fcdb3058c43b1ba">
+                  <enum>(VI)</enum>
+                  <text>coverage that,
+				after the qualified HSA distribution is made, is suspended, pursuant to an
+				election made on or before the date the individual elects a qualified HSA
+				distribution or, if later, on the date of the individual enrolls in a high
+				deductible health plan, that does not pay or reimburse, at any time, any
+				medical expense incurred during the suspension period except as defined in the
+				preceding subclauses of this
+				clause.</text>
+								</subclause>
+              </clause>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="IDfea0df8298144e8eabe50e839ebde3b9">
+          <enum>(b)</enum>
+          <header>Qualified HSA
+			 distribution shall not affect flexible spending
+			 arrangement</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:e/p:1" entity-type="act">Paragraph (1) of section 106(e)</cato:entity-ref> is amended to read as
+			 follows:</text>
+					<quoted-block display-inline="no-display-inline" id="idFCA0264E12564510B549E632E8052BCC" style="OLC">
+						<paragraph id="ID990a8c04ce9e4d09ab161962643e3a5b">
+              <enum>(1)</enum>
+              <header>In
+				general</header>
+              <text>A plan shall not fail to be treated as a health flexible
+				spending arrangement under this section, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:105" entity-type="act">section 105</cato:entity-ref>, or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:125" entity-type="act">section 125</cato:entity-ref>, or as a
+				health reimbursement arrangement under this section or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:125" entity-type="act">section 105</cato:entity-ref>, merely
+				because such plan provides for a qualified HSA
+				distribution.</text>
+						</paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="ID358b9fb30de649d5afc7a8080d52b801">
+          <enum>(c)</enum>
+          <header>FSA balances at
+			 year end shall not forfeit</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:125/ss:d/p:2" entity-type="act">Paragraph (2) of section 125(d)</cato:entity-ref> is
+			 amended by adding at the end the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="idC0B8626593CE4C748B69545C71649D02" style="OLC">
+						<subparagraph id="ID3ebd346b403d4c9b8b0ed85577dfc49c">
+              <enum>(E)</enum>
+              <header>Exception for
+				qualified HSA distributions</header>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:125/ss:d/p:2/sp:A" entity-type="act">Subparagraph (A)</cato:entity-ref> shall not apply to
+				the extent that there is an amount remaining in a health flexible spending
+				account at the end of a plan year that an individual elects to contribute to a
+				health savings account pursuant to a qualified HSA distribution (as defined in
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:e/p:2" entity-type="act" proposed="true">section
+				106(e)(2)</cato:entity-ref>).</text>
+						</subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="id78681CAB510C44E491836CECE439CB7A">
+          <enum>(d)</enum>
+          <header>Simplification
+			 of limitations on FSA and HRA rollovers</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:e/p:2" entity-type="act">Paragraph (2) of section
+			 106(e)</cato:entity-ref> is amended to read as follows:</text>
+					<quoted-block act-name="" display-inline="no-display-inline" id="idE10A9EDE94D54A2A95190F99111F7ECC" style="OLC">
+						<paragraph id="id01EE5CC5914848F8B6F2D1D6022A0D4C">
+              <enum>(2)</enum>
+              <header>Qualified HSA
+				distribution</header>
+							<subparagraph id="idCA3C672726CE44A6AC348EE1E11C7581">
+                <enum>(A)</enum>
+                <header>In
+				general</header>
+                <text>The term <term>qualified HSA distribution</term> means a
+				distribution from a health flexible spending arrangement or health
+				reimbursement arrangement to the extent that such distribution does not exceed
+				the lesser of—</text>
+								<clause id="idC6E4F6B051DB4FBBB4A524E5E3734BD6">
+                  <enum>(i)</enum>
+                  <text>the balance in
+				such arrangement as of the date of such distribution, or</text>
+								</clause>
+                <clause id="id495D56AEFAB148FDBAD584B61C39E818">
+                  <enum>(ii)</enum>
+                  <text>the amount
+				determined under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Family and Retirement Health Investment Act of 2013/s:106/ss:e/p:2/sp:B" entity-type="act">subparagraph (B)</cato:entity-ref>.</text>
+								</clause>
+                <continuation-text continuation-text-level="subparagraph">Such
+				term shall not include more than 1 distribution with respect to any
+				arrangement.</continuation-text>
+              </subparagraph>
+              <subparagraph id="idF1B4BA45FBA14181A2A3BE2C7BF2EC44">
+                <enum>(B)</enum>
+                <header>Dollar
+				limitations</header>
+								<clause id="id859137558BA74BDFB8382B43220AFB18">
+                  <enum>(i)</enum>
+                  <header>Distributions
+				from a health flexible spending arrangement</header>
+                  <text>A qualified HSA
+				distribution from a health flexible spending arrangement shall not exceed the
+				applicable amount.</text>
+								</clause>
+                <clause id="id9DD91579C13246D8950ADEAC6D353C6F">
+                  <enum>(ii)</enum>
+                  <header>Distributions
+				from a health reimbursement arrangement</header>
+                  <text>A qualified HSA
+				distribution from a health reimbursement arrangement shall not exceed—</text>
+									<subclause id="id4A21264117A749B596B1FC91115F36A8">
+                    <enum>(I)</enum>
+                    <text>the applicable
+				amount divided by 12, multiplied by</text>
+									</subclause>
+                  <subclause id="id7606ABC29F994BD1A2274D65C4807674">
+                    <enum>(II)</enum>
+                    <text>the number of
+				months during which the individual is a participant in the health reimbursement
+				arrangement.</text>
+									</subclause>
+                </clause>
+                <clause id="id77F38646BD4A4F4D9257B871606544EF">
+                  <enum>(iii)</enum>
+                  <header>Applicable
+				amount</header>
+                  <text>For purposes of this subparagraph, the applicable amount
+				is—</text>
+									<subclause id="id3B7B729173A34E168060DFA574D52F31">
+                    <enum>(I)</enum>
+                    <text>$2,250 in the
+				case of an eligible individual who has self-only coverage under a high
+				deductible health plan at the time of such distribution, and</text>
+									</subclause>
+                  <subclause commented="no" display-inline="no-display-inline" id="id6EEFE59D82734A3FB554C62B411DD25E">
+                    <enum>(II)</enum>
+                    <text>$4,500 in the
+				case of an eligible individual who has family coverage under a high deductible
+				health plan at the time of such
+				distribution.</text>
+									</subclause>
+                </clause>
+              </subparagraph>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="id2CA306A031AC4F48BF1AC801A51EF421">
+          <enum>(e)</enum>
+          <header>Elimination of
+			 additional tax for failure To maintain high deductible health plan
+			 coverage</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:e" entity-type="act">Subsection (e) of section 106</cato:entity-ref> is amended—</text>
+					<paragraph id="id2CA7802FDAA047379BC5E3B2BA20BC3A">
+            <enum>(1)</enum>
+            <text>by striking
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:e/p:3" entity-type="act">paragraph (3)</cato:entity-ref> and redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:e/p:4" entity-type="act">paragraphs (4)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:e/p:5" entity-type="act">(5)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:e/p:3" entity-type="act" proposed="true">paragraphs (3)</cato:entity-ref> and
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:e/p:4" entity-type="act" proposed="true">(4)</cato:entity-ref>, respectively, and</text>
+					</paragraph>
+          <paragraph id="id3026C916D02D40E896CAA8DB7564F208">
+            <enum>(2)</enum>
+            <text>by striking
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:e/p:3/sp:A" entity-type="act">subparagraph (A) of paragraph (3</cato:entity-ref>), as so redesignated, and redesignating
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:e/p:3/sp:B" entity-type="act">subparagraphs (B)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:e/p:3/sp:C" entity-type="act">(C)</cato:entity-ref> of such paragraph as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:e/p:3/sp:A" entity-type="act" proposed="true">subparagraphs (A)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:e/p:3/sp:B" entity-type="act" proposed="true">(B)</cato:entity-ref>
+			 thereof, respectively.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="ID3c4b41723aeb404588ff34f1b7c9b722">
+          <enum>(f)</enum>
+          <header>Limited purpose
+			 FSAs and HRAs</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:e" entity-type="act">Subsection (e) of section 106</cato:entity-ref>, as amended by this
+			 section, is amended by adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="id63FCB58F1E9C495BB130DB233E5B155D" style="OLC">
+						<paragraph id="IDb51e2ef8f0d447f2b3f8b65e969b524f">
+              <enum>(5)</enum>
+              <header>Limited purpose
+				FSAs and HRAs</header>
+              <text>A plan shall not fail to be a health flexible
+				spending arrangement or health reimbursement arrangement under this section or
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:105" entity-type="act">section 105</cato:entity-ref> merely because the plan converts coverage for individuals who
+				enroll in a high deductible health plan described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:2" entity-type="act">section 223(c)(2)</cato:entity-ref> to
+				coverage described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:1/sp:B/cl:iv" entity-type="act" proposed="true">section 223(c)(1)(B)(iv)</cato:entity-ref>. Coverage for such individuals
+				may be converted as of the date of enrollment in the high deductible health
+				plan, without regard to the period of coverage under the health flexible
+				spending arrangement or health reimbursement arrangement, and without requiring
+				any change in coverage to individuals who do not enroll in a high deductible
+				health
+				plan.</text>
+						</paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="idA7FF53FB59E148AA9CE7AD0CD4E5459A">
+          <enum>(g)</enum>
+          <header>Distribution
+			 amounts adjusted for cost-of-Living</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:e" entity-type="act">Subsection (e) of section
+			 106</cato:entity-ref>, as amended by this section, is amended by adding at the end the following
+			 new paragraph:</text>
+					<quoted-block act-name="" id="id344178067BC34D64B201328EC1DD9D3A" style="OLC">
+						<paragraph id="id13DAA3F1FFEE4899880BB3168C34F48A">
+              <enum>(6)</enum>
+              <header>Cost-of-living
+				adjustment</header>
+							<subparagraph id="id1ABE9AF3AFAF4BE487567E9F82206050">
+                <enum>(A)</enum>
+                <header>In
+				general</header>
+                <text>In the case of any taxable year beginning in a calendar
+				year after 2013, each of the dollar amounts in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:e/p:2/sp:B/cl:iii" entity-type="act">paragraph (2)(B)(iii)</cato:entity-ref> shall be
+				increased by an amount equal to such dollar amount, multiplied by the
+				cost-of-living adjustment determined under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:1/ss:f/p:3" entity-type="act">section 1(f)(3)</cato:entity-ref> for the calendar
+				year in which such taxable year begins by substituting <quote>calendar year
+				2012</quote> for <quote>calendar year 1992</quote> in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:1/ss:f/p:3/sp:B" entity-type="act">subparagraph (B)</cato:entity-ref>
+				thereof.</text>
+							</subparagraph>
+              <subparagraph id="idF15FCDB9B142412FA53D0EB40E6664F3">
+                <enum>(B)</enum>
+                <header>Rounding</header>
+                <text>If
+				any increase under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:e/p:1" entity-type="act">paragraph (1)</cato:entity-ref> is not a multiple of $50, such increase shall
+				be rounded to the nearest multiple of
+				$50.</text>
+							</subparagraph>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="ID47f7ead37773458aa5c6bf5b000d9170">
+          <enum>(h)</enum>
+          <header>Disclaimer of
+			 disqualifying coverage</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:1/sp:B" entity-type="act">Subparagraph (B) of section 223(c)(1)</cato:entity-ref>, as
+			 amended by this section, is amended—</text>
+					<paragraph id="id0753309E4B4043A3B55BC4144BE0B1EB">
+            <enum>(1)</enum>
+            <text>by striking
+			 <quote>and</quote> at the end of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:1/sp:B/cl:iii" entity-type="act">clause (iii)</cato:entity-ref>,</text>
+					</paragraph>
+          <paragraph id="id8EF4F7305B84480B9439855FB787BB50">
+            <enum>(2)</enum>
+            <text>by striking the
+			 period at the end of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:1/sp:B/cl:iv" entity-type="act">clause (iv)</cato:entity-ref> and inserting <quote>, and</quote>, and</text>
+					</paragraph>
+          <paragraph id="id07DC08A639FA43EFBCE9219A835AA5EA">
+            <enum>(3)</enum>
+            <text>by inserting
+			 after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:1/sp:B/cl:iv" entity-type="act" proposed="true">clause (iv)</cato:entity-ref> the following new clause:</text>
+						<quoted-block display-inline="no-display-inline" id="id6E6D27654F824EF6A66D9C38FD2CC505" style="OLC">
+							<clause id="id6C61E3A703F245779632455BA865A9BC">
+                <enum>(v)</enum>
+                <text>any coverage
+				(including prospective coverage) under a health plan that is not a high
+				deductible health plan which is disclaimed in writing, at the time of the
+				creation or organization of the health savings account, including by execution
+				of a trust described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:d/p:1" entity-type="act">subsection (d)(1)</cato:entity-ref> through a governing instrument that
+				includes such a disclaimer, or by acceptance of an amendment to such a trust
+				that includes such a
+				disclaimer.</text>
+							</clause>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="IDbea87530dc714b7ba9f19dcfecd0e4e7">
+          <enum>(i)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendments made by this section shall apply to taxable
+			 years beginning after the date of the enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section id="idFAF8E20DA1AB4E5A814CA703DB19C6B6">
+        <enum>107.</enum>
+        <header>Allowance of
+			 distributions for prescription and over-the-counter medicines and
+			 drugs</header>
+				<subsection id="id062393601e924700a2d50c8cc61a0fca">
+          <enum>(a)</enum>
+          <header>HSAs</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:d/p:2/sp:A" entity-type="act">Section
+			 223(d)(2)(A)</cato:entity-ref> is amended by striking the last sentence thereof and inserting the
+			 following: <quote>Such term shall include an amount paid for any prescription
+			 or over-the-counter medicine or drug.</quote>.</text>
+				</subsection>
+        <subsection id="id31693a69b77a400ab18c81dbf38ccabd">
+          <enum>(b)</enum>
+          <header>Archer
+			 MSAs</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:220/ss:d/p:2/sp:A" entity-type="act">Section 220(d)(2)(A)</cato:entity-ref> is amended by striking the last
+			 sentence thereof and inserting the following: <quote>Such term shall include an
+			 amount paid for any prescription or over-the-counter medicine or
+			 drug.</quote>.</text>
+				</subsection>
+        <subsection id="id1d11ee37e11a4875ae47f33166c098a2">
+          <enum>(c)</enum>
+          <header>Health flexible
+			 spending arrangements and health reimbursement
+			 arrangements</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:f" entity-type="act">Subsection (f) of section 106</cato:entity-ref> is amended to read as
+			 follows:</text>
+					<quoted-block display-inline="no-display-inline" id="id1B91702883604E33A285306B3B660304" style="OLC">
+						<subsection id="H4562ED05C9414D99A3146D55EFE2C2CA">
+              <enum>(f)</enum>
+              <header>Reimbursements
+				for all medicines and drugs</header>
+              <text display-inline="yes-display-inline">For purposes of this section and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:105" entity-type="act">section
+				105</cato:entity-ref>, reimbursement for expenses incurred for any prescription or
+				over-the-counter medicine or drug shall be treated as a reimbursement for
+				medical
+				expenses.</text>
+						</subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="id05d7322e22094d6eaaa7144826e6293a">
+          <enum>(d)</enum>
+          <header>Effective
+			 date</header>
+					<paragraph id="iddc5f0b1c6cd14ba8b2c9218782865f53">
+            <enum>(1)</enum>
+            <header>Distributions
+			 from savings accounts</header>
+            <text>The amendments made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Family and Retirement Health Investment Act of 2013/s:107/ss:a" entity-type="act">subsections (a)</cato:entity-ref> and
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Family and Retirement Health Investment Act of 2013/s:107/ss:b" entity-type="act">(b)</cato:entity-ref> shall apply to amounts paid with respect to taxable years beginning after
+			 December 31, 2012.</text>
+					</paragraph>
+          <paragraph id="id7a1e7da9d5c742d0bc5feca0fe9d0763">
+            <enum>(2)</enum>
+            <header>Reimbursements</header>
+            <text>The
+			 amendment made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Family and Retirement Health Investment Act of 2013/s:107/ss:c" entity-type="act">subsection (c)</cato:entity-ref> shall apply to expenses incurred with respect
+			 to taxable years beginning after December 31, 2012.</text>
+					</paragraph>
+        </subsection>
+      </section>
+      <section id="ID81930c7cea454402bbfc78baf748b46d">
+        <enum>108.</enum>
+        <header>Purchase of
+			 health insurance from HSA account</header>
+				<subsection id="ID532eded869b9499a8bca767d92470ad0">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:d/p:2" entity-type="act">Paragraph (2) of section 223(d)</cato:entity-ref> is amended to read as
+			 follows:</text>
+					<quoted-block display-inline="no-display-inline" id="id56537B01A192454587BF7A0740A5B0BA" style="OLC">
+						<paragraph id="IDdd701a37175f410fa3c0b67e00f9278a">
+              <enum>(2)</enum>
+              <header>Qualified
+				medical expenses</header>
+							<subparagraph id="ID985137bb759a4141a0a5b64b643ae2f5">
+                <enum>(A)</enum>
+                <header>In
+				general</header>
+                <text>The term <term>qualified medical expenses</term> means,
+				with respect to an account beneficiary, amounts paid by such beneficiary for
+				medical care (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:213/ss:d" entity-type="act">section 213(d)</cato:entity-ref>) for any individual covered by a
+				high deductible health plan of the account beneficiary, but only to the extent
+				such amounts are not compensated for by insurance or otherwise.</text>
+							</subparagraph>
+              <subparagraph id="ID6962c733a35647be8c7fb231a4626da6">
+                <enum>(B)</enum>
+                <header>Health
+				insurance may not be purchased from account</header>
+                <text>Except as provided in
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Family and Retirement Health Investment Act of 2013/s:108/ss:a/p:2/sp:C" entity-type="act">subparagraph (C)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Family and Retirement Health Investment Act of 2013/s:108/ss:a/p:2/sp:A" entity-type="act">subparagraph (A)</cato:entity-ref> shall not apply to any payment for
+				insurance.</text>
+							</subparagraph>
+              <subparagraph id="IDf3fa0b576cdb425d8b141fdcfae2211b">
+                <enum>(C)</enum>
+                <header>Exceptions</header>
+                <text>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Family and Retirement Health Investment Act of 2013/s:108/ss:a/p:2/sp:B" entity-type="act">Subparagraph
+				(B)</cato:entity-ref> shall not apply to any expense for coverage under—</text>
+								<clause id="ID20ca5804913344b08ac1b02ccfc34da8">
+                  <enum>(i)</enum>
+                  <text>a
+				health plan during any period of continuation coverage required under any
+				Federal law,</text>
+								</clause>
+                <clause id="idA30C9BC48C0646C89B7822F774F4B0F7">
+                  <enum>(ii)</enum>
+                  <text>a qualified
+				long-term care insurance contract (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:7702B/ss:b" entity-type="act">section 7702B(b)</cato:entity-ref>),</text>
+								</clause>
+                <clause id="id951F51AA60EA46D9B50991501FAB378C">
+                  <enum>(iii)</enum>
+                  <text>a health plan
+				during any period in which the individual is receiving unemployment
+				compensation under any Federal or State law,</text>
+								</clause>
+                <clause id="id9F91BC85F2B84192B45A95D1A2A68850">
+                  <enum>(iv)</enum>
+                  <text>a high
+				deductible health plan, or</text>
+								</clause>
+                <clause id="ID28867f895ad140408a28adc063eeed45">
+                  <enum>(v)</enum>
+                  <text>any health
+				insurance under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/t:XVIII" entity-type="act">title XVIII of the Social Security Act</cato:entity-ref>, other than a Medicare
+				supplemental policy (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1882" entity-type="act">section 1882</cato:entity-ref> of such
+				Act).</text>
+								</clause>
+              </subparagraph>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="ID5c43299f781f4f11b87fce50d44e7728">
+          <enum>(b)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendment made by this section shall apply with respect
+			 to insurance purchased after the date of the enactment of this Act in taxable
+			 years beginning after such date.</text>
+				</subsection>
+      </section>
+      <section id="ID0c31955b523949cba0a0374d73615aac">
+        <enum>109.</enum>
+        <header>Special rule
+			 for certain medical expenses incurred before establishment of account</header>
+				<subsection id="id1933580C46FE4797A45BDE6020E87EF9">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:d/p:2" entity-type="act">Paragraph (2) of
+			 section 223(d)</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Family and Retirement Health Investment Act of 2013/s:108" entity-type="act">section 108</cato:entity-ref>, is amended by adding at the end the
+			 following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="idE86AA8A7BBA449D6A1AD76FD551EC331" style="OLC">
+						<subparagraph id="ID520739d53b1c45359d296508a2f8b232">
+              <enum>(D)</enum>
+              <header>Certain medical
+				expenses incurred before establishment of account treated as
+				qualified</header>
+              <text>An expense shall not fail to be treated as a qualified
+				medical expense solely because such expense was incurred before the
+				establishment of the health savings account if such expense was
+				incurred—</text>
+							<clause id="ID56a81626733b4534b1a0ee4e24c341d3">
+                <enum>(i)</enum>
+                <text>during
+				either—</text>
+								<subclause id="IDd8f27ca33f5f4348a647a86489c7a121">
+                  <enum>(I)</enum>
+                  <text>the taxable year
+				in which the health savings account was established, or</text>
+								</subclause>
+                <subclause id="ID499c36898cbd4ad5814ce4b94515a0ba">
+                  <enum>(II)</enum>
+                  <text>the preceding
+				taxable year in the case of a health savings account established after the
+				taxable year in which such expense was incurred but before the time prescribed
+				by law for filing the return for such taxable year (not including extensions
+				thereof), and</text>
+								</subclause>
+              </clause>
+              <clause id="IDabe803903ac042449f8192a0a3bb1496">
+                <enum>(ii)</enum>
+                <text>for medical care
+				of an individual during a period that such individual was covered by a high
+				deductible health plan and met the requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:/ss:c/p:1/sp:A/cl:ii" entity-type="act">subsection (c)(1)(A)(ii)</cato:entity-ref>
+				(after application of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:1/sp:B" entity-type="act">subsection
+				(c)(1)(B)</cato:entity-ref>).</text>
+							</clause>
+            </subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="id039DBCB9CF9143288F7C14ECD01EB10C">
+          <enum>(b)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendment made by this section shall apply to taxable
+			 years beginning after the date of the enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section id="IDfb3405b06f9d42c8adadc0514293cb4e">
+        <enum>110.</enum>
+        <header>Preventive
+			 care prescription drug clarification</header>
+				<subsection id="ID8103e922806643ba937dbda859478357">
+          <enum>(a)</enum>
+          <header>Clarify use of
+			 drugs in preventive care</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:2/sp:C" entity-type="act">Subparagraph (C) of section 223(c)(2)</cato:entity-ref> is
+			 amended by adding at the end the following: <quote>Preventive care shall
+			 include prescription and over-the-counter drugs and medicines which have the
+			 primary purpose of preventing the onset of, further deterioration from, or
+			 complications associated with chronic conditions, illnesses, or
+			 diseases.</quote>.</text>
+				</subsection>
+        <subsection id="ID70742958d900471b8cb337b57de99fac">
+          <enum>(b)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendment made by this section shall apply to taxable
+			 years beginning after December 31, 2003.</text>
+				</subsection>
+      </section>
+      <section id="id6B6E07889C694C298788B168BC338444" section-type="subsequent-section">
+        <enum>111.</enum>
+        <header>Equivalent
+			 bankruptcy protections for health savings accounts as retirement funds</header>
+				<subsection id="id390C1E5995D34416A415B0409EDD3A4D">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/11/522" entity-type="uscode">Section 522 of title
+			 11, United States Code</cato:entity-ref>, is amended by adding at the end the following new
+			 subsection:</text>
+					<quoted-block display-inline="no-display-inline" id="id90C6B482887645898DE25A1ACB2BBA43" style="OLC">
+						<subsection id="id2CAED9EE795E4AE8BF8C186426E11983">
+              <enum>(r)</enum>
+              <header>Treatment of
+				health savings accounts</header>
+              <text>For purposes of this section, any health
+				savings account (as described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223" entity-type="act">section 223 of the Internal Revenue Code of
+				1986</cato:entity-ref>) shall be treated in the same manner as an individual retirement account
+				described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:408" entity-type="act">section 408</cato:entity-ref> of such
+				Code.</text>
+						</subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="idB31F085EC6464360B9928FD00F82BD2A">
+          <enum>(b)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendment made by this section shall apply to cases
+			 commencing under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/11" entity-type="uscode">title 11, United States Code</cato:entity-ref>, after the date of the enactment
+			 of this Act.</text>
+				</subsection>
+      </section>
+      <section id="id1267D92289C84E448F3130A83F535D5A">
+        <enum>112.</enum>
+        <header>Administrative
+			 error correction before due date of return</header>
+				<subsection id="id710B1CD278A2438FA5C73B296014424B">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:f/p:4" entity-type="act">Paragraph (4) of section 223(f)</cato:entity-ref> is amended by adding at
+			 the end the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="id71B9A3F2550A4635B0CC871152D6C83C" style="OLC">
+						<subparagraph id="idF21DBC164F504BF2B95CD75423AF305F">
+              <enum>(D)</enum>
+              <header>Exception for
+				administrative errors corrected before due date of
+				return</header>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:f/p:4/sp:A" entity-type="act">Subparagraph (A)</cato:entity-ref> shall not apply if any payment or
+				distribution is made to correct an administrative, clerical or payroll
+				contribution error and if—</text>
+							<clause id="idC0FF85D9660A4D3382179E6EFC2D446F">
+                <enum>(i)</enum>
+                <text>such distribution
+				is received by the individual on or before the last day prescribed by law
+				(including extensions of time) for filing such individual's return for such
+				taxable year, and</text>
+							</clause>
+              <clause id="idC2D7DB83DC0E4901BD71189BE2B6582F">
+                <enum>(ii)</enum>
+                <text>such
+				distribution is accompanied by the amount of net income attributable to such
+				contribution.</text>
+							</clause>
+              <continuation-text continuation-text-level="subparagraph">Any net
+				income described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Family and Retirement Health Investment Act of 2013/s:223/ss:f/p:4/sp:D/cl:ii" entity-type="act">clause (ii)</cato:entity-ref> shall be included in the gross income of the
+				individual for the taxable year in which it is
+				received.</continuation-text>
+            </subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="idD12C34F29A594D18A7E181445876BF45">
+          <enum>(b)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendment made by this section shall take effect on the
+			 date of the enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section id="idDB17DEEC7F95404DBFE7EC6EE3BD0A81" section-type="subsequent-section">
+        <enum>113.</enum>
+        <header>Reauthorization of
+			 medicaid health opportunity accounts</header>
+				<subsection id="id91A32AA070D24B879451109B01B5E44A">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref value="Social Security Act/s:1938" entity-type="act">Section 1938 of the
+			 Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1396u-8">
+                <cato:entity-ref value="usc/42/1396u–8" entity-type="uscode">42 U.S.C. 1396u–8</cato:entity-ref>
+              </external-xref>
+            </cato:entity>) is amended—</text>
+					<paragraph id="id9637986EAD7D46ECBFC4CF433065A8ED">
+            <enum>(1)</enum>
+            <text display-inline="yes-display-inline">in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:a" entity-type="act">subsection (a)</cato:entity-ref>—</text>
+						<subparagraph id="id55770FEA98A544D5BEFC08E719F2DE85">
+              <enum>(A)</enum>
+              <text display-inline="yes-display-inline">by striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:a/p:2" entity-type="act">paragraph (2)</cato:entity-ref> and inserting the
+			 following:</text>
+							<quoted-block display-inline="no-display-inline" id="idEAEC30A0AC8948269F4BC662F79EC92B" style="OLC">
+								<paragraph id="id9CDB8CDC9F5B45F29020F2EBDDDA7941">
+                  <enum>(2)</enum>
+                  <header>Initial
+				demonstration</header>
+                  <text>The demonstration program under this section shall
+				begin on January 1, 2007. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2000" entity-type="federal-body">Secretary</cato:entity-ref> shall approve States to conduct
+				demonstration programs under this section for a 5-year period, with each State
+				demonstration program covering one or more geographic areas specified by the
+				State. With respect to a State, after the initial 5-year period of any
+				demonstration program conducted under this section by the State, unless the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2000" entity-type="federal-body">Secretary</cato:entity-ref> finds, taking into account cost-effectiveness and quality of care,
+				that the State demonstration program has been unsuccessful, the demonstration
+				program may be extended or made permanent in the
+				State.</text>
+								</paragraph>
+                <after-quoted-block>;
+				and</after-quoted-block>
+              </quoted-block>
+						</subparagraph>
+            <subparagraph id="idCE13062FD0C8422EA68510BBA67B56BA">
+              <enum>(B)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:a/p:3" entity-type="act">paragraph (3)</cato:entity-ref>,
+			 in the matter preceding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:a/p:3/sp:A" entity-type="act">subparagraph (A)</cato:entity-ref>—</text>
+							<clause id="id0221E1F0C3F749788EAF86361962D395">
+                <enum>(i)</enum>
+                <text>by
+			 striking <quote>not</quote>; and</text>
+							</clause>
+              <clause id="id5C522CFC554F4E93944B2B5A40354000">
+                <enum>(ii)</enum>
+                <text>by
+			 striking <quote>unless</quote> and inserting <quote>if </quote>;</text>
+							</clause>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="idE0B4768410B64D179D0CD5AD35D95944">
+            <enum>(2)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:b" entity-type="act">subsection
+			 (b)</cato:entity-ref>—</text>
+						<subparagraph id="id1983A1B8FD354B31A22B43E389B16640">
+              <enum>(A)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:b/p:3" entity-type="act">paragraph (3)</cato:entity-ref>,
+			 by inserting 
+                <quote>
+                  clause (i) through (vii), (viii) (without regard to the
+			 amendment made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="public-law/111/148/s:2004/ss:c/p:2" entity-type="public-law">section 2004(c)(2) of <external-xref legal-doc="public-law" parsable-cite="pl/111/148">Public Law 111–148</external-xref>
+                  </cato:entity-ref>), (x), or (xi)
+			 of</quote> after <quote>described in </quote>; and</text>
+						</subparagraph>
+            <subparagraph id="idEE6E6468C53C4B47BAB4BFC93B41CD26">
+              <enum>(B)</enum>
+              <text>by striking
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:b/p:4..6" entity-type="act">paragraphs (4), (5), and (6)</cato:entity-ref>;</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="id5E5C0980866B422DB12EAE27F69DBC3C">
+            <enum>(3)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:c" entity-type="act">subsection
+			 (c)</cato:entity-ref>—</text>
+						<subparagraph id="id2C367EA5D3E34375B6C1F493AA7FD961">
+              <enum>(A)</enum>
+              <text>by striking
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:c/p:3..4" entity-type="act">paragraphs (3) and (4</cato:entity-ref>);</text>
+						</subparagraph>
+            <subparagraph id="id8D52F5B9184A4F46BC3590BB72F0F1FF">
+              <enum>(B)</enum>
+              <text>by redesignating
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:c/p:5..8" entity-type="act">paragraphs (5) through (8)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:c/p:3..6" entity-type="act" proposed="true">paragraphs (3) through (6)</cato:entity-ref>, respectively;
+			 and</text>
+						</subparagraph>
+            <subparagraph id="idBDA1B94C176B41D2A4DCDBE27E2BFF81">
+              <enum>(C)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:c/p:4" entity-type="act">paragraph (4)</cato:entity-ref>
+			 (as redesignated by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Family and Retirement Health Investment Act of 2013/s:113/ss:a/p:3/sp:B" entity-type="act">subparagraph (B)</cato:entity-ref>), by striking <quote>Subject to
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:c/p:4/sp:D..E" entity-type="act">subparagraphs (D) and (E)</cato:entity-ref>
+                </quote> and inserting <quote>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:c/p:4/sp:D" entity-type="act">subparagraph
+			 (D)</cato:entity-ref>
+                </quote>; and</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="id2A2A2727AFEF4801B2315B3637D95BCF">
+            <enum>(4)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:d" entity-type="act">subsection
+			 (d)</cato:entity-ref>—</text>
+						<subparagraph id="idDBFD90EB4C4640F4BE52D676D81A8BF2">
+              <enum>(A)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:d/p:2" entity-type="act">paragraph (2)</cato:entity-ref>,
+			 by striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:d/p:2/sp:E" entity-type="act">subparagraph (E)</cato:entity-ref>; and</text>
+						</subparagraph>
+            <subparagraph id="id06B2BE7A91314876BBCC3E3E802F0A96">
+              <enum>(B)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:d/p:3" entity-type="act">paragraph
+			 (3)</cato:entity-ref>—</text>
+							<clause id="idDB8AD8B8ABC94D2C80F31DBC3864A36A">
+                <enum>(i)</enum>
+                <text>in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:d/p:3/sp:A/cl:ii" entity-type="act">subparagraph (A)(ii)</cato:entity-ref>, by striking <quote>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:d/p:3/sp:B/cl:ii" entity-type="act">subparagraph (B)(ii)</cato:entity-ref>,
+			 in</quote> and inserting <quote>In</quote>; and</text>
+							</clause>
+              <clause id="id2A39D3378C214B81AA4BB571055C9290">
+                <enum>(ii)</enum>
+                <text>by
+			 striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:d/p:3/sp:B" entity-type="act">subparagraph (B)</cato:entity-ref> and inserting the following:</text>
+								<quoted-block display-inline="no-display-inline" id="id80310F84E01146B19492105973A93AF8" style="OLC">
+									<subparagraph id="IDFB5B505DFE2F4F7487CDBF43A6C14161">
+                    <enum>(B)</enum>
+                    <header>Maintenance of
+				health opportunity account after becoming ineligible for public
+				benefit</header>
+                    <text>Notwithstanding any other provision of law, if an account
+				holder of a health opportunity account becomes ineligible for benefits under
+				this title because of an increase in income or assets—</text>
+										<clause id="ID7D75D9B3B3E84A2BBF299A62C2B0795F">
+                      <enum>(i)</enum>
+                      <text>no additional
+				contribution shall be made into the account under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:d/p:2/sp:A/cl:i" entity-type="act">paragraph (2)(A)(i)</cato:entity-ref>;
+				and</text>
+										</clause>
+                    <clause id="ID5265AE5CB5E44A2194C58F3FD82A3C09">
+                      <enum>(ii)</enum>
+                      <text>the account
+				shall remain available to the account holder for 3 years after the date on
+				which the individual becomes ineligible for such benefits for withdrawals under
+				the same terms and conditions as if the account holder remained eligible for
+				such benefits, and such withdrawals shall be treated as medical assistance in
+				accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Social Security Act/s:1938/ss:c/p:4" entity-type="act">subsection
+				(c)(4)</cato:entity-ref>.</text>
+										</clause>
+                  </subparagraph>
+                  <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+							</clause>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="idBD050393E0E649A281ABAAEE275A26F5">
+          <enum>(b)</enum>
+          <header>Conforming
+			 amendment</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="public-law/111/3/s:613" entity-type="public-law">Section 613 of <external-xref legal-doc="public-law" parsable-cite="pl/111/3">Public Law 111–3</external-xref>
+            </cato:entity-ref> is repealed.</text>
+				</subsection>
+      </section>
+      <section id="H3E9F47AEDBF742DDAD1F72C1D75EBD01">
+        <enum>114.</enum>
+        <header>Members of
+			 health care sharing ministries eligible to establish health savings
+			 accounts</header>
+				<subsection id="H49E0D48597814FCB85D91289A24E59C9">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223" entity-type="act">Section 223</cato:entity-ref> is
+			 amended by adding at the end the following new subsection:</text>
+					<quoted-block display-inline="no-display-inline" id="H79BB9AC4DEA64B73A3517BC41BE62555" style="OLC">
+						<subsection id="HB8B7F5F5F7884C34A2E4C4EDF7EFF7E9">
+              <enum>(i)</enum>
+              <header>Application to
+				health care sharing ministries</header>
+              <text display-inline="yes-display-inline">For purposes of this section, membership in
+				a health care sharing ministry (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:5000A/ss:d/p:2/sp:B/cl:ii" entity-type="act">section 5000A(d)(2)(B)(ii)</cato:entity-ref>) shall
+				be treated as coverage under a high deductible health
+				plan.</text>
+						</subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="H59001941EA7A4A5DA298E7085FD3AE6F">
+          <enum>(b)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendment made by this section shall apply to taxable
+			 years beginning after the date of the enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section id="id613EE3347482469D95BE31D8DCC94944">
+        <enum>115.</enum>
+        <header>High
+			 deductible health plans renamed HSA qualified plans</header>
+				<subsection commented="no" display-inline="no-display-inline" id="id817C5783FAF14E75AE5F2447542D812C">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:223">Section 223</cato:entity-ref>, as amended by this Act, is amended by
+			 striking <quote>high deductible health plan</quote> each place it appears and
+			 inserting <quote>HSA qualified health plan</quote>.</text>
+				</subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="idD46C3FD58F184CD8A352134A519441C5">
+          <enum>(b)</enum>
+          <header>Conforming
+			 amendments</header>
+					<paragraph commented="no" display-inline="no-display-inline" id="idEAF07C93582C427D818B78C66A0B0FF3">
+            <enum>(1)</enum>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:106/ss:e" entity-type="act">Section 106(e)</cato:entity-ref>,
+			 as amended by this Act, is amended by striking <quote>high deductible health
+			 plan</quote> each place it appears and inserting <quote>HSA qualified health
+			 plan</quote>.</text>
+					</paragraph>
+          <paragraph commented="no" display-inline="no-display-inline" id="id24C232435900411D92BE7976AC8AD1EB">
+            <enum>(2)</enum>
+            <text>The heading for
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:2" entity-type="act">paragraph (2) of section 223(c)</cato:entity-ref> is amended by striking <quote>
+                <header-in-text level="paragraph" style="OLC">High deductible health
+			 plan</header-in-text>
+              </quote> and inserting <quote>
+                <header-in-text level="paragraph" style="OLC">HSA qualified health
+			 plan</header-in-text>
+              </quote>.</text>
+					</paragraph>
+          <paragraph commented="no" display-inline="no-display-inline" id="idAEA73C69AD87416A8D7A1007061AF7E5">
+            <enum>(3)</enum>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:408/ss:d/p:9" entity-type="act">Section 408(d)(9)</cato:entity-ref>
+			 is amended—</text>
+						<subparagraph commented="no" display-inline="no-display-inline" id="idAAA5A30BC970416980D1EF3C0711E370">
+              <enum>(A)</enum>
+              <text>by striking
+			 <quote>high deductible health plan</quote> each place it appears in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:408/ss:d/p:9/sp:C" entity-type="act">subparagraph (C)</cato:entity-ref> and inserting <quote>HSA qualified health plan</quote>,
+			 and</text>
+						</subparagraph>
+            <subparagraph commented="no" display-inline="no-display-inline" id="idAE5CE65BF7F74E0982E20B44C21FF3C3">
+              <enum>(B)</enum>
+              <text>by striking
+			 <quote>
+                  <header-in-text level="subparagraph" style="OLC">High deductible health
+			 plan</header-in-text>
+                </quote> in the heading of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:408/ss:d/p:9/sp:D" entity-type="act">subparagraph (D)</cato:entity-ref> and inserting
+			 <quote>
+                  <header-in-text level="subparagraph" style="OLC">HSA qualified health
+			 plan</header-in-text>
+                </quote>.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+      </section>
+      <section commented="no" display-inline="no-display-inline" id="id58CB3C8EFA2644BF805A3A9CBC9BB172">
+        <enum>116.</enum>
+        <header>Treatment of
+			 direct primary care service arrangements</header>
+				<subsection commented="no" display-inline="no-display-inline" id="id2B3E089E62904273890F94CD17433303">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c" entity-type="act">Section 223(c)</cato:entity-ref> is amended by adding at the end the
+			 following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="id0EF18E902B0749DFAB8B63BD3D16C1F7" style="OLC">
+						<paragraph commented="no" display-inline="no-display-inline" id="id6ECF16079A5842EBA1F63E52F05FC960">
+              <enum>(6)</enum>
+              <header>Treatment of
+				direct primary care service arrangements</header>
+              <text>An arrangement under
+				which an individual is provided coverage restricted to primary care services in
+				exchange for a fixed periodic fee—</text>
+							<subparagraph commented="no" display-inline="no-display-inline" id="id0A7571B0FA074768BAC861DCD4E67349">
+                <enum>(A)</enum>
+                <text>shall not be
+				treated as a health plan for purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:1/sp:A/cl:ii" entity-type="act">paragraph (1)(A)(ii)</cato:entity-ref>, and</text>
+							</subparagraph>
+              <subparagraph commented="no" display-inline="no-display-inline" id="idC7D4D6AEC5CA43F2A82F4D8C6308025A">
+                <enum>(B)</enum>
+                <text>shall not be
+				treated as insurance for purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:d/p:2/sp:B" entity-type="act">subsection
+				(d)(2)(B)</cato:entity-ref>.</text>
+							</subparagraph>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="idDCE190972A8541CE96D814FB84977C76">
+          <enum>(b)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendment made by this section shall apply to taxable
+			 years beginning after the date of the enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section commented="no" display-inline="no-display-inline" id="id659B92F3ACAB476689667B7D978B4BD8">
+        <enum>117.</enum>
+        <header>High
+			 deductible health plans with HSAs treated as qualified health
+			 plans</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Patient Protection and Affordable Care Act/s:1301" entity-type="act">Section 1301 of the
+			 Patient Protection and Affordable Care Act</cato:entity-ref> is amended by adding at the end the
+			 following new subsection:</text>
+				<quoted-block display-inline="no-display-inline" id="id7d60705df4464ae28ddf91805c5e1448" style="OLC">
+					<subsection id="ide11e13987ec44d1281e178a63e8a7da6">
+            <enum>(e)</enum>
+            <header>High deductible
+				health plan with health savings account</header>
+            <text>A health plan not
+				providing a bronze, silver, gold, or platinum level of coverage shall be
+				treated as meeting the requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Patient Protection and Affordable Care Act/s:1301/ss:d" entity-type="act">subsection (d)</cato:entity-ref> with respect to any plan
+				year for any enrollee if the plan meets the requirements for a high deductible
+				health plan under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:c/p:2" entity-type="act">
+                <external-xref legal-doc="usc" parsable-cite="usc/26/223">section 223(c)(2)</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> and
+				such enrollee has established a health savings account (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:223/ss:d/p:1" entity-type="act">section
+				223(d)(1)</cato:entity-ref> of such Code) in relation to such
+				plan.</text>
+					</subsection>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</section>
+      <section commented="no" display-inline="no-display-inline" id="id1865682A11124250A01177638AD53998">
+        <enum>118.</enum>
+        <header>Certain
+			 stand-alone HRAs not subject to prohibition on annual limits</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref value="Public Health Service Act/s:2711/ss:a" entity-type="act">Section 2711(a) of the Public Health Service
+			 Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/300gg-11">
+              <cato:entity-ref entity-type="uscode" value="usc/42/300gg–11/a">42 U.S.C. 300gg–11(a)</cato:entity-ref>
+            </external-xref>
+          </cato:entity>) is amended by adding at the end the following new
+			 paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="idEC1C98D401884A389C6E75D3AEE86A61" style="OLC">
+					<paragraph commented="no" display-inline="no-display-inline" id="idDFB3A7FA19174D5399EE7739F65DA229">
+            <enum>(3)</enum>
+            <header>Exception for
+				health reimbursement arrangements</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Public Health Service Act/s:2711/ss:a/p:1/sp:A" entity-type="act">Paragraph (1)(A)</cato:entity-ref> shall not
+				apply to any health reimbursement arrangement which permits the purchase of a
+				qualified health plan through an Exchange established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Patient Protection and Affordable Care Act/s:1311" entity-type="act">section 1311 of the
+				Patient Protection and Affordable Care
+				Act</cato:entity-ref>.</text>
+					</paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</section>
+    </title>
+    <title id="id114E39F7649D4901A198978EF9EB5D7C">
+      <enum>II</enum>
+      <header>Other
+			 provisions</header>
+			<section id="IDf2514de3f1274a8790331f1e3b1dbf49">
+        <enum>201.</enum>
+        <header>Certain
+			 exercise equipment and physical fitness programs treated as medical
+			 care</header>
+				<subsection id="IDb90e033f4e8c4de7bdc1e9711bca8b0b">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:213/ss:d" entity-type="act">Subsection (d) of section 213</cato:entity-ref> is amended by adding at the
+			 end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="id6E84546AA8BF4E11BF9885ED0AC23ED7" style="OLC">
+						<paragraph id="ID491ca348ca714e25a0977e33828a187a">
+              <enum>(12)</enum>
+              <header>Exercise
+				equipment and physical fitness programs</header>
+							<subparagraph id="IDfe7fded721994e1ba3e4bc50b8e47872">
+                <enum>(A)</enum>
+                <header>In
+				general</header>
+                <text>The term <term>medical care</term> shall include amounts
+				paid—</text>
+								<clause id="ID97025bf7fb06443e8f289de6cb116b55">
+                  <enum>(i)</enum>
+                  <text>to purchase or
+				use equipment used in a program (including a self-directed program) of physical
+				exercise,</text>
+								</clause>
+                <clause id="ID0ee3de122fdd4163b9e33da22cadb3fd">
+                  <enum>(ii)</enum>
+                  <text>to participate,
+				or receive instruction, in a program of physical exercise, and</text>
+								</clause>
+                <clause id="IDe93dd45ab95e47c284d29af010d00e36">
+                  <enum>(iii)</enum>
+                  <text>for membership
+				dues in a fitness club the primary purpose of which is to provide access to
+				equipment and facilities for physical exercise.</text>
+								</clause>
+              </subparagraph>
+              <subparagraph id="IDf0b4ec5c23a049b897fef71f41a0c095">
+                <enum>(B)</enum>
+                <header>Limitation</header>
+                <text>Amounts
+				treated as medical care under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Family and Retirement Health Investment Act of 2013/s:201/ss:d/p:12/sp:A" entity-type="act">subparagraph (A)</cato:entity-ref> shall not exceed $1,000 with
+				respect to any individual for any taxable
+				year.</text>
+							</subparagraph>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="ID0422b5e7ef8449729307fac5c7a55bf7">
+          <enum>(b)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendment made by this section shall apply to taxable
+			 years beginning after the date of the enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section id="IDacc7969cb585404ba4c482155cc17ed7">
+        <enum>202.</enum>
+        <header>Certain
+			 nutritional and dietary supplements to be treated as medical care</header>
+				<subsection id="ID80c38bcf9c634a63affe9600f0d9a60d">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:213/ss:d" entity-type="act">Subsection (d) of section 213</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Family and Retirement Health Investment Act of 2013/s:201" entity-type="act">section 201</cato:entity-ref>,
+			 is amended by adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="id4AB4F619D78049A2ADAC7E9AC77B304E" style="OLC">
+						<paragraph id="ID8634aebfac7a46a8b01d7e718c40882f">
+              <enum>(13)</enum>
+              <header>Nutritional
+				and dietary supplements</header>
+							<subparagraph id="ID30c1756d1590414c8e3ad279664878e4">
+                <enum>(A)</enum>
+                <header>In
+				general</header>
+                <text>The term <term>medical care</term> shall include amounts
+				paid to purchase herbs, vitamins, minerals, homeopathic remedies, meal
+				replacement products, and other dietary and nutritional supplements.</text>
+							</subparagraph>
+              <subparagraph id="ID0f3d12b9ded04192be8ae8d8f4395510">
+                <enum>(B)</enum>
+                <header>Limitation</header>
+                <text>Amounts
+				treated as medical care under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Family and Retirement Health Investment Act of 2013/s:213/ss:d/p:13/sp:A" entity-type="act">subparagraph (A)</cato:entity-ref> shall not exceed $1,000 with
+				respect to any individual for any taxable year.</text>
+							</subparagraph>
+              <subparagraph id="id48443CF87DFF4521AAFC0A8FC774B8F6">
+                <enum>(C)</enum>
+                <header>Meal
+				replacement product</header>
+                <text>For purposes of this paragraph, the term
+				<term>meal replacement product</term> means any product that—</text>
+								<clause id="id65F6DC38C7CD484EBC5E4DBF8EA546B8">
+                  <enum>(i)</enum>
+                  <text>is permitted to
+				bear labeling making a claim described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Federal Food, Drug, and Cosmetic Act/s:403/ss:r/p:3" entity-type="act">section 403(r)(3) of the Federal
+				Food, Drug, and Cosmetic Act</cato:entity-ref>, and</text>
+								</clause>
+                <clause id="id661EFC071BCA40659707DC6C684E325B">
+                  <enum>(ii)</enum>
+                  <text>is permitted to
+				claim under such section that such product is low in fat and is a good source
+				of protein, fiber, and multiple essential vitamins and
+				minerals.</text>
+								</clause>
+              </subparagraph>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="IDd54c4387e6c44fed91d4d1766295df2f">
+          <enum>(b)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendment made by this section shall apply to taxable
+			 years beginning after the date of the enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section id="ID39b8a109b27a4b6582631ab1aa1144d7">
+        <enum>203.</enum>
+        <header>Certain
+			 provider fees to be treated as medical care</header>
+				<subsection id="IDefef4384712b4c22973d171796a3df0e">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/s:213/ss:d" entity-type="act">Subsection (d) of section 213</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Family and Retirement Health Investment Act of 2013/s:201" proposed="true">sections 201</cato:entity-ref>
+			 and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Family and Retirement Health Investment Act of 2013/s:202" proposed="true">202</cato:entity-ref>, is amended by adding at the end the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="idD7862452DCAE4F9BAB4E2227CD7D9308" style="OLC">
+						<paragraph id="IDd5f0339f1e8e43359f6539b030357a84">
+              <enum>(14)</enum>
+              <header>Periodic
+				provider fees</header>
+              <text>The term <term>medical care</term> shall include
+				periodic fees paid to a primary care physician for the right to receive medical
+				services on an as-needed
+				basis.</text>
+						</paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="IDcccb47c345374db6982f54f054fa3b1f">
+          <enum>(b)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendment made by this section shall apply to taxable
+			 years beginning after the date of the enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section id="idFD80FD25DC8245EDA73407BC5392A653" section-type="subsequent-section">
+        <enum>204.</enum>
+        <header>Repeal of annual
+			 limitations on deductibles for employer-sponsored plans offered in small group
+			 market</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref value="Patient Protection and Affordable Care Act/s:1302/ss:c/p:2" entity-type="act">Section 1302(c)(2) of
+			 the Patient Protection and Affordable Care Act</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/111/148">
+            <cato:entity-ref entity-type="public-law" value="public-law/111/148">Public Law 111–148</cato:entity-ref>
+          </external-xref>)</cato:entity> is
+			 repealed.</text>
+			</section>
+    </title>
+  </legis-body>
+</bill>
+</doc>
