@@ -5,6 +5,8 @@ use DBI;
 use Scalar::Util qw(looks_like_number);
 use Locale::Currency::Format;
 
+my $debug = 0;
+
 my $path = `pwd`;
 chomp($path);
 my @files;
@@ -24,13 +26,14 @@ foreach (@files) {
 	# my $wholefile = join ' ', @lines;
 	# my $first = 0;
 
-	my @writeme = (); my @moneydetails = ();
+	my @writeme = (); 
+	my @moneydetails = (); my @actsdetails = (); my @sectionssdetails = ();
 	my $aLine;
 
 	if ($lines[-1] !~ /-30-/) { #skip files we've processed already
 		foreach $aLine (@lines) {
 			if (my @lineParts = $aLine =~ /\| (authorizationsofappropriations|appropriations) = (.+),/) {
-				print "$filename: \n";
+				$debug and print "$filename: has appropriations and/or authorizations tags.\n";
 				my $header = $lineParts[0]; #the line we'll build back up
 				push @moneydetails, [$header, ':'];
 				my $approps = $lineParts[1];
@@ -122,9 +125,16 @@ foreach (@files) {
 
 				my $newline;
 
+				# For our finances results we have three possibilities:
+				# 1: All numeric - there are no indefinite appropriations; say so.
+				# 2: Only indefinite - there are no fixed dollar amounts; say so.
+				# 3: Both - there are indefinite appropriations as well as some fixed ones. Indicate + include definite amount
+
 				if ($allnumbers) {
 					#push @writeme, 
-					$newline = "| $header = ".currency_format('usd',$totals,FMT_SYMBOL);				
+					$newline = "| $header = ".currency_format('usd',$totals,FMT_SYMBOL|FMT_NOZEROS);				
+				} elsif ($totals > 0) {
+					$newline = "| $header = At least ". currency_format('usd',$totals,FMT_SYMBOL|FMT_NOZEROS) ." with an additional unlimited amount";					
 				} else {
 					$newline = "| $header = an unlimited amount";
 				}
