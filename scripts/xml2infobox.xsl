@@ -427,7 +427,7 @@ wuff what a hassle. this is option but may have values like:
 | number of co-sponsors = <value-of select="count(//cosponsor)"/>
 | public law url  = 
 | cite public law = <!-- <value-of select="$public-law"/> --><!--{{USPL|XXX|YY}} where X is the congress number and Y is the law number-->
-| cite statutes at large = <value-of select="$statute-at-large"/><!--{{usstat}} can be used-->
+| cite statutes at large = 
 | acts affected    = <value-of select="$acts"/><!--list, if applicable; make wikilinks where possible-->
 | acts repealed   = <!--list, if applicable; make wikilinks where possible-->
 | title affected   = <!--US code titles changed-->
