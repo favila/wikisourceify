@@ -1,16 +1,28 @@
 <doc>
-  <docmeta id="113s342is">
-    <bill congress="113" type="s" number="342" version="is"/>
-    <revision size="18552" annotations="0" id="7" commit-time="2013-09-20T15:35:44Z" status="complete" committer="mbohmer" doc="113s342is/7.xml">
-      <description description="Markup copied from completed documents">Edited via AKN</description>
+  <docmeta id="113s342rs">
+    <bill congress="113" type="s" number="342" version="rs"/>
+    <revision size="19165" annotations="0" status="complete" id="8" commit-time="2013-09-20T15:30:52Z" committer="mbohmer" doc="113s342rs/8.xml">
+      <description>Edited via AKN</description>
     </revision>
   </docmeta>
-  <bill bill-stage="Introduced-in-Senate" public-private="public">
-	<form>
+  <bill bill-stage="Reported-in-Senate" public-private="public">
+	<metadata>
+<dublinCore>
+<title>113 S342 RS: Pine Forest Range Recreation Enhancement Act of 2013</title>
+<publisher>U.S. Senate</publisher>
+<date>2013-02-14</date>
+<format>text/xml</format>
+<language>EN</language>
+<rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</rights>
+</dublinCore>
+</metadata>
+<form>
 		<distribution-code display="yes">II</distribution-code>
+		<calendar>Calendar No. 113</calendar>
 		<congress>113th CONGRESS</congress>
 		<session>1st Session</session>
 		<legis-num>S. 342</legis-num>
+		<associated-doc role="report">[Report No. 113–59]</associated-doc>
 		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
 		<action>
 			<action-date date="20130214">February 14, 2013</action-date>
@@ -18,9 +30,14 @@
         <sponsor name-id="S198">Mr. Reid</sponsor> (for himself
 			 and <cosponsor name-id="S352">Mr. Heller</cosponsor>) introduced the following
 			 bill; which was read twice and referred to the
-			 <committee-name committee-id="SSEG00">Committee on Energy and Natural
+			 <committee-name added-display-style="italic" committee-id="SSEG00" deleted-display-style="strikethrough">Committee on Energy and Natural
 			 Resources</committee-name>
       </action-desc>
+		</action>
+		<action stage="Reported-in-Senate">
+			<action-date>June 27, 2013</action-date>
+			<action-desc>Reported by <sponsor name-id="S247">Mr. Wyden</sponsor>,
+			 without amendment</action-desc>
 		</action>
 		<legis-type>A BILL</legis-type>
 		<official-title>To designate the Pine Forest Range Wilderness area in
@@ -119,8 +136,8 @@
           <subparagraph id="id520859a6a25a4cf6abdc7461433de7d4">
             <enum>(C)</enum>
             <text>close, except for
-			 administrative use, the road along Lower Alder Creek south of Bureau of Land
-			 Management road #2083.</text>
+			 administrative use, the road along Lower Alder Creek south of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1422">Bureau of Land
+			 Management</cato:entity-ref> road #2083.</text>
 					</subparagraph>
         </paragraph>
         <paragraph id="idc7a622b179534dea949e1ee4a67cebde">
@@ -191,7 +208,7 @@
         <enum>(a)</enum>
         <header>Management</header>
         <text>Subject
-			 to valid existing rights, the Wilderness shall be administered by the Secretary
+			 to valid existing rights, the Wilderness shall be administered by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref>
 			 in accordance with the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
             <cato:entity-ref entity-type="act" value="Wilderness Act">Wilderness Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/16/1131/etseq">16 U.S.C. 1131 et seq.</cato:entity-ref>)</cato:entity>, except
 			 that—</text>
@@ -221,12 +238,14 @@
           <text>
             <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
               <cato:entity-ref entity-type="act" value="Wilderness Act/s:4/ss:d/p:4">section 4(d)(4)
-			 of the Wilderness Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/16/1133/d/4">16 U.S.C. 1133(d)(4)</cato:entity-ref>)</cato:entity>; and</text>
+			 of the Wilderness Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/16/1133">
+                <cato:entity-ref entity-type="uscode" value="usc/16/1133/d/4">16 U.S.C. 1133(d)(4)</cato:entity-ref>
+              </external-xref>)</cato:entity>; and</text>
 				</paragraph>
         <paragraph id="id41b13b49e6ea4f21813c974a560b401e">
           <enum>(2)</enum>
-          <text>the guidelines set
-			 forth in Appendix A of the report of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HII00">Committee on Interior and Insular
+          <text>the guidelines
+			 set forth in Appendix A of the report of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HII00">Committee on Interior and Insular
 			 Affairs of the House of Representatives</cato:entity-ref> accompanying H.R. 2570 of the 101st
 			 Congress (House Report 101–405).</text>
 				</paragraph>
@@ -249,7 +268,7 @@
           <header>In
 			 general</header>
           <text>
-              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> does not intend for the designation of the
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> does not intend for the designation of the
 			 Wilderness to create a protective perimeter or buffer zone around the
 			 Wilderness.</text>
 				</paragraph>
@@ -443,7 +462,12 @@
             <enum>(B)</enum>
             <header>Restriction on
 			 new water resource facilities</header>
-            <text>Except as otherwise provided in this Act, on or after the date of enactment of this Act, neither the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> nor any other officer, employee, or agent of the United States shall fund, assist, authorize, or issue a license or permit for the development of any new water resource facility within a wilderness area, any portion of which is located in the County.</text>
+            <text>Except as otherwise provided in
+			 this Act, on or after the date of enactment of this Act, neither the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>
+			 nor any other officer, employee, or agent of the United States shall fund,
+			 assist, authorize, or issue a license or permit for the development of any new
+			 water resource facility within a wilderness area, any portion of which is
+			 located in the County.</text>
 					</subparagraph>
         </paragraph>
       </subsection>
@@ -455,23 +479,28 @@
 			<subsection id="id58beb879bc234738ac6f3d4fd5913840">
         <enum>(a)</enum>
         <header>Finding</header>
-        <text>Congress
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
 			 finds that, for the purposes of <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
             <cato:entity-ref entity-type="act" value="Federal Land Policy and Management Act of 1976/s:603/ss:c">section 603(c) of the Federal Land Policy and
 			 Management Act of 1976</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/43/1782/c">43 U.S.C. 1782(c)</cato:entity-ref>)</cato:entity>, the portions of the Blue Lakes and
-			 Alder Creek wilderness study areas not designated as wilderness by section 3(a)
+			 Alder Creek wilderness study areas not designated as wilderness by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Pine Forest Range Recreation Enhancement Act of 2013/s:3/ss:a" proposed="true">section 3(a)</cato:entity-ref>
 			 have been adequately studied for wilderness designation.</text>
 			</subsection>
       <subsection id="idf7cceb052d914f4f8888dc33235c4708">
         <enum>(b)</enum>
         <header>Release</header>
-        <text>Any public land described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Pine Forest Range Recreation Enhancement Act of 2013/s:4/ss:a" proposed="true">subsection (a)</cato:entity-ref> that is not designated as wilderness by this Act—</text>
+        <text>Any
+			 public land described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Pine Forest Range Recreation Enhancement Act of 2013/s:5/ss:a" proposed="true">subsection (a)</cato:entity-ref> that is not designated as wilderness by
+			 this Act—</text>
 				<paragraph id="id3c2d9887161549e2b2e6e3a98241037a">
           <enum>(1)</enum>
           <text>is no longer
 			 subject to <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
               <cato:entity-ref entity-type="act" value="Federal Land Policy and Management Act of 1976/s:603/ss:c">section 603(c) of the Federal Land Policy and Management Act of 1976</cato:entity-ref>
-			 (<cato:entity-ref entity-type="uscode" value="usc/43/1782/c">43 U.S.C. 1782(c)</cato:entity-ref>)</cato:entity>; and</text>
+			 (<external-xref legal-doc="usc" parsable-cite="usc/43/1782">
+                <cato:entity-ref entity-type="uscode" value="usc/43/1782/c">43 U.S.C. 1782(c)</cato:entity-ref>
+              </external-xref>)</cato:entity>; and</text>
 				</paragraph>
         <paragraph id="idac88dcddde1e4958a9a9bc47b8995b67">
           <enum>(2)</enum>
@@ -503,7 +532,9 @@
 			 activities</header>
         <text>In furtherance of the purposes and principles of the
 			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
-            <cato:entity-ref entity-type="act" value="Wilderness Act">Wilderness Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/16/1131/etseq">16 U.S.C. 1131 et seq.</cato:entity-ref>)</cato:entity>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref> may conduct any
+            <cato:entity-ref entity-type="act" value="Wilderness Act">Wilderness Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/16/1131">
+              <cato:entity-ref entity-type="uscode" value="usc/16/1131/etseq">16 U.S.C. 1131 et seq.</cato:entity-ref>
+            </external-xref>)</cato:entity>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref> may conduct any
 			 management activities in the Wilderness that are necessary to maintain or
 			 restore fish and wildlife populations and the habitats to support the
 			 populations, if the activities are carried out—</text>
@@ -520,7 +551,9 @@
             <enum>(A)</enum>
             <text>the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
                 <cato:entity-ref entity-type="act" value="Wilderness Act">Wilderness
-			 Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/16/1131/etseq">16 U.S.C. 1131 et seq.</cato:entity-ref>)</cato:entity>; and</text>
+			 Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/16/1131">
+                  <cato:entity-ref entity-type="uscode" value="usc/16/1131/etseq">16 U.S.C. 1131 et seq.</cato:entity-ref>
+                </external-xref>)</cato:entity>; and</text>
 					</subparagraph>
           <subparagraph id="id400b686757584877b06c3d6abe1193e6">
             <enum>(B)</enum>
@@ -529,7 +562,7 @@
 			 on Interior and Insular Affairs of the House of Representatives accompanying
 			 H.R. 2570 of the 101st Congress (House Report 101–405), including the
 			 occasional and temporary use of motorized vehicles if the use, as determined by
-			 the Secretary, would promote healthy, viable, and more naturally distributed
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref>, would promote healthy, viable, and more naturally distributed
 			 wildlife populations that would enhance wilderness values with the minimal
 			 impact necessary to reasonably accomplish those tasks.</text>
 					</subparagraph>
@@ -581,7 +614,13 @@
 			 wildlife management activities in the Wilderness—</text>
 					<subparagraph id="id887cd57b084940d9954f4a1ac32f1d4d">
             <enum>(A)</enum>
-            <text>in accordance with the terms and conditions specified in the cooperative agreement between the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref> and the State entitled <quote>Memorandum of Understanding between the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1422">Bureau of Land Management</cato:entity-ref> and the Nevada Department of Wildlife Supplement No. 9</quote> and signed November and December 2003, including any amendments to the cooperative agreement agreed to by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref> and the State; and</text>
+            <text>in accordance
+			 with the terms and conditions specified in the cooperative agreement between
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref> and the State entitled <quote>Memorandum of Understanding between
+			 the Bureau of Land Management and the Nevada Department of Wildlife Supplement
+			 No. 9</quote> and signed November and December 2003, including any amendments
+			 to the cooperative agreement agreed to by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref> and the State;
+			 and</text>
 					</subparagraph>
           <subparagraph id="idbe21625837b34eddbe3fef5ed21369e5">
             <enum>(B)</enum>
@@ -613,7 +652,7 @@
           <header>Federal
 			 land</header>
           <text>The term <term>Federal land</term> means Federal land in the
-			 County that is identified for disposal by the Secretary through the Winnemucca
+			 County that is identified for disposal by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref> through the Winnemucca
 			 Resource Management Plan.</text>
 				</paragraph>
         <paragraph id="id1db1c58681c5431287f38c8a72d55a60">
@@ -628,12 +667,15 @@
         <enum>(b)</enum>
         <header>Acquisition of
 			 land and interests in land</header>
-        <text>Consistent with applicable law and subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Pine Forest Range Recreation Enhancement Act of 2013/s:7/ss:c" proposed="true">subsection (c)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref> may exchange the Federal land for non-Federal land.</text>
+        <text>Consistent with applicable law and
+			 subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Pine Forest Range Recreation Enhancement Act of 2013/s:7/ss:c" proposed="true">subsection (c)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref> may exchange the Federal land for
+			 non-Federal land.</text>
 			</subsection>
       <subsection id="id5b22d90369b84c20bbf369abda6a7b49">
         <enum>(c)</enum>
         <header>Conditions</header>
-        <text>Each land exchange under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Pine Forest Range Recreation Enhancement Act of 2013/s:7/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall be subject to—</text>
+        <text>Each
+			 land exchange under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Pine Forest Range Recreation Enhancement Act of 2013/s:7/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall be subject to—</text>
 				<paragraph id="id5849e159391c45869c698b5d2b695787">
           <enum>(1)</enum>
           <text>the condition
@@ -644,14 +686,16 @@
         <paragraph id="iddbb4f5b367024a7ca565606a5fa84b0b">
           <enum>(2)</enum>
           <text>such additional
-			 terms and conditions as the Secretary may require.</text>
+			 terms and conditions as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref> may require.</text>
 				</paragraph>
       </subsection>
       <subsection id="idbf811ffd0bdd4151b1eb997c2ecbfa52">
         <enum>(d)</enum>
         <header>Deadline for
 			 completion of land exchange</header>
-        <text>It is the intent of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> that the land exchanges under this section be completed by not later than 5 years after the date of enactment of this Act.</text>
+        <text>It is the intent of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> that the
+			 land exchanges under this section be completed by not later than 5 years after
+			 the date of enactment of this Act.</text>
 			</subsection>
     </section>
     <section commented="no" display-inline="no-display-inline" id="ideaeee864553848dba0762dd841916e3d" section-type="subsequent-section">
@@ -664,5 +708,9 @@
 			 Self-Determination and Education Assistance Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/25/450b">25 U.S.C. 450b</cato:entity-ref>)</cato:entity>).</text>
 		</section>
   </legis-body>
+	<endorsement>
+		<action-date>June 27, 2013</action-date>
+		<action-desc>Reported without amendment</action-desc>
+	</endorsement>
 </bill>
 </doc>

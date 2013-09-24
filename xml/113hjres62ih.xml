@@ -1,7 +1,7 @@
 <doc>
   <docmeta id="113hjres62ih">
     <bill congress="113" type="hjres" number="62" version="ih"/>
-    <revision size="13961" annotations="0" status="complete" id="3" commit-time="2013-09-17T18:53:34Z" committer="mbohmer" doc="113hjres62ih/3.xml">
+    <revision size="13961" annotations="0" status="complete" id="4" commit-time="2013-09-23T21:23:09Z" committer="mbohmer" doc="113hjres62ih/4.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
@@ -94,14 +94,17 @@
       <enum>101.</enum>
       <subsection commented="no" display-inline="yes-display-inline" id="HA09D6EB81BAE4DBBB04E1235411C8CCB">
         <enum>(a)</enum>
-        <text display-inline="yes-display-inline">Such amounts as may be necessary, at a rate
+        <text display-inline="yes-display-inline">
+            <cato:entity entity-type="auth-approp">
+              <cato:funds-and-year amount="indefinite" year="2014">Such amounts as may be necessary</cato:funds-and-year>, at a rate
 			 for operations as provided in the applicable appropriations Acts for fiscal
-			 year 2013 and under the authority and conditions provided in such Acts, for
+			 year 2013 and under the authority and conditions provided in such Acts, <cato:property name="purpose">for
 			 continuing projects or activities (including the costs of direct loans and loan
-			 guarantees) that are not otherwise specifically provided for in this joint
-			 resolution, that were conducted in fiscal year 2013, and for which
+			 guarantees) that are not otherwise specifically provided for in <cato:entity-ref entity-type="act" value="Stability, Security, and Fairness Resolution of 2013" proposed="true">this joint
+			 resolution</cato:entity-ref>, that were conducted in fiscal year 2013, and for which
 			 appropriations, funds, or other authority were made available in the following
-			 appropriations Acts:</text>
+			 appropriations Acts</cato:property>
+            </cato:entity>:</text>
         <paragraph id="H425C393B51D7416CA3CEBC4E83B9F91A">
           <enum>(1)</enum>
           <text display-inline="yes-display-inline">The <cato:entity entity-type="law-citation">
