@@ -32,6 +32,8 @@ foreach (@files) {
 
 	if ($lines[-1] !~ /-30-/) { #skip files we've processed already
 		foreach $aLine (@lines) {
+			$aLine =~ s/[, ]+$//;
+			#MONEY
 			if (my @lineParts = $aLine =~ /\| (authorizationsofappropriations|appropriations) = (.+),/) {
 				$debug and print "$filename: has appropriations and/or authorizations tags.\n";
 				my $header = $lineParts[0]; #the line we'll build back up
@@ -40,7 +42,7 @@ foreach (@files) {
 				my @eachApprop = $approps =~ m/\[.*?\]/g;
 				my $totals = 0; my $allnumbers = 1;
 				foreach my $oneApprop (@eachApprop) {
-					my($moneystring, $yearstring);
+					my($moneystring, $yearstring, $addherup, $itsmoney);
 					my($money,$years) = $oneApprop =~ m/\(amount:(.*)\|year:(.*)\)/g;
 					#kill the leading and trailing whitespace
 					# $money =~ s/^\s+|\s+$//g;
@@ -52,11 +54,11 @@ foreach (@files) {
 					#my @appropParts = $oneApprop =~ m/\(amount:(.*)\|year:(.*)\)/g;
 					if (looks_like_number($money)) {
 #						print "$money, ";
-						$totals = $totals + $money;
-						$moneystring = currency_format('usd',$money,FMT_SYMBOL);#. " over years: $years";
+						$addherup = $money;
+						$itsmoney = 1;
 					} else {
 #						print "we got a non numeric in here!\n";
-						$allnumbers = 0;
+						$itsmoney = $allnumbers = 0;
 						$moneystring = "$money";
 						#push @moneydetails, "$money over years: $years";
 					}
@@ -68,6 +70,7 @@ foreach (@files) {
 						#match the year, output "in fiscal [year]”
 						#in this case we just did it in the find since it's pretty simple; it's in $1
 						$yearstring = "in fiscal year $1."
+						#we don't need to alter $addherup since we're doing one year only
 					}
 					else {
 						if ($years =~ m/^[\d,]+$/) { #when y,y,y,y:
@@ -77,6 +80,8 @@ foreach (@files) {
 							$yearstring = "for each of fiscal years " . join(', ', @allyears);
 							#find the last , YYYY and replace it with and
 							$yearstring =~ s/, (\d+)$/ and $1/;
+							#we need to multiply the $addherup by how many years are listed here
+							$addherup *= scalar @allyears;
 						}
 						else {
 							if ($years =~ m/(\d+)\.\.(\d+)/) {# when y..y:
@@ -84,16 +89,20 @@ foreach (@files) {
 								#also simple, matched on $1 $2
 								#over fiscal [firstyear] through [lastyear]”
 								$yearstring = "over fiscal $1 through $2";
+								$addherup *= ($2 - $1);
 							} else {
 								if ($years =~ m/(\d+),\.\./) {# when y,..: # when y..:
 #									print "year,.. : $years\n";
 									#matched on $1
 									$yearstring = "in fiscal $1 and each succeeding fiscal year";
+									$addherup *= 20;
 								} else {
 									if ($years =~ m/(\d+)\.\./) {#when y..:
 #										print "year.. : $years\n";
 										#matched on $1
 										$yearstring = "in fiscal $1, to be spent at any time";
+										#we're using 
+										$addherup *= 20;
 									} else { #must be blank
 #										print "blank/indef : $years\n";
 										$yearstring = "";
@@ -101,6 +110,11 @@ foreach (@files) {
 								}
 							}
 						}
+					}
+					#add up the totals
+					if ($itsmoney) {
+						$totals = $totals + $addherup;
+						$moneystring = currency_format('usd',$addherup,FMT_SYMBOL|FMT_NOZEROS);#. " over years: $years";
 					}
 					push @moneydetails, [$moneystring,$yearstring];
 
