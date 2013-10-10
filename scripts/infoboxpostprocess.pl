@@ -27,7 +27,8 @@ foreach (@files) {
 	# my $first = 0;
 
 	my @writeme = (); 
-	my @moneydetails = (); my @actsdetails = (); my @sectionssdetails = ();
+	my @moneydetails = (); my @actsdetails = (); my @sectionsdetails = ();
+	my %sectionCount = ();
 	my $aLine;
 
 	if ($lines[-1] !~ /-30-/) { #skip files we've processed already
@@ -160,6 +161,78 @@ foreach (@files) {
 					$newline = $newline . " @$lastvalue[1]\n";
 				}
 				push @writeme, $newline;
+			#end appropriations section
+			#ACTS
+			} elsif (my @lineParts = $aLine =~ /\| (acts affected)\ += (\".*)/) {
+				$debug and print "$filename: has impacted acts.\n";
+				my $header = $lineParts[0]; #the line we'll build back up
+				#push @actsdetails, $header. ':';
+				my $acts = $lineParts[1];
+				my @eachActs = $acts =~ m/\"[^\[]+ \[\d+\]\"/g;
+				my %actHash;
+				foreach my $oneAct (@eachActs) {
+					my($actName,$actOccurrences) = $oneAct =~ m/\"([^\]]+) \[(\d+)\]\"/g;
+					$actHash{$actName} = $actOccurrences;
+				}
+				my @sortedActs = map { { ($_ => $actHash{$_}) } } sort {$actHash{$b} <=> $actHash{$a}} keys %actHash;
+				#at this point 
+				my @tmpActs = ();
+				my $newline = "| $header = "; my $counter = 0;
+				foreach my $hashref (@sortedActs) {
+				    my($key, $value) = each %$hashref;
+				    push @actsdetails, "\t$value:\t$key\n";
+				    if ($counter++ < 5) { $newline .= "[[$key]], ";}
+				    #else { $newline .= "\"$key\", ";}
+				    #print "$key => $value\n";
+				}
+				if ($counter > 4) { #indicate we truncated the list
+					$newline .= "and others.";
+				}
+				push @writeme, "$newline\n";
+
+			} elsif (my @lineParts = $aLine =~ /\| (sections affected) = (.*)$/) { #sections affected
+				$debug and print "$filename: has impacted sections.\n";
+				my $header = $lineParts[0]; #the line we'll build back up
+				$debug and print "\t$aLine\n";
+				my $newline = "| $header = ";# my $counter = 0;
+				my $sections = $lineParts[1];
+				#TODO: Look out for this - we now need to cope with USC and Usc-title-chap
+				# SO BE SURE THIS IS STILL WORKING
+				my @eachSections = $sections =~ m/{{(?:USC|Usc-title-chap)\|[^}]*}}[^{]*/g;
+				foreach my $oneSection (@eachSections) {
+					#we could remove this in the initial xsl but better to keep a readable output pre-processing
+					$oneSection =~ s/[, ]+$//;
+					$debug and print Dumper $oneSection;					
+					# my @sectionBits = split(/\|/, $oneSection);
+					# $debug and print Dumper @sectionBits;
+					# check to see if we have an entry in %sectionCount for $oneSection
+					# if so, +1
+					# if not, = 1
+					if (exists $sectionCount{$oneSection})	{
+						$sectionCount{$oneSection} += 1;
+					} else {
+						$sectionCount{$oneSection} = 1;
+					}
+				}
+				#DEBUG
+				$debug and print Dumper %sectionCount;
+				# given this hash of section reference counts we need to sort them and only output the top 5 at this point
+
+				my @sortedSections = map { { ($_ => $sectionCount{$_}) } } sort {$sectionCount{$b} <=> $sectionCount{$a}} keys %sectionCount;
+				#at this point 
+				$debug and print Dumper @sortedSections;
+				my $newline = "| $header = "; my $counter = 0;
+				foreach my $hashref (@sortedSections) {
+				    my($key, $value) = each %$hashref;
+				    push @sectionsdetails, "\t$value:\t$key\n";
+				    if ($counter++ < 5) { $newline .= "$key, ";}
+				    #else { $newline .= "\"$key\", ";}
+				    #print "$key => $value\n";
+				}
+				if ($counter > 4) { #indicate we truncated the list
+					$newline .= "and others.";
+				}
+				push @writeme, "$newline\n";			
 			} else { #for the moment non-approp lines pass through unaltered
 				push @writeme, $aLine;
 			}
@@ -178,11 +251,21 @@ foreach (@files) {
 		}	
 		#add any supplimental information. auto-grab from govtrack?	
 
+		print INFOBOX "\n\nActs impacted, by reference count:\n";
+		foreach my $anAct (@actsdetails) {
+			print INFOBOX "$anAct";
+		}	
+
+		print INFOBOX "\n\nSections impacted, by reference count:\n";
+		foreach my $aSection (@sectionsdetails) {
+			print INFOBOX "$aSection";
+		}	
+
 		print INFOBOX "\n-30-";
 		close INFOBOX;
 
 	} #unprocessed files
 	else {
-		print "Skipping $filename\n";
+		$debug and print "Skipping $filename\n";
 	}
 } #each file
