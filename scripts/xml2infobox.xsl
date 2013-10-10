@@ -19,8 +19,10 @@
 <variable name="committees" select="document('../lookups/committee.xml')"/>
 <variable name="federal-bodies" select="document('../lookups/federal-body.xml')"/>
 
-<key name="wikipedia" match="/items/item/@wikipedia" use="../@id"/>
-<key name="nicename" match="/items/item/@name" use="../@id"/>
+<key name="wikipedia-id" match="/items/item/@wikipedia" use="../@id"/>
+<key name="wikipedia-lis" match="/items/item/@wikipedia" use="../@lis_id"/>
+<key name="nicename-id" match="/items/item/@name" use="../@id"/>
+<key name="nicename-lis" match="/items/item/@name" use="../@lis_id"/>
 <key name="committees" match="/doc/bill/form/action/committee-name" use="committee-id" />
 <key name="federal-bodies" match="cato:entity-ref[@entity-type='federal-body']" use="@entity-id"/>
 <key name="act-names" match="cato:entity-ref[@entity-type='act']" use="str:tokenize(@value, '/')[1]"/>
@@ -77,35 +79,71 @@
     <text>”</text>
 </template>
 
-<template name="wikipedia-key">
+<template name="wikipedia-id">
     <param name="id"/>
     <param name="lookupdoc"/>
     <for-each select="$lookupdoc">
-        <value-of select="key('wikipedia', $id)"/>
+        <value-of select="key('wikipedia-id', $id)"/>
     </for-each>
 </template>
 
-<template name="wikipedia-name">
+<template name="wikipedia-lis">
     <param name="id"/>
     <param name="lookupdoc"/>
     <for-each select="$lookupdoc">
-        <value-of select="key('nicename', $id)"/>
+        <value-of select="key('wikipedia-lis', $id)"/>
+    </for-each>
+</template>
+
+<template name="wikipedia-name-lis">
+    <param name="id"/>
+    <param name="lookupdoc"/>
+    <for-each select="$lookupdoc">
+        <value-of select="key('nicename-lis', $id)"/>
+    </for-each>
+</template>
+
+<template name="wikipedia-name-id">
+    <param name="id"/>
+    <param name="lookupdoc"/>
+    <for-each select="$lookupdoc">
+        <value-of select="key('nicename-id', $id)"/>
     </for-each>
 </template>
 
 <template name="wikilinkperson">
+    <!-- this now needs to cope with the fact that when the code starts with S we need to look for senate IDs not bioguides 
+    WHICH IS SO ANNOYING.
+    -->
     <param name="id"/>
+    <!-- crop off the first letter, is it an S? Senate. Else bioguide. -->
     <variable name="wikipage">
-        <call-template name="wikipedia-key">
-            <with-param name="id" select="$id"/>
-            <with-param name="lookupdoc" select="$people"/>
-        </call-template>
+        <if test="string-length($id) = 7">
+            <call-template name="wikipedia-id">
+                <with-param name="id" select="$id"/>
+                <with-param name="lookupdoc" select="$people"/>
+            </call-template>
+        </if>
+        <if test="string-length($id) = 4">
+            <call-template name="wikipedia-lis">
+                <with-param name="id" select="$id"/>
+                <with-param name="lookupdoc" select="$people"/>
+            </call-template>
+        </if>
     </variable>
     <variable name="wikiname">
-        <call-template name="wikipedia-name">
-            <with-param name="id" select="$id"/>
-            <with-param name="lookupdoc" select="$people"/>
-        </call-template>
+        <if test="string-length($id) = 7">
+            <call-template name="wikipedia-name-id">
+                <with-param name="id" select="$id"/>
+                <with-param name="lookupdoc" select="$people"/>
+            </call-template>
+        </if>
+        <if test="string-length($id) = 4">
+            <call-template name="wikipedia-name-lis">
+                <with-param name="id" select="$id"/>
+                <with-param name="lookupdoc" select="$people"/>
+            </call-template>
+        </if>
     </variable>    
     <text>[[</text>
     <value-of select="$wikipage"/>
@@ -117,13 +155,13 @@
 <template name="wikilinkcommittee">
     <param name="id"/>
     <variable name="wikipage">
-        <call-template name="wikipedia-key">
+        <call-template name="wikipedia-id">
             <with-param name="id" select="$id"/>
             <with-param name="lookupdoc" select="$committees"/>
         </call-template>
     </variable>
     <variable name="wikiname">
-        <call-template name="wikipedia-name">
+        <call-template name="wikipedia-name-id">
             <with-param name="id" select="$id"/>
             <with-param name="lookupdoc" select="$committees"/>
         </call-template>
@@ -167,7 +205,7 @@
     <param name="id"/>
     <param name="idx"/>
     <variable name="wikipage">
-        <call-template name="wikipedia-key">
+        <call-template name="wikipedia-id">
             <with-param name="id" select="$id"/>
             <with-param name="lookupdoc" select="$idx"/>
         </call-template>
@@ -192,7 +230,7 @@
     <param name="id"/>
     <param name="idx"/>
     <variable name="wikipage">
-        <call-template name="wikipedia-key">
+        <call-template name="wikipedia-id">
             <with-param name="id" select="$id"/>
             <with-param name="lookupdoc" select="$idx"/>
         </call-template>
@@ -208,36 +246,6 @@
         </otherwise>
     </choose>
 </template>
-
-<!-- 
-<template match="cato:entity-ref[@entity-type='uscode'][starts-with(@value, 'usc/')]
-    |external-xref[@legal-doc='usc' and not(parent::cato:entity-ref[@entity-type='uscode'])]">
-    <variable name="parts" select="str:tokenize(@value, '/')"/>
-    <variable name="title" select="$parts[2]"/>
-    <variable name="section" select="$parts[3]"/>
-    <text>[http://www.law.cornell.edu/uscode/text/</text>
-    <value-of select="concat($title,'/',$section)"/>
-    <text> </text>
-    <apply-templates/>
-    <text>], </text>
-</template>
- -->
-<!--
-Using the key and Muenchian grouping to remove dupes
--->
-<!-- <template match="cato:entity-ref[@entity-type='federal-body']">
-    <for-each select="cato:entity-ref[count(. | key('federal-bodies', (@entity-id | @entity-parent-id)[1])[1]) = 1]">
-        <for-each select="key('federal-bodies', (@entity-id | @entity-parent-id)[1])">
-            <call-template name="wikilink">
-                <with-param name="id" select="(@entity-id | @entity-parent-id)[1]"/>
-                <with-param name="idx" select="$federal-bodies"/>
-            </call-template>
-        </for-each>
-    </for-each>
-</template> -->
-
-
-
 
 <template match="cato:entity[@entity-type='auth-auth-approp']">
  <!-- within this we need the funds-and-year tag for elements @amount & @year -->
@@ -287,25 +295,64 @@ Using the key and Muenchian grouping to remove dupes
     <text>}},</text>
 </template>
 
-<template match="cato:entity-ref[@entity-type='uscode'][starts-with(@value, 'usc/')]
-    |external-xref[@legal-doc='usc' and not(parent::cato:entity-ref[@entity-type='uscode'])]">
+
+<!-- 
+AHA! we need a rule to detect the ones we DON'T want and return an empty value!!!
+
+TODO
+
+{{USCSub|42|1395x}}, {{USCSub|20|1061}}, {{USCSub|20|1033}}, subchapter 1 ofchapter 57of title 5, United States Code{{USCSub|31|1342}}
+
+<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/57/1">
+    subchapter 1 of 
+    <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/57">chapter 57</external-xref> 
+    of title 5, United States Code
+</cato:entity-ref>
+
+
+we're ending up with:
+
+, subchapter 1 ofchapter 57of title 5, United States Code{{USCSub|31|1342}}
+ -->
+<template match="external-xref[@legal-doc='usc' and parent::cato:entity-ref[@entity-type='uscode']]">
+    <text></text>
+</template>
+
+<!-- This is falsely matching on usc-chapter -->
+<template match="cato:entity-ref[@entity-type='uscode']">
     <variable name="parts" select="str:tokenize(@value, '/')"/>
     <variable name="descr" select="$parts[1]"/>    
     <variable name="title" select="$parts[2]"/>
     <variable name="section" select="$parts[3]"/>
-<!--     <variable name="ss1" select="$parts[4]"/>
+    <variable name="ss1" select="$parts[4]"/>
     <variable name="ss2" select="$parts[5]"/>
-    <variable name="ss3" select="$parts[6]"/> -->
-
+    <variable name="ss3" select="$parts[6]"/>
     <text></text>
     <if test="string-length($title) > 0">
-        <text>{{USCSub|</text>
+        <choose>
+        <when test="$descr = 'usc-chapter'">
+            <text>{{Usc-title-chap|</text>
+        </when>
+        <when test="$descr = 'usc-appendix'">
+            <text>{{USC|</text>
+        </when>        
+        <when test="$descr = 'usc'">
+            <text>{{USC|</text>
+        </when>
+        <otherwise>
+            <text>{{***UNHANDLED-ERROR|</text>            
+        </otherwise>
+        </choose>      
         <value-of select="$title"/>
         <if test="string-length($section) > 0">
             <text>|</text><value-of select="$section"/>
         </if>
-        <text>}}</text>        
-    </if>
+        <text>}}</text>   
+        <!-- the etseq could be anywhere. The test is redundant but readable & short-circuit not worth complexity -->     
+        <if test="$ss1='etseq'"><text> et seq.</text></if>
+        <if test="$ss2='etseq'"><text> et seq.</text></if>
+        <if test="$ss2='etseq'"><text> et seq.</text></if>
+    </if>    
     <text>, </text>     
 </template>
 
@@ -427,7 +474,7 @@ wuff what a hassle. this is option but may have values like:
 | number of co-sponsors = <value-of select="count(//cosponsor)"/>
 | public law url  = 
 | cite public law = <!-- <value-of select="$public-law"/> --><!--{{USPL|XXX|YY}} where X is the congress number and Y is the law number-->
-| cite statutes at large = 
+| cite statutes at large = <value-of select="$statute-at-large"/><!--{{usstat}} can be used-->
 | acts affected    = <value-of select="$acts"/><!--list, if applicable; make wikilinks where possible-->
 | acts repealed   = <!--list, if applicable; make wikilinks where possible-->
 | title affected   = <!--US code titles changed-->
