@@ -1,0 +1,2815 @@
+<doc>
+  <docmeta id="113s1533is">
+    <bill congress="113" type="s" number="1533" version="is"/>
+    <revision size="91551" annotations="0" status="complete" id="13" commit-time="2013-10-16T21:12:11Z" committer="mbohmer" doc="113s1533is/13.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+  <metadata>
+<dublinCore>
+<title>113 S1533 IS: Stop Tax Haven Abuse Act</title>
+<publisher>U.S. Senate</publisher>
+<date>2013-09-19</date>
+<format>text/xml</format>
+<language>EN</language>
+<rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code>
+    <congress>113th CONGRESS</congress>
+    <session>1st Session</session>
+    <legis-num>S. 1533</legis-num>
+    <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+    <action>
+      <action-date date="20130919">September 19, 2013</action-date>
+      <action-desc>
+        <sponsor name-id="S131">Mr. Levin</sponsor> (for himself, <cosponsor name-id="S316">Mr. Whitehouse</cosponsor>, <cosponsor name-id="S319">Mr. Begich</cosponsor>, and <cosponsor name-id="S324">Mrs. Shaheen</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name>
+      </action-desc>
+    </action>
+    <legis-type>A BILL</legis-type>
+    <official-title>To end offshore tax abuses, to preserve our national defense and protect American families and businesses from devastating cuts, and for other purposes.</official-title>
+  </form>
+  <legis-body>
+    <section id="id5EBD43343CD54A5F9A7EF3BC2898874B" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title, etc</header>
+      <subsection id="idF0CF2819A873412AB523E06383E7DE82">
+        <enum>(a)</enum>
+        <header>Short
+			 title</header>
+        <text display-inline="yes-display-inline">This Act may be cited
+			 as the <quote>
+            <short-title>Stop Tax Haven Abuse
+			 Act</short-title>
+          </quote>.</text>
+      </subsection>
+      <subsection commented="no" display-inline="no-display-inline" id="ID7662462A6F0D46D2B9E80FB96061B16A">
+        <enum>(b)</enum>
+        <header>Amendment of
+			 1986 code</header>
+        <text display-inline="yes-display-inline">Except as otherwise
+			 expressly provided, whenever in this Act an amendment or repeal is expressed in
+			 terms of an amendment to, or repeal of, a section or other provision, the
+			 reference shall be considered to be made to a section or other provision of the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986" entity-type="act">Internal Revenue Code of 1986</cato:entity-ref>.</text>
+      </subsection>
+      <subsection commented="no" display-inline="no-display-inline" id="idAEBC6DEC28A54842AB2B437C07DD2712">
+        <enum>(c)</enum>
+        <header>Table of
+			 contents</header>
+        <text>The table of contents of this Act is as follows:</text>
+        <toc>
+          <toc-entry idref="id5EBD43343CD54A5F9A7EF3BC2898874B" level="section">Sec. 1. Short title, etc.</toc-entry>
+          <toc-entry idref="IDB7B37F3468BB45E7AE5084CC36F6F83F" level="title">TITLE I—Deterring the use of tax havens for tax evasion</toc-entry>
+          <toc-entry idref="id9BFBAD9CD61A4AF19DA8B5976FCB1BE9" level="section">Sec. 101. Authorizing special measures against foreign jurisdictions, financial institutions, and others that significantly impede United States tax enforcement.</toc-entry>
+          <toc-entry idref="id94F9AF51995B4B1592D21D60E9EFF60A" level="section">Sec. 102. Strengthening the Foreign Account Tax Compliance Act (FATCA).</toc-entry>
+          <toc-entry idref="id5C504F6B52CE435AA920E9EC3647BC16" level="section">Sec. 103. Treatment of foreign corporations managed and controlled in the United States as domestic corporations.</toc-entry>
+          <toc-entry idref="id485CA00ABAD04157892337B8B6D2C093" level="section">Sec. 104. Reporting United States beneficial owners of foreign owned financial accounts.</toc-entry>
+          <toc-entry idref="idDCAB087D2DA7446E8077EBAA39360431" level="section">Sec. 105. Swap payments made from the United States to persons offshore.</toc-entry>
+          <toc-entry idref="idACA9F3B756974383B8294F5002A604F3" level="title">TITLE II—Other measures To combat tax haven abuses</toc-entry>
+          <toc-entry idref="idb2d8ca6cd7fd46668987b45191a0b64a" level="section">Sec. 201. Country-by-country reporting.</toc-entry>
+          <toc-entry idref="id194f4b0f30f845198be786f70029597c" level="section">Sec. 202. Penalty for failing to disclose offshore holdings.</toc-entry>
+          <toc-entry idref="id1b614cd19e6f47de90e1443fb7d8cae0" level="section">Sec. 203. Deadline for anti-money laundering rule for investment advisers.</toc-entry>
+          <toc-entry idref="id54ae0abf4c054a39bd4f19a6bc229598" level="section">Sec. 204. Anti-money laundering requirements for formation agents.</toc-entry>
+          <toc-entry idref="id943F503126C543BE862E09A8B5B6FBDE" level="section">Sec. 205. Strengthening John Doe summons proceedings.</toc-entry>
+          <toc-entry idref="id7B679E7CCEDD42ACA24E10D18C2D1F98" level="section">Sec. 206. Improving enforcement of foreign financial account reporting.</toc-entry>
+          <toc-entry idref="id28FAF690BF934E91B65449643448E259" level="title">TITLE III—Ending corporate offshore tax avoidance</toc-entry>
+          <toc-entry idref="H2E9F6CC15B284B3D91F7B5E5044DA200" level="section">Sec. 301. Allocation of expenses and taxes on basis of repatriation of foreign income.</toc-entry>
+          <toc-entry idref="HA5CB8DDB6144456F86CAB91F55046482" level="section">Sec. 302. Excess income from transfers of intangibles to low-taxed affiliates treated as subpart F income.</toc-entry>
+          <toc-entry idref="id721844706450447B8815468A0278B98D" level="section">Sec. 303. Limitations on income shifting through intangible property transfers.</toc-entry>
+          <toc-entry idref="idE32F684939214034A3D53BBC755E6ACF" level="section">Sec. 304. Repeal of check-the-box rules for certain foreign entities and CFC look-thru rules.</toc-entry>
+          <toc-entry idref="id44193026BB094E399434B77F5DDE244F" level="section">Sec. 305. Prohibition on offshore loan abuse.</toc-entry>
+        </toc>
+      </subsection>
+    </section>
+    <title commented="no" id="IDB7B37F3468BB45E7AE5084CC36F6F83F" style="OLC">
+      <enum>I</enum>
+      <header>Deterring the use of tax havens for tax
+			 evasion</header>
+      <section id="id9BFBAD9CD61A4AF19DA8B5976FCB1BE9">
+        <enum>101.</enum>
+        <header>Authorizing
+			 special measures against foreign jurisdictions, financial institutions, and
+			 others that significantly impede United States tax enforcement</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A" entity-type="uscode">
+            <external-xref legal-doc="usc" parsable-cite="usc/31/5318A">Section 5318A</external-xref> of title 31, United States
+			 Code</cato:entity-ref>, is amended—</text>
+        <paragraph id="idF4124E540E614EF78255810AF10BE771">
+          <enum>(1)</enum>
+          <text>by striking the
+			 section heading and inserting the following:</text>
+          <quoted-block display-inline="no-display-inline" id="id8E44AAE3AB514B39BFB0436BA8ABB62C" style="USC">
+            <section id="idB7F9F3BEF7CC45EC9862D003421C4BCA">
+              <enum>5318A.</enum>
+              <header>Special
+				measures for jurisdictions, financial institutions, or international
+				transactions that are of primary money laundering concern or significantly
+				impede United States tax
+				enforcement</header>
+            </section>
+            <after-quoted-block>;</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="id0EC66DA561DF4D4EA27D9F3018879455">
+          <enum>(2)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/a" entity-type="uscode">subsection
+			 (a)</cato:entity-ref>, by striking the subsection heading and inserting the following:</text>
+          <quoted-block display-inline="no-display-inline" id="id4C257715FD3043F6A44167F303680CC5" style="USC">
+            <subsection id="id41080F3A7F1F49C28DE9C0BC453DB222">
+              <enum>(a)</enum>
+              <header>Special
+				measures To counter money laundering and efforts to significantly impede United
+				States tax
+				enforcement</header>
+            </subsection>
+            <after-quoted-block>;</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="id4A3C15CA3C2644E6AC4582C940CEEAEF">
+          <enum>(3)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/c" entity-type="uscode">subsection
+			 (c)</cato:entity-ref>—</text>
+          <subparagraph id="idA7A67EA7E52647ED905D9913A03B4F51">
+            <enum>(A)</enum>
+            <text>by striking the
+			 subsection heading and inserting the following:</text>
+            <quoted-block display-inline="no-display-inline" id="id16E8BD55D7E54C24A2A1DDCAEDDC6406" style="USC">
+              <subsection id="idF43F622F940D4097B815FBA64F909A9D">
+                <enum>(c)</enum>
+                <header>Consultations
+				and information To be considered in finding jurisdictions, institutions, types
+				of accounts, or transactions To be of primary money laundering concern or To be
+				significantly impeding United States tax
+				enforcement</header>
+              </subsection>
+              <after-quoted-block>;
+				and</after-quoted-block>
+            </quoted-block>
+          </subparagraph>
+          <subparagraph id="idC31F3A23DB3E45D59DA9426C3021312A">
+            <enum>(B)</enum>
+            <text>by inserting at
+			 the end of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/c/2" entity-type="uscode">paragraph (2)</cato:entity-ref> thereof the following new subparagraph:</text>
+            <quoted-block display-inline="no-display-inline" id="id247DB39BC01B4365932B4AC67FECC721" style="OLC">
+              <subparagraph id="id9DAFBFB871844215984F35E9DBAFC443">
+                <enum>(C)</enum>
+                <header>Other
+				considerations</header>
+                <text>The fact that a jurisdiction or financial
+				institution is cooperating with the United States on implementing the
+				requirements specified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Internal Revenue Code of 1986/ch:4" entity-type="act">
+                    <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/4">chapter 4</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> may be
+				favorably considered in evaluating whether such jurisdiction or financial
+				institution is significantly impeding United States tax
+				enforcement.</text>
+              </subparagraph>
+              <after-quoted-block>;</after-quoted-block>
+            </quoted-block>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="id9F17940EA8A84DEBBF1D9710B6E77154">
+          <enum>(4)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/a/1" entity-type="uscode">subsection
+			 (a)(1)</cato:entity-ref>, by inserting <quote>or is significantly impeding United States tax
+			 enforcement</quote> after <quote>primary money laundering
+			 concern</quote>;</text>
+        </paragraph>
+        <paragraph id="id4AA6FD08A259462F9037F0210FC2E7B8">
+          <enum>(5)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/a/4" entity-type="uscode">subsection
+			 (a)(4)</cato:entity-ref>—</text>
+          <subparagraph id="id6C2800A414C941959AB41EE424ECBD32">
+            <enum>(A)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/a/4/A" entity-type="uscode">subparagraph
+			 (A)</cato:entity-ref>—</text>
+            <clause id="id864273A3DD344D83BBF14D6484651E94">
+              <enum>(i)</enum>
+              <text>by
+			 inserting <quote>in matters involving money laundering,</quote> before
+			 <quote>shall consult</quote>; and</text>
+            </clause>
+            <clause id="idB2F69EF4D5864DC1ABC06A60EFDE908D">
+              <enum>(ii)</enum>
+              <text>by
+			 striking <quote>and</quote> at the end;</text>
+            </clause>
+          </subparagraph>
+          <subparagraph id="id17B4FB76D1814EF18DAD75F6321BB3C2">
+            <enum>(B)</enum>
+            <text>by redesignating
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/a/4/B" entity-type="uscode">subparagraph (B)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="usc/31/5318A/a/4/C" entity-type="uscode">subparagraph (C)</cato:entity-ref>; and</text>
+          </subparagraph>
+          <subparagraph id="id858B56F575014C8A8707A112D294C148">
+            <enum>(C)</enum>
+            <text>by inserting
+			 after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/a/4/A" entity-type="uscode">subparagraph (A)</cato:entity-ref> the following:</text>
+            <quoted-block display-inline="no-display-inline" id="id5ADB7D5B9A6E4758B1A56C72EE85363E" style="OLC">
+              <subparagraph id="idDD48E440921A46AC99080C97CB5C26B4">
+                <enum>(B)</enum>
+                <text>in matters
+				involving United States tax enforcement, shall consult with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2050" entity-type="federal-body">Commissioner of
+				the Internal Revenue</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1900" entity-type="federal-body">Secretary of State</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General of the
+				United States</cato:entity-ref>, and in the sole discretion of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2000" entity-type="federal-body">Secretary</cato:entity-ref>, such other agencies
+				and interested parties as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2000" entity-type="federal-body">Secretary</cato:entity-ref> may find to be appropriate;
+				and</text>
+              </subparagraph>
+              <after-quoted-block>;</after-quoted-block>
+            </quoted-block>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="idDCA77BA32D954B1ABCF6CFAC493FD85B">
+          <enum>(6)</enum>
+          <text>in each of
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/b/1/A" entity-type="uscode">paragraphs (1)(A)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/b/2" entity-type="uscode">(2)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/b/3" entity-type="uscode">(3)</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/b/4" entity-type="uscode">(4) of subsection (b)</cato:entity-ref>, by inserting <quote>or
+			 to be significantly impeding United States tax enforcement</quote> after
+			 <quote>primary money laundering concern</quote> each place that term
+			 appears;</text>
+        </paragraph>
+        <paragraph id="idFAACBE96F67A4DF6B5D54780C7F4BB45">
+          <enum>(7)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/b" entity-type="uscode">subsection
+			 (b)</cato:entity-ref>, by striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/b/5" entity-type="uscode">paragraph (5)</cato:entity-ref> and inserting the following:</text>
+          <quoted-block display-inline="no-display-inline" id="id44F4CD3B6FE14AF2BEDC31C41F949E74" style="OLC">
+            <paragraph id="idBF6D855AD6EA4B06830706EC29D591A9">
+              <enum>(5)</enum>
+              <header>Prohibitions or
+				conditions on opening or maintaining certain correspondent or payable-through
+				accounts or authorizing certain payment cards</header>
+              <text>If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2000" entity-type="federal-body">Secretary</cato:entity-ref>
+				finds a jurisdiction outside of the United States, 1 or more financial
+				institutions operating outside of the United States, or 1 or more classes of
+				transactions within or involving a jurisdiction outside of the United States to
+				be of primary money laundering concern or to be significantly impeding United
+				States tax enforcement, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2000" entity-type="federal-body">Secretary</cato:entity-ref>, in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1900" entity-type="federal-body">Secretary of
+				State</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General of the United States</cato:entity-ref>, and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9559" entity-type="federal-body">Chairman of the Board
+				of Governors of the Federal Reserve System</cato:entity-ref>, may prohibit, or impose conditions
+				upon—</text>
+              <subparagraph id="idB537F33EDC574FBB8FF5007BA47DAB3D">
+                <enum>(A)</enum>
+                <text>the opening or
+				maintaining in the United States of a correspondent account or payable-through
+				account; or</text>
+              </subparagraph>
+              <subparagraph id="id7824CC085F484343BCD33C0F2DBA37AA">
+                <enum>(B)</enum>
+                <text>the
+				authorization, approval, or use in the United States of a credit card, charge
+				card, debit card, or similar credit or debit financial instrument by any
+				domestic financial institution, financial agency, or credit card company or
+				association, for or on behalf of a foreign banking institution, if such
+				correspondent account, payable-through account, credit card, charge card, debit
+				card, or similar credit or debit financial instrument, involves any such
+				jurisdiction or institution, or if any such transaction may be conducted
+				through such correspondent account, payable-through account, credit card,
+				charge card, debit card, or similar credit or debit financial
+				instrument.</text>
+              </subparagraph>
+            </paragraph>
+            <after-quoted-block>;
+				and</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="idF18F1BAAD9BE4A4DACDD61D43603B68A">
+          <enum>(8)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/c/1" entity-type="uscode">subsection
+			 (c)(1)</cato:entity-ref>, by inserting <quote>or is significantly impeding United States tax
+			 enforcement</quote> after <quote>primary money laundering
+			 concern</quote>;</text>
+        </paragraph>
+        <paragraph id="id7E0E007D869F4DBCA62A31AE0378307B">
+          <enum>(9)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/c/2/A" entity-type="uscode">subsection
+			 (c)(2)(A)</cato:entity-ref>—</text>
+          <subparagraph id="idDE389038B2924B3882E22BB6DFD3A7C9">
+            <enum>(A)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/c/2/A/ii" entity-type="uscode">clause (ii)</cato:entity-ref>,
+			 by striking <quote>bank secrecy or special regulatory advantages</quote> and
+			 inserting <quote>bank, tax, corporate, trust, or financial secrecy or
+			 regulatory advantages</quote>;</text>
+          </subparagraph>
+          <subparagraph id="id486E738560B449289D56BFA4A9D48EC7">
+            <enum>(B)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/c/2/A/iii" entity-type="uscode">clause (iii)</cato:entity-ref>,
+			 by striking <quote>supervisory and counter-money</quote> and inserting
+			 <quote>supervisory, international tax enforcement, and
+			 counter-money</quote>;</text>
+          </subparagraph>
+          <subparagraph id="id248FC50E35A94F9189B90583102DA25C">
+            <enum>(C)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/c/2/A/v" entity-type="uscode">clause (v)</cato:entity-ref>, by
+			 striking <quote>banking or secrecy</quote> and inserting <quote>banking, tax,
+			 or secrecy</quote>; and</text>
+          </subparagraph>
+          <subparagraph id="id78618B0581D84DDC9F35885C8FFB86C9">
+            <enum>(D)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/c/2/A/vi" entity-type="uscode">clause (vi)</cato:entity-ref>,
+			 by inserting <quote>, tax treaty, or tax information exchange agreement</quote>
+			 after <quote>treaty</quote>;</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="idD71D3892F441459C915913E573FB209D">
+          <enum>(10)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/c/2/B" entity-type="uscode">subsection
+			 (c)(2)(B)</cato:entity-ref>—</text>
+          <subparagraph id="idA56473BC19484FBCB4E784DD59A9AD86">
+            <enum>(A)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/c/2/B/i" entity-type="uscode">clause (i)</cato:entity-ref>, by
+			 inserting <quote>or tax evasion</quote> after <quote>money laundering</quote>;
+			 and</text>
+          </subparagraph>
+          <subparagraph id="id907D875D9A664A76952F44146982CA6D">
+            <enum>(B)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/c/2/B/iii" entity-type="uscode">clause (iii)</cato:entity-ref>,
+			 by inserting <quote>, tax evasion,</quote> after <quote>money
+			 laundering</quote>; and</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="idDC8D7F569F4B47AF94AE2240931F5BCB">
+          <enum>(11)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/31/5318A/d" entity-type="uscode">subsection
+			 (d)</cato:entity-ref>, by inserting <quote>involving money laundering, and shall notify, in
+			 writing, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSFI00" entity-type="committee">Committee on Finance of the Senate</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HWM00" entity-type="committee">Committee on Ways and
+			 Means of the House of Representatives</cato:entity-ref> of any such action involving United
+			 States tax enforcement</quote> after <quote>such action</quote>.</text>
+        </paragraph>
+      </section>
+      <section commented="no" display-inline="no-display-inline" id="id94F9AF51995B4B1592D21D60E9EFF60A">
+        <enum>102.</enum>
+        <header>Strengthening
+			 the Foreign Account Tax Compliance Act (FATCA)</header>
+        <subsection commented="no" display-inline="no-display-inline" id="idF7A6FC4DA8D9438FB4D27C6206AFC86A">
+          <enum>(a)</enum>
+          <header>Reporting
+			 activities with respect to passive foreign investment companies</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1298/ss:f">Section 1298(f)</cato:entity-ref> is amended by inserting
+			 <quote>, or who directly or indirectly forms, transfers assets to, is a
+			 beneficiary of, has a beneficial interest in, or receives money or property or
+			 the use thereof from,</quote> after <quote>shareholder of</quote>.</text>
+        </subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="id2CA8F646CCF54CE9AD5EF74E271DD5BD">
+          <enum>(b)</enum>
+          <header>Withholdable
+			 payments to foreign financial institutions</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1471/ss:d">Section 1471(d)</cato:entity-ref> is amended—</text>
+          <paragraph commented="no" display-inline="no-display-inline" id="id7238D3E4697946EBB2D2E902F68CE6AF">
+            <enum>(1)</enum>
+            <text display-inline="yes-display-inline">by inserting <quote>or transaction</quote>
+			 after <quote>any depository</quote> in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1471/ss:d/p:2/sp:A">paragraph (2)(A)</cato:entity-ref>, and</text>
+          </paragraph>
+          <paragraph commented="no" display-inline="no-display-inline" id="idEF5CB2CA2F274260BA6A384FC6493B37">
+            <enum>(2)</enum>
+            <text display-inline="yes-display-inline">by striking <quote>or any interest</quote>
+			 and all that follows in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1471/ss:d/p:5/sp:C">paragraph (5)(C)</cato:entity-ref> and inserting <quote>derivatives, or
+			 any interest (including a futures or forward contract, swap, or option) in such
+			 securities, partnership interests, commodities, or derivatives.</quote>.</text>
+          </paragraph>
+        </subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="idA1C0E63C876044BF91C444941A50012B">
+          <enum>(c)</enum>
+          <header>Withholdable
+			 payments to other foreign financial institutions</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1472">Section 1472</cato:entity-ref> is amended—</text>
+          <paragraph commented="no" display-inline="no-display-inline" id="idCE96D6510C68480597B35FD4FD05A382">
+            <enum>(1)</enum>
+            <text display-inline="yes-display-inline">by inserting <quote>as a result of any
+			 customer identification, anti-money laundering, anti-corruption, or similar
+			 obligation to identify account holders,</quote> after <quote>reason to
+			 know,</quote> in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1472/ss:b/p:2">subsection (b)(2)</cato:entity-ref>, and</text>
+          </paragraph>
+          <paragraph commented="no" display-inline="no-display-inline" id="idE5FA28E5CA4A49349CD1FF7A21AE56B9">
+            <enum>(2)</enum>
+            <text display-inline="yes-display-inline">by inserting <quote>as posing a low risk of
+			 tax evasion</quote> after <quote>this subsection</quote> in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1472/ss:c/p:1/sp:G">subsection
+			 (c)(1)(G)</cato:entity-ref>.</text>
+          </paragraph>
+        </subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="id6E6B9AC449474F09BD9346714D4703D4">
+          <enum>(d)</enum>
+          <header>Definitions</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1473/p:2/sp:A/cl:i">Clauses (i)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1473/p:2/sp:A/cl:ii">(ii) of section 1473(2)(A)</cato:entity-ref>
+			 are each amended by inserting <quote>or as a beneficial owner</quote> after
+			 <quote>indirectly</quote>.</text>
+        </subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="id1CFDED9D16FF49F18C2FB343018BCA60">
+          <enum>(e)</enum>
+          <header>Special
+			 rules</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1474/ss:c">Section 1474(c)</cato:entity-ref> is
+			 amended—</text>
+          <paragraph commented="no" display-inline="no-display-inline" id="idF15FCB9F7A0F46E7ACBCDE73D4C1096D">
+            <enum>(1)</enum>
+            <text display-inline="yes-display-inline">by inserting <quote>, except that
+			 information provided under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1471/ss:c">sections 1471(c)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1472/ss:b">1472(b)</cato:entity-ref> may be disclosed to any
+			 Federal law enforcement agency, upon request or upon the initiation of the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2000" entity-type="federal-body">Secretary</cato:entity-ref>, to investigate or address a possible violation of United States
+			 law</quote> after <quote>shall apply</quote> in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1474/ss:c/p:1">paragraph (1)</cato:entity-ref>, and</text>
+          </paragraph>
+          <paragraph commented="no" display-inline="no-display-inline" id="idF82EBABE63374B98983AF82FBBE0B48C">
+            <enum>(2)</enum>
+            <text display-inline="yes-display-inline">by inserting <quote>, or has had an
+			 agreement terminated under such section,</quote> after <quote>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1471/ss:b">section
+			 1471(b)</cato:entity-ref>
+              </quote> in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1474/ss:c/p:2">paragraph (2)</cato:entity-ref>.</text>
+          </paragraph>
+        </subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="idFE1E714D94D441A18C3294D57AD28DF4">
+          <enum>(f)</enum>
+          <header>Information
+			 with respect to foreign financial assets</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6038D/ss:a">Section 6038D(a)</cato:entity-ref> is amended by inserting
+			 <quote>ownership or beneficial ownership</quote> after <quote>holds
+			 any</quote>.</text>
+        </subsection>
+        <subsection id="id8771332DF03846C7BEF1838E959DBFB7">
+          <enum>(g)</enum>
+          <header>Establishing
+			 presumptions for entities and transactions involving non-FATCA
+			 institutions</header>
+          <paragraph id="idA2F109A12D8B4B8DB24F105AA940825C">
+            <enum>(1)</enum>
+            <header>Presumptions
+			 for tax purposes</header>
+            <subparagraph id="id73F2EB45BC054C25B4C281814B5DC18F">
+              <enum>(A)</enum>
+              <header>In
+			 general</header>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:76">Chapter 76</cato:entity-ref> is amended by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7491">section 7491</cato:entity-ref> the
+			 following new subchapter:</text>
+              <quoted-block display-inline="no-display-inline" id="id9D74A738B7314E73B56A79ADDF379DDF" style="OLC">
+                <subchapter id="id21D7AB6E7E8144BEA7B0989927307B75">
+                  <enum>F</enum>
+                  <header>Presumptions for
+				certain legal proceedings</header>
+                  <toc>
+                    <toc-entry idref="idE5D652CDDEB148FAA5E5F736D1A7FF7F" level="section">Sec. 7492. Presumptions pertaining to entities and transactions
+				  involving non-FATCA institutions.</toc-entry>
+                  </toc>
+                  <section id="idE5D652CDDEB148FAA5E5F736D1A7FF7F">
+                    <enum>7492.</enum>
+                    <header>Presumptions
+				pertaining to entities and transactions involving non-FATCA
+				institutions</header>
+                    <subsection id="ID2398562b6c294b65890f023b0c9879e2">
+                      <enum>(a)</enum>
+                      <header>Control</header>
+                      <text>For
+				purposes of any United States civil judicial or administrative proceeding to
+				determine or collect tax, there shall be a rebuttable presumption that a United
+				States person who, directly or indirectly, formed, transferred
+				assets to, was a beneficiary of, had a beneficial interest in, or received
+				money or property or the use thereof from an entity, including a trust,
+				corporation, limited liability company, partnership, or foundation,
+				that holds an account, or in any other manner has assets, in a non-FATCA
+				institution, exercised control over such entity. The presumption of control
+				created by this subsection shall not be applied to prevent the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> from
+				determining or arguing the absence of control.</text>
+                    </subsection>
+                    <subsection id="ID44f40aa924db435181ebddbb96c54f3b">
+                      <enum>(b)</enum>
+                      <header>Transfers of
+				income</header>
+                      <text>For purposes of any United States civil judicial or
+				administrative proceeding to determine or collect tax, there shall be a
+				rebuttable presumption that any amount or thing of value received by a United
+				States person directly or indirectly from an account or from
+				an entity that holds an account, or in any other manner has assets, in
+				a non-FATCA institution, constitutes income of such person taxable in the year
+				of receipt; and any amount or thing of value paid or transferred by or on
+				behalf of a United States person directly or indirectly to an
+				account, or entity that holds an account, or in any other manner
+				has assets, in a non-FATCA institution, represents previously unreported income
+				of such person taxable in the year of the transfer.</text>
+                    </subsection>
+                    <subsection id="IDbd6705cc730d44a7824b6792ca62de0d">
+                      <enum>(c)</enum>
+                      <header>Rebutting the
+				presumptions</header>
+                      <text>The presumptions established in this section may be
+				rebutted only by clear and convincing evidence, including detailed documentary,
+				testimonial, and transactional evidence, establishing that—</text>
+                      <paragraph id="IDd7f61653873e4f9fa1acba24416aaf63">
+                        <enum>(1)</enum>
+                        <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7492/ss:a" proposed="true">subsection
+				(a)</cato:entity-ref>, such taxpayer exercised no control, directly or indirectly, over account
+				or entity at the time in question, and</text>
+                      </paragraph>
+                      <paragraph id="IDe5bc506d3e03422998be0699d010ce19">
+                        <enum>(2)</enum>
+                        <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7492/ss:b" proposed="true">subsection
+				(b)</cato:entity-ref>, such amounts or things of value did not represent income related to such
+				United States person.</text>
+                      </paragraph>
+                      <continuation-text continuation-text-level="subsection">Any court
+				having jurisdiction of a civil proceeding in which control of such an offshore
+				account or offshore entity or the income character of such receipts or amounts
+				transferred is an issue shall prohibit the introduction by the taxpayer of any
+				foreign based document that is not authenticated in open court by a person with
+				knowledge of such document, or any other evidence supplied by a person outside
+				the jurisdiction of a United States court, unless such person appears before
+				the
+				court.</continuation-text>
+                    </subsection>
+                  </section>
+                </subchapter>
+                <after-quoted-block>.</after-quoted-block>
+              </quoted-block>
+            </subparagraph>
+            <subparagraph id="ID7cdd13162ffb43e997f752cd00beb842">
+              <enum>(B)</enum>
+              <text>The table of
+			 subchapters for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:76">chapter 76</cato:entity-ref> is amended by inserting after the item relating to
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:76/sch:E">subchapter E</cato:entity-ref> the following new item:</text>
+              <quoted-block id="iddb7fc65e-879d-4243-9229-a27040e0b3ad" style="OLC">
+                <toc>
+                  <toc-entry idref="id21D7AB6E7E8144BEA7B0989927307B75" level="subchapter">Subchapter F—Presumptions for certain legal
+				proceedings</toc-entry>
+                </toc>
+                <after-quoted-block>.</after-quoted-block>
+              </quoted-block>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="ID7084d99cff2446d3b809c2d7b603fe81">
+            <enum>(2)</enum>
+            <header>Definition of
+			 non-fatca institution</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7701/ss:a">Section 7701(a)</cato:entity-ref> is amended by adding at the
+			 end the following new paragraph:</text>
+            <quoted-block display-inline="no-display-inline" id="id6E35D8ED3AFB4D659EF18467A0933DB4" style="OLC">
+              <paragraph id="ID1ceb08bd6d3541b191297f7499751a06">
+                <enum>(51)</enum>
+                <header>Non-fatca
+				institution</header>
+                <text>The term <term>non-FATCA institution</term> means any
+				financial institution that does not meet the reporting requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1471/ss:b">section
+				1471(b)</cato:entity-ref>.</text>
+              </paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+          <paragraph commented="no" id="id897FDF4672644FB7A4B42816E2AC6EC3">
+            <enum>(3)</enum>
+            <header>Presumptions
+			 for securities law purposes</header>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Securities Exchange Act of 1934/s:21">Section 21 of the Securities Exchange
+			 Act of 1934</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/78u">
+                  <cato:entity-ref entity-type="uscode" value="usc/15/78u">15 U.S.C. 78u</cato:entity-ref>
+                </external-xref>)</cato:entity> is amended by adding at the end the following new
+			 subsection:</text>
+            <quoted-block display-inline="no-display-inline" id="id2D1944838B02446F9CD02119D414D6D5" style="OLC">
+              <subsection id="IDf4d8616139c04203a110e43c74c393cd">
+                <enum>(j)</enum>
+                <header>Presumptions
+				pertaining to control and beneficial ownership</header>
+                <paragraph id="IDb212199fe90a4987811361ed869684ec">
+                  <enum>(1)</enum>
+                  <header>Control</header>
+                  <text>For
+				purposes of any civil judicial or administrative proceeding under this title,
+				there shall be a rebuttable presumption that a United States person who, directly or indirectly, formed, transferred assets to, was a beneficiary
+				of, had a beneficial interest in, or received money or property or the use
+				thereof from an entity, including a trust, corporation, limited liability
+				company, partnership, or foundation, that holds an account, or in any
+				other manner has assets, in a non-FATCA institution (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7701/ss:a/p:51" proposed="true">section
+				7701(a)(51) of the Internal Revenue Code of 1986</cato:entity-ref>), exercised control over such
+				entity. The presumption of control created by this paragraph shall not be
+				applied to prevent the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Commission</cato:entity-ref> from determining or arguing the absence of
+				control.</text>
+                </paragraph>
+                <paragraph id="ID74c02bf6b5214a3db7b94a8bd24e8a97">
+                  <enum>(2)</enum>
+                  <header>Beneficial
+				ownership</header>
+                  <text>For purposes of any civil judicial or administrative
+				proceeding under this title, there shall be a rebuttable presumption that
+				securities that are nominally owned by an entity, including a trust,
+				corporation, limited liability company, partnership, or foundation,
+				and that are held in a non-FATCA institution (as so defined), are beneficially
+				owned by any United States person who directly or indirectly
+				exercised control over such entity. The presumption of beneficial ownership
+				created by this paragraph shall not be applied to prevent the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Commission</cato:entity-ref> from
+				determining or arguing the absence of beneficial
+				ownership.</text>
+                </paragraph>
+              </subsection>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+          <paragraph id="ID12c4d95c47b7432eb379aac9638c60cf">
+            <enum>(4)</enum>
+            <header>Presumption for
+			 reporting purposes relating to foreign financial accounts</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5314">Section
+			 5314 of title 31, United States Code</cato:entity-ref>, is amended by adding at the end the
+			 following new subsection:</text>
+            <quoted-block display-inline="no-display-inline" id="id861C1067AAAB4A4D99F4205B88D2F095" style="OLC">
+              <subsection id="IDb13c354e8f824c5d812fd37e5da8cc21">
+                <enum>(d)</enum>
+                <header>Rebuttable
+				presumption</header>
+                <text>For purposes of this section, there shall be a
+				rebuttable presumption that any account with a non-FATCA institution (as
+				defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7701/ss:a/p:51" proposed="true">
+                    <external-xref legal-doc="usc" parsable-cite="usc/26/7701">section 7701(a)(51)</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref>) contains
+				funds in an amount that is at least sufficient to require a report prescribed
+				by regulations under this
+				section.</text>
+              </subsection>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+          <paragraph id="IDd9fbd183ea7344e6a52b01e3ef694932">
+            <enum>(5)</enum>
+            <header>Regulatory
+			 authority</header>
+            <text>Not later than 180 days after the date of enactment of
+			 this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Chairman of the Securities and
+			 Exchange Commission</cato:entity-ref> shall each adopt regulations or other guidance necessary to
+			 implement the amendments made by this subsection. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> and the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Chairman</cato:entity-ref> may, by regulation or guidance, provide that the presumption of
+			 control shall not extend to particular classes of transactions, such as
+			 corporate reorganizations or transactions below a specified dollar threshold,
+			 if either determines that applying such amendments to such transactions is not
+			 necessary to carry out the purposes of such amendments.</text>
+          </paragraph>
+        </subsection>
+        <subsection id="ID4c414671c2d545cfaf1d1d33431bc93b">
+          <enum>(h)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendments made by this section shall take effect on the
+			 date which is 180 days after the date of enactment of this Act, whether or not
+			 regulations are issued under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Tax Haven Abuse Act/s:102/ss:g/p:5" proposed="true">subsection (g)(5)</cato:entity-ref>.</text>
+        </subsection>
+      </section>
+      <section id="id5C504F6B52CE435AA920E9EC3647BC16">
+        <enum>103.</enum>
+        <header>Treatment of
+			 foreign corporations managed and controlled in the United States as domestic
+			 corporations</header>
+        <subsection id="idBACDB95C263B47D28873C87FCE2AC89C">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7701">Section 7701</cato:entity-ref> is amended by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7701/ss:p">subsection (p)</cato:entity-ref>
+			 as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7701/ss:q" proposed="true">subsection (q)</cato:entity-ref> and by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7701/ss:o">subsection (o)</cato:entity-ref> the following new
+			 subsection:</text>
+          <quoted-block display-inline="no-display-inline" id="id79140093B2894F6FAFD9B95A790406FB" style="OLC">
+            <subsection id="idAA6AC941C4BA430F892CAA2B5734F0BA">
+              <enum>(p)</enum>
+              <header>Certain
+				corporations managed and controlled in the United States treated as domestic
+				for income tax</header>
+              <paragraph id="idE32052565C9F40A9864D07831B89DE5C">
+                <enum>(1)</enum>
+                <header>In
+				general</header>
+                <text>Notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7701/ss:a/p:4">subsection (a)(4)</cato:entity-ref>, in the case of a
+				corporation described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7701/ss:p/p:2" proposed="true">paragraph (2)</cato:entity-ref> if—</text>
+                <subparagraph id="id3C1B3308DC3744028EAC816BA411B781">
+                  <enum>(A)</enum>
+                  <text>the corporation
+				would not otherwise be treated as a domestic corporation for purposes of this
+				title, but</text>
+                </subparagraph>
+                <subparagraph id="id249293B7AC814BDD90EC723AC59EC693">
+                  <enum>(B)</enum>
+                  <text>the management
+				and control of the corporation occurs, directly or indirectly, primarily within
+				the United States,</text>
+                </subparagraph>
+                <continuation-text continuation-text-level="paragraph">then,
+				solely for purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1">chapter 1</cato:entity-ref> (and any other provision of this title
+				relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1">chapter 1</cato:entity-ref>), the corporation shall be treated as a domestic
+				corporation.</continuation-text>
+              </paragraph>
+              <paragraph id="id67E40F69D1794680BE8145E4753BD9D2">
+                <enum>(2)</enum>
+                <header>Corporation
+				described</header>
+                <subparagraph id="id880B1CF2539E432099A4C5372506D8A9">
+                  <enum>(A)</enum>
+                  <header>In
+				general</header>
+                  <text>A corporation is described in this paragraph if—</text>
+                  <clause id="id59809795AC644982BE332EFA61D921F4">
+                    <enum>(i)</enum>
+                    <text>the stock of such
+				corporation is regularly traded on an established securities market, or</text>
+                  </clause>
+                  <clause id="id258AC5B95A27441F9BA8E888948C54B4">
+                    <enum>(ii)</enum>
+                    <text>the aggregate
+				gross assets of such corporation (or any predecessor thereof), including assets
+				under management for investors, whether held directly or indirectly, at any
+				time during the taxable year or any preceding taxable year is $50,000,000 or
+				more.</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="idBEF400D4FDD042CAA0FB32E0D1B77267">
+                  <enum>(B)</enum>
+                  <header>General
+				exception</header>
+                  <text>A corporation shall not be treated as described in this
+				paragraph if—</text>
+                  <clause id="id1C69FD700AE84B4DAAD4AAE055A3A1E1">
+                    <enum>(i)</enum>
+                    <text>such corporation
+				was treated as a corporation described in this paragraph in a preceding taxable
+				year,</text>
+                  </clause>
+                  <clause id="id731D8713A31F469684AE4F564E5021DD">
+                    <enum>(ii)</enum>
+                    <text>such
+				corporation—</text>
+                    <subclause id="idAF91D14CA3CC4B4787B0CB2CDE197515">
+                      <enum>(I)</enum>
+                      <text>is not regularly
+				traded on an established securities market, and</text>
+                    </subclause>
+                    <subclause id="id40C3B5E5F29D46919AB11FE1F9B6786B">
+                      <enum>(II)</enum>
+                      <text>has, and is
+				reasonably expected to continue to have, aggregate gross assets (including
+				assets under management for investors, whether held directly or indirectly) of
+				less than $50,000,000, and</text>
+                    </subclause>
+                  </clause>
+                  <clause id="idED22F8146E124D7491157702076EEC98">
+                    <enum>(iii)</enum>
+                    <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>
+				grants a waiver to such corporation under this subparagraph.</text>
+                  </clause>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="id8EB3CA3B928440F49B97427DF1B48450">
+                <enum>(3)</enum>
+                <header>Management and
+				control</header>
+                <subparagraph id="idCA75CD2B5D774D38829E148821B2E797">
+                  <enum>(A)</enum>
+                  <header>In
+				general</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall prescribe regulations for purposes of
+				determining cases in which the management and control of a corporation is to be
+				treated as occurring primarily within the United States.</text>
+                </subparagraph>
+                <subparagraph id="id480C9965EC994F4E9FF497A5AD37E22E">
+                  <enum>(B)</enum>
+                  <header>Executive
+				officers and senior management</header>
+                  <text>Such regulations shall provide
+				that—</text>
+                  <clause id="id19893E630CA54EABA5191DF4D94754E3">
+                    <enum>(i)</enum>
+                    <text>the management
+				and control of a corporation shall be treated as occurring primarily within the
+				United States if substantially all of the executive officers and senior
+				management of the corporation who exercise day-to-day responsibility for making
+				decisions involving strategic, financial, and operational policies of the
+				corporation are located primarily within the United States, and</text>
+                  </clause>
+                  <clause id="id07C2B6E253FC4A4DA6907746729D294F">
+                    <enum>(ii)</enum>
+                    <text>individuals who
+				are not executive officers and senior management of the corporation (including
+				individuals who are officers or employees of other corporations in the same
+				chain of corporations as the corporation) shall be treated as executive
+				officers and senior management if such individuals exercise the day-to-day
+				responsibilities of the corporation described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7701/ss:p/p:3/sp:B/cl:i" proposed="true">clause (i)</cato:entity-ref>.</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="idEA1B1D7C54FD4FC6BB9A4A0A3D1509C4">
+                  <enum>(C)</enum>
+                  <header>Corporations
+				primarily holding investment assets</header>
+                  <text>Such regulations shall also
+				provide that the management and control of a corporation shall be treated as
+				occurring primarily within the United States if—</text>
+                  <clause id="idF57272915E084F14BB8E0D8DC99E872D">
+                    <enum>(i)</enum>
+                    <text>the assets of
+				such corporation (directly or indirectly) consist primarily of assets being
+				managed on behalf of investors, and</text>
+                  </clause>
+                  <clause id="idDCF158FD6B60403297ED00C5D980DC1F">
+                    <enum>(ii)</enum>
+                    <text>decisions about
+				how to invest the assets are made in the United
+				States.</text>
+                  </clause>
+                </subparagraph>
+              </paragraph>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="id38E8A919F7F74A39A0CD3165C6121442">
+          <enum>(b)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendments made by this section shall apply to taxable
+			 years beginning on or after the date which is 2 years after the date of the
+			 enactment of this Act, whether or not regulations are issued under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7701/ss:p/p:3" proposed="true">section
+			 7701(p)(3) of the Internal Revenue Code of 1986</cato:entity-ref>, as added by this
+			 section.</text>
+        </subsection>
+      </section>
+      <section commented="no" display-inline="no-display-inline" id="id485CA00ABAD04157892337B8B6D2C093">
+        <enum>104.</enum>
+        <header>Reporting
+			 United States beneficial owners of foreign owned financial accounts</header>
+        <subsection id="ID3f1120c8e1db4a778ffdba12d7bddad8">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:61/sch:A/pt:III/spt:B">Subpart B of part III of subchapter A of chapter 61</cato:entity-ref> is
+			 amended by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6045B">section 6045B</cato:entity-ref> the following new sections:</text>
+          <quoted-block display-inline="no-display-inline" id="id892D4F7F427C4CA0A49075EEF45138C0" style="OLC">
+            <section id="IDc0e81a22bb5d444f8596a8476238bb4c">
+              <enum>6045C.</enum>
+              <header>Returns
+				regarding United States beneficial owners of financial accounts located in the
+				United States and held in the name of a foreign entity</header>
+              <subsection id="IDd32f2629b00f48b29fd94c855961d627">
+                <enum>(a)</enum>
+                <header>Requirement of
+				return</header>
+                <text>If—</text>
+                <paragraph id="IDdae9a5deb4524a01b7263e88ea26c2e3">
+                  <enum>(1)</enum>
+                  <text>any withholding
+				agent under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1441">sections 1441</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1442">1442</cato:entity-ref> has the control, receipt, custody, disposal,
+				or payment of any amount constituting gross income from sources within the
+				United States of any foreign entity, including a trust, corporation, limited
+				liability company, partnership, or foundation (other than an entity with shares
+				regularly traded on an established securities market), and</text>
+                </paragraph>
+                <paragraph id="ID502541325d2040d5b8e36ef0e0fdabe8">
+                  <enum>(2)</enum>
+                  <text>such withholding
+				agent determines for purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/14">titles 14</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18">18</cato:entity-ref>, or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31">31 of the United States Code</cato:entity-ref>
+				that a United States person has any beneficial interest in the foreign entity
+				or in the account in such entity's name (hereafter in this section referred to
+				as <term>United States beneficial owner</term>),</text>
+                </paragraph>
+                <continuation-text continuation-text-level="subsection">then the
+				withholding agent shall make a return according to the forms or regulations
+				prescribed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>.</continuation-text>
+              </subsection>
+              <subsection id="IDa9c2351499aa4574a7111117b2290c42">
+                <enum>(b)</enum>
+                <header>Required
+				information</header>
+                <text>For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6045C/ss:a" proposed="true">subsection (a)</cato:entity-ref> the information
+				required to be included on the return shall include—</text>
+                <paragraph id="ID4690fc5e52ed44049c96072a763ca968">
+                  <enum>(1)</enum>
+                  <text>the name,
+				address, and, if known, the taxpayer identification number of the United States
+				beneficial owner,</text>
+                </paragraph>
+                <paragraph id="IDc74980a586df4f7cbb466c21a09ff9cd">
+                  <enum>(2)</enum>
+                  <text>the known facts
+				pertaining to the relationship of such United States beneficial owner to the
+				foreign entity and the account,</text>
+                </paragraph>
+                <paragraph id="IDa523e99dd7314c5da8063565fc0ea0bd">
+                  <enum>(3)</enum>
+                  <text>the gross amount
+				of income from sources within the United States (including gross proceeds from
+				brokerage transactions), and</text>
+                </paragraph>
+                <paragraph id="ID0d68005591c1498e840dd509328384dc">
+                  <enum>(4)</enum>
+                  <text>such other
+				information as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> may by forms or regulations provide.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="ID7e3b7070a02f425bb458f5cb2251690a">
+                <enum>(c)</enum>
+                <header>Statements To
+				Be furnished to beneficial owners with respect to whom information is required
+				To Be reported</header>
+                <text>A withholding agent required to make a return
+				under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6045C/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall furnish to each United States beneficial owner whose
+				name is required to be set forth in such return a statement showing—</text>
+                <paragraph id="ID5551b4b5cefe4fbdafd8a10ba983a1d5">
+                  <enum>(1)</enum>
+                  <text>the name,
+				address, and telephone number of the information contact of the person required
+				to make such return, and</text>
+                </paragraph>
+                <paragraph id="ID11be2c700a574c0782cc67d416c111ea">
+                  <enum>(2)</enum>
+                  <text>the information
+				required to be shown on such return with respect to such United States
+				beneficial owner.</text>
+                </paragraph>
+                <continuation-text continuation-text-level="subsection">The
+				written statement required under the preceding sentence shall be furnished to
+				the United States beneficial owner on or before January 31 of the year
+				following the calendar year for which the return under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6045C/ss:a" proposed="true">subsection (a)</cato:entity-ref> was
+				required to be made. In the event the person filing such return does not have a
+				current address for the United States beneficial owner, such written statement
+				may be mailed to the address of the foreign entity.</continuation-text>
+              </subsection>
+            </section>
+            <section id="IDa8e1e6e331ae461181c9792881505afd">
+              <enum>6045D.</enum>
+              <header>Returns by
+				financial institutions regarding establishment of accounts in non-FATCA
+				institutions</header>
+              <subsection id="ID56d55e532e0041b4b09a9282831175c0">
+                <enum>(a)</enum>
+                <header>Requirement of
+				return</header>
+                <text>Any financial institution directly or indirectly opening a
+				bank, brokerage, or other financial account for or on behalf of an offshore
+				entity, including a trust, corporation, limited liability company, partnership,
+				or foundation (other than an entity with shares regularly traded on an
+				established securities market), in a non-FATCA institution (as defined in
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7701/ss:a/p:51" proposed="true">section 7701(a)(51)</cato:entity-ref>) at the direction of, on behalf of, or for the benefit of a
+				United States person shall make a return according to the forms or regulations
+				prescribed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>.</text>
+              </subsection>
+              <subsection id="ID3f9b21e9d2b74319a28f10f495eb807a">
+                <enum>(b)</enum>
+                <header>Required
+				information</header>
+                <text>For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6045D/ss:a" proposed="true">subsection (a)</cato:entity-ref> the information
+				required to be included on the return shall include—</text>
+                <paragraph id="ID74ec78810b854f62bc212d30e1bbe048">
+                  <enum>(1)</enum>
+                  <text>the name,
+				address, and taxpayer identification number of such United States
+				person,</text>
+                </paragraph>
+                <paragraph id="IDb04f08eca6f04361954a64d60af67318">
+                  <enum>(2)</enum>
+                  <text>the name and
+				address of the financial institution at which a financial account is opened,
+				the type of account, the account number, the name under which the account was
+				opened, and the amount of the initial deposit,</text>
+                </paragraph>
+                <paragraph id="ID317334d632144cffb2959ac18878c0bc">
+                  <enum>(3)</enum>
+                  <text>if the account is
+				held in the name of an entity, the name and address of such entity, the type of
+				entity, and the name and address of any company formation agent or other
+				professional employed to form or acquire the entity, and</text>
+                </paragraph>
+                <paragraph id="ID71046cdaf6584a2d8cc9493618118c1e">
+                  <enum>(4)</enum>
+                  <text>such other
+				information as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> may by forms or regulations provide.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="IDaa2447dbfe464b5fbee1d8aa72a5892e">
+                <enum>(c)</enum>
+                <header>Statements To
+				be furnished to United States persons with respect to whom information is
+				required To be reported</header>
+                <text>A financial institution required to make
+				a return under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6045D/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall furnish to each United States person whose
+				name is required to be set forth in such return a statement showing—</text>
+                <paragraph id="ID66ca090b90d8442faded17f92c274428">
+                  <enum>(1)</enum>
+                  <text>the name,
+				address, and telephone number of the information contact of the person required
+				to make such return, and</text>
+                </paragraph>
+                <paragraph id="ID9116de0c722a4b38b14f5c6acf4faa55">
+                  <enum>(2)</enum>
+                  <text>the information
+				required to be shown on such return with respect to such United States
+				person.</text>
+                </paragraph>
+                <continuation-text continuation-text-level="subsection">The
+				written statement required under the preceding sentence shall be furnished to
+				such United States person on or before January 31 of the year following the
+				calendar year for which the return under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6045D/ss:a" proposed="true">subsection (a)</cato:entity-ref> was required to be
+				made.</continuation-text>
+              </subsection>
+              <subsection id="ID36c2cb173c324d219ed4090d077d77b2">
+                <enum>(d)</enum>
+                <header>Exemption</header>
+                <text>The
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> may by regulations exempt any class of United States persons or any
+				class of accounts or entities from the requirements of this section if the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> determines that applying this section to such persons, accounts, or
+				entities is not necessary to carry out the purposes of this
+				section.</text>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="idBB861C689FD94CF48CB0AAC49C93F1E1">
+          <enum>(b)</enum>
+          <header>Penalties</header>
+          <paragraph id="id7024908A780F4CA6A9EBC0500A05E5C5">
+            <enum>(1)</enum>
+            <header>Returns</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6724/ss:d/p:1/sp:B">Section
+			 6724(d)(1)(B)</cato:entity-ref> is amended by striking <quote>or</quote> at the end of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6724/ss:d/p:1/sp:B/cl:xxiv">clause
+			 (xxiv)</cato:entity-ref>, by striking <quote>and</quote> at the end of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6724/ss:d/p:1/sp:B/cl:xxv">clause (xxv)</cato:entity-ref>, and by
+			 adding after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6724/ss:d/p:1/sp:B/cl:xxv">clause (xxv)</cato:entity-ref> the following new clauses:</text>
+            <quoted-block display-inline="no-display-inline" id="id6996B6E7CC4044258247056E3B8B9F9B" style="OLC">
+              <clause id="id80D20C0B4375492795BC92C06ADEA47C">
+                <enum>(xxvi)</enum>
+                <text>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6045C/ss:a" proposed="true">section
+				6045C(a)</cato:entity-ref> (relating to returns regarding United States beneficial owners of
+				financial accounts located in the United States and held in the name of a
+				foreign entity), or</text>
+              </clause>
+              <clause id="id94D14B28162A4CD8830049C8906E9BAE">
+                <enum>(xxvii)</enum>
+                <text>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6045D/ss:a" proposed="true">section
+				6045D(a)</cato:entity-ref> (relating to returns by financial institutions regarding establishment
+				of accounts at non-FATCA institutions),
+				and</text>
+              </clause>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+          <paragraph id="id4BFC7F367CC643E5BD7D4D365DF6EE3A">
+            <enum>(2)</enum>
+            <header>Payee
+			 statements</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6724/ss:d/p:2">Section 6724(d)(2)</cato:entity-ref> is amended by striking
+			 <quote>or</quote> at the end of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6724/ss:d/p:2/sp:GG">subparagraph (GG)</cato:entity-ref>, by striking the period at
+			 the end of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6724/ss:d/p:2/sp:HH">subparagraph (HH)</cato:entity-ref>, and by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6724/ss:d/p:2/sp:HH">subparagraph (HH)</cato:entity-ref> the
+			 following new subparagraphs:</text>
+            <quoted-block display-inline="no-display-inline" id="idA552A5E61E7C4624924BD3B15E3ADD92" style="OLC">
+              <subparagraph id="id51BA97E5DF144214892FF947E3C875EB">
+                <enum>(II)</enum>
+                <text>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6045C/ss:c" proposed="true">section 6045C(c)</cato:entity-ref>
+				(relating to returns regarding United States beneficial owners of financial
+				accounts located in the United States and held in the name of a foreign
+				entity),</text>
+              </subparagraph>
+              <subparagraph id="id76657412F91048218E8DBB627F4390E8">
+                <enum>(JJ)</enum>
+                <text>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6045D/ss:c" proposed="true">section 6045D(c)</cato:entity-ref>
+				(relating to returns by financial institutions regarding establishment of
+				accounts at non-FATCA
+				institutions).</text>
+              </subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+        </subsection>
+        <subsection id="id04E1BCF9F2594B1DACC49E22642A32B2">
+          <enum>(c)</enum>
+          <header>Clerical
+			 amendment</header>
+          <text>The table of sections for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:61/sch:A/pt:III/spt:B">subpart B of part III of
+			 subchapter A of chapter 61</cato:entity-ref> is amended by inserting after the item relating to
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6045B">section 6045B</cato:entity-ref> the following new items:</text>
+          <quoted-block display-inline="no-display-inline" id="id6E89AA517D144A0E8E77BCFB43660410" style="OLC">
+            <toc>
+              <toc-entry bold="off" level="section">Sec. 6045C. Returns regarding
+				United States beneficial owners of financial accounts located in the United
+				States and held in the name of a foreign entity.</toc-entry>
+              <toc-entry bold="off" level="section">Sec. 6045D. Returns by
+				financial institutions regarding establishment of accounts at non-FATCA
+				institutions.</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection commented="no" id="id9C4AA45377A1450DAA1AD425553E2890">
+          <enum>(d)</enum>
+          <header>Additional
+			 penalties</header>
+          <paragraph commented="no" id="id5444194394AC4560915BC9CCF5DD83F8">
+            <enum>(1)</enum>
+            <header>Additional
+			 penalties on banks</header>
+            <text>
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Revised Statutes of the United States/s:5239/ss:b/p:1">Section 5239(b)(1) of the Revised Statutes of
+			 the United States</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/12/93/b/1">12 U.S.C. 93(b)(1)</cato:entity-ref>)</cato:entity> is amended by inserting <quote>or any of
+			 the provisions of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6045D" proposed="true">section 6045D of the Internal Revenue Code of 1986</cato:entity-ref>,</quote>
+			 after <quote>any regulation issued pursuant to,</quote>.</text>
+          </paragraph>
+          <paragraph commented="no" id="id12EA4C062FF54EB3B604A36923656731">
+            <enum>(2)</enum>
+            <header>Additional
+			 penalties on securities firms</header>
+            <text>
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Securities Exchange Act of 1934/s:21/ss:d/p:3/sp:A">Section 21(d)(3)(A) of the
+			 Securities Exchange Act of 1934</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/78u/d/3/A">15 U.S.C. 78u(d)(3)(A)</cato:entity-ref>)</cato:entity> is amended by
+			 inserting <quote>any of the provisions of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6045D" proposed="true">section 6045D of the Internal Revenue
+			 Code of 1986</cato:entity-ref>,</quote> after <quote>the rules or regulations
+			 thereunder,</quote>.</text>
+          </paragraph>
+        </subsection>
+        <subsection id="ID1c879c843dd04293aaffd5e652c0d555">
+          <enum>(e)</enum>
+          <header>Regulatory
+			 authority and effective date</header>
+          <paragraph id="ID624de18b48c6403e8a1d77a54464f5ad">
+            <enum>(1)</enum>
+            <header>Regulatory
+			 Authority</header>
+            <text>Not later than 180 days after the date of the enactment
+			 of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref> shall adopt regulations, forms, or
+			 other guidance necessary to implement this section.</text>
+          </paragraph>
+          <paragraph id="ID6279a539b7144c9fb2409cbe417d9653">
+            <enum>(2)</enum>
+            <header>Effective
+			 Date</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6045C" proposed="true">
+                <external-xref legal-doc="usc" parsable-cite="usc/26/6045C">Section 6045C</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> (as added
+			 by this section) and the amendment made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Tax Haven Abuse Act/s:104/ss:d/p:1" proposed="true">subsection (d)(1)</cato:entity-ref> shall take effect
+			 with respect to amounts paid into foreign owned accounts located in the United
+			 States after December 31 of the year of the date of the enactment of this Act.
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6045D" proposed="true">Section 6045D</cato:entity-ref> of such Code (as so added) and the amendment made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Tax Haven Abuse Act/s:104/ss:d/p:2" proposed="true">subsection
+			 (d)(2)</cato:entity-ref> shall take effect with respect to accounts opened after December 31 of
+			 the year of the date of the enactment of this Act.</text>
+          </paragraph>
+        </subsection>
+      </section>
+      <section id="idDCAB087D2DA7446E8077EBAA39360431">
+        <enum>105.</enum>
+        <header>Swap payments
+			 made from the United States to persons offshore</header>
+        <subsection id="ID077c339df6ce4388abaf7779eada2c25">
+          <enum>(a)</enum>
+          <header>Tax on swap
+			 payments received by foreign persons</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:871/ss:a/p:1">Section 871(a)(1)</cato:entity-ref> is
+			 amended—</text>
+          <paragraph id="ID0e5000a8a1524319b3e30bc6e2d72a4c">
+            <enum>(1)</enum>
+            <text>by inserting
+			 <quote>swap payments (as identified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1256/ss:b/p:2/sp:B">section 1256(b)(2)(B)</cato:entity-ref>),</quote> after
+			 <quote>annuities,</quote> in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:871/ss:a/p:1/sp:A">subparagraph (A)</cato:entity-ref>, and</text>
+          </paragraph>
+          <paragraph id="ID7c226cedb9444ebe82f3f53d41ac6dfd">
+            <enum>(2)</enum>
+            <text>by adding at the
+			 end the following new sentence: <quote>In the case of swap payments, the source
+			 of a swap payment is determined by reference to the location of the
+			 payor.</quote>.</text>
+          </paragraph>
+        </subsection>
+        <subsection id="ID14996352c3674d03a7d0951ac34b7f05">
+          <enum>(b)</enum>
+          <header>Tax on swap
+			 payments received by foreign corporations</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:881/ss:a">Section 881(a)</cato:entity-ref> is
+			 amended—</text>
+          <paragraph id="id41C223B9895A4CAAA2040B90EFE88085">
+            <enum>(1)</enum>
+            <text>by inserting
+			 <quote>swap payments (as identified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1256/ss:b/p:2/sp:B">section 1256(b)(2)(B)</cato:entity-ref>),</quote> after
+			 <quote>annuities,</quote> in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:881/ss:a/p:1">paragraph (1)</cato:entity-ref>, and</text>
+          </paragraph>
+          <paragraph commented="no" display-inline="no-display-inline" id="id26222EA9671D48B591071B3986741120">
+            <enum>(2)</enum>
+            <text>by adding at the
+			 end the following new sentence: <quote>In the case of swap payments, the source
+			 of a swap payment is determined by reference to the location of the
+			 payor.</quote>.</text>
+          </paragraph>
+        </subsection>
+      </section>
+    </title>
+    <title id="idACA9F3B756974383B8294F5002A604F3">
+      <enum>II</enum>
+      <header>Other measures
+			 To combat tax haven abuses</header>
+      <section id="idb2d8ca6cd7fd46668987b45191a0b64a">
+        <enum>201.</enum>
+        <header>Country-by-country
+			 reporting</header>
+        <subsection id="ide6fab63543044a31a13efb4c6117f65c">
+          <enum>(a)</enum>
+          <header>Country-by-Country
+			 reporting</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Securities Exchange Act of 1934/s:13">Section 13 of the Securities Exchange Act of 1934</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/78m">15
+			 U.S.C. 78m</cato:entity-ref>)</cato:entity> is amended by adding at the end the following new
+			 subsection:</text>
+          <quoted-block display-inline="no-display-inline" id="idF816141485EC424DB9F1348AB5429704" style="OLC">
+            <subsection id="id3eaf0b9475d74097807391f39104862f">
+              <enum>(s)</enum>
+              <header>Disclosure of
+				financial performance on a country-by-Country basis</header>
+              <paragraph id="idde3a9832636146c6af4f8ea35b61ef90">
+                <enum>(1)</enum>
+                <header>Definitions</header>
+                <text>In
+				this subsection—</text>
+                <subparagraph id="id884f71c41dff4bffa8d7600ae7062108">
+                  <enum>(A)</enum>
+                  <text>the term
+				<term>issuer group</term> means the issuer, each subsidiary of the issuer, and
+				each entity under the control of the issuer; and</text>
+                </subparagraph>
+                <subparagraph id="id992c19694fd049bb9222e052bd40d866">
+                  <enum>(B)</enum>
+                  <text>the term
+				<term>country of operation</term> means each country in which a member of the
+				issuer group is incorporated, organized, maintains employees, or conducts
+				significant business activities.</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="idc8af4ab244ad4009afa0ed31a9f1f9f6">
+                <enum>(2)</enum>
+                <header>Rules
+				required</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Commission</cato:entity-ref> shall issue rules that require each
+				issuer to include in an annual report filed by the issuer with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Commission</cato:entity-ref>
+				information on a country-by-country basis during the covered period, consisting
+				of—</text>
+                <subparagraph id="id414403ad8a354b4e93c8cbdf6539bb93">
+                  <enum>(A)</enum>
+                  <text>a list of each
+				country of operation and the name of each entity of the issuer group domiciled
+				in each country of operation;</text>
+                </subparagraph>
+                <subparagraph id="id45a308515e074e8c91936b40b22ae82d">
+                  <enum>(B)</enum>
+                  <text>the number of
+				employees physically working in each country of operation;</text>
+                </subparagraph>
+                <subparagraph id="idd5ed418981be47fdb443996fec36364f">
+                  <enum>(C)</enum>
+                  <text>the total pre-tax
+				gross revenues of each member of the issuer group in each country of
+				operation;</text>
+                </subparagraph>
+                <subparagraph id="id70ef57c82d2744689fd898c84a64faea">
+                  <enum>(D)</enum>
+                  <text>the total amount
+				of payments made to governments by each member of the issuer group in each
+				country of operation, without exception, including, and set forth according
+				to—</text>
+                  <clause id="idceca863b94d448ceae0f6268e536e49f">
+                    <enum>(i)</enum>
+                    <text>total Federal,
+				regional, local, and other tax assessed against each member of the issuer group
+				with respect to each country of operation during the covered period; and</text>
+                  </clause>
+                  <clause id="id13af75eb24ab49469ff19cdb55042b16">
+                    <enum>(ii)</enum>
+                    <text>after any tax
+				deductions, tax credits, tax forgiveness, or other tax benefits or waivers, the
+				total amount of tax paid from the treasury of each member of the issuer group
+				to the government of each country of operation during the covered period;
+				and</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="id2942534a4c9b4a178dd4036376cc2831">
+                  <enum>(E)</enum>
+                  <text>such other
+				financial information as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Commission</cato:entity-ref> may determine is necessary or
+				appropriate in the public interest or for the protection of
+				investors.</text>
+                </subparagraph>
+              </paragraph>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="idaf87b39b8a2b4fb7815252d8afbc3fbf">
+          <enum>(b)</enum>
+          <header>Rulemaking</header>
+          <paragraph id="id767d0f04c77a498eb74df7e9ad7756ed">
+            <enum>(1)</enum>
+            <header>Deadlines</header>
+            <text>The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Securities and Exchange Commission</cato:entity-ref> (in this section referred to as the
+			 <term>Commission</term>) shall—</text>
+            <subparagraph id="id778F8AD856604B8491BFBA82A2273A7F">
+              <enum>(A)</enum>
+              <text>not later than
+			 270 days after the date of enactment of this Act, issue a proposed rule to
+			 carry out this section and the amendment made by this section; and</text>
+            </subparagraph>
+            <subparagraph id="idED051274BAC84C2E97281162F637475A">
+              <enum>(B)</enum>
+              <text>not later than 1
+			 year after the date of enactment of this Act, issue a final rule to carry out
+			 this section and the amendment made by this section.</text>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="idafc6e48cfa1c4161af1c1ade18941827">
+            <enum>(2)</enum>
+            <header>Data
+			 format</header>
+            <text>The information required to be provided by this section
+			 shall be provided by the issuer in a report in a format prescribed by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Commission</cato:entity-ref>, and such report shall be made available to the public online, in
+			 such format as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Commission</cato:entity-ref> shall prescribe.</text>
+          </paragraph>
+          <paragraph id="id7b1ac2108aba4e4fad0c23f7aa7d0485">
+            <enum>(3)</enum>
+            <header>Effective
+			 date</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securities Exchange Act of 1934/s:13/ss:s" proposed="true">Subsection (s) of section 13 of the Securities Exchange Act
+			 of 1934</cato:entity-ref>, as added by this section, shall become effective 1 year after the date
+			 on which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Commission</cato:entity-ref> issues a final rule under this section.</text>
+          </paragraph>
+        </subsection>
+      </section>
+      <section id="id194f4b0f30f845198be786f70029597c">
+        <enum>202.</enum>
+        <header>Penalty for
+			 failing to disclose offshore holdings</header>
+        <subsection id="idb2e7a87d75f040108f2b49b68d2832a6">
+          <enum>(a)</enum>
+          <header>Securities
+			 Exchange Act of 1934</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Securities Exchange Act of 1934/s:21/ss:d/p:3/sp:B">Section 21(d)(3)(B) of the Securities
+			 Exchange Act of 1934</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/78u">
+                <cato:entity-ref entity-type="uscode" value="usc/15/78u/d/3/B">15 U.S.C. 78u(d)(3)(B)</cato:entity-ref>
+              </external-xref>)</cato:entity> is amended by adding at the end
+			 the following:</text>
+          <quoted-block display-inline="no-display-inline" id="id3af33a13341d428a89f0ee6a6abf18b9" style="OLC">
+            <clause id="ide0941908f92d457ea6812c47fbd87978">
+              <enum>(iv)</enum>
+              <header>Fourth
+				tier</header>
+              <text>Notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securities Exchange Act of 1934/s:21/ss:d/p:3/sp:B/cl:i">clauses (i)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securities Exchange Act of 1934/s:21/ss:d/p:3/sp:B/cl:ii">(ii)</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securities Exchange Act of 1934/s:21/ss:d/p:3/sp:B/cl:iii">(iii)</cato:entity-ref>, for each
+				violation, the amount of the penalty shall not exceed $1,000,000 for any
+				natural person or $10,000,000 for any other person, if—</text>
+              <subclause id="id31024d5274a7422fa4adeab4862c0268">
+                <enum>(I)</enum>
+                <text>such person
+				directly or indirectly controlled any foreign entity, including any trust,
+				corporation, limited liability company, partnership, or foundation through
+				which an issuer purchased, sold, or held equity or debt instruments;</text>
+              </subclause>
+              <subclause id="id37b13df1da244dec9ae62a0287e6a69e">
+                <enum>(II)</enum>
+                <text>such person
+				knowingly or recklessly failed to disclose any such holding, purchase, or sale
+				by the issuer; and</text>
+              </subclause>
+              <subclause id="idc96e537ceff54827aa17133cd4581c18">
+                <enum>(III)</enum>
+                <text>the holding,
+				purchase, or sale would have been otherwise subject to disclosure by the issuer
+				or such person under this
+				title.</text>
+              </subclause>
+            </clause>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="id8bc0ecbeb92c4e0693a977c2d9d69cd2">
+          <enum>(b)</enum>
+          <header>Securities Act
+			 of 1933</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Securities Act of 1933/s:20/ss:d/p:2">Section 20(d)(2) of the Securities Act of 1933</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/77t/d/2">15 U.S.C.
+			 77t(d)(2)</cato:entity-ref>)</cato:entity> is amended by adding at the end the following:</text>
+          <quoted-block display-inline="no-display-inline" id="id7e5aace015984e8f83a55f079c68c376" style="OLC">
+            <subparagraph id="id2b1cac86e6a247a6ac14f6de9d45e6b3">
+              <enum>(D)</enum>
+              <header>Fourth
+				tier</header>
+              <text>Notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securities Act of 1933/s:20/ss:d/p:2/sp:A">subparagraphs (A)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securities Act of 1933/s:20/ss:d/p:2/sp:B">(B)</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Securities Act of 1933/s:20/ss:d/p:2/sp:C">(C)</cato:entity-ref>, for each
+				violation, the amount of the penalty shall not exceed $1,000,000 for any
+				natural person or $10,000,000 for any other person, if—</text>
+              <clause id="id57d5fe16e1ae411ba7a538624558fe0b">
+                <enum>(i)</enum>
+                <text>such person
+				directly or indirectly controlled any foreign entity, including any trust,
+				corporation, limited liability company, partnership, or foundation through
+				which an issuer purchased, sold, or held equity or debt instruments;</text>
+              </clause>
+              <clause id="id597e3b051154493ba88a28fa7926b139">
+                <enum>(ii)</enum>
+                <text>such person
+				knowingly or recklessly failed to disclose any such holding, purchase, or sale
+				by the issuer; and</text>
+              </clause>
+              <clause id="ida365e76340e94b7fb789ff4a1f7b9e30">
+                <enum>(iii)</enum>
+                <text>the holding,
+				purchase, or sale would have been otherwise subject to disclosure by the issuer
+				or such person under this
+				title.</text>
+              </clause>
+            </subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="ide517353e4696408f958b911982c87090">
+          <enum>(c)</enum>
+          <header>Investment
+			 Advisers Act of 1940</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Investment Advisers Act of 1940/s:203/ss:i/p:2">Section 203(i)(2) of the Investment Advisers
+			 Act of 1940</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/80b-3">
+                <cato:entity-ref entity-type="uscode" value="usc/15/80b–3/i/2">15 U.S.C. 80b–3(i)(2)</cato:entity-ref>
+              </external-xref>)</cato:entity> is amended by adding at the end the
+			 following:</text>
+          <quoted-block display-inline="no-display-inline" id="id8f8763bf77c348a3abe9c75c723c8ecc" style="OLC">
+            <subparagraph id="idc2e5e4fd685a4bc48914afd5d32dfb08">
+              <enum>(D)</enum>
+              <header>Fourth
+				tier</header>
+              <text>Notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Investment Advisers Act of 1940/s:203/ss:i/p:2/sp:A">subparagraphs (A)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Investment Advisers Act of 1940/s:203/ss:i/p:2/sp:B">(B)</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Investment Advisers Act of 1940/s:203/ss:i/p:2/sp:C">(C)</cato:entity-ref>, for each
+				violation, the amount of the penalty shall not exceed $1,000,000 for any
+				natural person or $10,000,000 for any other person, if—</text>
+              <clause id="idf7491a6e6b674fd4b7748210697eae87">
+                <enum>(i)</enum>
+                <text>such person
+				directly or indirectly controlled any foreign entity, including any trust,
+				corporation, limited liability company, partnership, or foundation through
+				which an issuer purchased, sold, or held equity or debt instruments;</text>
+              </clause>
+              <clause id="id98f4fc6aabc74349859deb9464ac47b4">
+                <enum>(ii)</enum>
+                <text>such person
+				knowingly or recklessly failed to disclose any such holding, purchase, or sale
+				by the issuer; and</text>
+              </clause>
+              <clause id="id2b1809ed52164a23bf9de71bbc44e91e">
+                <enum>(iii)</enum>
+                <text>the holding,
+				purchase, or sale would have been otherwise subject to disclosure by the issuer
+				or such person under this
+				title.</text>
+              </clause>
+            </subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+      </section>
+      <section id="id1b614cd19e6f47de90e1443fb7d8cae0">
+        <enum>203.</enum>
+        <header>Deadline for
+			 anti-money laundering rule for investment advisers</header>
+        <subsection id="id52a8c1e52dd2455db939dc4cd70888ee">
+          <enum>(a)</enum>
+          <header>Anti-Money
+			 laundering obligations for investment advisers</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5312/a/2">Section 5312(a)(2)
+			 of title 31, United States Code</cato:entity-ref>, is amended—</text>
+          <paragraph id="id901bf991b896447c8303aacdabad482e">
+            <enum>(1)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5312/a/2/Y">subparagraph
+			 (Y)</cato:entity-ref>, by striking <quote>or</quote> at the end;</text>
+          </paragraph>
+          <paragraph id="idc7cad785dc5d464c83fc73d4ee0e50d4">
+            <enum>(2)</enum>
+            <text>by redesignating
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5312/a/2/Z">subparagraph (Z)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5312/a/2/BB" proposed="true">subparagraph (BB)</cato:entity-ref>; and</text>
+          </paragraph>
+          <paragraph id="id08ce25641ded4e469a087152e707948f">
+            <enum>(3)</enum>
+            <text>by inserting
+			 after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5312/a/2/Y">subparagraph (Y)</cato:entity-ref> the following:</text>
+            <quoted-block display-inline="no-display-inline" id="idfcc4ad5164764bfe9fe562cfa6a04b44" style="OLC">
+              <subparagraph id="ida34a322b27034906b347987393de7627">
+                <enum>(Z)</enum>
+                <text>an investment
+				adviser;</text>
+              </subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+        </subsection>
+        <subsection id="id8622215e52874d20b2d8d53b0bbbb36f">
+          <enum>(b)</enum>
+          <header>Rules
+			 required</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref> shall—</text>
+          <paragraph id="id6AB5A8C37C374E1E8D252BF9D0044FBD">
+            <enum>(1)</enum>
+            <text>in consultation
+			 with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Chairman of the Securities and Exchange Commission</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9507">Chairman of
+			 the Commodity Futures Trading Commission</cato:entity-ref>, not later than 270 days after the
+			 date of enactment of this Act, publish a proposed rule in the Federal Register
+			 to carry out the amendments made by this section; and</text>
+          </paragraph>
+          <paragraph id="id1bbed7f35fa34c32b2c9db447709cf6b">
+            <enum>(2)</enum>
+            <text>not later than
+			 180 days after the date of enactment of this Act, publish a final rule in the
+			 Federal Register on the matter described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Tax Haven Abuse Act/s:203/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>.</text>
+          </paragraph>
+        </subsection>
+        <subsection id="id17ab831351844865afff1cb17113f518">
+          <enum>(c)</enum>
+          <header>Contents</header>
+          <text>The
+			 final rule published under this section shall require, at a minimum, each
+			 investment adviser (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Investment Advisers Act of 1940/s:202/ss:a/p:11">section 202(a)(11) of the Investment Advisers
+			 Act of 1940</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/80b–2/a/11">15 U.S.C. 80b–2(a)(11)</cato:entity-ref>)</cato:entity>) registered with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Securities and
+			 Exchange Commission</cato:entity-ref> pursuant to <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Investment Advisers Act of 1940/s:203">section 203 of that Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/80b–3">15 U.S.C.
+			 80b–3</cato:entity-ref>)</cato:entity>—</text>
+          <paragraph id="idABAC833ABB134361BFCBF910226D3B2D">
+            <enum>(1)</enum>
+            <text>to submit
+			 suspicious activity reports and establish an anti-money laundering program
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5318/g">subsections (g)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5318/h">(h), respectively, of <external-xref legal-doc="usc" parsable-cite="usc/31/5318">section 5318</external-xref> of title 31,
+			 United States Code</cato:entity-ref>; and</text>
+          </paragraph>
+          <paragraph id="id12B9451139334EDE8111D8AF0C694ABC">
+            <enum>(2)</enum>
+            <text>to comply
+			 with—</text>
+            <subparagraph id="idCCFF947BE4944021A76948BFC5C17617">
+              <enum>(A)</enum>
+              <text>the customer
+			 identification program requirements under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5318/l">
+                  <external-xref legal-doc="usc" parsable-cite="usc/31/5318">section 5318(l)</external-xref> of title 31, United
+			 States Code</cato:entity-ref>; and</text>
+            </subparagraph>
+            <subparagraph id="id4A986CFE9D2B4BD8B2EB4DE7E02AE1D8">
+              <enum>(B)</enum>
+              <text>the due diligence
+			 requirements under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5318/i">
+                  <external-xref legal-doc="usc" parsable-cite="usc/31/5318">section 5318(i)</external-xref> of title 31, United States Code</cato:entity-ref>.</text>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+      </section>
+      <section id="id54ae0abf4c054a39bd4f19a6bc229598">
+        <enum>204.</enum>
+        <header>Anti-money
+			 laundering requirements for formation agents</header>
+        <subsection id="idb9aae6504a7c45c6adcaed59a2d61a52">
+          <enum>(a)</enum>
+          <header>Anti-Money
+			 laundering obligations for formation agents</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5312/a/2">Section 5312(a)(2) of
+			 title 31, United States Code</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Tax Haven Abuse Act/s:203" proposed="true">section 203</cato:entity-ref> of this Act, is amended
+			 by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5312/a/2/Z" proposed="true">subparagraph (Z)</cato:entity-ref> the following:</text>
+          <quoted-block display-inline="no-display-inline" id="idde9fee7494bf476eab2ec4ab5eba1717" style="OLC">
+            <subparagraph id="id76e001b57441474391c996f5dd0046da">
+              <enum>(AA)</enum>
+              <text>any person
+				engaged in the business of forming new corporations, limited liability
+				companies, partnerships, trusts, or other legal entities;
+				or</text>
+            </subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="id152cd768d21049dbaf3c4ac993f2b0f5">
+          <enum>(b)</enum>
+          <header>Deadline for
+			 anti-Money laundering rule for formation agents</header>
+          <paragraph id="id1ac484ec134a4ab4866fa3f5590c41ce">
+            <enum>(1)</enum>
+            <header>Proposed
+			 rule</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref>, in consultation with the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General of the United States</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary of Homeland Security</cato:entity-ref>, and
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2050">Commissioner of Internal Revenue</cato:entity-ref>, shall—</text>
+            <subparagraph id="id8898D73B8D6F4BF4A51A19C7AB92C0FB">
+              <enum>(A)</enum>
+              <text>not later than
+			 120 days after the date of enactment of this Act, publish a proposed rule in
+			 the Federal Register requiring persons described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5312/a/2/AA" proposed="true">section 5312(a)(2)(AA) of
+			 title 31, United States Code</cato:entity-ref>, as added by this section, to establish anti-money
+			 laundering programs under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5318/h">section 5318(h)</cato:entity-ref> of that title; and</text>
+            </subparagraph>
+            <subparagraph id="id9186abad13b346a4bcce6ba908a45cb9">
+              <enum>(B)</enum>
+              <text>not later than
+			 270 days after the date of enactment of this Act, publish a final rule in the
+			 Federal Register on the matter described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Tax Haven Abuse Act/s:204/ss:b/p:1/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>.</text>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="id56700cf06425450fa08f9fd4cc40ffc9">
+            <enum>(2)</enum>
+            <header>Exclusions</header>
+            <text>The
+			 rule promulgated under this subsection shall exclude from the category of
+			 persons engaged in the business of forming new corporations or other
+			 entities—</text>
+            <subparagraph id="id96ed6be2ef454cc8bc21146f9efd1afe">
+              <enum>(A)</enum>
+              <text>any government
+			 agency; and</text>
+            </subparagraph>
+            <subparagraph id="id75cae6444fc34c5aa32397820bf2fa36">
+              <enum>(B)</enum>
+              <text>any attorney or
+			 law firm that uses a paid formation agent operating within the United States to
+			 form such corporations or other entities.</text>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+      </section>
+      <section id="id943F503126C543BE862E09A8B5B6FBDE">
+        <enum>205.</enum>
+        <header>Strengthening
+			 John Doe summons proceedings</header>
+        <subsection id="idAD01FC475B804C9A81D67C0E9C3133C7">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Tax Haven Abuse Act/s:7609/ss:f">Subsection (f) of section 7609</cato:entity-ref> is amended to read as
+			 follows:</text>
+          <quoted-block display-inline="no-display-inline" id="idD6B18C1880FD4C7E9397F5EF0E367EA1" style="OLC">
+            <subsection id="id5A3345F44FC547BAA3829CFDCA4CB363">
+              <enum>(f)</enum>
+              <header>Additional
+				requirement in the case of a John Doe summons</header>
+              <paragraph id="id95EB7A5F0B0A47039BB86899A7B1D13F">
+                <enum>(1)</enum>
+                <header>General
+				Rule</header>
+                <text>Any summons described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7609/ss:c/p:1">subsection (c)(1)</cato:entity-ref> which does not
+				identify the person with respect to whose liability the summons is issued may
+				be served only after a court proceeding in which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> establishes
+				that—</text>
+                <subparagraph id="id4BD6034E54994B95BFD973CDD5E38E98">
+                  <enum>(A)</enum>
+                  <text>the summons
+				relates to the investigation of a particular person or ascertainable group or
+				class of persons,</text>
+                </subparagraph>
+                <subparagraph id="idEA8C856213BC452ABAC27E9FD03CC522">
+                  <enum>(B)</enum>
+                  <text>there is a
+				reasonable basis for believing that such person or group or class of persons
+				may fail or may have failed to comply with any provision of any internal
+				revenue law, and</text>
+                </subparagraph>
+                <subparagraph id="id0748EBD76B584BD6AB1F132FAB3BE16C">
+                  <enum>(C)</enum>
+                  <text>the information
+				sought to be obtained from the examination of the records or testimony (and the
+				identity of the person or persons with respect to whose liability the summons
+				is issued) is not readily available from other sources.</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="IDa73e1efa1ab74872a78e3e4471d46240">
+                <enum>(2)</enum>
+                <header>Exception</header>
+                <text>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7609/ss:f/p:1" proposed="true">Paragraph
+				(1)</cato:entity-ref> shall not apply to any summons which specifies that it is limited to
+				information regarding a United States correspondent account (as defined in
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5318A/e/1/B">
+                    <external-xref legal-doc="usc" parsable-cite="usc/31/5318A">section 5318A(e)(1)(B)</external-xref> of title 31, United States Code</cato:entity-ref>) or a United States
+				payable-through account (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5318A/e/1/C">section 5318A(e)(1)(C)</cato:entity-ref> of such title) of
+				a financial institution that is held at a non-FATCA institution (as defined in
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7701/ss:a/p:51" proposed="true">section 7701(a)(51)</cato:entity-ref>).</text>
+              </paragraph>
+              <paragraph id="IDca3bbdbdfcb44547afc2e9c381afcc05">
+                <enum>(3)</enum>
+                <header>Presumption in
+				cases involving non-fatca institutions</header>
+                <text>For purposes of this
+				section, in any case in which the particular person or ascertainable group or
+				class of persons have financial accounts in or transactions related to a
+				non-FATCA institution (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7701/ss:a/p:51" proposed="true">section 7701(a)(51)</cato:entity-ref>), there shall be a
+				presumption that there is a reasonable basis for believing that such person or
+				group or class of persons may fail or may have failed to comply with provisions
+				of internal revenue law.</text>
+              </paragraph>
+              <paragraph id="idB8C5EF97DCAA48CDBBBE2343B891F5B8">
+                <enum>(4)</enum>
+                <header>Project John
+				Doe summonses</header>
+                <subparagraph id="idABB97A0F4D18405E8880B22666FED739">
+                  <enum>(A)</enum>
+                  <header>In
+				general</header>
+                  <text>Notwithstanding the requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7609/ss:f/p:1" proposed="true">paragraph (1)</cato:entity-ref>, the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> may issue a summons described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7609/ss:f/p:1" proposed="true">paragraph (1)</cato:entity-ref> if the summons—</text>
+                  <clause id="idF5C997BB699447448CD0D09DF8748C79">
+                    <enum>(i)</enum>
+                    <text>relates to a
+				project which is approved under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7609/ss:f/p:4/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>,</text>
+                  </clause>
+                  <clause id="id7219C115FF384A93A392058D9CD60865">
+                    <enum>(ii)</enum>
+                    <text>is issued to a
+				person who is a member of the group or class established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7609/ss:f/p:4/sp:B/cl:i" proposed="true">subparagraph
+				(B)(i)</cato:entity-ref>, and</text>
+                  </clause>
+                  <clause id="id1F96D4097DAB4EF796CEDCA24C685261">
+                    <enum>(iii)</enum>
+                    <text>is issued
+				within 3 years of the date on which such project was approved under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7609/ss:f/p:4/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>.</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="idB80F5B26EE394E69A680C3285531E537">
+                  <enum>(B)</enum>
+                  <header>Approval of
+				projects</header>
+                  <text>A project may only be approved under this subparagraph
+				after a court proceeding in which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> establishes that—</text>
+                  <clause id="id0F6842818DB54ED88C5D849611EDBF91">
+                    <enum>(i)</enum>
+                    <text>any summons
+				issued with respect to the project will be issued to a member of an
+				ascertainable group or class of persons, and</text>
+                  </clause>
+                  <clause id="id5C58AA1B37BA4ABA9C67AF1F34BBAD20">
+                    <enum>(ii)</enum>
+                    <text>any summons
+				issued with respect to such project will meet the requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7609/ss:f/p:1" proposed="true">paragraph
+				(1)</cato:entity-ref>.</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="idE150F36D1FD843D0B5B42D9888FA0C17">
+                  <enum>(C)</enum>
+                  <header>Extension</header>
+                  <text>Upon
+				application of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>, the court may extend the time for issuing such
+				summonses under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7609/ss:f/p:4/sp:A/cl:i" proposed="true">subparagraph (A)(i)</cato:entity-ref> for additional 3-year periods, but only if
+				the court continues to exercise oversight of such project under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7609/ss:f/p:4/sp:D" proposed="true">subparagraph
+				(D)</cato:entity-ref>.</text>
+                </subparagraph>
+                <subparagraph id="id9003E072C852419A8EDC541CE31DD41F">
+                  <enum>(D)</enum>
+                  <header>Ongoing court
+				oversight</header>
+                  <text>During any period in which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> is authorized
+				to issue summonses in relation to a project approved under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7609/ss:f/p:4/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>
+				(including during any extension under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7609/ss:f/p:4/sp:C" proposed="true">subparagraph (C)</cato:entity-ref>), the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall
+				report annually to the court on the use of such authority, provide copies of
+				all summonses with such report, and comply with the court's direction with
+				respect to the issuance of any John Doe summons under such
+				project.</text>
+                </subparagraph>
+              </paragraph>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="id58EB5C4C2E584171BE347A73C1A9D41E">
+          <enum>(b)</enum>
+          <header>Jurisdiction of
+			 court</header>
+          <paragraph id="id8DAC8A508B134757A76FD53F4099F960">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7609/ss:h/p:1">Paragraph (1) of section 7609(h)</cato:entity-ref> is amended by inserting
+			 after the first sentence the following new sentence: <quote>Any United States
+			 district court in which a member of the group or class to which a summons may
+			 be issued resides or is found shall have jurisdiction to hear and determine the
+			 approval of a project under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7609/ss:f/p:2/sp:B" proposed="true">subsection (f)(2)(B)</cato:entity-ref>.</quote>.</text>
+          </paragraph>
+          <paragraph id="idA334D37650164C3994AEA99EB7A45848">
+            <enum>(2)</enum>
+            <header>Conforming
+			 amendment</header>
+            <text>The first sentence of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7609/ss:h/p:1">section 7609(h)(1)</cato:entity-ref> is amended by
+			 striking <quote>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7609/ss:f">(f)</cato:entity-ref>
+              </quote> and inserting <quote>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7609/ss:f/p:1" proposed="true">(f)(1)</cato:entity-ref>
+              </quote>.</text>
+          </paragraph>
+        </subsection>
+        <subsection id="id5B7D67303EBA48AAA14C79F9E5D49642">
+          <enum>(c)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendments made by this section shall apply to summonses
+			 issued after the date of the enactment of this Act.</text>
+        </subsection>
+      </section>
+      <section id="id7B679E7CCEDD42ACA24E10D18C2D1F98">
+        <enum>206.</enum>
+        <header>Improving
+			 enforcement of foreign financial account reporting</header>
+        <subsection id="id6935F711F3054F718E23410ACFD1C994">
+          <enum>(a)</enum>
+          <header>Clarifying the
+			 connection of foreign financial account reporting to tax
+			 administration</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6103/ss:b/p:4">Paragraph (4) of section 6103(b)</cato:entity-ref> is amended by
+			 adding at the end the following new sentence:</text>
+          <quoted-block display-inline="no-display-inline" id="idE89C6F78E9814D3A9584D026A8B3768B" style="OLC">
+            <quoted-block-continuation-text quoted-block-continuation-text-level="paragraph">For
+				purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6103/ss:b/p:4/sp:A/cl:i">subparagraph (A)(i)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5314">
+                <external-xref legal-doc="usc" parsable-cite="usc/31/5314">section 5314</external-xref> of title 31, United States Code</cato:entity-ref>,
+				and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5321">sections 5321</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5322">5322 of such title</cato:entity-ref> (as such sections pertain to such
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5314">section 5314</cato:entity-ref>), shall be considered related
+				statutes.</quoted-block-continuation-text>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="idF18FC55273684A88995E657C65EE0FC5">
+          <enum>(b)</enum>
+          <header>Simplifying the
+			 calculation of foreign financial account reporting
+			 penalties</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5321/a/5/D/ii">
+              <external-xref legal-doc="usc" parsable-cite="usc/31/5321">Section 5321(a)(5)(D)(ii)</external-xref> of title 31, United States
+			 Code</cato:entity-ref>, is amended by striking <quote>the balance in the account at the time of
+			 the violation</quote> and inserting <quote>the highest balance in the account
+			 during the reporting period to which the violation relates</quote>.</text>
+        </subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="idB4853AB2F1FF4EF4B5665768309C2D29">
+          <enum>(c)</enum>
+          <header>Clarifying the
+			 use of suspicious activity reports under the Bank Secrecy Act for civil tax law
+			 enforcement</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/5319">
+              <external-xref legal-doc="usc" parsable-cite="usc/31/5319">Section 5319</external-xref> of title 31, United States Code</cato:entity-ref>, is
+			 amended by inserting <quote>the civil and criminal enforcement divisions of the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2050">Internal Revenue Service</cato:entity-ref>,</quote> after <quote>including</quote>.</text>
+        </subsection>
+      </section>
+    </title>
+    <title id="id28FAF690BF934E91B65449643448E259">
+      <enum>III</enum>
+      <header>Ending corporate offshore
+			 tax avoidance</header>
+      <section display-inline="no-display-inline" id="H2E9F6CC15B284B3D91F7B5E5044DA200" section-type="subsequent-section">
+        <enum>301.</enum>
+        <header>Allocation of
+			 expenses and taxes on basis of repatriation of foreign income</header>
+        <subsection id="H43EF7191267E403DB37900BD3893E4B7">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:N/pt:III">Part III of subchapter N of chapter 1</cato:entity-ref> is amended by
+			 inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:N/pt:III/spt:G">subpart G</cato:entity-ref> the following new subpart:</text>
+          <quoted-block display-inline="no-display-inline" id="HD52A43474A684C5BBFFF8CD500D88694" style="OLC">
+            <subpart id="H379C5A4DBB9B4D0CB2A0AB45FFF2A822">
+              <enum>H</enum>
+              <header>Special Rules for
+				Allocation of Foreign-Related Deductions and Foreign Tax Credits</header>
+              <toc container-level="subpart-container" idref="H379C5A4DBB9B4D0CB2A0AB45FFF2A822" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+                <toc-entry idref="H7AE93E10584D4685B195E2E37CE49BA4" level="section">Sec. 975. Deductions allocated to deferred foreign income may
+				  not offset United States source income.</toc-entry>
+                <toc-entry idref="H72FAB5B02F094996A8936C84B561B7AC" level="section">Sec. 976. Amount of foreign taxes computed on overall
+				  basis.</toc-entry>
+                <toc-entry idref="H3C198D1DE8E5436391F18F65A192533C" level="section">Sec. 977. Application of subpart.</toc-entry>
+              </toc>
+              <section id="H7AE93E10584D4685B195E2E37CE49BA4">
+                <enum>975.</enum>
+                <header>Deductions
+				allocated to deferred foreign income may not offset United States source
+				income</header>
+                <subsection id="H558D4E2E71564782AF80ED7BE28D77AE">
+                  <enum>(a)</enum>
+                  <header>Current year
+				deductions</header>
+                  <text display-inline="yes-display-inline">For purposes of
+				this chapter, foreign-related deductions for any taxable year—</text>
+                  <paragraph id="H3D4516BCB89B44BFA222A3EAC2E800E8">
+                    <enum>(1)</enum>
+                    <text>shall be taken
+				into account for such taxable year only to the extent that such deductions are
+				allocable to currently-taxed foreign income, and</text>
+                  </paragraph>
+                  <paragraph id="H28B891782CD740DA8699D3006DAE383C">
+                    <enum>(2)</enum>
+                    <text>to the extent not
+				so allowed, shall be taken into account in subsequent taxable years as provided
+				in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:975/ss:b" proposed="true">subsection (b)</cato:entity-ref>.</text>
+                  </paragraph>
+                  <continuation-text continuation-text-level="subsection">Foreign-related deductions shall be
+				allocated to currently taxed foreign income in the same proportion which
+				currently taxed foreign income bears to the sum of currently taxed foreign
+				income and deferred foreign income.</continuation-text>
+                </subsection>
+                <subsection id="HC7F23126B1A44ABC977F7FEB92F63C9B">
+                  <enum>(b)</enum>
+                  <header>Deductions
+				related to repatriated deferred foreign income</header>
+                  <paragraph id="HE2A9287405DA41C7A943725EA92F3FE">
+                    <enum>(1)</enum>
+                    <header>In
+				general</header>
+                    <text>If there is repatriated foreign income for a taxable
+				year, the portion of the previously deferred deductions allocated to the
+				repatriated foreign income shall be taken into account for the taxable year as
+				a deduction allocated to income from sources outside the United States. Any
+				such amount shall not be included in foreign-related deductions for purposes of
+				applying <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:975/ss:a" proposed="true">subsection (a)</cato:entity-ref> to such taxable year.</text>
+                  </paragraph>
+                  <paragraph id="H4716D1C410B64466AD1FFC5C23F9DBA8">
+                    <enum>(2)</enum>
+                    <header>Portion of
+				previously deferred deductions</header>
+                    <text>For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:975/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>, the
+				portion of the previously deferred deductions allocated to repatriated foreign
+				income is—</text>
+                    <subparagraph id="H551707681223474AB2108E064631E00">
+                      <enum>(A)</enum>
+                      <text>the amount which
+				bears the same proportion to such deductions, as</text>
+                    </subparagraph>
+                    <subparagraph id="H55EBAF4B3CFE43E9977E628D42E3A0CB">
+                      <enum>(B)</enum>
+                      <text>the repatriated
+				income bears to the previously deferred foreign income.</text>
+                    </subparagraph>
+                  </paragraph>
+                </subsection>
+                <subsection id="HFFED56E6BE3D40E2841DA0899314E470">
+                  <enum>(c)</enum>
+                  <header>Definitions and
+				special rule</header>
+                  <text display-inline="yes-display-inline">For purposes of
+				this section—</text>
+                  <paragraph id="HD8A1B4AD82EE4FC78635BA44EF4517E2">
+                    <enum>(1)</enum>
+                    <header>Foreign-related
+				deductions</header>
+                    <text>The term <term>foreign-related deductions</term> means
+				the total amount of deductions and expenses which would be allocated or
+				apportioned to gross income from sources without the United States for the
+				taxable year if both the currently-taxed foreign income and deferred foreign
+				income were taken into account.</text>
+                  </paragraph>
+                  <paragraph display-inline="no-display-inline" id="HCD70A802166C4C82A83200DC4EF19B8D">
+                    <enum>(2)</enum>
+                    <header>Currently-taxed
+				foreign income</header>
+                    <text>The term <term>currently-taxed foreign
+				income</term> means the amount of gross income from sources without the United
+				States for the taxable year (determined without regard to repatriated foreign
+				income for such year).</text>
+                  </paragraph>
+                  <paragraph display-inline="no-display-inline" id="H97033661171740CAB35B4364E4B9CD57">
+                    <enum>(3)</enum>
+                    <header>Deferred foreign
+				income</header>
+                    <text>The term <term>deferred foreign income</term> means the
+				excess of—</text>
+                    <subparagraph id="H79626A01C131458E961626248E3499FE">
+                      <enum>(A)</enum>
+                      <text display-inline="yes-display-inline">the amount that would be includible in
+				gross income under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/spt:F">subpart F</cato:entity-ref> of this part for the taxable year if—</text>
+                      <clause id="HE5FDDEF44D4945928DAEDC1F782C51ED">
+                        <enum>(i)</enum>
+                        <text>all controlled
+				foreign corporations were treated as one controlled foreign corporation,
+				and</text>
+                      </clause>
+                      <clause id="HBB8BF3A0A12149B296AE83FB48049E71">
+                        <enum>(ii)</enum>
+                        <text>all earnings and
+				profits of all controlled foreign corporations were <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/spt:F">subpart F</cato:entity-ref> income (as
+				defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:952">section 952</cato:entity-ref>), over</text>
+                      </clause>
+                    </subparagraph>
+                    <subparagraph id="H0485DC431041498A9350ADEFE3E6A012">
+                      <enum>(B)</enum>
+                      <text>the sum of—</text>
+                      <clause id="H23CFAAB66A814FF68EBA6608F7E98725">
+                        <enum>(i)</enum>
+                        <text>all dividends
+				received during the taxable year from controlled foreign corporations,
+				plus</text>
+                      </clause>
+                      <clause id="H704E50F236BE41AC9421A54BACCCED5">
+                        <enum>(ii)</enum>
+                        <text>amounts includible
+				in gross income under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:951/ss:a">section 951(a)</cato:entity-ref>.</text>
+                      </clause>
+                    </subparagraph>
+                  </paragraph>
+                  <paragraph id="H584938FDA0224A21A507768466FE0121">
+                    <enum>(4)</enum>
+                    <header>Previously
+				deferred foreign income</header>
+                    <text display-inline="yes-display-inline">The
+				term <term>previously deferred foreign income</term> means the aggregate amount
+				of deferred foreign income for all prior taxable years to which this part
+				applies, determined as of the beginning of the taxable year, reduced by the
+				repatriated foreign income for all such prior taxable years.</text>
+                  </paragraph>
+                  <paragraph id="HBC687988A56142B39213934B758832BC">
+                    <enum>(5)</enum>
+                    <header>Repatriated
+				foreign income</header>
+                    <text>The term <term>repatriated foreign income</term>
+				means the amount included in gross income on account of distributions out of
+				previously deferred foreign income.</text>
+                  </paragraph>
+                  <paragraph id="H2F202257ABB64BC0BF5B247CF0E7471C">
+                    <enum>(6)</enum>
+                    <header>Previously
+				deferred deductions</header>
+                    <text display-inline="yes-display-inline">The term
+				<term>previously deferred deductions</term> means the aggregate amount of
+				foreign-related deductions not taken into account under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:975/ss:a" proposed="true">subsection (a)</cato:entity-ref> for all
+				prior taxable years (determined as of the beginning of the taxable year),
+				reduced by any amounts taken into account under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:975/ss:b" proposed="true">subsection (b)</cato:entity-ref> for such prior
+				taxable years.</text>
+                  </paragraph>
+                  <paragraph id="H4C5FBB0E1F4B4BA396CD3D4D73007FFC">
+                    <enum>(7)</enum>
+                    <header>Treatment of
+				certain foreign taxes</header>
+                    <subparagraph id="H242E7E3B86844475BF3E725E1F386DD7">
+                      <enum>(A)</enum>
+                      <header>Paid by
+				controlled foreign corporation</header>
+                      <text display-inline="yes-display-inline">
+                        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:78">Section 78</cato:entity-ref> shall not apply for purposes of
+				determining currently-taxed foreign income and deferred foreign income.</text>
+                    </subparagraph>
+                    <subparagraph id="H047053A21E294F6C94600063633D9703">
+                      <enum>(B)</enum>
+                      <header>Paid by
+				taxpayer</header>
+                      <text>For purposes of determining currently-taxed foreign
+				income, gross income from sources without the United States shall be reduced by
+				the aggregate amount of taxes described in the applicable paragraph of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:901/ss:b">section
+				901(b)</cato:entity-ref> which are paid by the taxpayer (without regard to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:902">sections 902</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:960">960</cato:entity-ref>)
+				during the taxable year.</text>
+                    </subparagraph>
+                  </paragraph>
+                  <paragraph id="HCB48493BE32A4A5CA500DB53A71EDE06">
+                    <enum>(8)</enum>
+                    <header>Coordination
+				with section 976</header>
+                    <text>In determining currently-taxed foreign income
+				and deferred foreign income, the amount of deemed foreign tax credits shall be
+				determined with regard to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:976" proposed="true">section 976</cato:entity-ref>.</text>
+                  </paragraph>
+                </subsection>
+              </section>
+              <section id="H72FAB5B02F094996A8936C84B561B7AC">
+                <enum>976.</enum>
+                <header>Amount of
+				foreign taxes computed on overall basis</header>
+                <subsection id="H055BDFFE1FF44810A6D76C36652D8790">
+                  <enum>(a)</enum>
+                  <header>Current year
+				allowance</header>
+                  <text display-inline="yes-display-inline">For purposes of
+				this chapter, the amount taken into account as foreign income taxes for any
+				taxable year shall be an amount which bears the same ratio to the total foreign
+				income taxes for that taxable year as—</text>
+                  <paragraph id="HBD351B120AEF48B186DF2D20C0314F4E">
+                    <enum>(1)</enum>
+                    <text>the
+				currently-taxed foreign income for such taxable year, bears to</text>
+                  </paragraph>
+                  <paragraph id="H141B124864E649C296851E00002FF91D">
+                    <enum>(2)</enum>
+                    <text>the sum of the
+				currently-taxed foreign income and deferred foreign income for such
+				year.</text>
+                  </paragraph>
+                  <continuation-text continuation-text-level="subsection">The
+				portion of the total foreign income taxes for any taxable year not taken into
+				account under the preceding sentence for a taxable year shall only be taken
+				into account as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:976/ss:b" proposed="true">subsection (b)</cato:entity-ref> (and shall not be taken into account
+				for purposes of applying <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:902">sections 902</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:960">960</cato:entity-ref>).</continuation-text>
+                </subsection>
+                <subsection display-inline="no-display-inline" id="HE59C0DB4729E4338B46F632039EDFEBC">
+                  <enum>(b)</enum>
+                  <header>Allowance
+				related to repatriated deferred foreign income</header>
+                  <paragraph id="HB18D79F8C96E41918C29D54585BE224D">
+                    <enum>(1)</enum>
+                    <header>In
+				general</header>
+                    <text display-inline="yes-display-inline">If there is
+				repatriated foreign income for any taxable year, the portion of the previously
+				deferred foreign income taxes paid or accrued during such taxable year shall be
+				taken into account for the taxable year as foreign taxes paid or accrued. Any
+				such taxes so taken into account shall not be included in foreign income taxes
+				for purposes of applying <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:976/ss:a" proposed="true">subsection (a)</cato:entity-ref> to such taxable year.</text>
+                  </paragraph>
+                  <paragraph id="HA8EE892845CE4DF79F54152BA2D21DFF">
+                    <enum>(2)</enum>
+                    <header>Portion of
+				previously deferred foreign income taxes</header>
+                    <text>For purposes of
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:976/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>, the portion of the previously deferred foreign income taxes
+				allocated to repatriated deferred foreign income is—</text>
+                    <subparagraph id="HD5C846BB74614C518129AAB7E4640086">
+                      <enum>(A)</enum>
+                      <text>the amount which
+				bears the same proportion to such taxes, as</text>
+                    </subparagraph>
+                    <subparagraph id="H9E8C200714044E71BC304C49528C94F3">
+                      <enum>(B)</enum>
+                      <text>the repatriated
+				deferred income bears to the previously deferred foreign income.</text>
+                    </subparagraph>
+                  </paragraph>
+                </subsection>
+                <subsection id="H0A0F0DF4F54546EC00F327A8886516F8">
+                  <enum>(c)</enum>
+                  <header>Definitions and
+				special rule</header>
+                  <text display-inline="yes-display-inline">For purposes of
+				this section—</text>
+                  <paragraph id="H762F03EB740D4865B7BB3F9ED8AC1110">
+                    <enum>(1)</enum>
+                    <header>Previously
+				deferred foreign income taxes</header>
+                    <text display-inline="yes-display-inline">The term <term>previously deferred foreign
+				income taxes</term> means the aggregate amount of total foreign income taxes
+				not taken into account under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:976/ss:a" proposed="true">subsection (a)</cato:entity-ref> for all prior taxable years
+				(determined as of the beginning of the taxable year), reduced by any amounts
+				taken into account under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:976/ss:b" proposed="true">subsection (b)</cato:entity-ref> for such prior taxable years.</text>
+                  </paragraph>
+                  <paragraph id="H7C989BA37B7B4CDAABAA907CD116FB14">
+                    <enum>(2)</enum>
+                    <header>Total foreign
+				income taxes</header>
+                    <text display-inline="yes-display-inline">The term
+				<term>total foreign income taxes</term> means the sum of foreign income taxes
+				paid or accrued during the taxable year (determined without regard to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:904/ss:c">section
+				904(c)</cato:entity-ref>) plus the increase in foreign income taxes that would be paid or accrued
+				during the taxable year under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:902">sections 902</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:960">960</cato:entity-ref> if—</text>
+                    <subparagraph id="HA105F74CCE6B4884864D89194E19CDE8">
+                      <enum>(A)</enum>
+                      <text>all controlled
+				foreign corporations were treated as one controlled foreign corporation,
+				and</text>
+                    </subparagraph>
+                    <subparagraph id="H7C90AE2052B04A65A3B954EB67EAE042">
+                      <enum>(B)</enum>
+                      <text>all earnings and
+				profits of all controlled foreign corporations were <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/spt:F">subpart F</cato:entity-ref> income (as
+				defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:952">section 952</cato:entity-ref>).</text>
+                    </subparagraph>
+                  </paragraph>
+                  <paragraph id="HACC5F78C308B45EB8BA32400DBAB1362">
+                    <enum>(3)</enum>
+                    <header>Foreign income
+				taxes</header>
+                    <text display-inline="yes-display-inline">The term <term>foreign
+				income taxes</term> means any income, war profits, or excess profits taxes paid
+				by the taxpayer to any foreign country or possession of the United
+				States.</text>
+                  </paragraph>
+                  <paragraph id="H9388A62A5A98481AB711B77B0FCA56B">
+                    <enum>(4)</enum>
+                    <header>Currently-taxed
+				foreign income and deferred foreign income</header>
+                    <text display-inline="yes-display-inline">The terms <term>currently-taxed foreign
+				income</term> and <term>deferred foreign income</term> have the meanings given
+				such terms by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:975/ss:c" proposed="true">section 975(c)</cato:entity-ref>).</text>
+                  </paragraph>
+                </subsection>
+              </section>
+              <section id="H3C198D1DE8E5436391F18F65A192533C">
+                <enum>977.</enum>
+                <header>Application of
+				subpart</header>
+                <text display-inline="no-display-inline">This subpart—</text>
+                <paragraph id="H278B262C823B431BB6E1FF00B1441C4">
+                  <enum>(1)</enum>
+                  <text>shall be applied
+				before <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/spt:A">subpart A</cato:entity-ref>, and</text>
+                </paragraph>
+                <paragraph id="HDF333812472943F2A07CC7B697DBB61E">
+                  <enum>(2)</enum>
+                  <text>shall be applied
+				separately with respect to the categories of income specified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:904/ss:d/p:1">section
+				904(d)(1)</cato:entity-ref>.</text>
+                </paragraph>
+              </section>
+            </subpart>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="HA73E30222EEC40A7B91D60C64C17D5E">
+          <enum>(b)</enum>
+          <header>Clerical
+			 amendment</header>
+          <text>The table of subparts for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/spt:N/pt:III">part III of subpart N of
+			 chapter 1</cato:entity-ref> is amended by inserting after the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/spt:N/pt:III/spt:G">subpart G</cato:entity-ref> the
+			 following new item:</text>
+          <quoted-block display-inline="no-display-inline" id="HB28BF2482CD94943AF5D591BFD88EC8F" style="OLC">
+            <toc container-level="quoted-block-container" idref="HD52A43474A684C5BBFFF8CD500D88694" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+              <toc-entry idref="H379C5A4DBB9B4D0CB2A0AB45FFF2A822" level="subpart">Subpart H. Special Rules for Allocation of Foreign-Related
+				Deductions and Foreign Tax
+				Credits</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="H9125BD1C6DE742C1A41C1C44F13D57C8">
+          <enum>(c)</enum>
+          <header>Effective
+			 date</header>
+          <text display-inline="yes-display-inline">The amendments made by
+			 this section shall apply to taxable years beginning after the date of the
+			 enactment of this Act.</text>
+        </subsection>
+      </section>
+      <section commented="no" display-inline="no-display-inline" id="HA5CB8DDB6144456F86CAB91F55046482" section-type="subsequent-section">
+        <enum>302.</enum>
+        <header>Excess income from
+			 transfers of intangibles to low-taxed affiliates treated as subpart F
+			 income</header>
+        <subsection id="HCC639F9DC48641AC959DA1DF23E9E15D">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:a">Subsection (a) of
+			 section 954</cato:entity-ref> is amended by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:a/p:3">paragraph (3)</cato:entity-ref> the following new
+			 paragraph:</text>
+          <quoted-block display-inline="no-display-inline" id="H46868DAEA38E402D9B49911EFD83A165" style="OLC">
+            <paragraph id="H2B23C19F98F043E9BB3E3BEB0250A0F5">
+              <enum>(4)</enum>
+              <text display-inline="yes-display-inline">the foreign base company excess intangible
+				income for the taxable year (determined under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:f" proposed="true">subsection (f)</cato:entity-ref> and reduced as
+				provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:b/p:5">subsection (b)(5)</cato:entity-ref>),
+				and</text>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="HE6F6A338ECB6444F825CD667C7950823">
+          <enum>(b)</enum>
+          <header>Foreign base
+			 company excess intangible income</header>
+          <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954">Section 954</cato:entity-ref> is amended by
+			 inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:e">subsection (e)</cato:entity-ref> the following new subsection:</text>
+          <quoted-block display-inline="no-display-inline" id="H4B0FA89F547A48C79FD6D3B9863C1664" style="OLC">
+            <subsection id="H06F2C141F2744BADBFEDA8E456E5E26D">
+              <enum>(f)</enum>
+              <header>Foreign base
+				company excess intangible income</header>
+              <text display-inline="yes-display-inline">For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:a/p:4">subsection (a)(4)</cato:entity-ref> and this
+				subsection:</text>
+              <paragraph id="HE04C7B27416A4491973DA6FE2E9F24C0">
+                <enum>(1)</enum>
+                <header>Foreign base
+				company excess intangible income defined</header>
+                <subparagraph id="H3806387D9A1C490796D3E0183584E893">
+                  <enum>(A)</enum>
+                  <header>In
+				general</header>
+                  <text>The term <term>foreign base company excess intangible
+				income</term> means, with respect to any covered intangible, the excess
+				of—</text>
+                  <clause id="H315BE72D69EF4A65B1B95DA07856AC6C">
+                    <enum>(i)</enum>
+                    <text>the sum of—</text>
+                    <subclause id="HA78F4B22B611414DA23F87D7059657C6">
+                      <enum>(I)</enum>
+                      <text>gross income from
+				the sale, lease, license, or other disposition of property in which such
+				covered intangible is used directly or indirectly, and</text>
+                    </subclause>
+                    <subclause id="H4A1CB1371C244FF98FB0219CBBA2E53D">
+                      <enum>(II)</enum>
+                      <text>gross income from
+				the provision of services related to such covered intangible or in connection
+				with property in which such covered intangible is used directly or indirectly,
+				over</text>
+                    </subclause>
+                  </clause>
+                  <clause id="H4722E7A25B2A4AE3B3A0F1CACF1DE222">
+                    <enum>(ii)</enum>
+                    <text>150 percent of
+				the costs properly allocated and apportioned to the gross income taken into
+				account under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:f/p:1/sp:A/cl:i" proposed="true">clause (i)</cato:entity-ref> other than expenses for interest and taxes and any
+				expenses which are not directly allocable to such gross income.</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph commented="no" id="H01E013546B2A40F3A524CDE354AE3A53">
+                  <enum>(B)</enum>
+                  <header>Same country
+				income not taken into account</header>
+                  <text>If—</text>
+                  <clause id="HCE17A60C5B344DDA942AB3099F345488">
+                    <enum>(i)</enum>
+                    <text>the sale, lease,
+				license, or other disposition of the property referred to in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:f/p:1/sp:A/cl:i/scl:I" proposed="true">subparagraph
+				(A)(i)(I)</cato:entity-ref> is for use, consumption, or disposition in the country under the laws
+				of which the controlled foreign corporation is created or organized, or</text>
+                  </clause>
+                  <clause id="H24898428011A4E7CAD7C646E0945E4BB">
+                    <enum>(ii)</enum>
+                    <text>the services
+				referred to in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:f/p:1/sp:A/cl:i/scl:II" proposed="true">subparagraph (A)(i)(II)</cato:entity-ref> are performed in such country,</text>
+                  </clause>
+                  <continuation-text continuation-text-level="subparagraph">the
+				gross income from such sale, lease, license, or other disposition, or provision
+				of services, shall not be taken into account under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:f/p:1/sp:A/cl:i" proposed="true">subparagraph (A)(i)</cato:entity-ref>.</continuation-text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="HDCA04CB801CE41828CFE08472C6A867C">
+                <enum>(2)</enum>
+                <header>Exception based
+				on effective foreign income tax rate</header>
+                <subparagraph id="HCC99CC5315F94F95B8C7A2AC032A253C">
+                  <enum>(A)</enum>
+                  <header>In
+				general</header>
+                  <text>Foreign base company excess intangible income shall not
+				include the applicable percentage of any item of income received by a
+				controlled foreign corporation if the taxpayer establishes to the satisfaction
+				of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> that such income was subject to an effective rate of income
+				tax imposed by a foreign country in excess of 5 percent.</text>
+                </subparagraph>
+                <subparagraph id="HA96EA1C1C62848B2AC3B4F3551B91D4D">
+                  <enum>(B)</enum>
+                  <header>Applicable
+				percentage</header>
+                  <text>For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:f/p:2/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>, the term
+				<term>applicable percentage</term> means the ratio (expressed as a
+				percentage), not greater than 100 percent, of—</text>
+                  <clause id="H2BC3BC0C7E124B599D6809510B940844">
+                    <enum>(i)</enum>
+                    <text>the number of
+				percentage points by which the effective rate of income tax referred to in
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:f/p:2/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> exceeds 5 percentage points, over</text>
+                  </clause>
+                  <clause id="H3FCEED575D5F4A29A0C014F5D64B3D79">
+                    <enum>(ii)</enum>
+                    <text>10 percentage
+				points.</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="H03FEAF123D594B599FD76536A1748512">
+                  <enum>(C)</enum>
+                  <header>Treatment of
+				losses in determining effective rate of foreign income tax</header>
+                  <text>For
+				purposes of determining the effective rate of income tax imposed by any foreign
+				country—</text>
+                  <clause id="H3D89782CA2454EEB8C1224E20B9859B6">
+                    <enum>(i)</enum>
+                    <text>such effective
+				rate shall be determined without regard to any losses carried to the relevant
+				taxable year, and</text>
+                  </clause>
+                  <clause id="HA6A38321C6624FAFA940C2A96FE10644">
+                    <enum>(ii)</enum>
+                    <text>to the extent the
+				income with respect to such intangible reduces losses in the relevant taxable
+				year, such effective rate shall be treated as being the effective rate which
+				would have been imposed on such income without regard to such losses.</text>
+                  </clause>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="HB5546DFCA6C04646B3D3CEC7B6FE0362">
+                <enum>(3)</enum>
+                <header>Covered
+				intangible</header>
+                <text>The term <term>covered intangible</term> means, with
+				respect to any controlled foreign corporation, any intangible property (as
+				defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:936/ss:h/p:3/sp:B">section 936(h)(3)(B)</cato:entity-ref>)—</text>
+                <subparagraph id="HB0F168A477FF41A4B17A6E504F161E0F">
+                  <enum>(A)</enum>
+                  <text>which is sold,
+				leased, licensed, or otherwise transferred (directly or indirectly) to such
+				controlled foreign corporation from a related person, or</text>
+                </subparagraph>
+                <subparagraph id="H63040072F71C481CB63C019E859EC0F0">
+                  <enum>(B)</enum>
+                  <text>with respect to
+				which such controlled foreign corporation and one or more related persons has
+				(directly or indirectly) entered into any shared risk or development agreement
+				(including any cost sharing agreement).</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="HAD1DCA54E6F54502AE7D67DFB83D1429">
+                <enum>(4)</enum>
+                <header>Related
+				person</header>
+                <text>The term <term>related person</term> has the meaning
+				given such term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:d/p:3">subsection
+				(d)(3)</cato:entity-ref>.</text>
+              </paragraph>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="H2469ACE3A4A8404DA421F986E17D6C36">
+          <enum>(c)</enum>
+          <header>Separate basket
+			 for foreign tax credit</header>
+          <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:904/ss:d">Subsection (d) of section 904</cato:entity-ref> is amended by
+			 redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:904/ss:d/p:7">paragraph (7)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:904/ss:d/p:8" proposed="true">paragraph (8)</cato:entity-ref> and by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:904/ss:d/p:6">paragraph
+			 (6)</cato:entity-ref> the following new paragraph:</text>
+          <quoted-block display-inline="no-display-inline" id="H28A528D57BA448D298950BB6A02510E9" style="OLC">
+            <paragraph id="H6AB06F67B21742C6B28DBE2BABA2B4AD">
+              <enum>(7)</enum>
+              <header>Separate
+				application to foreign base company excess intangible income</header>
+              <subparagraph id="H1D5F0B41A410433BBC58475602CA4759">
+                <enum>(A)</enum>
+                <header>In
+				general</header>
+                <text display-inline="yes-display-inline">
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:904/ss:a">Subsections (a)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:904/ss:b">(b)</cato:entity-ref>,
+				and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:904/ss:c">(c)</cato:entity-ref> of this section and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:902">sections 902</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:907">907</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:960">960</cato:entity-ref> shall be applied
+				separately with respect to each item of income which is taken into account
+				under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:a/p:4">section 954(a)(4)</cato:entity-ref> as foreign base company excess intangible
+				income.</text>
+              </subparagraph>
+              <subparagraph id="HFD4764940D1C4DA69FF74512FC50BBAF">
+                <enum>(B)</enum>
+                <header>Regulations</header>
+                <text>The
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> may issue such regulations or other guidance as is necessary or
+				appropriate to carry out the purposes of this subsection, including regulations
+				or other guidance which provides that related items of income may be aggregated
+				for purposes of this
+				paragraph.</text>
+              </subparagraph>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="H173F260176D4482795268FB1D278F9F6">
+          <enum>(d)</enum>
+          <header>Conforming
+			 amendments</header>
+          <paragraph id="H5705B69AC7A744D9BEFFDC1C46BC86D6">
+            <enum>(1)</enum>
+            <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:b/p:4">Paragraph (4) of
+			 section 954(b)</cato:entity-ref> is amended by inserting <quote>foreign base company excess
+			 intangible income described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:a/p:4">subsection (a)(4)</cato:entity-ref> or</quote> before
+			 <quote>foreign base company oil-related income</quote> in the last sentence
+			 thereof.</text>
+          </paragraph>
+          <paragraph id="HADE64B57E4344BCD8BB933AFF8A3B15F">
+            <enum>(2)</enum>
+            <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:b">Subsection (b) of
+			 section 954</cato:entity-ref> is amended by adding at the end the following new paragraph:</text>
+            <quoted-block display-inline="no-display-inline" id="HC39BAE812F40403CB2FC20C9CD23D623" style="OLC">
+              <paragraph id="H2E2A5ADBF2BB49AD90F1C626880A828A">
+                <enum>(7)</enum>
+                <header>Foreign base
+				company excess intangible income not treated as another kind of base company
+				income</header>
+                <text display-inline="yes-display-inline">Income of a
+				corporation which is foreign base company excess intangible income shall not be
+				considered foreign base company income of such corporation under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:a/p:2">paragraph (2)</cato:entity-ref>,
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:a/p:3">(3)</cato:entity-ref>, or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:a/p:5">(5) of subsection
+				(a)</cato:entity-ref>.</text>
+              </paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+        </subsection>
+        <subsection id="H874447D075624ADE9E979D57FF18CE6C">
+          <enum>(e)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendments made by this section shall apply to taxable
+			 years beginning after the date of the enactment of this Act.</text>
+        </subsection>
+      </section>
+      <section id="id721844706450447B8815468A0278B98D">
+        <enum>303.</enum>
+        <header>Limitations on
+			 income shifting through intangible property transfers</header>
+        <subsection id="idEF5DE56E8D284FF9B86BD8E0767F3344">
+          <enum>(a)</enum>
+          <header>Clarification
+			 of definition of intangible asset</header>
+          <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:936/ss:h/p:3/sp:B/cl:vi">Clause (vi) of section
+			 936(h)(3)(B)</cato:entity-ref> is amended by inserting <quote>(including any <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:197">section 197</cato:entity-ref>
+			 intangible described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:197/ss:d/p:1/sp:A">subparagraph (A)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:197/ss:d/p:1/sp:B">(B)</cato:entity-ref>, or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:197/ss:d/p:1/sp:C/cl:i">(C)(i) of subsection (d)(1)
+			 of such section</cato:entity-ref>)</quote> after <quote>item</quote>.</text>
+        </subsection>
+        <subsection id="id01B91024456E4EF582351E32FB3288EF">
+          <enum>(b)</enum>
+          <header>Clarification
+			 of allowable valuation methods</header>
+          <paragraph id="id4E3241D35F4B43669E6D89297D42C3DC">
+            <enum>(1)</enum>
+            <header>Foreign
+			 corporations</header>
+            <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:367/ss:d/p:2">Paragraph (2) of section 367(d)</cato:entity-ref> is amended by adding
+			 at the end the following new subparagraph:</text>
+            <quoted-block act-name="" id="id30F3A2053D5947A2B51FCB11503D1014" style="OLC">
+              <subparagraph id="id53789CA957874BE9B191AA0ACE83EE92">
+                <enum>(D)</enum>
+                <header>Regulatory
+				authority</header>
+                <text>For purposes of the last sentence of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:367/ss:d/p:2/sp:A">subparagraph (A)</cato:entity-ref>,
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> may require—</text>
+                <clause id="id8F5E5F77D5424FFEA73093EA43DA25AB">
+                  <enum>(i)</enum>
+                  <text>the valuation of
+				transfers of intangible property on an aggregate basis, or</text>
+                </clause>
+                <clause id="id5D5A103616A3464B98F3082779064038">
+                  <enum>(ii)</enum>
+                  <text>the valuation of
+				such a transfer on the basis of the realistic alternatives to such a
+				transfer,</text>
+                </clause>
+                <continuation-text continuation-text-level="subparagraph">in any
+				case in which the Secretary determines that such basis is the most reliable
+				means of valuation of such
+				transfers.</continuation-text>
+              </subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+          <paragraph id="id2F075E334B684285AFE21AF9AF19179E">
+            <enum>(2)</enum>
+            <header>Allocation
+			 among taxpayers</header>
+            <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:482">Section 482</cato:entity-ref> is amended by adding at the end the
+			 following: <quote>For purposes of the preceding sentence, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> may
+			 require the valuation of transfers of intangible property on an aggregate basis
+			 or the valuation of such a transfer on the basis of the realistic alternatives
+			 to such a transfer, in any case in which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> determines that such
+			 basis is the most reliable means of valuation of such
+			 transfers.</quote>.</text>
+          </paragraph>
+        </subsection>
+        <subsection id="idC6556F73D1E14042B629920A36E33DA5">
+          <enum>(c)</enum>
+          <header>Effective
+			 date</header>
+          <paragraph id="id0E40DA24FEB94BA6BC45F6277910284A">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>The amendments made by this section shall apply to
+			 transfers in taxable years beginning after the date of the enactment of this
+			 Act.</text>
+          </paragraph>
+          <paragraph commented="no" display-inline="no-display-inline" id="idBD57E83689FE4EBE986523373BBDA043">
+            <enum>(2)</enum>
+            <header>No
+			 inference</header>
+            <text>Nothing in the amendment made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Tax Haven Abuse Act/s:303/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall
+			 be construed to create any inference with respect to the application of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:936/ss:h/p:3">section
+			 936(h)(3) of the Internal Revenue Code of 1986</cato:entity-ref>, or the authority of the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref> to provide regulations for such application, on or
+			 before the date of the enactment of such amendment.</text>
+          </paragraph>
+        </subsection>
+      </section>
+      <section id="idE32F684939214034A3D53BBC755E6ACF">
+        <enum>304.</enum>
+        <header>Repeal of
+			 check-the-box rules for certain foreign entities and CFC look-thru
+			 rules</header>
+        <subsection id="id51AE8FBF0F304745887C8E4ADE888AD1">
+          <enum>(a)</enum>
+          <header>Check-the-Box
+			 rules</header>
+          <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:7701/ss:a/p:3">Paragraph (3) of section 7701(a)</cato:entity-ref> is amended—</text>
+          <paragraph id="id14BD9B41645B4DA3B9D46BC15F1F3A14">
+            <enum>(1)</enum>
+            <text display-inline="yes-display-inline">by striking <quote>and</quote>, and</text>
+          </paragraph>
+          <paragraph commented="no" display-inline="no-display-inline" id="id9D6D0A8E9DE14CF2AC095AAB577662B3">
+            <enum>(2)</enum>
+            <text display-inline="yes-display-inline">by inserting after <quote>insurance
+			 companies</quote> the following:</text>
+            <quoted-block display-inline="yes-display-inline" id="id766A2D22E5B34299AA71C8FCF0F59F21" style="OLC">
+              <text>, and any
+			 foreign business entity that—</text>
+              <subparagraph commented="no" display-inline="no-display-inline" id="idB0FABBAB42754B51B22BC98B25A2BA98">
+                <enum>(A)</enum>
+                <text display-inline="yes-display-inline">has a single owner that does not have
+				limited liability, or</text>
+              </subparagraph>
+              <subparagraph commented="no" display-inline="no-display-inline" id="idAA0EBD8EE7AD4B3080702539939D2C54">
+                <enum>(B)</enum>
+                <text display-inline="yes-display-inline">has one or more members all of which have
+				limited
+				liability</text>
+              </subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+        </subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="id9C83766C08BF418B883F55D8719344C7">
+          <enum>(b)</enum>
+          <header>Look-Thru
+			 rule</header>
+          <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:c/p:6/sp:C">Subparagraph (C) of section 954(c)(6)</cato:entity-ref> is amended to read as
+			 follows:</text>
+          <quoted-block display-inline="no-display-inline" id="idFE4CCA90BBC84D2C985F84AE2BBC041C" style="OLC">
+            <subparagraph commented="no" display-inline="no-display-inline" id="id51A5AA15FE9D498FAE410EBAC2B71F23">
+              <enum>(C)</enum>
+              <header>Termination</header>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:c/p:6/sp:A">Subparagraph
+				(A)</cato:entity-ref> shall not apply to dividends, interest, rents, and royalties received or
+				accrued after the date of the enactment of the
+				<short-title>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Tax Haven Abuse Act" proposed="true">Stop Tax Haven Abuse
+				Act</cato:entity-ref>
+                </short-title>.</text>
+            </subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+      </section>
+      <section id="id44193026BB094E399434B77F5DDE244F">
+        <enum>305.</enum>
+        <header>Prohibition on
+			 offshore loan abuse</header>
+        <subsection id="id1B06C2DA93F848E78CC5D8941EB822BA">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:N/pt:III/spt:F">Subpart F of part III of subchapter N of chapter 1</cato:entity-ref> is
+			 amended by adding at the end the following new section:</text>
+          <quoted-block display-inline="no-display-inline" id="idCFF9E5AAC2A4439EA3AFB967CBC27E88" style="OLC">
+            <section id="id827D9997B42B492F8D22E56DC9BDC932">
+              <enum>966.</enum>
+              <header>Income
+				inclusion for loans to United States shareholders from controlled foreign
+				corporations</header>
+              <subsection id="id69FD7D69ABCA44EA81FF7F66683DCC9D">
+                <enum>(a)</enum>
+                <header>In
+				general</header>
+                <text>In the case of a United States shareholder, there shall
+				be included in income for the taxable year an amount equal to the disqualified
+				CFC loan amount.</text>
+              </subsection>
+              <subsection id="id7D374D1BB4074B2F8126B2E756D896F6">
+                <enum>(b)</enum>
+                <header>Disqualified
+				CFC loan amount</header>
+                <paragraph id="idB3029B308E0B49F8B51C4D2FB14A5273">
+                  <enum>(1)</enum>
+                  <header>In
+				general</header>
+                  <text>For purposes of this section, the disqualified CFC loan
+				amount for any taxable year is an amount equal to the lesser of—</text>
+                  <subparagraph id="id9F8E51AFC4724460B2465200B0AAE26A">
+                    <enum>(A)</enum>
+                    <text>the aggregate
+				amount of obligations of the United States shareholder which originated in such
+				taxable year and are held (directly or indirectly) by controlled foreign
+				corporations, or</text>
+                  </subparagraph>
+                  <subparagraph id="idE7DF3B90310E42ADAA0EB1379D7A0D90">
+                    <enum>(B)</enum>
+                    <text>the foreign group
+				earnings amount.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="idBB0F1D4116B244D780D06FE0D8E995B3">
+                  <enum>(2)</enum>
+                  <header>Exception</header>
+                  <text>In
+				determining the amount of obligations under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:966/ss:b/p:1/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>, there shall be
+				excluded any obligation described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:956/ss:c/p:2/sp:C">section 956(c)(2)(C)</cato:entity-ref>.</text>
+                </paragraph>
+                <paragraph id="id19C2B8B7ED314A8B976B4DC635B36E70">
+                  <enum>(3)</enum>
+                  <header>Carryforward of
+				certain amounts</header>
+                  <text>If, for any taxable year, the amount under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:966/ss:b/p:1/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> exceeds the amount under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:966/ss:b/p:1/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>, such excess shall
+				be taken into account as an obligation to which <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:966/ss:b/p:1/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> applies for
+				the succeeding taxable year.</text>
+                </paragraph>
+                <paragraph id="id493555CED84B4A919B9B6243C2C29D1F">
+                  <enum>(4)</enum>
+                  <header>Foreign group
+				earnings amount</header>
+                  <text>For purposes of this section, the term
+				<term>foreign group earnings amount</term> means the aggregate earnings and
+				profits of all controlled foreign corporations in the worldwide affiliated
+				group (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:864/ss:f/p:1/sp:C">section 864(f)(1)(C)</cato:entity-ref>) of the United States shareholder,
+				determined—</text>
+                  <subparagraph id="id690AFF1A222C470CA6153598F72F721C">
+                    <enum>(A)</enum>
+                    <text>as of the last
+				day of the taxable year of the United States shareholder, and</text>
+                  </subparagraph>
+                  <subparagraph id="id4C38E1E7C66346B2B581439FF6EAAC0C">
+                    <enum>(B)</enum>
+                    <text>without regard to
+				any distributions made during such taxable year.</text>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="id97323432A634496BAA374FCA1972C099">
+                <enum>(c)</enum>
+                <header>Denial of
+				interest deduction</header>
+                <text>No deduction shall be allowed for interest
+				paid or accrued with respect to obligations taken into account under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:966/ss:b" proposed="true">subsection
+				(b)</cato:entity-ref>.</text>
+              </subsection>
+              <subsection id="id6E56CFF7EB74447C9A47BECB767D2623">
+                <enum>(d)</enum>
+                <header>Treatment of
+				income source</header>
+                <text>Any amount included in income under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:966/ss:a" proposed="true">subsection (a)</cato:entity-ref>
+				shall be treated as income from sources within the United
+				States.</text>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="id1F1B4903F6E6459D92A30AE99E5F5260">
+          <enum>(b)</enum>
+          <header>Coordination
+			 with section 956</header>
+          <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:956/ss:c/p:2">Paragraph (2) of section 956(c)</cato:entity-ref> is amended by
+			 striking <quote>and</quote> at the end of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:956/ss:c/p:2/sp:K">subparagraph (K)</cato:entity-ref>, by striking the
+			 period at the end of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:956/ss:c/p:2/sp:L/cl:ii">subparagraph (L)(ii)</cato:entity-ref> and inserting <quote>; and</quote>,
+			 and by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:956/ss:c/p:2/sp:L">subparagraph (L)</cato:entity-ref> the following new subparagraph:</text>
+          <quoted-block display-inline="no-display-inline" id="idFF6C7F0041114ED7A4A9533592FA1560" style="OLC">
+            <subparagraph id="id5632944EDD2C4FDAABEC01EE92695706">
+              <enum>(M)</enum>
+              <text display-inline="yes-display-inline">any obligation which is taken into account
+				in determining the disqualified CFC loan amount under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:966" proposed="true">section
+				966</cato:entity-ref>.</text>
+            </subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="idEBA0925FC983406BA20943AD9786574F">
+          <enum>(c)</enum>
+          <header>Clerical
+			 amendment</header>
+          <text>The table of sections for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:N/pt:III/spt:F">subpart F of part III of
+			 subchapter N of chapter 1</cato:entity-ref> is amended by adding at the end the following new
+			 item:</text>
+          <quoted-block id="iddf161191-7484-48d6-8e03-3ca5ebf42da6" style="OLC">
+            <toc>
+              <toc-entry idref="id827D9997B42B492F8D22E56DC9BDC932" level="section">Sec. 966. Income inclusion for loans to certain United States
+				shareholders from controlled foreign
+				corporations.</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="id7DB39A38474E44FA8FCDA8F68DD4B1F9">
+          <enum>(d)</enum>
+          <header>Effective
+			 date</header>
+          <text>The amendments made by this section shall apply to
+			 obligations originated after the date of the enactment of this Act.</text>
+        </subsection>
+      </section>
+    </title>
+  </legis-body>
+</bill>
+</doc>

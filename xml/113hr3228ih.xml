@@ -1,0 +1,599 @@
+<doc>
+  <docmeta id="113hr3228ih">
+    <bill congress="113" type="hr" number="3228" version="ih"/>
+    <revision size="24697" annotations="0" status="complete" id="8" commit-time="2013-10-09T18:48:01Z" committer="mbohmer" doc="113hr3228ih/8.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9E29078CB20543EA94B91EBE39C5FD02" public-private="public">
+  <metadata>
+<dublinCore>
+<title>113 HR 3228 IH: FISA Court Reform Act of 2013</title>
+<publisher>U.S. House of Representatives</publisher>
+<date>2013-10-01</date>
+<format>text/xml</format>
+<language>EN</language>
+<rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+    <congress>113th CONGRESS</congress>
+    <session>1st Session</session>
+    <legis-num>H. R. 3228</legis-num>
+    <current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+    <action>
+      <action-date date="20131001">October 1, 2013</action-date>
+      <action-desc>
+        <sponsor name-id="V000128">Mr. Van Hollen</sponsor> (for himself and <cosponsor name-id="J000289">Mr. Jordan</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>, and in addition to the <committee-name committee-id="">Select Committee on Intelligence (Permanent Select)</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+    </action>
+    <legis-type>A BILL</legis-type>
+    <official-title>To establish the Office of the Constitutional Advocate to provide advocacy in cases before courts established by the Foreign Intelligence Surveillance Act of 1978, and for other purposes.</official-title>
+  </form>
+  <legis-body id="HD2BF0C0D022B4284A767104C556AFF7D" style="OLC">
+    <section id="H6CB139B6753B4E089BF41CA10E6BD0E5" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title</header>
+      <text display-inline="no-display-inline">This Act may be cited as the <quote>
+          <short-title>FISA Court Reform Act of 2013</short-title>
+        </quote>.</text>
+    </section>
+    <section id="HAF120C6FF6464E50BFB4BF2DC8C0AC29">
+      <enum>2.</enum>
+      <header>Definitions</header>
+      <text display-inline="no-display-inline">In this title:</text>
+      <paragraph id="H7117AE188B7346D49D2AB143DF78AADB">
+        <enum>(1)</enum>
+        <header>Constitutional Advocate</header>
+        <text>The term <term>Constitutional Advocate</term> means the Constitutional Advocate appointed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:3/ss:b" proposed="true">section 3(b)</cato:entity-ref>.</text>
+      </paragraph>
+      <paragraph id="HFC6BDE41C4574A10A6375FCF2522C5CF">
+        <enum>(2)</enum>
+        <header>Decision</header>
+        <text>The term <term>decision</term> means a decision, order, or opinion issued by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref>.</text>
+      </paragraph>
+      <paragraph id="H92A82D32256A40EE9468413D26AFC9D5">
+        <enum>(3)</enum>
+        <header>FISA</header>
+        <text>The term <term>FISA</term> means the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978">Foreign Intelligence Surveillance Act of 1978</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/50/1801">
+              <cato:entity-ref entity-type="uscode" value="usc/50/1801/etseq">50 U.S.C. 1801 et seq.</cato:entity-ref>
+            </external-xref>)</cato:entity>.</text>
+      </paragraph>
+      <paragraph id="H01A14BE048CD44D5979758C7080D52DC">
+        <enum>(4)</enum>
+        <header>FISA Court</header>
+        <text>The term <term>FISA Court</term> means the court established under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:103/ss:a">section 103(a) of FISA</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/50/1803">
+              <cato:entity-ref entity-type="uscode" value="usc/50/1803/a">50 U.S.C. 1803(a)</cato:entity-ref>
+            </external-xref>)</cato:entity>.</text>
+      </paragraph>
+      <paragraph id="H5CAE0E45F99F4BE99F0FB5C7A49D7356">
+        <enum>(5)</enum>
+        <header>FISA Court of Review</header>
+        <text>The term <term>FISA Court of Review</term> means the court of review established under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:103/ss:b">section 103(b) of FISA</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/50/1803">
+              <cato:entity-ref entity-type="uscode" value="usc/50/1803/b">50 U.S.C. 1803(b)</cato:entity-ref>
+            </external-xref>)</cato:entity>.</text>
+      </paragraph>
+      <paragraph id="HF43DAD9CED2B4CADA1FE9075F82CB726">
+        <enum>(6)</enum>
+        <header>Office</header>
+        <text>The term <term>Office</term> means the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" proposed="true">Office of the Constitutional Advocate</cato:entity-ref> established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:3/ss:a" proposed="true">section 3(a)</cato:entity-ref>.</text>
+      </paragraph>
+      <paragraph id="H2587A8E556464C1D9D1E69DD32E373C5">
+        <enum>(7)</enum>
+        <header>Petition review pool</header>
+        <text>The term <term>petition review pool</term> means the petition review pool established by <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:103/ss:e">section 103(e) of FISA</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/50/1803">
+              <cato:entity-ref entity-type="uscode" value="usc/50/1803/e">50 U.S.C. 1803(e)</cato:entity-ref>
+            </external-xref>)</cato:entity> or any member of that pool.</text>
+      </paragraph>
+      <paragraph id="H874BAB36CB8B491392866D2948F451E5">
+        <enum>(8)</enum>
+        <header>Significant construction or interpretation of law</header>
+        <text>The term <term>significant construction or interpretation of law</term> means a significant construction or interpretation of a provision, as that term is construed under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:601/ss:c">section 601(c) of FISA</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/50/1871">
+              <cato:entity-ref entity-type="uscode" value="usc/50/1871/c">50 U.S.C. 1871(c)</cato:entity-ref>
+            </external-xref>)</cato:entity>.</text>
+      </paragraph>
+    </section>
+    <section id="HB74EC1FC69E64BFC9AF67C7EEA0C1A25">
+      <enum>3.</enum>
+      <header>Office of the Constitutional Advocate</header>
+      <subsection id="H54247E55B07D45648A15B5E8489C7350">
+        <enum>(a)</enum>
+        <header>Establishment</header>
+        <text>There is established within the judicial branch of the United States an <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Office of the Constitutional Advocate</cato:entity-ref>.</text>
+      </subsection>
+      <subsection id="H48CF58488B354CB2BA48E7D46C8EDD6F">
+        <enum>(b)</enum>
+        <header>Constitutional Advocate</header>
+        <paragraph id="H72189FB778BA4AB8B6DBB910DEDE78E3">
+          <enum>(1)</enum>
+          <header>In general</header>
+          <text>The head of the Office is the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" proposed="true" entity-parent-id="1000">Constitutional Advocate</cato:entity-ref>.</text>
+        </paragraph>
+        <paragraph id="H10D675E9B0A546148C7E31600B2EEE08">
+          <enum>(2)</enum>
+          <header>Appointment and term</header>
+          <subparagraph id="HE2FCDE026DD944A4A3BD90C45E3BB467">
+            <enum>(A)</enum>
+            <header>Appointment</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1050">Chief Justice of the United States</cato:entity-ref> shall appoint the Constitutional Advocate from the list of candidates submitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:3/ss:b/p:2/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>.</text>
+          </subparagraph>
+          <subparagraph id="HC346C4E03BF04F16B48D62A3760E2FCF">
+            <enum>(B)</enum>
+            <header>Candidates</header>
+            <clause id="H731653B1E8434AF98280C32A3135361A">
+              <enum>(i)</enum>
+              <header>List of candidates</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Privacy and Civil Liberties Oversight Board">Privacy and Civil Liberties Oversight Board</cato:entity-ref> shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1050">Chief Justice</cato:entity-ref> a list of not less than 5 qualified candidates to serve as a Constitutional Advocate.</text>
+            </clause>
+            <clause id="H8A440B63F90246C197E7DC440A320DB0">
+              <enum>(ii)</enum>
+              <header>Selection of candidates</header>
+              <text>In preparing a list described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:3/ss:b/p:2/sp:B/cl:i" proposed="true">clause (i)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Privacy and Civil Liberties Oversight Board">Privacy and Civil Liberties Oversight Board</cato:entity-ref> shall select candidates the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Privacy and Civil Liberties Oversight Board">Board</cato:entity-ref> believes will be zealous and effective advocates in defense of civil liberties and consider each potential candidate's—</text>
+              <subclause id="H99DA69553FA049A89BFA1EB6D0BF7FD1">
+                <enum>(I)</enum>
+                <text>litigation and other professional experience;</text>
+              </subclause>
+              <subclause id="H74E6EAAFE1A546CE87C4A133DEA581C8">
+                <enum>(II)</enum>
+                <text>experience with the areas of law the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" proposed="true" entity-parent-id="1000">Constitutional Advocate</cato:entity-ref> is likely to encounter in the course of the Advocate's duties; and</text>
+              </subclause>
+              <subclause id="H3071509C149C4D61A2FF63A28A43278C">
+                <enum>(III)</enum>
+                <text>demonstrated commitment to civil liberties.</text>
+              </subclause>
+            </clause>
+          </subparagraph>
+          <subparagraph id="H141ADE0CE8B44FFA8745B94523452677">
+            <enum>(C)</enum>
+            <header>Security Clearance</header>
+            <text>An individual may be appointed <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" proposed="true" entity-parent-id="1000">Constitutional Advocate</cato:entity-ref> without regard to whether the individual possesses a security clearance on the date of the appointment.</text>
+          </subparagraph>
+          <subparagraph id="H58D8CE755EAF42DABCC2ED0BA7B41065">
+            <enum>(D)</enum>
+            <header>Term and dismissal</header>
+            <text>A <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" proposed="true" entity-parent-id="1000">Constitutional Advocate</cato:entity-ref> shall be appointed for a term of 3 years and may be fired only for good cause shown, including the demonstrated inability to qualify for an adequate security clearance.</text>
+          </subparagraph>
+          <subparagraph id="H3D256F08583D4F608731E0256B8B0BC3">
+            <enum>(E)</enum>
+            <header>Reappointment</header>
+            <text>There shall be no limit to the number of consecutive terms served by a <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" proposed="true" entity-parent-id="1000">Constitutional Advocate</cato:entity-ref>. The reappointment of a Constitutional Advocate shall be made in the same manner as appointment of a Constitutional Advocate.</text>
+          </subparagraph>
+          <subparagraph id="HA77A7678CCF148CD89F2F4362DEDD5BE">
+            <enum>(F)</enum>
+            <header>Acting Constitutional Advocate</header>
+            <text>If the position of Constitutional Advocate is vacant, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1050">Chief Justice</cato:entity-ref> may appoint an Acting Constitutional Advocate from among the qualified employees of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" proposed="true" entity-parent-id="1000">Office</cato:entity-ref>. If there are no such qualified employees, the Chief Justice may appoint an Acting Constitutional Advocate from the most recent list of candidates provided by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Privacy and Civil Liberties Oversight Board">Privacy and Civil Liberties Oversight Board</cato:entity-ref> pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:3/ss:b/p:2/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>. The Acting Constitutional Advocate shall have all of the powers of a Constitutional Advocate and shall serve until a Constitutional Advocate is appointed.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="HFE677D80529A4A45A4AFFC2FC6CC5F25">
+          <enum>(3)</enum>
+          <header>Employees</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" proposed="true" entity-parent-id="1000">Constitutional Advocate</cato:entity-ref> is authorized, without regard to the civil service laws and regulations, to appoint and terminate employees of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" proposed="true" entity-parent-id="1000">Office</cato:entity-ref>.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="H38A9FE80A98C420B83F98DAA7B9215DB">
+        <enum>(c)</enum>
+        <header>Security clearances</header>
+        <text>The appropriate departments, agencies, and elements of the executive branch shall cooperate with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" proposed="true" entity-parent-id="1000">Office</cato:entity-ref>, to the extent possible under existing procedures and requirements, to expeditiously provide the Constitutional Advocate and appropriate employees of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" proposed="true" entity-parent-id="1000">Office</cato:entity-ref> with the security clearances necessary to carry out the duties of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1028" proposed="true">Constitutional Advocate</cato:entity-ref>.</text>
+      </subsection>
+      <subsection id="HF040A7EDCEF343DABD48F54B4ECE8A77">
+        <enum>(d)</enum>
+        <header>Duties and authorities of the Constitutional Advocate</header>
+        <paragraph id="H05615A218046403DA4FF6F2674B8BC49">
+          <enum>(1)</enum>
+          <header>In general</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" proposed="true" entity-parent-id="1000">Constitutional Advocate</cato:entity-ref>—</text>
+          <subparagraph id="H4CC559584AEE493A97D336A864C882C5">
+            <enum>(A)</enum>
+            <text>shall review each application to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph id="HF2672F5C7AF64994994C912F5680CBCD">
+            <enum>(B)</enum>
+            <text>shall review each decision of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref>, the petition review pool, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref> issued after the date of the enactment of this Act and all documents and other material relevant to such decision in a complete, unredacted form;</text>
+          </subparagraph>
+          <subparagraph id="H75A5477C855146FCBDCF88B42E02A15D">
+            <enum>(C)</enum>
+            <text>may participate in a proceeding before the petition review pool if such participation is requested by a party in such a proceeding or by the petition review pool;</text>
+          </subparagraph>
+          <subparagraph id="H44083648483F44CA9F4FB1FDFA16B343">
+            <enum>(D)</enum>
+            <text display-inline="yes-display-inline">shall consider any request from a provider who has been served with an order, certification, or directive compelling the provider to provide assistance to the Government or to release customer information to assist that provider in a proceeding before the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> or the petition review pool, including a request—</text>
+            <clause id="H29360DBF0B8941669AAA4C8C86553A54">
+              <enum>(i)</enum>
+              <text display-inline="yes-display-inline">to oppose the Government on behalf of the private party in such a proceeding; or</text>
+            </clause>
+            <clause id="HA65A61A33F274B36B5BA045404676C24">
+              <enum>(ii)</enum>
+              <text display-inline="yes-display-inline">to provide guidance to the private party if the private party is considering compliance with an order of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref>;</text>
+            </clause>
+          </subparagraph>
+          <subparagraph id="HB1347A372DC54A629BF020126B52B2A5">
+            <enum>(E)</enum>
+            <text>shall participate in a proceeding before the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> if appointed to participate by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:4/ss:a" proposed="true">section 4(a)</cato:entity-ref> and may participate in a proceeding before the petition review pool if authorized under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:5/ss:a" proposed="true">section 5(a)</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph id="HDAAA4EF748974EF298A6364D722C4B18">
+            <enum>(F)</enum>
+            <text>may request to participate in a proceeding before the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> or the petition review pool;</text>
+          </subparagraph>
+          <subparagraph id="H7FEA53CBD78048BBA4EECE44A44553C9">
+            <enum>(G)</enum>
+            <text>shall participate in such a proceeding if such request is granted;</text>
+          </subparagraph>
+          <subparagraph id="HE7E2BD5E217044368D200027D7180170">
+            <enum>(H)</enum>
+            <text>may request reconsideration of a decision of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> under section 4(b);</text>
+          </subparagraph>
+          <subparagraph id="HFB69C1A15CC34EDDAE9295FCA32F7848">
+            <enum>(I)</enum>
+            <text>may appeal or seek review of a decision of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref>, the petition review pool, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref>, as permitted by this title; and</text>
+          </subparagraph>
+          <subparagraph id="HBE25601D157442D095B73BCA294A95ED">
+            <enum>(J)</enum>
+            <text>shall participate in such appeal or review.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="HFC69D12539CD439580EF47573691999E">
+          <enum>(2)</enum>
+          <header>Advocacy</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> shall protect individual rights by vigorously advocating before the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref>, the petition review pool, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref>, as appropriate, in support of legal interpretations that minimize the scope of surveillance and the extent of data collection and retention.</text>
+        </paragraph>
+        <paragraph id="H7628208C70D6469B86F3D6D40FFB7434">
+          <enum>(3)</enum>
+          <header>Utilization of outside counsel</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" proposed="true" entity-parent-id="1000">Constitutional Advocate</cato:entity-ref>—</text>
+          <subparagraph id="HC4CB3F7EF62D4D23921B8E4B74723297">
+            <enum>(A)</enum>
+            <text>may delegate to a competent outside counsel any duty or responsibility of the Constitutional Advocate with respect to participation in a matter before the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref>, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1001">Supreme Court of the United States</cato:entity-ref>; and</text>
+          </subparagraph>
+          <subparagraph id="H3812A5C4D5C4417EADDD05E341D029B5">
+            <enum>(B)</enum>
+            <text>may not delegate to outside counsel any duty or authority set out in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:3/ss:d/p:1/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:3/ss:d/p:1/sp:B" proposed="true">(B)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:3/ss:d/p:1/sp:D" proposed="true">(D)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:3/ss:d/p:1/sp:F" proposed="true">(F)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:3/ss:d/p:1/sp:H" proposed="true">(H)</cato:entity-ref>, or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:3/ss:d/p:1/sp:I" proposed="true">(I) of paragraph (1)</cato:entity-ref>.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph commented="no" display-inline="no-display-inline" id="H3CDE27F367F94D27B5F7C63EE4A0C5F3">
+          <enum>(4)</enum>
+          <header>Availability of documents and material</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref>, the petition review pool, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref>, as appropriate, shall order any agency, department, or entity to make available to the Constitutional Advocate, or appropriate outside counsel if utilized by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:3/ss:d/p:3" proposed="true">paragraph (3)</cato:entity-ref>, any documents or other material necessary to carry out the duties described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:3/ss:d/p:1" proposed="true">paragraph (1)</cato:entity-ref>.</text>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="H737D989A9EDC4DC8B2067669317BEE0A">
+      <enum>4.</enum>
+      <header>Advocacy before the FISA Court
+      </header>
+      <subsection id="H430B80DADDEE4332938AA1BB4BA53B33">
+        <enum>(a)</enum>
+        <header>Appointment To participate</header>
+        <paragraph id="H00EB5C832DF84CC3AFE7AB5AA70BE238">
+          <enum>(1)</enum>
+          <header>In general</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> may appoint the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> to participate in a <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> proceeding.</text>
+        </paragraph>
+        <paragraph id="H06097CD2766343C097E8AF80D1B1E245">
+          <enum>(2)</enum>
+          <header>Standing</header>
+          <text>If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> is appointed to participate in a <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> proceeding pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:4/ss:a/p:1" proposed="true">paragraph (1)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> shall have standing as a party before the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> in that proceeding.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="HFCA671285E664F508FD500E1A5071E35">
+        <enum>(b)</enum>
+        <header>Reconsideration of a FISA Court decision</header>
+        <paragraph id="H9F423E8D10994F3EBD939A89D4E602D8">
+          <enum>(1)</enum>
+          <header>Authority to move for reconsideration</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> may move the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> to reconsider any decision of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> made after the date of the enactment of this Act by petitioning the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> not later than 30 days after the date on which all documents and materials relevant to the decision are made available to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref>.</text>
+        </paragraph>
+        <paragraph id="HA71EC8960AB34C838871A1B83B234858">
+          <enum>(2)</enum>
+          <header>Discretion of the FISA Court
+          </header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> shall have discretion to grant or deny a motion for reconsideration made pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:4/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="H1A7F2DBC00264D1388CAD003B7C7F508">
+        <enum>(c)</enum>
+        <header>Amicus curiae participation</header>
+        <paragraph id="HA7308BF346C74AB0AFAF92AE93D59D28">
+          <enum>(1)</enum>
+          <header>Motion by the Constitutional Advocate</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> may file a motion with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> to permit and facilitate participation of amicus curiae, including participation in oral argument if appropriate, in any proceeding. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> shall have the discretion to grant or deny such a motion.</text>
+        </paragraph>
+        <paragraph id="H4D9460CCE1FC4C19AD9D1DD7EF832C49">
+          <enum>(2)</enum>
+          <header>Facilitation by the FISA Court
+          </header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> may, sua sponte, permit and facilitate participation by amicus curiae, including participation in oral argument if appropriate, in proceedings before the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref>.</text>
+        </paragraph>
+        <paragraph commented="no" id="HE5E98A3C9D6748B2BCADC4A3D6C1E629">
+          <enum>(3)</enum>
+          <header>Regulations</header>
+          <text>Not later than 180 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> shall promulgate rules to provide the public with information sufficient to allow interested parties to participate as amicus curiae.</text>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="HE1429D82318843B8BE8177A095B9C7FD">
+      <enum>5.</enum>
+      <header>Advocacy before the petition review pool</header>
+      <subsection id="H701592BEEFC84935898478526CA5EB51">
+        <enum>(a)</enum>
+        <header>Authority To participate</header>
+        <text>The petition review pool or any party to a proceeding before the petition review pool may authorize the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> to participate in a petition review pool proceeding.</text>
+      </subsection>
+      <subsection id="HF40CC4597D1B45D8B5D29199A4405BAF">
+        <enum>(b)</enum>
+        <header>Reconsideration of a petition review pool decision</header>
+        <paragraph id="H37052C20E410497598D113D5E805A980">
+          <enum>(1)</enum>
+          <header>Authority to move for reconsideration</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> may move the petition review pool to reconsider any decision of the petition review pool made after the date of the enactment of this Act by petitioning the petition review pool not later than 30 days after the date on which all documents and materials relevant to the decision are made available to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref>.</text>
+        </paragraph>
+        <paragraph id="H8F5671CB4FC74D46A3FADBE4FC51BBEE">
+          <enum>(2)</enum>
+          <header>Discretion of the petition review pool</header>
+          <text>The petition review pool shall have discretion to grant or deny a motion for reconsideration made pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:5/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="H7A05A7D433DC40B28C18B0D39F9D5FD9">
+        <enum>(c)</enum>
+        <header>Amicus curiae participation</header>
+        <paragraph id="HF3707D6FD0204CE1890D9324FBF38C4E">
+          <enum>(1)</enum>
+          <header>Motion by the Constitutional Advocate</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> may file a motion with the petition review pool to permit and facilitate participation of amicus curiae, including participation in oral argument if appropriate, in any proceeding. The petition review pool shall have the discretion to grant or deny such a motion.</text>
+        </paragraph>
+        <paragraph id="H187E5C02FFB843859CC3861213324A81">
+          <enum>(2)</enum>
+          <header>Facilitation by the FISA Court
+          </header>
+          <text>The petition review pool may, sua sponte, permit and facilitate participation by amicus curiae, including participation in oral argument if appropriate, in proceedings before the petition review pool.</text>
+        </paragraph>
+        <paragraph id="HEF4868ACB1D74CEE96F4752B42415EF8">
+          <enum>(3)</enum>
+          <header>Regulations</header>
+          <text>Not later than 180 days after the date of the enactment of this Act, the petition review pool shall promulgate rules to provide the public with information sufficient to allow interested parties to participate as amicus curiae.</text>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="H3943613BB56F45DDADD2C8C7D78DA84A">
+      <enum>6.</enum>
+      <header>Appellate review</header>
+      <subsection id="H6E519CFBB6974966A550C923ACDD965B">
+        <enum>(a)</enum>
+        <header>Appeal of FISA Court decisions</header>
+        <paragraph id="HCA40CAE6643B4382A2B3D5689ACF7072">
+          <enum>(1)</enum>
+          <header>Authority to appeal</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> may appeal any decision of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> or the petition review pool issued after the date of the enactment of this Act not later than 90 days after the date the decision is issued, unless it would be apparent to all reasonable jurists that such decision is dictated by statute or by precedent handed down after such date of enactment.</text>
+        </paragraph>
+        <paragraph commented="no" display-inline="no-display-inline" id="H0EA57E6CBE56408B8AC21481BA1EBE8D">
+          <enum>(2)</enum>
+          <header>Standing as appellant</header>
+          <text>If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> appeals a decision of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> or the petition review pool pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:6/ss:a/p:1" proposed="true">paragraph (1)</cato:entity-ref>, the Constitutional Advocate shall have standing as a party before the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref> in such appeal.</text>
+        </paragraph>
+        <paragraph id="H284AFF33A3D74D618E12621EB0A448F4">
+          <enum>(3)</enum>
+          <header>Mandatory review</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref> shall review any <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> or petition review pool decision appealed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> and issue a decision in such appeal.</text>
+        </paragraph>
+        <paragraph id="H2B91A505B7104EEBA1DB0E664E3A5109">
+          <enum>(4)</enum>
+          <header>Standard of review</header>
+          <text>The standards for a mandatory review of a <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1000">FISA Court</cato:entity-ref> or petition review pool decision pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:6/ss:a/p:3" proposed="true">paragraph (3)</cato:entity-ref> shall be—</text>
+          <subparagraph id="H65F9458C598046A7B3D01758F7384D4B">
+            <enum>(A)</enum>
+            <text>de novo with respect to issues of law; and</text>
+          </subparagraph>
+          <subparagraph id="HACC5392F6AE14051A013A6E2E9D0F69A">
+            <enum>(B)</enum>
+            <text>clearly erroneous with respect to determination of facts.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="H7E713F5CD19F4F6CBB126B3B3BAA5731">
+          <enum>(5)</enum>
+          <header>Amicus curiae participation</header>
+          <subparagraph id="HEB287ED2D61341D1B2FF57A21D9E1AAE">
+            <enum>(A)</enum>
+            <header>In general</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref> shall accept amicus curiae briefs from interested parties in all mandatory reviews pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:6/ss:a/p:3" proposed="true">paragraph (3)</cato:entity-ref> and shall provide for amicus curiae participation in oral argument if appropriate.</text>
+          </subparagraph>
+          <subparagraph id="HE6EDB6767D164A28A693E6CB4667379D">
+            <enum>(B)</enum>
+            <header>Regulations</header>
+            <text>Not later than 180 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref> shall promulgate rules to provide the public with information sufficient to allow interested parties to participate as amicus curiae.</text>
+          </subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection id="H432E4A9FB5D0442EB14BF90C98321ED6">
+        <enum>(b)</enum>
+        <header>Review of FISA Court of Review decisions</header>
+        <paragraph id="H65CD5BAC84EC4B8EB3F13F0DB73F6B02">
+          <enum>(1)</enum>
+          <header>Authority</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> may seek a writ of certiorari from the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1001">Supreme Court of the United States</cato:entity-ref> for review of any decision of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref>.</text>
+        </paragraph>
+        <paragraph commented="no" display-inline="no-display-inline" id="H0A7FA1F4C3764D02BBD233FEDAAB7308">
+          <enum>(2)</enum>
+          <header>Standing</header>
+          <text>In any proceedings before the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1001">Supreme Court of the United States</cato:entity-ref> relating to a petition of certiorari filed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:6/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref> and any proceedings in a matter for which certiorari is granted, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> shall have standing as a party.</text>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="HB034BADCB191422F99EE1B6D6A203044">
+      <enum>7.</enum>
+      <header>Disclosure</header>
+      <subsection id="H25D8373832E048BD9F1C03B26947BE9D">
+        <enum>(a)</enum>
+        <header>Requirement To disclose</header>
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> shall publicly disclose—</text>
+        <paragraph id="H400F640698E54EA59A29834E3722AFB7">
+          <enum>(1)</enum>
+          <text>all decisions issued by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref>, the petition review pool, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref> after July 10, 2003, that include a significant construction or interpretation of law;</text>
+        </paragraph>
+        <paragraph id="H92E7A474A06A458C94452B3EC9ED604E">
+          <enum>(2)</enum>
+          <text>any decision of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> or the petition review pool appealed by the Constitutional Advocate pursuant to this title; and</text>
+        </paragraph>
+        <paragraph id="HA50965F2B095419A96A940E20B163CA0">
+          <enum>(3)</enum>
+          <text>any <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref> decision that is issued after an appeal by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref>.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="H3882AA4560A14C90B9811A609DB764F2">
+        <enum>(b)</enum>
+        <header>Disclosure described</header>
+        <text>For each disclosure required by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:7/ss:a" proposed="true">subsection (a)</cato:entity-ref> with respect to a decision, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> shall make available to the public documents sufficient—</text>
+        <paragraph id="H6A0C17D4BD894454983C074F69EE738A">
+          <enum>(1)</enum>
+          <text>to identify with particularity each legal question addressed by the decision and how such question was resolved;</text>
+        </paragraph>
+        <paragraph id="HAD54D278C72E42DC95C3C96B6C2E2054">
+          <enum>(2)</enum>
+          <text>to describe in general terms the context in which the matter arises;</text>
+        </paragraph>
+        <paragraph id="HE88FEB391B0341A39582D614E677CB3F">
+          <enum>(3)</enum>
+          <text>to describe the construction or interpretation of any statute, constitutional provision, or other legal authority relied on by the decision; and</text>
+        </paragraph>
+        <paragraph id="H7F48D0EFE1404823892BB9BEB36362F6">
+          <enum>(4)</enum>
+          <text>to indicate whether the decision departed from any prior decision of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref>, the petition review pool, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref>.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="H78D2C3C904A84026A1EC8E43FB93677C">
+        <enum>(c)</enum>
+        <header>Documents described</header>
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> shall satisfy the disclosure requirements in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:7/ss:b" proposed="true">subsection (b)</cato:entity-ref> by—</text>
+        <paragraph id="HB702257F183A466EB1427E65785342FC">
+          <enum>(1)</enum>
+          <text>releasing a <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref>, petition review pool, or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref> decision in its entirety or as redacted;</text>
+        </paragraph>
+        <paragraph id="H2A4EAABF4AA344D08531D49D1CBEA5CE">
+          <enum>(2)</enum>
+          <text>releasing a summary of a <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref>, petition review pool, or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref> decision; or</text>
+        </paragraph>
+        <paragraph id="HDBAB36D5A0224875A072FA2730FF7237">
+          <enum>(3)</enum>
+          <text>releasing an application made to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref>, a petition made to the petition review pool, briefs filed before the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref>, the petition review pool, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref>, or other materials, in full or as redacted.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="H7B1C205769DF424EAF3094116E79967A">
+        <enum>(d)</enum>
+        <header>Extensive disclosure</header>
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> shall release as much information regarding the facts and analysis contained in a decision described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:7/ss:a" proposed="true">subsection (a)</cato:entity-ref> or documents described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:7/ss:c" proposed="true">subsection (c)</cato:entity-ref> as is consistent with legitimate national security concerns.</text>
+      </subsection>
+      <subsection id="H9F2B106DAEDA498686C2CC41D0F6AA4C">
+        <enum>(e)</enum>
+        <header>Timing of disclosure</header>
+        <paragraph id="H8183274FA56C4F739635599D208610C8">
+          <enum>(1)</enum>
+          <header>Decisions issued prior to enactment</header>
+          <text>A decision issued prior to the date of the enactment of this Act that is required to be disclosed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:7/ss:a/p:1" proposed="true">subsection (a)(1)</cato:entity-ref> shall be disclosed not later than 180 days after the date of the enactment of this Act.</text>
+        </paragraph>
+        <paragraph id="H99B0FB437FCD44018B57C7C2F7CD8C8E">
+          <enum>(2)</enum>
+          <header>FISA Court and petition review pool decisions</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> shall release <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref> or petition review pool decisions appealed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> not later than 30 days after the date the appeal is filed.</text>
+        </paragraph>
+        <paragraph id="H775DABB391EC472CAB1F91E8B945E835">
+          <enum>(3)</enum>
+          <header>FISA Court of Review decisions</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> shall release <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref> decisions appealed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> not later than 90 days after the date the appeal is filed.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="H004CFBCFB33344C5AFB235F69BDEF33D">
+        <enum>(f)</enum>
+        <header>Petition by the Constitutional Advocate</header>
+        <paragraph id="HA3F78B1F6CC84F8E917955905A0A1F5B">
+          <enum>(1)</enum>
+          <header>Authority to petition</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> may petition the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref>, the petition review pool, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref> to order—</text>
+          <subparagraph id="H3B7F964F00B640A59D28C11CD18A5221">
+            <enum>(A)</enum>
+            <text>the public disclosure of a decision of such a Court or review pool, and documents or other material relevant to such a decision, previously designated as classified information; or</text>
+          </subparagraph>
+          <subparagraph id="HA5EA71685C404C388DDE5582F1C79546">
+            <enum>(B)</enum>
+            <text>the release of an unclassified summary of such decisions and documents.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="H2F4902085AE0410AB4799D935CE30958">
+          <enum>(2)</enum>
+          <header>Contents of petition</header>
+          <text>Each petition filed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:7/ss:f/p:1" proposed="true">paragraph (1)</cato:entity-ref> shall contain a detailed declassification proposal or a summary of the decision and documents that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> proposes to have released publicly.</text>
+        </paragraph>
+        <paragraph id="H3AC0E92A8BDF4D97BBFC833DE270F10E">
+          <enum>(3)</enum>
+          <header>Role of the Attorney General</header>
+          <subparagraph id="H4995327554964EB5A6D1B9574722FA38">
+            <enum>(A)</enum>
+            <header>Copy of petition</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> shall provide to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> a copy of each petition filed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:7/ss:f/p:1" proposed="true">paragraph (1)</cato:entity-ref>.</text>
+          </subparagraph>
+          <subparagraph id="HA50278FA4CCE48349CBB7A9277C02EE7">
+            <enum>(B)</enum>
+            <header>Opposition</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> may oppose a petition filed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:7/ss:f/p:1" proposed="true">paragraph (1)</cato:entity-ref> by submitting any objections in writing to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref>, the petition review pool, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref>, as appropriate, not later than 90 days after the date such petition was submitted.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="HEFCC21127D2648A9ABEDEED017FEEFF9">
+          <enum>(4)</enum>
+          <header>Public availability</header>
+          <text>Not less than 91 days after receiving a petition under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:7/ss:f/p:1" proposed="true">paragraph (1)</cato:entity-ref>, and taking into account any objections from the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> made under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:7/ss:f/p:3/sp:B" proposed="true">paragraph (3)(B)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref>, the petition review pool, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref>, as appropriate, shall declassify and make readily available to the public any decision, document, or other material requested in such petition, to the greatest extent possible, consistent with legitimate national security considerations.</text>
+        </paragraph>
+        <paragraph id="HED5C72326E1C445EA0A97AEA999BD5A9">
+          <enum>(5)</enum>
+          <header>Effective date</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> may not file a petition under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:7/ss:f/p:1" proposed="true">paragraph (1)</cato:entity-ref> until 181 days after the date of the enactment of this Act, except with respect to a decision appealed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref>.</text>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="H65AA4BC548894D87BC94BC2BBE8063CC">
+      <enum>8.</enum>
+      <header>Annual report to Congress</header>
+      <subsection id="H4D0B7D626998477787A03F2E0DBBFC0D">
+        <enum>(a)</enum>
+        <header>Requirement for annual report</header>
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" entity-parent-id="1000" proposed="true">Constitutional Advocate</cato:entity-ref> shall submit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> an annual report on the implementation of this title.</text>
+      </subsection>
+      <subsection id="H724F511C454D49EE9C547197F092E69D">
+        <enum>(b)</enum>
+        <header>Contents</header>
+        <text>Each annual report submitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FISA Court Reform Act of 2013/s:8/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall—</text>
+        <paragraph id="HC85665DCE48F4FCE8894CE7C3EF54F99">
+          <enum>(1)</enum>
+          <text>detail the activities of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" proposed="true" entity-parent-id="1000">Office</cato:entity-ref>;</text>
+        </paragraph>
+        <paragraph id="HFA7BF47BA69345EAAE2E844DBF620575">
+          <enum>(2)</enum>
+          <text>provide an assessment of the effectiveness of this title; and</text>
+        </paragraph>
+        <paragraph id="H2584E2453A4F4F1CA2339D8B4834CFF1">
+          <enum>(3)</enum>
+          <text>propose any new legislation to improve the functioning of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Constitutional Advocate" proposed="true">Office</cato:entity-ref> or the operation of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref>, the petition review pool, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref>.</text>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="HF6BE145A19D2442BAB416FED5134BBED">
+      <enum>9.</enum>
+      <header>Preservation of rights</header>
+      <text display-inline="no-display-inline">Nothing in this title shall be construed—</text>
+      <paragraph id="H535F4D6C52A5464C8BFC0A7BA6933F22">
+        <enum>(1)</enum>
+        <text>to provide the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> with authority to prevent the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court" entity-parent-id="1028">FISA Court</cato:entity-ref>, the petition review pool, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Foreign Intelligence Surveillance Court of Review" entity-parent-id="1028">FISA Court of Review</cato:entity-ref> from declassifying decisions or releasing information pursuant to this title; and</text>
+      </paragraph>
+      <paragraph id="H00B168FC957C4B9A91C1975EDCE187D7">
+        <enum>(2)</enum>
+        <text>to eliminate the public’s ability to secure information under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="uscode" value="usc/5/552">
+              <external-xref legal-doc="usc" parsable-cite="usc/5/552">section 552</external-xref> of title 5, United States Code</cato:entity-ref> (commonly known as the <cato:entity-ref entity-type="act" value="Freedom of Information Act">
+              <term>Freedom of Information Act</term>
+            </cato:entity-ref>)</cato:entity> or any other provision of law.</text>
+      </paragraph>
+    </section>
+  </legis-body>
+</bill>
+</doc>
