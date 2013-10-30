@@ -6,14 +6,14 @@
     </revision>
   </docmeta>
   <resolution xmlns:cato="http://namespaces.cato.org/catoxml" dms-id="H67208EFDCAB047099E55547FB46B88BD" key="H" public-private="public" resolution-stage="Introduced-in-House" resolution-type="house-joint" star-print="no-star-print">
-  <metadata>
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dublinCore>
-<title>113 HJ 78 IH: Making continuing appropriations for national intelligence program operations for fiscal year 2014, and for other purposes.</title>
-<publisher>U.S. House of Representatives</publisher>
-<date>2013-10-03</date>
-<format>text/xml</format>
-<language>EN</language>
-<rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</rights>
+<dc:title>113 HJ 78 IH: Making continuing appropriations for national intelligence program operations for fiscal year 2014, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2013-10-03</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -41,11 +41,11 @@
       <subsection commented="no" display-inline="yes-display-inline" id="HAB39E42BEE5E49419B3022DDBC8C7FB8">
         <enum>(a)</enum>
         <text display-inline="yes-display-inline">
-            <cato:entity entity-type="auth-approp">
-              <cato:funds-and-year amount="indefinite">Such amounts as may be necessary, at a rate for operations as provided for in the <cato:entity entity-type="law-citation">
+          <cato:entity entity-type="auth-approp">
+            <cato:funds-and-year amount="indefinite">Such amounts as may be necessary, at a rate for operations as provided for in the <cato:entity entity-type="law-citation">
             <cato:entity-ref entity-type="act" value="Department of Defense Appropriations Act, 2013">Department of Defense Appropriations Act, 2013</cato:entity-ref> (<cato:entity-ref entity-type="public-law" value="public-law/113/6/d:C">division C of <external-xref legal-doc="public-law" parsable-cite="pl/113/6">Public Law 113–6</external-xref>
             </cato:entity-ref>)</cato:entity>, and under the authority and conditions provided in such Act</cato:funds-and-year>, <cato:property name="purpose">for continuing the following projects or activities, conducted in fiscal year 2013, for which appropriations, funds, or other authority were made available under such Act, as set forth under the heading <quote>National Intelligence Program</quote> in the classified annex accompanying such Act</cato:property>
-            </cato:entity>:</text>
+          </cato:entity>:</text>
         <paragraph id="H66EB2CB06AB74ACE865FAA4FCFE0B454">
           <enum>(1)</enum>
           <text>Payment of personnel compensation and benefits for civilian employees whom the <cato:entity-ref entity-type="federal-body" value="Director of National Intelligence">Director of National Intelligence</cato:entity-ref> determines necessary to continue—</text>

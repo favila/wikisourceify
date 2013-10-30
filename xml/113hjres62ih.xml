@@ -6,14 +6,14 @@
     </revision>
   </docmeta>
   <resolution xmlns:cato="http://namespaces.cato.org/catoxml" dms-id="HD88F1D0D050E42FC9E94A0CB56BCFF44" key="H" public-private="public" resolution-stage="Introduced-in-House" resolution-type="house-joint" star-print="no-star-print">
-  <metadata>
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dublinCore>
-<title>113 HJ 62 IH: Making continuing appropriations for fiscal year 2014, and for other purposes.</title>
-<publisher>U.S. House of Representatives</publisher>
-<date>2013-09-12</date>
-<format>text/xml</format>
-<language>EN</language>
-<rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</rights>
+<dc:title>113 HJ 62 IH: Making continuing appropriations for fiscal year 2014, and for other purposes.</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2013-09-12</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -95,8 +95,8 @@
       <subsection commented="no" display-inline="yes-display-inline" id="HA09D6EB81BAE4DBBB04E1235411C8CCB">
         <enum>(a)</enum>
         <text display-inline="yes-display-inline">
-            <cato:entity entity-type="auth-approp">
-              <cato:funds-and-year amount="indefinite" year="2014">Such amounts as may be necessary</cato:funds-and-year>, at a rate
+          <cato:entity entity-type="auth-approp">
+            <cato:funds-and-year amount="indefinite" year="2014">Such amounts as may be necessary</cato:funds-and-year>, at a rate
 			 for operations as provided in the applicable appropriations Acts for fiscal
 			 year 2013 and under the authority and conditions provided in such Acts, <cato:property name="purpose">for
 			 continuing projects or activities (including the costs of direct loans and loan
@@ -104,7 +104,7 @@
 			 resolution</cato:entity-ref>, that were conducted in fiscal year 2013, and for which
 			 appropriations, funds, or other authority were made available in the following
 			 appropriations Acts</cato:property>
-            </cato:entity>:</text>
+          </cato:entity>:</text>
         <paragraph id="H425C393B51D7416CA3CEBC4E83B9F91A">
           <enum>(1)</enum>
           <text display-inline="yes-display-inline">The <cato:entity entity-type="law-citation">

@@ -6,14 +6,14 @@
     </revision>
   </docmeta>
   <bill bill-stage="Placed-on-Calendar-Senate" bill-type="appropriations" dms-id="A1" public-print="no" public-private="public" stage-count="1" star-print="no-star-print">
-	<metadata>
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 <dublinCore>
-<title>113 S1244 PCS: Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2014</title>
-<publisher>U.S. Senate</publisher>
-<date>2013-06-27</date>
-<format>text/xml</format>
-<language>EN</language>
-<rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</rights>
+<dc:title>113 S1244 PCS: Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2014</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2013-06-27</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form display="yes">
@@ -719,8 +719,8 @@
         <header display-inline="yes-display-inline">Limitation on administrative
 		  expenses</header>
         <text display-inline="no-display-inline">
-            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">
-              <cato:funds-and-year amount="60435000" year="2014">Not to exceed
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">
+            <cato:funds-and-year amount="60435000" year="2014">Not to exceed
 		  $60,435,000</cato:funds-and-year> (<cato:property name="funds-source">from fees collected</cato:property>) shall be
 		  obligated during the current fiscal year <cato:property name="purpose">for administrative expenses</cato:property>: 
 		  <proviso>
@@ -729,7 +729,7 @@
 		  understated and/or other uncontrollable events occur, the agency may exceed
 		  this limitation by up to 10 percent with notification to the <cato:entity-ref entity-type="committee" entity-id="SSAP00">Committees on
 		  Appropriations</cato:entity-ref> of <cato:entity-ref entity-type="committee" entity-id="HAP00">both Houses of Congress</cato:entity-ref>.</cato:entity>
-          </text>
+        </text>
 			</appropriations-small>
       <appropriations-small commented="no" id="HD57EDA9E25BA4F1E86691AC6AECA362B">
         <header display-inline="yes-display-inline">Funds for strengthening markets, income,
@@ -739,13 +739,13 @@
         <header display-inline="yes-display-inline">(including transfers of
 		  funds)</header>
         <text display-inline="no-display-inline">
-            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">
-              <cato:property name="funds-source">Funds available under
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">
+            <cato:property name="funds-source">Funds available under
 		  <cato:entity entity-type="law-citation">
             <cato:entity-ref entity-type="act" value="Act of August 24, 1935/s:32">section 32 of the Act of August 24, 1935</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/7/612c">
               <cato:entity-ref entity-type="uscode" value="usc/7/612c">7 U.S.C. 612c</cato:entity-ref>
             </external-xref>)</cato:entity>
-              </cato:property>, shall be used only
+            </cato:property>, shall be used only
 		  <cato:property name="purpose">for commodity program expenses as authorized therein, and other related
 		  operating expenses, except for: (1) transfers to the <cato:entity-ref entity-type="federal-body" entity-id="1300">Department of Commerce</cato:entity-ref> as
 		  authorized by the <cato:entity-ref entity-type="act" value="Fish and Wildlife Act">Fish and Wildlife Act of August 8, 1956</cato:entity-ref>; (2) transfers
@@ -754,8 +754,8 @@
 		  of marketing agreements and orders pursuant to the <cato:entity-ref entity-type="act" value="Agricultural Marketing Agreement Act of 1937">Agricultural Marketing
 		  Agreement Act of 1937</cato:entity-ref> and the <cato:entity-ref entity-type="act" value="Agricultural Act of 1961">Agricultural Act of
 		  1961</cato:entity-ref>
-              </cato:property>.</cato:entity>
-          </text>
+            </cato:property>.</cato:entity>
+        </text>
 			</appropriations-small>
       <appropriations-small commented="no" id="H397579225AF348B581E92C3E29CF7301">
         <header display-inline="yes-display-inline">Payments to states and
@@ -800,8 +800,8 @@
         <header display-inline="yes-display-inline">Limitation on inspection and weighing
 		  services expenses</header>
         <text display-inline="no-display-inline">
-            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">
-              <cato:funds-and-year amount="50000000" year="2014">Not to
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">
+            <cato:funds-and-year amount="50000000" year="2014">Not to
 		  exceed $50,000,000</cato:funds-and-year> (<cato:property name="funds-source">from fees collected</cato:property>) shall
 		  be obligated during the current fiscal year <cato:property name="purpose">for inspection and weighing
 		  services</cato:property>: 
@@ -812,7 +812,7 @@
 		  uncontrollable factors occur, this limitation may be exceeded by up to 10
 		  percent with notification to the <cato:entity-ref entity-type="committee" entity-id="SSAP00">Committees on Appropriations</cato:entity-ref> of <cato:entity-ref entity-type="committee" entity-id="HAP00">both Houses of
 		  Congress</cato:entity-ref>.</cato:entity>
-          </text>
+        </text>
 			</appropriations-small>
       <appropriations-intermediate commented="no" id="HD6602ACED1954A8A99F48DB87E3127A4">
         <header display-inline="yes-display-inline">Office of the under secretary for food
@@ -1128,7 +1128,7 @@
       <appropriations-small commented="no" id="H4B985D8C114F4B17942853F62E84E90E">
         <header display-inline="yes-display-inline">(limitation on expenses)</header>
         <text display-inline="no-display-inline">
-            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">For the current fiscal year, the <cato:entity-ref entity-type="federal-body" entity-id="1260">Commodity
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">For the current fiscal year, the <cato:entity-ref entity-type="federal-body" entity-id="1260">Commodity
 		  Credit Corporation</cato:entity-ref> shall <cato:funds-and-year amount="5000000" year="2014">not expend more than
 		  $5,000,000</cato:funds-and-year> <cato:property name="purpose">for site investigation and cleanup
 		  expenses, and operations and maintenance expenses to comply with the
@@ -1140,8 +1140,8 @@
             <cato:entity-ref entity-type="act" value="Resource Conservation and Recovery Act/s:6001">section 6001 of the
 		  Resource Conservation and Recovery Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/6961">42 U.S.C.
 		  6961</cato:entity-ref>)</cato:entity>
-              </cato:property>.</cato:entity>
-          </text>
+            </cato:property>.</cato:entity>
+        </text>
 			</appropriations-small>
     </title>
     <title commented="no" id="HB1588551E0ED407B93AEE5214236C822" level-type="subsequent">
@@ -1358,17 +1358,17 @@
         <text display-inline="no-display-inline">
           
             <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">
-              <cato:property name="purpose">For rental assistance agreements entered
+            <cato:property name="purpose">For rental assistance agreements entered
 		  into or renewed pursuant to the authority under <cato:entity-ref entity-type="act" value="Housing Act of 1949/s:521/ss:a/p:2">section 521(a)(2)</cato:entity-ref> or agreements
 		  entered into in lieu of debt forgiveness or payments for eligible households as
 		  authorized by <cato:entity-ref entity-type="act" value="Housing Act of 1949/s:502/ss:c/p:5/sp:D">section 502(c)(5)(D) of the Housing Act of 1949</cato:entity-ref>
             </cato:property>,
 		  <cato:funds-and-year amount="1015050000" year="2014">$1,015,050,000</cato:funds-and-year>
-            </cato:entity>; <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">and, in addition, <cato:funds-and-year amount="indefinite" year="2014">such sums as
+          </cato:entity>; <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">and, in addition, <cato:funds-and-year amount="indefinite" year="2014">such sums as
 		  may be necessary</cato:funds-and-year>, as authorized by <cato:entity-ref entity-type="act" value="Housing Act of 1949/s:521/ss:c">section 521(c) of the Act</cato:entity-ref>, <cato:property name="purpose">to liquidate debt
 		  incurred prior to fiscal year 1992 to carry out the rental assistance program
 		  under <cato:entity-ref entity-type="act" value="Housing Act of 1949/s:521/ss:a/p:2">section 521(a)(2) of the Act</cato:entity-ref>
-              </cato:property>: 
+            </cato:property>: 
 		  <proviso>
             <italic>Provided</italic>
           </proviso>, That rental assistance
