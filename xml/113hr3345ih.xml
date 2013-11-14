@@ -1,0 +1,701 @@
+<doc>
+  <docmeta id="113hr3345ih">
+    <bill congress="113" type="hr" number="3345" version="ih"/>
+    <revision size="31492" annotations="0" status="complete" id="6" commit-time="2013-11-07T16:38:33Z" committer="mbohmer" doc="113hr3345ih/6.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H0A89FC3A400E49D099A01158A08DDDE8" public-private="public">
+  <metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 3345 IH: Stop Unworthy Spending Act</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-10-28</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+    <congress>113th CONGRESS</congress>
+    <session>1st Session</session>
+    <legis-num>H. R. 3345</legis-num>
+    <current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+    <action>
+      <action-date date="20131028">October 28, 2013</action-date>
+      <action-desc>
+        <sponsor name-id="I000056">Mr. Issa</sponsor> (for himself, <cosponsor name-id="C000984">Mr. Cummings</cosponsor>, <cosponsor name-id="M000689">Mr. Mica</cosponsor>, <cosponsor name-id="C001076">Mr. Chaffetz</cosponsor>, and <cosponsor name-id="S001175">Ms. Speier</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name>
+      </action-desc>
+    </action>
+    <legis-type>A BILL</legis-type>
+    <official-title>To amend title 31, United States Code, to consolidate suspension and debarment offices, and for other purposes.</official-title>
+  </form>
+  <legis-body id="H97D9664A52F043DABB542F93F0B5ED3D" style="OLC">
+    <section id="HECFEF23965794B8AB5EEB5B2C8434263" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title; table of contents</header>
+      <subsection id="H9A0B3EE1B460499DA2B4CF7215C9412C">
+        <enum>(a)</enum>
+        <header>Short title</header>
+        <text display-inline="yes-display-inline">This Act may be cited as the <quote>
+            <short-title>Stop Unworthy Spending Act</short-title>
+          </quote> or the <quote>
+            <short-title>SUSPEND Act</short-title>
+          </quote>.</text>
+      </subsection>
+      <subsection id="H92F77D997CE64205850946DAB96E2C7F">
+        <enum>(b)</enum>
+        <header>Table of contents</header>
+        <text>The table of contents for this Act is as follows:</text>
+        <toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+          <toc-entry idref="HECFEF23965794B8AB5EEB5B2C8434263" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+          <toc-entry idref="H7D91CAFC9D2645C684F87C07DFD5A41A" level="section">Sec. 2. Consolidation of suspension and debarment offices.</toc-entry>
+          <toc-entry idref="H918E71909890443C94C9046DE6ABF7D6" level="section">Sec. 3. Interagency Suspension and Debarment Committee.</toc-entry>
+          <toc-entry idref="HBA1C0C596FF448A58F72F951754EC544" level="section">Sec. 4. Single case management system.</toc-entry>
+          <toc-entry idref="H0B2F934DD2284292B1075E1B36D4DFD1" level="section">Sec. 5. Single regulation for procurement and nonprocurement programs.</toc-entry>
+          <toc-entry idref="H8AF50AAED6D342F5B70BA3E4BB943C6C" level="section">Sec. 6. Government Accountability Office review.</toc-entry>
+          <toc-entry idref="HC7E56B3301C5447EA710000EB3E0D274" level="section">Sec. 7. Coordination of remedies for fraud and corruption related to procurement and grant activities.</toc-entry>
+          <toc-entry idref="HC10E76BAC733432C821659D535942D6B" level="section">Sec. 8. Transfer, redesignation, and amendment of other provision of law relating to debarment and suspension.</toc-entry>
+          <toc-entry idref="H9CAD865520A64597A3EB8FD64CE26E7C" level="section">Sec. 9. Definitions.</toc-entry>
+          <toc-entry idref="HBCBF2F5E68214035B7FE11209BF8743A" level="section">Sec. 10. Authorization of appropriations.</toc-entry>
+          <toc-entry idref="HD9A78355D5FF4327A28137BDC10CD33C" level="section">Sec. 11. Effective date.</toc-entry>
+        </toc>
+      </subsection>
+    </section>
+    <section id="H7D91CAFC9D2645C684F87C07DFD5A41A">
+      <enum>2.</enum>
+      <header>Consolidation of suspension and debarment offices</header>
+      <subsection id="H360B1F52F3F84881941C912E4A960EC0">
+        <enum>(a)</enum>
+        <header>Establishment of Board of Suspension and Debarment</header>
+        <paragraph id="H1F8DF97182C14D04A9BA2069FE4B42C7">
+          <enum>(1)</enum>
+          <header>In general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31">Subtitle V of title 31, United States Code</cato:entity-ref>, is amended by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/31/63">chapter 63</cato:entity-ref> the following new chapter:</text>
+          <quoted-block display-inline="no-display-inline" id="H3AFA8914359B49CE934F51833D568BE7" style="USC">
+            <chapter id="HFAEE0502FE0B479E9669545AC5ABEDDC">
+              <enum>64</enum>
+              <header>Suspension and Debarment</header>
+              <toc container-level="chapter-container" idref="HFAEE0502FE0B479E9669545AC5ABEDDC" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+                <toc-entry level="section">Sec.</toc-entry>
+                <toc-entry idref="H8F4127927D844A70A9BABFCD5833CEE5" level="section">6401. Board of Suspension and Debarment.</toc-entry>
+                <toc-entry level="section">6402. Interagency Suspension and Debarment Committee.</toc-entry>
+                <toc-entry level="section">6403. Single regulation for suspension and debarment for procurement and nonprocurement programs. </toc-entry>
+                <toc-entry level="section">6404. Uniform suspension, debarment, or exclusion from procurement or nonprocurement activity.</toc-entry>
+              </toc>
+              <section id="H8F4127927D844A70A9BABFCD5833CEE5">
+                <enum>6401.</enum>
+                <header>Board of Suspension and Debarment</header>
+                <subsection id="H47E706A0E9C54C1498FCAD7A703AF3C7">
+                  <enum>(a)</enum>
+                  <header>Establishment</header>
+                  <text display-inline="yes-display-inline">There is established in the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">General Services Administration</cato:entity-ref> a board for suspension and debarment to be known as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board of Suspension and Debarment</cato:entity-ref> (in this section referred to as the <term>Board</term>).</text>
+                </subsection>
+                <subsection id="HCBC1E4C06324488A9F367E8C8A2ABB36">
+                  <enum>(b)</enum>
+                  <header>Purposes</header>
+                  <text display-inline="yes-display-inline">The purposes of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref> are to serve as a centralized body to manage all executive agency suspension and debarment activities and improve the suspension and debarment system through—</text>
+                  <paragraph id="HCA83EC15430F446A8364495B0AA19855">
+                    <enum>(1)</enum>
+                    <text>the transparent and efficient handling of cases;</text>
+                  </paragraph>
+                  <paragraph id="HDBC26A53D84B40FE84377967D457543F">
+                    <enum>(2)</enum>
+                    <text display-inline="yes-display-inline">the effective oversight of the Governmentwide database containing the list of all excluded parties ineligible for Federal programs pursuant to Executive Orders No. 12549 and No. 12689, including oversight to ensure receipt of information from other agencies and to ensure timeliness, accuracy, and completeness of the database;</text>
+                  </paragraph>
+                  <paragraph id="HF975ADA154AB4539AAD29A6D215DB8E5">
+                    <enum>(3)</enum>
+                    <text>the consistent and fair treatment of all persons and entities subject to suspension or debarment proceedings, including small businesses with limited resources; and</text>
+                  </paragraph>
+                  <paragraph id="H7D280799671D4EC1A2CDC0C021DB88B4">
+                    <enum>(4)</enum>
+                    <text>active engagement with remedy coordination officials (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/2307/i/10">
+                        <external-xref legal-doc="usc" parsable-cite="usc/10/2307">section 2307(i)(10)</external-xref> of title 10</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/41/4506">
+                        <external-xref legal-doc="usc" parsable-cite="usc/41/4506">section 4506</external-xref> of title 41</cato:entity-ref>) within executive agencies for efficient referral of contractors, grantees, or other recipients of Federal financial assistance suspected of committing wrongful actions or repeatedly performing poorly.</text>
+                  </paragraph>
+                </subsection>
+                <subsection id="H63647A8BE1FB4827BB3B5663B4FF1AEF">
+                  <enum>(c)</enum>
+                  <header>Effect of determinations of Board</header>
+                  <paragraph display-inline="no-display-inline" id="H90242DA772CC4229B73330DE0A31B418">
+                    <enum>(1)</enum>
+                    <header>Conclusive on governmentwide basis</header>
+                    <text>The determination by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref> on whether or not to debar or suspend a contractor, grantee, or other recipient of Federal financial assistance is conclusive on a Governmentwide basis. No other agency may take a contrary action on a Governmentwide basis with respect to the same contractor, grantee, or other recipient based on the facts and circumstances in the administrative record considered by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref>.</text>
+                  </paragraph>
+                  <paragraph id="H2284E9BF842C45D3BD47D649A7E3A8E8">
+                    <enum>(2)</enum>
+                    <header>Consideration of new or additional evidence</header>
+                    <text>In considering any new or additional evidence of nonresponsibility of a contractor, grantee, or other recipient of Federal financial assistance not previously considered by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref>, an agency, in determining whether to award another grant or contract or other Federal financial assistance to such contractor, grantee, or other recipient, may consider the cumulative effect of the facts and circumstances previously considered by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref>.</text>
+                  </paragraph>
+                </subsection>
+                <subsection id="H036A88E0961643A3939912BE0E5254F2">
+                  <enum>(d)</enum>
+                  <header>Membership</header>
+                  <paragraph id="H0960BF5DBBD4490389CEC44F4127C6A6">
+                    <enum>(1)</enum>
+                    <header>Appointment</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref> shall consist of members appointed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref> (in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Federal Procurement Policy" entity-parent-id="1103">Administrator for Federal Procurement Policy</cato:entity-ref>) from a register of applicants maintained by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref>, in accordance with rules issued by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref> (in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Federal Procurement Policy" entity-parent-id="1103">Administrator for Federal Procurement Policy</cato:entity-ref>) for establishing and maintaining a register of eligible applicants and selecting members. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref> shall appoint a member without regard to political affiliation and solely on the basis of the professional qualifications required to perform the duties and responsibilities of a member.</text>
+                  </paragraph>
+                  <paragraph id="H7128F3CB899B43B29546C1714A8AA354">
+                    <enum>(2)</enum>
+                    <header>Chair</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref> shall designate one member of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref> to serve as Chair of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref>. The position of Chair of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref> shall be a Senior Executive Service position (as defined by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/3132/a/2">
+                        <external-xref legal-doc="usc" parsable-cite="usc/5/3132">section 3132(a)(2)</external-xref> of title 5</cato:entity-ref>).</text>
+                  </paragraph>
+                  <paragraph commented="no" id="H8DB44A31423440CBBBE3A98F3D449BB7">
+                    <enum>(3)</enum>
+                    <header>Removal</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref>, with the consent of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Federal Procurement Policy" entity-parent-id="1103">Administrator for Federal Procurement Policy</cato:entity-ref>, may remove the Chair or any other member of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref>.</text>
+                  </paragraph>
+                </subsection>
+                <subsection id="HB1EF4728990048E1B5DA28B9789488B5">
+                  <enum>(e)</enum>
+                  <header>Sharing of resources</header>
+                  <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref> shall provide to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref> such administrative resources as are necessary for the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref> to carry out its functions. In carrying out this subsection, the Administrator may provide for the sharing of administrative resources of the Civilian Board of Contract Appeals, such as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref>’s information technology infrastructure, case management system, legal resources, and facilities.</text>
+                </subsection>
+                <subsection id="H9DF33F440CFF4B83B62B83C67CF4D3C0">
+                  <enum>(f)</enum>
+                  <header>Participation by additional entities</header>
+                  <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref> may enter into an agreement with any other entity that receives Federal funds for the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref> to perform suspension and debarment activities on behalf of the entity.</text>
+                </subsection>
+                <subsection id="HF12C814700174A29ACB8F43A9123B79F">
+                  <enum>(g)</enum>
+                  <header>Annual report to Congress</header>
+                  <paragraph id="H1A57B92359A841258B661EEF8B8BCA42">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+                    <text>Not later than October 30 of each year, the Chair of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref> shall submit to the relevant congressional committees a report containing the following:</text>
+                    <subparagraph id="H57ECCC2DC6C94A37AECD3C4ED77F5CB0">
+                      <enum>(A)</enum>
+                      <text>A summary of the activities and accomplishments of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref> in the Governmentwide suspension and debarment system, including the total number of referrals, timeliness of case disposition, and breakdown of discretionary and nondiscretionary cases.</text>
+                    </subparagraph>
+                    <subparagraph id="H8F92E8DC9DDD430F8B2B71BA13517223">
+                      <enum>(B)</enum>
+                      <text>Recommendations to improve the suspension and debarment system.</text>
+                    </subparagraph>
+                  </paragraph>
+                  <paragraph id="H2AC5A8C0B6424F6A8AB7BAD94C192F05">
+                    <enum>(2)</enum>
+                    <header>Form of report</header>
+                    <text>The Chair of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref> may combine the report with the report required by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/6402/c/7" proposed="true">section 6402(c)(7) of this title</cato:entity-ref>.</text>
+                  </paragraph>
+                </subsection>
+                <subsection id="HAA3D38EE9348429AAE2EA1C9AA0FD0AA">
+                  <enum>(h)</enum>
+                  <header>Definitions</header>
+                  <text display-inline="yes-display-inline">In this section:</text>
+                  <paragraph id="H30D2441F2D03467DB25C0A4FE003E8D7">
+                    <enum>(1)</enum>
+                    <header>Executive agency</header>
+                    <text>The term <term>executive agency</term> has the meaning provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/41/133">
+                        <external-xref legal-doc="usc" parsable-cite="usc/41/133">section 133</external-xref> of title 41</cato:entity-ref>.</text>
+                  </paragraph>
+                  <paragraph id="HDCD719595C01453981C71FF7F6F275D2">
+                    <enum>(2)</enum>
+                    <header>Relevant congressional committees</header>
+                    <text>The term <term>relevant congressional committees</term> means each of the following:</text>
+                    <subparagraph id="HDA0FC1CD568A4A4A97751F5DB758EFD3">
+                      <enum>(A)</enum>
+                      <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HGO00">Committee on Oversight and Government Reform of the House of Representatives</cato:entity-ref>.</text>
+                    </subparagraph>
+                    <subparagraph id="HE66D0209076B47E6A8E95565F63EDE78">
+                      <enum>(B)</enum>
+                      <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSGA00">Committee on Homeland Security and Governmental Affairs of the Senate</cato:entity-ref>.</text>
+                    </subparagraph>
+                  </paragraph>
+                  <paragraph id="HC111C27497BF48DCB582C7A455E0414E">
+                    <enum>(3)</enum>
+                    <header>Interagency Suspension and Debarment Committee</header>
+                    <text>The term <term>Interagency Suspension and Debarment Committee</term> means the committee established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/6402" proposed="true">section 6402 of this title</cato:entity-ref>.</text>
+                  </paragraph>
+                </subsection>
+              </section>
+            </chapter>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="H817B3B9C95954629B1DD5C351B8F0D35">
+          <enum>(2)</enum>
+          <header>Deadline for appointment of Board members</header>
+          <text>The members of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board of Suspension and Debarment</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/6401" proposed="true">
+              <external-xref legal-doc="usc" parsable-cite="usc/31/6401">section 6401</external-xref> of title 31, United States Code</cato:entity-ref>, as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:2/ss:a/p:1" proposed="true">paragraph (1)</cato:entity-ref>, shall be appointed not later than one year after the date of the enactment of this Act.</text>
+        </paragraph>
+        <paragraph id="H2F0F13F80897490EB6466D125883F4F2">
+          <enum>(3)</enum>
+          <header>Clerical amendment</header>
+          <text>The table of chapters at the beginning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31">subtitle V of title 31, United States Code</cato:entity-ref>, is amended by inserting after the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/31/63">chapter 63</cato:entity-ref> the following new item:</text>
+          <quoted-block display-inline="no-display-inline" id="HFF1A52D03F4F49A1870792AE7A6E35BB" style="USC">
+            <toc regeneration="no-regeneration">
+              <multi-column-toc-entry level="section">
+                <toc-enum>64.</toc-enum>
+                <level-header level="section">Suspension and Debarment</level-header>
+                <target>6401</target>
+              </multi-column-toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </subsection>
+      <subsection id="H1ED6F45F9D6F46F1A3E4F3023D2BF17D">
+        <enum>(b)</enum>
+        <header>Termination of executive agency suspension and debarment offices</header>
+        <paragraph id="H306A3E5AC240428AA0FADC08BB7D13F8">
+          <enum>(1)</enum>
+          <header>In general</header>
+          <text>Except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:2/ss:b/p:2" proposed="true">paragraphs (2)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:2/ss:b/p:3" proposed="true">(3)</cato:entity-ref>, effective on October 1, 2016, the suspension and debarment office or function in each executive agency shall terminate.</text>
+        </paragraph>
+        <paragraph id="H91F787B4282B4163A68FF367B5ADED25">
+          <enum>(2)</enum>
+          <header>Waivers</header>
+          <subparagraph id="H4170378790C746F98FEBF163D43E090D">
+            <enum>(A)</enum>
+            <header>Required waivers</header>
+            <text>Not­with­stand­ing <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:2/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director of the Office of Management and Budget</cato:entity-ref> shall grant a waiver to any executive agency listed in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/901/b">
+                <external-xref legal-doc="usc" parsable-cite="usc/31/901">section 901(b)</external-xref> of title 31, United States Code</cato:entity-ref>, or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/102">
+                <external-xref legal-doc="usc" parsable-cite="usc/5/102">section 102</external-xref> of title 5</cato:entity-ref>, other than the General Services Administration, that has demonstrated the existence of the following within the agency:</text>
+            <clause id="H3E7E4333A640456BACB9C47504E0F66B">
+              <enum>(i)</enum>
+              <text>A dedicated suspension and debarment program and staff.</text>
+            </clause>
+            <clause id="H2EC4DBC76B184FD4BCED61CB26D2B5EC">
+              <enum>(ii)</enum>
+              <text>Detailed agency-specific policies and procedures relating to suspension and debarment.</text>
+            </clause>
+            <clause id="HAEE4D01767794636A49B32E6506E509D">
+              <enum>(iii)</enum>
+              <text>Practices that encourage an active suspension and debarment referral process.</text>
+            </clause>
+            <clause id="H745154D1757A42B8A6BBAFA2E62D5E14">
+              <enum>(iv)</enum>
+              <text>In the case of an agency with multiple bureaus, offices, or subordinate organizations, a consolidated suspension and debarment program with only one individual with the title and designation of <term>Suspension and Debarment Officer</term> for the entire agency.</text>
+            </clause>
+            <clause id="H5D6B5CABFA0A46E482FF96F509B59968">
+              <enum>(v)</enum>
+              <text>Average annual disposition of discretionary suspension and debarment cases of 50 or more, regardless of the outcome, during the three preceding fiscal years.</text>
+            </clause>
+          </subparagraph>
+          <subparagraph id="H16746FC9743C4DADAD377946C61E93D9">
+            <enum>(B)</enum>
+            <header>Length of waiver</header>
+            <text>A waiver under this paragraph shall be for five years and may be renewed more than once.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="HAA31DC815C4B4E1AB09200C02D8648C3">
+          <enum>(3)</enum>
+          <header>Small Business Administration</header>
+          <text>Notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:2/ss:b/p:1" proposed="true">paragraphs (1)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:2/ss:b/p:2" proposed="true">(2)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7300">Small Business Administration</cato:entity-ref> shall maintain its independent authority and function relating to suspension and debarment pursuant to <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Small Business Act/s:16/ss:d">section 16(d) of the Small Business Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/645">
+                <cato:entity-ref entity-type="uscode" value="usc/15/645">15 U.S.C. 645</cato:entity-ref>
+              </external-xref>)</cato:entity>. Any other suspension and debarment activities unrelated to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Small Business Act/s:16/ss:d">such section 16(d)</cato:entity-ref> shall terminate in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:2/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="H70241491675A46EC826C8208F6A593E1">
+        <enum>(c)</enum>
+        <header>Guidance</header>
+        <text display-inline="yes-display-inline">Within 6 months after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director of the Office of Management and Budget</cato:entity-ref>, in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Acquisition Officers Council">Chief Acquisition Officers Council</cato:entity-ref>, shall issue guidance addressing the scope and operation of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board of Suspension and Debarment</cato:entity-ref>. The guidance shall address, at a minimum, the following:</text>
+        <paragraph id="HE6AB00BFAAF64B1FA33BEDA1EDDA9D7F">
+          <enum>(1)</enum>
+          <text>The size, structure, and organization of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref> to efficiently manage all executive agency suspension and debarment actions.</text>
+        </paragraph>
+        <paragraph id="H5575A17A814B4690AA8D973AB940B693">
+          <enum>(2)</enum>
+          <text>Procedures for appointment of the Chair of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref>, including appropriate instructions to appoint without regard to political affiliation and solely on the basis of the professional qualifications required to perform the duties and responsibilities of the Chair of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref>.</text>
+        </paragraph>
+        <paragraph id="H30A935D4F5E84F05A05FC5BE41171057">
+          <enum>(3)</enum>
+          <text>Procedures for handling new and existing suspension and debarment cases to accomplish timely transfer of all functions to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref>.</text>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="H918E71909890443C94C9046DE6ABF7D6">
+      <enum>3.</enum>
+      <header>Interagency Suspension and Debarment Committee</header>
+      <subsection id="H425DD62FC69A42BEA3932E1B0DD94ABB">
+        <enum>(a)</enum>
+        <header>Establishment</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/31/64" proposed="true">
+            <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/31/64">Chapter 64</external-xref> of title 31, United States Code</cato:entity-ref>, as inserted by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:2/ss:a" proposed="true">section 2(a) of this Act</cato:entity-ref>, is further amended by adding at the end the following new section:</text>
+        <quoted-block display-inline="no-display-inline" id="H22905E0311E84E9FA9F8C4B67B883CF0" style="USC">
+          <section id="H9D073215E9D943A48E492EC422F7DE0B">
+            <enum>6402.</enum>
+            <header>Interagency Suspension and Debarment Committee</header>
+            <subsection id="HD9CF62F8644B4DD69EB6FDC8B832FF28">
+              <enum>(a)</enum>
+              <header>Establishment</header>
+              <text display-inline="yes-display-inline">There is established the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Interagency Suspension and Debarment Committee" proposed="true">Interagency Suspension and Debarment Committee</cato:entity-ref> (in this section referred to as the <term>Interagency Committee</term> which shall replace the committee constituted under sections 4 and 5 of Executive Order No. 12549.</text>
+            </subsection>
+            <subsection id="HE00EC6C1CA504E418362A2858C0281F3">
+              <enum>(b)</enum>
+              <header>Chair and Vice Chairs</header>
+              <paragraph id="HA51F535D6B374E20B8695ABF3564E7E2">
+                <enum>(1)</enum>
+                <header>Chair</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Federal Procurement Policy" entity-parent-id="1103">Administrator for Federal Procurement Policy</cato:entity-ref> shall serve as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Interagency Suspension and Debarment Committee" proposed="true">Chair of the Interagency Committee</cato:entity-ref>.</text>
+              </paragraph>
+              <paragraph id="H6CD6E0BD1E0C4F2B9E31A8E7B5C096AD">
+                <enum>(2)</enum>
+                <header>Vice chairs</header>
+                <text>There are at least 2 Vice Chairs of the Interagency Committee. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Chair of the Board of Suspension and Debarment</cato:entity-ref> shall serve as a Vice Chair. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9700">Secretary of Defense</cato:entity-ref> shall designate one official from the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9700">Department of Defense</cato:entity-ref> to serve as a Vice Chair.</text>
+              </paragraph>
+            </subsection>
+            <subsection id="HAF1177F4A9034BCBB0DACC64507E1092">
+              <enum>(c)</enum>
+              <header>Duties</header>
+              <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Interagency Suspension and Debarment Committee" proposed="true">Interagency Committee</cato:entity-ref> shall—</text>
+              <paragraph id="HC2CC3CF382B74540848E35DA8A7152C6">
+                <enum>(1)</enum>
+                <text>resolve issues regarding which of several Federal agencies is the lead agency having responsibility to initiate suspension or debarment proceedings, including with respect to contracts in connection with contingency operations;</text>
+              </paragraph>
+              <paragraph id="HFA38E2BC7FC34AEDAFAF2685884914FA">
+                <enum>(2)</enum>
+                <text>coordinate actions among interested agencies with respect to such action;</text>
+              </paragraph>
+              <paragraph id="HC4750FF4727C4EA68B8DDA014BD5B0AB">
+                <enum>(3)</enum>
+                <text>encourage and assist Federal agencies in entering into cooperative efforts to pool resources and achieve operational efficiencies in the Governmentwide suspension and debarment system;</text>
+              </paragraph>
+              <paragraph id="HBE3E5D572CE442AEBDFBE47159C6ECB4">
+                <enum>(4)</enum>
+                <text>recommend to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Office of Management and Budget</cato:entity-ref> changes to the Government suspension and debarment system and its rules, if such recommendations are approved by a majority of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Interagency Suspension and Debarment Committee" proposed="true">Interagency Committee</cato:entity-ref>;</text>
+              </paragraph>
+              <paragraph id="H23148F51C0514284A88C5D3D79C2B9BB">
+                <enum>(5)</enum>
+                <text>authorize the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Office of Management and Budget</cato:entity-ref> to issue guidelines that implement those recommendations;</text>
+              </paragraph>
+              <paragraph id="H0B97E78368A34F3CAC5DFB43046B85E0">
+                <enum>(6)</enum>
+                <text>authorize the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Interagency Suspension and Debarment Committee" proposed="true">Chair of the Interagency Committee</cato:entity-ref> to establish subcommittees as appropriate to best enable the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Interagency Suspension and Debarment Committee" proposed="true">Interagency Committee</cato:entity-ref> to carry out its functions; and</text>
+              </paragraph>
+              <paragraph id="HB74808C4ABA7413CB03326127B43D693">
+                <enum>(7)</enum>
+                <text>not later than October 30 of each year, submit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> an annual report on—</text>
+                <subparagraph id="H35200E573C244957BBE5156257E668CB">
+                  <enum>(A)</enum>
+                  <text>the progress and efforts to improve the suspension and debarment system;</text>
+                </subparagraph>
+                <subparagraph id="HE55CB538E6AF45D6946A8F84AE87FDEA">
+                  <enum>(B)</enum>
+                  <text>member agencies’ active participation in the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Interagency Suspension and Debarment Committee" proposed="true">Interagency Committee's</cato:entity-ref> work; and</text>
+                </subparagraph>
+                <subparagraph id="H46DC838E9036445096BCA0C3B52600EC">
+                  <enum>(C)</enum>
+                  <text display-inline="yes-display-inline">a summary of each agency's activities and accomplishments in the Governmentwide suspension and debarment system, including the total number of referrals, timeliness of case disposition, and breakdown of discretionary and nondiscretionary cases.</text>
+                </subparagraph>
+              </paragraph>
+            </subsection>
+            <subsection id="HEC579676AF0D43339D00BA96C1C814B2">
+              <enum>(d)</enum>
+              <header>Definition</header>
+              <text>In this section, the term <term>contingency operation</term> has the meaning given that term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/101/a/13">
+                  <external-xref legal-doc="usc" parsable-cite="usc/10/101">section 101(a)(13)</external-xref> of title 10</cato:entity-ref>.</text>
+            </subsection>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+      <subsection id="H29E8AA03DC4B47479CB84152E3720F19">
+        <enum>(b)</enum>
+        <header>Conforming repeal of superseded provision</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="public-law" value="public-law/110/417/s:873">Section 873 of <external-xref legal-doc="public-law" parsable-cite="pl/110/417">Public Law 110–417</external-xref>
+            </cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/31/6101/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/31/6101">31 U.S.C. 6101</external-xref> note</cato:entity-ref>)</cato:entity> is hereby repealed. The table of contents contained in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="public-law" value="public-law/110/417/s:2">section 2 of <external-xref legal-doc="public-law" parsable-cite="pl/110/417">Public Law 110–417</external-xref>
+          </cato:entity-ref>, and at the beginning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="public-law" value="public-law/110/417/t:VIII">title VIII of such public law</cato:entity-ref>, is amended by striking the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="public-law" value="public-law/110/417/s:873">section 873</cato:entity-ref>.</text>
+      </subsection>
+    </section>
+    <section id="HBA1C0C596FF448A58F72F951754EC544">
+      <enum>4.</enum>
+      <header>Single case management system</header>
+      <subsection id="HFEF05A9E7CE44DD89E16DDB711876DB6">
+        <enum>(a)</enum>
+        <header>Requirement To establish system</header>
+        <text display-inline="yes-display-inline">Not later than one year after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator for General Services</cato:entity-ref> (in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Federal Procurement Policy" entity-parent-id="1103">Administrator for Federal Procurement Policy</cato:entity-ref>) shall establish and maintain a Web-based suspension and debarment case management system for use by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" proposed="true" entity-parent-id="4700">Board of Suspension and Debarment</cato:entity-ref> and appropriate executive agency officials having authority over suspension and debarment.</text>
+      </subsection>
+      <subsection id="H1A08157C00EE49F89E1CE2384B9A7494">
+        <enum>(b)</enum>
+        <header>Requirement for use of system</header>
+        <text>The head of each executive agency shall ensure that all cases referred to either the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref> or the agency’s suspension and debarment office (in the case of an agency granted a waiver under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:2/ss:b/p:2" proposed="true">section 2(b)(2)</cato:entity-ref>) are logged into the case management system and that the case status and the name of the employee handling the case are updated at least once each month.</text>
+      </subsection>
+      <subsection id="H215A044A720E4F7E904B24D0460EC757">
+        <enum>(c)</enum>
+        <header>Availability of information</header>
+        <text>Any pre-decisional information related to a suspension or debarment case, including the names of the entities or individuals referred to, shall not be made public unless the Chair of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref> or the suspension and debarment official of an executive agency granted a waiver under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:2/ss:b/p:2" proposed="true">section 2(b)(2)</cato:entity-ref> determines that the release of such information is necessary to protect the interest of the Government.</text>
+      </subsection>
+      <subsection id="H97B81E18C544415F9E9180C450939ED1">
+        <enum>(d)</enum>
+        <header>Executive agency defined</header>
+        <text>In this section, the term <term>executive agency</term> has the meaning provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/41/133">
+            <external-xref legal-doc="usc" parsable-cite="usc/41/133">section 133</external-xref> of title 41, United States Code</cato:entity-ref>.</text>
+      </subsection>
+    </section>
+    <section id="H0B2F934DD2284292B1075E1B36D4DFD1">
+      <enum>5.</enum>
+      <header>Single regulation for procurement and nonprocurement programs</header>
+      <subsection id="HB89B2DCC671D470081699A2D9453D677">
+        <enum>(a)</enum>
+        <header>Single regulation required</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/31/64" proposed="true">
+            <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/31/64">Chapter 64</external-xref> of title 31, United States Code</cato:entity-ref>, as inserted by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:2/ss:a" proposed="true">section 2(a) of this Act</cato:entity-ref>, is further amended by adding at the end the following new section:</text>
+        <quoted-block display-inline="no-display-inline" id="HE913CE291EA74A9599C474EE6F1AE01B" style="USC">
+          <section id="HE5599101A7604966A3BE2A9806B97902">
+            <enum>6403.</enum>
+            <header>Single regulation for suspension and debarment for procurement and nonprocurement programs</header>
+            <subsection id="HF328413D61154CB99B2B5EC84D468092">
+              <enum>(a)</enum>
+              <header>Single regulation</header>
+              <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director of the Office of Management and Budget</cato:entity-ref> shall maintain one generally applicable regulation on suspension and debarment for procurement and nonprocurement programs.</text>
+            </subsection>
+            <subsection id="H1412917323074CB89D01E0622F0C283B">
+              <enum>(b)</enum>
+              <header>Requirements</header>
+              <paragraph id="HBD69C695D6D7415ABD6B8CE53F46B923">
+                <enum>(1)</enum>
+                <header>In general</header>
+                <text>The regulation maintained pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/6403/a" proposed="true">subsection (a)</cato:entity-ref> shall provide, at a minimum, for the procedures and other requirements set forth in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/6403/b/2..8" proposed="true">paragraphs (2) through (8)</cato:entity-ref>.</text>
+              </paragraph>
+              <paragraph id="H41B3085B8820424AB319EE85216AEAAA">
+                <enum>(2)</enum>
+                <header>Advance notice of adverse action</header>
+                <text display-inline="yes-display-inline">The regulation shall provide procedures for the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board</cato:entity-ref> to provide advance notice of adverse action before any adverse action may be taken against a private entity or individual, unless the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Chair of the Board of Suspension and Debarment</cato:entity-ref> or the suspension and debarment officer of an executive agency granted a waiver under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:2/ss:b/p:2" proposed="true">section 2(b)(2) of the SUSPEND Act</cato:entity-ref> determines that an expedient action is necessary to protect the interest of the Government.</text>
+              </paragraph>
+              <paragraph id="H4107FFAE8A2244118F0C44E3F343DD45">
+                <enum>(3)</enum>
+                <header>Transparent handling of cases</header>
+                <text display-inline="yes-display-inline">The regulation shall provide procedures for transparent handling of all cases, including public availability of—</text>
+                <subparagraph id="H745C6F91A5E7498482E7CBF923DF3AAA">
+                  <enum>(A)</enum>
+                  <text>the outcome of all referred cases, including the rationale for the decision to take or not take an adverse action; and</text>
+                </subparagraph>
+                <subparagraph id="H8E2435F4B9184C75B17EEB7F54889BE0">
+                  <enum>(B)</enum>
+                  <text>the administrative agreements entered into by the Government in order to resolve a suspension or debarment proceeding.</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="H99CE88DCEF974D15A73578432FE0DEAF">
+                <enum>(4)</enum>
+                <header>Timely referrals</header>
+                <text display-inline="yes-display-inline">The regulation shall provide procedures to strengthen timely referral of cases, including the role of the agency remedy coordination official (as required in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:7" proposed="true">section 7 of the SUSPEND Act</cato:entity-ref>).</text>
+              </paragraph>
+              <paragraph id="HA2DA7F5F3FED451F88D4ACB31845BD63">
+                <enum>(5)</enum>
+                <header>Consistent standards and procedures</header>
+                <text>The regulation shall provide procedures to ensure consistent standards and procedures that treat all alleged violators fairly and expeditiously, including small businesses with limited legal resources.</text>
+              </paragraph>
+              <paragraph id="H0F6AC648E3EA43E2B3CD0FDFB43228F2">
+                <enum>(6)</enum>
+                <header>Repeated failure to perform</header>
+                <text>The regulation shall provide procedures to strengthen the identification and referral (for suspension or debarment consideration) of contractors and grantees that repeatedly fail to perform.</text>
+              </paragraph>
+              <paragraph id="H76D7DDF888964E369F514E91CCE8466B">
+                <enum>(7)</enum>
+                <header>Contingency procedures</header>
+                <text>The regulation shall provide procedures for an expedited review process to handle contract or grant fraud in a non-traditional or time-sensitive environment, either in a military or non-military setting.</text>
+              </paragraph>
+            </subsection>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+      <subsection id="HA1B443852C1246F6BF5F6E01021FDED1">
+        <enum>(b)</enum>
+        <header>Requirement and deadline To combine regulations</header>
+        <text>Not later than 1 year after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director of the Office of Management and Budget</cato:entity-ref> shall combine the separate suspension and debarment regulations for procurement and nonprocurement programs into one generally applicable regulation.</text>
+      </subsection>
+    </section>
+    <section id="H8AF50AAED6D342F5B70BA3E4BB943C6C">
+      <enum>6.</enum>
+      <header>Government Accountability Office review</header>
+      <subsection id="H81D3841EE1C3451191C1551CB61745D9">
+        <enum>(a)</enum>
+        <header>Review</header>
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0500">Comptroller General of the United States</cato:entity-ref> shall review and assess the effectiveness in meeting the requirements of this Act and the amendments made by this Act of—</text>
+        <paragraph id="HD58B66A42EEF43649CCBAE35FDEB855F">
+          <enum>(1)</enum>
+          <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board of Suspension and Debarment</cato:entity-ref>;</text>
+        </paragraph>
+        <paragraph id="HF5B1FD9D594443878AC69E2486F59AA8">
+          <enum>(2)</enum>
+          <text display-inline="yes-display-inline">the suspension and debarment office of each executive agency granted a waiver under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:2/ss:b/p:2" proposed="true">section 2(b)(2)</cato:entity-ref>; and</text>
+        </paragraph>
+        <paragraph id="HEFBF1E4D2EA14B2ABD29C318A78F0B3B">
+          <enum>(3)</enum>
+          <text>the case management system established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:4" proposed="true">section 4</cato:entity-ref>.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="H35031C25B2FE467B9C34E8B097C16537">
+        <enum>(b)</enum>
+        <header>Report</header>
+        <text>Not later than 2 years after the establishment of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board of Suspension and Debarment</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0500">Comptroller General</cato:entity-ref> shall submit to the relevant congressional committees a report containing—</text>
+        <paragraph id="HB0754106E5D1406FB12D66487BFE7E68">
+          <enum>(1)</enum>
+          <text>the findings of the review and assessment required by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:6/ss:a" proposed="true">subsection (a)</cato:entity-ref>; and</text>
+        </paragraph>
+        <paragraph id="HDA0FFB1BC3C64ADC9E1C8315C9269F7B">
+          <enum>(2)</enum>
+          <text>recommendations to improve the Governmentwide suspension and debarment system, including identification and assessment of the efficiency of agency-specific requirements that are unnecessary or inconsistent with the Governmentwide system.</text>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="HC7E56B3301C5447EA710000EB3E0D274">
+      <enum>7.</enum>
+      <header>Coordination of remedies for fraud and corruption related to procurement and grant activities</header>
+      <subsection id="HB703DED3B0FA432B822D300D174093F5">
+        <enum>(a)</enum>
+        <header>Guidance required</header>
+        <text>Within 6 months after the date of the enactment of this Act, the head of each executive agency and the Inspector General of the agency shall jointly issue guidance that establishes policies, procedures, and responsibilities for the agencywide coordination of criminal, civil, contractual, and administrative remedies stemming from investigations of fraud or corruption related to procurement and grant activities.</text>
+      </subsection>
+      <subsection id="H591A552FDDB7416890FECDD78697BEC0">
+        <enum>(b)</enum>
+        <header>Matters covered</header>
+        <paragraph id="H2F857CFFF6AC4C818F34FAF43F12A894">
+          <enum>(1)</enum>
+          <header>Coordination</header>
+          <text display-inline="yes-display-inline">For each significant investigation of fraud or corruption related to procurement or grant activities affecting an executive agency, the guidance under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:7/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall require that the remedy coordination official of the agency be promptly informed and appropriately empowered to carry out the requirements of this section.</text>
+        </paragraph>
+        <paragraph id="HC85F19B0843244A1B875FF565947BB3C">
+          <enum>(2)</enum>
+          <header>Role of remedy coordination official</header>
+          <text>The remedy coordination official of the agency shall—</text>
+          <subparagraph id="H485FD761D6274AD8B80DA7CF8BF5F678">
+            <enum>(A)</enum>
+            <text>ensure that all appropriate contracting and grant officials, officials of the Office of Inspector General of the agency, and officials of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Department of Justice</cato:entity-ref> are kept informed about all possible criminal, civil, contractual, and administrative remedies, and that appropriate remedies (including parallel criminal, civil, regulatory, contractual, and administrative proceedings) are pursued expeditiously;</text>
+          </subparagraph>
+          <subparagraph id="HE2A4599DBEC04A68BDEA3F361B7B2611">
+            <enum>(B)</enum>
+            <text display-inline="yes-display-inline">ensure timely preparation and submission of suspension and debarment case files by appropriate agency officials; and</text>
+          </subparagraph>
+          <subparagraph id="H2B8193F1D445427BAD726A1D09BEDF8A">
+            <enum>(C)</enum>
+            <text display-inline="yes-display-inline">serve as a primary point of contact on behalf of the executive agency for the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board of Suspension and Debarment</cato:entity-ref> or the agency suspension and debarment office, as applicable, throughout the review of the referred cases.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="HF2B6B57FD51C431297F5415E32F2AE30">
+          <enum>(3)</enum>
+          <header>Contractual or administrative remedies</header>
+          <text>The guidance under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:7/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall require that, in appropriate cases of fraud or corruption related to procurement or grant activities affecting the agency, and with advance notice to all necessary officials, contractual or administrative remedies be taken before final resolution of any criminal or civil case.</text>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="HC10E76BAC733432C821659D535942D6B">
+      <enum>8.</enum>
+      <header>Transfer, redesignation, and amendment of other provision of law relating to debarment and suspension</header>
+      <subsection id="H601663204BC64881992C5E89480E50EE">
+        <enum>(a)</enum>
+        <header>Transfer, redesignation, and amendment of section 2455 of <external-xref legal-doc="public-law" parsable-cite="pl/103/355">Public Law 103–355</external-xref>
+        </header>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="public-law" value="public-law/103/355/s:2455">Section 2455 of <external-xref legal-doc="public-law" parsable-cite="pl/103/355">Public Law 103–355</external-xref>
+            </cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/31/6101/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/31/6101">31 U.S.C. 6101</external-xref> note</cato:entity-ref>)</cato:entity> is hereby—</text>
+        <paragraph id="HFA76214028B24B85804654681AF94B1C">
+          <enum>(1)</enum>
+          <text display-inline="yes-display-inline">transferred to the end of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/31/64" proposed="true">
+              <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/31/64">chapter 64</external-xref> of title 31, United States Code</cato:entity-ref>, as inserted by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:2/ss:a" proposed="true">section 2(a) of this Act</cato:entity-ref> and amended by preceding provisions of this Act;</text>
+        </paragraph>
+        <paragraph id="H159710AA4E87472F9AD6EB3C89F0A461">
+          <enum>(2)</enum>
+          <text display-inline="yes-display-inline">redesignated as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/6404" proposed="true">section 6404</cato:entity-ref>; and</text>
+        </paragraph>
+        <paragraph id="H795C20C5ACE8436D8CBE72B4EE89352C">
+          <enum>(3)</enum>
+          <text>amended—</text>
+          <subparagraph id="H43B4011CC2674F30831D7CA1F99016B0">
+            <enum>(A)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/6404/c/1" proposed="true">subsection (c)(1)</cato:entity-ref>, by striking <quote>
+                <short-title>section 35(c) of the Office of Federal Procurement Policy Act (<external-xref legal-doc="usc" parsable-cite="usc/41/431">41 U.S.C. 431(c)</external-xref>)</short-title>
+              </quote> and inserting <quote>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/41/104">section 104 of title 41</cato:entity-ref>
+              </quote>; and</text>
+          </subparagraph>
+          <subparagraph id="HCC61587AE671431BAB65A5C216485234">
+            <enum>(B)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/6404/c/3" proposed="true">subsection (c)(3)</cato:entity-ref>, by striking <quote>title 5, United States Code</quote> and inserting <quote>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5">title 5</cato:entity-ref>
+              </quote>.</text>
+          </subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection id="HF177BA4135F24A4DAD9FE814F84A8D89">
+        <enum>(b)</enum>
+        <header>Clerical amendments</header>
+        <paragraph id="HA295806DA36B4505A64277AAB23DBAAB">
+          <enum>(1)</enum>
+          <text>The heading of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/6404" proposed="true">
+              <external-xref legal-doc="usc" parsable-cite="usc/31/6404">section 6404</external-xref> of title 31, United States Code</cato:entity-ref>, as transferred by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:8/ss:a" proposed="true">subsection (a)</cato:entity-ref>, is amended to read as follows:</text>
+          <quoted-block display-inline="no-display-inline" id="H10C9486441D64D35B30F4B6E978A45C8" style="USC">
+            <section id="H94BB30325BE048F495F7984D713DD509">
+              <enum>6404.</enum>
+              <header>Uniform suspension, debarment, or exclusion from procurement or nonprocurement activity</header>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="H0B296EE7380F432CAE931ACC66586F46">
+          <enum>(2)</enum>
+          <text>The table of contents contained in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="public-law" value="public-law/103/355/s:2">section 2 of <external-xref legal-doc="public-law" parsable-cite="pl/103/355">Public Law 103–355</external-xref>
+            </cato:entity-ref> is amended by striking the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="public-law" value="public-law/103/355/s:2455">section 2455</cato:entity-ref>.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="HC6A72CA9A1E54A24BB5F8986448A4BDF">
+        <enum>(c)</enum>
+        <header>Conforming amendment</header>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8902a/b/5">
+            <external-xref legal-doc="usc" parsable-cite="usc/5/8902a">Section 8902a(b)(5)</external-xref> of title 5, United States Code</cato:entity-ref>, is amended by striking <quote>section 2455 of the Federal Acquisition Streamlining Act of 1994</quote> and inserting <quote>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/6404" proposed="true">section 6404 of title 31</cato:entity-ref>
+          </quote>.</text>
+      </subsection>
+    </section>
+    <section id="H9CAD865520A64597A3EB8FD64CE26E7C">
+      <enum>9.</enum>
+      <header>Definitions</header>
+      <text display-inline="no-display-inline">In this Act:</text>
+      <paragraph id="HC165A495905A43268CEB653BA7FC8F68">
+        <enum>(1)</enum>
+        <header>Executive agency</header>
+        <text display-inline="yes-display-inline">The term <term>executive agency</term> has the meaning provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/41/133">
+            <external-xref legal-doc="usc" parsable-cite="usc/41/133">section 133</external-xref> of title 41, United States Code</cato:entity-ref>.</text>
+      </paragraph>
+      <paragraph id="H0B5920B3F27C40418E73C1B08A12F75A">
+        <enum>(2)</enum>
+        <header>Relevant congressional committees</header>
+        <text>The term <term>relevant congressional committees</term> means each of the following:</text>
+        <subparagraph id="H7BE46D859BE148C99EB1FE3C64A149FE">
+          <enum>(A)</enum>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HGO00">Committee on Oversight and Government Reform of the House of Representatives</cato:entity-ref>.</text>
+        </subparagraph>
+        <subparagraph id="H2EB6C2D760C14F8C960DFB679D696237">
+          <enum>(B)</enum>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSGA00">Committee on Homeland Security and Governmental Affairs of the Senate</cato:entity-ref>.</text>
+        </subparagraph>
+      </paragraph>
+    </section>
+    <section id="HBCBF2F5E68214035B7FE11209BF8743A">
+      <enum>10.</enum>
+      <header>Authorization of appropriations</header>
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:funds-and-year amount="2000000" year="2015, 2016, 2017, 2018, 2019, 2020, 2021">$2,000,000 for each of fiscal years 2015 through 2021</cato:funds-and-year>—</cato:entity>
+      </text>
+      <paragraph id="HF317CD92B624417DB4A1B7FB6854CCDE">
+        <enum>(1)</enum>
+        <text>to carry out the functions of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Suspension and Debarment" entity-parent-id="4700" proposed="true">Board of Suspension and Debarment</cato:entity-ref> established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/6401" proposed="true">
+            <external-xref legal-doc="usc" parsable-cite="usc/31/6401">section 6401</external-xref> of title 31, United States Code</cato:entity-ref> (as added by section 2), that are in addition to functions already carried out by personnel of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">General Services Administration</cato:entity-ref> as of October 1, 2013; and</text>
+      </paragraph>
+      <paragraph id="H0F75A4B185994675AFE635474F7C91BA">
+        <text>for implementation of the case management system required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Stop Unworthy Spending Act/s:4" proposed="true">section 4</cato:entity-ref>.</text>
+      </paragraph>
+    </section>
+    <section commented="no" id="HD9A78355D5FF4327A28137BDC10CD33C">
+      <enum>11.</enum>
+      <header>Effective date</header>
+      <text display-inline="no-display-inline">This Act, and the amendments made by this Act, shall take effect on October 1, 2014.</text>
+    </section>
+  </legis-body>
+</bill>
+</doc>
