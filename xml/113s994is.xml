@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113s994is">
     <bill congress="113" type="s" number="994" version="is"/>
-    <revision size="39341" annotations="0" status="complete" id="7" commit-time="2013-08-09T20:40:07Z" committer="mbohmer" doc="113s994is/7.xml">
+    <revision size="39341" annotations="0" status="complete" id="10" commit-time="2013-11-18T23:05:29Z" committer="mbohmer" doc="113s994is/10.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata>
 <dublinCore>
-<dc:title>113 S994 IS: Digital Accountability and Transparency Act of 2013</dc:title>
-<dc:publisher>U.S. Senate</dc:publisher>
-<dc:date>2013-05-21</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S994 IS: Digital Accountability and Transparency Act of 2013</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-05-21</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -118,7 +118,7 @@
 					<subparagraph id="id206FC1C52C11488D996895B7A451C533">
             <enum>(A)</enum>
             <text>by redesignating
-			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Funding Accountability and Transparency Act of 2006/s:2/ss:a/p:2,3">paragraphs (2) and (3)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Funding Accountability and Transparency Act of 2006/s:2/ss:a/p:3,7" proposed="true">paragraphs (3) and (7)</cato:entity-ref>, respectively;</text>
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Funding Accountability and Transparency Act of 2006/s:2/ss:a/p:2">paragraphs (2)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Funding Accountability and Transparency Act of 2006/s:2/ss:a/p:3">(3)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Funding Accountability and Transparency Act of 2006/s:2/ss:a/p:3" proposed="true">paragraphs (3)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Funding Accountability and Transparency Act of 2006/s:2/ss:a/p:7" proposed="true">(7)</cato:entity-ref>, respectively;</text>
 					</subparagraph>
           <subparagraph id="id82F3861D7DFD49D389AAE2369A77E7D4">
             <enum>(B)</enum>
@@ -181,19 +181,23 @@
 					</subparagraph>
           <subparagraph id="idC0F93CD73D6A4BDCABA6FD3A448003CE">
             <enum>(D)</enum>
-            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Funding Accountability and Transparency Act of 2006/s:2/ss:a/p:7">paragraph (7)</cato:entity-ref>,
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Funding Accountability and Transparency Act of 2006/s:2/ss:a/p:7" proposed="true">paragraph (7)</cato:entity-ref>,
 			 as redesignated by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Digital Accountability and Transparency Act of 2013/s:3/ss:a/p:2/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>—</text>
 						<clause id="id2E2CC0A374F14B8F996C5DD61A27E65E">
               <enum>(i)</enum>
               <text>in
-			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Digital Accountability and Transparency Act of 2013/s:3/ss:a/p:2/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>, by striking <quote>paragraph (2)(A)(i)</quote> and inserting
-			 <quote>paragraph (3)(A)(i)</quote>; and</text>
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Funding Accountability and Transparency Act of 2006/s:3/ss:a/p:2/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>, by striking <quote>paragraph (2)(A)(i)</quote> and inserting
+			 <quote>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Funding Accountability and Transparency Act of 2006/s:2/ss:a/p:3/sp:A/cl:i" proposed="true">paragraph (3)(A)(i)</cato:entity-ref>
+                  </quote>; and</text>
 						</clause>
             <clause id="idF1EF6AEAC6484FB6B3358C1421CC3244">
               <enum>(ii)</enum>
               <text>in
-			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Digital Accountability and Transparency Act of 2013/s:3/ss:a/p:2/sp:C" proposed="true">subparagraph (C)</cato:entity-ref>, by striking <quote>paragraph (2)(A)(ii)</quote> and inserting
-			 <quote>paragraph (3)(A)(ii)</quote>;</text>
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Funding Accountability and Transparency Act of 2006/s:3/ss:a/p:2/sp:C" proposed="true">subparagraph (C)</cato:entity-ref>, by striking <quote>paragraph (2)(A)(ii)</quote> and inserting
+			 <quote>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Funding Accountability and Transparency Act of 2006/s:2/ss:a/p:3/sp:A/cl:ii" proposed="true">paragraph (3)(A)(ii)</cato:entity-ref>
+                  </quote>;</text>
 						</clause>
           </subparagraph>
         </paragraph>
@@ -208,8 +212,8 @@
 						<clause id="idBCF8F663C84D4CC6A5B908885140410E">
               <enum>(i)</enum>
               <text>by
-			 striking “the Office of Management and Budget” and inserting “the Secretary of
-			 the Treasury” each place it appears;</text>
+			 striking “the Office of Management and Budget” and inserting “the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of
+			 the Treasury</cato:entity-ref>” each place it appears;</text>
 						</clause>
             <clause id="id545FA1C82A3940AD98B92350B8E2729E">
               <enum>(ii)</enum>
@@ -267,7 +271,7 @@
             <clause id="id4DABDCA91D004944880AE189B2EC4C44">
               <enum>(iv)</enum>
               <text>in
-			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Funding Accountability and Transparency Act of 2006/s:2/ss:b/p:1/sp:B/cl:iii">subparagraph (B)(iii)</cato:entity-ref>, as so designated by this subparagraph, by inserting
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Funding Accountability and Transparency Act of 2006/s:2/ss:b/p:7/sp:B/cl:iii" proposed="true">subparagraph (B)(iii)</cato:entity-ref>, as so designated by this subparagraph, by inserting
 			 <quote>, which shall be assigned a unique identifier,</quote> after
 			 <quote>information on the award</quote>;</text>
 						</clause>
@@ -893,7 +897,7 @@
                     <enum>(i)</enum>
                     <text>Combine
 				information described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Funding Accountability and Transparency Act of 2006/s:2/ss:b/p:1">subsection (b)(1)</cato:entity-ref> with other compilations of
-				information, including those listed in subparagraph (A).</text>
+				information, including those listed in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Funding Accountability and Transparency Act of 2006/s:2/ss:h/p:4/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>.</text>
 									</clause>
                   <clause id="id1a97884849fa4fa99538b21d9c4c67a1">
                     <enum>(ii)</enum>
@@ -1186,7 +1190,8 @@
           <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:453/ss:j/p:9/sp:E/cl:ii">clause (ii)</cato:entity-ref>,
 			 by inserting <quote>and to a Federal, State, or local agency in connection with
 			 preventing, identifying, or recovering improper payments as described in
-			 subparagraph (A)</quote> before the period at the end;</text>
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:453/ss:j/p:9/sp:A">subparagraph (A)</cato:entity-ref>
+              </quote> before the period at the end;</text>
 				</subparagraph>
         <subparagraph id="idb1e45431b1fb4632a08aae01cb4f4386">
           <enum>(C)</enum>
@@ -1241,7 +1246,7 @@
 						<subparagraph id="idC311305420E94822BA88A00F0CC8BCDE">
               <enum>(A)</enum>
               <text>except as
-				provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="American Recovery and Reinvestment Act of 2009/s:1501/p:4/sp:B">subparagraph (B)</cato:entity-ref>, means any funds that are expended or obligated
+				provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="American Recovery and Reinvestment Act of 2009/s:1501/p:4/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>, means any funds that are expended or obligated
 				from appropriations made under this Act; and</text>
 						</subparagraph>
             <subparagraph id="id91344C25B2A04DC1A9CE3282C2477524">
@@ -1350,8 +1355,9 @@
 			<paragraph id="id486E284D11BD4B3FB9D06CE66EFCDC25">
         <enum>(1)</enum>
         <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/3512/a/1">paragraph (1)</cato:entity-ref>,
-			 by inserting <quote>and make available on the website described under section
-			 1122</quote> after <quote>appropriate committees of Congress</quote>;</text>
+			 by inserting <quote>and make available on the website described under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/1122">section
+			 1122</cato:entity-ref>
+            </quote> after <quote>appropriate committees of Congress</quote>;</text>
 			</paragraph>
       <paragraph id="id287BC0E8BA024B72B83EF9AD80C5EA42">
         <enum>(2)</enum>
@@ -1392,7 +1398,7 @@
             <clause id="idffa054e467ff408186db3cd690882e02">
               <enum>(ii)</enum>
               <text>the status and progress achieved
-				toward each goal described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Digital Accountability and Transparency Act of 2013/s:9/p:3/sp:C/cl:i" proposed="true">clause (i)</cato:entity-ref>, including any changes to the cost,
+				toward each goal described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/3512/a/4/C/i" proposed="true">clause (i)</cato:entity-ref>, including any changes to the cost,
 				schedule, or performance baselines of achieving each goal, using earned value
 				management where
 				appropriate.</text>
