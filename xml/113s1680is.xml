@@ -1,0 +1,1802 @@
+<doc>
+  <docmeta id="113s1680is">
+    <bill congress="113" type="s" number="1680" version="is"/>
+    <revision size="93538" annotations="0" status="complete" id="5" commit-time="2013-11-20T16:28:24Z" committer="mbohmer" doc="113s1680is/5.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+  <metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S1680 IS: Consumer Choice in Online Video Act</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-11-12</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code>
+    <congress>113th CONGRESS</congress>
+    <session>1st Session</session>
+    <legis-num>S. 1680</legis-num>
+    <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+    <action>
+      <action-date date="20131112">November 12, 2013</action-date>
+      <action-desc>
+        <sponsor name-id="S176">Mr. Rockefeller</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and Transportation</committee-name>
+      </action-desc>
+    </action>
+    <legis-type>A BILL</legis-type>
+    <official-title>To amend the Communications Act of 1934 to increase consumer choice and competition in the online video programming distribution marketplace, and for other purposes.</official-title>
+  </form>
+  <legis-body>
+    <section id="S1" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title; table of contents</header>
+      <subsection id="id2381AEEE24C441EE9362B39C79E4C33A">
+        <enum>(a)</enum>
+        <header>Short title</header>
+        <text display-inline="yes-display-inline">This Act may be cited as the
+		  <quote>
+            <short-title>Consumer Choice in Online Video Act</short-title>
+          </quote>.</text>
+      </subsection>
+      <subsection id="idC57E2E30774F43B98D3BD5CF376F2675">
+        <enum>(b)</enum>
+        <header>Table of contents</header>
+        <text>The table of contents of this Act is as follows:</text>
+        <toc>
+          <toc-entry idref="S1" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+          <toc-entry idref="id47fd59f3394a4cca95a1e34441b3dbcd" level="section">Sec. 2. Findings; statement of policy.</toc-entry>
+          <toc-entry idref="id9506dd3882b94de7971e0e478917e61b" level="section">Sec. 3. Definitions.</toc-entry>
+          <toc-entry idref="idBE937F5215864F858AEE3E8BCF4AA18D" level="title">TITLE I—Billing for Internet Service</toc-entry>
+          <toc-entry idref="idC5AC9B38B7E34FC3B8F1B44DB1159029" level="section">Sec. 101. Consumer protections.</toc-entry>
+          <toc-entry idref="id697B4CA06E5D4AACB261D28F4486B0CB" level="title">TITLE II—Online Video Distribution Alternatives</toc-entry>
+          <toc-entry idref="id6E58EC9FAACC492BAC336FB551D06DFF" level="section">Sec. 201. Protections for online video distributors.</toc-entry>
+          <toc-entry idref="id4e29e3bbf8524fdb9d8572e5ca50d316" level="section">Sec. 202. Federal Communications Commission report on peering.</toc-entry>
+          <toc-entry idref="idAD0F2502F6A14B04A7BE6793E27A19CB" level="title">TITLE III—Non-facilities based multichannel video programming distributors</toc-entry>
+          <toc-entry idref="id47C82EFDF2B54EAC8E00C2F85E6972E4" level="section">Sec. 301. Non-facilities based multichannel video programming distributors.</toc-entry>
+          <toc-entry idref="id09946926B7D84FF5AE87A7C49104B277" level="title">TITLE IV—Miscellaneous</toc-entry>
+          <toc-entry idref="id4BC6580416864DD387E0F39A9E7B0AC9" level="section">Sec. 401. Technical and conforming amendments.</toc-entry>
+          <toc-entry idref="id4A2A997B5CF945569135AAD27E8506E8" level="section">Sec. 402. Provisions as complementary.</toc-entry>
+          <toc-entry idref="idBFDC834ADF4448D8B13DCC3A815736E8" level="section">Sec. 403. Applicability of antitrust laws.</toc-entry>
+          <toc-entry idref="id6DFEBF80DE1B43788B2F6A6BAB02E3A1" level="section">Sec. 404. Severability.</toc-entry>
+        </toc>
+      </subsection>
+    </section>
+    <section id="id47fd59f3394a4cca95a1e34441b3dbcd">
+      <enum>2.</enum>
+      <header>Findings; statement of policy</header>
+      <subsection id="idc56e961696f24358878e4f7d1b00b6d0">
+        <enum>(a)</enum>
+        <header>Findings</header>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0001" entity-type="federal-body">Congress</cato:entity-ref> makes the following findings:</text>
+        <paragraph id="ida1d86cd71c334ef7996fd39c7a8903c5">
+          <enum>(1)</enum>
+          <text>Online video distribution has the potential to increase consumer choice in video programming, lower prices for video services, bring innovative services to the video distribution marketplace, and disrupt the traditional multichannel video distribution marketplace.</text>
+        </paragraph>
+        <paragraph id="idd7a9e127d14441aabc90acce245520e1">
+          <enum>(2)</enum>
+          <text>Evolving consumer demand, improving technology, and increased choice of viewing devices can make online video distributors stronger competitors to multichannel video programming distributors for an increasing number of viewers.</text>
+        </paragraph>
+        <paragraph id="id2df55cb812fe443cbc81049a8d24e4d3">
+          <enum>(3)</enum>
+          <text>Unlike traditional multichannel video programming distributors, online video distributors do not own distribution facilities and are dependent upon Internet service providers (many of which are affiliated with multichannel video programming distributors) for the delivery of their content to viewers.</text>
+        </paragraph>
+        <paragraph id="idd2c579341e414b3f87594a2e50a7f539">
+          <enum>(4)</enum>
+          <text>Internet service providers’ management and pricing of broadband services affects online video distributors.  Because online video distribution consumes significant amounts of Internet bandwidth, Internet service providers’ use of usage-based billing practices can negatively impact the competitive position of online video distributors and the appeal of their services to consumers.</text>
+        </paragraph>
+        <paragraph id="id48d2464ec96b4d66a6c301894bc65b33">
+          <enum>(5)</enum>
+          <text>Internet service providers that are affiliated with a multichannel video programming distributor or an online video distributor have an increased incentive to degrade the delivery of, or block entirely, traffic from the websites of other online video distributors, or speed up or favor access to the content and aggregation websites of their affiliates, because online video distributors pose a threat to those affiliates’ video programming distribution businesses.</text>
+        </paragraph>
+        <paragraph id="idb028fdbc728e41bc86f06f0e6f368b51">
+          <enum>(6)</enum>
+          <text>Similarly, multichannel video programming distributors who are affiliated with Internet service providers, online video distributors who are affiliated with Internet service providers, or video programming vendors with significant market power have the incentive and ability to use their competitive position to engage in unfair methods of competition meant to hinder competition from online video distributors.</text>
+        </paragraph>
+        <paragraph id="id267221465a064cc494e1fb1685d257ed">
+          <enum>(7)</enum>
+          <text>Growth of online video distribution alternatives also will depend, in part, on the distributor's ability to acquire programming from content producers.  Without access to content on competitive terms, an online video distributor suffers a distinct competitive harm.</text>
+        </paragraph>
+        <paragraph id="idCB0632BF9B164302968F97E25B251094">
+          <enum>(8)</enum>
+          <text>Some traditional multichannel video programming distributors have admitted to taking steps to limit the ability of online video distributors to access content or otherwise effectively compete in the video distribution marketplace.</text>
+        </paragraph>
+        <paragraph id="idd9c0e1e27c114c53a880e95a9e08ef6b">
+          <enum>(9)</enum>
+          <text>Traditional multichannel video programming distributors and even other online video distributors have the incentive and ability to convince their video programming vendor partners not to sell content to online video distributors or to sell content to them at competitively disadvantageous prices, terms, and conditions.  They also have the incentive and ability to retaliate against a video programming vendor that sells content to an online video distributor.</text>
+        </paragraph>
+        <paragraph id="id1313b0d28c264816915200f6f1718889">
+          <enum>(10)</enum>
+          <text>Traditional multichannel video programming distributors have the incentive and ability to use their relationships with manufacturers of television sets, set-top boxes, and other customer premises equipment to favor their own services over offerings from online video distributors.</text>
+        </paragraph>
+        <paragraph id="idaa68d70ff486494a81c73f9b2ea94521">
+          <enum>(11)</enum>
+          <text>There is a substantial governmental and First Amendment interest in—</text>
+          <subparagraph id="id90658D6E03CE4E429D9DFFF64CD05370">
+            <enum>(A)</enum>
+            <text>requiring Internet service providers to provide consumers with accurate information about their Internet service, and to ensure that data usage monitoring systems are accurate, effective, and not used for an anticompetitive purpose;</text>
+          </subparagraph>
+          <subparagraph id="id6832e696f99649f4bf5a31ece2601e6a">
+            <enum>(B)</enum>
+            <text>promoting a diversity of views provided through multiple technology media;</text>
+          </subparagraph>
+          <subparagraph id="idb769df17e5874f5da8c6dd4cc215ba97">
+            <enum>(C)</enum>
+            <text>promoting the development of online video distribution platforms and fair competition amongst all distributors and vendors of video programming;</text>
+          </subparagraph>
+          <subparagraph id="id34f7fcf88cea4394bc2c4791ff1035e0">
+            <enum>(D)</enum>
+            <text>preventing Internet service providers that are affiliated with a multichannel video programming distributor or an online video distributor from discriminating against unaffiliated content and distributors in its exercise of control over consumers’ broadband connections;</text>
+          </subparagraph>
+          <subparagraph id="id57c13974926b487ab6d088a4e52ec88b">
+            <enum>(E)</enum>
+            <text>encouraging and protecting consumer choice and innovation in online video distribution, including with respect to distribution of broadcast television content; and</text>
+          </subparagraph>
+          <subparagraph id="id9552F1ECB498494683BB70F19DE10C1A">
+            <enum>(F)</enum>
+            <text>providing consumers with the ability to choose to receive local broadcast television content from various markets.</text>
+          </subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection id="id16d59d1a72de4faa8adede9178b54379">
+        <enum>(b)</enum>
+        <header>Statement of policy</header>
+        <text>It is the policy of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0001" entity-type="federal-body">Congress</cato:entity-ref> that—</text>
+        <paragraph id="id1306e0696aaa41d69b3c0c4d6a486b9f">
+          <enum>(1)</enum>
+          <text>consumers should be fully informed about the terms and conditions related to the purchase of Internet service from an Internet service provider;</text>
+        </paragraph>
+        <paragraph id="id8d1a19b4d8d4441ca2dc8fbea277bb0a">
+          <enum>(2)</enum>
+          <text>usage-based billing systems used by an Internet service provider should not be used in a way that harms development and use of high-bandwidth consuming Internet applications and services that might compete with that Internet service provider’s own services;</text>
+        </paragraph>
+        <paragraph id="id21e1f47864574834a5af10280f158a93">
+          <enum>(3)</enum>
+          <text>the availability of a diversity of views and information should be promoted to the public through various video programming distribution platforms, including those providing service by utilizing the Internet or other IP-based transmission paths;</text>
+        </paragraph>
+        <paragraph id="iddbd7947c39be4928bae15a0d4a54f999">
+          <enum>(4)</enum>
+          <text>existing multichannel video programming distributors and video programming vendors should not have or exercise undue market power with respect to online video distributors; and</text>
+        </paragraph>
+        <paragraph id="id87602b1f160a478fab7057368d51fb6a">
+          <enum>(5)</enum>
+          <text>Internet service providers should not hinder through anticompetitive behavior the ability of online video distributors to provide services to their subscribers.</text>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="id9506dd3882b94de7971e0e478917e61b">
+      <enum>3.</enum>
+      <header>Definitions</header>
+      <text display-inline="no-display-inline">In this Act:</text>
+      <paragraph id="idf773dcecde4b4c10ba25ac03bb8027c3">
+        <enum>(1)</enum>
+        <header>Broadcast television licensee</header>
+        <text>The term <term>broadcast television licensee</term> means the licensee of a full-power television station or a low-power television station.</text>
+      </paragraph>
+      <paragraph id="id6c55f85dcda04f7aa0df45dfd379fcab">
+        <enum>(2)</enum>
+        <header>Commission</header>
+        <text>The term <term>Commission</term> means the Federal Communications Commission.</text>
+      </paragraph>
+      <paragraph id="idef703246c8fa40eb821450374cabae7a">
+        <enum>(3)</enum>
+        <header>Internet service provider</header>
+        <text>The term <term>Internet service provider</term> means any provider of Internet service to an end user, regardless of the technology used to provide that service.</text>
+      </paragraph>
+      <paragraph id="idbd628de726dc4be79d875e85a236a436">
+        <enum>(4)</enum>
+        <header>Non-facilities based multichannel video programming distributor</header>
+        <text>The term <term>non-facilities based multichannel video programming distributor</term> means an online video distributor that has made the election permitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:672" entity-type="act">section 672</cato:entity-ref>.</text>
+      </paragraph>
+      <paragraph id="idc23dc31e79dc45c18b76bb7979b4dc46">
+        <enum>(5)</enum>
+        <header>Online video distributor</header>
+        <text>The term <term>online video distributor</term> means any entity, including a non-facilities based multichannel video programming distributor, that—</text>
+        <subparagraph id="id948645F016864AA4BBB13391C7FB7DDA">
+          <enum>(A)</enum>
+          <text>has its principal place of business in the United States; and</text>
+        </subparagraph>
+        <subparagraph id="id3E03C261899A475F9CA39E2BD205EB15">
+          <enum>(B)</enum>
+          <text>distributes video programming in the United States by means of the Internet or another IP-based transmission path provided by a person other than that entity.</text>
+        </subparagraph>
+      </paragraph>
+      <paragraph id="id708447EAA14A4C2494B1FC85176D0D8D">
+        <enum>(6)</enum>
+        <header>Television network</header>
+        <text>The term <term>television network</term> means a television network in the United States which offers an interconnected program service on a regular basis for 15 or more hours per week to at least 25 affiliated broadcast stations in 10 or more States.</text>
+      </paragraph>
+      <paragraph id="id654af5f3a0a0454a9444f1463e359a5e">
+        <enum>(7)</enum>
+        <header>Usage-based billing</header>
+        <subparagraph id="idF3BB7BB2451543CCB9F0C01899FD5F31">
+          <enum>(A)</enum>
+          <header>In general</header>
+          <text>The term <term>usage-based billing</term> means a system of charging a consumer for Internet service or the use of an IP-based transmission path provided by an Internet service provider or other entity that is based upon the amount of data the consumer uses over a period of time.</text>
+        </subparagraph>
+        <subparagraph id="id947C6B06D68B4956B084A13F4782F626">
+          <enum>(B)</enum>
+          <header>Inclusions</header>
+          <text>The term <term>usage-based billing</term> includes—</text>
+          <clause id="id8a2df88b26234294ac280cb0fafb09d5">
+            <enum>(i)</enum>
+            <text>imposing a cap on the amount of data the consumer can use based on the price the consumer is willing to pay for service;</text>
+          </clause>
+          <clause id="ida1d242b8a57240ee932168cbcb9b974c">
+            <enum>(ii)</enum>
+            <text>charging a consumer varying amounts each billing cycle based on a per-megabyte, per-gigabyte, or similar rate; and</text>
+          </clause>
+          <clause id="idfe54ced944de4d82acf5f596277216d9">
+            <enum>(iii)</enum>
+            <text>establishing different tiers of prices based on the amount of data the consumer elects to consume in a billing cycle, whether or not the amount acts as a cap on the consumer’s service.</text>
+          </clause>
+        </subparagraph>
+      </paragraph>
+      <paragraph id="idc884ca18bfb7409b89eddbfec67baadd">
+        <enum>(8)</enum>
+        <header>Video programming</header>
+        <text>The term <term>video programming</term> means programming provided by, or generally considered comparable to programming provided by, a television broadcast station, whether or not such programming is delivered using a portion of the electromagnetic frequency spectrum.</text>
+      </paragraph>
+      <paragraph id="idadf3c8f530ea4f8a8c1d75043002a66c">
+        <enum>(9)</enum>
+        <header>Video programming vendor</header>
+        <text>The term <term>video programming vendor</term> means a person engaged in the production, creation, or wholesale distribution of video programming for sale.</text>
+      </paragraph>
+    </section>
+    <title id="idBE937F5215864F858AEE3E8BCF4AA18D" style="OLC">
+      <enum>I</enum>
+      <header>Billing for Internet Service</header>
+      <section id="idC5AC9B38B7E34FC3B8F1B44DB1159029">
+        <enum>101.</enum>
+        <header>Consumer protections</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref value="Communications Act of 1934/t:VII" entity-type="act">Title VII of the Communications Act of 1934</cato:entity-ref> (<cato:entity-ref value="usc/47/601/etseq" entity-type="uscode">
+              <external-xref legal-doc="usc" parsable-cite="usc/47/601">47 U.S.C. 601 et seq.</external-xref>
+            </cato:entity-ref>)</cato:entity> is amended—</text>
+        <paragraph id="idD442A25E29EE4811809841626571AAAA">
+          <enum>(1)</enum>
+          <text display-inline="yes-display-inline">by inserting before <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Communications Act of 1934/s:701" entity-type="act">section 701</cato:entity-ref> the following:</text>
+          <quoted-block display-inline="no-display-inline" id="id5B31CAF7309645318A47B93874125BED" style="OLC">
+            <part id="idD9EF9165551546909C20925B15BAE525" style="OLC">
+              <enum>I</enum>
+              <header>General provisions</header>
+            </part>
+            <after-quoted-block>;</after-quoted-block>
+          </quoted-block>
+          <continuation-text continuation-text-level="paragraph">and</continuation-text>
+        </paragraph>
+        <paragraph id="id8C7F592CC923451C9A6D92CED21420B7">
+          <enum>(2)</enum>
+          <text>by adding at the end the following:</text>
+          <quoted-block display-inline="no-display-inline" id="idB681C25F0D1D447D883BCD1324C61064" style="OLC">
+            <part id="id746113CB942D49CEA7F355A717F7E333" style="OLC">
+              <enum>II</enum>
+              <header>Internet Services Billing</header>
+              <section id="idA0BF6F4E026F458DB73545E8FEFCFCEB">
+                <enum>721.</enum>
+                <header>Consumer protections</header>
+                <subsection id="idad3257a1650941018ff4d3272780bd08">
+                  <enum>(a)</enum>
+                  <header>General Disclosures</header>
+                  <paragraph id="ida1f6d75e97564d22b12590bdbd67fc45">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+                    <text>Not later than 1 year after the date of enactment of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Consumer Choice in Online Video Act" entity-type="act">
+                        <short-title>Consumer Choice in Online Video Act</short-title>
+                      </cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall promulgate regulations requiring Internet service providers to disclose certain information that will assist a consumer in making an informed decision about the purchase of Internet service.</text>
+                  </paragraph>
+                  <paragraph id="idd339b1bdcaef4a1cb66c26ebff8faeda">
+                    <enum>(2)</enum>
+                    <header>Requirements</header>
+                    <text>The regulations under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:721/ss:a/p:1" entity-type="act">paragraph (1)</cato:entity-ref> shall require, at a minimum, that—</text>
+                    <subparagraph id="id239b238ad9d84ce894614334783767d8">
+                      <enum>(A)</enum>
+                      <text>any advertising related to Internet service include plain language disclosure of any information the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> considers necessary for a consumer to make an informed decision about the purchase of that Internet service;</text>
+                    </subparagraph>
+                    <subparagraph id="id99690c53022b436c8add7f84d590db9f">
+                      <enum>(B)</enum>
+                      <text>an Internet service provider provide a plain language disclosure to a consumer prior to the purchase of Internet service that includes—</text>
+                      <clause id="id283cd9669fe14b98a74f3f22c92f8f4a">
+                        <enum>(i)</enum>
+                        <text>the length of the contract;</text>
+                      </clause>
+                      <clause id="id595A49C001AA4F419B4D29D46F81AFAD">
+                        <enum>(ii)</enum>
+                        <text>the terms of renewal;</text>
+                      </clause>
+                      <clause id="id9b8bf13b9315488f872ea55c736184fc">
+                        <enum>(iii)</enum>
+                        <text>a projected monthly bill, including all fees and costs associated with the Internet service;</text>
+                      </clause>
+                      <clause id="idc51114015a2447fa90ce558dbe6ef922">
+                        <enum>(iv)</enum>
+                        <text>if the consumer is receiving promotional pricing for service, a projected monthly bill for service once that promotional pricing period has ended;</text>
+                      </clause>
+                      <clause id="id6c20a672c62340639e926a908fa7afb4">
+                        <enum>(v)</enum>
+                        <text>the procedures to cancel the Internet service, including any policies related to early termination fees;</text>
+                      </clause>
+                      <clause id="ide29efc572f6540ceb91b186ad237185e">
+                        <enum>(vi)</enum>
+                        <text>the average actual data transmission speeds, including both upload and download speeds;</text>
+                      </clause>
+                      <clause id="idd40160bcde344c0f9403b6d96e58b704">
+                        <enum>(vii)</enum>
+                        <text>any policies or practices regarding network management, including limiting service speeds or prioritizing content; and</text>
+                      </clause>
+                      <clause id="id3b297667e75d441487e96a7f63f3927a">
+                        <enum>(viii)</enum>
+                        <text>any other information that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> considers necessary for the consumer to make an informed decision about the purchase of the Internet service.</text>
+                      </clause>
+                    </subparagraph>
+                  </paragraph>
+                </subsection>
+                <subsection id="idededcd6ad3ed433596fe13032ba97ce5">
+                  <enum>(b)</enum>
+                  <header>Special disclosures for usage-Based billing</header>
+                  <paragraph id="id7c3614e9acdc4e56a30c0f74823a8cd8">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+                    <text>As part of the rulemaking under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:721/ss:a" entity-type="act">subsection (a)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall promulgate regulations to protect consumers in the use of usage-based billing by Internet service providers.</text>
+                  </paragraph>
+                  <paragraph id="ide7625cc86e2342b097b1ffac41770d5b">
+                    <enum>(2)</enum>
+                    <header>Plain language disclosure of terms and conditions</header>
+                    <subparagraph id="id08941C7D46E34267B6C9FB416A776AC0">
+                      <enum>(A)</enum>
+                      <header>In general</header>
+                      <text>The regulations under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:721/ss:b/p:1" entity-type="act">paragraph (1)</cato:entity-ref> shall require an Internet service provider to provide a plain language disclosure of all terms and conditions associated with its use of usage-based billing to a consumer prior to the purchase of Internet service.</text>
+                    </subparagraph>
+                    <subparagraph id="id67631d045cf9469a84a01dcd2a6c00d6">
+                      <enum>(B)</enum>
+                      <header>Contents</header>
+                      <text>The plain language disclosure under this paragraph shall include—</text>
+                      <clause id="id8ac3a6270bd54a189c09d2fd189f8ac2">
+                        <enum>(i)</enum>
+                        <text>an explanation of how usage-based billing will be applied to the consumer;</text>
+                      </clause>
+                      <clause id="ide12907b7a45c4feebe7ac48f51bb0b03">
+                        <enum>(ii)</enum>
+                        <text>a complete list of the tiers of service;</text>
+                      </clause>
+                      <clause id="id55a0cf5116c146528d573f13bdf6883e">
+                        <enum>(iii)</enum>
+                        <text>comparisons of how much data of varying types, including video programming in standard and high-definition, the consumer would be able to consume each month under each tier;</text>
+                      </clause>
+                      <clause id="id481ffad2b0cf4cc08dc72df85d078bb3">
+                        <enum>(iv)</enum>
+                        <text>the procedure for providing the consumer the notifications under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:721/ss:b/p:4" entity-type="act">paragraph (4)</cato:entity-ref>;</text>
+                      </clause>
+                      <clause id="id62c2c5073e4243768738bab282d27ee7">
+                        <enum>(v)</enum>
+                        <text>an explanation of the consequences, if any, to a consumer for exceeding the consumer's data usage amount, including any fees that may be charged and any options a consumer may have to avoid those fees;</text>
+                      </clause>
+                      <clause id="idc5faba7d65614d1cb55cc81248b32805">
+                        <enum>(vi)</enum>
+                        <text>if the Internet service provider provides a tool for a consumer to monitor the consumer's data usage, a description of the tool and how to use it;</text>
+                      </clause>
+                      <clause id="id6100fcce33f04e3d9488c7bba8ab7181">
+                        <enum>(vii)</enum>
+                        <text>the appeals procedure under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:721/ss:b/p:5" entity-type="act">paragraph (5)</cato:entity-ref>; and</text>
+                      </clause>
+                      <clause id="id58d587defbc647ee8d44e4931ee5d03f">
+                        <enum>(viii)</enum>
+                        <text>any other information that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> considers necessary to protect consumers in the use of usage-based billing by Internet service providers.</text>
+                      </clause>
+                    </subparagraph>
+                  </paragraph>
+                  <paragraph id="id66a09189a6084be183b751f55bf95929">
+                    <enum>(3)</enum>
+                    <header>Monthly disclosure of data usage</header>
+                    <subparagraph id="id145f487c3dfc4c1ead814dd2166483b2">
+                      <enum>(A)</enum>
+                      <header>Data usage</header>
+                      <text>An Internet service provider that uses usage-based billing shall provide a plain language disclosure to a consumer of the consumer's data usage during each billing cycle as part of the consumer's bill.</text>
+                    </subparagraph>
+                    <subparagraph id="ida20d78b278b941cf9068e2a1f48e5071">
+                      <enum>(B)</enum>
+                      <header>Data Usage Trends</header>
+                      <text>An Internet service provider that uses usage-based billing shall include in the consumer's bill information documenting the consumer's data usage over the prior 6 monthly bills or over a period beginning on the date that the consumer contracted for the Internet service, whichever is shorter.</text>
+                    </subparagraph>
+                  </paragraph>
+                  <paragraph id="iddd422273f49145fa90c776b26e2539de">
+                    <enum>(4)</enum>
+                    <header>Notifications</header>
+                    <subparagraph id="idbbe0cad0ebf9449eb2b6d97b34a23d0f">
+                      <enum>(A)</enum>
+                      <header>In General</header>
+                      <text>An Internet service provider that uses usage-based billing shall provide to a  consumer notification of the amount of data the consumer has remaining at the midpoint of a billing cycle, and at any other increments the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> finds are in the public interest.</text>
+                    </subparagraph>
+                    <subparagraph id="ide46588d2cb7f418e91f3b85b9bc66226">
+                      <enum>(B)</enum>
+                      <header>Form</header>
+                      <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> may determine the form of the notifications required under this paragraph.</text>
+                    </subparagraph>
+                  </paragraph>
+                  <paragraph id="idf22753f578fe48e387ea46873cb6b86f">
+                    <enum>(5)</enum>
+                    <header>Consumer Appeals</header>
+                    <text>Each Internet service provider that uses usage-based billing shall establish an appeals procedure for a consumer to obtain more detailed information about the consumer's Internet data usage and to challenge the Internet service provider's determination of that consumer's data usage.</text>
+                  </paragraph>
+                </subsection>
+                <subsection id="id960c93044ccf4386a1b116b0a7a53178">
+                  <enum>(c)</enum>
+                  <header>Truth-in-Billing for Internet Services</header>
+                  <paragraph id="id1f375ba188f74f7ca0c6bb70f37235c9">
+                    <enum>(1)</enum>
+                    <header>In General</header>
+                    <text>Not later than 1 year after the date of enactment of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Consumer Choice in Online Video Act" entity-type="act">
+                        <short-title>Consumer Choice in Online Video Act</short-title>
+                      </cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall update its truth-in-billing rules to extend the rules to Internet service providers.</text>
+                  </paragraph>
+                  <paragraph id="id68b56b40c93a4234b16e9b1152b6587e">
+                    <enum>(2)</enum>
+                    <header>Bundled services</header>
+                    <text>As part of the rulemaking under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:721/ss:c/p:1" entity-type="act">paragraph (1)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall consider whether it is in the public interest to establish truth-in-billing rules for bundled communications service packages.</text>
+                  </paragraph>
+                </subsection>
+                <subsection id="id5C0B610DDA4247D7A37F14AB602055BA">
+                  <enum>(d)</enum>
+                  <header>Exemption</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> may exempt an Internet service provider serving 20,000 or fewer subscribers from the requirements of this section.</text>
+                </subsection>
+                <subsection id="id41D1632889B44E9E99AF91B77D31A54C">
+                  <enum>(e)</enum>
+                  <header>Special consideration</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> may take into account the special considerations in an Internet service provider's delivery technology, including wireless, when implementing this section.</text>
+                </subsection>
+              </section>
+              <section id="id3ecf238a5c984eaea8ae27c9eb2cbaad">
+                <enum>722.</enum>
+                <header>Certification of data usage monitoring systems</header>
+                <subsection id="idd6cb8455ed4346698ab69db9938e431d">
+                  <enum>(a)</enum>
+                  <header>Independent certification required</header>
+                  <paragraph id="id8cd1263730924347afd75ab29378f455">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+                    <text>An Internet service provider may not use a data usage monitoring system as part of usage-based billing unless the data usage monitoring system is certified under this section.</text>
+                  </paragraph>
+                  <paragraph id="id320c7c830a7b491ab91f587ece4cd4a3">
+                    <enum>(2)</enum>
+                    <header>Development of standards</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref>, after consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1341" entity-type="federal-body">National Institute of Standards and Technology</cato:entity-ref>, shall develop standards to ensure that a data usage monitoring system accurately measures a consumer's usage of data.</text>
+                  </paragraph>
+                  <paragraph id="idc924658e983b4f9a9b9fca27fd31473b">
+                    <enum>(3)</enum>
+                    <header>Certification process</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> may certify a data usage monitoring system for use in usage-based billing if it determines that the data usage monitoring system accurately measures consumer data usage and is in material compliance with the standards under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:722/ss:a/p:2" entity-type="act">paragraph (2)</cato:entity-ref>.</text>
+                  </paragraph>
+                  <paragraph id="ida3aff99959034f938acff0f25357d6cd">
+                    <enum>(4)</enum>
+                    <header>Permissible delegation</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> may designate 1 or more impartial third parties to conduct the certification of a data usage monitoring system under this section.</text>
+                  </paragraph>
+                </subsection>
+                <subsection id="idc9a4f79047a04126ae92e29a40e6e55d">
+                  <enum>(b)</enum>
+                  <header>Periodic Review</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall determine how to ensure that an Internet service provider’s data usage monitoring system remains in compliance with this section.</text>
+                </subsection>
+                <subsection id="idd3c81ed6471f4f709e4cbfb883cab593">
+                  <enum>(c)</enum>
+                  <header>Definition of data usage monitoring system</header>
+                  <text>In this section, the term <term>data usage monitoring system</term> means a system of monitoring and calculating the amount of data a user has consumed—</text>
+                  <paragraph id="id0142F8223B904EA58B0BE64136C3D82E">
+                    <enum>(1)</enum>
+                    <text>while accessing the Internet;</text>
+                  </paragraph>
+                  <paragraph id="idE321F8B37485419CAB7C542300D82756">
+                    <enum>(2)</enum>
+                    <text>while using hardware, software, or applications that consume data transmitted over the Internet; or</text>
+                  </paragraph>
+                  <paragraph id="id6A7510D14CD74F8FA09E983777B4E092">
+                    <enum>(3)</enum>
+                    <text>while accessing another IP-based transmission path provided by an Internet service provider or another entity.</text>
+                  </paragraph>
+                </subsection>
+                <subsection id="id5a1e344399cc405d8cbf734e4e4bef5d">
+                  <enum>(d)</enum>
+                  <header>Penalties</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> is authorized to assess penalties against any Internet service provider that fails to comply with this section.</text>
+                </subsection>
+                <subsection id="id0f056565d04e4229b1a275c026370d82">
+                  <enum>(e)</enum>
+                  <header>Rulemaking</header>
+                  <paragraph id="id1585BA84D06D4135AB2CA907E3AA829C">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall promulgate regulations to implement this section not later than 1 year after the date of enactment of the <short-title>
+                        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Consumer Choice in Online Video Act" entity-type="act">Consumer Choice in Online Video Act</cato:entity-ref>
+                      </short-title>.</text>
+                  </paragraph>
+                  <paragraph id="id57A9E83B1EE94B50B7921DACEED80422">
+                    <enum>(2)</enum>
+                    <header>Exemption</header>
+                    <text>The regulations under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:722/ss:e/p:1" entity-type="act">paragraph (1)</cato:entity-ref> may provide an exemption from the regulations for an Internet service provider serving 20,000 or fewer subscribers.</text>
+                  </paragraph>
+                  <paragraph id="id6F98F40CA59E4B698B449C5476EDCC73">
+                    <enum>(3)</enum>
+                    <header>Special considerations</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> may take into account the special considerations in an Internet service provider's delivery technology, including wireless, when implementing this section.</text>
+                  </paragraph>
+                </subsection>
+              </section>
+            </part>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </section>
+    </title>
+    <title id="id697B4CA06E5D4AACB261D28F4486B0CB" style="OLC">
+      <enum>II</enum>
+      <header>Online Video Distribution Alternatives</header>
+      <section id="id6E58EC9FAACC492BAC336FB551D06DFF">
+        <enum>201.</enum>
+        <header>Protections for online video distributors</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref value="Communications Act of 1934/t:VI" entity-type="act">Title VI of the Communications Act of 1934</cato:entity-ref> (<cato:entity-ref value="usc/47/521/etseq" entity-type="uscode">
+              <external-xref legal-doc="usc" parsable-cite="usc/47/521">47 U.S.C. 521 et seq.</external-xref>
+            </cato:entity-ref>)</cato:entity> is amended by adding at the end the following:</text>
+        <quoted-block display-inline="no-display-inline" id="id995DB455CE3E45F1A74D6A8E50DCA503" style="OLC">
+          <part id="id693BCDC23477489BB732D82D526CEA42" style="OLC">
+            <enum>VI</enum>
+            <header>Online video distributors</header>
+            <section id="id32E710C9C3034327AF28A628F0BC142D">
+              <enum>661.</enum>
+              <header>Definitions</header>
+              <text display-inline="no-display-inline">In this part:</text>
+              <paragraph id="idE014261F33AD4FBD9815FEFCA1640136">
+                <enum>(1)</enum>
+                <header>Affiliated with</header>
+                <text>For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:663" entity-type="act">sections 663</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:664" entity-type="act">664</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:667" entity-type="act">667</cato:entity-ref>, the term <term>affiliated with</term> means that the Internet service provider, multichannel video programming distributor, online video distributor, or video programming vendor, as appropriate, directly or indirectly, is owned or controlled by, owns or controls, or is under common ownership or control with another Internet service provider, multichannel video programming distributor, online video distributor, or video programming vendor, as appropriate.  For purposes of this paragraph, the term <term>own</term> means to own an equity interest, or the equivalent thereof, of more than 10 percent.</text>
+              </paragraph>
+              <paragraph id="id3181E3DE63864083962BF63F802B8F69">
+                <enum>(2)</enum>
+                <header>Video programming</header>
+                <text>The term <term>video programming</term> means programming provided by, or generally considered comparable to programming provided by, a television broadcast station, whether or not such programming is delivered using a portion of the electromagnetic frequency spectrum.</text>
+              </paragraph>
+            </section>
+            <section id="id2ABA502AF6CB407CB1AEDF4189CC3405">
+              <enum>662.</enum>
+              <header>Enhancement of consumer choice in online video</header>
+              <text display-inline="no-display-inline">The purposes of this part are—</text>
+              <paragraph id="idE96CA83C95B5408884B75CB9C6E69781">
+                <enum>(1)</enum>
+                <text>to promote the public interest, convenience, and necessity by increasing competition, innovation, and diversity in the video programming marketplace;</text>
+              </paragraph>
+              <paragraph id="idA1284F71F2874A66A362D70A074462F2">
+                <enum>(2)</enum>
+                <text>to enhance consumer access to online video distribution platforms and consumer choice in online video programming; and</text>
+              </paragraph>
+              <paragraph id="id9D6F9D6A26BC42458450EADECB3352A6">
+                <enum>(3)</enum>
+                <text>to increase the availability of video programming on all platforms, including Internet-based platforms.</text>
+              </paragraph>
+            </section>
+            <section id="idD8C94E4F99AA4E31868767010C48B217">
+              <enum>663.</enum>
+              <header>Development of competition and diversity in online video distribution</header>
+              <subsection id="id4696eddd335f4aa4867b205192a2a2c4">
+                <enum>(a)</enum>
+                <header>Prohibition</header>
+                <text>It shall be unlawful for a designated distributor to engage in unfair methods of competition or unfair or deceptive acts or practices, the purpose or effect of which are to hinder significantly or prevent an online video distributor from providing video programming to consumers, including over any platform or device capable of delivering that online video distributor's content to consumers.</text>
+              </subsection>
+              <subsection id="idfb97b0f3d02d4e26be13df90c5f2b7e0">
+                <enum>(b)</enum>
+                <header>Regulations</header>
+                <paragraph id="id56bc49b1bf1043b1b2f1d8b5fb5bff1c">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>Not later than 1 year after the date of enactment of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Consumer Choice in Online Video Act" entity-type="act">
+                      <short-title>Consumer Choice in Online Video Act</short-title>
+                    </cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall promulgate regulations to implement this section.</text>
+                </paragraph>
+                <paragraph id="id80b0b4dc738149918376146195ada6f3">
+                  <enum>(2)</enum>
+                  <header>Minimum Contents</header>
+                  <text>At a minimum, the regulations under this section shall—</text>
+                  <subparagraph id="id948a9a9ab8f34fe78c84dcdfa4a3c933">
+                    <enum>(A)</enum>
+                    <text>specify the conduct that constitutes a prima facie violation of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:663/ss:a" entity-type="act">subsection (a)</cato:entity-ref>; and</text>
+                  </subparagraph>
+                  <subparagraph id="id80c2f77b9c0d4293a19a30dc42945f8b">
+                    <enum>(B)</enum>
+                    <text>establish effective safeguards to prevent a designated distributor from—</text>
+                    <clause id="idc70e3d4cc9864c3592d6c5d1ef8a6745">
+                      <enum>(i)</enum>
+                      <text>unduly or improperly influencing the decision of any other entity to make a television set or other customer premises equipment incompatible with the services provided by any online video distributor;</text>
+                    </clause>
+                    <clause id="idad038a2df80d4ad9aa72a6e313938354">
+                      <enum>(ii)</enum>
+                      <text>unduly or improperly using its own customer premises equipment to discriminate against, or otherwise favor its own services over, the service provided by any online video distributor;</text>
+                    </clause>
+                    <clause id="idaa5dc2ab00794640940f500c697b0ef5">
+                      <enum>(iii)</enum>
+                      <text>unduly or improperly influencing the decision of any other entity to sell, or the prices, terms, and conditions of the sale of, video programming to any online video distributor; and</text>
+                    </clause>
+                    <clause id="id4722d51133e64fd2a305deefcf607c5a">
+                      <enum>(iv)</enum>
+                      <text>providing an incentive to any entity in an attempt to deny video programming to an online video distributor.</text>
+                    </clause>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="id90ad7becc6844f50befd93e9112f3d6e">
+                <enum>(c)</enum>
+                <header>Exceptions</header>
+                <paragraph id="id47E1A68C6D0A4F40B97C65D5DB155213">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:663/ss:c/p:2" entity-type="act">paragraph (2)</cato:entity-ref>, a designated distributor shall not be prohibited from—</text>
+                  <subparagraph id="ida074a4fe6c4f42a7b66ef65c08798cd3">
+                    <enum>(A)</enum>
+                    <text>imposing reasonable requirements for creditworthiness, offering of service, and financial stability and standards regarding character and technical quality;</text>
+                  </subparagraph>
+                  <subparagraph id="id26297b1a4b664cf083d5f555b658bd17">
+                    <enum>(B)</enum>
+                    <text>establishing different prices, terms, and conditions to take into account economies of scale, cost savings, or other direct and legitimate economic benefits reasonably attributable to the number of subscribers served by the online video distributor; and</text>
+                  </subparagraph>
+                  <subparagraph id="ide9ce2dcb3f2140c4a9ab052e58be31f5">
+                    <enum>(C)</enum>
+                    <text>imposing reasonable requirements to ensure the security of the video programming being provided to the online video distributor, including means to authenticate the right of the distributor’s subscribers to access the programming.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="id6e8dd54902cf4c789129c5b9f8afbf72">
+                  <enum>(2)</enum>
+                  <header>Limitations</header>
+                  <text>An exception under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:663/ss:c/p:1" entity-type="act">paragraph (1)</cato:entity-ref>—</text>
+                  <subparagraph id="id84D4DE1F273044D288C69B5540F0FD62">
+                    <enum>(A)</enum>
+                    <text>shall be related to the substantial, real, and legitimate business concerns of the designated distributor; and</text>
+                  </subparagraph>
+                  <subparagraph id="idCB9FF89E970B4F098CC253F96FF8F265">
+                    <enum>(B)</enum>
+                    <text>may not be used in an anticompetitive manner.</text>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="id8674A58DCD524532A0CBFA14E0C38887">
+                <enum>(d)</enum>
+                <header>Definition of designated distributor</header>
+                <paragraph id="idF89592D560614A34AC85E6A060233E03">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>In this section, the term <term>designated distributor</term> means—</text>
+                  <subparagraph id="idF8A84F675CA04F34B43EDDC14DFF6C25">
+                    <enum>(A)</enum>
+                    <text>a multichannel video programming distributor affiliated with an Internet service provider;</text>
+                  </subparagraph>
+                  <subparagraph id="id575A69A0F3434A26B30F5DA9116457DE">
+                    <enum>(B)</enum>
+                    <text>an online video distributor affiliated with an Internet service provider; or</text>
+                  </subparagraph>
+                  <subparagraph id="idCEA0EF405C744D1A8DB3B40018E0E687">
+                    <enum>(C)</enum>
+                    <text>a video programming vendor with significant market power.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="id691293A095B2459DB0FF2B901DB66181">
+                  <enum>(2)</enum>
+                  <header>Significant market power</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall establish rules for determining whether a video programming vendor has significant market power under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:663/ss:d/p:1/sp:C" entity-type="act">paragraph (1)(C)</cato:entity-ref>.</text>
+                </paragraph>
+              </subsection>
+            </section>
+            <section id="idf8fa082f4ddb4b3ca39b8cdb081cee60">
+              <enum>664.</enum>
+              <header>Access to video programming</header>
+              <subsection id="ideae8c7fff6cd436387957f7c25ea1257">
+                <enum>(a)</enum>
+                <header>Prohibitions</header>
+                <text>It shall be unlawful for a multichannel video programming distributor or an online video distributor—</text>
+                <paragraph id="idbb6bbe4693764a17ad1bd86318f4acac">
+                  <enum>(1)</enum>
+                  <text>to include in a contract with any video programming vendor a provision that serves as a substantial disincentive for the video programming vendor to sell its content to an online video distributor;</text>
+                </paragraph>
+                <paragraph id="idb8eeb725859c4dda8ee1d87b1b2ca270">
+                  <enum>(2)</enum>
+                  <text>to use any practice, understanding, arrangement, or other agreement with a video programming vendor that has the effect of causing the video programming vendor to face a substantial disincentive to sell its content to an online video distributor; or</text>
+                </paragraph>
+                <paragraph id="idB436D2EAD3014995B39B08DB0873192D">
+                  <enum>(3)</enum>
+                  <text>to enter into a contract with a video programming vendor that has the effect of preventing an online video distributor from making the video programming vendor's content available on any platform or device capable of delivering that distributor's content to its subscribers.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="id652054011d754f83a991242e7d3f9319">
+                <enum>(b)</enum>
+                <header>Contract limitations</header>
+                <text>A multichannel video programming distributor or an online video distributor may not include in any contract with a video programming vendor any provision that requires the multichannel video programming distributor or online video distributor, as applicable, to be treated in material parity with other similarly situated multichannel video programming distributors or online video distributors with regard to pricing or other terms and conditions of carriage of video programming.</text>
+              </subsection>
+              <subsection id="id1580948e500d4ce799fe678d20120816">
+                <enum>(c)</enum>
+                <header>Retaliation prohibited</header>
+                <text>A multichannel video programming distributor or an online video distributor may not retaliate against—</text>
+                <paragraph id="id9dd026711b124a3fa9ae9eca0fb77502">
+                  <enum>(1)</enum>
+                  <text>any video programming vendor for making its video programming available to an online video distributor;</text>
+                </paragraph>
+                <paragraph id="id1554b80950994041ab85eb05425711b9">
+                  <enum>(2)</enum>
+                  <text>any online video distributor for obtaining video programming from a video programming vendor; or</text>
+                </paragraph>
+                <paragraph id="ida8640cd1cb4348e4a56fcf7b4098de7e">
+                  <enum>(3)</enum>
+                  <text>any entity for exercising a right under this Act.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="id9b25f81679f74dc0b8662a5352af2197">
+                <enum>(d)</enum>
+                <header>Exception</header>
+                <text>Notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:664/ss:a" entity-type="act">subsection (a)</cato:entity-ref> or any other provision of this part, a multichannel video programming distributor or an online video distributor may enter into an exclusive contract with a video programming vendor for video programming provided by that video programming vendor if the contract does not exceed the limits or violate the prohibitions under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:664/ss:e" entity-type="act">subsection (e)</cato:entity-ref>.</text>
+              </subsection>
+              <subsection id="idb005a27911a24990804c90abe972ae3a">
+                <enum>(e)</enum>
+                <header>Public Interest Limitations on Exclusive Contracts</header>
+                <paragraph id="idc73ca7b866ae4e84b3e4a2d71ea790e3">
+                  <enum>(1)</enum>
+                  <header>In General</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall adopt limits on—</text>
+                  <subparagraph id="id62A750F2F41E4E4C864DD6B9F136ECCD">
+                    <enum>(A)</enum>
+                    <text>the ability of a multichannel video programming distributor or an online video distributor to enter into any contract for video programming that includes an exclusivity provision that substantially deters the development of an online video distribution alternative; and</text>
+                  </subparagraph>
+                  <subparagraph id="idCA7AA06BA0344B688183A57127BDD3E3">
+                    <enum>(B)</enum>
+                    <text>the ability of an online video distributor to enter into any contract for video programming that includes an exclusivity provision that substantially deters the development of an online video distribution alternative.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="id7259174e51234c5c81e2ed8a46163251">
+                  <enum>(2)</enum>
+                  <header>Prohibited contracts</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall prohibit—</text>
+                  <subparagraph id="id22385ff4a76c488cb4108aa1dc515c21">
+                    <enum>(A)</enum>
+                    <text>a multichannel video programming distributor from entering into an exclusive contract with a video programming vendor that is affiliated with the multichannel video programming distributor; and</text>
+                  </subparagraph>
+                  <subparagraph id="id6BC6E16D05DC470D97455FDCD3F5C687">
+                    <enum>(B)</enum>
+                    <text>an online video distributor from entering into an exclusive contract with a video programming vendor that is affiliated with the online video distributor.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="id7329dde5f6e14cc6ae0b440b59a1eb45">
+                  <enum>(3)</enum>
+                  <header>Limitations on other exclusive contracts for video programming</header>
+                  <subparagraph id="idB8CB4E3138DF458CB2BB49C679ADB686">
+                    <enum>(A)</enum>
+                    <header>In general</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall establish criteria for determining whether an exclusive contract for programming substantially deters the development of an online video distribution alternative.</text>
+                  </subparagraph>
+                  <subparagraph id="id8028C04404474F24B998490AEE8B2AD8">
+                    <enum>(B)</enum>
+                    <header>Considerations</header>
+                    <text>In establishing the criteria under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:664/ss:e/p:3/sp:A" entity-type="act">subparagraph (A)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall consider the totality of the circumstances surrounding the contract, including—</text>
+                    <clause id="id7227676a21dd4ac3b81c27a0b5784865">
+                      <enum>(i)</enum>
+                      <text>the duration of the exclusivity period;</text>
+                    </clause>
+                    <clause id="id973F321C7A7C4B9B82BCDAEA2956CC21">
+                      <enum>(ii)</enum>
+                      <text>the effect of the exclusive contract on capital investment in the production and distribution of video programming;</text>
+                    </clause>
+                    <clause id="id025aea313eb3402284ea6da745173ad2">
+                      <enum>(iii)</enum>
+                      <text>the time period after initial first-day distribution of video programming to consumers when the multichannel video programming distributor or the online video distributor is granted exclusive access to distribute the programming; and</text>
+                    </clause>
+                    <clause id="id55c6acb9e9cb4d029f7d37be2fe40cd6">
+                      <enum>(iv)</enum>
+                      <text>the likelihood that the exclusive contract will enhance diversity in programming on video distribution platforms.</text>
+                    </clause>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="id1b566e8bfba7436aad58ab3441b70f65">
+                <enum>(f)</enum>
+                <header>Online Distribution of Content by a Video Programming Vendor</header>
+                <paragraph id="id1c1d36eb89d943e0a8b3779ec54e258a">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>A multichannel video programming distributor or an online video distributor may not enter into an agreement that limits or prohibits a video programming vendor from making its video content available to consumers free over the Internet.</text>
+                </paragraph>
+                <paragraph id="id217a2a8137374cbd927e9af91d696ed7">
+                  <enum>(2)</enum>
+                  <header>Exception</header>
+                  <text>The prohibition under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:664/ss:f/p:1" entity-type="act">paragraph (1)</cato:entity-ref> shall not apply if the duration of the agreement is 30 days or less.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="idCAA9F38B3DA746CE9B3D01678F9C3E5F">
+                <enum>(g)</enum>
+                <header>Prices, terms, and conditions for programming</header>
+                <text>A video programming vendor may establish different prices, terms, and conditions for its video programming if, taking into account economies of scale, cost savings, or other direct and legitimate economic benefits that are reasonably attributable to the number of subscribers served by an online video distributor, the prices, terms, and conditions—</text>
+                <paragraph id="id56A1FC4EEB7C472DB1920841A1D5FE3B">
+                  <enum>(1)</enum>
+                  <text>are related to substantial, real,  and legitimate business concerns of the video programming vendor; and</text>
+                </paragraph>
+                <paragraph id="idA13EF142D3214DC991B150B5C146FDB9">
+                  <enum>(2)</enum>
+                  <text>are not used in an anticompetitive manner.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="id1D47009713744FA683E25E81503DA21A">
+                <enum>(h)</enum>
+                <header>Regulations</header>
+                <paragraph id="id1F0745BA78A54DC380227258059E8EC8">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>Not later than 1 year after the date of enactment of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Consumer Choice in Online Video Act" entity-type="act">
+                      <short-title>Consumer Choice in Online Video Act</short-title>
+                    </cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall promulgate regulations to specify particular conduct that is prohibited by this section.</text>
+                </paragraph>
+                <paragraph id="id2492A81C460440A18E284E205A70DB32">
+                  <enum>(2)</enum>
+                  <header>Minimum contents</header>
+                  <text>The regulations under this section shall establish, at a minimum—</text>
+                  <subparagraph id="idC2E0C09EB1364A5394393F0FB451131A">
+                    <enum>(A)</enum>
+                    <text>effective safeguards to prevent any activity prohibited by this section; and</text>
+                  </subparagraph>
+                  <subparagraph id="id49128C6947874F65A19E112F73749DB7">
+                    <enum>(B)</enum>
+                    <text>complaint and contract review procedures to facilitate the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission's</cato:entity-ref> ability to determine if a multichannel video programming distributor, a video programming vendor, or an online video distributor has violated this section.</text>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="id5D2F6889651A4A6AAE4F8A3068138BBB">
+                <enum>(i)</enum>
+                <header>Existing contracts</header>
+                <paragraph id="id9B10B39519C64CAE986F73F424F0F8E3">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:664/ss:i/p:2" entity-type="act">paragraph (2)</cato:entity-ref>, nothing in this section shall affect any contract, understanding, or arrangement that was entered into on or before December 1, 2013.</text>
+                </paragraph>
+                <paragraph id="id1675478471314D789186EA273BF19AF2">
+                  <enum>(2)</enum>
+                  <header>Exceptions</header>
+                  <text>No contract, understanding, or arrangement entered into on or before December 1, 2013, that violates this section shall be enforceable by any person after the date that  is 3 years after the date of enactment of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Consumer Choice in Online Video Act" entity-type="act">
+                      <short-title>Consumer Choice in Online Video Act</short-title>
+                    </cato:entity-ref>.</text>
+                </paragraph>
+                <paragraph id="idCC2C231E7BED40D28E452BA2C9714186">
+                  <enum>(3)</enum>
+                  <header>Limitation on renewals</header>
+                  <text>A contract, understanding, or arrangement that was entered into on or before December 1, 2013, but that is renewed or extended after the date of enactment of the <short-title>
+                      <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Consumer Choice in Online Video Act" entity-type="act">Consumer Choice in Online Video Act</cato:entity-ref>
+                    </short-title> shall not be exempt under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:664/ss:i/p:1" entity-type="act">paragraph (1)</cato:entity-ref>.</text>
+                </paragraph>
+              </subsection>
+            </section>
+            <section id="id74CFD968752643C08CD574D531911A71">
+              <enum>665.</enum>
+              <header>Fostering access to video programming</header>
+              <subsection id="idC3380B2906AC4287923EA7F3095B6E82">
+                <enum>(a)</enum>
+                <header>In general</header>
+                <text>Not later than 1 year after the date of enactment of the <short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Consumer Choice in Online Video Act" entity-type="act">Consumer Choice in Online Video Act</cato:entity-ref>
+                  </short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall commence a proceeding to determine the additional steps it should take, in the public interest, to foster the ability of online video distributors to gain access to video programming, offer innovative services, and compete with multichannel video programming distributors.</text>
+              </subsection>
+              <subsection id="idA0DF2893E03349A4A58C42E1EFE7E372">
+                <enum>(b)</enum>
+                <header>Limitation</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall not compel a video programming vendor to sell its video programming to an online video distributor as part of any rules adopted under this section.</text>
+              </subsection>
+            </section>
+            <section id="id0b1bb21115804d6c9dde796896a1d4c1">
+              <enum>666.</enum>
+              <header>Broadcast television licensees and television networks</header>
+              <subsection id="id54753bd6852d4ae580278f5ed5124703">
+                <enum>(a)</enum>
+                <header>Duty To Negotiate</header>
+                <text>It shall be unlawful for a broadcast television licensee or television network—</text>
+                <paragraph id="id3e3e127ba218417db82e8992ed736d86">
+                  <enum>(1)</enum>
+                  <text>to refuse to negotiate with an online video distributor for carriage of the broadcast television licensee’s or the television network’s content, as applicable; or</text>
+                </paragraph>
+                <paragraph id="id4df3ca06edeb46b18f9abf69fecd7c6b">
+                  <enum>(2)</enum>
+                  <text>to place any restriction on an online video distributor's ability to make the broadcast television licensee’s or the television network’s content, as applicable, available on any platform or device that is capable of delivering the online video distributor’s content to its subscribers.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="idd4c7013672f046e3bc36bcd8aefbfc35">
+                <enum>(b)</enum>
+                <header>Refusal To negotiate; Commission determination</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall determine what constitutes a refusal to negotiate under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:666/ss:a" entity-type="act">subsection (a)</cato:entity-ref>.  The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> may require a broadcast television licensee or  television network to engage in good faith negotiations with an online video distributor.  The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall define good faith for purposes of this subsection.</text>
+              </subsection>
+              <subsection id="ide5124ca14730406a9c2b3c41b4002afd">
+                <enum>(c)</enum>
+                <header>Online Retransmission of In-Market Broadcast Signals</header>
+                <paragraph id="idddea32c41ecd4ffc95852902e0953e95">
+                  <enum>(1)</enum>
+                  <header>Signal parity</header>
+                  <subparagraph id="id79896e4e673c44d2b4c609df7934b2db">
+                    <enum>(A)</enum>
+                    <header>In general</header>
+                    <text>It shall be unlawful for a broadcast television licensee to provide an over-the-air signal that differs from a retransmission of that signal provided to a multichannel video programming distributor or an online video distributor.</text>
+                  </subparagraph>
+                  <subparagraph id="idf3db596961ae47f88c88e8c7339b0637">
+                    <enum>(B)</enum>
+                    <header>Exception</header>
+                    <text>
+                      <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:666/ss:c/p:1/sp:A" entity-type="act">Subparagraph (A)</cato:entity-ref> shall not apply if—</text>
+                    <clause id="id12D74181EA3E4B5FBAA80A7900B49285">
+                      <enum>(i)</enum>
+                      <text>the variation in the 2 signals consists of a change to 1 or more commercial advertisements of not more than 60 seconds in duration embedded in a broadcast television licensee’s signal; and</text>
+                    </clause>
+                    <clause id="id84657C0AD672490DB4885AEE7875FA85">
+                      <enum>(ii)</enum>
+                      <text>the broadcast television licensee is not using the variation under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:666/ss:c/p:1/sp:B/cl:i" entity-type="act">clause (i)</cato:entity-ref> to increase the overall amount of advertising time in its over-the-air signal.</text>
+                    </clause>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="idb5d4a5ab34b04f1ab861848b7fc9cce7">
+                  <enum>(2)</enum>
+                  <header>Antenna rental services</header>
+                  <subparagraph id="id3ed51816e7a045438651a9786baa82bd">
+                    <enum>(A)</enum>
+                    <header>In general</header>
+                    <text>Notwithstanding any other provision of this Act, except <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:666/ss:c/p:2/sp:C" entity-type="act">subparagraph (C)</cato:entity-ref>, an entity may rent to a consumer access to an individual antenna to view over-the-air broadcast television signals transmitted from that antenna—</text>
+                    <clause id="id4B3611C93DCE48849D34245367DD6D7C">
+                      <enum>(i)</enum>
+                      <text>directly to the consumer over the Internet or another IP-based transmission path; or</text>
+                    </clause>
+                    <clause id="idDA379B32EC624353A48D4C447B17EF7C">
+                      <enum>(ii)</enum>
+                      <text>to an individual data storage system, including an online remote data storage system, for recording and then made accessible to that consumer through the Internet or another IP-based transmission path.</text>
+                    </clause>
+                  </subparagraph>
+                  <subparagraph id="ided99ba3055e34e368144756a31753eba">
+                    <enum>(B)</enum>
+                    <header>Retransmission consent fees</header>
+                    <text>An antenna rental service described under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:666/ss:c/p:2/sp:A" entity-type="act">subparagraph (A)</cato:entity-ref> shall be exempt from paying retransmission consent fees under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Communications Act of 1934/s:325" entity-type="act">section 325</cato:entity-ref> of this Act to any broadcast television station whose signal is received by the individual antenna and retransmitted to the subscriber.</text>
+                  </subparagraph>
+                  <subparagraph id="id119cb79405ee48e3b63d48a17e6d88fc">
+                    <enum>(C)</enum>
+                    <header>Conditions of rental services</header>
+                    <text>An antenna rental service described under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:666/ss:c/p:2/sp:A" entity-type="act">subparagraph (A)</cato:entity-ref> shall—</text>
+                    <clause id="id4198255A1F944235B099D099702212CB">
+                      <enum>(i)</enum>
+                      <text>only provide a subscriber with access to over-the-air broadcast television signals received by an individual antenna located in the same designated market area (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:671" entity-type="act">section 671</cato:entity-ref> of this Act) in which that subscriber resides; and</text>
+                    </clause>
+                    <clause id="id3738D5E891E7407C908988689BEF5E0B">
+                      <enum>(ii)</enum>
+                      <text>make available to a subscriber all over-the-air broadcast signals that are received by the individual antenna rented by that subscriber, unless a signal is of such poor quality that it cannot be transmitted to the consumer in a reasonably viewable form.</text>
+                    </clause>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="idA176BF4D1E3548DE8F7BEB6A0EFAC5FD">
+                <enum>(d)</enum>
+                <header>Limits in Existing Programming and Affiliation Contracts</header>
+                <paragraph id="id1E7D2CA2CADC41E58A4AF8CC4508FA5F">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>It shall be unlawful for any entity selling or otherwise providing video programming to be transmitted by a broadcast television licensee or television network to include in any contract, agreement, understanding, or arrangement with that licensee or network a limitation on the ability of that licensee or network to comply with the requirements of this section.</text>
+                </paragraph>
+                <paragraph id="idC84601724DF245BD9FC9FAB51B8F0696">
+                  <enum>(2)</enum>
+                  <header>Existing contracts</header>
+                  <subparagraph id="id7E083CC7F2C64A5BA339F94231B0A0DC">
+                    <enum>(A)</enum>
+                    <header>In general</header>
+                    <text>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:666/ss:d/p:2/sp:B" entity-type="act">subparagraph (B)</cato:entity-ref>, nothing in this section shall affect any contract, understanding, or arrangement that was entered into on or before December 1, 2013.</text>
+                  </subparagraph>
+                  <subparagraph id="idEAE578CEA9DB4F738CD934E6BA0DD653">
+                    <enum>(B)</enum>
+                    <header>Exceptions</header>
+                    <text>No contract, understanding, or arrangement entered into on or before December 1, 2013, that violates this section shall be enforceable by any person after the date that  is 3 years after the date of enactment of the <short-title>
+                        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Consumer Choice in Online Video Act" entity-type="act">Consumer Choice in Online Video Act</cato:entity-ref>
+                      </short-title>.</text>
+                  </subparagraph>
+                  <subparagraph id="id097B862DB72E4A04842B513CBDB484EA">
+                    <enum>(C)</enum>
+                    <header>Limitation on renewals</header>
+                    <text>A contract, understanding, or arrangement that was entered into on or before December 1, 2013, but that is renewed or extended after the date of enactment of the <short-title>
+                        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Consumer Choice in Online Video Act" entity-type="act">Consumer Choice in Online Video Act</cato:entity-ref>
+                      </short-title> shall not be exempt under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:666/ss:d/p:2/sp:A" entity-type="act">subparagraph (A)</cato:entity-ref>.</text>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="idc362ef5703844f219240af6ec46cc54d">
+                <enum>(e)</enum>
+                <header>Regulations</header>
+                <text>Not later than 1 year after the date of enactment of the <short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Consumer Choice in Online Video Act" entity-type="act">Consumer Choice in Online Video Act</cato:entity-ref>
+                  </short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall promulgate regulations to implement this section. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall not compel a broadcast television licensee or television network to sell its video programming to an online video distributor as part of any rules adopted under this section.</text>
+              </subsection>
+            </section>
+            <section id="id66c6048c7e4e422db31c29ec17f4fe21">
+              <enum>667.</enum>
+              <header>Consumer access to content</header>
+              <subsection id="ida4a8d74c5b0c4442a29c9b4045f07ae0">
+                <enum>(a)</enum>
+                <header>In General</header>
+                <text>It shall be unlawful for a designated Internet service provider to engage in unfair methods of competition or unfair or deceptive acts or practices, the purpose or effect of which are to hinder significantly or to prevent an online video distributor from providing video programming to a consumer.</text>
+              </subsection>
+              <subsection id="idd1fbdfab08504147b52185cea30601ab">
+                <enum>(b)</enum>
+                <header>Regulations</header>
+                <text>Not later than 1 year after the date of enactment of the <short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Consumer Choice in Online Video Act" entity-type="act">Consumer Choice in Online Video Act</cato:entity-ref>
+                  </short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall promulgate regulations to specify particular conduct that is prohibited by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:667/ss:a" entity-type="act">subsection (a)</cato:entity-ref>.  The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission's</cato:entity-ref> regulations under this section shall ensure, at a minimum, that a designated Internet service provider does not—</text>
+                <paragraph id="id758b945541e74a5abbf6e585862c43cb">
+                  <enum>(1)</enum>
+                  <text>block, degrade, or otherwise impair any content provided by an online video distributor;</text>
+                </paragraph>
+                <paragraph id="id25b22b2e8181476b9173d0b6f6711220">
+                  <enum>(2)</enum>
+                  <text>unreasonably discriminate in transmitting the content of an unaffiliated online video distributor over the designated Internet service provider's network;</text>
+                </paragraph>
+                <paragraph id="id4a99964a45dc4b3e8edf840a1ad7c652">
+                  <enum>(3)</enum>
+                  <text>provide benefits in the transmission of the video content of any company affiliated with the Internet service provider through specialized services or other means, or otherwise leverage its ownership of the physical delivery architecture to benefit that affiliated company in a way that has the effect of harming competition from an unaffiliated online video distributor; or</text>
+                </paragraph>
+                <paragraph id="id8151127F49044E5E898C24F51BA9AC0F">
+                  <enum>(4)</enum>
+                  <text>use billing systems, such as usage-based billing, in a way that deters competition from unaffiliated online video distributors that may be in competition with the Internet service provider's or its affiliate's services.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="id337AF6765D46495995D1B97C6A1DA6F1">
+                <enum>(c)</enum>
+                <header>Definition of designated Internet service provider</header>
+                <text>In this section, the term <term>designated Internet service provider</term> means an Internet service provider that is affiliated with a multichannel video programming distributor, an online video distributor, or a video programming vendor.</text>
+              </subsection>
+            </section>
+            <section id="idFD52AC699C40461ABDC6419368033DCE">
+              <enum>668.</enum>
+              <header>Blocking consumer access to online video programming</header>
+              <subsection id="id1C5FE26AB4FB45CE9EB46269AF6BE017">
+                <enum>(a)</enum>
+                <header>In general</header>
+                <text>No video programming vendor that has made available its video programming to consumers online may restrict access to that online video programming for a subscriber of a multichannel video programming distributor or its affiliate, or an online video distributor or its affiliate, during the time that vendor is involved in a dispute with such distributor.</text>
+              </subsection>
+              <subsection id="id223F1796D9EB4AF8BB573967EB441BD8">
+                <enum>(b)</enum>
+                <header>Exception</header>
+                <paragraph id="id0B53862458FF4195A0E37E5D7D7757CB">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>If a video programming vendor requires a consumer to purchase access to its online video programming through a contract with a multichannel video programming distributor or an online video distributor then that vendor may restrict access to that online video programming during the time that the vendor is involved in a dispute with that distributor.</text>
+                </paragraph>
+                <paragraph id="id4E00064CF4B54BD4B08F44006EFC1A18">
+                  <enum>(2)</enum>
+                  <header>Limitation</header>
+                  <text>The exception under this subsection shall apply only to a subscriber to video services provided by a multichannel video programming distributor or an online video distributor involved in the dispute and not to a subscriber to any other service provided by that distributor or its affiliate.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="id69E9FB1A848D45BAAB56B2799415C3E5">
+                <enum>(c)</enum>
+                <header>Remedies</header>
+                <paragraph id="idC9C40E56DE2D477D983E7BF7362782E5">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>Any entity that is aggrieved by a violation of this section may bring a civil action in a United States district court or in any other court of competent jurisdiction.</text>
+                </paragraph>
+                <paragraph id="id499FEF992DEB4E5DB63D15A222746EAC">
+                  <enum>(2)</enum>
+                  <header>Authority</header>
+                  <text>The court may—</text>
+                  <subparagraph id="id09B1EC0B778E4516A2A130CC1F16C426">
+                    <enum>(A)</enum>
+                    <text>grant a temporary or final injunction on such terms as it may deem reasonable to prevent or restrain violations of this section;</text>
+                  </subparagraph>
+                  <subparagraph id="id641A6C6A673F417086C2D5F138864329">
+                    <enum>(B)</enum>
+                    <text>award any damages it deems appropriate; and</text>
+                  </subparagraph>
+                  <subparagraph id="idF7DE07C6B1214629A9DEBA76914CA48E">
+                    <enum>(C)</enum>
+                    <text>direct the recovery of full costs, including awarding reasonable attorneys’ fees to an aggrieved party who prevails.</text>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="idBB24F6757AEE44F483A747AA9995352F">
+                <enum>(d)</enum>
+                <header>Definitions</header>
+                <text>In this section:</text>
+                <paragraph id="idD414849809064A849269C73E6E49DF45">
+                  <enum>(1)</enum>
+                  <header>Available online</header>
+                  <text>The term <term>available online</term> means both available over the Internet and through applications, software, or other similar services on a mobile device.</text>
+                </paragraph>
+                <paragraph id="idA6B32428C1064D608BE178B47EB8B800">
+                  <enum>(2)</enum>
+                  <header>Dispute</header>
+                  <text>The term <term>dispute</term> includes—</text>
+                  <subparagraph id="idBE6A19D77B3940D28B1F072CEB03FF56">
+                    <enum>(A)</enum>
+                    <text>a dispute over carriage of the programming provided by a video programming vendor to a multichannel video programming distributor or online video distributor; and</text>
+                  </subparagraph>
+                  <subparagraph id="id93D9C5DB710D449ABD9BCBD39EEA6FCE">
+                    <enum>(B)</enum>
+                    <text>a dispute over carriage of the programming provided by a television licensee or television network under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Communications Act of 1934/s:325/ss:b" entity-type="act">section 325(b)</cato:entity-ref> of this Act.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="id851963657CF047DF8EFD76CB4D46562D">
+                  <enum>(3)</enum>
+                  <header>Entity that is aggrieved</header>
+                  <text>The term <term>entity that is aggrieved</term> includes—</text>
+                  <subparagraph id="id57EC2E8A5B0040C69F7FF372291F103F">
+                    <enum>(A)</enum>
+                    <text>a consumer whose access to online video programming has been restricted in violation of this section; and</text>
+                  </subparagraph>
+                  <subparagraph id="idC641FDE04F2E49DD89A05B97941FC798">
+                    <enum>(B)</enum>
+                    <text>a multichannel video programming distributor or its affiliate, or an online video distributor or its affiliate, that has had a subscriber's access to online video programming restricted in violation of this section.</text>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+            </section>
+            <section id="idc3ed2fb5129342149ebf8ac37f7e9ce9">
+              <enum>669.</enum>
+              <header>Remedies and adjudications</header>
+              <subsection id="id859b618056ef40f9b3c9dc71da52ce8b">
+                <enum>(a)</enum>
+                <header>Adjudicatory Proceedings</header>
+                <text>Any online video distributor aggrieved by conduct that it alleges constitutes a violation of this part, or the regulations of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> under this part, may commence an adjudicatory proceeding at the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref>.</text>
+              </subsection>
+              <subsection id="id7d811681b10d4bf29bdcaa9359f5a6b4">
+                <enum>(b)</enum>
+                <header>Remedies</header>
+                <paragraph id="id7b13c4aad8004ff7a73e1e072123bc1c">
+                  <enum>(1)</enum>
+                  <header>Remedies authorized</header>
+                  <subparagraph id="id8FC32867298A48848CA4B7858C661A02">
+                    <enum>(A)</enum>
+                    <header>Interim remedies</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> may authorize interim remedies during the pendency of a complaint.</text>
+                  </subparagraph>
+                  <subparagraph id="idD41A8C2CBAB14F1DA7405FFD02FFECD6">
+                    <enum>(B)</enum>
+                    <header>Appropriate remedies</header>
+                    <text>Upon completion of an adjudicatory proceeding under this section, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall have the power to order appropriate remedies, including, if necessary, the power to establish prices, terms, and conditions of sale of programming to the aggrieved online video distributor.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph commented="no" id="ida0b4a8e534834568b756412666d401e1">
+                  <enum>(2)</enum>
+                  <header>Additional remedies</header>
+                  <text>The remedies provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:669/ss:b/p:1" entity-type="act">paragraph (1)</cato:entity-ref> are in addition to and not in lieu of the remedies available under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Communications Act of 1934/t:V" entity-type="act">title V</cato:entity-ref> or any other provision of this Act.</text>
+                </paragraph>
+              </subsection>
+              <subsection commented="no" id="id85ef1fcdccc84742837396cb9a51fa5b">
+                <enum>(c)</enum>
+                <header>Procedures</header>
+                <text>In promulgating regulations to implement this part, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall—</text>
+                <paragraph commented="no" id="ide4bea33058c84dedbaad3f4e187cbc1d">
+                  <enum>(1)</enum>
+                  <text>provide for an expedited review of any complaint made under this part, including a procedural timeline to conclude the review of each complaint not later than 180 days after the date the complaint is filed;</text>
+                </paragraph>
+                <paragraph commented="no" id="idf4a008365d194755919eafe46091282f">
+                  <enum>(2)</enum>
+                  <text>establish procedures for the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> to collect any data, including the right to obtain copies of all contracts and documents reflecting any practice, understanding, arrangement, or agreement alleged to violate this part, as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> requires to carry out this part; and</text>
+                </paragraph>
+                <paragraph commented="no" id="id3c0f9933d4e148ef8a3eacb1a7591440">
+                  <enum>(3)</enum>
+                  <text>provide for penalties to be assessed against any person filing a frivolous complaint under this part.</text>
+                </paragraph>
+              </subsection>
+            </section>
+          </part>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </section>
+      <section id="id4e29e3bbf8524fdb9d8572e5ca50d316">
+        <enum>202.</enum>
+        <header>Federal Communications Commission report on peering</header>
+        <subsection id="id7b8c5bc491394e9a9be20d29a68b9a96">
+          <enum>(a)</enum>
+          <header>In General</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall study—</text>
+          <paragraph id="id93914EDF9E014FE6B4E2B361AB651906">
+            <enum>(1)</enum>
+            <text>the status of peering, transit, and interconnection agreements related to the transport and delivery of content over the Internet and other IP-based transmission paths; and</text>
+          </paragraph>
+          <paragraph id="id66085D406DEF4306B48DFBDA97EA1ABF">
+            <enum>(2)</enum>
+            <text>what impact the agreements under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Consumer Choice in Online Video Act/s:202/ss:a/p:1" entity-type="act">paragraph (1)</cato:entity-ref> or disputes about the agreements under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Consumer Choice in Online Video Act/s:202/ss:a/p:1" entity-type="act">paragraph (1)</cato:entity-ref> have on consumers and competition with respect to online video.</text>
+          </paragraph>
+        </subsection>
+        <subsection id="id4b9d38448d0746fe805973ce52497360">
+          <enum>(b)</enum>
+          <header>Report</header>
+          <text>Not later than 3 years after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall report the findings of the study under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Consumer Choice in Online Video Act/s:202/ss:a" entity-type="act">subsection (a)</cato:entity-ref> to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSCM00" entity-type="committee">Committee on Commerce, Science, and Transportation of the Senate</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HIF00" entity-type="committee">Committee on Energy and Commerce of the House of Representatives</cato:entity-ref>.</text>
+        </subsection>
+      </section>
+    </title>
+    <title id="idAD0F2502F6A14B04A7BE6793E27A19CB" style="OLC">
+      <enum>III</enum>
+      <header>Non-facilities based multichannel video programming distributors</header>
+      <section id="id47C82EFDF2B54EAC8E00C2F85E6972E4">
+        <enum>301.</enum>
+        <header>Non-facilities based multichannel video programming distributors</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref value="Communications Act of 1934/t:VI" entity-type="act">Title VI of the Communications Act of 1934</cato:entity-ref> (<cato:entity-ref value="usc/47/521/etseq" entity-type="uscode">
+              <external-xref legal-doc="usc" parsable-cite="usc/47/521">47 U.S.C. 521 et seq.</external-xref>
+            </cato:entity-ref>)</cato:entity>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Communications Act of 1934/t:II" entity-type="act">title II</cato:entity-ref> of this Act, is further amended by adding at the end the following:</text>
+        <quoted-block display-inline="no-display-inline" id="id55E6C65BB9B244768D0B9E12E6C2A6D9" style="OLC">
+          <part id="id27E774EC928A42EB83880BD190F13D11" style="OLC">
+            <enum>VII</enum>
+            <header>Non-facilities based multichannel video programming distributors</header>
+            <section id="id1D8F0DAF11614FF2AD7AA1794B85F95B">
+              <enum>671.</enum>
+              <header>Definitions</header>
+              <text display-inline="no-display-inline">In this part:</text>
+              <paragraph id="id21B756D363F5452C808ED6A44212C22C">
+                <enum>(1)</enum>
+                <header>Designated market area</header>
+                <text>The term <term>designated market area</term> means a designated market area as determined by Nielsen Media Research or by any successor system of dividing broadcast television licensees into local markets that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> determines is equivalent to the designated market area system created by Nielsen Media Research.</text>
+              </paragraph>
+              <paragraph id="idF625413AD9B548C29564FE0D7A3A195B">
+                <enum>(2)</enum>
+                <header>Local commercial television station</header>
+                <text>The term <term>local commercial television station</term> means, with respect to a subscriber to a non-facilities based multichannel video programming distributor, any full power commercial television station licensed and operating on a channel regularly assigned to a community in the same designated market area as the subscriber.</text>
+              </paragraph>
+              <paragraph id="idFF0CE4107B8E4540A69147703AC4840B">
+                <enum>(3)</enum>
+                <header>Local noncommercial educational television station</header>
+                <text>The term <term>local noncommercial educational television station</term> means, with respect to a subscriber to a non-facilities based multichannel video programming distributor, a television broadcast station that is a noncommercial educational broadcast station (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Communications Act of 1934/s:397" entity-type="act">section 397</cato:entity-ref> of this Act), licensed and operating on a channel regularly assigned to a community in the same designated market area as the subscriber.</text>
+              </paragraph>
+              <paragraph id="idFD18525C67854891927CD5F6F748D8D8">
+                <enum>(4)</enum>
+                <header>Non-local commercial television station</header>
+                <text>The term <term>non-local commercial television station</term> means, with respect to a subscriber to a non-facilities based multichannel video programming distributor, any full power commercial television station licensed and operating on a channel regularly assigned to a community not located in the same designated market area as the subscriber.</text>
+              </paragraph>
+              <paragraph id="id6A5E4EDC8F984D4CBA721D7095725F79">
+                <enum>(5)</enum>
+                <header>Video programming</header>
+                <text>The term <term>video programming</term> means programming provided by, or generally considered comparable to programming provided by, a television broadcast station, whether or not such programming is delivered using a portion of the electromagnetic frequency spectrum.</text>
+              </paragraph>
+            </section>
+            <section id="id766904C3C96E4B52BD108D8CB0B8B354">
+              <enum>672.</enum>
+              <header>Right to elect status</header>
+              <subsection id="idcd43426423854751a2b7ed5ad357ed80">
+                <enum>(a)</enum>
+                <header>In General</header>
+                <text>Any online video distributor that provides programming in a manner reasonably equivalent to a multichannel video programming distributor may elect to be treated as a non-facilities based multichannel video programming distributor under this part.</text>
+              </subsection>
+              <subsection id="idb3f147ddb7b1490c8b88a49361297f13">
+                <enum>(b)</enum>
+                <header>Procedure for Election</header>
+                <text>Not later than 1 year after the date of enactment of the <short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Consumer Choice in Online Video Act" entity-type="act">Consumer Choice in Online Video Act</cato:entity-ref>
+                  </short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall establish the form and procedures for an online video distributor to make the election permitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:672/ss:a" entity-type="act">subsection (a)</cato:entity-ref>.</text>
+              </subsection>
+              <subsection id="ide45f93166346486886aeab0eb52b8c31">
+                <enum>(c)</enum>
+                <header>Definition of Reasonably Equivalent</header>
+                <text>For purposes of this section, the term <term>reasonably equivalent</term>—</text>
+                <paragraph id="id1e0c3eb8445c4ad698f92dbbdee8be8d">
+                  <enum>(1)</enum>
+                  <text>means providing multiple channels of video programming that allow a subscriber to watch that programming in a fashion comparable to the services provided by multichannel video programming distributors, regardless of the means used to transmit the multiple channels of video programming;</text>
+                </paragraph>
+                <paragraph id="id51deeb3ad2414729b0f38ef8f986cd59">
+                  <enum>(2)</enum>
+                  <text>shall be based upon the subscriber experience in using the service provided by the online video distributor, and not the underlying technology used by the online video distributor; and</text>
+                </paragraph>
+                <paragraph id="idfef26e320e5a4845a2a26b69894f7b5b">
+                  <enum>(3)</enum>
+                  <text>may include services that include the ability for a subscriber to record video programming and watch recorded programming at another time if the underlying video programming service being recorded conforms to this subsection.</text>
+                </paragraph>
+              </subsection>
+            </section>
+            <section id="id0C94D7F4F1264727A28CA0CBBE96AD51">
+              <enum>673.</enum>
+              <header>Effect of election</header>
+              <text display-inline="no-display-inline">Any online video distributor that elects to be treated as a non-facilities based multichannel video programming distributor under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:672" entity-type="act">section 672</cato:entity-ref> shall have all of the rights and responsibilities under this part.</text>
+            </section>
+            <section id="id53897DC9D10B45B2BC33ACE37A19C59A">
+              <enum>674.</enum>
+              <header>Federal Communications Commission proceeding</header>
+              <subsection id="id10ABFD264C4F4B138F80B738FE01BA30">
+                <enum>(a)</enum>
+                <header>In general</header>
+                <text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Consumer Choice in Online Video Act" entity-type="act">
+                    <short-title>Consumer Choice in Online Video Act</short-title>
+                  </cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall—</text>
+                <paragraph id="idF1C940A9E756495EAC5589D680F44174">
+                  <enum>(1)</enum>
+                  <text display-inline="yes-display-inline">determine whether any of its rules and regulations applicable to a multichannel video programming distributor shall also be applied, in the public interest, to a non-facilities based multichannel video programming distributor;</text>
+                </paragraph>
+                <paragraph id="id970783A93BD74F93984E3F26F997369C">
+                  <enum>(2)</enum>
+                  <text display-inline="yes-display-inline">require a non-facilities based multichannel video programming distributor to comply with the access to broadcast time requirement under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Communications Act of 1934/s:312/ss:a/p:7" entity-type="act">section 312(a)(7)</cato:entity-ref> of this Act and the use of facilities requirements under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Communications Act of 1934/s:315" entity-type="act">section 315</cato:entity-ref> of this Act;</text>
+                </paragraph>
+                <paragraph id="id5BB6E1C1DE9545AB849061894CC14A84">
+                  <enum>(3)</enum>
+                  <text>consider whether it is in the public interest for the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> to adopt minimum technical quality standards for a non-facilities based multichannel video programming distributor; and</text>
+                </paragraph>
+                <paragraph id="id25E3711710EC4A3DAD81D0D5FBE92169">
+                  <enum>(4)</enum>
+                  <text>adopt any other rules the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> considers necessary to implement this part.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="idB24A00261CA947B98159B96532C14764">
+                <enum>(b)</enum>
+                <header>Limitation</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall not require, as part of its rulemaking under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:674/ss:a" entity-type="act">subsection (a)</cato:entity-ref>, a non-facilities based multichannel video programming distributor to comply with the basic tier and tier buy-through requirement under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Communications Act of 1934/s:623/ss:b/p:7" entity-type="act">section 623(b)(7)</cato:entity-ref>.</text>
+              </subsection>
+            </section>
+            <section id="id6c78e85d8fbe4ff5b1a4220de0e1639c">
+              <enum>675.</enum>
+              <header>Program access for non-facilities based multichannel video programming distributors</header>
+              <subsection id="idbb6ff007d6364f46bd96a99feaefd874">
+                <enum>(a)</enum>
+                <header>In General</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall prohibit practices, understandings, arrangements, and activities, including any exclusive contract for video programming between a multichannel video programming distributor and a video programming vendor or an online video distributor and a video programming vendor that prevents a non-facilities based multichannel video programming distributor from obtaining programming from any video programming vendor.</text>
+              </subsection>
+              <subsection id="id6011454eb0674161a9030d09be916904">
+                <enum>(b)</enum>
+                <header>Specific Actions Prohibited</header>
+                <paragraph id="idfed56928d25d4555a04f9a67ae3def0e">
+                  <enum>(1)</enum>
+                  <header>Material parity restrictions</header>
+                  <text>A multichannel video programming distributor or an online video distributor may not include in any contract with a video programming vendor any provision that requires the multichannel video programming distributor or online video distributor, as applicable, to be treated in material parity with other similarly situated multichannel video programming distributors or online video distributors with regard to pricing or other terms and conditions of carriage of video programming.</text>
+                </paragraph>
+                <paragraph id="idb74067e217b04246b925475d8e18ef59">
+                  <enum>(2)</enum>
+                  <header>Retaliation prohibited</header>
+                  <text>A multichannel video programming distributor or an online video distributor may not retaliate against—</text>
+                  <subparagraph id="iddaf0bf8784964a459e62a3cd12c09b94">
+                    <enum>(A)</enum>
+                    <text>any video programming vendor for making its video programming available to a non-facilities based multichannel video programming distributor;</text>
+                  </subparagraph>
+                  <subparagraph id="idb71c3cef09bb487fb13ff328a27d883b">
+                    <enum>(B)</enum>
+                    <text>any non-facilities based multichannel video programming distributor for obtaining video programming from a video programming vendor; or</text>
+                  </subparagraph>
+                  <subparagraph id="ide519e46c698342ee983b5a073cf0d662">
+                    <enum>(C)</enum>
+                    <text>any entity for exercising a right under this Act.</text>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+            </section>
+            <section id="id2E65D967379D458199ED82B4F74AA36F">
+              <enum>676.</enum>
+              <header>Consumer choice in video programming</header>
+              <subsection id="idB40EFC2C35144A89BF03EE2D38CCEC69">
+                <enum>(a)</enum>
+                <header>In general</header>
+                <text display-inline="yes-display-inline">As part of the rulemaking required by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:674" entity-type="act">section 674</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall determine what, if any, additional steps it should take, in the public interest, to allow a non-facilities based multichannel video programming vendor to offer a subscriber greater choice over the video programming that is part of the subscriber's service.</text>
+              </subsection>
+              <subsection id="id56FB562B237541ECA59D6EDFBF7EE05B">
+                <enum>(b)</enum>
+                <header>Considerations</header>
+                <text display-inline="yes-display-inline">As part of the proceeding under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:676/ss:a" entity-type="act">subsection (a)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall consider whether to limit a video programming vendor's use of certain contractual terms and conditions that disincentivize or impede the ability of a subscriber to have greater choice over the video programming packages or options the subscriber can purchase from a non-facilities based multichannel video programming vendor.</text>
+              </subsection>
+              <subsection id="id62A1E2FBB3CC46B78989A702885E4904">
+                <enum>(c)</enum>
+                <header>Limitation</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall not compel a video programming vendor to sell its video programming to a non-facilities based multichannel video programming vendor as part of any rules adopted under this section.</text>
+              </subsection>
+            </section>
+            <section id="id042df9e78c1e4084a7c26f64d62771ff">
+              <enum>677.</enum>
+              <header>Carriage of commercial broadcast television signals</header>
+              <subsection id="id448477ef10f84b8da3553aeed5d4ccdc">
+                <enum>(a)</enum>
+                <header>In-Market Broadcast Television Signals</header>
+                <paragraph id="id4f429e9119504291a7aa38b3568060ad">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>At the request of a non-facilities based multichannel video programming distributor serving a designated market area, a local commercial television broadcast station located in that designated market area shall enter into negotiations for carriage of its content over that distributor’s system.</text>
+                </paragraph>
+                <paragraph id="idad18b7b05daf480fa2d71bd3df10036f">
+                  <enum>(2)</enum>
+                  <header>Good faith requirements</header>
+                  <text>A local commercial television station subject to the duty to negotiate under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:677/ss:a/p:1" entity-type="act">paragraph (1)</cato:entity-ref> shall engage in good faith negotiations for carriage of its signal in the designated marketed area where the station is located.  The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall define good faith for purposes of this paragraph.</text>
+                </paragraph>
+                <paragraph id="id29f4fdfb62754113abbbe71c606c790f">
+                  <enum>(3)</enum>
+                  <header>Good signal requirements</header>
+                  <text>A local commercial television broadcast station being carried by a non-facilities based multichannel video programming distributor under this subsection shall be responsible for delivering a good quality signal suitable for distribution by that distributor.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="id04ce571762ec4f35b36f8cbdfd8b7887">
+                <enum>(b)</enum>
+                <header>Out-of-Market Broadcast Television Signals</header>
+                <paragraph id="ide1ee8e47018a4b54bd11b6e47df33b6b">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>In addition to any signal carried under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:677/ss:a" entity-type="act">subsection (a)</cato:entity-ref>, a non-facilities based multichannel video programming distributor also may deliver to a subscriber the signal of a non-local commercial broadcast television station under this subsection and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:677/ss:c" entity-type="act">subsection (c)</cato:entity-ref>.</text>
+                </paragraph>
+                <paragraph id="id784d6609e0844ea19b52d27c4744f392">
+                  <enum>(2)</enum>
+                  <header>Deemed significantly viewed</header>
+                  <subparagraph id="idf919e9d001c34b99888664e09fa5a332">
+                    <enum>(A)</enum>
+                    <header>In general</header>
+                    <text>A signal of a non-local commercial broadcast television station delivered by a non-facilities based multichannel video programming distributor under this section shall be deemed to be significantly viewed within the meaning of <external-xref legal-doc="regulation" parsable-cite="cfr/47/76.54">section 76.54</external-xref> of title 47, Code of Federal Regulations.</text>
+                  </subparagraph>
+                  <subparagraph id="idd90dde4fc3ca4ddeb78b82c31557a673">
+                    <enum>(B)</enum>
+                    <header>Exemptions</header>
+                    <text>The following regulations shall not apply to a signal that is eligible to be carried under this subsection:</text>
+                    <clause id="id630224B068854147B5ADE809DCDDE0DB">
+                      <enum>(i)</enum>
+                      <text>
+                        <external-xref legal-doc="regulation" parsable-cite="cfr/47/76.92">Section 76.92</external-xref> of title 47, Code of Federal Regulations (relating to cable network non-duplication).</text>
+                    </clause>
+                    <clause id="idD9C981FE71AE41D9BFA6C03CA19D4612">
+                      <enum>(ii)</enum>
+                      <text>
+                        <external-xref legal-doc="regulation" parsable-cite="cfr/47/76.122">Section 76.122</external-xref> of title 47, Code of Federal Regulations (relating to satellite network non-duplication).</text>
+                    </clause>
+                    <clause id="idC50959AF887F4977BE651BEEA2D42460">
+                      <enum>(iii)</enum>
+                      <text>
+                        <external-xref legal-doc="regulation" parsable-cite="cfr/47/76.101">Section 76.101</external-xref> of title 47, Code of Federal Regulations (relating to cable syndicated program exclusivity).</text>
+                    </clause>
+                    <clause id="id3E3491EA29F941AE8AFD70A2B71FFA08">
+                      <enum>(iv)</enum>
+                      <text>
+                        <external-xref legal-doc="regulation" parsable-cite="cfr/47/76.123">Section 76.123</external-xref> of title 47, Code of Federal Regulations (relating to satellite syndicated program exclusivity).</text>
+                    </clause>
+                    <clause id="idBE93D284204E4EA4A549DA706AF16878">
+                      <enum>(v)</enum>
+                      <text>
+                        <external-xref legal-doc="regulation" parsable-cite="cfr/47/76.111">Section 76.111</external-xref> of title 47, Code of Federal Regulations (relating to cable sports blackout).</text>
+                    </clause>
+                    <clause id="id9F89EF2EABD5478EBBF7A82C0B0C9B46">
+                      <enum>(vi)</enum>
+                      <text>
+                        <external-xref legal-doc="regulation" parsable-cite="cfr/47/76.127">Section 76.127</external-xref> of title 47, Code of Federal Regulations (relating to satellite sports blackout).</text>
+                    </clause>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="id2cacef300dfe43ec9d675dc5a2140df6">
+                  <enum>(3)</enum>
+                  <header>Subscriber preference</header>
+                  <text>In delivering a non-local commercial broadcast television station signal to a subscriber under this subsection, and consistent with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:677/ss:c" entity-type="act">subsection (c)</cato:entity-ref>—</text>
+                  <subparagraph id="idb425863c82484726bf649f1850fc2359">
+                    <enum>(A)</enum>
+                    <text>the non-facilities based multichannel video programming distributor shall provide the subscriber with information regarding all signals that the distributor is capable of making available to the subscriber under this subsection;</text>
+                  </subparagraph>
+                  <subparagraph id="id8ec80fbd15594e5d9c32a2de80d38c6b">
+                    <enum>(B)</enum>
+                    <text>the non-facilities based multichannel video programming distributor shall offer a subscriber the option to choose each non-local commercial television station signal the subscriber wants to receive as part of the subscriber's service; and</text>
+                  </subparagraph>
+                  <subparagraph id="ida0bbd74aab7d44ebaee19ded24a902bc">
+                    <enum>(C)</enum>
+                    <text>if a subscriber does not make a choice under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:677/ss:b/p:3/sp:B" entity-type="act">subparagraph (B)</cato:entity-ref>, the non-facilities based multichannel video programming distributor shall take reasonable steps to deliver to the subscriber the signal of each non-local commercial television station that is closest in proximity.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="idAFD2F67E40EE4C5D9C7DA6C063FDCC40">
+                  <enum>(4)</enum>
+                  <header>Definition of closest in proximity</header>
+                  <subparagraph id="id2BD7D236635B41C6851DE9E9A8528597">
+                    <enum>(A)</enum>
+                    <header>In general</header>
+                    <text>For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:677/ss:b/p:3" entity-type="act">paragraph (3)</cato:entity-ref>, the term <term>closest in proximity</term> means the non-local commercial television station whose community of license is the closest in distance to the subscriber’s place of residence.</text>
+                  </subparagraph>
+                  <subparagraph id="id8110274999FF4BE8AB23B07F113D0A92">
+                    <enum>(B)</enum>
+                    <header>Inclusions</header>
+                    <text>For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:677/ss:b/p:3" entity-type="act">paragraph (3)</cato:entity-ref>, the term <term>closest in proximity</term> includes a non-local commercial television station located in a State other than the State of the subscriber's place of residence.</text>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="id99793caece4c4775ba471cf862cece4a">
+                <enum>(c)</enum>
+                <header>Subscriber Rights</header>
+                <paragraph id="ida5bc837c8e4e41c0b496490582f2c96d">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>Notwithstanding any other provision of law, a subscriber to a non-facilities based multichannel video programming distributor shall be entitled to receive programming from not more than 2 commercial television stations that are affiliates of the same television network and not more than 1 of the affiliates may be located in a designated market area where the subscriber does not reside.</text>
+                </paragraph>
+                <paragraph id="idf08095e108c34fb6a633b5de86109d60">
+                  <enum>(2)</enum>
+                  <header>Local signal not required</header>
+                  <text>A non-facilities based multichannel video programming distributor shall not be required to carry the signal of a local commercial television station under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:677/ss:a" entity-type="act">subsection (a)</cato:entity-ref> as a condition to carrying and delivering to a consumer a non-local commercial broadcast television signal under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:677/ss:b" entity-type="act">subsection (b)</cato:entity-ref>.</text>
+                </paragraph>
+                <paragraph id="id258A9EDC6B2142BCA03063CB7110BA7B">
+                  <enum>(3)</enum>
+                  <header>Mobile platforms</header>
+                  <text>A subscriber shall have the right to view any commercial television station signal provided to that subscriber under this section at any time and on any device, including a mobile device and any other device not permanently located in the subscriber’s place of residence, that a non-facilities based multichannel video programming distributor has made capable of delivering the distributor’s service to that subscriber.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="id67a25b6de0954660b041a81e08b10685">
+                <enum>(d)</enum>
+                <header>Limits in Existing Programming and Affiliation Contracts</header>
+                <paragraph id="id1b01da59ecf241a78d5ee1c8d838ceed">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>It shall be unlawful for any entity selling or otherwise providing video programming to be transmitted by a local or non-local commercial television station to include in any contract, agreement, understanding, or arrangement with that station a limitation on the ability of the station to comply with the requirements of this section.</text>
+                </paragraph>
+                <paragraph id="id932172F848F54BB6A4971A0ADB814E98">
+                  <enum>(2)</enum>
+                  <header>Existing contracts</header>
+                  <subparagraph id="id3001BE610EB94BC98377431723CA63AB">
+                    <enum>(A)</enum>
+                    <header>In general</header>
+                    <text>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:677/ss:d/p:2/sp:B" entity-type="act">subparagraph (B)</cato:entity-ref>, nothing in this section shall affect any contract, understanding, or arrangement that was entered into on or before December 1, 2013.</text>
+                  </subparagraph>
+                  <subparagraph id="idD107D025D6EE41698A97B4C5F80A2398">
+                    <enum>(B)</enum>
+                    <header>Exceptions</header>
+                    <text>No contract, understanding, or arrangement entered into on or before December 1, 2013, that violates this section shall be enforceable by any person after the date that  is 3 years after the date of enactment of the <short-title>
+                        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Consumer Choice in Online Video Act" entity-type="act">Consumer Choice in Online Video Act</cato:entity-ref>
+                      </short-title>.</text>
+                  </subparagraph>
+                  <subparagraph id="idA02D569F7F804172B2D5E164939ACE82">
+                    <enum>(C)</enum>
+                    <header>Limitation on renewals</header>
+                    <text>A contract, understanding, or arrangement that was entered into on or before December 1, 2013, but that is renewed or extended after the date of enactment of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Consumer Choice in Online Video Act" entity-type="act">
+                        <short-title>Consumer Choice in Online Video Act</short-title>
+                      </cato:entity-ref> shall not be exempt under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:677/ss:d/p:2/sp:A" entity-type="act">subparagraph (A)</cato:entity-ref>.</text>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+            </section>
+            <section id="id38399d8817b34bed8b60ec1572bc0f8b">
+              <enum>678.</enum>
+              <header>Carriage of noncommercial, educational, and informational programming</header>
+              <subsection id="id4c17f15be7d144f5855350854a705878">
+                <enum>(a)</enum>
+                <header>Local noncommercial educational television stations</header>
+                <paragraph id="id5ac79bccd64e40bcb66bad722d974c35">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>If a non-facilities based multichannel video programming distributor elects to carry a local commercial broadcast television signal under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:677/ss:a" entity-type="act">section 677(a)</cato:entity-ref>, that non-facilities based multichannel video programming distributor shall carry, upon request, the signal of a local noncommercial educational television station located in the same designated market area of the local commercial television broadcast station being carried under that section.</text>
+                </paragraph>
+                <paragraph id="id6213e25405a5415ab089cde2b6956499">
+                  <enum>(2)</enum>
+                  <header>Carriage only in local market</header>
+                  <subparagraph id="id7123ed5730d74cfb990d99e09455cec3">
+                    <enum>(A)</enum>
+                    <header>In general</header>
+                    <text>A local noncommercial educational television station shall be entitled to carriage only in the designated market area to which that station is assigned.</text>
+                  </subparagraph>
+                  <subparagraph id="idca5e8cd2cc9d49c8b93519485c11be52">
+                    <enum>(B)</enum>
+                    <header>Systems of noncommercial educational broadcast stations</header>
+                    <text>In the case of a system of 3 or more noncommercial educational broadcast stations licensed to a single State, public agency, or political, educational, or special purpose subdivision of a State, the carriage right under this subsection shall apply to any designated market area in the State where that system is located.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="id9d4f8d2452f9498f93aa486699f5d673">
+                  <enum>(3)</enum>
+                  <header>Good signal requirements</header>
+                  <text>A local noncommercial educational television station that requests to be carried by a non-facilities based multichannel video programming distributor under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:678/ss:a/p:1" entity-type="act">paragraph (1)</cato:entity-ref> shall be responsible for delivering a good quality signal suitable for distribution by that distributor.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="idc5461b748a1e409db7ff1773185715e8">
+                <enum>(b)</enum>
+                <header>Channel reservation requirements</header>
+                <paragraph id="id32efff3bc3cb40d38c3bfac908ffa155">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall require a non-facilities based multichannel video programming distributor to reserve a portion of its channel capacity, equal to not less than 3.5 percent or not more than 7 percent, exclusively for noncommercial programming of an educational or informational nature.</text>
+                </paragraph>
+                <paragraph id="id0279fb9584e74554bea40f2dd144fba7">
+                  <enum>(2)</enum>
+                  <header>Use of unused channel capacity</header>
+                  <text>A non-facilities based multichannel video programming distributor may use for any purpose any unused channel capacity required to be reserved under this subsection pending the actual use of that channel capacity for noncommercial programming of an educational or informational nature.</text>
+                </paragraph>
+                <paragraph id="id86aae4fd9469453492f6cdf2b73b6382">
+                  <enum>(3)</enum>
+                  <header>Prices, terms, and conditions</header>
+                  <text>A non-facilities based multichannel video programming distributor shall meet the requirements of this subsection by making channel capacity available to each national educational programming supplier, upon reasonable prices, terms, and conditions, as determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:678/ss:b/p:5" entity-type="act">paragraph (5)</cato:entity-ref>.</text>
+                </paragraph>
+                <paragraph id="id13062451b5cf46ecb6b459847d611fda">
+                  <enum>(4)</enum>
+                  <header>Editorial control</header>
+                  <text>A non-facilities based multichannel video programming distributor may not exercise any editorial control over any video programming provided under this subsection.</text>
+                </paragraph>
+                <paragraph id="id3933a7527046440cb34c39c0b402016c">
+                  <enum>(5)</enum>
+                  <header>Limitations</header>
+                  <text>In determining reasonable prices under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:678/ss:b/p:3" entity-type="act">paragraph (3)</cato:entity-ref>—</text>
+                  <subparagraph id="id3411e980ec3e4de0889864b00cfed6c0">
+                    <enum>(A)</enum>
+                    <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref>, among other considerations, shall consider the nonprofit character of the programming provider and any Federal funds used to support that programming;</text>
+                  </subparagraph>
+                  <subparagraph id="id35b4e0996caf41c7a8581166472f9a14">
+                    <enum>(B)</enum>
+                    <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall not permit the prices to exceed, for any channel capacity made available under this subsection, 50 percent of the total direct costs of making the channel capacity available; and</text>
+                  </subparagraph>
+                  <subparagraph id="id09eaa42e010d452993bd8f892538389d">
+                    <enum>(C)</enum>
+                    <text>in the calculation of total direct costs, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall exclude—</text>
+                    <clause id="id4773141f7e3a476a98401fdb4303aa29">
+                      <enum>(i)</enum>
+                      <text>the marketing costs, general administrative costs, and similar overhead costs of the non-facilities based multichannel video programming distributor; and</text>
+                    </clause>
+                    <clause id="id827b6d7d407c417d951ef9deed337257">
+                      <enum>(ii)</enum>
+                      <text>the revenue that the non-facilities based multichannel video programming distributor might have obtained by making that channel capacity available to a video programming vendor.</text>
+                    </clause>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="idb4abf1c0e1bc4a33838cf264a7b7e225">
+                  <enum>(6)</enum>
+                  <header>Definition of channel capacity</header>
+                  <text>In this section, the term <term>channel capacity</term> means the total number of channels of video programming provided to a subscriber by the non-facilities based multichannel video programming distributor, without regard to whether that non-facilities based multichannel video programming distributor uses a portion of the electromagnetic frequency spectrum to deliver that channel of video programming.</text>
+                </paragraph>
+              </subsection>
+            </section>
+            <section id="id6b42eb5156394839bb427de1a5a49590">
+              <enum>679.</enum>
+              <header>Licensing</header>
+              <subsection id="id65b55d8176e545f08f2643f89a583f0c">
+                <enum>(a)</enum>
+                <header>In General</header>
+                <text>A non-facilities based multichannel video programming distributor that is carrying any broadcast television station signal under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:677" entity-type="act">section 677</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:678" entity-type="act">section 678</cato:entity-ref> shall—</text>
+                <paragraph id="idB0AB0A2ADA1146F7A0FA327244C818EB">
+                  <enum>(1)</enum>
+                  <text>be considered to be a cable system under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/17/111" entity-type="uscode">
+                      <external-xref legal-doc="usc" parsable-cite="usc/17/111">section 111</external-xref> of title 17, United States Code</cato:entity-ref>; and</text>
+                </paragraph>
+                <paragraph id="id9810A522D12445E9B50D971E6941CE5D">
+                  <enum>(2)</enum>
+                  <text>be subject to—</text>
+                  <subparagraph id="ide3516a1af98b426fa026666a3ba503ac">
+                    <enum>(A)</enum>
+                    <text>the statutory licensing requirements set forth in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/17/111/c" entity-type="uscode">sections 111(c)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/17/111/e" entity-type="uscode">111(e)</cato:entity-ref> of that title;</text>
+                  </subparagraph>
+                  <subparagraph id="idb95657c414264169b57f17d7ef71f792">
+                    <enum>(B)</enum>
+                    <text>payment of the fees required by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/17/111/d" entity-type="uscode">section 111(d)</cato:entity-ref> of that title; and</text>
+                  </subparagraph>
+                  <subparagraph id="id211b75035f2c49188eae0513d6025c7a">
+                    <enum>(C)</enum>
+                    <text>the penalties under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/17/111" entity-type="uscode">section 111</cato:entity-ref> of that title for failure to pay the fees required by that section.</text>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="ide76166ecef1244288f87e060637b037d">
+                <enum>(b)</enum>
+                <header>Local service area of a primary transmitter</header>
+                <text>For purposes of the application of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/17/111" entity-type="uscode">
+                    <external-xref legal-doc="usc" parsable-cite="usc/17/111">section 111</external-xref> of title 17, United States Code</cato:entity-ref>, to a non-facilities based multichannel video programming distributor under this section—</text>
+                <paragraph id="id88C02A7A91A745C991A2909FA83B1503">
+                  <enum>(1)</enum>
+                  <text>a local commercial television station’s local service area of a primary transmitter shall consist of the entirety of that station’s designated market area; and</text>
+                </paragraph>
+                <paragraph id="id2062707E8CFC49F7AB1166E8A2D0ECA2">
+                  <enum>(2)</enum>
+                  <text>a local noncommercial educational television station’s local service area of a primary transmitter shall consist of the entirety of that station’s designated market area.</text>
+                </paragraph>
+              </subsection>
+            </section>
+            <section id="id87A93214CDAD4DE8962A1291AE44AF58">
+              <enum>680.</enum>
+              <header>Exclusion from franchise requirements</header>
+              <text display-inline="no-display-inline">A non-facilities based multichannel video programming distributor shall not be subject to local franchising requirements under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Communications Act of 1934/s:621" entity-type="act">section 621</cato:entity-ref> of this Act or otherwise be regulated by any franchising authority.</text>
+            </section>
+            <section id="id184ab8d9a19145fdb18cc63b270b1541">
+              <enum>681.</enum>
+              <header>Privacy protections</header>
+              <subsection id="idb2b9acaf29b142a1a20a5227ac8eb3e2">
+                <enum>(a)</enum>
+                <header>In general</header>
+                <text>A non-facilities based multichannel video programming distributor shall comply with the privacy protections applicable to satellite services as set forth in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Communications Act of 1934/s:338/ss:i" entity-type="act">section 338(i)</cato:entity-ref> of this Act and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission’s</cato:entity-ref> regulations under that section.</text>
+              </subsection>
+              <subsection id="idcc8923edd81b49cd9058c6221d885a3d">
+                <enum>(b)</enum>
+                <header>Penalties</header>
+                <text>Any non-facilities based multichannel video programming distributor that fails to comply with the provisions under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Communications Act of 1934/s:338/ss:i" entity-type="act">section 338(i)</cato:entity-ref> of this Act, and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission’s</cato:entity-ref> regulations under that section, shall be subject to the penalties set forth in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Communications Act of 1934/s:338/ss:i/p:7" entity-type="act">section 338(i)(7)</cato:entity-ref> of this Act.</text>
+              </subsection>
+            </section>
+            <section id="id69030D6804A447DFA7600959E851EF4F">
+              <enum>682.</enum>
+              <header>Consumer equipment</header>
+              <text display-inline="no-display-inline">Not later than 1 year after the date of enactment of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Consumer Choice in Online Video Act" entity-type="act">
+                  <short-title>Consumer Choice in Online Video Act</short-title>
+                </cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall commence a proceeding to consider whether to adopt rules—</text>
+              <paragraph id="id26FC4D3D418E40BA9219B7F41E1ACBC9">
+                <enum>(1)</enum>
+                <text display-inline="yes-display-inline">to establish standards to ensure that services and platforms provided by a non-facilities based multichannel video programming distributor can interconnect and interface with—</text>
+                <subparagraph id="id06D81E21EE684DC89FA9CF2CAAA9C93B">
+                  <enum>(A)</enum>
+                  <text display-inline="yes-display-inline">any Internet-capable television and television receiver; and</text>
+                </subparagraph>
+                <subparagraph id="idE49AB89D36FF495D9B56E2408E492576">
+                  <enum>(B)</enum>
+                  <text>any other Internet-capable consumer electronics equipment that facilitates the viewing of video programming on a television receiver; and</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="id915DFE18B33643A286015DE6159A2214">
+                <enum>(2)</enum>
+                <text>to promote the commercial availability of other devices that will permit a consumer to access non-facilities based multichannel video programming distribution services and platforms over equipment of the consumer's choice.</text>
+              </paragraph>
+            </section>
+            <section id="id71B97714A43D48ACB14F35A0A0CD086B">
+              <enum>683.</enum>
+              <header>Effective competition standard</header>
+              <text display-inline="no-display-inline">The number of households subscribing to a non-facilities based multichannel video programming distributor in a franchise area under this part shall not be considered for purposes of a determination by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> of whether a cable system is subject to effective competition in that franchise area under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Communications Act of 1934/s:623" entity-type="act">section 623</cato:entity-ref> of this Act.</text>
+            </section>
+            <section id="id9fe67331efb54f1d994354ec17b659e7">
+              <enum>684.</enum>
+              <header>Remedies and adjudications</header>
+              <subsection id="id8E0EE64A88EF4F17AB82B022B567D5F0">
+                <enum>(a)</enum>
+                <header>Adjudicatory proceedings</header>
+                <text>Any entity aggrieved by conduct that it alleges constitutes a violation of this part, or the regulations of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> under this part, may commence an adjudicatory proceeding at the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref>.</text>
+              </subsection>
+              <subsection id="id8640C5BA36F6489EB9BEB00B9A040E07">
+                <enum>(b)</enum>
+                <header>Remedies</header>
+                <paragraph id="id6E596453DCDA44C881E0FC641955D8F6">
+                  <enum>(1)</enum>
+                  <header>Remedies authorized</header>
+                  <subparagraph id="id96E94684C67D469394939406170901E9">
+                    <enum>(A)</enum>
+                    <header>Interim remedies</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> may authorize interim remedies during the pendency of a complaint.</text>
+                  </subparagraph>
+                  <subparagraph id="id054055A29CD34C11A296FA06987931FA">
+                    <enum>(B)</enum>
+                    <header>Appropriate remedies</header>
+                    <text>Upon completion of an adjudicatory proceeding under this section, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall have the power to order appropriate remedies, including, if necessary, the power to establish prices, terms, and conditions of sale of programming to, or prices, terms, and conditions of the transport of the content of, the aggrieved entity.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="idFD5AA64FC1F941DDA348C385E54FA282">
+                  <enum>(2)</enum>
+                  <header>Additional remedies</header>
+                  <text>The remedies provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Communications Act of 1934/s:684/ss:b/p:1" entity-type="act">paragraph (1)</cato:entity-ref> are in addition to and not in lieu of the remedies available under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Communications Act of 1934/t:V" entity-type="act">title V</cato:entity-ref> or any other provision of this Act.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="id70F5777F66904480BECF2C8CBEB328EF">
+                <enum>(c)</enum>
+                <header>Procedures</header>
+                <text>In promulgating regulations to implement this part, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> shall—</text>
+                <paragraph id="id018FC7B83B0B48AE934A2647E1BAEF1F">
+                  <enum>(1)</enum>
+                  <text>provide for an expedited review of any complaint made under this part, including a procedural timeline to conclude the review of each complaint not later than 180 days after the date the complaint is filed;</text>
+                </paragraph>
+                <paragraph id="idEA7BC265CA334F3F9A76FE73B107484D">
+                  <enum>(2)</enum>
+                  <text>establish procedures for the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> to collect any data, including the right to obtain copies of all contracts and documents reflecting any practice, understanding, arrangement, or agreement alleged to violate this part, as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Commission</cato:entity-ref> requires to carry out this part; and</text>
+                </paragraph>
+                <paragraph id="id127DB2C358BA4C96B9C94EDE448FB934">
+                  <enum>(3)</enum>
+                  <text>provide for penalties to be assessed against any person filing a frivolous complaint under this part.</text>
+                </paragraph>
+              </subsection>
+            </section>
+          </part>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </section>
+    </title>
+    <title id="id09946926B7D84FF5AE87A7C49104B277" style="OLC">
+      <enum>IV</enum>
+      <header>Miscellaneous</header>
+      <section id="id4BC6580416864DD387E0F39A9E7B0AC9">
+        <enum>401.</enum>
+        <header>Technical and conforming amendments</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref value="Communications Act of 1934/t:VI/s:602/ss:20" entity-type="act">Section 602(20) of title VI of the Communications Act of 1934</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/47/522">
+              <cato:entity-ref value="usc/47/522//20" entity-type="uscode">47 U.S.C. 522(20)</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended by inserting <quote>unless expressly provided otherwise,</quote> before <quote>the term <term>video programming</term> means</quote>.</text>
+      </section>
+      <section id="id4A2A997B5CF945569135AAD27E8506E8">
+        <enum>402.</enum>
+        <header>Provisions as complementary</header>
+        <text display-inline="no-display-inline">The provisions of this Act are in addition to, and shall not affect the operation of, other Federal, State, or local laws or regulations regulating billing for Internet service, online video distribution, or non-facilities based multichannel video programming distributors, except if the provisions of any other law are inconsistent with the provisions of this Act, the provisions of this Act shall be controlling.</text>
+      </section>
+      <section id="idBFDC834ADF4448D8B13DCC3A815736E8">
+        <enum>403.</enum>
+        <header>Applicability of antitrust laws</header>
+        <text display-inline="no-display-inline">Nothing in this Act or the amendments made by this Act
+shall be construed to alter or restrict in any manner the applicability
+of any Federal or State antitrust law.</text>
+      </section>
+      <section id="id6DFEBF80DE1B43788B2F6A6BAB02E3A1">
+        <enum>404.</enum>
+        <header>Severability</header>
+        <text display-inline="no-display-inline">If any provision of this Act, an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held invalid, the remainder of this Act, the amendments made by this Act, and the application of such provision or amendment to any person or circumstance shall not be affected thereby.</text>
+      </section>
+    </title>
+  </legis-body>
+</bill>
+</doc>
