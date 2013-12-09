@@ -1,0 +1,699 @@
+<doc>
+  <docmeta id="113hr3639ih">
+    <bill congress="113" type="hr" number="3639" version="ih"/>
+    <revision size="26392" annotations="0" status="complete" id="4" commit-time="2013-12-05T22:00:49Z" committer="mbohmer" doc="113hr3639ih/4.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HE7471D77794543AFA277F6DA7221B1C0" public-private="public">
+  <metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 3639 IH: Provide for the Common Defense Act of 2013</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-12-03</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+    <congress>113th CONGRESS</congress>
+    <session>1st Session</session>
+    <legis-num>H. R. 3639</legis-num>
+    <current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+    <action>
+      <action-date date="20131203">December 3, 2013</action-date>
+      <action-desc>
+        <sponsor name-id="B001283">Mr. Bridenstine</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HBU00">Committee on the Budget</committee-name>, and in addition to the Committees on <committee-name committee-id="HWM00">Ways and Means</committee-name>, <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, <committee-name committee-id="HAG00">Agriculture</committee-name>, <committee-name committee-id="HGO00">Oversight and Government Reform</committee-name>, and <committee-name committee-id="HHA00">House Administration</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+    </action>
+    <legis-type>A BILL</legis-type>
+    <official-title>To eliminate sequestration for the security-related functions, to be offset through reductions in payments under Medicare, agricultural subsidies, federal retirement, and the application of chained CPI, and for other purposes.</official-title>
+  </form>
+  <legis-body id="H4E14D5760961485CB79C5AC07D782860" style="OLC">
+    <section id="H44A27550A67E4D3484C863D42C271A02" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title; table of contents</header>
+      <subsection id="HCDF55D120C884FDF9D903455A9626718">
+        <enum>(a)</enum>
+        <header>Short title</header>
+        <text display-inline="yes-display-inline">This Act may be cited as the <quote>
+            <short-title>Provide for the Common Defense Act of 2013</short-title>
+          </quote>.</text>
+      </subsection>
+      <subsection id="HC45ABD2FD5684FDD878366E3083CD37C">
+        <enum>(b)</enum>
+        <header>Table of contents</header>
+        <text>The table of contents of this Act is as follows:</text>
+        <toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+          <toc-entry idref="H44A27550A67E4D3484C863D42C271A02" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+          <toc-entry idref="H9CC6C61971784F5783D20B40B3E1B1FD" level="title">Title I—Elimination of sequestration for revised security category</toc-entry>
+          <toc-entry idref="H7211776372CC400DBC94861E668FC055" level="section">Sec. 101. Elimination of 251A reductions for revised security category in fiscal years 2014 and 2015.</toc-entry>
+          <toc-entry idref="H2400952B14EF4AE39EF20EF4EF27644C" level="title">Title II—Offsetting Payment Changes </toc-entry>
+          <toc-entry idref="HBE2945863E624C1E907DE3D5C249F693" level="subtitle">Subtitle A—Medicare</toc-entry>
+          <toc-entry idref="H2E83A851E8BC44719B0DCDACBD6B3EB6" level="section">Sec. 201. Adjustments to calculation of Medicare part B and part D premiums for high-income beneficiaries.</toc-entry>
+          <toc-entry idref="H86A1954EEFDA4D13B7B142557FBA08FB" level="section">Sec. 202. Increase in part B deductible for new enrollees.</toc-entry>
+          <toc-entry idref="H33A8A55CF7564274B2554E88CE89855C" level="subtitle">Subtitle B—Agriculture</toc-entry>
+          <toc-entry idref="H0457DEB510184FBC9D3F5B5D1F5196EF" level="section">Sec. 211. Cap on overall rate of return for crop insurance providers.</toc-entry>
+          <toc-entry idref="HEC3BA201970B46719C0F98DBC2CDF3F7" level="section">Sec. 212. Cap on reimbursements for administrative and operating expenses of crop insurance providers.</toc-entry>
+          <toc-entry idref="H2D4055A7486B4154A36892B8122696DF" level="section">Sec. 213. Reduction in share of crop insurance premium paid by Federal Crop Insurance Corporation.</toc-entry>
+          <toc-entry idref="HA45373D439ED4E64A5C2677C4ABD09EB" level="subtitle">Subtitle C—Federal Retirement </toc-entry>
+          <toc-entry idref="HFA020515939F48CCB7E604E4EFA2F30C" level="section">Sec. 221. Retirement contributions.</toc-entry>
+          <toc-entry idref="HD84BF90198194751A1DE02914B09FCF2" level="section">Sec. 222. Annuity supplement.</toc-entry>
+          <toc-entry idref="H107851E683C648F5A250E67EB65B3E71" level="section">Sec. 223. Use of Chained Consumer Price Index.</toc-entry>
+          <toc-entry idref="HCFBA39423F3642C7B7813EA120FF769C" level="subtitle">Subtitle D—Chained CPI</toc-entry>
+          <toc-entry idref="H5BDB6B5ED1A8441FA14005BE590906DF" level="section">Sec. 231. Change in index used to calculate Social Security cost-of-living adjustments.</toc-entry>
+        </toc>
+      </subsection>
+    </section>
+    <title id="H9CC6C61971784F5783D20B40B3E1B1FD">
+      <enum>I</enum>
+      <header>Elimination of sequestration for revised security category</header>
+      <section commented="no" id="H7211776372CC400DBC94861E668FC055">
+        <enum>101.</enum>
+        <header>Elimination of 251A reductions for revised security category in fiscal years 2014 and 2015</header>
+        <subsection id="HE2A202C77CA64A9C9170A491535D7A77">
+          <enum>(a)</enum>
+          <header>Elimination of the adjustment under section 251A for fiscal years 2014 and 2015</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Balanced Budget and Emergency Deficit Control Act of 1985/s:251A">Section 251A of the Balanced Budget and Emergency Deficit Control Act of 1985</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/2/901a">
+              <cato:entity-ref entity-type="uscode" value="usc/2/901a">2 U.S.C. 901a</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended—</text>
+          <paragraph id="H491CCFBCEE354D6EB95F3E66C7B98064">
+            <enum>(1)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Balanced Budget and Emergency Deficit Control Act of 1985/s:215A/p:7/sp:B">paragraphs (7)(B)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Balanced Budget and Emergency Deficit Control Act of 1985/s:215A/p:8">(8)</cato:entity-ref>, by striking <quote>On the date</quote> in each instance and inserting <quote>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Balanced Budget and Emergency Deficit Control Act of 1985/s:215A/p:12">paragraph (12)</cato:entity-ref>, on the date</quote>; and</text>
+          </paragraph>
+          <paragraph id="H1100EAF1FD7742F8B96B7C652447B2E5">
+            <enum>(2)</enum>
+            <text>by adding at the end the following new paragraph:</text>
+            <quoted-block display-inline="no-display-inline" id="H40FA8060D8794862B9014030E00ECC1B" style="OLC">
+              <paragraph id="H7B06AAC64D894B07804E179536916153">
+                <enum>(12)</enum>
+                <header>No reductions for revised security category in fiscal years 2014 and 2015</header>
+                <text display-inline="yes-display-inline">
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Balanced Budget and Emergency Deficit Control Act of 1985/s:215A/p:7/sp:B">Paragraphs (7)(B)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Balanced Budget and Emergency Deficit Control Act of 1985/s:215A/p:8">(8)</cato:entity-ref> shall have no force or effect for fiscal years 2014 and 2015 with respect to the revised security category.</text>
+              </paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+        </subsection>
+        <subsection id="H1070E847B8AA4DE793459D9C42D6D5F5">
+          <enum>(b)</enum>
+          <header>Discretionary spending limits for the revised security category in fiscal years 2014 and 2015</header>
+          <text display-inline="yes-display-inline">For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Balanced Budget and Emergency Deficit Control Act of 1985/s:251/ss:c">section 251(c) of the Balanced Budget and Emergency Deficit Control Act of 1985</cato:entity-ref> (as modified by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Balanced Budget and Emergency Deficit Control Act of 1985/s:215A/p:2">section 251A(2) of such Act</cato:entity-ref>), for fiscal years 2014 and 2015, the discretionary spending limit for the revised security category in each such fiscal year shall be $552,000,000,000 and $566,000,000,000, respectively.</text>
+        </subsection>
+      </section>
+    </title>
+    <title id="H2400952B14EF4AE39EF20EF4EF27644C">
+      <enum>II</enum>
+      <header>Offsetting Payment Changes </header>
+      <subtitle id="HBE2945863E624C1E907DE3D5C249F693">
+        <enum>A</enum>
+        <header>Medicare</header>
+        <section id="H2E83A851E8BC44719B0DCDACBD6B3EB6" section-type="subsequent-section">
+          <enum>201.</enum>
+          <header>Adjustments to calculation of Medicare part B and part D premiums for high-income beneficiaries</header>
+          <subsection id="H54F4787BA82E4BE2B8295B2EADB6C855">
+            <enum>(a)</enum>
+            <header>Increase in applicable percentage used To calculate premiums</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:1839/ss:i/p:3/sp:C/cl:i">Section 1839(i)(3)(C)(i) of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395r">
+                <cato:entity-ref entity-type="uscode" value="usc/42/1395r/i/3/C/i">42 U.S.C. 1395r(i)(3)(C)(i)</cato:entity-ref>
+              </external-xref>)</cato:entity> is amended—</text>
+            <paragraph id="H6F7866C03EF24AC2851DC1F20FEC7091">
+              <enum>(1)</enum>
+              <text>by inserting after <quote>
+                  <header-in-text level="clause" style="OLC">In general.—</header-in-text>
+                </quote> the following:</text>
+              <quoted-block display-inline="no-display-inline" id="HD4D85B871135492391565E5FCE89C7EC" style="OLC">
+                <subclause id="H00DE8F8623944002B95D9CA40AB13863">
+                  <enum>(I)</enum>
+                  <header>Years before 2017</header>
+                  <text display-inline="yes-display-inline">For calendar years prior to 2017:</text>
+                </subclause>
+                <after-quoted-block>; and</after-quoted-block>
+              </quoted-block>
+            </paragraph>
+            <paragraph commented="no" id="HD2B10B6E7A234D34A32025AAEBEBDEF0">
+              <enum>(2)</enum>
+              <text>by adding at the end the following new subclause:</text>
+              <quoted-block display-inline="no-display-inline" id="H8AB7F5934359405AA5A20E8CD91565AF" style="OLC">
+                <subclause commented="no" id="H9FD6EB94F1EA4FD7B0EA8EA81DF55630" indent="up1">
+                  <enum>(II)</enum>
+                  <header>2017 and subsequent years</header>
+                  <text display-inline="yes-display-inline">For calendar year 2017 and each subsequent calendar year:</text>
+                  <table align-to-level="section" blank-lines-before="1" colsep="0" frame="none" line-rules="no-gen" rowsep="0" rule-weights="0.0.0.0.0.0" subformat="S6211" table-template-name="Flush/hang, 1 text, 1 num, bold hds" table-type="Leaderwork">
+                    <tgroup cols="2" rowsep="0">
+                      <colspec coldef="txt" colname="column1" colwidth="297.75pt" min-data-value="55"/>
+                      <colspec coldef="fig" colname="column2" colwidth="183.00pt" min-data-value="5"/>
+                      <thead>
+                        <row>
+                          <entry align="left" colname="column1" morerows="0" namest="column1" rowsep="0">
+                            <bold>If the modified adjusted</bold>
+                          </entry>
+                          <entry align="right" colname="column2" morerows="0" namest="column2" rowsep="0">
+                            <bold>The applicable</bold>
+                          </entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="column1" morerows="0" namest="column1" rowsep="0">
+                            <bold> 
+						gross income is:</bold>
+                          </entry>
+                          <entry align="right" colname="column2" morerows="0" namest="column2" rowsep="0">
+                            <bold>percentage is:</bold>
+                          </entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr">More than $85,000 but not more than $107,000</entry>
+                          <entry align="right" colname="column2" leader-modify="clr-ldr" rowsep="0">40</entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr">More than $107,000 but not more than $160,000</entry>
+                          <entry align="right" colname="column2" leader-modify="clr-ldr" rowsep="0">55</entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr">More than $160,000 but not more than $214,000</entry>
+                          <entry align="right" colname="column2" leader-modify="clr-ldr" rowsep="0">70</entry>
+                        </row>
+                        <row>
+                          <entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr">More than $214,000</entry>
+                          <entry align="right" colname="column2" leader-modify="clr-ldr" rowsep="0">90.</entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                  </table>
+                </subclause>
+                <after-quoted-block>.</after-quoted-block>
+              </quoted-block>
+            </paragraph>
+          </subsection>
+          <subsection id="HDA2D26C9A4214D5BB9DAA78BC056A0B7">
+            <enum>(b)</enum>
+            <header>Temporary adjustment to income thresholds used To calculate premiums</header>
+            <paragraph id="HE808E46E906243A3A218450655AA8DFF">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text>
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Social Security Act/s:1839/ss:i/p:6">Section 1839(i)(6) of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395r">
+                  <cato:entity-ref entity-type="uscode" value="usc/42/1395r/i/6">42 U.S.C. 1395r(i)(6)</cato:entity-ref>
+                </external-xref>)</cato:entity> is amended in the matter preceding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1839/ss:i/p:6/sp:A">subparagraph (A)</cato:entity-ref> by striking <quote>December 31, 2019</quote> and inserting <quote>December 31 of the year after 2019 that is the first year after the year in which at least 25 percent of individuals enrolled under this part are subject to a reduction under this subsection to the monthly amount of the premium subsidy applicable to the premium under this section.</quote>.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="H2B0A3E09B10F4D60BDE867E8F3CC7DD5">
+              <enum>(2)</enum>
+              <header>Application of inflation adjustment</header>
+              <text display-inline="yes-display-inline">
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Social Security Act/s:1839/ss:i/p:5">Section 1839(i)(5) of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395r">
+                  <cato:entity-ref entity-type="uscode" value="usc/42/1395r/i/5">42 U.S.C. 1395r(i)(5)</cato:entity-ref>
+                </external-xref>)</cato:entity> is amended—</text>
+              <subparagraph commented="no" id="H6822A749B0574FACB55428A686ED5262">
+                <enum>(A)</enum>
+                <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1839/ss:i/p:5/sp:A">subparagraph (A)</cato:entity-ref>, by striking <quote>In the case</quote> and inserting <quote>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1839/ss:i/p:5/sp:C">subparagraph (C)</cato:entity-ref>, in the case</quote>; and</text>
+              </subparagraph>
+              <subparagraph commented="no" id="H2A8636BC6F6D4CB890AD33D7F5073F12">
+                <enum>(B)</enum>
+                <text>by adding at the end the following new subparagraph:</text>
+                <quoted-block display-inline="no-display-inline" id="H3C46B0FBEDC74F30B445695BD403EBD7" style="OLC">
+                  <subparagraph commented="no" id="H2963D4DC2B46489D9DA814AB928901BF">
+                    <enum>(C)</enum>
+                    <header>Treatment of years after temporary adjustment period</header>
+                    <text display-inline="yes-display-inline">In applying <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1839/ss:i/p:5/sp:A">subparagraph (A)</cato:entity-ref> for the first year beginning after the period described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1839/ss:i/p:6">paragraph (6</cato:entity-ref>) and for each subsequent year, the 12-month period ending with August 2006 described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1839/ss:i/p:5/sp:A/cl:ii">clause (ii) of such subparagraph</cato:entity-ref> shall be deemed to be the 12-month period ending with August of the last year of such period described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1839/ss:i/p:6">paragraph (6)</cato:entity-ref>.</text>
+                  </subparagraph>
+                  <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+        <section id="H86A1954EEFDA4D13B7B142557FBA08FB">
+          <enum>202.</enum>
+          <header>Increase in part B deductible for new enrollees</header>
+          <text display-inline="no-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Social Security Act/s:1833">Section 1833 of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1395l">
+              <cato:entity-ref entity-type="uscode" value="usc/42/1395l">42 U.S.C. 1395l</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended—</text>
+          <paragraph id="HBE4133D1750144228FA2BCAADEB642BC">
+            <enum>(1)</enum>
+            <text>in the first sentence of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1833/ss:b">subsection (b)</cato:entity-ref>, by inserting <quote>(subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1833/ss:z">subsection (z)</cato:entity-ref>)</quote> after <quote>for a subsequent year</quote>; and</text>
+          </paragraph>
+          <paragraph id="HFC3A022DF6F54D4A915E7A9CBAEEE285">
+            <enum>(2)</enum>
+            <text>by adding at the end the following:</text>
+            <quoted-block display-inline="no-display-inline" id="H68130F849E1D4158ADD928B088EA80AB" style="OLC">
+              <subsection id="H85136E371E724A0A99263B3071412FFC">
+                <enum>(z)</enum>
+                <header>Higher deductible for new enrollees</header>
+                <text display-inline="yes-display-inline">In the case of an individual who is not enrolled under this part before January 1, 2017, the amount of the deductible under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:1833/ss:b">subsection (b)</cato:entity-ref>—</text>
+                <paragraph id="H5494A0D0A89246FEAD2DD9D8A8C1B1DE">
+                  <enum>(1)</enum>
+                  <text>for 2017 shall be the amount otherwise determined under such subsection for 2017 increased by $25;</text>
+                </paragraph>
+                <paragraph id="H3B2D17CD152C4895855E3A73B203C426">
+                  <enum>(2)</enum>
+                  <text>for 2018 shall be the amount otherwise determined under such subsection for 2018, taking into account the application of the previous paragraph;</text>
+                </paragraph>
+                <paragraph id="HD20FC4C76BFA4C5890616A9B06D3FD83">
+                  <enum>(3)</enum>
+                  <text>for 2019 shall be the amount otherwise determined under such subsection for 2019, taking into the application of the previous paragraphs, , increased by $25;</text>
+                </paragraph>
+                <paragraph id="HF23B77865E1C45FD83D93DC55DF3AD43">
+                  <enum>(4)</enum>
+                  <text display-inline="yes-display-inline">for 2020 shall be the amount otherwise determined under such subsection for 2020, taking into account the application of the previous paragraphs, increased by $25;</text>
+                </paragraph>
+                <paragraph id="HE287D33D16F940B7A40CF226178948B7">
+                  <enum>(5)</enum>
+                  <text>for 2021 shall be the amount otherwise determined under such subsection for 2021, taking into account the application of the previous paragraphs, increased by $25; and</text>
+                </paragraph>
+                <paragraph id="H034F86BE8F464682810857FDC9DFB7DB">
+                  <enum>(6)</enum>
+                  <text>for any subsequent year shall be the amount otherwise determined under such subsection for such year, taking into account the application of the previous paragraphs and this paragraph for previous years.</text>
+                </paragraph>
+              </subsection>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+        </section>
+      </subtitle>
+      <subtitle id="H33A8A55CF7564274B2554E88CE89855C">
+        <enum>B</enum>
+        <header>Agriculture</header>
+        <section id="H0457DEB510184FBC9D3F5B5D1F5196EF">
+          <enum>211.</enum>
+          <header>Cap on overall rate of return for crop insurance providers</header>
+          <text display-inline="no-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Federal Crop Insurance Act/s:508/ss:k">Section 508(k) of the Federal Crop Insurance Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/7/1508">
+              <cato:entity-ref entity-type="uscode" value="usc/7/1508/k">7 U.S.C. 1508(k)</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended—</text>
+          <paragraph id="HD5AD1F6552C34A0F913DED6047F7D036">
+            <enum>(1)</enum>
+            <text>by designating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Crop Insurance Act/s:508/ss:k/p:3">paragraph (3)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Crop Insurance Act/s:508/ss:k/p:1/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> (and adjusting the margin two ems to the right);</text>
+          </paragraph>
+          <paragraph id="H8CA696938C854175BF34BE440BDD6C59">
+            <enum>(2)</enum>
+            <text>by inserting before <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Crop Insurance Act/s:508/ss:k/p:1/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> (as so designated) the following:</text>
+            <quoted-block display-inline="no-display-inline" id="HA14507E84C0F4B29B730F262D1AA413A" style="OLC">
+              <paragraph id="H158ED75A40714A5297BD7F82DDC26973">
+                <enum>(3)</enum>
+                <header>Risk</header>
+              </paragraph>
+              <after-quoted-block>; and</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+          <paragraph id="H983E50D13BC04AE8BB84BA509B777B4B">
+            <enum>(3)</enum>
+            <text>by adding at the end the following new subparagraph:</text>
+            <quoted-block id="H5C1391FA33C84A1083CBEED11B7E6008" style="OLC">
+              <subparagraph id="HC90781940CA945B2A3D805AA9D2255C5">
+                <enum>(B)</enum>
+                <header>Cap on overall rate of return</header>
+                <text>The target rate of return for all the companies combined for the 2014 and subsequent reinsurance years shall be 12.8 percent of retained premium.</text>
+              </subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+        </section>
+        <section id="HEC3BA201970B46719C0F98DBC2CDF3F7">
+          <enum>212.</enum>
+          <header>Cap on reimbursements for administrative and operating expenses of crop insurance providers</header>
+          <text display-inline="no-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Federal Crop Insurance Act/s:508/ss:k/p:4">Section 508(k)(4) of the Federal Crop Insurance Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/7/1508">
+              <cato:entity-ref entity-type="uscode" value="usc/7/1508/k/4">7 U.S.C. 1508(k)(4)</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended by adding at the end the following new subparagraph:</text>
+          <quoted-block display-inline="no-display-inline" id="H9FAB11805AFB4AEC9EFC78C9930D5A4F" style="OLC">
+            <subparagraph id="H4CF3F2EEC81D4F0B88439FF5FB84B0EB">
+              <enum>(G)</enum>
+              <header>Additional cap on reimbursements</header>
+              <text display-inline="yes-display-inline">Notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Crop Insurance Act/s:508/ss:k/p:4/sp:A..F">subparagraphs (A) through (F)</cato:entity-ref>, total reimbursements for administrative and operating costs for the 2014 insurance year for all types of policies and plans of insurance shall not exceed $935,000,000. For each subsequent insurance year, the dollar amount in effect pursuant to the preceding sentence shall be increased by the same inflation factor as established for the administrative and operating costs cap in the 2011 Standard Reinsurance Agreement.</text>
+            </subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </section>
+        <section id="H2D4055A7486B4154A36892B8122696DF">
+          <enum>213.</enum>
+          <header>Reduction in share of crop insurance premium paid by Federal Crop Insurance Corporation</header>
+          <subsection id="H91B95887F1CC4B7CABF01E227DF134B0">
+            <enum>(a)</enum>
+            <header>Catastrophic risk protection</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Federal Crop Insurance Act/s:508/ss:d/p:2/sp:A">Section 508(d)(2)(A) of the Federal Crop Insurance Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/7/1508">
+                <cato:entity-ref entity-type="uscode" value="usc/7/1508/d/2/A">7 U.S.C. 1508(d)(2)(A)</cato:entity-ref>
+              </external-xref>)</cato:entity> is amended by striking <quote>sufficient to cover anticipated losses and a reasonable reserve</quote> and inserting <quote>for all crops for which catastrophic risk protection coverage is available shall be reduced by the percentage equal to the difference between the average loss ratio for such crop and 100 percent, plus a reasonable reserve</quote>.</text>
+          </subsection>
+          <subsection id="HC7D6B2BB083045168A69DB95C6FA74B8">
+            <enum>(b)</enum>
+            <header>Additional coverage</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Federal Crop Insurance Act/s:508/ss:e/p:2">Section 508(e)(2) of the Federal Crop Insurance Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/7/1508">
+                <cato:entity-ref entity-type="uscode" value="usc/7/1508/e/2">7 U.S.C. 1508(e)(2)</cato:entity-ref>
+              </external-xref>)</cato:entity> is amended—</text>
+            <paragraph id="HEF3AD022185F46439D433EAC79709FB4">
+              <enum>(1)</enum>
+              <text display-inline="yes-display-inline">in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Crop Insurance Act/s:508/ss:e/p:2/sp:B/cl:i">subparagraph (B)(i)</cato:entity-ref>, by striking <quote>67</quote> and inserting <quote>64</quote>;</text>
+            </paragraph>
+            <paragraph id="HD272D07BA25544619D6C8121F093F1F0">
+              <enum>(2)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Crop Insurance Act/s:508/ss:e/p:2/sp:C/cl:i">subparagraph (C)(i)</cato:entity-ref>, by striking <quote>64</quote> and inserting <quote>61</quote>;</text>
+            </paragraph>
+            <paragraph id="H36C2AD941D574416B64343047AA044C5">
+              <enum>(3)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Crop Insurance Act/s:508/ss:e/p:2/sp:D/cl:i">subparagraph (D)(i)</cato:entity-ref>, by striking <quote>59</quote> and inserting <quote>56</quote>; and</text>
+            </paragraph>
+            <paragraph id="H4AA20CDB554E482BA727FA039A0675F0">
+              <enum>(4)</enum>
+              <text display-inline="yes-display-inline">in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Crop Insurance Act/s:508/ss:e/p:2/sp:E/cl:i">subparagraph (E)(i)</cato:entity-ref>, by striking <quote>55</quote> and inserting <quote>52</quote>.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="HCA7FDABFF7B44867BD7D82991D19288F">
+            <enum>(c)</enum>
+            <header>Enterprise and whole farm units</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Federal Crop Insurance Act/s:508/ss:e/p:5/sp:C">Section 508(e)(5)(C) of the Federal Crop Insurance Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/7/1508">
+                <cato:entity-ref entity-type="uscode" value="usc/7/1508/e/5/C">7 U.S.C. 1508(e)(5)(C)</cato:entity-ref>
+              </external-xref>)</cato:entity> is amended by striking <quote>80</quote> and inserting <quote>77</quote>.</text>
+          </subsection>
+          <subsection id="HF1187294B5C846EAB0DCBD2E4FDBEB6E">
+            <enum>(d)</enum>
+            <header>Area revenue plans</header>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Federal Crop Insurance Act/s:508/ss:e/p:6">Section 508(e)(6) of the Federal Crop Insurance Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/7/1508">
+                <cato:entity-ref entity-type="uscode" value="usc/7/1508/e/6">7 U.S.C. 1508(e)(6)</cato:entity-ref>
+              </external-xref>)</cato:entity> is amended—</text>
+            <paragraph id="H0663A0C243094FA5BA4CF1069D53706E">
+              <enum>(1)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Crop Insurance Act/s:508/ss:e/p:6/sp:A/cl:i">subparagraph (A)(i)</cato:entity-ref>, by striking <quote>59</quote> and inserting <quote>56</quote>; and</text>
+            </paragraph>
+            <paragraph id="HF32FF88344CB43A4B05A4F9523D1A26D">
+              <enum>(2)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Crop Insurance Act/s:508/ss:e/p:6/sp:B/cl:i">subparagraph (B)(i)</cato:entity-ref>, by striking <quote>55</quote> and inserting <quote>52</quote>.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="HD7C04E7EB46C40A383EF1D42CB387207">
+            <enum>(e)</enum>
+            <header>Area yield plans</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Federal Crop Insurance Act/s:508/ss:e/p:7">Section 508(e)(7) of the Federal Crop Insurance Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/7/1508">
+                <cato:entity-ref entity-type="uscode" value="usc/7/1508">7 U.S.C. 1508</cato:entity-ref>
+              </external-xref>)</cato:entity> is amended—</text>
+            <paragraph id="H94BD9C034D9E40898BB7959237316934">
+              <enum>(1)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Crop Insurance Act/s:508/ss:e/p:7/sp:A/cl:i">subparagraph (A)(i)</cato:entity-ref>, by striking <quote>59</quote> and inserting <quote>56</quote>;</text>
+            </paragraph>
+            <paragraph id="HEC7BEA9095EF44D0B3FD9D570294FC65">
+              <enum>(2)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Crop Insurance Act/s:508/ss:e/p:7/sp:B/cl:i">subparagraph (B)(i)</cato:entity-ref>, by striking <quote>55</quote> and inserting <quote>52</quote>; and</text>
+            </paragraph>
+            <paragraph id="HBCA52F84B89645EAB627EA427B9B2826">
+              <enum>(3)</enum>
+              <text display-inline="yes-display-inline">in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Crop Insurance Act/s:508/ss:e/p:7/sp:C/cl:i">subparagraph (C)(i)</cato:entity-ref>, by striking <quote>51</quote> and inserting <quote>48</quote>.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="HC0C46087D0CA4427ADDBFA8F9F0C50A8">
+            <enum>(f)</enum>
+            <header>Effective date</header>
+            <text display-inline="yes-display-inline">The amendments made by this section shall apply with respect to the first contract change date for a contract under the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Crop Insurance Act">Federal Crop Insurance Act</cato:entity-ref> occurring after the date of the enactment of this Act.</text>
+          </subsection>
+        </section>
+      </subtitle>
+      <subtitle id="HA45373D439ED4E64A5C2677C4ABD09EB">
+        <enum>C</enum>
+        <header>Federal Retirement </header>
+        <section id="HFA020515939F48CCB7E604E4EFA2F30C">
+          <enum>221.</enum>
+          <header>Retirement contributions</header>
+          <subsection id="H6B422D6ECB7F41C5AEF645ADB98326AC">
+            <enum>(a)</enum>
+            <header>Civil Service Retirement System</header>
+            <paragraph id="H40749473E4A9461BB129F9F33095FFF6">
+              <enum>(1)</enum>
+              <header>Individual contributions</header>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8334/c">
+                  <external-xref legal-doc="usc" parsable-cite="usc/5/8334">Section 8334(c)</external-xref> of title 5, United States Code</cato:entity-ref>, is amended—</text>
+              <subparagraph id="HD67F7A36C4004862A67F7E44C65CE479">
+                <enum>(A)</enum>
+                <text>by striking <quote>(c) Each</quote> and inserting <quote>(c)(1) Each</quote>; and</text>
+              </subparagraph>
+              <subparagraph id="H93B4507638124167996D3D582B33B438">
+                <enum>(B)</enum>
+                <text>by adding at the end the following:</text>
+                <quoted-block id="H549DE6CB34D8492FBE2D5BC23FB3EAE6" style="OLC">
+                  <paragraph id="H16E2371C5CDB429D8D4020629B4CB332" indent="up1">
+                    <enum>(2)</enum>
+                    <text>Notwithstanding any other provision of this subsection, the applicable percentage of basic pay under this subsection for civilian service by an employee or Member shall, for purposes of computing an amount—</text>
+                    <subparagraph id="H5AEB0D6457214982A685915619CB652C">
+                      <enum>(A)</enum>
+                      <text>for a period in calendar year 2014, be equal to the applicable percentage under this subsection for calendar year 2013 plus an additional 0.4 percentage point;</text>
+                    </subparagraph>
+                    <subparagraph id="H8EB17921604340B2904C0955CF1DD123">
+                      <enum>(B)</enum>
+                      <text>for a period in calendar year 2015, be equal to the applicable percentage under this subsection for calendar year 2014 (as determined under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8334/c/2/A" proposed="true">subparagraph (A)</cato:entity-ref>) plus an additional 0.4 percentage point;</text>
+                    </subparagraph>
+                    <subparagraph id="H52F5770B61A14579A60CA4935D8CB37C">
+                      <enum>(C)</enum>
+                      <text display-inline="yes-display-inline">for a period in calendar year 2016, be equal to the applicable percentage under this subsection for calendar year 2015 (as determined under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8334/c/2/B" proposed="true">subparagraph (B)</cato:entity-ref>) plus an additional 0.4 percentage point; and</text>
+                    </subparagraph>
+                    <subparagraph id="H0B3973C0890E48E88851A26DDF3F7DB2">
+                      <enum>(D)</enum>
+                      <text>for a period in any calendar year after 2016, be equal to the applicable percentage under this subsection for calendar year 2015 (as determined under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8334/c/2/C" proposed="true">subparagraph (C)</cato:entity-ref>).</text>
+                    </subparagraph>
+                  </paragraph>
+                  <paragraph commented="no" id="H920E4008C824435E889384D8709DBE77" indent="up1">
+                    <enum>(3)</enum>
+                    <subparagraph commented="no" display-inline="yes-display-inline" id="H3D70A8CCA0614DEDA8409EBC3C0DDEB6">
+                      <enum>(A)</enum>
+                      <text>Notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8334/a/2">subsection (a)(2)</cato:entity-ref>, any excess contributions under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8334/a/1/A">subsection (a)(1)(A)</cato:entity-ref> (including the portion of any deposit under this subsection allocable to excess contributions) shall, if made by an employee of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref> or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Postal Regulatory Commission</cato:entity-ref>, be deposited to the credit of the Postal Service Fund under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/39/2003">
+                          <external-xref legal-doc="usc" parsable-cite="usc/39/2003">section 2003</external-xref> of title 39</cato:entity-ref>, rather than the Civil Service Retirement and Disability Fund.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" id="HABEAB1CB5809410B8F34662B315364E0" indent="up1">
+                      <enum>(B)</enum>
+                      <text>For purposes of this paragraph, the term <term>excess contributions</term>, as used with respect to contributions made under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8334/a/1/A">subsection (a)(1)(A)</cato:entity-ref> by an employee of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1800">United States Postal Service</cato:entity-ref> or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1861">Postal Regulatory Commission</cato:entity-ref>, means the amount by which—</text>
+                      <clause commented="no" id="H3251082A47CB4EE4A488385EA294820D">
+                        <enum>(i)</enum>
+                        <text>deductions from basic pay of such employee which are made under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8334/a/1/A">subsection (a)(1)(A)</cato:entity-ref>, exceed</text>
+                      </clause>
+                      <clause commented="no" id="H13F21B345F2B4C86B6B79DEB47117B31">
+                        <enum>(ii)</enum>
+                        <text>deductions from basic pay of such employee which would have been so made if <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8334/c/2" proposed="true">paragraph (2)</cato:entity-ref> had not been enacted.</text>
+                      </clause>
+                    </subparagraph>
+                  </paragraph>
+                  <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="HD275633F45BE4363B72AA7FE30684B2C">
+              <enum>(2)</enum>
+              <header>Government contributions</header>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8334/a/1/B">
+                  <external-xref legal-doc="usc" parsable-cite="usc/5/8334">Section 8334(a)(1)(B)</external-xref> of title 5, United States Code</cato:entity-ref>, is amended—</text>
+              <subparagraph id="H84DEF4D552F54546A7F70BDDED5DC1D5">
+                <enum>(A)</enum>
+                <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8334/a/1/B/i">clause (i)</cato:entity-ref>, by striking <quote>Except as provided in clause (ii),</quote> and inserting <quote>Except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8334/a/1/B/ii">clause (ii)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8334/a/1/B/iii" proposed="true">(iii)</cato:entity-ref>,</quote>; and</text>
+              </subparagraph>
+              <subparagraph id="HC98372AA41D349DA921BD2D6E68F37F2">
+                <enum>(B)</enum>
+                <text>by adding at the end the following:</text>
+                <quoted-block id="HF085D3B9F9814ED8B8DE6D43AA5FD5AA" style="OLC">
+                  <clause id="HFDBC2D74577743429C505E362D446087" indent="up3">
+                    <enum>(iii)</enum>
+                    <text>The amount to be contributed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8334/a/1/B/i">clause (i)</cato:entity-ref> shall, with respect to a period in any year beginning after December 31, 2013, be equal to—</text>
+                    <subclause id="H73F889D79619488BBBCAD62DC8D2FE3E">
+                      <enum>(I)</enum>
+                      <text>the amount which would otherwise apply under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8334/a/1/B/i">clause (i)</cato:entity-ref> with respect to such period, reduced by</text>
+                    </subclause>
+                    <subclause id="H19D4A9C87A4D4FB3BE26BB9285A2B322">
+                      <enum>(II)</enum>
+                      <text>the amount by which, with respect to such period, the withholding under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8334/a/1/A">subparagraph (A)</cato:entity-ref> exceeds the amount which would otherwise have been withheld from the basic pay of the employee or elected official involved under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8334/a/1/A">subparagraph (A)</cato:entity-ref> based on the percentage applicable under subsection (c) for calendar year 2013.</text>
+                    </subclause>
+                  </clause>
+                  <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection id="H41F87FEBFE894A9CA1941945A6F5162E">
+            <enum>(b)</enum>
+            <header>Individual contributions under the Federal Employees’ Retirement System</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8422/a/3">
+                <external-xref legal-doc="usc" parsable-cite="usc/5/8422">Section 8422(a)(3)</external-xref> of title 5, United States Code</cato:entity-ref>, is amended—</text>
+            <paragraph id="HD72CF1B671DB4346956C15EE8DB0AC6C">
+              <enum>(1)</enum>
+              <text>by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8422/a/3/B">subparagraph (B)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8422/a/3/C" proposed="true">subparagraph (C)</cato:entity-ref>; and</text>
+            </paragraph>
+            <paragraph id="HCEE135377F014C0BB556F063C6931F6A">
+              <enum>(2)</enum>
+              <text>by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8422/a/3/A">subparagraph (A)</cato:entity-ref> the following:</text>
+              <quoted-block id="HA2FFF287B10841E894475661F6F00FB1" style="OLC">
+                <subparagraph id="H5709CEBC6695405F9B5C7D981374D171" indent="up2">
+                  <enum>(B)</enum>
+                  <text>Notwithstanding any other provision of this paragraph, the applicable percentage under this paragraph for civilian service by employees or Members other than revised annuity employees shall—</text>
+                  <clause id="HCE2E7B3470EE47D7A815C6EC7677D13E">
+                    <enum>(i)</enum>
+                    <text display-inline="yes-display-inline">for a period in calendar year 2014, be equal to the applicable percentage under this paragraph for calendar year 2013 plus an additional 0.4 percentage point;</text>
+                  </clause>
+                  <clause id="H67EF8B48E21643D7B6B1C73EF02763DE">
+                    <enum>(ii)</enum>
+                    <text>for a period in calendar year 2015, be equal to the applicable percentage under this paragraph for calendar year 2014 (as determined under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8422/a/3/B/i" proposed="true">clause (i)</cato:entity-ref>) plus an additional 0.4 percentage point;</text>
+                  </clause>
+                  <clause id="HF38D2FA68C03439DAEE2093CEB811875">
+                    <enum>(iii)</enum>
+                    <text>for a period in calendar year 2016, be equal to the applicable percentage under this paragraph for calendar year 2015 (as determined under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8422/a/3/B/ii" proposed="true">clause (ii)</cato:entity-ref>) plus an additional 0.4 percentage point; and</text>
+                  </clause>
+                  <clause id="H4771BAB1C5BC46C2AE22C5A6F892D59F">
+                    <enum>(iv)</enum>
+                    <text>for a period in any calendar year after 2016, be equal to the applicable percentage under this paragraph for calendar year 2016 (as determined under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8422/a/3/B/iii" proposed="true">clause (iii)</cato:entity-ref>).</text>
+                  </clause>
+                </subparagraph>
+                <after-quoted-block>.</after-quoted-block>
+              </quoted-block>
+            </paragraph>
+          </subsection>
+        </section>
+        <section id="HD84BF90198194751A1DE02914B09FCF2">
+          <enum>222.</enum>
+          <header>Annuity supplement</header>
+          <text display-inline="no-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8421/a">
+              <external-xref legal-doc="usc" parsable-cite="usc/5/8421">Section 8421(a)</external-xref> of title 5, United States Code</cato:entity-ref>, is amended—</text>
+          <paragraph id="H52462A9A678C4F34993F4352759278AF">
+            <enum>(1)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8421/a/1">paragraph (1)</cato:entity-ref>, by striking <quote>paragraph (3)</quote> and inserting <quote>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8421/a/3">paragraphs (3)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8421/a/4" proposed="true">(4)</cato:entity-ref>
+              </quote>;</text>
+          </paragraph>
+          <paragraph id="H751FBB13BCAB4C96A0E2CAEBE23D9BF8">
+            <enum>(2)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8421/a/2">paragraph (2)</cato:entity-ref>, by striking <quote>paragraph (3)</quote> and inserting <quote>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8421/a/3">paragraphs (3)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8421/a/4" proposed="true">(4)</cato:entity-ref>
+              </quote>; and</text>
+          </paragraph>
+          <paragraph id="H882D55BFEAED426E94307F959A58F571">
+            <enum>(3)</enum>
+            <text>by adding at the end the following:</text>
+            <quoted-block id="H65B324FCB6F34A2A8DFED81183736D43" style="OLC">
+              <paragraph id="H6986CAC64F8343C2A18DC29F8EC436ED" indent="up1">
+                <enum>(4)</enum>
+                <text display-inline="yes-display-inline">No annuity supplement under this section shall be payable in the case of an individual who first becomes subject to this chapter after December 31, 2013.</text>
+              </paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+        </section>
+        <section id="H107851E683C648F5A250E67EB65B3E71">
+          <enum>223.</enum>
+          <header>Use of Chained Consumer Price Index</header>
+          <subsection id="HA19E76B390BC4B56B1B89BEFF0741CA7">
+            <enum>(a)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8331//15">Paragraph (15) of <external-xref legal-doc="usc" parsable-cite="usc/5/8331">section 8331</external-xref> of title 5, United States Code</cato:entity-ref>, is amended to read as follows:</text>
+            <quoted-block display-inline="no-display-inline" id="H1AD52EBAFE644433ADECF00349C01257" style="USC">
+              <paragraph commented="no" id="HF0EC159880044BE197419644E82BF06E">
+                <enum>(15)</enum>
+                <text display-inline="yes-display-inline">the term <term>price index</term> means the Chained Consumer Price Index (all items-all urban consumers) published monthly by the Bureau of Labor Statistics;</text>
+              </paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </subsection>
+          <subsection id="HB6A4A48E193F45C3BA53F534ACA6B676">
+            <enum>(b)</enum>
+            <header>Effective date</header>
+            <text>The amendment made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Provide for the Common Defense Act of 2013/s:223/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall take effect on January 1, 2015, and shall apply with respect to any cost-of-living adjustment taking effect under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8340">section <external-xref legal-doc="usc" parsable-cite="usc/5/8340">8340</external-xref>
+              </cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/8462">
+                <external-xref legal-doc="usc" parsable-cite="usc/5/8462">8462</external-xref> of title 5, United States Code</cato:entity-ref>, on or after that date.</text>
+          </subsection>
+        </section>
+      </subtitle>
+      <subtitle id="HCFBA39423F3642C7B7813EA120FF769C">
+        <enum>D</enum>
+        <header>Chained CPI</header>
+        <section display-inline="no-display-inline" id="H5BDB6B5ED1A8441FA14005BE590906DF" section-type="subsequent-section">
+          <enum>231.</enum>
+          <header>Change in index used to calculate Social Security cost-of-living adjustments</header>
+          <subsection id="H42C29C28758B46FD80EAC4120087A706">
+            <enum>(a)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Social Security Act/s:215/ss:i/p:1">Section 215(i)(1) of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/415">
+                <cato:entity-ref entity-type="uscode" value="usc/42/415/i/1">42 U.S.C. 415(i)(1)</cato:entity-ref>
+              </external-xref>)</cato:entity> is amended—</text>
+            <paragraph id="HCEB720BC63A142A080CF82B95D95FF2C">
+              <enum>(1)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:215/ss:i/p:1/sp:G">subparagraph (G)</cato:entity-ref>, by striking the period at the end and inserting <quote>; and</quote>; and</text>
+            </paragraph>
+            <paragraph id="H32DE08B78CF04A198D45719EC12EFE81">
+              <enum>(2)</enum>
+              <text>by adding at the end the following new subparagraph:</text>
+              <quoted-block display-inline="no-display-inline" id="H51AB1D8F457548B59522B401427B8045" style="OLC">
+                <subparagraph id="H29A7C8CE59164849A6957E038A044EB3" indent="up1">
+                  <enum>(H)</enum>
+                  <text display-inline="yes-display-inline">the term <term>Consumer Price Index</term> means the Chained Consumer Price Index for All Urban Consumers (C–CPI–U, as published in its initial version by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1625">Bureau of Labor Statistics of the Department of Labor</cato:entity-ref>).</text>
+                </subparagraph>
+                <after-quoted-block>.</after-quoted-block>
+              </quoted-block>
+            </paragraph>
+          </subsection>
+          <subsection display-inline="no-display-inline" id="HC3B263183B6F4176AD25F26B5AF1C1B6">
+            <enum>(b)</enum>
+            <header>Application to pre-1979 law</header>
+            <paragraph id="HC30195541DF0457ABECF3DD7E2413D76">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:215/ss:i/p:1">Section 215(i)(1) of the Social Security Act</cato:entity-ref> as in effect in December 1978, and as applied in certain cases under the provisions of such Act as in effect after December 1978, is amended—</text>
+              <subparagraph id="H89CCE3D90EF649588D576425BE1E9B87">
+                <enum>(A)</enum>
+                <text display-inline="yes-display-inline">in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:215/ss:i/p:1/sp:C">subparagraph (C)</cato:entity-ref>, by striking the period at the end and inserting <quote>; and</quote>; and</text>
+              </subparagraph>
+              <subparagraph id="H36EFD96E45824E74BA9364E2672FE96B">
+                <enum>(B)</enum>
+                <text>by adding at the end the following new subparagraph:</text>
+                <quoted-block display-inline="no-display-inline" id="HE969745139F043A9BD6F0F93893652C9" style="traditional">
+                  <subparagraph id="HBFEA585E49A34F568753AFB6C208D886" indent="up1">
+                    <enum>(D)</enum>
+                    <text>the term <term>Consumer Price Index</term> means the Chained Consumer Price Index for All Urban Consumers (C–CPI–U, as published in its initial version by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1625">Bureau of Labor Statistics of the Department of Labor</cato:entity-ref>).</text>
+                  </subparagraph>
+                  <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="HF95249BC6D344F989662980BB34DBD70">
+              <enum>(2)</enum>
+              <header>Conforming change</header>
+              <text>
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Social Security Act/s:215/ss:i/p:4">Section 215(i)(4) of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/415">
+                  <cato:entity-ref entity-type="uscode" value="usc/42/415/i/4">42 U.S.C. 415(i)(4)</cato:entity-ref>
+                </external-xref>)</cato:entity> is amended by inserting <quote>and by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Provide for the Common Defense Act of 2013/s:231" proposed="true">section 231 of the <short-title>Provide for the Common Defense Act of 2013</short-title>
+                  </cato:entity-ref>
+                </quote> after <quote>1986</quote>.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="HE04A90C30E2F4C4D8B78A01BB23ADAB7">
+            <enum>(c)</enum>
+            <header>Effective date</header>
+            <text display-inline="yes-display-inline">The amendments made by this section shall apply with respect to adjustments effective with or after December 2014.</text>
+          </subsection>
+        </section>
+      </subtitle>
+    </title>
+  </legis-body>
+</bill>
+</doc>
