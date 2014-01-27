@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113hr1242ih">
     <bill congress="113" type="hr" number="1242" version="ih"/>
-    <revision size="2116" annotations="0" id="4" commit-time="2013-04-05T16:33:50+00:00" committer="favila" doc="113hr1242ih/4.xml" status="complete">
+    <revision size="2116" annotations="0" id="5" commit-time="2014-01-17T18:54:41Z" committer="mbohmer" doc="113hr1242ih/5.xml" status="complete">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HAE1D13983DD549B4B8A37BE1F766D30C" public-private="public">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata>
 <dublinCore>
-<dc:title>113 HR 1242 IH: To prohibit the use of drones to kill citizens of the United States within the United States.</dc:title>
-<dc:publisher>U.S. House of Representatives</dc:publisher>
-<dc:date>2013-03-18</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 1242 IH: To prohibit the use of drones to kill citizens of the United States within the United States.</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-03-18</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -51,7 +51,8 @@
           <text>the term
 			 <term>drone</term> means an unmanned aircraft (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
               <cato:entity-ref entity-type="act" value="FAA Modernization and Reform Act of 2012/s:331">section 331 of the
-			 FAA Modernization and Reform Act of 2012</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/49/40101">49 U.S.C. 40101</external-xref> note)</cato:entity>);</text>
+			 FAA Modernization and Reform Act of 2012</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/49/40101/note">
+                  <external-xref legal-doc="usc" parsable-cite="usc/49/40101">49 U.S.C. 40101</external-xref> note</cato:entity-ref>)</cato:entity>);</text>
 				</paragraph>
         <paragraph id="H02C3CE9D74FC46DEBB9879FBFE170985">
           <enum>(2)</enum>
@@ -63,7 +64,8 @@
           <enum>(3)</enum>
           <text>the term
 			 <term>United States</term> as used in a territorial sense, has the meaning
-			 given that term in <external-xref legal-doc="usc" parsable-cite="usc/18/5">section 5</external-xref> of title 18, United States Code.</text>
+			 given that term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/5">
+                <external-xref legal-doc="usc" parsable-cite="usc/18/5">section 5</external-xref> of title 18, United States Code</cato:entity-ref>.</text>
 				</paragraph>
       </subsection>
       <subsection id="HFDB90265DD964506BA811BD9606BD4CB">

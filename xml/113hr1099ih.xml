@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113hr1099ih">
     <bill congress="113" type="hr" number="1099" version="ih"/>
-    <revision size="1438" annotations="0" id="6" commit-time="2013-04-04T20:49:24+00:00" committer="favila" doc="113hr1099ih/6.xml" status="complete">
-      <description/>
+    <revision size="1438" annotations="0" id="7" commit-time="2014-01-17T19:19:43Z" committer="mbohmer" doc="113hr1099ih/7.xml" status="complete">
+      <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-House" dms-id="HACF80182A40946B7A79438D73844C2BA" public-private="public" bill-type="olc"> 
-<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<metadata>
 <dublinCore>
-<dc:title>113 HR 1099 IH: To repeal the Prevention and Public Health Fund.</dc:title>
-<dc:publisher>U.S. House of Representatives</dc:publisher>
-<dc:date>2013-03-12</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 1099 IH: To repeal the Prevention and Public Health Fund.</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-03-12</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -40,7 +40,9 @@
         <header>In general</header>
         <text display-inline="yes-display-inline">
           <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
-            <cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:4002">Section 4002 of the Patient Protection and Affordable Care Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/300u-11">42 U.S.C. 300u–11</external-xref>)</cato:entity> is repealed.</text>
+            <cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:4002">Section 4002 of the Patient Protection and Affordable Care Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/300u-11">
+                <cato:entity-ref entity-type="uscode" value="usc/42/300u–11">42 U.S.C. 300u–11</cato:entity-ref>
+              </external-xref>)</cato:entity> is repealed.</text>
       </subsection>
 <subsection id="H5CA65853376047D395785D9D6DAE08FD">
         <enum>(b)</enum>

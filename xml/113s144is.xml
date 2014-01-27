@@ -1,8 +1,8 @@
 <doc>
   <docmeta id="113s144is">
     <bill congress="113" type="s" number="144" version="is"/>
-    <revision size="1096" annotations="0" id="4" commit-time="2013-04-19T14:38:26+00:00" committer="favila" doc="113s144is/4.xml" status="complete">
-      <description/>
+    <revision size="1096" annotations="0" id="5" commit-time="2014-01-17T19:26:20Z" committer="mbohmer" doc="113s144is/5.xml" status="complete">
+      <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-Senate" public-private="public">
@@ -46,12 +46,14 @@
         <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
           <cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:10214">Section 10214 of the Patient Protection and
 			 Affordable Care Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/18204">42 U.S.C. 18204</cato:entity-ref>)</cato:entity> is amended by adding at the end the
-			 following: <quote>In addition to amounts authorized to be appropriated in the
-			 previous sentence, <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">there are authorized to be appropriated <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:10210" proposed="true">section
+			 following: <quote>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">In addition to amounts authorized to be appropriated in the
+			 previous sentence, there are authorized to be appropriated <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:10210" proposed="true">section
 			 10210</cato:entity-ref>
             </cato:property>, an additional <cato:funds-and-year amount="25000000" year="2014, 2015, 2016, 2017, 2018, 2019">$25,000,000 for each of fiscal years 2014 through
 			 2019</cato:funds-and-year>
-          </cato:entity>.</quote>.</text>
+            </cato:entity>
+          .</quote>.</text>
 		</section>
   </legis-body>
 </bill>

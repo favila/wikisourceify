@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113s1028is">
     <bill congress="113" type="s" number="1028" version="is"/>
-    <revision size="143664" annotations="0" status="complete" id="24" commit-time="2013-09-12T19:15:00Z" committer="mbohmer" doc="113s1028is/24.xml">
+    <revision size="143664" annotations="0" status="complete" id="25" commit-time="2014-01-17T16:43:35Z" committer="mbohmer" doc="113s1028is/25.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-Senate" public-private="public">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata>
 <dublinCore>
-<dc:title>113 S1028 IS: Older Americans Act Amendments of 2013</dc:title>
-<dc:publisher>U.S. Senate</dc:publisher>
-<dc:date>2013-05-23</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S1028 IS: Older Americans Act Amendments of 2013</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-05-23</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -1909,10 +1909,14 @@
             <enum>218.</enum>
             <header>Sense of the
 				Senate regarding appropriation levels</header>
-            <text display-inline="no-display-inline">It is the sense of the Senate that the
-				amount appropriated under this Act should be not less than $2,675,000,000 for
+            <text display-inline="no-display-inline">
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">
+                  <cato:property name="purpose">It is the sense of the Senate that the
+				amount appropriated under <cato:entity-ref entity-type="act" value="Older Americans Act of 1965">this Act</cato:entity-ref>
+                  </cato:property> should be not less than <cato:funds-and-year amount="2675000000" year="2014,..">$2,675,000,000 for
 				fiscal year 2014 and each subsequent
-				year.</text>
+				year</cato:funds-and-year>.</cato:entity>
+              </text>
 					</section>
           <after-quoted-block>.</after-quoted-block>
         </quoted-block>
