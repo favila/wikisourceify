@@ -1,0 +1,989 @@
+<doc>
+  <docmeta id="113s1927is">
+    <bill congress="113" type="s" number="1927" version="is"/>
+    <revision size="29003" annotations="0" status="complete" id="7" commit-time="2014-01-24T17:13:39Z" committer="mbohmer" doc="113s1927is/7.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-Senate" public-private="public">
+  <metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S1927 IS: Data Security Act of 2014</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-01-15</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code>
+    <congress>113th CONGRESS</congress>
+    <session>2d Session</session>
+    <legis-num>S. 1927</legis-num>
+    <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+    <action>
+      <action-date date="20140115">January 15, 2014</action-date>
+      <action-desc>
+        <sponsor name-id="S277">Mr. Carper</sponsor> (for himself and <cosponsor name-id="S342">Mr. Blunt</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban Affairs</committee-name>
+      </action-desc>
+    </action>
+    <legis-type>A BILL</legis-type>
+    <official-title>To protect information relating to consumers, to require notice of security breaches, and for other purposes. </official-title>
+  </form>
+  <legis-body>
+    <section id="S1" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short
+			 title</header>
+      <text display-inline="no-display-inline">This Act may be cited as
+			 the <quote>
+          <short-title>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014" proposed="true">Data Security Act of 2014</cato:entity-ref>
+          </short-title>
+        </quote>.</text>
+    </section>
+    <section id="IDcc736290dda54fe1baca2d4a58b799a0">
+      <enum>2.</enum>
+      <header>Definitions</header>
+      <text display-inline="no-display-inline">For purposes of this Act, the following
+			 definitions shall apply:</text>
+      <paragraph id="ID42e8c94e13d9418ba0c23faf6e156c80">
+        <enum>(1)</enum>
+        <header>Affiliate</header>
+        <text>The
+			 term <term>affiliate</term> means any company that controls, is controlled by,
+			 or is under common control with another company.</text>
+      </paragraph>
+      <paragraph id="idBB2BF34966DF46CD881CA65DE28BFC65">
+        <enum>(2)</enum>
+        <header>Agency</header>
+        <text>The
+			 term <term>agency</term> has the same meaning as in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/551//1">section 551(1) of title
+			 5, United States Code</cato:entity-ref>.</text>
+      </paragraph>
+      <paragraph id="ID690a3dfc9dc646dea0a5d03a413ff7c8">
+        <enum>(3)</enum>
+        <header>Breach of data
+			 security</header>
+        <subparagraph id="ID81f6730ce88d4403983a99fb2a351588">
+          <enum>(A)</enum>
+          <header>In
+			 general</header>
+          <text>The term <term>breach of data security</term> means the
+			 unauthorized acquisition of sensitive account information or sensitive personal
+			 information.</text>
+        </subparagraph>
+        <subparagraph id="IDfee0443880924794b2e2e02481f5387f">
+          <enum>(B)</enum>
+          <header>Exception for
+			 data that is not in usable form</header>
+          <clause id="idD982C27791F44057B308712138B68F0A">
+            <enum>(i)</enum>
+            <header>In
+			 general</header>
+            <text>The term <term>breach of data security</term> does not
+			 include the unauthorized acquisition of sensitive account information or
+			 sensitive personal information that is maintained or communicated in a manner
+			 that is not usable—</text>
+            <subclause id="idA8C93CE82B37409E8120367C19E86652">
+              <enum>(I)</enum>
+              <text>to commit
+			 identity theft; or</text>
+            </subclause>
+            <subclause id="id62C84B7D120043C4B74AB591F42DCE3B">
+              <enum>(II)</enum>
+              <text>to make
+			 fraudulent transactions on financial accounts.</text>
+            </subclause>
+          </clause>
+          <clause id="id7A863E78170E4903A12F2B375BD746A7">
+            <enum>(ii)</enum>
+            <header>Rule of
+			 Construction</header>
+            <text>For purposes of this subparagraph, information that
+			 is maintained or communicated in a manner that is not usable includes any
+			 information that is maintained or communicated in an encrypted, redacted,
+			 altered, edited, or coded form.</text>
+          </clause>
+        </subparagraph>
+      </paragraph>
+      <paragraph id="ID0f229ff306a442bdb22d640f9e4c4732">
+        <enum>(4)</enum>
+        <header>Commission</header>
+        <text>The
+			 term <term>Commission</term> means the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref>.</text>
+      </paragraph>
+      <paragraph id="IDed12d7acc594420285e9514e57e3a83d">
+        <enum>(5)</enum>
+        <header>Consumer</header>
+        <text>The
+			 term <term>consumer</term> means an individual.</text>
+      </paragraph>
+      <paragraph id="idBA6B4758051E4135B04D3F0B1F0CDE0F">
+        <enum>(6)</enum>
+        <header>Consumer
+			 reporting agency that compiles and maintains files on consumers on a nationwide
+			 basis</header>
+        <text>The term <term>consumer reporting agency that compiles and
+			 maintains files on consumers on a nationwide basis</term> has the same meaning
+			 as in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Fair Credit Reporting Act/s:603/ss:p">section 603(p) of the Fair Credit Reporting Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/1681a/p">15 U.S.C.
+			 1681a(p)</cato:entity-ref>)</cato:entity>.</text>
+      </paragraph>
+      <paragraph id="IDa7b958d81aaa4c08a7b9f06045883521">
+        <enum>(7)</enum>
+        <header>Covered
+			 entity</header>
+        <subparagraph id="id48F3452DA05B4E028575D065FE45605A">
+          <enum>(A)</enum>
+          <header>In
+			 general</header>
+          <text>The term <term>covered entity</term> means any—</text>
+          <clause id="idEAD8117F7A004F7FA03FC870DC1EA8BC">
+            <enum>(i)</enum>
+            <text>entity, the
+			 business of which is engaging in financial activities, as described in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Bank Holding Company Act of 1956/s:4/ss:k">section
+			 4(k) of the Bank Holding Company Act of 1956</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/12/1843">
+                  <cato:entity-ref entity-type="uscode" value="usc/12/1843/k">12 U.S.C. 1843(k)</cato:entity-ref>
+                </external-xref>)</cato:entity>;</text>
+          </clause>
+          <clause id="idCC03C245A3B4413DB28B77CEDF2CEE19">
+            <enum>(ii)</enum>
+            <text>financial
+			 institution, including any institution described in section 313.3(k) of title
+			 16, Code of Federal Regulations, as in effect on the date of enactment of this
+			 Act;</text>
+          </clause>
+          <clause id="idE47F2AFC5BA046919EC8D3BB8E333D04">
+            <enum>(iii)</enum>
+            <text>entity that
+			 maintains or otherwise possesses information that is subject to <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Fair Credit Reporting Act/s:628">section 628 of
+			 the Fair Credit Reporting Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/1681w">
+                  <cato:entity-ref entity-type="uscode" value="usc/15/1681w">15 U.S.C. 1681w</cato:entity-ref>
+                </external-xref>)</cato:entity>; or</text>
+          </clause>
+          <clause id="id5178C491C15845D797BEFA9F210EC701">
+            <enum>(iv)</enum>
+            <text>other
+			 individual, partnership, corporation, trust, estate, cooperative, association,
+			 or entity that maintains or communicates sensitive account information or
+			 sensitive personal information.</text>
+          </clause>
+        </subparagraph>
+        <subparagraph id="id492205A1A0C74F19A9D12F22665A791C">
+          <enum>(B)</enum>
+          <header>Exception</header>
+          <text>The
+			 term <term>covered entity</term> does not include any agency or any other
+			 unit of Federal, State, or local government or any subdivision of the
+			 unit.</text>
+        </subparagraph>
+      </paragraph>
+      <paragraph id="idBFE074F65B694446904EAF2BFC80E7FF">
+        <enum>(8)</enum>
+        <header>Financial
+			 institution</header>
+        <text>The term <term>financial institution</term> has the
+			 same meaning as in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Gramm-Leach-Bliley Act/s:509/p:3">section 509(3) of the Gramm-Leach-Bliley Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/6809//3">15 U.S.C.
+			 6809(3)</cato:entity-ref>)</cato:entity>.</text>
+      </paragraph>
+      <paragraph id="ID3e2a1292061d482d95af3a06da975510">
+        <enum>(9)</enum>
+        <header>Sensitive
+			 account information</header>
+        <text>The term <term>sensitive account
+			 information</term> means a financial account number relating to a consumer,
+			 including a credit card number or debit card number, in combination with any
+			 security code, access code, password, or other personal identification
+			 information required to access the financial account.</text>
+      </paragraph>
+      <paragraph id="ID2aafc904c7fd48b582e44eb1519404b3">
+        <enum>(10)</enum>
+        <header>Sensitive
+			 personal information</header>
+        <subparagraph id="id755A742C5C5D41AF83A7A9B00D786376">
+          <enum>(A)</enum>
+          <header>In
+			 general</header>
+          <text>The term <term>sensitive personal information</term>
+			 means the first and last name, address, or telephone number of a consumer, in
+			 combination with any of the following relating to the consumer:</text>
+          <clause id="IDd24a7400b845462ba31c65c84ee518d4">
+            <enum>(i)</enum>
+            <text>Social security
+			 account number.</text>
+          </clause>
+          <clause id="ID9da1c3bbb1a64734900871a09649e940">
+            <enum>(ii)</enum>
+            <text>Driver’s license
+			 number or equivalent State identification number.</text>
+          </clause>
+          <clause id="IDcfde1617fc7e49a1b2617a2f3954a341">
+            <enum>(iii)</enum>
+            <text>Taxpayer
+			 identification number.</text>
+          </clause>
+        </subparagraph>
+        <subparagraph id="id815DB873E8524C8A83F3FFF373D9D565">
+          <enum>(B)</enum>
+          <header>Exception</header>
+          <text>The
+			 term <term>sensitive personal information</term> does not include publicly
+			 available information that is lawfully made available to the general public
+			 from—</text>
+          <clause id="idCDE4A2F8E08A4B8097EB415601CAD0F6">
+            <enum>(i)</enum>
+            <text>Federal, State,
+			 or local government records; or</text>
+          </clause>
+          <clause id="idBDD7E927C27C4E43AC791538AE2E7834">
+            <enum>(ii)</enum>
+            <text>widely
+			 distributed media.</text>
+          </clause>
+        </subparagraph>
+      </paragraph>
+      <paragraph id="ID0aa26cb437834262be7ec011c45c4b21">
+        <enum>(11)</enum>
+        <header>Substantial
+			 harm or inconvenience</header>
+        <subparagraph id="IDccb10af6e4b84b26bd9b0504e2927e56">
+          <enum>(A)</enum>
+          <header>In
+			 general</header>
+          <text>The term <term>substantial harm or inconvenience</term>
+			 means—</text>
+          <clause id="IDa2af6c9e3faf451b976e1d5213ebe55e">
+            <enum>(i)</enum>
+            <text>material
+			 financial loss to, or civil or criminal penalties imposed on, a consumer, due
+			 to the unauthorized use of sensitive account information or sensitive personal
+			 information relating to the consumer; or</text>
+          </clause>
+          <clause id="ID86f4dccc8b9f4d04acbd6bba220d806a">
+            <enum>(ii)</enum>
+            <text>the need for a
+			 consumer to expend significant time and effort to correct erroneous information
+			 relating to the consumer, including information maintained by a consumer
+			 reporting agency, financial institution, or government entity, in order to
+			 avoid material financial loss, increased costs, or civil or criminal penalties,
+			 due to the unauthorized use of sensitive account information or sensitive
+			 personal information relating to the consumer.</text>
+          </clause>
+        </subparagraph>
+        <subparagraph id="ID0e913919cf364f73810d0de8c7d02eb1">
+          <enum>(B)</enum>
+          <header>Exception</header>
+          <text>The
+			 term <term>substantial harm or inconvenience</term> does not include—</text>
+          <clause id="idE9B3E98BB7E4475AA04AE42B657DE1F6">
+            <enum>(i)</enum>
+            <text>changing a
+			 financial account number or closing a financial account; or</text>
+          </clause>
+          <clause commented="no" display-inline="no-display-inline" id="id8BC91AFA81254847B1F2F31C9BF1BF5E">
+            <enum>(ii)</enum>
+            <text>harm or
+			 inconvenience that does not result from identity theft or account fraud.</text>
+          </clause>
+        </subparagraph>
+      </paragraph>
+    </section>
+    <section id="IDa89c3dfb863445149cc46405826a2b96">
+      <enum>3.</enum>
+      <header>Protection of
+			 information and security breach notification</header>
+      <subsection id="ID26f916bf7e864a7486a163e3e1c47a6f">
+        <enum>(a)</enum>
+        <header>Security
+			 procedures required</header>
+        <paragraph id="idC7F712A21C2C4FF890A7C827F8061229">
+          <enum>(1)</enum>
+          <header>In
+			 general</header>
+          <text>Each covered entity shall implement, maintain, and
+			 enforce reasonable policies and procedures to protect the confidentiality and
+			 security of, sensitive account information and sensitive personal information
+			 that is maintained or is being communicated by or on behalf of a covered
+			 entity from the unauthorized use of the information that is reasonably likely
+			 to result in substantial harm or inconvenience to the consumer to whom the
+			 information relates.</text>
+        </paragraph>
+        <paragraph id="id4519A31A404345ACBD20EE2A86D2371A">
+          <enum>(2)</enum>
+          <header>Limitation</header>
+          <text>Any
+			 policy or procedure implemented or maintained under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3/ss:a/p:1" proposed="true">paragraph (1)</cato:entity-ref> shall be
+			 appropriate to—</text>
+          <subparagraph id="id0282BF3E109740909A3407101613FBEF">
+            <enum>(A)</enum>
+            <text>the size and
+			 complexity of the covered entity;</text>
+          </subparagraph>
+          <subparagraph id="id87CDC1548CDC42988769A52FE613A4AB">
+            <enum>(B)</enum>
+            <text>the nature and scope
+			 of the activities of the covered entity; and</text>
+          </subparagraph>
+          <subparagraph id="idCD02644810F74637B30D55A13E1F50D3">
+            <enum>(C)</enum>
+            <text>the sensitivity of
+			 the consumer information to be protected.</text>
+          </subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection id="ID90dfdb18b97646cab9d5fbd3eea12eb6">
+        <enum>(b)</enum>
+        <header>Investigation
+			 required</header>
+        <paragraph id="ID757d8007afee48ae8e97365967cd6289">
+          <enum>(1)</enum>
+          <header>In
+			 general</header>
+          <text>If a covered entity determines that a breach of data
+			 security has or may have occurred in relation to sensitive account information
+			 or sensitive personal information that is maintained or is being communicated
+			 by, or on behalf of, the covered entity, the covered entity shall conduct an
+			 investigation to—</text>
+          <subparagraph id="IDfb0ba0bbeafa4cc98a912592324caf8e">
+            <enum>(A)</enum>
+            <text>assess the
+			 nature and scope of the breach;</text>
+          </subparagraph>
+          <subparagraph id="ID0c6539264b504a7bb7c02a365f496636">
+            <enum>(B)</enum>
+            <text>identify any
+			 sensitive account information or sensitive personal information that may have
+			 been involved in the breach; and</text>
+          </subparagraph>
+          <subparagraph id="IDe2a0527851d24b449eafb2ce1c3f2a5a">
+            <enum>(C)</enum>
+            <text>determine if
+			 the sensitive account information or sensitive personal information  is reasonably likely to be misused in a manner causing
+			 substantial harm or inconvenience to the consumers to whom the information
+			 relates.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="IDabc70ae9259446b38e62a5cef0a9e1fe">
+          <enum>(2)</enum>
+          <header>Neural networks
+			 and information security programs</header>
+          <text>In determining the likelihood
+			 of misuse of sensitive account information under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3/ss:b/p:1/sp:C" proposed="true">paragraph (1)(C)</cato:entity-ref>, a covered
+			 entity shall consider whether any neural network or security program has
+			 detected, or is likely to detect or prevent, fraudulent transactions resulting
+			 from the breach of security.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="IDfc0fef5d7f1740eba06c2883838db99a">
+        <enum>(c)</enum>
+        <header>Notice
+			 required</header>
+        <text>If a covered entity determines under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3/ss:b/p:1/sp:C" proposed="true">subsection
+			 (b)(1)(C)</cato:entity-ref> that sensitive account information or sensitive personal information
+			 involved in a breach of data security is reasonably likely to be misused in a
+			 manner causing substantial harm or inconvenience to the consumers to whom the
+			 information relates, the covered entity, or a third party acting on behalf of
+			 the covered entity, shall—</text>
+        <paragraph id="ID1e381437c60e4c328dbf326bcb40ac90">
+          <enum>(1)</enum>
+          <text>notify, in the
+			 following order—</text>
+          <subparagraph id="ID50a83008d8004688bf206020c6d46a15">
+            <enum>(A)</enum>
+            <text>the appropriate
+			 agency or authority identified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:5" proposed="true">section 5</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph id="id0C6D86AE29AE465FBBA89C1399934590">
+            <enum>(B)</enum>
+            <text>an appropriate
+			 law enforcement agency;</text>
+          </subparagraph>
+          <subparagraph id="IDeea5d608b6004c8bbe04973610f2f127">
+            <enum>(C)</enum>
+            <text>any entity that
+			 owns, or is obligated on, a financial account to which the sensitive account
+			 information relates, if the breach involves a breach of sensitive account
+			 information;</text>
+          </subparagraph>
+          <subparagraph id="ID7babbfd27c6243caaba1182ed718e032">
+            <enum>(D)</enum>
+            <text>each consumer
+			 reporting agency that compiles and maintains files on consumers on a nationwide
+			 basis, if the breach involves sensitive personal information relating to 5,000
+			 or more consumers; and</text>
+          </subparagraph>
+          <subparagraph id="IDb1de6a59bdd345c6b2a252f5c7727295">
+            <enum>(E)</enum>
+            <text>all consumers to
+			 whom the sensitive account information or sensitive personal information
+			 relates; and</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="ID95be5c16ed9c4316bb4f6047607dc127">
+          <enum>(2)</enum>
+          <text>take reasonable
+			 measures to restore the security and confidentiality of the sensitive account
+			 information or sensitive personal information involved in the breach.</text>
+        </paragraph>
+      </subsection>
+      <subsection commented="no" id="IDf2621cf8357741d6acb09467b2881d04">
+        <enum>(d)</enum>
+        <header>Compliance</header>
+        <paragraph commented="no" id="id10E637F412B344808D1EC0FE275D1B89">
+          <enum>(1)</enum>
+          <header>In
+			 general</header>
+          <text>An entity shall be deemed to be in
+			 compliance with—</text>
+          <subparagraph commented="no" id="idC733B828CB1D405FA485637630B23DEE">
+            <enum>(A)</enum>
+            <text>in the case of a financial institution—</text>
+            <clause commented="no" id="IDc8174550159c403894056e6ed41c8762">
+              <enum>(i)</enum>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3/ss:a" proposed="true">subsection (a)</cato:entity-ref>,
+			 and any regulations prescribed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3/ss:a" proposed="true">subsection (a)</cato:entity-ref>, if the financial institution
+			 maintains policies and procedures to protect the confidentiality and security
+			 of sensitive account information and sensitive personal information that are
+			 consistent with the policies and procedures of the financial institution that are
+			 designed to comply with the requirements of <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Gramm-Leach-Bliley Act/s:501/ss:b">section 501(b) of the
+			 Gramm-Leach-Bliley Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/6801">
+                    <cato:entity-ref entity-type="uscode" value="usc/15/6801/b">15 U.S.C. 6801(b)</cato:entity-ref>
+                  </external-xref>)</cato:entity> and any regulations or guidance
+			 prescribed under that section that are applicable to the financial institution;
+			 and</text>
+            </clause>
+            <clause commented="no" id="ID000c7db3be3e45418216717bf6351782">
+              <enum>(ii)</enum>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3/ss:b" proposed="true">subsections (b)</cato:entity-ref>
+			 and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3/ss:c" proposed="true">(c)</cato:entity-ref>, and any regulations prescribed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3/ss:b" proposed="true">subsections (b)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3/ss:c" proposed="true">(c)</cato:entity-ref>, if the financial
+			 institution—</text>
+              <subclause commented="no" id="id7F8875B765AB484BA6D3C0200E7907A5">
+                <enum>(I)</enum>
+                <item commented="no" display-inline="yes-display-inline" id="id587FE0A825D34D5F931C40EF2A050C83">
+                  <enum>(aa)</enum>
+                  <text>maintains policies and
+			 procedures to investigate and provide notice to consumers of breaches of data
+			 security that are consistent with the policies and procedures of the financial
+			 institution that are designed to comply with the investigation and notice
+			 requirements established by regulations or guidance under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Gramm-Leach-Bliley Act/s:501/ss:b">section 501(b) of the
+			 Gramm-Leach-Bliley Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/6801">
+                        <cato:entity-ref entity-type="uscode" value="usc/15/6801/b">15 U.S.C. 6801(b)</cato:entity-ref>
+                      </external-xref>)</cato:entity> that are applicable to the financial
+			 institution; or</text>
+                </item>
+                <item commented="no" id="id7921FBE730C9474F86BAE0EC3B58880B" indent="up1">
+                  <enum>(bb)</enum>
+                  <text>is an affiliate of a bank holding
+			 company that maintains policies and procedures to investigate and provide
+			 notice to consumers of breaches of data security that are consistent with the
+			 policies and procedures of a bank that is an affiliate of the financial institution, and the policies and procedures of the bank are designed to comply with the
+			 investigation and notice requirements established by any regulations or
+			 guidance under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Gramm-Leach-Bliley Act/s:501/ss:b">section 501(b) of the Gramm-Leach-Bliley Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/6801">
+                        <cato:entity-ref entity-type="uscode" value="usc/15/6801/b">15 U.S.C. 6801(b)</cato:entity-ref>
+                      </external-xref>)</cato:entity>
+			 that are applicable to the bank; and</text>
+                </item>
+              </subclause>
+              <subclause commented="no" id="ID78afb9ec770c413386b8bc1b7eb29323">
+                <enum>(II)</enum>
+                <text>provides for
+			 notice to the entities described under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3/ss:c/p:1/sp:B" proposed="true">subparagraphs (B)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3/ss:c/p:1/sp:C" proposed="true">(C)</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3/ss:c/p:1/sp:D" proposed="true">(D) of
+			 subsection (c)(1)</cato:entity-ref>, if notice is provided to consumers pursuant to the policies
+			 and procedures of the financial institution described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3/ss:d/p:1/sp:A/cl:ii/scl:I" proposed="true">subclause (I)</cato:entity-ref>; and</text>
+              </subclause>
+            </clause>
+          </subparagraph>
+          <subparagraph commented="no" id="id43FF973165A84106BC7FE0C3D8086999">
+            <enum>(B)</enum>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3/ss:a" proposed="true">subsections (a)</cato:entity-ref>,
+		<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3/ss:b" proposed="true">(b)</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3/ss:c" proposed="true">(c)</cato:entity-ref>, if the entity is a covered entity for purposes of the regulations
+		promulgated under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Health Insurance Portability and Accountability Act of 1996/s:264/ss:c">section 264(c) of the Health Insurance Portability and
+		Accountability Act of 1996</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1320d–2/note">
+                  <external-xref legal-doc="usc" parsable-cite="usc/42/1320d-2">42 U.S.C. 1320d–2</external-xref> note</cato:entity-ref>)</cato:entity>, to the extent that the
+		entity is in compliance with such regulations.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph commented="no" id="idC9EA0B1C45854056A84EA92CE366D7EA">
+          <enum>(2)</enum>
+          <header>Definitions</header>
+          <text>For
+			 purposes of this subsection, the terms <quote>bank holding company</quote> and
+			 <quote>bank</quote> shall have the same meaning given the terms under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Bank Holding Company Act of 1956/s:2">section
+			 2 of the Bank Holding Company Act of 1956</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/12/1841">
+                <cato:entity-ref entity-type="uscode" value="usc/12/1841">12 U.S.C. 1841</cato:entity-ref>
+              </external-xref>)</cato:entity>.</text>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="ID28a8dcdf4a894eca9dff11dfa2484aea">
+      <enum>4.</enum>
+      <header>Implementing
+			 regulations</header>
+      <subsection id="IDe0d3eb852d4949608912258dacfc7cf9">
+        <enum>(a)</enum>
+        <header>In
+			 general</header>
+        <text>Notwithstanding any other provision of law, and except as
+			 provided in section 6, the agencies and authorities identified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:5" proposed="true">section 5</cato:entity-ref>,
+			 with respect to the covered entities that are subject to the respective
+			 enforcement authority of the agencies and authorities, shall prescribe
+			 regulations to implement this Act.</text>
+      </subsection>
+      <subsection id="IDf3654691a166470cb054d000f7df6902">
+        <enum>(b)</enum>
+        <header>Coordination</header>
+        <text>Each
+			 agency and authority required to prescribe regulations under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:4/ss:a" proposed="true">subsection (a)</cato:entity-ref>
+			 shall consult and coordinate with each other agency and authority identified in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:5" proposed="true">section 5</cato:entity-ref> so that, to the extent possible, the regulations prescribed by each
+			 agency and authority are consistent and comparable.</text>
+      </subsection>
+      <subsection id="IDe3e15f07ff21411a9998e3be13347b0b">
+        <enum>(c)</enum>
+        <header>Method of
+			 providing notice to consumers</header>
+        <text>The regulations required under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:4/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall—</text>
+        <paragraph id="id2374B7BF0B8B40F7ADB81D218AAE854A">
+          <enum>(1)</enum>
+          <text>prescribe the
+			 methods by which a covered entity shall notify a consumer of a breach of data
+			 security under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3" proposed="true">section 3</cato:entity-ref>; and</text>
+        </paragraph>
+        <paragraph id="idA8DD7C6798B34D789EF1B78D44756A0B">
+          <enum>(2)</enum>
+          <text>allow a covered
+			 entity to provide the notice by—</text>
+          <subparagraph id="ID2b9ca93e425342f487ea9f297e583945">
+            <enum>(A)</enum>
+            <text>written,
+			 telephonic, or e-mail notification; or</text>
+          </subparagraph>
+          <subparagraph id="ID553b9abb6a4045f3923de910d82eb8ed">
+            <enum>(B)</enum>
+            <text>substitute
+			 notification, if providing written, telephonic, or e-mail notification is not
+			 feasible due to—</text>
+            <clause id="IDba86f723aeac42d0b4d40601168f5e3e">
+              <enum>(i)</enum>
+              <text>lack of
+			 sufficient contact information for the consumers that must be notified;
+			 or</text>
+            </clause>
+            <clause id="ID092e718a977a4dd1a450b5edc2075ce3">
+              <enum>(ii)</enum>
+              <text>excessive cost
+			 to the covered entity.</text>
+            </clause>
+          </subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection id="IDd4eadd1e210f47c781208945702132d6">
+        <enum>(d)</enum>
+        <header>Content of
+			 consumer notice</header>
+        <text>The regulations required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:4/ss:a" proposed="true">subsection (a)</cato:entity-ref>
+			 shall—</text>
+        <paragraph id="idC0A5345CBFD543AFAE61A327010823FC">
+          <enum>(1)</enum>
+          <text>prescribe the
+			 content that shall be included in a notice of a breach of data security that is
+			 required to be provided to consumers under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3" proposed="true">section 3</cato:entity-ref>; and</text>
+        </paragraph>
+        <paragraph id="idAF7B80F3D8B84E21A938C6AB7E1B57A4">
+          <enum>(2)</enum>
+          <text>require the
+			 notice to include—</text>
+          <subparagraph id="ID6bb58d31077c40f1afe8c3d204e725e9">
+            <enum>(A)</enum>
+            <text>a description of
+			 the type of sensitive account information or sensitive personal information
+			 involved in the breach of data security;</text>
+          </subparagraph>
+          <subparagraph id="ID445697a1355447fe879f499a7443be1e">
+            <enum>(B)</enum>
+            <text>a general
+			 description of the actions taken by the covered entity to restore the security
+			 and confidentiality of the sensitive account information or sensitive personal
+			 information involved in the breach of data security; and</text>
+          </subparagraph>
+          <subparagraph id="ID797f988c47db4ed7a44e0d5b2bff75c5">
+            <enum>(C)</enum>
+            <text>the summary of
+			 rights of victims of identity theft prepared by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2800">Commission</cato:entity-ref> under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Fair Credit Reporting Act/s:609/ss:d">section
+			 609(d) of the Fair Credit Reporting Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/1681g">
+                  <cato:entity-ref entity-type="uscode" value="usc/15/1681g/d">15 U.S.C. 1681g(d)</cato:entity-ref>
+                </external-xref>)</cato:entity>, if the breach of
+			 data security involves sensitive personal information.</text>
+          </subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection id="IDf08b64c09d1c4d29b270b1f174a01d6b">
+        <enum>(e)</enum>
+        <header>Timing of
+			 notice</header>
+        <text>The regulations required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:4/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall
+			 establish standards for when a covered entity shall provide any notice required
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3" proposed="true">section 3</cato:entity-ref>.</text>
+      </subsection>
+      <subsection id="IDb976adc82a7d418099776c116ec061a9">
+        <enum>(f)</enum>
+        <header>Law enforcement
+			 delay</header>
+        <text>The regulations required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:4/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall allow a
+			 covered entity to delay providing notice of a breach of data security to
+			 consumers under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3" proposed="true">section 3</cato:entity-ref> if a law enforcement agency requests such a delay in
+			 writing.</text>
+      </subsection>
+      <subsection id="IDca7fcc4e5def41bd981e9850a4a5b3f9">
+        <enum>(g)</enum>
+        <header>Service
+			 providers</header>
+        <text>The regulations required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:4/ss:a" proposed="true">subsection (a)</cato:entity-ref>
+			 shall—</text>
+        <paragraph id="idCE3A248F6EC9459BA9C41F34D39D1BB8">
+          <enum>(1)</enum>
+          <text>require any party
+			 that maintains or communicates sensitive account information or sensitive
+			 personal information on behalf of a covered entity to provide notice to that
+			 covered entity if the party determines that a breach of data security has, or
+			 may have, occurred with respect to the sensitive account information or sensitive personal information; and</text>
+        </paragraph>
+        <paragraph id="id6AF6DA62B95D415D942701D5D7A05CAC">
+          <enum>(2)</enum>
+          <text>ensure that there
+			 is only 1 notification responsibility with respect to a breach of data
+			 security.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="IDc046b076cf1b454990a2a0f211c0fd03">
+        <enum>(h)</enum>
+        <header>Timing of
+			 regulations</header>
+        <text>The regulations required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:4/ss:a" proposed="true">subsection (a)</cato:entity-ref>
+			 shall—</text>
+        <paragraph id="IDaccde20dacac4bb4a8fc7c59394a10ab">
+          <enum>(1)</enum>
+          <text>be issued in
+			 final form not later than 6 months after the date of enactment of this Act;
+			 and</text>
+        </paragraph>
+        <paragraph id="IDc00df2c7d7f24fab9f57f7e46d5ca38b">
+          <enum>(2)</enum>
+          <text>take effect not
+			 later than 6 months after the date on which they are issued in final
+			 form.</text>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="ID6cbd3e7da85d4bbab91c37f0c85c773f">
+      <enum>5.</enum>
+      <header>Administrative
+			 enforcement</header>
+      <subsection id="ID76e24c171aa84050afe14af1eb389c6f">
+        <enum>(a)</enum>
+        <header>In
+			 general</header>
+        <text>Notwithstanding any other provision of law, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3" proposed="true">section 3</cato:entity-ref>,
+			 and the regulations required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:4" proposed="true">section 4</cato:entity-ref>, shall be enforced exclusively
+			 under—</text>
+        <paragraph id="IDc5e97a61fada439b82df4e4e6c444f07">
+          <enum>(1)</enum>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Federal Deposit Insurance Act/s:8">section 8 of the
+			 Federal Deposit Insurance Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/12/1818">
+                <cato:entity-ref entity-type="uscode" value="usc/12/1818">12 U.S.C. 1818</cato:entity-ref>
+              </external-xref>)</cato:entity>, in the case of—</text>
+          <subparagraph id="ID23bed819bbf94b268f8e5c12c3070e7f">
+            <enum>(A)</enum>
+            <text>a national bank,
+			 a Federal branch or Federal agency of a foreign bank, or any subsidiary thereof
+			 (other than a broker, dealer, person providing insurance, investment company,
+			 or investment adviser), or a savings association, the deposits of which are
+			 insured by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5100">Federal Deposit Insurance Corporation</cato:entity-ref>, or any subsidiary thereof
+			 (other than a broker, dealer, person providing insurance, investment company,
+			 or investment adviser), by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2046">Office of the Comptroller of the
+			 Currency</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph id="ID68e83ef91f144d7aa47eadc528d23cf2">
+            <enum>(B)</enum>
+            <text>a member bank of
+			 the Federal Reserve System (other than a national bank), a branch or agency of
+			 a foreign bank (other than a Federal branch, Federal agency, or insured State
+			 branch of a foreign bank), a commercial lending company owned or controlled by
+			 a foreign bank, an organization operating under 
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Reserve Act/s:25">section 25</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Reserve Act/s:25A">25A of the
+			 Federal Reserve Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/12/601">
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/12/601">12 U.S.C. 601</cato:entity-ref>
+                </external-xref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/12/611">611</cato:entity-ref>), or a bank holding company and its
+			 nonbank subsidiary or affiliate (other than a broker, dealer, person providing
+			 insurance, investment company, or investment adviser), by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9559">Board of
+			 Governors of the Federal Reserve System</cato:entity-ref>; and</text>
+          </subparagraph>
+          <subparagraph id="ID7a4b96cc0f334258a9bde46fdf1d47ce">
+            <enum>(C)</enum>
+            <text>a bank, the
+			 deposits of which are insured by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5100">Federal Deposit Insurance Corporation</cato:entity-ref>
+			 (other than a member of the Federal Reserve System), an insured State branch of
+			 a foreign bank, or any subsidiary thereof (other than a broker, dealer, person
+			 providing insurance, investment company, or investment adviser), by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Directors" entity-parent-id="5100">Board
+			 of Directors of the Federal Deposit Insurance Corporation</cato:entity-ref>;</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="ID101b604a09e34e8a9138cc664cd6adde">
+          <enum>(2)</enum>
+          <text>the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Federal Credit Union Act">Federal
+			 Credit Union Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/12/1751">
+                <cato:entity-ref entity-type="uscode" value="usc/12/1751/etseq">12 U.S.C. 1751 et seq.</cato:entity-ref>
+              </external-xref>)</cato:entity>, by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="National Credit Union Administration Board">National Credit Union
+			 Administration Board</cato:entity-ref> with respect to any federally insured credit union;</text>
+        </paragraph>
+        <paragraph id="ID1c1f8cd0a796494489aa8fad8a1809da">
+          <enum>(3)</enum>
+          <text>the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Securities Exchange Act of 1934">Securities
+			 Exchange Act of 1934</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/78a">
+                <cato:entity-ref entity-type="uscode" value="usc/15/78a/etseq">15 U.S.C. 78a et seq.</cato:entity-ref>
+              </external-xref>)</cato:entity>, by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Securities and Exchange
+			 Commission</cato:entity-ref> with respect to any broker or dealer;</text>
+        </paragraph>
+        <paragraph id="ID2b8567a1f55148fe9685b1fcd62bfe41">
+          <enum>(4)</enum>
+          <text>the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Investment Company Act of 1940">Investment
+			 Company Act of 1940</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/80a-1">
+                <cato:entity-ref entity-type="uscode" value="usc/15/80a–1/etseq">15 U.S.C. 80a–1 et seq.</cato:entity-ref>
+              </external-xref>)</cato:entity>, by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Securities and Exchange
+			 Commission</cato:entity-ref> with respect to any investment company;</text>
+        </paragraph>
+        <paragraph id="IDcdce298ed35d4f00bed7db96e95d5552">
+          <enum>(5)</enum>
+          <text>the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Investment Advisers Act of 1940">Investment
+			 Advisers Act of 1940</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/80b-1">
+                <cato:entity-ref entity-type="uscode" value="usc/15/80b–1/etseq">15 U.S.C. 80b–1 et seq.</cato:entity-ref>
+              </external-xref>)</cato:entity>, by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Securities and Exchange
+			 Commission</cato:entity-ref> with respect to any investment adviser registered with the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="5000">Securities and Exchange Commission</cato:entity-ref> under that Act;</text>
+        </paragraph>
+        <paragraph id="ID7e2b82e1432f457e9304f2882338085a">
+          <enum>(6)</enum>
+          <text>the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Commodity Exchange Act">Commodity
+			 Exchange Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/7/1">
+                <cato:entity-ref entity-type="uscode" value="usc/7/1/etseq">7 U.S.C. 1 et seq.</cato:entity-ref>
+              </external-xref>)</cato:entity>, by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9507">Commodity Futures Trading Commission</cato:entity-ref>
+			 with respect to any futures commission merchant, commodity trading advisor,
+			 commodity pool operator, or introducing broker;</text>
+        </paragraph>
+        <paragraph id="id965E382AB9814FA4A05336881136B7E3">
+          <enum>(7)</enum>
+          <text>the provisions of
+			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Housing and Community Development Act of 1992/t:XIII">title XIII of the Housing and Community Development Act of 1992</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/12/4501/etseq">12 U.S.C. 4501
+			 et seq.</cato:entity-ref>)</cato:entity>, by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8656">Director of Federal Housing Enterprise Oversight</cato:entity-ref> (and any
+			 successor to the functional regulatory agency) with respect to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8681">Federal
+			 National Mortgage Association</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8683">Federal Home Loan Mortgage Corporation</cato:entity-ref>, and
+			 any other entity or enterprise (as defined in that title) subject to the
+			 jurisdiction of the functional regulatory agency under that title, including
+			 any affiliate of any the enterprise;</text>
+        </paragraph>
+        <paragraph id="IDd16dd2e3d9e1453695527e6109399af7">
+          <enum>(8)</enum>
+          <text>State insurance
+			 law, in the case of any person engaged in providing insurance, by the
+			 applicable State insurance authority of the State in which the person is
+			 domiciled; and</text>
+        </paragraph>
+        <paragraph id="IDdad8804b081f404c971210eff5252525">
+          <enum>(9)</enum>
+          <text>the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Federal Trade Commission Act">Federal Trade
+			 Commission Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/41">
+                <cato:entity-ref entity-type="uscode" value="usc/15/41/etseq">15 U.S.C. 41 et seq.</cato:entity-ref>
+              </external-xref>)</cato:entity>, by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Commission</cato:entity-ref> for any other covered
+			 entity that is not subject to the jurisdiction of any agency or authority
+			 described under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:5/ss:a/p:1..8" proposed="true">paragraphs (1) through (8)</cato:entity-ref>.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="ID3a43fedc5b0f46c7837f2c57e5eb764b">
+        <enum>(b)</enum>
+        <header>Extension of
+			 Federal Trade Commission enforcement authority</header>
+        <text>The authority of
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Commission</cato:entity-ref> to enforce compliance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3" proposed="true">section 3</cato:entity-ref>, and the regulations
+			 required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:4" proposed="true">section 4</cato:entity-ref>, under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:5/ss:a/p:8" proposed="true">subsection (a)(8)</cato:entity-ref> shall—</text>
+        <paragraph id="id741B6D3AE2114BB989B2A5D37A50F619">
+          <enum>(1)</enum>
+          <text>notwithstanding
+			 the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Federal Aviation Act of 1958">Federal Aviation Act of 1958</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc-appendix/49/1301/etseq">49 U.S.C. App. 1301 et seq.</cato:entity-ref>)</cato:entity>, include the
+			 authority to enforce compliance by air carriers and foreign air carriers;
+			 and</text>
+        </paragraph>
+        <paragraph id="idAF463ED8E81947C2AC05931688CEBDC5">
+          <enum>(2)</enum>
+          <text>notwithstanding
+			 the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Packers and Stockyards Act">Packers and Stockyards Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/7/181">
+                <cato:entity-ref entity-type="uscode" value="usc/7/181/etseq">7 U.S.C. 181 et seq.</cato:entity-ref>
+              </external-xref>)</cato:entity>, include the authority to
+			 enforce compliance by persons, partnerships, and corporations subject to the
+			 provisions of that Act.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="ID8315d055a07b45bd8b30be56fb302f90">
+        <enum>(c)</enum>
+        <header>No private
+			 right of Action</header>
+        <paragraph id="ID459c221f9c224b519b24a19e46da9a9d">
+          <enum>(1)</enum>
+          <header>In
+			 general</header>
+          <text>This Act, and the regulations prescribed under this Act,
+			 may not be construed to provide a private right of action, including a class
+			 action with respect to any act or practice regulated under this Act.</text>
+        </paragraph>
+        <paragraph id="ID85416ac4b15d41ce9f1a9f4233f46523">
+          <enum>(2)</enum>
+          <header>Civil and
+			 criminal Actions</header>
+          <text>No civil or criminal action relating to any act
+			 or practice governed under this Act, or the regulations prescribed under this
+			 Act, shall be commenced or maintained in any State court or under State law,
+			 including a pendent State claim to an action under Federal law.</text>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="idCA244872F1BD469BBB3F8E772407A323">
+      <enum>6.</enum>
+      <header>Protection of
+			 information at Federal agencies</header>
+      <subsection id="id4B6A5A4AAD2C470BBFDBD95C28D4C4FF">
+        <enum>(a)</enum>
+        <header>Data security
+			 standards</header>
+        <text>Each agency shall implement appropriate standards
+			 relating to administrative, technical, and physical safeguards—</text>
+        <paragraph id="ID1679529f98a8461c8bf93dc01e7d4593">
+          <enum>(1)</enum>
+          <text>to insure the
+			 security and confidentiality of the sensitive account information and sensitive
+			 personal information that is maintained or is being communicated by, or on
+			 behalf of, that agency;</text>
+        </paragraph>
+        <paragraph id="IDb601f1ca8bf64847b92c6a8a7ed492c3">
+          <enum>(2)</enum>
+          <text>to protect
+			 against any anticipated threats or hazards to the security of the sensitive account information and sensitive personal information;
+			 and</text>
+        </paragraph>
+        <paragraph id="ID71c9dc4bad6d4748a132ca2f0922c0eb">
+          <enum>(3)</enum>
+          <text>to protect
+			 against misuse of the sensitive account information and sensitive personal information that could result in substantial harm or
+			 inconvenience to a consumer.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="idEA60AFC70C584D7A97B4386176BAE277">
+        <enum>(b)</enum>
+        <header>Security breach
+			 notification standards</header>
+        <text>Each agency shall implement appropriate
+			 standards providing for notification of consumers when the agency determines
+			 that sensitive account information or sensitive personal information that is
+			 maintained or is being communicated by, or on behalf of, the agency—</text>
+        <paragraph id="id907ED4320C3146E3BDD7B4AAF06F4296">
+          <enum>(1)</enum>
+          <text>has been acquired
+			 without authorization; and</text>
+        </paragraph>
+        <paragraph id="idBC83BE5EB11545E38063B899EA25248E">
+          <enum>(2)</enum>
+          <text>is reasonably
+			 likely to be misused in a manner causing substantial harm or inconvenience to
+			 the consumers to whom the information relates.</text>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="ID90e6e7f2d88142268e0b65e35c51fb30">
+      <enum>7.</enum>
+      <header>Relation to
+			 State law</header>
+      <text display-inline="no-display-inline">No requirement or
+			 prohibition may be imposed under the laws of any State with respect to the
+			 responsibilities of any person to—</text>
+      <paragraph id="IDdc41827c1ce4404399d7ee960067a3c6">
+        <enum>(1)</enum>
+        <text>protect the
+			 security of information relating to consumers that is maintained or
+			 communicated by, or on behalf of, the person;</text>
+      </paragraph>
+      <paragraph id="IDa751bd964081434e98c240c74865ca70">
+        <enum>(2)</enum>
+        <text>safeguard
+			 information relating to consumers from potential misuse;</text>
+      </paragraph>
+      <paragraph id="IDce186a5af5544c3d8d80fe1f546f8d60">
+        <enum>(3)</enum>
+        <text>investigate or
+			 provide notice of the unauthorized access to information relating to consumers,
+			 or the potential misuse of the information, for fraudulent, illegal, or other
+			 purposes; or</text>
+      </paragraph>
+      <paragraph id="ID12f3cf9ac3a44f47a18e9682c1239087">
+        <enum>(4)</enum>
+        <text>mitigate any loss
+			 or harm resulting from the unauthorized access or misuse of information
+			 relating to consumers.</text>
+      </paragraph>
+    </section>
+    <section id="idD82D84E369534904927F4CAB36E1435E">
+      <enum>8.</enum>
+      <header>Delayed
+			 effective date for certain provisions</header>
+      <subsection id="id7CAE4BE2799C470CA70BB9B3AE307633">
+        <enum>(a)</enum>
+        <header>Covered
+			 entities</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:3" proposed="true">Sections 3</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:7" proposed="true">7</cato:entity-ref>
+			 shall take effect on the later of—</text>
+        <paragraph id="idE2DA5C836CCE4BBD8038A50621BD7CDD">
+          <enum>(1)</enum>
+          <text>1 year after the
+			 date of enactment of this Act; or</text>
+        </paragraph>
+        <paragraph id="id428000E84F3340A396ABEBCF9EE9CEFB">
+          <enum>(2)</enum>
+          <text>the effective
+			 date of the final regulations required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:4" proposed="true">section 4</cato:entity-ref>.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="idDD6DF1F0593B4BCD9D36E514CB94FAFA">
+        <enum>(b)</enum>
+        <header>Agencies</header>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Data Security Act of 2014/s:6" proposed="true">Section
+			 6</cato:entity-ref> shall take effect 1 year after the date of enactment of this Act.</text>
+      </subsection>
+    </section>
+  </legis-body>
+</bill>
+</doc>
