@@ -14,11 +14,14 @@ infotext   := $(xmlsource:xml/%.xml=info/%.txt)
 all: $(wikitext)
 
 info: $(infotext)
+	scripts/infoboxpostprocess.pl
 
 xmlsource:
 	basexclient -Uadmin -Padmin -bcwd="$$PWD/xml/" $(dumpxml)
 
 xmllookups: $(lookups)
+xmllookups:
+	scripts/update_lookups.pl
 
 clean:
 	rm wiki/*
@@ -28,11 +31,13 @@ clean:
 lookups/%.csv: lookups/%.xls
 	echo "$@ are out of date!" && exit 1
 
-lookups/%.xml: lookups/%.csv $(csv2lookup)
-	python $(csv2lookup) $< $@
+# lookups/%.xml: lookups/%.csv $(csv2lookup)
+# 	python $(csv2lookup) $< $@
 
-wiki/%.txt: xml/%.xml $(xml2wiki) $(lookups)
+wiki/%.txt: xml/%.xml $(xml2wiki)
 	xsltproc --output $@ $(xml2wiki) $<
 
-info/%.txt: xml/%.xml $(xml2info) $(lookups)
+info/%.txt: xml/%.xml $(xml2info)
 	xsltproc --output $@ $(xml2info) $<
+money/%.txt: xml/%.xml $(xml2money)
+	xsltproc --output $@ $(xml2money) $<
