@@ -81,7 +81,6 @@
 </template>
 
 <variable name="author">
-    <variable name="normalized" select="normalize-space()"/>
     <variable name="authorid" select="(//sponsor/@name-id)[1]"/>
     <variable name="wikipage">
         <call-template name="wikipedia-key">
@@ -94,10 +93,19 @@
 
 <variable name="besttitle" select="//short-title[text()] | //official-title[text() and not (//short-title[text()])]"/>
 <variable name="billtype" select="/doc/docmeta/bill/@type"/>
+<variable name="formattedbilltype">
+    <variable name="compareit" select="translate(/doc/docmeta/bill/@type, 'abcdefghijklmnopqrstuvwxyz', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ')"/>
+    <if test="$compareit = 'HJRES'">H.J. Res.</if>
+    <if test="$compareit = 'HR'">H.R.</if>
+    <if test="$compareit = 'HRES'">H. Res.</if>
+    <if test="$compareit = 'S'">S.</if>
+    <if test="$compareit = 'SCONRES'">S. Con. Res.</if>
+    <if test="$compareit = 'SRES'">S. Res.</if>    
+</variable>
+
 
 <template match="/doc">
 <variable name="action-date" select="*[2]/form/action/action-date/@date"/>{{header
- | title      = <value-of select="normalize-space($besttitle)"/> ( <value-of select='translate($billtype, "abcdefghijklmnopqrstuvwxyz", "ABCDEFGHIJKLMNOPQRSTUVWXYZ")'/> <value-of select="docmeta/bill/@number"/> ; <value-of select="docmeta/bill/@congress"/><text>th Congress)</text>
  | author     = <value-of select="$author"/>
  | related_author = United States Congress
  | translator = 
@@ -107,12 +115,12 @@
  | year       = <value-of select="substring($action-date, 1, 4)"/>
  | month      = <value-of select="substring($action-date, 5, 2)"/>
  | day        = <value-of select="substring($action-date, 7, 2)"/>
- | notes      = ''{{USBill|<value-of select="docmeta/bill/@congress"/>|<value-of select="$billtype"/>|<value-of select="docmeta/bill/@number"/>}}''<text> as introduced</text>
+ | notes      = ''{{USBill|<value-of select="docmeta/bill/@congress"/>|<value-of select="$formattedbilltype"/>|<value-of select="docmeta/bill/@number"/>}}''<text> as introduced</text>
  | categories =
  | portal     =
  | congress   = <value-of select="docmeta/bill/@congress"/>
  | session    = <value-of select="substring(*[2]/form/session, 1, 1)"/>
- | title      = <value-of select="normalize-space($besttitle)"/> ( <value-of select='translate($billtype, "abcdefghijklmnopqrstuvwxyz", "ABCDEFGHIJKLMNOPQRSTUVWXYZ")'/> <value-of select="docmeta/bill/@number"/> ; <value-of select="docmeta/bill/@congress"/><text>th Congress)</text>
+ | title      = <value-of select="normalize-space($besttitle)"/> ( <value-of select='$formattedbilltype'/><text> </text><value-of select="docmeta/bill/@number"/>; <value-of select="docmeta/bill/@congress"/><text>th Congress)</text>
  | bill       = <value-of select="docmeta/bill/@number"/>
  | billtype   = <value-of select="docmeta/bill/@type"/>
  | purpose    = <value-of select="normalize-space(*[2]/form/official-title)"/>
@@ -159,7 +167,7 @@
 </template>
 
 <template match="sponsor | cosponsor | cato:entity-ref[@entity-type='person']">
-    <text>&#xA;</text>
+    <text>&#xA;shitburger</text>
     <call-template name="wikilink">
         <with-param name="id" select="(@name-id | @entity-id)[1]"/>
         <with-param name="idx" select="$people"/>
@@ -195,8 +203,7 @@
     </call-template>
 </template>
 
-<template match="cato:entity-ref[@entity-type='public-law']
-    | external-xref[@legal-doc='public-law']">
+<template match="cato:entity-ref[@entity-type='public-law']">
     <variable name="parts" select="str:tokenize(@value, '/')"/>
     <variable name="congress" select="$parts[2]"/>
     <variable name="number" select="$parts[3]"/>
@@ -207,13 +214,19 @@
     <text>]] </text>
 </template>
 
-<!-- We need to suppress the external-xref when it's a usc mention AND contained within one of our usc
-references. This isn't perfect but it presumed that if we wrapped it we did so to provide a more
-specific reference than the external one.
-    -->
+<!-- Exclude external tags if we've tagged the same kind of thing inside or outside of them -->
+<template match="external-xref[@legal-doc='public-law' and not(.//cato:entity-ref[@entity-type='public-law']) and not(parent::cato:entity-ref[@entity-type='public-law'])]">
+    <variable name="parts" select="str:tokenize(@value, '/')"/>
+    <variable name="congress" select="$parts[2]"/>
+    <variable name="number" select="$parts[3]"/>
+    <text>[[Public Law </text>
+    <value-of select="concat($congress, '-', $number)"/>
+    <text>|</text>
+    <apply-templates/>
+    <text>]] </text>
+</template>
 
-<template match="cato:entity-ref[@entity-type='uscode'][starts-with(@value, 'usc/')]
-    |external-xref[@legal-doc='usc' and not(parent::cato:entity-ref[@entity-type='uscode'])]">
+<template match="cato:entity-ref[@entity-type='uscode'][starts-with(@value, 'usc/')]">
     <variable name="parts" select="str:tokenize(@value, '/')"/>
     <variable name="title" select="$parts[2]"/>
     <variable name="section" select="$parts[3]"/>
@@ -222,6 +235,16 @@ specific reference than the external one.
     <text> </text>
     <apply-templates/>
     <text>] </text>
+</template>
+
+<!-- We're going to suppress any external-xref usc that has a child cato item or parent cato item, as we want to use the cato item since they are more specific. -->
+<template match="external-xref[@legal-doc='usc' and not(.//cato:entity-ref[@entity-type='uscode']) and not(parent::cato:entity-ref[@entity-type='uscode'])]">
+    <variable name="parts" select="str:tokenize(@parsable-cite, '/')"/>
+    <variable name="title" select="$parts[2]"/>
+    <variable name="section" select="$parts[3]"/>
+    <text> [http://www.law.cornell.edu/uscode/text/</text>
+    <value-of select="concat($title,'/',$section)"/>
+    <text> </text><apply-templates/> <text>] </text>
 </template>
 
 <!-- 

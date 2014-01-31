@@ -189,8 +189,8 @@
 </variable>
 
 <variable name="chamber">
-    <variable name="chamber-code" select="//docmeta/@id"/>
-    <variable name="chamber-char" select="substring($chamber-code, string-length($chamber-code))"/>
+    <variable name="chamber-code" select="//docmeta/bill/@type"/>
+    <variable name="chamber-char" select="substring($chamber-code, 1, 1)"/>
     <if test="$chamber-char='h'"><text>House</text></if>
     <if test="$chamber-char='s'"><text>Senate</text></if>
 </variable>
@@ -474,7 +474,7 @@ wuff what a hassle. this is option but may have values like:
 | number of co-sponsors = <value-of select="count(//cosponsor)"/>
 | public law url  = 
 | cite public law = <!-- <value-of select="$public-law"/> --><!--{{USPL|XXX|YY}} where X is the congress number and Y is the law number-->
-| cite statutes at large = <value-of select="$statute-at-large"/><!--{{usstat}} can be used-->
+| cite statutes at large = <!--<value-of select="$statute-at-large"/>--><!--{{usstat}} can be used-->
 | acts affected    = <value-of select="$acts"/><!--list, if applicable; make wikilinks where possible-->
 | acts repealed   = <!--list, if applicable; make wikilinks where possible-->
 | title affected   = <!--US code titles changed-->
@@ -487,7 +487,7 @@ wuff what a hassle. this is option but may have values like:
 | introducedin    = <value-of select="$chamber"/>
 | introducedbill  = {{USBill|<value-of select="docmeta/bill/@congress"/>|<value-of select="$billtype"/>|<value-of select="docmeta/bill/@number"/>}}
 | introducedby    = <value-of select="$author"/>
-| introduceddate  = <value-of select="*[2]/form/action/action-date[text()]"/>
+| introduceddate  = <value-of select="normalize-space(*[2]/form/action/action-date[text()])"/>
 | committees      = <apply-templates select="bill/form/action/action-desc/committee-name"/>
 | passedbody1     = <!--House or Senate-->
 | passeddate1     = <!--date of passage-->
