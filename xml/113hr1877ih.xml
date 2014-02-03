@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113hr1877ih">
     <bill congress="113" type="hr" number="1877" version="ih"/>
-    <revision size="97797" annotations="0" status="complete" id="20" commit-time="2013-06-30T23:29:15Z" committer="mbohmer" doc="113hr1877ih/20.xml">
+    <revision size="98188" annotations="0" status="complete" id="24" commit-time="2014-01-30T23:56:55Z" committer="mbohmer" doc="113hr1877ih/24.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H4DDBE0EF6601456E981C73640D745AD5" public-private="public">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata>
 <dublinCore>
-<dc:title>113 HR 1877 IH: Water Quality Protection and Job Creation Act of 2013</dc:title>
-<dc:publisher>U.S. House of Representatives</dc:publisher>
-<dc:date>2013-05-08</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 1877 IH: Water Quality Protection and Job Creation Act of 2013</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-05-08</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -235,11 +235,13 @@
             <paragraph id="H82D04525D3B44E77B1114990DD091851">
               <enum>(2)</enum>
               <text>by inserting
-			 before the period at the end the following: <quote>; and (7) not to exceed
-			 $100,000,000 for each of fiscal years 2014 through 2018 for carrying out
-			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Water Pollution Control Act/s:104/ss:b/p:3">subsections (b)(3)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Water Pollution Control Act/s:104/ss:b/p:8">(b)(8)</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Water Pollution Control Act/s:104/ss:g">(g)</cato:entity-ref>, except that not less than 20 percent of
+			 before the period at the end the following: <quote>; and (7) <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">not to exceed
+			 <cato:funds-and-year amount="100000000" year="2014, 2015, 2016, 2017, 2018">$100,000,000 for each of fiscal years 2014 through 2018</cato:funds-and-year> <cato:property name="purpose">for carrying out
+			 <cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/s:104/ss:b/p:3">subsections (b)(3)</cato:entity-ref>, <cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/s:104/ss:b/p:8">(b)(8)</cato:entity-ref>, and <cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/s:104/ss:g">(g)</cato:entity-ref>
+                    </cato:property>, except that not less than 20 percent of
 			 the amounts appropriated pursuant to this paragraph in a fiscal year shall be
-			 used for carrying out <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Water Pollution Control Act/s:104/ss:b/p:8">subsection (b)(8)</cato:entity-ref>
+			 used for carrying out <cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/s:104/ss:b/p:8">subsection (b)(8)</cato:entity-ref>
+                  </cato:entity>
                 </quote>.</text>
 						</paragraph>
           </subsection>
@@ -334,7 +336,9 @@
 			 Projects</header>
             <text>
               <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
-                <cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/s:122">Section 122</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/33/1274">33 U.S.C. 1274</external-xref>)</cato:entity> is amended—</text>
+                <cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/s:122">Section 122</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/33/1274">
+                  <cato:entity-ref entity-type="uscode" value="usc/33/1274">33 U.S.C. 1274</cato:entity-ref>
+                </external-xref>)</cato:entity> is amended—</text>
 						<paragraph id="H18CBB88CF34C4EE2A1D2B30B06DBD9C4">
               <enum>(1)</enum>
               <text>in the section
@@ -1792,30 +1796,45 @@
 			 (1) through (5)</cato:entity-ref> and inserting the following:</text>
 					<quoted-block display-inline="no-display-inline" id="H2113C80412A74110A80A84F1EA474E06" style="OLC">
 						<paragraph id="HBE380B15AAD24BF5B0D28EBBAE4C37F2">
-              <enum>(1)</enum>
-              <text>$2,400,000,000 for
-				fiscal year 2014;</text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                <enum>(1)</enum>
+              <text>
+                  <cato:funds-and-year amount="2400000000" year="2014">$2,400,000,000 for
+				fiscal year 2014</cato:funds-and-year>;</text>
+              </cato:entity>
 						</paragraph>
             <paragraph id="HF27C79F32D754011ACD5C9D2DCB1F9B6">
-              <enum>(2)</enum>
-              <text>$2,700,000,000 for
-				fiscal year 2015;</text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                <enum>(2)</enum>
+              <text>
+                  <cato:funds-and-year amount="2700000000" year="2015">$2,700,000,000 for
+				fiscal year 2015</cato:funds-and-year>;</text>
+              </cato:entity>
 						</paragraph>
             <paragraph id="HD299BBFC30EF41379C29F16912C8B440">
-              <enum>(3)</enum>
-              <text>$2,800,000,000 for
-				fiscal year 2016;</text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                <enum>(3)</enum>
+              <text>
+                  <cato:funds-and-year amount="2800000000" year="2016">$2,800,000,000 for
+				fiscal year 2016</cato:funds-and-year>;</text>
+              </cato:entity>
 						</paragraph>
             <paragraph id="HE4788585FD06427DBAE8E751E7D38039">
-              <enum>(4)</enum>
-              <text>$2,900,000,000 for
-				fiscal year 2017; and</text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                <enum>(4)</enum>
+              <text>
+                  <cato:funds-and-year amount="2900000000" year="2017">$2,900,000,000 for
+				fiscal year 2017</cato:funds-and-year>; and</text>
+              </cato:entity>
 						</paragraph>
             <paragraph id="H235BA18551B0485D8FC4F8DB80A998D6">
-              <enum>(5)</enum>
-              <text>$3,000,000,000 for
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                <enum>(5)</enum>
+              <text>
+                  <cato:funds-and-year amount="3000000000" year="2018">$3,000,000,000 for
 				fiscal year
-				2018.</text>
+				2018</cato:funds-and-year>.</text>
+              </cato:entity>
 						</paragraph>
             <after-quoted-block>.</after-quoted-block>
           </quoted-block>
@@ -2207,8 +2226,12 @@
 			 (<external-xref legal-doc="usc" parsable-cite="usc/33/1300">
                 <cato:entity-ref entity-type="uscode" value="usc/33/1300/j">33 U.S.C. 1300(j)</cato:entity-ref>
               </external-xref>)</cato:entity> is amended by striking <quote>$75,000,000 for fiscal years
-			 2002 through 2004</quote> and inserting <quote>$50,000,000 for each of fiscal
-			 years 2014 through 2018</quote>.</text>
+			 2002 through 2004</quote> and inserting <quote>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                <cato:funds-and-year amount="50000000" year="2014, 2015, 2016, 2017">$50,000,000 for each of fiscal
+			 years 2014 through 2018</cato:funds-and-year>
+              </cato:entity>
+            </quote>.</text>
 				</subsection>
       </section>
     </title>

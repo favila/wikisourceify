@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113hr3102ih">
     <bill congress="113" type="hr" number="3102" version="ih"/>
-    <revision size="161158" annotations="0" status="complete" id="7" commit-time="2013-09-19T17:35:45Z" committer="mbohmer" doc="113hr3102ih/7.xml">
+    <revision size="161158" annotations="0" status="complete" id="11" commit-time="2014-01-30T17:36:54Z" committer="mbohmer" doc="113hr3102ih/11.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HF1C0F8D508084ED7B920E7EBE8C9E38F" public-private="public">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata>
 <dublinCore>
-<dc:title>113 HR 3102 IH: Nutrition Reform and Work Opportunity Act of 2013</dc:title>
-<dc:publisher>U.S. House of Representatives</dc:publisher>
-<dc:date>2013-09-16</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 3102 IH: Nutrition Reform and Work Opportunity Act of 2013</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-09-16</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -868,7 +868,7 @@
 			 U.S.C. 2014(a)</cato:entity-ref>)</cato:entity> is amended in the 2d sentence by striking <quote>sections 6(b),
 			 6(d)(2), and 6(g)</quote> and inserting <quote>
               <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Food and Nutrition Act of 2008/s:6/ss:b">subsections (b)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Food and Nutrition Act of 2008/s:6/ss:d/p:2">(d)(2)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Food and Nutrition Act of 2008/s:6/ss:g">(g)</cato:entity-ref>,
-			 and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Food and Nutrition Act of 2008/s:6/ss:r">(r) of section 6</cato:entity-ref>
+			 and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Food and Nutrition Act of 2008/s:6/ss:r" proposed="true">(r) of section 6</cato:entity-ref>
             </quote>.</text>
 				</subsection>
       </section>
@@ -911,7 +911,7 @@
         <paragraph id="HD2396FC99035412AAE4F4AA051E0994F">
           <enum>(3)</enum>
           <text>by adding after
-			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Food and Nutrition Act of 2008/s:7/ss:h/p:8/sp:A">subparagraph (A)</cato:entity-ref> (as so designated by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Nutrition Reform and Work Opportunity Act of 2013/s:111/p:2" proposed="true">paragraph (2)</cato:entity-ref>) the following:</text>
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Food and Nutrition Act of 2008/s:7/ss:h/p:8/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> (as so designated by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Nutrition Reform and Work Opportunity Act of 2013/s:111/p:2" proposed="true">paragraph (2)</cato:entity-ref>) the following:</text>
 					<quoted-block display-inline="no-display-inline" id="H5F4EB73A91174AF5B607AFFBEA28262D" style="OLC">
 						<subparagraph id="H84D1CB741C9245F7BC735503229523A6">
               <enum>(B)</enum>
@@ -2131,12 +2131,15 @@
                 <enum>(A)</enum>
                 <header>In
 				general</header>
-                <text display-inline="yes-display-inline">Out of any funds in
-				the Treasury not otherwise appropriated, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref> shall
-				transfer to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1200">Secretary</cato:entity-ref> to carry out this section not less than $10,000,000
-				for fiscal year 2014 and each fiscal year thereafter. Of the amount made
+                <text display-inline="yes-display-inline">
+                    <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">Out of any funds in
+				the Treasury not otherwise appropriated, the <cato:entity-ref entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref> shall
+				transfer to the <cato:entity-ref entity-type="federal-body" entity-id="1200">Secretary</cato:entity-ref> <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Food and Nutrition Act of 2008/s:25">this section</cato:entity-ref>
+                      </cato:property> not less than <cato:funds-and-year amount="10000000" year="2014,..">$10,000,000
+				for fiscal year 2014 and each fiscal year thereafter</cato:funds-and-year>. Of the amount made
 				available under this subparagraph for each such fiscal year, $5,000,000 shall
-				be available to carry out <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Food and Nutrition Act of 2008/s:25/ss:a/p:1/sp:B/cl:I/scl:IV">subsection (a)(1)(B)(I)(IV)</cato:entity-ref>.</text>
+				be available to carry out <cato:entity-ref entity-type="act" value="Food and Nutrition Act of 2008/s:25/ss:a/p:1/sp:B/cl:I/scl:IV">subsection (a)(1)(B)(I)(IV)</cato:entity-ref>.</cato:entity>
+                  </text>
 							</subparagraph>
               <subparagraph id="H9BB35BFB0B4345368B7C959D7FB2FE24">
                 <enum>(B)</enum>

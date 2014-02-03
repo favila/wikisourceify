@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113hr1940ih">
     <bill congress="113" type="hr" number="1940" version="ih"/>
-    <revision size="22904" annotations="0" status="complete" id="3" commit-time="2013-07-05T16:46:35Z" committer="mbohmer" doc="113hr1940ih/3.xml">
+    <revision size="22904" annotations="0" status="complete" id="4" commit-time="2014-01-30T18:48:08Z" committer="mbohmer" doc="113hr1940ih/4.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HFA1F5DE62FCB45A897D3F31748B8CE7E" public-private="public">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata>
 <dublinCore>
-<dc:title>113 HR 1940 IH: Reducing Barriers to Learning Act of 2013</dc:title>
-<dc:publisher>U.S. House of Representatives</dc:publisher>
-<dc:date>2013-05-09</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 1940 IH: Reducing Barriers to Learning Act of 2013</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-05-09</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -610,7 +610,9 @@
           <text>
             <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
               <cato:entity-ref entity-type="act" value="Elementary and Secondary Education Act of 1965/s:9101/p:36">Paragraph (36) of
-			 section 9101 of such Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801</external-xref>)</cato:entity> is amended to read as follows:</text>
+			 section 9101 of such Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">
+                  <cato:entity-ref entity-type="uscode" value="usc/20/7801">20 U.S.C. 7801</cato:entity-ref>
+                </external-xref>)</cato:entity> is amended to read as follows:</text>
 					<quoted-block display-inline="no-display-inline" id="HE7E4830E08DD412CA51C8C92AB94A2C8" style="OLC">
 						<paragraph id="HA057228E68C648839266932D9A760F1C">
               <enum>(36)</enum>

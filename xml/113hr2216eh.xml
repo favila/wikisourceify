@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113hr2216eh">
     <bill congress="113" type="hr" number="2216" version="eh"/>
-    <revision size="88231" annotations="0" status="complete" id="11" commit-time="2013-07-11T18:09:23Z" committer="mbohmer" doc="113hr2216eh/11.xml">
+    <revision size="88231" annotations="0" status="complete" id="13" commit-time="2014-01-27T23:08:00Z" committer="mbohmer" doc="113hr2216eh/13.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Engrossed-in-House" bill-type="appropriations" dms-id="ID34BAC14540CB4BC4ADFBFC96EE9D188A" public-private="public" stage-count="1"> 
-<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<metadata>
 <dublinCore>
-<dc:title>113 HR 2216 EH: Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2014, and for other purposes.</dc:title>
-<dc:publisher>U.S. House of Representatives</dc:publisher>
-<dc:date/>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 2216 EH: Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2014, and for other purposes.</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -240,7 +240,9 @@
         <text display-inline="yes-display-inline">In addition to any other transfer authority available to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9700">Department of Defense</cato:entity-ref>, amounts may be transferred from the accounts established by <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
             <cato:entity-ref entity-type="act" value="Defense Base Closure and Realignment Act of 1990/s:2906/ss:a/p:1">sections 2906(a)(1)</cato:entity-ref> and <cato:entity-ref entity-type="act" value="Defense Base Closure and Realignment Act of 1990/s:2906A/ss:a/p:1">2906A(a)(1) of the Defense Base Closure and Realignment Act of 1990</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/10/2687/note">
               <external-xref legal-doc="usc" parsable-cite="usc/10/2687">10 U.S.C. 2687</external-xref> note</cato:entity-ref>)</cato:entity>, to the fund established by <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
-            <cato:entity-ref entity-type="act" value="Demonstration Cities and Metropolitan Development Act of 1966/s:1013/ss:d">section 1013(d) of the Demonstration Cities and Metropolitan Development Act of 1966</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/3374">42 U.S.C. 3374</external-xref>)</cato:entity> to pay for expenses associated with the Homeowners Assistance Program incurred under <external-xref legal-doc="usc" parsable-cite="usc/42/3374">
+            <cato:entity-ref entity-type="act" value="Demonstration Cities and Metropolitan Development Act of 1966/s:1013/ss:d">section 1013(d) of the Demonstration Cities and Metropolitan Development Act of 1966</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/3374">
+                <cato:entity-ref entity-type="uscode" value="usc/42/3374">42 U.S.C. 3374</cato:entity-ref>
+              </external-xref>)</cato:entity> to pay for expenses associated with the Homeowners Assistance Program incurred under <external-xref legal-doc="usc" parsable-cite="usc/42/3374">
             <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/42/3374/a/1/A">42 U.S.C. 3374(a)(1)(A)</cato:entity-ref>
           </external-xref>. Any amounts transferred shall be merged with and be available for the same purposes and for the same time period as the fund to which transferred.</text> </section> 
 <section changed="not-changed" id="H98BB299FA97640A5930B5F5A37DE1DE6">
@@ -750,7 +752,9 @@
         <text display-inline="no-display-inline">
           <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">
             <cato:property name="purpose">For necessary expenses for the operation of the <cato:entity-ref entity-type="federal-body" entity-id="9593">United States Court of Appeals for Veterans Claims</cato:entity-ref> as authorized by <cato:entity-ref entity-type="uscode" value="usc/38/7251..7298">sections 7251 through 7298 of title 38, United States Code</cato:entity-ref>
-            </cato:property>, <cato:funds-and-year amount="35272000" year="2014">$35,272,000</cato:funds-and-year>: <italic>Provided</italic>, That $2,500,000 shall be available for the purpose of providing financial assistance as described, and in accordance with the process and reporting procedures set forth, under this heading in <external-xref legal-doc="public-law" parsable-cite="pl/102/229">Public Law 102–229</external-xref>.</cato:entity>
+            </cato:property>, <cato:funds-and-year amount="35272000" year="2014">$35,272,000</cato:funds-and-year>: <italic>Provided</italic>, That $2,500,000 shall be available for the purpose of providing financial assistance as described, and in accordance with the process and reporting procedures set forth, under this heading in <external-xref legal-doc="public-law" parsable-cite="pl/102/229">
+                <cato:entity-ref entity-type="public-law" value="public-law/102/229">Public Law 102–229</cato:entity-ref>
+              </external-xref>.</cato:entity>
         </text> </appropriations-small>
       <appropriations-intermediate id="H59D9877F36F64CFEB0AF9E221FD68144">
         <header>Department of defense—Civil</header> </appropriations-intermediate>
