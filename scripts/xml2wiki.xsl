@@ -167,7 +167,7 @@
 </template>
 
 <template match="sponsor | cosponsor | cato:entity-ref[@entity-type='person']">
-    <text>&#xA;shitburger</text>
+    <text>&#xA;</text>
     <call-template name="wikilink">
         <with-param name="id" select="(@name-id | @entity-id)[1]"/>
         <with-param name="idx" select="$people"/>
