@@ -5,4 +5,426 @@
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H3C534BBF1E584412ABE53F45B1E60BEC" public-private="public">
+  <metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 3875 IH: Telephone Metadata Reform Act</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-01-14</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+    <congress>113th CONGRESS</congress>
+    <session>2d Session</session>
+    <legis-num>H. R. 3875</legis-num>
+    <current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+    <action>
+      <action-date date="20140114">January 14, 2014</action-date>
+      <action-desc>
+        <sponsor name-id="S001150">Mr. Schiff</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>, and in addition to the <committee-name committee-id="">Select Committee on Intelligence (Permanent Select)</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+    </action>
+    <legis-type>A BILL</legis-type>
+    <official-title>To amend the Foreign Intelligence Surveillance Act of 1978 to reform the telephone metadata program.</official-title>
+  </form>
+  <legis-body id="HFC0427B44D744DF4888F9DB2046A0150" style="OLC">
+    <section id="H2338E3BD60514B6D900B5C8132A1EFEB" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title</header>
+      <text display-inline="no-display-inline">This Act may be cited as the <quote>
+          <short-title>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Telephone Metadata Reform Act" proposed="true">Telephone Metadata Reform Act</cato:entity-ref>
+          </short-title>
+        </quote>.</text>
+    </section>
+    <section id="H34005136A7774423B7CCE6F54618AE40" section-type="subsequent-section">
+      <enum>2.</enum>
+      <header>Searches of bulk caller data</header>
+      <subsection id="H50C90C7AAF57432D84043E0559EC9FCC">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/t:V">Title V of the Foreign Intelligence Surveillance Act of 1978</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/50/1861">
+            <cato:entity-ref entity-type="uscode" value="usc/50/1861/etseq">50 U.S.C. 1861 et seq</cato:entity-ref>.</external-xref>)</cato:entity> is amended—</text>
+        <paragraph id="H72FCA9FE9137473683E5893924B6FADF">
+          <enum>(1)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:501">section 501</cato:entity-ref>—</text>
+          <subparagraph id="H5358E5B197F94E6F9B67FCAA1BFF5BDC">
+            <enum>(A)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:501/ss:a/p:1">subsection (a)(1)</cato:entity-ref>, by striking <quote>other items</quote> and inserting <quote>other items, but not including call data records</quote>; and</text>
+          </subparagraph>
+          <subparagraph id="H4D22257B38274830A5F957102F4CFD9D">
+            <enum>(B)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:501/ss:e">subsection (e)</cato:entity-ref>, by inserting <quote>or section 502</quote> after <quote>this section</quote>;</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="H28E4B4AAD91C47CF8D63C4775DB7C0A0">
+          <enum>(2)</enum>
+          <text>by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502">section 502</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:503" proposed="true">section 503</cato:entity-ref>;</text>
+        </paragraph>
+        <paragraph id="H2EEB67BE6B0E424C85B829A62CB6F14C">
+          <enum>(3)</enum>
+          <text>by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:501">section 501</cato:entity-ref> the following new section:</text>
+          <quoted-block display-inline="no-display-inline" id="H20B493D587994C839F3B5823B7F04849" style="OLC">
+            <section id="HEE78B12D3A1C44318A041A4BB6EF467E">
+              <enum>502.</enum>
+              <header>Access to certain call data records for foreign intelligence and international terrorism investigations</header>
+              <subsection id="HE92DE6421DB4481FA80D9F97A8B27FF5">
+                <enum>(a)</enum>
+                <header>In general</header>
+                <paragraph id="H4B79AD0F971442DC946EEF35D9E5DF6F">
+                  <enum>(1)</enum>
+                  <header>Application</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Director of the Federal Bureau of Investigation</cato:entity-ref> or a designee of the Director (whose rank shall be no lower than Assistant Special Agent in Charge) may make an application for an order directing a telecommunications carrier to search the call data records of such telecommunication carrier using a call data record as the basis of such search and to produce the results of such search in a format specified by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Director</cato:entity-ref> or such designee to the Director or such designee not later than 12 hours after being directed to do so. Each application under this paragraph shall—</text>
+                  <subparagraph id="HF45674FD506F4018A7C77B605B1B3948">
+                    <enum>(A)</enum>
+                    <text>be made to a judge described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:501/ss:b/p:1">section 501(b)(1)</cato:entity-ref>;</text>
+                  </subparagraph>
+                  <subparagraph commented="no" id="H6E87A618CAF94DAF84FAF3B153B6CB3F">
+                    <enum>(B)</enum>
+                    <text>specify each telecommunications carrier that the applicant requests be directed to search call data records and produce the results of such search; and</text>
+                  </subparagraph>
+                  <subparagraph id="HDBDC1C05335E4365A2D8B64056350329">
+                    <enum>(C)</enum>
+                    <text display-inline="yes-display-inline">include a statement of facts showing that there is a reasonable suspicion, based on specific and articulable facts, that the call data record to be used as the basis for the search is associated with a specific foreign terrorist organization, a specific clandestine intelligence activity, or specific foreign intelligence not concerning a United States person.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph display-inline="no-display-inline" id="HEC4474B887E84B6FA82E467E95EEE2EC">
+                  <enum>(2)</enum>
+                  <header>Order</header>
+                  <subparagraph id="HC743A867864442D993CCCA515DCBDF48">
+                    <enum>(A)</enum>
+                    <header>Review of application</header>
+                    <text display-inline="yes-display-inline">Upon an application made pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:a/p:1" proposed="true">paragraph (1)</cato:entity-ref>, if the judge finds that the application meets the requirements of such paragraph, the judge shall enter an ex parte order as requested, or as modified, approving the application.</text>
+                  </subparagraph>
+                  <subparagraph id="H1546D6E4696E4457980EEC3B4FDDAEE1">
+                    <enum>(B)</enum>
+                    <header>Presumption</header>
+                    <text display-inline="yes-display-inline">In reviewing an application under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:a/p:2/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>, a judge shall consider a call data record presumptively associated with a specific foreign terrorist organization, a specific clandestine intelligence activity, or specific foreign intelligence not concerning a United States person if the applicant shows in the statement of the facts that such call data record pertains to—</text>
+                    <clause id="H19AC38F084F24989A25D412911116357">
+                      <enum>(i)</enum>
+                      <text>a foreign power or an agent of a foreign power;</text>
+                    </clause>
+                    <clause id="H6430C190D25A4C8C8E0AC0DCF0AE3927">
+                      <enum>(ii)</enum>
+                      <text>the activities of a suspected agent of a foreign power who is the subject of such authorized investigation; or</text>
+                    </clause>
+                    <clause id="H5AFE158CA7384F5CBFF3562F6B6A5F34">
+                      <enum>(iii)</enum>
+                      <text>an individual in contact with, or known to, a suspected agent of a foreign power who is the subject of such authorized investigation.</text>
+                    </clause>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection display-inline="no-display-inline" id="H810A147846B24574B3B239BFFD8F4FAA">
+                <enum>(b)</enum>
+                <header>Exigent circumstances</header>
+                <paragraph id="H1909637F035A4DDF8FAD37DBF28A7B27">
+                  <enum>(1)</enum>
+                  <header>Emergency directive</header>
+                  <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Director of the Federal Bureau of Investigation</cato:entity-ref> or a designee of the Director (whose rank shall be no lower than Assistant Special Agent in Charge) may direct a telecommunications carrier to search the call data records of such telecommunication carrier using a call data record as the basis of such search and to produce the results of such search in a format specified by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Director</cato:entity-ref> or such designee to the Director or such designee not later than 6 hours after being directed to do so if—</text>
+                  <subparagraph id="H6C18DD4BD88E4F168E0CF454168F4E46">
+                    <enum>(A)</enum>
+                    <text display-inline="yes-display-inline">the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Director</cato:entity-ref> or such designee determines that the records sought are required due to exigent circumstances and that obtaining an order in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:a" proposed="true">subsection (a)</cato:entity-ref> would substantially delay an investigation;</text>
+                  </subparagraph>
+                  <subparagraph id="HC0ED766F12F44D13A6755BF239F26D46">
+                    <enum>(B)</enum>
+                    <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Director</cato:entity-ref> or such designee notifies a judge described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:501/ss:b/p:1">section 501(b)(1)</cato:entity-ref> not later than 24 hours after the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Director</cato:entity-ref> or such designee exercises the authority under this subsection that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Director</cato:entity-ref> or such designee exercised such authority; and</text>
+                  </subparagraph>
+                  <subparagraph id="HC77047B265C64EC8BBBBF4C45489911E">
+                    <enum>(C)</enum>
+                    <text>an application for an order under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:a" proposed="true">subsection (a)</cato:entity-ref> with respect to the search and production of call data records conducted under such directive is made to such judge as soon as practicable, but not more than 5 days after the date on which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Director</cato:entity-ref> or such designee exercises the authority under this subsection.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="HC9A31D9D789048D49A528FBCDB2637EB">
+                  <enum>(2)</enum>
+                  <header>Use of information</header>
+                  <text>If an application for an order requiring the search and production of the call data records acquired under an emergency directive issued under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref> is denied, or in any other case where the search and production of call data records pursuant to a directive issued under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref> is terminated and no order under this section is issued approving the search and production of such call data records—</text>
+                  <subparagraph id="H4FBFDA6172D04419BAF3B0FE1DF8E118">
+                    <enum>(A)</enum>
+                    <text>such call data records shall be destroyed;</text>
+                  </subparagraph>
+                  <subparagraph id="HEBC8ADB2EFF84755B6D47CD10ADB3ED9">
+                    <enum>(B)</enum>
+                    <text>any call data records acquired pursuant to a subsequent search under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:c" proposed="true">subsection (c)</cato:entity-ref> based on the call data records obtained under such directive shall be destroyed;</text>
+                  </subparagraph>
+                  <subparagraph id="H06C218F6EF544DDCA3ACE3CAD79BEABB">
+                    <enum>(C)</enum>
+                    <text>no information obtained or evidence derived from the search and production of call data records under such directive or from such subsequent search shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof; and</text>
+                  </subparagraph>
+                  <subparagraph id="HC660F9A009274E6DAF0468EE4706B9D4">
+                    <enum>(D)</enum>
+                    <text>no information concerning any United States person acquired from such search and production of call records shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of such person.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="H644E3D69F2594312A5BAF625F37589F9">
+                  <enum>(3)</enum>
+                  <header>Enforcement</header>
+                  <subparagraph id="HE38E85316F7A42008025F6F157EED7BB">
+                    <enum>(A)</enum>
+                    <header>Order to compel</header>
+                    <text display-inline="yes-display-inline">If a telecommunications carrier fails to comply with a directive issued pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> may file a petition for an order to compel the telecommunications carrier to comply with the directive with a judge described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:501/ss:b/p:1">section 501(b)(1)</cato:entity-ref>.</text>
+                  </subparagraph>
+                  <subparagraph id="HB7A34A8AF1BA4611A728242B7CFF54CB">
+                    <enum>(B)</enum>
+                    <header>Review</header>
+                    <text display-inline="yes-display-inline">If a judge considering a petition submitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:b/p:3/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> finds that the directive meets the requirements of this section and is otherwise lawful, the judge shall issue an order requiring the telecommunications carrier to comply with such directive.</text>
+                  </subparagraph>
+                  <subparagraph id="H5F0999EFB3F84E069CE40D4B42728FBB">
+                    <enum>(C)</enum>
+                    <header>Contempt of court</header>
+                    <text display-inline="yes-display-inline">Failure to obey an order issued under this paragraph may be punished by the judge as contempt of court.</text>
+                  </subparagraph>
+                  <subparagraph id="H7CA82A0AC9D441938D190C6F55E76CC2">
+                    <enum>(D)</enum>
+                    <header>Process</header>
+                    <text display-inline="yes-display-inline">Any process under this paragraph may be served in any judicial district in which the telecommunications carrier may be found.</text>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection commented="no" id="HD8948660702D48AD8F64DE64AAD9009C">
+                <enum>(c)</enum>
+                <header>Subsequent search using results of initial search</header>
+                <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Director of the Federal Bureau of Investigation</cato:entity-ref> or a designee of the Director (whose rank shall be no lower than Assistant Special Agent in Charge) may require a telecommunications carrier to conduct a search of the call data records of that telecommunications carrier using the results of a search conducted pursuant to an order under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:a" proposed="true">subsection (a)</cato:entity-ref> or a directive under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:b" proposed="true">subsection (b)</cato:entity-ref> as the basis for the search under this paragraph and to produce the results of such search under this paragraph in a format specified by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Director</cato:entity-ref> of such designee to the Director or such designee not later than 12 hours after being directed to do so.</text>
+              </subsection>
+              <subsection id="HD451EABBDAFD4675A290F52DBD9AEC5C">
+                <enum>(d)</enum>
+                <header>Nondisclosure</header>
+                <paragraph id="H524708899BA34013A2F399B52A4FEC30">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>No person shall disclose to any other person that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Federal Bureau of Investigation</cato:entity-ref> has sought or obtained call data records pursuant to an order or directive under this section other than to—</text>
+                  <subparagraph id="H387DE6C8420D4ED2B701872B43D04291">
+                    <enum>(A)</enum>
+                    <text>those persons to whom disclosure is necessary to comply with such order or such directive;</text>
+                  </subparagraph>
+                  <subparagraph id="H679DE14DDAED4CB798E31FDE905FE8DC">
+                    <enum>(B)</enum>
+                    <text>an attorney to obtain legal advice or assistance with respect to the search and production of call data records in response to such order or such directive; or</text>
+                  </subparagraph>
+                  <subparagraph id="H4C41FB62BEE1480D9537B6DEF5A44573">
+                    <enum>(C)</enum>
+                    <text>other persons as permitted by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Director of the Federal Bureau of Investigation</cato:entity-ref> or the designee of the Director.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph display-inline="no-display-inline" id="H40E04777F01F40198D1008B8C3D47991">
+                  <enum>(2)</enum>
+                  <header>Persons to whom an order is disclosed</header>
+                  <subparagraph display-inline="no-display-inline" id="HAF457E452EB245EEB0DA18E9C00E7ED2">
+                    <enum>(A)</enum>
+                    <header>Applicability of nondisclosure requirement</header>
+                    <text>A person to whom disclosure is made pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:d/p:1" proposed="true">paragraph (1)</cato:entity-ref> shall be subject to the nondisclosure requirements applicable to a person to whom an order is directed under this section in the same manner as such person.</text>
+                  </subparagraph>
+                  <subparagraph display-inline="no-display-inline" id="H0FD937EE96744F53AAE69D5F1A1AF2F0">
+                    <enum>(B)</enum>
+                    <header>Sharing of information on nondisclosure requirement</header>
+                    <text>Any person who discloses to a person described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:d/p:1/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:d/p:1/sp:B" proposed="true">(B)</cato:entity-ref>, or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:d/p:1/sp:C" proposed="true">(C) of paragraph (1)</cato:entity-ref> that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Federal Bureau of Investigation</cato:entity-ref> has sought or obtained call data records pursuant to an order under this section shall notify such person of the nondisclosure requirements of this paragraph.</text>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="HAA31E418FB694954A27D376C9F93851F">
+                <enum>(e)</enum>
+                <header>Limitation on retention of information related to United States persons</header>
+                <text>The Federal Government may not retain call data records obtained pursuant to an order under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:a" proposed="true">subsection (a)</cato:entity-ref>, a directive under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:b" proposed="true">subsection (b)</cato:entity-ref>, or a subsequent search under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:c" proposed="true">subsection (c)</cato:entity-ref> for a period of more than 5 years if such records contain call data records pertaining to, or reasonably believed to pertain to, a United States person—</text>
+                <paragraph id="HDB44D935B89144ACAA4247157EC6AFB4">
+                  <enum>(1)</enum>
+                  <text>unless upon application to a judge described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:501/ss:b/p:1" proposed="true">section 501(b)(1)</cato:entity-ref> showing probable cause that such records are evidence of a crime which has been, is being, or is about to be committed and that is to be retained or disseminated for law enforcement purposes and such judge finds such probable cause exists; or</text>
+                </paragraph>
+                <paragraph id="H688E627137BD451B8FC6B76FA8386A6A">
+                  <enum>(2)</enum>
+                  <text>except to the extent any portion of such records is lawfully used as part of a finished intelligence product.</text>
+                </paragraph>
+              </subsection>
+              <subsection commented="no" id="H5047C41748124CA99ACAFC4B31BC4205">
+                <enum>(f)</enum>
+                <header>Compensation</header>
+                <text>The Government shall compensate, at the prevailing rate, a telecommunications carrier for providing call data records under this section.</text>
+              </subsection>
+              <subsection id="H0D5159011F014D74AB3FC04DFEF27883">
+                <enum>(g)</enum>
+                <header>Technical assistance</header>
+                <text>The Government may provide appropriate technical assistance to a telecommunications carrier to allow such telecommunications carrier to comply expeditiously with an order or directive under this section.</text>
+              </subsection>
+              <subsection commented="no" id="HABA63AD1B5EF45D3A53CEB9E3656816D">
+                <enum>(h)</enum>
+                <header>Report</header>
+                <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Director of the Federal Bureau of Investigation</cato:entity-ref> shall annually submit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> and make publicly available a report relating to searches conducted pursuant to this section during the immediately preceding year. Such report shall include—</text>
+                <paragraph commented="no" id="HA5E2796C629B41BF901DA30274869498">
+                  <enum>(1)</enum>
+                  <text>the total number of searches conducted during such year;</text>
+                </paragraph>
+                <paragraph commented="no" id="H74A90983D5C14DC896098455F4E0DCC7">
+                  <enum>(2)</enum>
+                  <text>the number of searches of United States telephone numbers (or telephone numbers reasonably believed to belong to a United States person) conducted during such year;</text>
+                </paragraph>
+                <paragraph commented="no" id="H9244072934AD424D926679C960B455C5">
+                  <enum>(3)</enum>
+                  <text>the total number of phone numbers that resulted from searches conducted during such year;</text>
+                </paragraph>
+                <paragraph commented="no" id="HD35465DB2E8C46B2B3675D2E4060AD61">
+                  <enum>(4)</enum>
+                  <text>the number of United States telephone numbers, or telephone numbers reasonably believed to belong to a United States person, that resulted from such searches;</text>
+                </paragraph>
+                <paragraph id="H45742D6B0D744706AC96AC8A34ED4E66">
+                  <enum>(5)</enum>
+                  <text>the number of times the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Director</cato:entity-ref> or a designee of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Director</cato:entity-ref> exercised the authority under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:b" proposed="true">subsection (b)</cato:entity-ref> to issue a directive due to exigent circumstances; and</text>
+                </paragraph>
+                <paragraph id="HDD90C794476242DB803CF2A97D7CE1CB">
+                  <enum>(6)</enum>
+                  <text display-inline="yes-display-inline">the number of times a court rejected an application made in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:b/p:1/sp:C" proposed="true">subsection (b)(1)(C)</cato:entity-ref> and required the destruction of call data records produced pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:b/p:1" proposed="true">subsection (b)(1)</cato:entity-ref>.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="H5B10231040DA42D6A2F77EB9051565FB">
+                <enum>(i)</enum>
+                <header>Definitions</header>
+                <text>In this section:</text>
+                <paragraph id="H822EFC659B2E4E868F0A1FEE15B51868">
+                  <enum>(1)</enum>
+                  <header>Covered authorized investigation</header>
+                  <text display-inline="yes-display-inline">The term <term>covered authorized investigation</term>—</text>
+                  <subparagraph id="HCDB64882BC65408D96B816F94530CC4F">
+                    <enum>(A)</enum>
+                    <text>means an authorized investigation (other than a threat assessment) conducted to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, provided that such investigation; and</text>
+                  </subparagraph>
+                  <subparagraph id="H30C0F88EDCF74E38BB0AE53CE9884C2A">
+                    <enum>(B)</enum>
+                    <text>does not include an investigation of a United States person conducted solely upon the basis of activities protected by the first amendment to the Constitution.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph commented="no" id="H4CFB658AA6174E41B32674619B473A82">
+                  <enum>(2)</enum>
+                  <header>Telecommunications carrier</header>
+                  <text>The term <term>telecommunications carrier</term> has the meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Communications Assistance for Law Enforcement Act/s:102">section 102 of the Communications Assistance for Law Enforcement Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/47/1001">
+                      <cato:entity-ref entity-type="uscode" value="usc/47/1001">47 U.S.C. 1001</cato:entity-ref>
+                    </external-xref>)</cato:entity>.</text>
+                </paragraph>
+              </subsection>
+            </section>
+            <after-quoted-block>; and</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="H4D4234BDCB0146DD803EC6FAF799C07A">
+          <enum>(4)</enum>
+          <text>by adding at the end the following new section:</text>
+          <quoted-block display-inline="no-display-inline" id="HCEDFF065463646B3B0C05992DF978421" style="OLC">
+            <section id="H8C48C431E09D4119B3471719666A5824">
+              <enum>504.</enum>
+              <header>Definitions</header>
+              <text display-inline="no-display-inline">In this title:</text>
+              <paragraph id="H314ECB90E110401AB3711027E191E47A">
+                <enum>(1)</enum>
+                <header>Agent of a foreign power; foreign intelligence information; foreign power; international terrorism</header>
+                <text>The terms <term>agent of a foreign power</term>, <term>foreign intelligence information</term>, <term>foreign power</term>, and <term>international terrorism</term> have the meanings given such terms in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:101">section 101</cato:entity-ref>.</text>
+              </paragraph>
+              <paragraph id="HB43006B4E8194F418BF4B488B008C215">
+                <enum>(2)</enum>
+                <header>Call data record</header>
+                <text>The term <term>call data record</term> means communications routing information, including an original or terminating telephone number, an International Mobile Subscriber Identity, an International Mobile Station Equipment Identity, a trunk identifier, a telephone calling card number, the time or duration of a call, or original or terminating text-message numerical information.</text>
+              </paragraph>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </subsection>
+      <subsection id="H8C62839B61A142F88C7F467009BC4B0E">
+        <enum>(b)</enum>
+        <header>Table of contents amendment</header>
+        <text>The table of contents in the first section of the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978">Foreign Intelligence Surveillance Act of 1978</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/50/1801/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/50/1801">
+            50 U.S.C. 1801
+          </external-xref> note</cato:entity-ref>)</cato:entity> is amended by striking the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502" proposed="true">section 502</cato:entity-ref> and inserting the following new items:</text>
+        <quoted-block display-inline="no-display-inline" id="H4E93E7B606D243AABB5365347DC31E0D" style="OLC">
+          <toc regeneration="no-regeneration">
+            <toc-entry level="section">Sec. 502. Access to certain call data records for foreign intelligence and international terrorism investigations.</toc-entry>
+            <toc-entry level="section">Sec. 503. Congressional oversight.</toc-entry>
+            <toc-entry level="section">Sec. 504. Definitions.</toc-entry>
+          </toc>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+      <subsection id="H2E83CA6B3DE04A7BB585D93BE3B76DF3">
+        <enum>(c)</enum>
+        <header>Effective date of limitation on acquisition of telephone metadata under existing law</header>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Telephone Metadata Reform Act/s:2/ss:a/p:1/sp:A" proposed="true">Subparagraph (A) of subsection (a)(1)</cato:entity-ref> shall take effect on the date that is 180 days after the date of the enactment of this Act.</text>
+      </subsection>
+      <subsection id="H5178E1D8ADA342D197759F6F7241C41E">
+        <enum>(d)</enum>
+        <header>Limitation on searches of telephone metadata acquired under existing law</header>
+        <paragraph id="HBE19722C8DCC418294AF3C48CF46042D">
+          <enum>(1)</enum>
+          <header>In general</header>
+          <text>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Telephone Metadata Reform Act/s:2/ss:d/p:2" proposed="true">paragraphs (2)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Telephone Metadata Reform Act/s:2/ss:d/p:3" proposed="true">(3)</cato:entity-ref>, no person may conduct a search of call data records acquired pursuant to an order under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:501">section 501 of the Foreign Intelligence Surveillance Act of 1978</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/50/1861">
+              <cato:entity-ref entity-type="uscode" value="usc/50/1861">50 U.S.C. 1861</cato:entity-ref>
+            </external-xref>)</cato:entity>, as in effect on the day before the effective date described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Telephone Metadata Reform Act/s:2/ss:c" proposed="true">subsection (c)</cato:entity-ref>.</text>
+        </paragraph>
+        <paragraph id="HD976B06913194C76BA04A5B9E844D0D8">
+          <enum>(2)</enum>
+          <header>Exception</header>
+          <subparagraph id="H2C2731C524D9485FA331E0D3E97427E1">
+            <enum>(A)</enum>
+            <header>Application</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Director of the Federal Bureau of Investigation</cato:entity-ref> may make an application to a judge of the court established by <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:103/ss:a">section 103(a)</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/50/1803">
+                <cato:entity-ref entity-type="uscode" value="usc/50/1803/a">50 U.S.C. 1803(a)</cato:entity-ref>
+              </external-xref>)</cato:entity> of such Act to conduct a search of call data records described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Telephone Metadata Reform Act/s:2/ss:d/p:1" proposed="true">paragraph (1)</cato:entity-ref>. Such application shall include a statement of facts showing that there is a reasonable suspicion, based on specific and articulable facts, that the call data record to be used as the basis for the search is associated with a specific foreign terrorist organization, a specific clandestine intelligence activity, or specific foreign intelligence not concerning a United States person.</text>
+          </subparagraph>
+          <subparagraph id="H01EFE7BF98D343FD9EEB435AB639A76A">
+            <enum>(B)</enum>
+            <header>Review of application</header>
+            <text display-inline="yes-display-inline">Upon an application made pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Telephone Metadata Reform Act/s:2/ss:d/p:2/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>, if the judge finds that the application meets the requirements of such subparagraph, the judge shall enter an ex parte order as requested, or as modified, approving the application.</text>
+          </subparagraph>
+          <subparagraph id="HF239268C842442808E49FDAEB0334EB5">
+            <enum>(C)</enum>
+            <header>Presumption</header>
+            <text display-inline="yes-display-inline">In reviewing an application under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Telephone Metadata Reform Act/s:2/ss:d/p:2/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>, a judge shall consider a call data record presumptively associated with a specific foreign terrorist organization, a specific clandestine intelligence activity, or specific foreign intelligence not concerning a United States person if the applicant shows in the statement of the facts that such call data record pertains to—</text>
+            <clause id="H4807E6F3BB86497B9ABC36E856143329">
+              <enum>(i)</enum>
+              <text>a foreign power or an agent of a foreign power;</text>
+            </clause>
+            <clause id="HEC40CBB274DF4B2DBF8A1A0A8B76EC3C">
+              <enum>(ii)</enum>
+              <text>the activities of a suspected agent of a foreign power who is the subject of such authorized investigation; or</text>
+            </clause>
+            <clause id="H6A7606446A8D4C38874243FE5539027A">
+              <enum>(iii)</enum>
+              <text>an individual in contact with, or known to, a suspected agent of a foreign power who is the subject of such authorized investigation.</text>
+            </clause>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="H41A2AD48B3F943CE855126CC2226E9EC">
+          <enum>(3)</enum>
+          <header>Expiration of exception</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Telephone Metadata Reform Act/s:2/ss:d/p:2" proposed="true">Paragraph (2)</cato:entity-ref> shall not apply after the effective date described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Telephone Metadata Reform Act/s:2/ss:c" proposed="true">subsection (c)</cato:entity-ref>.</text>
+        </paragraph>
+        <paragraph id="H53BAF2F53A2F47EBADA5A192EB06821B">
+          <enum>(4)</enum>
+          <header>Call data record defined</header>
+          <text display-inline="yes-display-inline">In this subsection, the term <quote>call data record</quote> has the meaning given the term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:504" proposed="true">section 504 of the Foreign Intelligence Surveillance Act of 1978</cato:entity-ref>, as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Telephone Metadata Reform Act/s:2/ss:a" proposed="true">subsection (a) of this section</cato:entity-ref>.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="HA2AB7880BD6E41EE848D979F887BD9B4">
+        <enum>(e)</enum>
+        <header>Rule of construction</header>
+        <text display-inline="yes-display-inline">Nothing in this Act or the amendments made by this Act shall be construed to—</text>
+        <paragraph id="H4B90DE120C864FAAB64218D4EAF2630C">
+          <enum>(1)</enum>
+          <text>require a telecommunications carrier (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:502/ss:f" proposed="true">section 502(f) of the Foreign Intelligence Surveillance Act of 1978</cato:entity-ref>, as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Telephone Metadata Reform Act/s:2/ss:a" proposed="true">subsection (a)</cato:entity-ref>) to maintain call data records (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:504" proposed="true">section 504 of such Act</cato:entity-ref>, as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Telephone Metadata Reform Act/s:2/ss:a" proposed="true">subsection (a)</cato:entity-ref>) for any specific period of time; or</text>
+        </paragraph>
+        <paragraph id="H1A0C9ECB8A3C4FF9915905CCF73072EE">
+          <enum>(2)</enum>
+          <text display-inline="yes-display-inline">authorize the collection or retention of the content of any telephone call.</text>
+        </paragraph>
+      </subsection>
+    </section>
+  </legis-body>
+</bill>
 </doc>

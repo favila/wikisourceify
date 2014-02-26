@@ -1,0 +1,2568 @@
+<doc>
+  <docmeta id="113hr1407rh">
+    <bill congress="113" type="hr" number="1407" version="rh"/>
+    <revision size="92374" annotations="0" status="complete" id="6" commit-time="2014-02-19T15:06:22Z" committer="mbohmer" doc="113hr1407rh/6.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Reported-in-House" bill-type="olc" dms-id="HF47D2515D4F744FD95CF09B98F7F9997" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 1407 RH: To amend the Federal Food, Drug, and Cosmetic Act to reauthorize user fee programs relating to new animal drugs.</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-04-09</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">IB</distribution-code>
+		<calendar display="yes">Union Calendar No. 135</calendar>
+		<congress display="yes">113th CONGRESS</congress>
+		<session display="yes">1st Session</session>
+		<legis-num>H. R. 1407</legis-num>
+		<associated-doc display="yes" role="report">[Report No.
+		  113–188]</associated-doc>
+		<current-chamber display="yes">IN THE HOUSE OF
+		  REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20130409">April 9, 2013</action-date>
+			<action-desc>
+        <sponsor name-id="S000364">Mr. Shimkus</sponsor> (for
+			 himself, <cosponsor name-id="G000562">Mr. Gardner</cosponsor>,
+			 <cosponsor name-id="U000031">Mr. Upton</cosponsor>,
+			 <cosponsor name-id="P000373">Mr. Pitts</cosponsor>,
+			 <cosponsor name-id="W000215">Mr. Waxman</cosponsor>,
+			 <cosponsor name-id="P000034">Mr. Pallone</cosponsor>,
+			 <cosponsor name-id="B001248">Mr. Burgess</cosponsor>,
+			 <cosponsor name-id="G000558">Mr. Guthrie</cosponsor>, and
+			 <cosponsor name-id="K000378">Mr. Kinzinger of Illinois</cosponsor>) introduced
+			 the following bill; which was referred to the
+			 <committee-name added-display-style="italic" committee-id="HIF00" deleted-display-style="strikethrough">Committee on Energy and
+			 Commerce</committee-name>
+      </action-desc>
+		</action>
+		<action>
+			<action-date>August 2, 2013</action-date>
+			<action-desc>Reported with amendments, committed to the Committee of
+			 the Whole House on the State of the Union, and ordered to be
+			 printed</action-desc>
+			<action-instruction>Strike out all after the enacting clause and insert
+			 the part printed in italic</action-instruction>
+			<action-instruction>For text of introduced bill, see copy of bill as
+			 introduced on April 9, 2013</action-instruction>
+		</action>
+		<action display="yes">
+			<action-desc display="yes">
+        <pagebreak/>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To amend the Federal Food, Drug, and
+		  Cosmetic Act to reauthorize user fee programs relating to new animal
+		  drugs.<pagebreak/>
+    </official-title>
+	</form>
+	<legis-body changed="added" committee-id="HIF00" display-enacting-clause="yes-display-enacting-clause" id="H79985F532EF149B9A4B4A3B35FD17F54" reported-display-style="italic" style="OLC">
+		<section id="HC1B45C56DC9E4AAA83E0BE7DCA371DFA" section-type="section-one">
+      <enum>1.</enum>
+      <header>Table of Contents</header>
+			<toc changed="added" committee-id="HIF00" container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration" reported-display-style="italic">
+				<toc-entry idref="HC1B45C56DC9E4AAA83E0BE7DCA371DFA" level="section">Sec. 1. Table of Contents.</toc-entry>
+				<toc-entry idref="H697D085308F348A1A36267CB66E55E5E" level="title">Title I—Animal Drug User Fee
+				Amendments</toc-entry>
+				<toc-entry idref="H534BB7E90262469980D59FD394E3EE1E" level="section">Sec. 101. Short title; finding.</toc-entry>
+				<toc-entry idref="H5B3A475902894FABB16F5CC1DA256C8D" level="section">Sec. 102. Definitions.</toc-entry>
+				<toc-entry idref="HDFCACF2D7F6048B094CEE81934FFC369" level="section">Sec. 103. Authority to assess and use animal
+				drug fees.</toc-entry>
+				<toc-entry idref="H4B0D57F4F492484AB0026477B82E2463" level="section">Sec. 104. Reauthorization; reporting
+				requirements.</toc-entry>
+				<toc-entry idref="H0990EE7E1BA84E86963A121F3E3E804F" level="section">Sec. 105. Savings clause.</toc-entry>
+				<toc-entry idref="H68DC208E871C4EE2BE4E11FC32B5AA99" level="section">Sec. 106. Effective date.</toc-entry>
+				<toc-entry idref="H98B3FB34ADE143CB984081514FA7F305" level="section">Sec. 107. Sunset dates.</toc-entry>
+				<toc-entry idref="HEBFF3B7325FF4C888B5E64EFD09FC9B8" level="title">Title II—Animal Generic Drug User Fee
+				Amendments</toc-entry>
+				<toc-entry idref="H264F43CF92334A8D98B1B02F32C4E877" level="section">Sec. 201. Short title; finding.</toc-entry>
+				<toc-entry idref="H3E09AE53D7654C4EAE8B90062929F6ED" level="section">Sec. 202. Authority to assess and use generic
+				new animal drug fees.</toc-entry>
+				<toc-entry idref="HA2992BBB203C48F486BDBDF43BF9E1A0" level="section">Sec. 203. Reauthorization; reporting
+				requirements.</toc-entry>
+				<toc-entry idref="H83E3CC685FA74B32A47F803CED686D9C" level="section">Sec. 204. Savings clause.</toc-entry>
+				<toc-entry idref="HC2BA9599B1D34A349F78F644EFB91691" level="section">Sec. 205. Effective date.</toc-entry>
+				<toc-entry idref="HDD72B01819D14FAB84BD9832B4014201" level="section">Sec. 206. Sunset dates.</toc-entry>
+			</toc>
+		</section>
+    <title id="H697D085308F348A1A36267CB66E55E5E">
+      <enum>I</enum>
+      <header>Animal Drug User Fee
+			 Amendments</header>
+			<section id="H534BB7E90262469980D59FD394E3EE1E">
+        <enum>101.</enum>
+        <header>Short title;
+			 finding</header>
+				<subsection id="H19F7F4F4EAE44A2FA9BBFDA7217BE46C">
+          <enum>(a)</enum>
+          <header>Short
+			 title</header>
+          <text>This title may be cited as the <quote>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Animal Drug User Fee Amendments of 2013" proposed="true">Animal Drug User Fee
+			 Amendments of 2013</cato:entity-ref>
+            </quote>.</text>
+				</subsection>
+        <subsection id="HBB2F061037304EA2B8FBAB0048A4B6DC">
+          <enum>(b)</enum>
+          <header>Finding</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds that the fees authorized by
+			 the amendments made in this title will be dedicated toward expediting the
+			 animal drug development process and the review of new and supplemental animal
+			 drug applications and investigational animal drug submissions as set forth in
+			 the goals identified, for purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/ch:VII/sch:C/pt:4">part 4 of subchapter C of chapter VII of
+			 the Federal Food, Drug, and Cosmetic Act</cato:entity-ref>, in the letters from the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary of
+			 Health and Human Services</cato:entity-ref> to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HIF00">Chairman of the Committee on Energy and
+			 Commerce of the House of Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSHR00">Chairman of the Committee on
+			 Health, Education, Labor, and Pensions of the Senate</cato:entity-ref> as set forth in the
+			 Congressional Record.</text>
+				</subsection>
+      </section>
+      <section id="H5B3A475902894FABB16F5CC1DA256C8D">
+        <enum>102.</enum>
+        <header>Definitions</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:739">Section 739 of the Federal Food, Drug, and
+			 Cosmetic Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/21/379j-11">
+              <cato:entity-ref entity-type="uscode" value="usc/21/379j–11">21 U.S.C. 379j–11</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended to read as follows:</text>
+				<quoted-block changed="added" committee-id="HIF00" display-inline="no-display-inline" id="H08CD29B252824F06B9D1F6196E134B3C" reported-display-style="italic" style="OLC">
+					<section id="HCFE2BEB930894E4E874A785E5D8C85F1">
+            <enum>739.</enum>
+            <header>Definitions</header>
+            <text display-inline="no-display-inline">For purposes of this part:</text>
+						<paragraph id="H72841A7FA7224BA981167715F095DA9A">
+              <enum>(1)</enum>
+              <text>The term <term>animal
+				drug application</term> means an application for approval of any new animal
+				drug submitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:512/ss:b/p:1">section 512(b)(1)</cato:entity-ref>. Such term does not include either a new
+				animal drug application submitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:512/ss:b/p:2">section 512(b)(2)</cato:entity-ref> or a supplemental
+				animal drug application.</text>
+						</paragraph>
+            <paragraph id="H5B36CF2EF2814ECDAD6DAD4BCCB10B77">
+              <enum>(2)</enum>
+              <text>The term
+				<term>supplemental animal drug application</term> means—</text>
+							<subparagraph id="H67207ACF5BD54016A1C1224D8AB8FD75">
+                <enum>(A)</enum>
+                <text>a request to the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> to approve a change in an animal drug application which has been
+				approved; or</text>
+							</subparagraph>
+              <subparagraph id="H38C1282566EB4FE1B3998FDFB4C87265">
+                <enum>(B)</enum>
+                <text>a request to the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> to approve a change to an application approved under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:512/ss:c/p:2">section
+				512(c)(2)</cato:entity-ref> for which data with respect to safety or effectiveness are
+				required.</text>
+							</subparagraph>
+            </paragraph>
+            <paragraph id="H3012AC2010064EA0A024CF0D7F9DDC91">
+              <enum>(3)</enum>
+              <text>The term <term>animal
+				drug product</term> means each specific strength or potency of a particular
+				active ingredient or ingredients in final dosage form marketed by a particular
+				manufacturer or distributor, which is uniquely identified by the labeler code
+				and product code portions of the national drug code, and for which an animal
+				drug application or a supplemental animal drug application has been
+				approved.</text>
+						</paragraph>
+            <paragraph id="H62FBC692AA3E45318DEE2F8B29776C75">
+              <enum>(4)</enum>
+              <text>The term <term>animal
+				drug establishment</term> means a foreign or domestic place of business which
+				is at one general physical location consisting of one or more buildings all of
+				which are within 5 miles of each other, at which one or more animal drug
+				products are manufactured in final dosage form.</text>
+						</paragraph>
+            <paragraph id="H9B6AE47A48D44999AC2395BC04382949">
+              <enum>(5)</enum>
+              <text>The term
+				<term>investigational animal drug submission</term> means—</text>
+							<subparagraph id="H8772FDDCAA9C4C0C9C542C561C685DFD">
+                <enum>(A)</enum>
+                <text>the filing of a claim for
+				an investigational exemption under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:512/ss:j">section 512(j)</cato:entity-ref> for a new animal drug
+				intended to be the subject of an animal drug application or a supplemental
+				animal drug application; or</text>
+							</subparagraph>
+              <subparagraph id="HB0AA407498D34A86A1F2B5CC4CDB65AC">
+                <enum>(B)</enum>
+                <text>the submission of
+				information for the purpose of enabling the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> to evaluate the safety or
+				effectiveness of an animal drug application or supplemental animal drug
+				application in the event of their filing.</text>
+							</subparagraph>
+            </paragraph>
+            <paragraph id="HFC1D062A9E56483DA1A651F836F6773F">
+              <enum>(6)</enum>
+              <text>The term <term>animal
+				drug sponsor</term> means either an applicant named in an animal drug
+				application that has not been withdrawn by the applicant and for which approval
+				has not been withdrawn by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>, or a person who has submitted an
+				investigational animal drug submission that has not been terminated or
+				otherwise rendered inactive by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>.</text>
+						</paragraph>
+            <paragraph id="H922BD9429B85408A9E4CB31A4B3A5B44">
+              <enum>(7)</enum>
+              <text>The term <term>final
+				dosage form</term> means, with respect to an animal drug product, a finished
+				dosage form which is approved for administration to an animal without
+				substantial further manufacturing. Such term includes animal drug products
+				intended for mixing in animal feeds.</text>
+						</paragraph>
+            <paragraph id="HDD428FE76DF745EDA3AAF3545E4DF25E">
+              <enum>(8)</enum>
+              <text>The term <term>process
+				for the review of animal drug applications</term> means the following
+				activities of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> with respect to the review of animal drug
+				applications, supplemental animal drug applications, and investigational animal
+				drug submissions:</text>
+							<subparagraph id="HCFF2CFEC753A493BBA32379ACA6D503F">
+                <enum>(A)</enum>
+                <text>The activities necessary
+				for the review of animal drug applications, supplemental animal drug
+				applications, and investigational animal drug submissions.</text>
+							</subparagraph>
+              <subparagraph id="H9C00610E60D64928A2CE2C0132A7B174">
+                <enum>(B)</enum>
+                <text>The issuance of action
+				letters which approve animal drug applications or supplemental animal drug
+				applications or which set forth in detail the specific deficiencies in animal
+				drug applications, supplemental animal drug applications, or investigational
+				animal drug submissions and, where appropriate, the actions necessary to place
+				such applications, supplements, or submissions in condition for
+				approval.</text>
+							</subparagraph>
+              <subparagraph id="HEDC5C3C043024C799AD79C23A7F6E1FD">
+                <enum>(C)</enum>
+                <text>The inspection of animal
+				drug establishments and other facilities undertaken as part of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary’s</cato:entity-ref>
+				review of pending animal drug applications, supplemental animal drug
+				applications, and investigational animal drug submissions.</text>
+							</subparagraph>
+              <subparagraph id="H93D6DFD06A73444186062A52BAF9AC79">
+                <enum>(D)</enum>
+                <text>Monitoring of research
+				conducted in connection with the review of animal drug applications,
+				supplemental animal drug applications, and investigational animal drug
+				submissions.</text>
+							</subparagraph>
+              <subparagraph id="H3304768BB0C14C70AACE914839141F75">
+                <enum>(E)</enum>
+                <text>The development of
+				regulations and policy related to the review of animal drug applications,
+				supplemental animal drug applications, and investigational animal drug
+				submissions.</text>
+							</subparagraph>
+              <subparagraph id="H169EA086BF7C46C2951F8227A6CD74DF">
+                <enum>(F)</enum>
+                <text>Development of standards
+				for products subject to review.</text>
+							</subparagraph>
+              <subparagraph id="H4D70070D2599487A853C39210580C070">
+                <enum>(G)</enum>
+                <text>Meetings between the
+				agency and the animal drug sponsor.</text>
+							</subparagraph>
+              <subparagraph id="HB411A53F48E84B7494C3488860E4A1CF">
+                <enum>(H)</enum>
+                <text>Review of advertising and
+				labeling prior to approval of an animal drug application or supplemental animal
+				drug application, but not after such application has been approved.</text>
+							</subparagraph>
+            </paragraph>
+            <paragraph id="H21AE991D4F6B4947863C447E891BDEF5">
+              <enum>(9)</enum>
+              <text>The term <term>costs of
+				resources allocated for the process for the review of animal drug
+				applications</term> means the expenses in connection with the process for the
+				review of animal drug applications for—</text>
+							<subparagraph id="HC2416F08280D41B4A890F8B5720E3430">
+                <enum>(A)</enum>
+                <text>officers and employees of
+				the Food and Drug Administration, contractors of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food and Drug
+				Administration</cato:entity-ref>, advisory committees consulted with respect to the review of
+				specific animal drug applications, supplemental animal drug applications, or
+				investigational animal drug submissions, and costs related to such officers,
+				employees, committees, and contractors, including costs for travel, education,
+				and recruitment and other personnel activities;</text>
+							</subparagraph>
+              <subparagraph id="HF2EC813134644BBD85DF4ABEC535FB2A">
+                <enum>(B)</enum>
+                <text>management of information
+				and the acquisition, maintenance, and repair of computer resources;</text>
+							</subparagraph>
+              <subparagraph id="HE196255E4A244651A82758FA9F071B78">
+                <enum>(C)</enum>
+                <text>leasing, maintenance,
+				renovation, and repair of facilities and acquisition, maintenance, and repair
+				of fixtures, furniture, scientific equipment, and other necessary materials and
+				supplies; and</text>
+							</subparagraph>
+              <subparagraph id="HD0F72CA5605D4DFB8E8973A3C27E8E3F">
+                <enum>(D)</enum>
+                <text>collecting fees under
+				section 740 and accounting for resources allocated for the review of animal
+				drug applications, supplemental animal drug applications, and investigational
+				animal drug submissions.</text>
+							</subparagraph>
+            </paragraph>
+            <paragraph id="H98F70436D2DC4635BD39D61FF7F6D0E1">
+              <enum>(10)</enum>
+              <text>The term
+				<term>adjustment factor</term> applicable to a fiscal year refers to the
+				formula set forth in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:735/p:8">section 735(8)</cato:entity-ref> with the base or comparator month being
+				October 2002.</text>
+						</paragraph>
+            <paragraph id="H66FB90D37BF84C45824969FD6319C920">
+              <enum>(11)</enum>
+              <text>The term
+				<term>person</term> includes an affiliate thereof.</text>
+						</paragraph>
+            <paragraph id="H4764C2B2F1FF473D900AAFB072773E5A">
+              <enum>(12)</enum>
+              <text>The term
+				<term>affiliate</term> refers to the definition set forth in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:735/p:11">section
+				735(11)</cato:entity-ref>.</text>
+						</paragraph>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</section>
+      <section id="HDFCACF2D7F6048B094CEE81934FFC369">
+        <enum>103.</enum>
+        <header>Authority to assess
+			 and use animal drug fees</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740">Section 740 of the Federal Food, Drug, and
+			 Cosmetic Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/21/379j-12">
+              <cato:entity-ref entity-type="uscode" value="usc/21/379j–12">21 U.S.C. 379j–12</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended to read as follows:</text>
+				<quoted-block changed="added" committee-id="HIF00" display-inline="no-display-inline" id="H79BED06A57FF40CB8CB754BCB8B18510" reported-display-style="italic" style="OLC">
+					<section id="H31437D02B50A4F4E8B117D3885CFCAE0">
+            <enum>740.</enum>
+            <header>Authority to assess
+				and use animal drug fees</header>
+						<subsection id="HA500060558E449029404DCDEDAA6F590">
+              <enum>(a)</enum>
+              <header>Types of
+				fees</header>
+              <text>Beginning in fiscal year 2004, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall assess
+				and collect fees in accordance with this section as follows:</text>
+							<paragraph id="HAFC4DD877F7A465B80A89E1BE2D57F9C">
+                <enum>(1)</enum>
+                <header>Animal drug application
+				and supplement fee</header>
+								<subparagraph id="H2850F9F710D8430B8B73CD7881B3BF75">
+                  <enum>(A)</enum>
+                  <header>In
+				general</header>
+                  <text>Each person that submits, on or after September 1, 2003,
+				an animal drug application or a supplemental animal drug application shall be
+				subject to a fee as follows:</text>
+									<clause id="H735AD4C0861645C7ACD1A9FE3A0A3D45">
+                    <enum>(i)</enum>
+                    <text>A
+				fee established in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:c" proposed="true">subsection (c)</cato:entity-ref> for an animal drug application, except an
+				animal drug application described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:512/ss:d/p:4">section 512(d)(4)</cato:entity-ref>.</text>
+									</clause>
+                  <clause id="H737F3F948E8C445EA40887FF388E39F0">
+                    <enum>(ii)</enum>
+                    <text>A fee established in
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:c" proposed="true">subsection (c)</cato:entity-ref>, in an amount that is equal to 50 percent of the amount of the
+				fee under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a/p:1/sp:A/cl:i" proposed="true">clause (i)</cato:entity-ref>, for—</text>
+										<subclause id="H273038FD718B46A3AE48F9FE12CD8EE3">
+                      <enum>(I)</enum>
+                      <text>a supplemental animal
+				drug application for which safety or effectiveness data are required;
+				and</text>
+										</subclause>
+                    <subclause id="H96B6B53C489048C39FA3F3C65EBD9192">
+                      <enum>(II)</enum>
+                      <text>an animal drug
+				application described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:512/ss:d/p:4">section 512(d)(4)</cato:entity-ref>.</text>
+										</subclause>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="H820161E5FAC549F4A0746E97DF9B54E8">
+                  <enum>(B)</enum>
+                  <header>Payment</header>
+                  <text>The
+				fee required by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a/p:1/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> shall be due upon submission of the animal
+				drug application or supplemental animal drug application.</text>
+								</subparagraph>
+                <subparagraph id="H34EFF852139440039EA055E7DA4337D9">
+                  <enum>(C)</enum>
+                  <header>Exception for
+				previously filed application or supplement</header>
+                  <text>If an animal drug
+				application or a supplemental animal drug application was submitted by a person
+				that paid the fee for such application or supplement, was accepted for filing,
+				and was not approved or was withdrawn (without a waiver or refund), the
+				submission of an animal drug application or a supplemental animal drug
+				application for the same product by the same person (or the person’s licensee,
+				assignee, or successor) shall not be subject to a fee under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a/p:1/sp:A" proposed="true">subparagraph
+				(A)</cato:entity-ref>.</text>
+								</subparagraph>
+                <subparagraph id="HCDD2A0B9DF4C4F2AB4ED5369C73ABB52">
+                  <enum>(D)</enum>
+                  <header>Refund of fee if
+				application refused for filing</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall refund 75
+				percent of the fee paid under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a/p:1/sp:B" proposed="true">subparagraph (B)</cato:entity-ref> for any animal drug application
+				or supplemental animal drug application which is refused for filing.</text>
+								</subparagraph>
+                <subparagraph id="H79692D35C8B246BEB86312EBDD1CD718">
+                  <enum>(E)</enum>
+                  <header>Refund of fee if
+				application withdrawn</header>
+                  <text>If an animal drug application or a
+				supplemental animal drug application is withdrawn after the application or
+				supplement was filed, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> may refund the fee or portion of the fee
+				paid under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a/p:1/sp:B" proposed="true">subparagraph (B)</cato:entity-ref> if no substantial work was performed on the
+				application or supplement after the application or supplement was filed. The
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall have the sole discretion to refund the fee under this
+				paragraph. A determination by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> concerning a refund under this
+				paragraph shall not be reviewable.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="HBB47C4FFBC054D489B109123754F5FF3">
+                <enum>(2)</enum>
+                <header>Animal drug product
+				fee</header>
+								<subparagraph id="H1598BC7B740D4A6190E5D68A9FBDE55B">
+                  <enum>(A)</enum>
+                  <header>In
+				general</header>
+                  <text>Each person—</text>
+									<clause id="H6518D012E896490F805EE65D48402448">
+                    <enum>(i)</enum>
+                    <text>who is named as the
+				applicant in an animal drug application or supplemental animal drug application
+				for an animal drug product which has been submitted for listing under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:510">section
+				510</cato:entity-ref>; and</text>
+									</clause>
+                  <clause id="HF370DAF7DE8E4937A09E5209230C1C2B">
+                    <enum>(ii)</enum>
+                    <text>who, after September 1,
+				2003, had pending before the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> an animal drug application or
+				supplemental animal drug application,</text>
+									</clause>
+                  <continuation-text continuation-text-level="subparagraph">shall pay for each such animal drug
+				product the annual fee established in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:c" proposed="true">subsection (c)</cato:entity-ref>.</continuation-text>
+                </subparagraph>
+                <subparagraph id="H853BED0DBAE64E479AC75EE4361292FB">
+                  <enum>(B)</enum>
+                  <header>Payment; fee due
+				date</header>
+                  <text>Such fee shall be payable for the fiscal year in which the
+				animal drug product is first submitted for listing under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:510">section 510</cato:entity-ref>, or is
+				submitted for relisting under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:510">section 510</cato:entity-ref> if the animal drug product has been
+				withdrawn from listing and relisted. After such fee is paid for that fiscal
+				year, such fee shall be due each subsequent fiscal year that the product
+				remains listed, upon the later of—</text>
+									<clause id="H6E72D5FD83FF45D7A7F6BEAA84FD730C">
+                    <enum>(i)</enum>
+                    <text>the first business day
+				after the date of enactment of an appropriations Act providing for the
+				collection and obligation of fees for such fiscal year under this section;
+				or</text>
+									</clause>
+                  <clause id="HD8CA794722FD490890EB9707314CC307">
+                    <enum>(ii)</enum>
+                    <text>January 31 of each
+				year.</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="HD4993A31BAEA49C7870972A2BEF8A741">
+                  <enum>(C)</enum>
+                  <header>Limitation</header>
+                  <text>Such
+				fee shall be paid only once for each animal drug product for a fiscal year in
+				which the fee is payable.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H53572BC249F947B9B492210B5B001658">
+                <enum>(3)</enum>
+                <header>Animal drug
+				establishment fee</header>
+								<subparagraph id="H9C7A98F390794FD1B24B3912C1A8CAA7">
+                  <enum>(A)</enum>
+                  <header>In
+				general</header>
+                  <text>Each person—</text>
+									<clause id="H9A20CCED3C6B4A6F8FBF53CD3410C996">
+                    <enum>(i)</enum>
+                    <text>who owns or operates,
+				directly or through an affiliate, an animal drug establishment;</text>
+									</clause>
+                  <clause id="HA9854157557A43D8B0B03986F778B56F">
+                    <enum>(ii)</enum>
+                    <text>who is named as the
+				applicant in an animal drug application or supplemental animal drug application
+				for an animal drug product which has been submitted for listing under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:510">section
+				510</cato:entity-ref>; and</text>
+									</clause>
+                  <clause id="HEDEE1677E51147C6B695ECFFFD3F974F">
+                    <enum>(iii)</enum>
+                    <text>who, after September 1,
+				2003, had pending before the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> an animal drug application or
+				supplemental animal drug application,</text>
+									</clause>
+                  <continuation-text continuation-text-level="subparagraph">shall be assessed an annual establishment
+				fee as established in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:c" proposed="true">subsection (c)</cato:entity-ref> for each animal drug establishment listed
+				in its approved animal drug application as an establishment that manufactures
+				the animal drug product named in the application.</continuation-text>
+                </subparagraph>
+                <subparagraph id="HEED38BA79A5043AFBCBE58C755B068E2">
+                  <enum>(B)</enum>
+                  <header>Payment; fee due
+				date</header>
+                  <text>The annual establishment fee shall be assessed in each
+				fiscal year in which the animal drug product named in the application is
+				assessed a fee under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a/p:2" proposed="true">paragraph (2)</cato:entity-ref> unless the animal drug establishment listed
+				in the application does not engage in the manufacture of the animal drug
+				product during the fiscal year. The fee under this paragraph for a fiscal year
+				shall be due upon the later of—</text>
+									<clause id="H1DF9B179D898447E934A27C4D6CDCA33">
+                    <enum>(i)</enum>
+                    <text>the first business day
+				after the date of enactment of an appropriations Act providing for the
+				collection and obligation of fees for such fiscal year under this section;
+				or</text>
+									</clause>
+                  <clause id="H7F9C0189F8E2492F96107D98B721F5AA">
+                    <enum>(ii)</enum>
+                    <text>January 31 of each
+				year.</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="H0FD52D0D896A4C308C99D125A53604A8">
+                  <enum>(C)</enum>
+                  <header>Limitation</header>
+									<clause id="HD67E32A99E4C42DEADE5C2FFD14E3866">
+                    <enum>(i)</enum>
+                    <header>In
+				general</header>
+                    <text>An establishment shall be assessed only one fee per
+				fiscal year under this section, subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a/p:3/sp:C/cl:ii" proposed="true">clause (ii)</cato:entity-ref>.</text>
+									</clause>
+                  <clause id="H9E9D0C33EE7F4783A12E8BB1E16E692B">
+                    <enum>(ii)</enum>
+                    <header>Certain
+				manufacturers</header>
+                    <text>If a single establishment manufactures both animal
+				drug products and prescription drug products, as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:735/p:3">section 735(3)</cato:entity-ref>,
+				such establishment shall be assessed both the animal drug establishment fee and
+				the prescription drug establishment fee, as set forth in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:736/ss:a/p:2">section 736(a)(2)</cato:entity-ref>,
+				within a single fiscal year.</text>
+									</clause>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="H96BEDC6263A242F6A26F162823610EB0">
+                <enum>(4)</enum>
+                <header>Animal drug sponsor
+				fee</header>
+								<subparagraph id="H84D8FC635BEC4EF2A4C6B2F790C3E4C2">
+                  <enum>(A)</enum>
+                  <header>In
+				general</header>
+                  <text>Each person—</text>
+									<clause id="H3ACBF72C32644CF394D3A67859B31208">
+                    <enum>(i)</enum>
+                    <text>who meets the definition
+				of an animal drug sponsor within a fiscal year; and</text>
+									</clause>
+                  <clause id="H93EA6A384B1F435CBAAE9C56A4254218">
+                    <enum>(ii)</enum>
+                    <text>who, after September 1,
+				2003, had pending before the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> an animal drug application, a
+				supplemental animal drug application, or an investigational animal drug
+				submission,</text>
+									</clause>
+                  <continuation-text continuation-text-level="subparagraph">shall be assessed an annual sponsor fee
+				as established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:c" proposed="true">subsection (c)</cato:entity-ref>.</continuation-text>
+                </subparagraph>
+                <subparagraph id="H08F404279F9A4EFDA87778F7E6102562">
+                  <enum>(B)</enum>
+                  <header>Payment; fee due
+				date</header>
+                  <text>The fee under this paragraph for a fiscal year shall be due
+				upon the later of—</text>
+									<clause id="H6682DC03F7EC47DF813E90693F587C45">
+                    <enum>(i)</enum>
+                    <text>the first business day
+				after the date of enactment of an appropriations Act providing for the
+				collection and obligation of fees for such fiscal year under this section;
+				or</text>
+									</clause>
+                  <clause id="HDD2D786087D241B5B38410C17DFF4EA4">
+                    <enum>(ii)</enum>
+                    <text>January 31 of each
+				year.</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="H89FDF3A3BC14492F84D7935DFA33B095">
+                  <enum>(C)</enum>
+                  <header>Limitation</header>
+                  <text>Each
+				animal drug sponsor shall pay only one such fee each fiscal year.</text>
+								</subparagraph>
+              </paragraph>
+            </subsection>
+            <subsection id="HE6E8954D05A2485F8082D787B0B6984E">
+              <enum>(b)</enum>
+              <header>Fee revenue
+				amounts</header>
+							<paragraph id="H782EC3137BF84CFEAFA14576F18EA30E">
+                <enum>(1)</enum>
+                <header>In
+				general</header>
+                <text>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:c" proposed="true">subsections (c)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:d" proposed="true">(d)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:f" proposed="true">(f)</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:g" proposed="true">(g)</cato:entity-ref>—</text>
+								<subparagraph id="H9D6139286D7D4A2FB5BA1B9308963BF8">
+                  <enum>(A)</enum>
+                  <text>for fiscal year 2014, the
+				fees required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall be established to generate a total
+				revenue amount of $23,600,000; and</text>
+								</subparagraph>
+                <subparagraph id="HB7141A84282D44B8BB0CA5AE97C7618A">
+                  <enum>(B)</enum>
+                  <text>for each of fiscal years
+				2015 through 2018, the fees required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall be established
+				to generate a total revenue amount of $21,600,000.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H5A250AFDF60E4E0894A80D655A7D3ABC">
+                <enum>(2)</enum>
+                <header>Types of
+				fees</header>
+                <text>Of the total revenue amount determined for a fiscal year
+				under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>—</text>
+								<subparagraph id="H43EE68EE8219495B8BA2BB36EC70E11B">
+                  <enum>(A)</enum>
+                  <text>20 percent shall be
+				derived from fees under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a/p:1" proposed="true">subsection (a)(1)</cato:entity-ref> (relating to animal drug applications
+				and supplements);</text>
+								</subparagraph>
+                <subparagraph id="H2EEA54B8435E4ABD915A162B006359C4">
+                  <enum>(B)</enum>
+                  <text>27 percent shall be
+				derived from fees under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a/p:2" proposed="true">subsection (a)(2)</cato:entity-ref> (relating to animal drug
+				products);</text>
+								</subparagraph>
+                <subparagraph id="HB302CBF46F1145648082BAAC189FD9EB">
+                  <enum>(C)</enum>
+                  <text>26 percent shall be
+				derived from fees under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a/p:3" proposed="true">subsection (a)(3)</cato:entity-ref> (relating to animal drug
+				establishments); and</text>
+								</subparagraph>
+                <subparagraph id="H86D0B49326594462BB4D8FCDE95B5E66">
+                  <enum>(D)</enum>
+                  <text>27 percent shall be
+				derived from fees under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a/p:4" proposed="true">subsection (a)(4)</cato:entity-ref> (relating to animal drug
+				sponsors).</text>
+								</subparagraph>
+              </paragraph>
+            </subsection>
+            <subsection id="H35A84DD218D347A496797A4F650EAC45">
+              <enum>(c)</enum>
+              <header>Annual fee setting;
+				adjustments</header>
+							<paragraph id="H582AF305DD214DDA87329EA5BD6E21F0">
+                <enum>(1)</enum>
+                <header>Annual fee
+				setting</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall establish, 60 days before the start
+				of each fiscal year beginning after September 30, 2003, for that fiscal year,
+				animal drug application fees, supplemental animal drug application fees, animal
+				drug sponsor fees, animal drug establishment fees, and animal drug product fees
+				based on the revenue amounts established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:b" proposed="true">subsection (b)</cato:entity-ref> and the
+				adjustments provided under this subsection.</text>
+							</paragraph>
+              <paragraph id="H342468B164FB4AA987729089013493EA">
+                <enum>(2)</enum>
+                <header>Inflation
+				adjustment</header>
+                <text>For fiscal year 2015 and subsequent fiscal years, the
+				revenue amounts established in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:b" proposed="true">subsection (b)</cato:entity-ref> shall be adjusted by the
+				Secretary by notice, published in the Federal Register, for a fiscal year, by
+				an amount equal to the sum of—</text>
+								<subparagraph id="HC8D1B5EAAC7546CD8EA25976FDA23230">
+                  <enum>(A)</enum>
+                  <text>one;</text>
+								</subparagraph>
+                <subparagraph id="HF7D77472C251432EBB462EF9831AFD9C">
+                  <enum>(B)</enum>
+                  <text>the average annual
+				percent change in the cost, per full-time equivalent position of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food and
+				Drug Administration</cato:entity-ref>, of all personnel compensation and benefits paid with
+				respect to such positions for the first 3 of the preceding 4 fiscal years for
+				which data are available, multiplied by the average proportion of personnel
+				compensation and benefits costs to total <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food and Drug Administration</cato:entity-ref> costs for
+				the first 3 years of the preceding 4 fiscal years for which data are available;
+				and</text>
+								</subparagraph>
+                <subparagraph id="H8B14B37F900646528DBB5F97CD648550">
+                  <enum>(C)</enum>
+                  <text>the average annual
+				percent change that occurred in the Consumer Price Index for urban consumers
+				(Washington-Baltimore, DC-MD-VA-WV; not seasonally adjusted; all items less
+				food and energy; annual index) for the first 3 years of the preceding 4 years
+				for which data are available multiplied by the average proportion of all costs
+				other than personnel compensation and benefits costs to total <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food and Drug
+				Administration</cato:entity-ref> costs for the first 3 years of the preceding 4 fiscal years for
+				which data are available.</text>
+								</subparagraph>
+                <continuation-text continuation-text-level="paragraph">The
+				adjustment made each fiscal year under this paragraph shall be added on a
+				compounded basis to the sum of all adjustments made each fiscal year after
+				fiscal year 2014 under this paragraph.</continuation-text>
+              </paragraph>
+              <paragraph id="HFF4F6E62121C4CD496EDB2116B07B92A">
+                <enum>(3)</enum>
+                <header>Workload
+				adjustment</header>
+                <text>For fiscal year 2015 and subsequent fiscal years,
+				after the revenue amounts established in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:b" proposed="true">subsection (b)</cato:entity-ref> are adjusted for
+				inflation in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:c/p:2" proposed="true">paragraph (2)</cato:entity-ref>, the revenue amounts shall be
+				further adjusted for such fiscal year to reflect changes in the workload of the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> for the process for the review of animal drug applications. With
+				respect to such adjustment—</text>
+								<subparagraph id="H260E2FB9105C42A78F3D8771E766D284">
+                  <enum>(A)</enum>
+                  <text>such adjustment shall be
+				determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> based on a weighted average of the change in the
+				total number of animal drug applications, supplemental animal drug applications
+				for which data with respect to safety or effectiveness are required,
+				manufacturing supplemental animal drug applications, investigational animal
+				drug study submissions, and investigational animal drug protocol submissions
+				submitted to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>;</text>
+								</subparagraph>
+                <subparagraph id="H483CF1E01BC94B68AA324C999B1FD47C">
+                  <enum>(B)</enum>
+                  <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall
+				publish in the Federal Register the fees resulting from such adjustment and the
+				supporting methodologies; and</text>
+								</subparagraph>
+                <subparagraph id="H14AB7745E5E34BB9A2D657A1F371F68B">
+                  <enum>(C)</enum>
+                  <text>under no circumstances
+				shall such adjustment result in fee revenues for a fiscal year that are less
+				than the fee revenues for that fiscal year established in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:b" proposed="true">subsection (b)</cato:entity-ref>, as
+				adjusted for inflation under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:c/p:2" proposed="true">paragraph (2)</cato:entity-ref>.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="HE56A76CC17094266BC4EB44D4CD931FB">
+                <enum>(4)</enum>
+                <header>Final year
+				adjustment</header>
+                <text>For fiscal year 2018, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> may, in addition
+				to other adjustments under this subsection, further increase the fees under
+				this section, if such an adjustment is necessary to provide for up to 3 months
+				of operating reserves of carryover user fees for the process for the review of
+				animal drug applications for the first 3 months of fiscal year 2019. If the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food and Drug Administration</cato:entity-ref> has carryover balances for the process for the
+				review of animal drug applications in excess of 3 months of such operating
+				reserves, then this adjustment will not be made. If this adjustment is
+				necessary, then the rationale for the amount of the increase shall be contained
+				in the annual notice setting fees for fiscal year 2018.</text>
+							</paragraph>
+              <paragraph id="HEE7B57306E2845E4B70762202DE653F5">
+                <enum>(5)</enum>
+                <header>Limit</header>
+                <text>The
+				total amount of fees charged, as adjusted under this subsection, for a fiscal
+				year may not exceed the total costs for such fiscal year for the resources
+				allocated for the process for the review of animal drug applications.</text>
+							</paragraph>
+            </subsection>
+            <subsection id="HA6BD17F5C24F4037A80481D67797C5EE">
+              <enum>(d)</enum>
+              <header>Fee waiver or
+				reduction</header>
+							<paragraph id="H13739E0E138F46AB8753B7C68DF227FA">
+                <enum>(1)</enum>
+                <header>In
+				general</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall grant a waiver from or a reduction of
+				one or more fees assessed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a" proposed="true">subsection (a)</cato:entity-ref> where the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> finds
+				that—</text>
+								<subparagraph id="HB67B7B0052F54B9EA93AFF6EA4AE1096">
+                  <enum>(A)</enum>
+                  <text>the assessment of the fee
+				would present a significant barrier to innovation because of limited resources
+				available to such person or other circumstances;</text>
+								</subparagraph>
+                <subparagraph id="H1CDDF0DAD4A04AB18EA2D30A1BFBF8D9">
+                  <enum>(B)</enum>
+                  <text>the fees to be paid by
+				such person will exceed the anticipated present and future costs incurred by
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> in conducting the process for the review of animal drug
+				applications for such person;</text>
+								</subparagraph>
+                <subparagraph id="H54C8C230684644D1A8A0F2F3846D70AE">
+                  <enum>(C)</enum>
+                  <text>the animal drug
+				application or supplemental animal drug application is intended solely to
+				provide for use of the animal drug in—</text>
+									<clause id="H936444C56BC349A494A964947BCBE18B">
+                    <enum>(i)</enum>
+                    <text>a Type B medicated feed
+				(as defined in <external-xref legal-doc="regulation" parsable-cite="cfr/21/558.3">section 558.3(b)(3)</external-xref> of title 21, Code of Federal Regulations (or
+				any successor regulation)) intended for use in the manufacture of Type C
+				free-choice medicated feeds; or</text>
+									</clause>
+                  <clause id="H686D711B269141DC84A1A4620F678751">
+                    <enum>(ii)</enum>
+                    <text>a Type C free-choice
+				medicated feed (as defined in <external-xref legal-doc="usc" parsable-cite="usc/21/558">section 558.3(b)(4)</external-xref> of title 21, Code of Federal
+				Regulations (or any successor regulation));</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="H511E31AD18EE48F3A2D488D66734E415">
+                  <enum>(D)</enum>
+                  <text>the animal drug
+				application or supplemental animal drug application is intended solely to
+				provide for a minor use or minor species indication; or</text>
+								</subparagraph>
+                <subparagraph id="H35670E833EDB461494EAE4A93252ED4A">
+                  <enum>(E)</enum>
+                  <text>the sponsor involved is a
+				small business submitting its first animal drug application to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>
+				for review.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H92AD4E2F7C954D91BAFCABFA1DDE908E">
+                <enum>(2)</enum>
+                <header>Use of standard
+				costs</header>
+                <text>In making the finding in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:d/p:1/sp:B" proposed="true">paragraph (1)(B)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>
+				may use standard costs.</text>
+							</paragraph>
+              <paragraph id="HE5FCF679738C462CA1CF56F7635BEB9B">
+                <enum>(3)</enum>
+                <header>Rules for small
+				businesses</header>
+								<subparagraph id="H4EE3339060AD4901B1EDF7531D5E8574">
+                  <enum>(A)</enum>
+                  <header>Definition</header>
+                  <text>In
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:d/p:1/sp:E" proposed="true">paragraph (1)(E)</cato:entity-ref>, the term <term>small business</term> means an entity that has
+				fewer than 500 employees, including employees of affiliates.</text>
+								</subparagraph>
+                <subparagraph id="HA5BB2BAA0F8043199DDAD70A7888309C">
+                  <enum>(B)</enum>
+                  <header>Waiver of application
+				fee</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall waive under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:d/p:1/sp:E" proposed="true">paragraph (1)(E)</cato:entity-ref> the
+				application fee for the first animal drug application that a small business or
+				its affiliate submits to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> for review. After a small business or
+				its affiliate is granted such a waiver, the small business or its affiliate
+				shall pay application fees for all subsequent animal drug applications and
+				supplemental animal drug applications for which safety or effectiveness data
+				are required in the same manner as an entity that does not qualify as a small
+				business.</text>
+								</subparagraph>
+                <subparagraph id="HB89DAA6396CA4E0E8B5AABFB95304C8A">
+                  <enum>(C)</enum>
+                  <header>Certification</header>
+                  <text>The
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall require any person who applies for a waiver under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:d/p:1/sp:E" proposed="true">paragraph
+				(1)(E)</cato:entity-ref> to certify their qualification for the waiver. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall
+				periodically publish in the Federal Register a list of persons making such
+				certifications.</text>
+								</subparagraph>
+              </paragraph>
+            </subsection>
+            <subsection id="H64213ABB1C9044E782562FA1727EA78A">
+              <enum>(e)</enum>
+              <header>Effect of failure To
+				pay fees</header>
+              <text>An animal drug application or supplemental
+				animal drug application submitted by a person subject to fees under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a" proposed="true">subsection
+				(a)</cato:entity-ref> shall be considered incomplete and shall not be accepted for filing by the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> until all fees owed by such person have been paid. An investigational
+				animal drug submission under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:739/p:5/sp:B">section 739(5)(B)</cato:entity-ref> that is submitted by a person
+				subject to fees under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall be considered incomplete and shall
+				not be accepted for review by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> until all fees owed by such person
+				have been paid. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> may discontinue review of any animal drug
+				application, supplemental animal drug application, or investigational animal
+				drug submission from a person if such person has not submitted for payment all
+				fees owed under this section by 30 days after the date upon which they are
+				due.</text>
+						</subsection>
+            <subsection id="HC0BC07093B0B4034B5DB9DC2D4EDE704">
+              <enum>(f)</enum>
+              <header>Assessment of
+				fees</header>
+							<paragraph id="HEED8BE69DC9249EA89062123D765BE7B">
+                <enum>(1)</enum>
+                <header>Limitation</header>
+                <text>Fees
+				may not be assessed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a" proposed="true">subsection (a)</cato:entity-ref> for a fiscal year beginning after
+				fiscal year 2003 unless appropriations for salaries and expenses of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food
+				and Drug Administration</cato:entity-ref> for such fiscal year (excluding the amount of fees
+				appropriated for such fiscal year) are equal to or greater than the amount of
+				appropriations for the salaries and expenses of the Food and Drug
+				Administration for the fiscal year 2003 (excluding the amount of fees
+				appropriated for such fiscal year) multiplied by the adjustment factor
+				applicable to the fiscal year involved.</text>
+							</paragraph>
+              <paragraph id="H2C80F52B58874658B6394B9C395E54D5">
+                <enum>(2)</enum>
+                <header>Authority</header>
+                <text>If
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> does not assess fees under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a" proposed="true">subsection (a)</cato:entity-ref> during any portion of a
+				fiscal year because of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:f/p:1" proposed="true">paragraph (1)</cato:entity-ref> and if at a later date in such fiscal year
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> may assess such fees, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> may assess and collect such
+				fees, without any modification in the rate, for animal drug applications,
+				supplemental animal drug applications, investigational animal drug submissions,
+				animal drug sponsors, animal drug establishments, and animal drug products at
+				any time in such fiscal year notwithstanding the provisions of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a" proposed="true">subsection (a)</cato:entity-ref>
+				relating to the date fees are to be paid.</text>
+							</paragraph>
+            </subsection>
+            <subsection id="H9ABB455980F84803861E6BBF43DA5913">
+              <enum>(g)</enum>
+              <header>Crediting and
+				availability of fees</header>
+							<paragraph id="H080F149F717E4031BA027C426B0717B9">
+                <enum>(1)</enum>
+                <header>In
+				general</header>
+                <text>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:g/p:2/sp:C" proposed="true">paragraph (2)(C)</cato:entity-ref>, fees authorized under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall be collected and available for obligation only to the
+				extent and in the amount provided in advance in appropriations Acts. Such fees
+				are authorized to be appropriated to remain available until expended. Such sums
+				as may be necessary may be transferred from the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food and Drug Administration</cato:entity-ref>
+				salaries and expenses appropriation account without fiscal year limitation to
+				such appropriation account for salary and expenses with such fiscal year
+				limitation. The sums transferred shall be available solely for the process for
+				the review of animal drug applications.</text>
+							</paragraph>
+              <paragraph id="HA7FB552EED714EBE8A1337145757689E">
+                <enum>(2)</enum>
+                <header>Collections and
+				appropriation acts</header>
+								<subparagraph id="H9540E04251FB4AB5B552EE386D26BEC3">
+                  <enum>(A)</enum>
+                  <header>In
+				general</header>
+                  <text>The fees authorized by this section—</text>
+									<clause id="H4062DD30087540068C483091E1FB031D">
+                    <enum>(i)</enum>
+                    <text>subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:g/p:2/sp:C" proposed="true">subparagraph
+				(C)</cato:entity-ref>, shall be collected and available in each fiscal year in an amount not to
+				exceed the amount specified in appropriation Acts, or otherwise made available
+				for obligation for such fiscal year; and</text>
+									</clause>
+                  <clause id="HD79E54220D0E438C89EBEC4AEEC735E5">
+                    <enum>(ii)</enum>
+                    <text>shall be available to
+				defray increases in the costs of the resources allocated for the process for
+				the review of animal drug applications (including increases in such costs for
+				an additional number of full-time equivalent positions in the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Department of
+				Health and Human Services</cato:entity-ref> to be engaged in such process) over such costs,
+				excluding costs paid from fees collected under this section, for fiscal year
+				2003 multiplied by the adjustment factor.</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="H6696935B160646F5B5BC299C3B2FB755">
+                  <enum>(B)</enum>
+                  <header>Compliance</header>
+                  <text>The
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall be considered to have met the requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:g/p:2/sp:A/cl:ii" proposed="true">subparagraph
+				(A)(ii)</cato:entity-ref> in any fiscal year if the costs funded by appropriations and allocated
+				for the process for the review of animal drug applications—</text>
+									<clause id="H5AB30CE0C6E54EFF8AC54963A0881D38">
+                    <enum>(i)</enum>
+                    <text>are not more than 3
+				percent below the level specified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:g/p:2/sp:A/cl:ii" proposed="true">subparagraph (A)(ii)</cato:entity-ref>; or</text>
+									</clause>
+                  <clause id="HC880507E345D4C32A15AA4A3A3E9252E">
+                    <enum>(ii)</enum>
+                    <subclause commented="no" display-inline="yes-display-inline" id="H6384908455BF4208A421F5B5CB8694FE">
+                      <enum>(I)</enum>
+                      <text>are more than 3 percent
+				below the level specified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:g/p:2/sp:A/cl:ii" proposed="true">subparagraph (A)(ii)</cato:entity-ref>, and fees assessed for the
+				fiscal year following the subsequent fiscal year are decreased by the amount in
+				excess of 3 percent by which such costs fell below the level specified in
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:g/p:2/sp:A/cl:ii" proposed="true">subparagraph (A)(ii)</cato:entity-ref>; and</text>
+										</subclause>
+                    <subclause changed="added" committee-id="HIF00" id="H9DAA042F88B9494D915DAF7E5694CAC5" indent="up1" reported-display-style="italic">
+                      <enum>(II)</enum>
+                      <text>such costs are not more
+				than 5 percent below the level specified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:g/p:2/sp:A/cl:ii" proposed="true">subparagraph (A)(ii)</cato:entity-ref>.</text>
+										</subclause>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="HE9EEDBE528984E3FA254DF8C24EF2D58">
+                  <enum>(C)</enum>
+                  <header>Provision for early
+				payments</header>
+                  <text>Payment of fees authorized under this section for a
+				fiscal year, prior to the due date for such fees, may be accepted by the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> in accordance with authority provided in advance in a prior year
+				appropriations Act.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H40302893F1FC44E1BBF56B272466ECAF">
+                <enum>(3)</enum>
+                <header>Authorization of
+				appropriations</header>
+                <text>
+                  <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">For each of the fiscal years 2014 through 2018,
+				<cato:property name="purpose">there is authorized to be appropriated for fees under this section</cato:property> <cato:funds-and-year amount="indefinite" year="2014, 2015, 2016, 2017, 2018">an amount
+				equal to the total revenue amount determined under <cato:entity-ref entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:b" proposed="true">subsection (b)</cato:entity-ref> for the
+				fiscal year, as adjusted or otherwise affected under <cato:entity-ref entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:c" proposed="true">subsection (c)</cato:entity-ref> and
+				<cato:entity-ref entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:g/p:4" proposed="true">paragraph (4)</cato:entity-ref>
+                    </cato:funds-and-year>.</cato:entity>
+                </text>
+							</paragraph>
+              <paragraph id="H2820D0DF76774109BAE7466ACCF40E8C">
+                <enum>(4)</enum>
+                <header>Offset of
+				overcollections; recovery of collection shortfalls</header>
+								<subparagraph id="HCFDB581EDCDC41988A36527B1FD2804A">
+                  <enum>(A)</enum>
+                  <header>Offset of
+				overcollections</header>
+                  <text>If the sum of the cumulative amount of fees
+				collected under this section for fiscal years 2014 through 2016 and the amount
+				of fees estimated to be collected under this section for fiscal year 2017
+				(including any increased fee collections attributable to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:g/p:4/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>),
+				exceeds the cumulative amount appropriated pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:g/p:3" proposed="true">paragraph (3)</cato:entity-ref> for the
+				fiscal years 2014 through 2017, the excess amount shall be credited to the
+				appropriation account of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food and Drug Administration</cato:entity-ref> as provided in
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:g/p:1" proposed="true">paragraph (1)</cato:entity-ref>, and shall be subtracted from the amount of fees that would
+				otherwise be authorized to be collected under this section pursuant to
+				appropriation Acts for fiscal year 2018.</text>
+								</subparagraph>
+                <subparagraph id="HBAD65866F630456EBD19B6C32E2085F4">
+                  <enum>(B)</enum>
+                  <header>Recovery of collection
+				shortfalls</header>
+									<clause id="H566512AB0CEB46FD8940237BC14F63C1">
+                    <enum>(i)</enum>
+                    <header>Fiscal year
+				2016</header>
+                    <text>For fiscal year 2016, the amount of fees otherwise
+				authorized to be collected under this section shall be increased by the amount,
+				if any, by which the amount collected under this section and appropriated for
+				fiscal year 2014 falls below the amount of fees authorized for fiscal year 2014
+				under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:g/p:3" proposed="true">paragraph (3)</cato:entity-ref>.</text>
+									</clause>
+                  <clause id="H8E773F6313A642C3A0E265C6373BB790">
+                    <enum>(ii)</enum>
+                    <header>Fiscal year
+				2017</header>
+                    <text>For fiscal year 2017, the amount of fees otherwise
+				authorized to be collected under this section shall be increased by the amount,
+				if any, by which the amount collected under this section and appropriated for
+				fiscal year 2015 falls below the amount of fees authorized for fiscal year 2015
+				under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:g/p:3" proposed="true">paragraph (3)</cato:entity-ref>.</text>
+									</clause>
+                  <clause id="HD5A9AFA1B5B94D9688DF83EACDBC77C9">
+                    <enum>(iii)</enum>
+                    <header>Fiscal year
+				2018</header>
+                    <text>For fiscal year 2018, the amount of fees otherwise
+				authorized to be collected under this section (including any reduction in the
+				authorized amount under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:g/p:4/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>), shall be increased by the cumulative
+				amount, if any, by which the amount collected under this section and
+				appropriated for fiscal years 2016 and 2017 (including estimated collections
+				for fiscal year 2017) falls below the cumulative amount of fees authorized
+				under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:g/p:3" proposed="true">paragraph (3)</cato:entity-ref> for fiscal years 2016 and 2017.</text>
+									</clause>
+                </subparagraph>
+              </paragraph>
+            </subsection>
+            <subsection id="H4EEFF5DF674648A484B299BFF5F9377D">
+              <enum>(h)</enum>
+              <header>Collection of unpaid
+				fees</header>
+              <text>In any case where the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> does not receive payment of
+				a fee assessed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a" proposed="true">subsection (a)</cato:entity-ref> within 30 days after it is due, such fee
+				shall be treated as a claim of the United States Government subject to
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/31/37/II">subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/31/37">chapter 37</external-xref> of title 31, United States Code</cato:entity-ref>.</text>
+						</subsection>
+            <subsection id="H97FFE12AD7C74BFF95C773B4E10E5AFF">
+              <enum>(i)</enum>
+              <header>Written requests for
+				waivers, reductions, and refunds</header>
+              <text>To qualify for consideration for
+				a waiver or reduction under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:d" proposed="true">subsection (d)</cato:entity-ref>, or for a refund of any fee
+				collected in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740/ss:a" proposed="true">subsection (a)</cato:entity-ref>, a person shall submit to the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> a written request for such waiver, reduction, or refund not later
+				than 180 days after such fee is due.</text>
+						</subsection>
+            <subsection id="HA69EE2B79432464F94DAF7118FAEE569">
+              <enum>(j)</enum>
+              <header>Construction</header>
+              <text>This
+				section may not be construed to require that the number of full-time equivalent
+				positions in the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Department of Health and Human Services</cato:entity-ref>, for officers,
+				employees, and advisory committees not engaged in the process of the review of
+				animal drug applications, be reduced to offset the number of officers,
+				employees, and advisory committees so engaged.</text>
+						</subsection>
+            <subsection id="H198403CABCFE4992B2DAF581BD78C358">
+              <enum>(k)</enum>
+              <header>Abbreviated new animal
+				drug applications</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall—</text>
+							<paragraph id="HCDCCD3965F6F4BEF84E7452470F2808E">
+                <enum>(1)</enum>
+                <text>to the extent
+				practicable, segregate the review of abbreviated new animal drug applications
+				from the process for the review of animal drug applications; and</text>
+							</paragraph>
+              <paragraph id="HBFD8240E38534E7FB1A4CACB35FE2159">
+                <enum>(2)</enum>
+                <text>adopt other
+				administrative procedures to ensure that review times of abbreviated new animal
+				drug applications do not increase from their current level due to activities
+				under the user fee
+				program.</text>
+							</paragraph>
+            </subsection>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</section>
+      <section id="H4B0D57F4F492484AB0026477B82E2463">
+        <enum>104.</enum>
+        <header>Reauthorization;
+			 reporting requirements</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740A">Section
+			 740A of the Federal Food, Drug, and Cosmetic Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/21/379j-13">
+              <cato:entity-ref entity-type="uscode" value="usc/21/379j–13">21 U.S.C. 379j–13</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended
+			 to read as follows:</text>
+				<quoted-block changed="added" committee-id="HIF00" display-inline="no-display-inline" id="HC478B5E5BEDD4B4B96FA939FEE25AF2B" reported-display-style="italic" style="OLC">
+					<section id="H42CF024851684B91B70104BD8AB19AB3">
+            <enum>740A.</enum>
+            <header>Reauthorization;
+				reporting requirements</header>
+						<subsection id="HCC616D0AEA22415DA5A02F578111E26B">
+              <enum>(a)</enum>
+              <header>Performance
+				report</header>
+              <text display-inline="yes-display-inline">Beginning with fiscal
+				year 2014, not later than 120 days after the end of each fiscal year during
+				which fees are collected under this part, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall prepare and
+				submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HIF00">Committee on Energy and Commerce of the House of Representatives</cato:entity-ref>
+				and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSHR00">Committee on Health, Education, Labor, and Pensions of the Senate</cato:entity-ref> a
+				report concerning the progress of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food and Drug Administration</cato:entity-ref> in achieving
+				the goals identified in the letters described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Animal Drug User Fee Amendments of 2013/s:101/ss:b" proposed="true">section 101(b) of the Animal
+				Drug User Fee Amendments of 2013</cato:entity-ref> toward expediting the animal drug development
+				process and the review of the new and supplemental animal drug applications and
+				investigational animal drug submissions during such fiscal year, the future
+				plans of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food and Drug Administration</cato:entity-ref> for meeting the goals, the review
+				times for abbreviated new animal drug applications, and the administrative
+				procedures adopted by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food and Drug Administration</cato:entity-ref> to ensure that review
+				times for abbreviated new animal drug applications are not increased from their
+				current level due to activities under the user fee program.</text>
+						</subsection>
+            <subsection id="H1316FAAB2BF34C6B8579A29F9CF6D5B2">
+              <enum>(b)</enum>
+              <header>Fiscal
+				report</header>
+              <text display-inline="yes-display-inline">Beginning with fiscal
+				year 2014, not later than 120 days after the end of each fiscal year during
+				which fees are collected under this part, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall prepare and
+				submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HIF00">Committee on Energy and Commerce of the House of Representatives</cato:entity-ref>
+				and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSHR00">Committee on Health, Education, Labor, and Pensions of the Senate</cato:entity-ref> a
+				report on the implementation of the authority for such fees during such fiscal
+				year and the use, by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food and Drug Administration</cato:entity-ref>, of the fees collected
+				during such fiscal year for which the report is made.</text>
+						</subsection>
+            <subsection id="H7A6A0C64BC2F4022828F268D5D2B5FE0">
+              <enum>(c)</enum>
+              <header>Public
+				availability</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall make the reports required under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740A/ss:a" proposed="true">subsections (a)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740A/ss:b" proposed="true">(b)</cato:entity-ref> available to the public on the Internet Web site of the
+				Food and Drug Administration.</text>
+						</subsection>
+            <subsection id="H7A99EA3115AA416BBE00CD62928F6350">
+              <enum>(d)</enum>
+              <header>Reauthorization</header>
+							<paragraph id="HEC3CB33BD01D415EA4D6444E580FB8E2">
+                <enum>(1)</enum>
+                <header>Consultation</header>
+                <text>In
+				developing recommendations to present to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> with respect to the
+				goals, and plans for meeting the goals, for the process for the review of
+				animal drug applications for the first 5 fiscal years after fiscal year 2018,
+				and for the reauthorization of this part for such fiscal years, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>
+				shall consult with—</text>
+								<subparagraph commented="no" id="HD5AC860A85994475A4D0D998629F8290">
+                  <enum>(A)</enum>
+                  <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HIF00">Committee on Energy
+				and Commerce of the House of Representatives</cato:entity-ref>;</text>
+								</subparagraph>
+                <subparagraph commented="no" id="HD044F906A2734BA3B8E3F2F8B84C2FD3">
+                  <enum>(B)</enum>
+                  <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSHR00">Committee on Health,
+				Education, Labor, and Pensions of the Senate</cato:entity-ref>;</text>
+								</subparagraph>
+                <subparagraph id="H490AD63C0C04453B98F943685AFDB45B">
+                  <enum>(C)</enum>
+                  <text>scientific and academic
+				experts;</text>
+								</subparagraph>
+                <subparagraph id="HAE438C0F818149D0B636100855435B5E">
+                  <enum>(D)</enum>
+                  <text>veterinary
+				professionals;</text>
+								</subparagraph>
+                <subparagraph id="H0316E15A48B54425B6A12D8A9A92F881">
+                  <enum>(E)</enum>
+                  <text>representatives of
+				patient and consumer advocacy groups; and</text>
+								</subparagraph>
+                <subparagraph id="H45D1615C309B4E9D87FC20FF90039171">
+                  <enum>(F)</enum>
+                  <text>the regulated
+				industry.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H8EA67A72F85547B7A28E4800C741EB30">
+                <enum>(2)</enum>
+                <header>Prior public
+				input</header>
+                <text>Prior to beginning negotiations with the regulated industry
+				on the reauthorization of this part, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall—</text>
+								<subparagraph id="HB7C28E8CC4934829980F2FF88C64C135">
+                  <enum>(A)</enum>
+                  <text>publish a notice in the
+				Federal Register requesting public input on the reauthorization;</text>
+								</subparagraph>
+                <subparagraph id="H6DEE873A3450455384396974C68B7637">
+                  <enum>(B)</enum>
+                  <text>hold a public meeting at
+				which the public may present its views on the reauthorization, including
+				specific suggestions for changes to the goals referred to in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740A/ss:a" proposed="true">subsection
+				(a)</cato:entity-ref>;</text>
+								</subparagraph>
+                <subparagraph id="H317F931FBE4846738DAA1F0C37A69487">
+                  <enum>(C)</enum>
+                  <text>provide a period of 30
+				days after the public meeting to obtain written comments from the public
+				suggesting changes to this part; and</text>
+								</subparagraph>
+                <subparagraph id="HDFF75E88BD574D0DA23B93300FD944A2">
+                  <enum>(D)</enum>
+                  <text>publish the comments on
+				the Food and Drug Administration’s Internet Web site.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="HF2B386603B3649D8BA6F6A0242FBBB4F">
+                <enum>(3)</enum>
+                <header>Periodic
+				consultation</header>
+                <text>Not less frequently than once every 4 months during
+				negotiations with the regulated industry, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall hold discussions
+				with representatives of veterinary, patient, and consumer advocacy groups to
+				continue discussions of their views on the reauthorization and their
+				suggestions for changes to this part as expressed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740A/ss:d/p:2" proposed="true">paragraph (2)</cato:entity-ref>.</text>
+							</paragraph>
+              <paragraph id="H1184E001052C4FFFB12AC8E027FA5585">
+                <enum>(4)</enum>
+                <header>Public review of
+				recommendations</header>
+                <text>After negotiations with the regulated industry,
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall—</text>
+								<subparagraph id="H071B911562564FB7B3136B1CBC580F59">
+                  <enum>(A)</enum>
+                  <text>present the
+				recommendations developed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740A/ss:d/p:1" proposed="true">paragraph (1)</cato:entity-ref> to the congressional committees
+				specified in such paragraph;</text>
+								</subparagraph>
+                <subparagraph id="HAA9E4838F34E445A916B716C1EBA2815">
+                  <enum>(B)</enum>
+                  <text>publish such
+				recommendations in the Federal Register;</text>
+								</subparagraph>
+                <subparagraph id="H11682AABE41F4726BBBDC084020B21CD">
+                  <enum>(C)</enum>
+                  <text>provide for a period of
+				30 days for the public to provide written comments on such
+				recommendations;</text>
+								</subparagraph>
+                <subparagraph id="HB1696A268D534001B1C0C55FB95B426E">
+                  <enum>(D)</enum>
+                  <text>hold a meeting at which
+				the public may present its views on such recommendations; and</text>
+								</subparagraph>
+                <subparagraph id="H05751329D470478CBB48D7DCD205C761">
+                  <enum>(E)</enum>
+                  <text>after consideration of
+				such public views and comments, revise such recommendations as
+				necessary.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="HC0408B947CB541A3BD2073711C0BC3E5">
+                <enum>(5)</enum>
+                <header>Transmittal of
+				recommendations</header>
+                <text>Not later than January 15, 2018, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>
+				shall transmit to Congress the revised recommendations under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740A/ss:d/p:4" proposed="true">paragraph (4)</cato:entity-ref>, a
+				summary of the views and comments received under such paragraph, and any
+				changes made to the recommendations in response to such views and
+				comments.</text>
+							</paragraph>
+              <paragraph id="HC798FA718A804B398943E7219DF9F0A4">
+                <enum>(6)</enum>
+                <header>Minutes of negotiation
+				meetings</header>
+								<subparagraph id="H99B8DA59C9974935A057E89FDE2024EF">
+                  <enum>(A)</enum>
+                  <header>Public
+				availability</header>
+                  <text display-inline="yes-display-inline">Before
+				presenting the recommendations developed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740A/ss:d/p:1..5" proposed="true">paragraphs (1) through (5)</cato:entity-ref> to
+				Congress, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall make publicly available, on the Internet Web site
+				of the Food and Drug Administration, minutes of<cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <external-xref legal-doc="public-law" parsable-cite="pl/110/316">
+                        <cato:entity-ref entity-type="public-law" value="public-law/110/316">Public Law 110–316</cato:entity-ref>
+                      </external-xref> (<cato:entity-ref entity-type="statute-at-large" value="statute-at-large/122/3509">122 Stat.
+				3509</cato:entity-ref>)</cato:entity>” all negotiation meetings conducted under this subsection between the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food and Drug Administration</cato:entity-ref> and the regulated industry.</text>
+								</subparagraph>
+                <subparagraph id="H1ED37DEB8D1B48C3A0FD387F6E8F83BD">
+                  <enum>(B)</enum>
+                  <header>Content</header>
+                  <text>The
+				minutes described under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740A/ss:d/p:6/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> shall summarize any substantive
+				proposal made by any party to the negotiations as well as significant
+				controversies or differences of opinion during the negotiations and their
+				resolution.</text>
+								</subparagraph>
+              </paragraph>
+            </subsection>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</section>
+      <section id="H0990EE7E1BA84E86963A121F3E3E804F">
+        <enum>105.</enum>
+        <header>Savings
+			 clause</header>
+        <text display-inline="no-display-inline">Notwithstanding the
+			 amendments made by this title, <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Federal Food, Drug, and Cosmetic Act/ch:VII/sch:C/pt:4">part 4 of subchapter C of chapter VII of the
+			 Federal Food, Drug, and Cosmetic Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/21/379j-11">
+              <cato:entity-ref entity-type="uscode" value="usc/21/379j–11/etseq">21 U.S.C. 379j–11 et seq.</cato:entity-ref>
+            </external-xref>)</cato:entity>, as in effect
+			 on the day before the date of the enactment of this title, shall continue to be
+			 in effect with respect to animal drug applications and supplemental animal drug
+			 applications (as defined in such part as of such day) that on or after October
+			 1, 2008, but before October 1, 2013, were accepted by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food and Drug
+			 Administration</cato:entity-ref> for filing with respect to assessing and collecting any fee
+			 required by such part for a fiscal year prior to fiscal year 2014.</text>
+			</section>
+      <section id="H68DC208E871C4EE2BE4E11FC32B5AA99">
+        <enum>106.</enum>
+        <header>Effective
+			 date</header>
+        <text display-inline="no-display-inline">The amendments made by
+			 this title shall take effect on October 1, 2013, or the date of enactment of
+			 this title, whichever is later, except that fees under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/ch:VII/sch:C/pt:4">part 4 of subchapter C
+			 of chapter VII of the Federal Food, Drug, and Cosmetic Act</cato:entity-ref>, as amended by this
+			 title, shall be assessed for all animal drug applications and supplemental
+			 animal drug applications received on or after October 1, 2013, regardless of
+			 the date of the enactment of this title.</text>
+			</section>
+      <section id="H98B3FB34ADE143CB984081514FA7F305">
+        <enum>107.</enum>
+        <header>Sunset dates</header>
+				<subsection id="H31DD3BF3696B4D59AB9015877206C3C0">
+          <enum>(a)</enum>
+          <header>Authorization</header>
+          <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740">Section
+			 740 of the Federal Food, Drug, and Cosmetic Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/21/379j-12">
+                <cato:entity-ref entity-type="uscode" value="usc/21/379j–12">21 U.S.C. 379j–12</cato:entity-ref>
+              </external-xref>)</cato:entity> shall cease
+			 to be effective October 1, 2018.</text>
+				</subsection>
+        <subsection id="H149C580C57D0435FA5B39B2C35095F0B">
+          <enum>(b)</enum>
+          <header>Reporting
+			 requirements</header>
+          <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:740A">Section 740A of the Federal Food, Drug, and Cosmetic
+			 Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/21/379j-13">
+                <cato:entity-ref entity-type="uscode" value="usc/21/379j–13">21 U.S.C. 379j–13</cato:entity-ref>
+              </external-xref>)</cato:entity> shall cease to be effective January 31, 2019.</text>
+				</subsection>
+        <subsection id="H78D3CC7073B5433A9CE67A75E6774EF5">
+          <enum>(c)</enum>
+          <header>Previous sunset
+			 provision</header>
+					<paragraph id="H256BB840A1E149BB9554E8C34B88AC15">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Animal Drug User Fee Amendments of 2008/s:108">Section 108 of the Animal Drug User Fee Amendments of
+			 2008</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/110/316">
+                  <cato:entity-ref entity-type="public-law" value="public-law/110/316">Public Law 110–316</cato:entity-ref>
+                </external-xref>)</cato:entity> is repealed.</text>
+					</paragraph>
+          <paragraph id="HF8CF629D43804A43B4074B5ADF7509FD">
+            <enum>(2)</enum>
+            <header>Conforming
+			 amendment</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="public-law" value="public-law/110/316">Public Law 110–316</cato:entity-ref>
+			 (<cato:entity-ref entity-type="statute-at-large" value="statute-at-large/122/3509">122 Stat. 3509</cato:entity-ref>)</cato:entity> is amended in the table of contents in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Animal Drug User Fee Amendments of 2008/s:1">section 1</cato:entity-ref>, by striking
+			 the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Animal Drug User Fee Amendments of 2008/s:108">section 108</cato:entity-ref>.</text>
+					</paragraph>
+        </subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="HFD82329351614A6C94079BC25B75CA37">
+          <enum>(d)</enum>
+          <header>Technical
+			 clarification</header>
+          <text>Effective November 18, 2003, <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Animal Drug User Fee Act of 2003/s:5">section 5 of the
+			 Animal Drug User Fee Act of 2003</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/108/130">
+                <cato:entity-ref entity-type="public-law" value="public-law/108/130">Public Law 108–130</cato:entity-ref>
+              </external-xref>)</cato:entity> is repealed.</text>
+				</subsection>
+      </section>
+    </title>
+    <title id="HEBFF3B7325FF4C888B5E64EFD09FC9B8">
+      <enum>II</enum>
+      <header>Animal Generic Drug User
+			 Fee Amendments</header>
+			<section id="H264F43CF92334A8D98B1B02F32C4E877" section-type="section-one">
+        <enum>201.</enum>
+        <header>Short title;
+			 finding</header>
+				<subsection id="H1383DF0B08D74394B2FB52CF72031AED">
+          <enum>(a)</enum>
+          <header>Short
+			 title</header>
+          <text>This title may be cited as the <quote>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Animal Generic Drug User Fee Amendments of 2013" proposed="true">Animal Generic Drug
+			 User Fee Amendments of 2013</cato:entity-ref>
+            </quote>.</text>
+				</subsection>
+        <subsection commented="no" id="H96C2F49A68D543EDB6415BE06A705461">
+          <enum>(b)</enum>
+          <header>Finding</header>
+          <text>The fees authorized by this title will be
+			 dedicated toward expediting the generic new animal drug development process and
+			 the review of abbreviated applications for generic new animal drugs,
+			 supplemental abbreviated applications for generic new animal drugs, and
+			 investigational submissions for generic new animal drugs as set forth in the
+			 goals identified in the letters from the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary of Health and Human Services</cato:entity-ref>
+			 to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HIF00">Chairman of the Committee on Energy and Commerce of the House of
+			 Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSHR00">Chairman of the Committee on Health, Education, Labor,
+			 and Pensions of the Senate</cato:entity-ref> as set forth in the Congressional Record.</text>
+				</subsection>
+      </section>
+      <section id="H3E09AE53D7654C4EAE8B90062929F6ED">
+        <enum>202.</enum>
+        <header>Authority to assess
+			 and use generic new animal drug fees</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741">Section 741 of the Federal Food, Drug, and
+			 Cosmetic Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/21/379j-21">
+              <cato:entity-ref entity-type="uscode" value="usc/21/379j–21">21 U.S.C. 379j–21</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended to read as follows:</text>
+				<quoted-block changed="added" committee-id="HIF00" display-inline="no-display-inline" id="HF99F54679BE14B7C8721C9C896AE8422" reported-display-style="italic" style="OLC">
+					<section id="H65576A16FC5B4F5BA58D4CDC0F772E48">
+            <enum>741.</enum>
+            <header>Authority to assess
+				and use generic new animal drug fees</header>
+						<subsection id="H7EEC61DDC47B429986C4EB8ED2360D57">
+              <enum>(a)</enum>
+              <header>Types of
+				fees</header>
+              <text>Beginning with respect to fiscal year 2009, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>
+				shall assess and collect fees in accordance with this section as
+				follows:</text>
+							<paragraph id="H8BC7B2B93423473298065C4FDBFF126B">
+                <enum>(1)</enum>
+                <header>Abbreviated application
+				fee</header>
+								<subparagraph id="HBC908D12D31045F2AC2BC4159DD45236">
+                  <enum>(A)</enum>
+                  <header>In
+				general</header>
+                  <text>Each person that submits, on or after July 1, 2008, an
+				abbreviated application for a generic new animal drug shall be subject to a fee
+				as established in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:c" proposed="true">subsection (c)</cato:entity-ref> for such an application.</text>
+								</subparagraph>
+                <subparagraph id="HA962123A7DD64F82A122C4F82D1B5567">
+                  <enum>(B)</enum>
+                  <header>Payment</header>
+                  <text>The
+				fee required by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:a/p:1/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> shall be due upon submission of the
+				abbreviated application.</text>
+								</subparagraph>
+                <subparagraph id="H93C5714BFAC84DDE95129C2A91BAE77C">
+                  <enum>(C)</enum>
+                  <header>Exceptions</header>
+									<clause id="H2E574013BF3A461180FF7AFE56908AB6">
+                    <enum>(i)</enum>
+                    <header>Previously filed
+				application</header>
+                    <text>If an abbreviated application was submitted by a
+				person that paid the fee for such application, was accepted for filing, and was
+				not approved or was withdrawn (without a waiver or refund), the submission of
+				an abbreviated application for the same product by the same person (or the
+				person’s licensee, assignee, or successor) shall not be subject to a fee under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:a/p:1/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>.</text>
+									</clause>
+                  <clause id="HCEA535DC29EE4C54A637D84ABBB2BB16">
+                    <enum>(ii)</enum>
+                    <header>Certain abbreviated
+				applications involving combination animal drugs</header>
+                    <text>An
+				abbreviated application for an animal drug described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:512/ss:d/p:4">section 512(d)(4)</cato:entity-ref> and
+				submitted on or after October 1, 2013, shall be subject to a fee equal to 50
+				percent of the amount of the abbreviated application fee established in
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:c" proposed="true">subsection (c)</cato:entity-ref>.</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="H1E8ABE30E52E44EBA1EFDF13F10F9ED7">
+                  <enum>(D)</enum>
+                  <header>Refund of fee if
+				application refused for filing</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall refund 75
+				percent of the fee paid under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:a/p:1/sp:B" proposed="true">subparagraph (B)</cato:entity-ref> for any abbreviated application
+				which is refused for filing.</text>
+								</subparagraph>
+                <subparagraph id="H0F64DC7E45AB4B599270C7230E19A4F4">
+                  <enum>(E)</enum>
+                  <header>Refund of fee if
+				application withdrawn</header>
+                  <text>If an abbreviated application is withdrawn
+				after the application was filed, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> may refund the fee or portion of
+				the fee paid under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:a/p:1/sp:B" proposed="true">subparagraph (B)</cato:entity-ref> if no substantial work was performed on the
+				application after the application was filed. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall have the sole
+				discretion to refund the fee under this subparagraph. A determination by the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> concerning a refund under this subparagraph shall not be
+				reviewable.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="HFD34B13C617549BFACC5DDC4F2B85FD5">
+                <enum>(2)</enum>
+                <header>Generic new animal drug
+				product fee</header>
+								<subparagraph id="H5054493581E4462D87FFFBC6E4E0A55B">
+                  <enum>(A)</enum>
+                  <header>In
+				general</header>
+                  <text>Each person—</text>
+									<clause id="HD70D952523744CF1A8FD80E6A7FFA1BB">
+                    <enum>(i)</enum>
+                    <text>who is named as the
+				applicant in an abbreviated application or supplemental abbreviated application
+				for a generic new animal drug product which has been submitted for listing
+				under section 510; and</text>
+									</clause>
+                  <clause id="HC966D800BE0645F79605A86BE9D66A67">
+                    <enum>(ii)</enum>
+                    <text>who, after September 1,
+				2008, had pending before the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> an abbreviated application or
+				supplemental abbreviated application,</text>
+									</clause>
+                  <continuation-text continuation-text-level="subparagraph">shall pay for each such generic new
+				animal drug product the annual fee established in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:c" proposed="true">subsection (c)</cato:entity-ref>.</continuation-text>
+                </subparagraph>
+                <subparagraph id="H3E0114D996C14181A4F8C5AC526ED610">
+                  <enum>(B)</enum>
+                  <header>Payment; fee due
+				date</header>
+                  <text>Such fee shall be payable for the fiscal year in which the
+				generic new animal drug product is first submitted for listing under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:510">section
+				510</cato:entity-ref>, or is submitted for relisting under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:510">section 510</cato:entity-ref> if the generic new animal
+				drug product has been withdrawn from listing and relisted. After such fee is
+				paid for that fiscal year, such fee shall be due each subsequent fiscal year
+				that the product remains listed, upon the later of—</text>
+									<clause id="H6F9ABBB32EAB4210925CD0FE7C16CC76">
+                    <enum>(i)</enum>
+                    <text>the first business day
+				after the date of enactment of an appropriations Act providing for the
+				collection and obligation of fees for such fiscal year under this section;
+				or</text>
+									</clause>
+                  <clause id="HD8B81772FE69493D9538181A60D81937">
+                    <enum>(ii)</enum>
+                    <text>January 31 of each
+				year.</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="HF7886196915741009F8CE086000D79C5">
+                  <enum>(C)</enum>
+                  <header>Limitation</header>
+                  <text>Such
+				fee shall be paid only once for each generic new animal drug product for a
+				fiscal year in which the fee is payable.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H0B8D6C49A736491B8D802EAB4597AC16">
+                <enum>(3)</enum>
+                <header>Generic new animal drug
+				sponsor fee</header>
+								<subparagraph id="H12FCFD407E654A12978811FBAB218C66">
+                  <enum>(A)</enum>
+                  <header>In
+				general</header>
+                  <text>Each person—</text>
+									<clause id="HC4A5BF2C91DF4AFBB38C54CEF7A472DE">
+                    <enum>(i)</enum>
+                    <text>who meets the definition
+				of a generic new animal drug sponsor within a fiscal year; and</text>
+									</clause>
+                  <clause id="H6718F668A5534B279021B4CCC48F4BB0">
+                    <enum>(ii)</enum>
+                    <text>who, after September 1,
+				2008, had pending before the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> an abbreviated application, a
+				supplemental abbreviated application, or an investigational submission,</text>
+									</clause>
+                  <continuation-text continuation-text-level="subparagraph">shall be assessed an annual generic new
+				animal drug sponsor fee as established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:c" proposed="true">subsection (c)</cato:entity-ref>.</continuation-text>
+                </subparagraph>
+                <subparagraph id="HFDAF3B794240405F84CF295A3E5FCC4D">
+                  <enum>(B)</enum>
+                  <header>Payment; fee due
+				date</header>
+                  <text>Such fee shall be due each fiscal year upon the later
+				of—</text>
+									<clause id="H95A6C0274D744193A68422BDA46D9A5A">
+                    <enum>(i)</enum>
+                    <text>the first business day
+				after the date of enactment of an appropriations Act providing for the
+				collection and obligation of fees for such fiscal year under this section;
+				or</text>
+									</clause>
+                  <clause id="H35DEA4A3AD9A4F67878239C00AE710C8">
+                    <enum>(ii)</enum>
+                    <text>January 31 of each
+				year.</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="HA95AA17C8C1D47BDBF948B59C1A70044">
+                  <enum>(C)</enum>
+                  <header>Amount of
+				fee</header>
+                  <text>Each generic new animal drug sponsor shall pay only 1 such
+				fee each fiscal year, as follows:</text>
+									<clause id="H8BC4FEE501044243AAC938ACAAFC6742">
+                    <enum>(i)</enum>
+                    <text>100 percent of the amount
+				of the generic new animal drug sponsor fee published for that fiscal year under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:c" proposed="true">subsection (c)</cato:entity-ref> for an applicant with more than 6 approved abbreviated
+				applications.</text>
+									</clause>
+                  <clause id="H9C8258C52DBF479F8FBFF4FBC73E4C46">
+                    <enum>(ii)</enum>
+                    <text>75 percent of the amount
+				of the generic new animal drug sponsor fee published for that fiscal year under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:c" proposed="true">subsection (c)</cato:entity-ref> for an applicant with more than 1 and fewer than 7 approved
+				abbreviated applications.</text>
+									</clause>
+                  <clause id="H0971EBBD9653465DA0ED721D8943F13A">
+                    <enum>(iii)</enum>
+                    <text>50 percent of the
+				amount of the generic new animal drug sponsor fee published for that fiscal
+				year under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:c" proposed="true">subsection (c)</cato:entity-ref> for an applicant with 1 or fewer approved abbreviated
+				applications.</text>
+									</clause>
+                </subparagraph>
+              </paragraph>
+            </subsection>
+            <subsection id="HFF1C8B6668A04A51B4FB0C5A4429CD59">
+              <enum>(b)</enum>
+              <header>Fee
+				amounts</header>
+              <text>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:c" proposed="true">subsections (c)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:d" proposed="true">(d)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:f" proposed="true">(f)</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:g" proposed="true">(g)</cato:entity-ref>, the fees
+				required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall be established to generate fee revenue
+				amounts as follows:</text>
+							<paragraph id="H8454A6A807F34ECF8171190DBA8BAE83">
+                <enum>(1)</enum>
+                <header>Total fee revenues for
+				application fees</header>
+                <text>The total fee revenues to be collected in
+				abbreviated application fees under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:a/p:1" proposed="true">subsection (a)(1)</cato:entity-ref> shall be $1,832,000 for
+				fiscal year 2014, $1,736,000 for fiscal year 2015, $1,857,000 for fiscal year
+				2016, $1,984,000 for fiscal year 2017, and $2,117,000 for fiscal year
+				2018.</text>
+							</paragraph>
+              <paragraph id="HC3114FDD233448218F66F631DDF113DF">
+                <enum>(2)</enum>
+                <header>Total fee revenues for
+				product fees</header>
+                <text>The total fee revenues to be collected in generic
+				new animal drug product fees under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:a/p:2" proposed="true">subsection (a)(2)</cato:entity-ref> shall be $2,748,000 for
+				fiscal year 2014, $2,604,000 for fiscal year 2015, $2,786,000 for fiscal year
+				2016, $2,976,000 for fiscal year 2017, and $3,175,000 for fiscal year
+				2018.</text>
+							</paragraph>
+              <paragraph id="HBA7C3D3C1A9A48B78BE06DADA649C5AE">
+                <enum>(3)</enum>
+                <header>Total fee revenues for
+				sponsor fees</header>
+                <text>The total fee revenues to be collected in generic
+				new animal drug sponsor fees under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:a/p:3" proposed="true">subsection (a)(3)</cato:entity-ref> shall be $2,748,000 for
+				fiscal year 2014, $2,604,000 for fiscal year 2015, $2,786,000 for fiscal year
+				2016, $2,976,000 for fiscal year 2017, and $3,175,000 for fiscal year
+				2018.</text>
+							</paragraph>
+            </subsection>
+            <subsection id="H79422AEDC50B4550BED76882F9AE9F22">
+              <enum>(c)</enum>
+              <header>Annual fee setting;
+				adjustments</header>
+							<paragraph id="H305EAF44DFE144D4BB98715C3716B4B1">
+                <enum>(1)</enum>
+                <header>Annual fee
+				setting</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall establish, 60 days before the start
+				of each fiscal year beginning after September 30, 2008, for that fiscal year,
+				abbreviated application fees, generic new animal drug sponsor fees, and generic
+				new animal drug product fees, based on the revenue amounts established under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:b" proposed="true">subsection (b)</cato:entity-ref> and the adjustments provided under this subsection.</text>
+							</paragraph>
+              <paragraph id="HB602349E6295496DBE26DE41342519F7">
+                <enum>(2)</enum>
+                <header>Workload
+				adjustment</header>
+                <text>The fee revenues shall be adjusted each fiscal year
+				after fiscal year 2014 to reflect changes in review workload. With respect to
+				such adjustment:</text>
+								<subparagraph id="H8742F207840C476B9887D2EE8C74DC88">
+                  <enum>(A)</enum>
+                  <text>This adjustment shall be
+				determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> based on a weighted average of the change in the
+				total number of abbreviated applications for generic new animal drugs,
+				manufacturing supplemental abbreviated applications for generic new animal
+				drugs, investigational generic new animal drug study submissions, and
+				investigational generic new animal drug protocol submissions submitted to the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall publish in the Federal Register the fees
+				resulting from this adjustment and the supporting methodologies.</text>
+								</subparagraph>
+                <subparagraph id="H4D85D3E2BA8048EB91D780C0F5F86C5A">
+                  <enum>(B)</enum>
+                  <text>Under no circumstances
+				shall this workload adjustment result in fee revenues for a fiscal year that
+				are less than the fee revenues for that fiscal year established in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:b" proposed="true">subsection
+				(b)</cato:entity-ref>.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="HBDE6BB74CA9C4690AD48E07E6C331DF1">
+                <enum>(3)</enum>
+                <header>Final year
+				adjustment</header>
+                <text>For fiscal year 2018, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> may, in addition
+				to other adjustments under this subsection, further increase the fees under
+				this section, if such an adjustment is necessary, to provide for up to 3 months
+				of operating reserves of carryover user fees for the process for the review of
+				abbreviated applications for generic new animal drugs for the first 3 months of
+				fiscal year 2019. If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food and Drug Administration</cato:entity-ref> has carryover balances
+				for the process for the review of abbreviated applications for generic new
+				animal drugs in excess of 3 months of such operating reserves, then this
+				adjustment shall not be made. If this adjustment is necessary, then the
+				rationale for the amount of the increase shall be contained in the annual
+				notice setting fees for fiscal year 2018.</text>
+							</paragraph>
+              <paragraph id="HF27006639EFB4BDFB3474958C4F8D8F8">
+                <enum>(4)</enum>
+                <header>Limit</header>
+                <text>The
+				total amount of fees charged, as adjusted under this subsection, for a fiscal
+				year may not exceed the total costs for such fiscal year for the resources
+				allocated for the process for the review of abbreviated applications for
+				generic new animal drugs.</text>
+							</paragraph>
+            </subsection>
+            <subsection id="H7455F86D37BF4EEF8C517D8FA3B90561">
+              <enum>(d)</enum>
+              <header>Fee waiver or
+				reduction</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall grant a waiver from or a reduction
+				of 1 or more fees assessed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:a" proposed="true">subsection (a)</cato:entity-ref> where the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> finds that
+				the generic new animal drug is intended solely to provide for a minor use or
+				minor species indication.</text>
+						</subsection>
+            <subsection id="H9EA09270868E4F5CB8254156B12B57BB">
+              <enum>(e)</enum>
+              <header>Effect of failure To
+				pay fees</header>
+              <text>An abbreviated application for a generic new animal drug
+				submitted by a person subject to fees under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall be considered
+				incomplete and shall not be accepted for filing by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> until all fees
+				owed by such person have been paid. An investigational submission for a generic
+				new animal drug that is submitted by a person subject to fees under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:a" proposed="true">subsection
+				(a)</cato:entity-ref> shall be considered incomplete and shall not be accepted for review by the
+				Secretary until all fees owed by such person have been paid. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> may
+				discontinue review of any abbreviated application for a generic new animal
+				drug, supplemental abbreviated application for a generic new animal drug, or
+				investigational submission for a generic new animal drug from a person if such
+				person has not submitted for payment all fees owed under this section by 30
+				days after the date upon which they are due.</text>
+						</subsection>
+            <subsection id="HFFEE44A4439C4B0383A878E978DDE23C">
+              <enum>(f)</enum>
+              <header>Assessment of
+				fees</header>
+							<paragraph id="H428DA3083B494E5193B948220D9E26D5">
+                <enum>(1)</enum>
+                <header>Limitation</header>
+                <text>Fees
+				may not be assessed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:a" proposed="true">subsection (a)</cato:entity-ref> for a fiscal year beginning after
+				fiscal year 2008 unless appropriations for salaries and expenses of the Food
+				and Drug Administration for such fiscal year (excluding the amount of fees
+				appropriated for such fiscal year) are equal to or greater than the amount of
+				appropriations for the salaries and expenses of the Food and Drug
+				Administration for the fiscal year 2003 (excluding the amount of fees
+				appropriated for such fiscal year) multiplied by the adjustment factor
+				applicable to the fiscal year involved.</text>
+							</paragraph>
+              <paragraph id="HEAA5558D751642FD8CE9C162D0EA038E">
+                <enum>(2)</enum>
+                <header>Authority</header>
+                <text>If
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> does not assess fees under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:a" proposed="true">subsection (a)</cato:entity-ref> during any portion of a
+				fiscal year because of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:f/p:1" proposed="true">paragraph (1)</cato:entity-ref> and if at a later date in such fiscal year
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> may assess such fees, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> may assess and collect such
+				fees, without any modification in the rate, for abbreviated applications,
+				generic new animal drug sponsors, and generic new animal drug products at any
+				time in such fiscal year notwithstanding the provisions of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:a" proposed="true">subsection (a)</cato:entity-ref>
+				relating to the date fees are to be paid.</text>
+							</paragraph>
+            </subsection>
+            <subsection id="H6CD3E77F2E59413B8FD33B313E169CA1">
+              <enum>(g)</enum>
+              <header>Crediting and
+				availability of fees</header>
+							<paragraph id="H5B934D23F45743F7A8E3839F783F76A2">
+                <enum>(1)</enum>
+                <header>In
+				general</header>
+                <text>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:g/p:2/sp:C" proposed="true">paragraph (2)(C)</cato:entity-ref>, fees authorized under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall be collected and available for obligation only to the
+				extent and in the amount provided in advance in appropriations Acts. Such fees
+				are authorized to be appropriated to remain available until expended. Such sums
+				as may be necessary may be transferred from the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food and Drug Administration</cato:entity-ref>
+				salaries and expenses appropriation account without fiscal year limitation to
+				such appropriation account for salary and expenses with such fiscal year
+				limitation. The sums transferred shall be available solely for the process for
+				the review of abbreviated applications for generic new animal drugs.</text>
+							</paragraph>
+              <paragraph id="HEDC238A16EC44821B8240967679077A8">
+                <enum>(2)</enum>
+                <header>Collections and
+				appropriation acts</header>
+								<subparagraph id="HC0763E96CDA14C0BAAC39FA26C47AE86">
+                  <enum>(A)</enum>
+                  <header>In
+				general</header>
+                  <text>The fees authorized by this section—</text>
+									<clause id="H900B251EA650403789D6C4B6E19DB793">
+                    <enum>(i)</enum>
+                    <text>subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:g/p:2/sp:C" proposed="true">subparagraph
+				(C)</cato:entity-ref>, shall be collected and available in each fiscal year in an amount not to
+				exceed the amount specified in appropriation Acts, or otherwise made available
+				for obligation for such fiscal year; and</text>
+									</clause>
+                  <clause id="HFCCE613B6DCB48C3AA49D82B821E5105">
+                    <enum>(ii)</enum>
+                    <text>shall be available to
+				defray increases in the costs of the resources allocated for the process for
+				the review of abbreviated applications for generic new animal drugs (including
+				increases in such costs for an additional number of full-time equivalent
+				positions in the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Department of Health and Human Services</cato:entity-ref> to be engaged in such
+				process) over such costs, excluding costs paid from fees collected under this
+				section, for fiscal year 2008 multiplied by the adjustment factor.</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="H0054EF2733664BD3BD7935055974C1DD">
+                  <enum>(B)</enum>
+                  <header>Compliance</header>
+                  <text>The
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall be considered to have met the requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:g/p:2/sp:A/cl:ii" proposed="true">subparagraph
+				(A)(ii)</cato:entity-ref> in any fiscal year if the costs funded by appropriations and allocated
+				for the process for the review of abbreviated applications for generic new
+				animal drugs—</text>
+									<clause id="HAEE3F86147E648AA977A433A4BE8902B">
+                    <enum>(i)</enum>
+                    <text>are not more than 3
+				percent below the level specified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:g/p:2/sp:A/cl:ii" proposed="true">subparagraph (A)(ii)</cato:entity-ref>; or</text>
+									</clause>
+                  <clause id="H31B3E4E8221F4B50BDDE1DB40953CDE4">
+                    <enum>(ii)</enum>
+                    <subclause commented="no" display-inline="yes-display-inline" id="H2F34518399974005AA219C2F38C61847">
+                      <enum>(I)</enum>
+                      <text>are more than 3 percent
+				below the level specified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:g/p:2/sp:A/cl:ii" proposed="true">subparagraph (A)(ii)</cato:entity-ref>, and fees assessed for the
+				fiscal year following the subsequent fiscal year are decreased by the amount in
+				excess of 3 percent by which such costs fell below the level specified in
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:g/p:2/sp:A/cl:ii" proposed="true">subparagraph (A)(ii)</cato:entity-ref>; and</text>
+										</subclause>
+                    <subclause changed="added" committee-id="HIF00" id="H95A0AC9977A245E8933814C87A0095AF" indent="up1" reported-display-style="italic">
+                      <enum>(II)</enum>
+                      <text>such costs are not more
+				than 5 percent below the level specified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:g/p:2/sp:A/cl:ii" proposed="true">subparagraph (A)(ii)</cato:entity-ref>.</text>
+										</subclause>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="HDC9175E648F4439F92C7A938F2DAF37E">
+                  <enum>(C)</enum>
+                  <header>Provision for early
+				payments</header>
+                  <text>Payment of fees authorized under this section for a
+				fiscal year, prior to the due date for such fees, may be accepted by the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> in accordance with authority provided in advance in a prior year
+				appropriations Act.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="HC5EA695E22A54BEFA612E3CF29B21493">
+                <enum>(3)</enum>
+                <header>Authorization of
+				appropriations</header>
+                <text>
+                There are authorized to be appropriated <cato:property xmlns:cato="http://namespaces.cato.org/catoxml" name="purpose">for fees
+				under this section</cato:property>—
+              </text>
+								<subparagraph id="H6CA72CACF8194AB7862667291FC824C7">
+                  <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                    <enum>(A)</enum>
+                  <text>
+                      <cato:funds-and-year amount="7328000" year="2014">$7,328,000 for fiscal
+				year 2014</cato:funds-and-year>;</text>
+                  </cato:entity>
+								</subparagraph>
+                <subparagraph id="H5F561141FBBF4BFB903B8D6FFBA38451">
+                  <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                    <enum>(B)</enum>
+                  <text>
+                      <cato:funds-and-year amount="6944000" year="2015">$6,944,000 for fiscal
+				year 2015</cato:funds-and-year>;</text>
+                  </cato:entity>
+								</subparagraph>
+                <subparagraph id="H9DBA9E510B874E12AEF511D6FBB4C464">
+                  <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                    <enum>(C)</enum>
+                  <text>
+                      <cato:funds-and-year amount="7429000" year="2016">$7,429,000 for fiscal
+				year 2016</cato:funds-and-year>;</text>
+                  </cato:entity>
+								</subparagraph>
+                <subparagraph id="H62B321C7A63C400D98B58632C20E5C45">
+                  <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                    <enum>(D)</enum>
+                  <text>
+                      <cato:funds-and-year amount="7936000" year="2017">$7,936,000 for fiscal
+				year 2017</cato:funds-and-year>; and</text>
+                  </cato:entity>
+								</subparagraph>
+                <subparagraph id="H7F10882498B64FD4B0A7216E271DF935">
+                  <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                    <enum>(E)</enum>
+                  <text>
+                      <cato:funds-and-year amount="8467000" year="2018">$8,467,000 for fiscal
+				year 2018</cato:funds-and-year>;</text>
+                  </cato:entity>
+								</subparagraph>
+                <continuation-text continuation-text-level="paragraph">as
+				adjusted to reflect adjustments in the total fee revenues made under this
+				section and changes in the total amounts collected by abbreviated application
+				fees, generic new animal drug sponsor fees, and generic new animal drug product
+				fees.</continuation-text>
+              </paragraph>
+              <paragraph id="HBDD0FABEDC614083B49A63D1A9EE20C1">
+                <enum>(4)</enum>
+                <header>Offset</header>
+                <text>If
+				the sum of the cumulative amount of fees collected under this section for the
+				fiscal years 2014 through 2016 and the amount of fees estimated to be collected
+				under this section for fiscal year 2017 exceeds the cumulative amount
+				appropriated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:g/p:3" proposed="true">paragraph (3)</cato:entity-ref> for the fiscal years 2014 through 2017, the
+				excess amount shall be credited to the appropriation account of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food and
+				Drug Administration</cato:entity-ref> as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:g/p:1" proposed="true">paragraph (1)</cato:entity-ref>, and shall be subtracted from
+				the amount of fees that would otherwise be authorized to be collected under
+				this section pursuant to appropriation Acts for fiscal year 2018.</text>
+							</paragraph>
+            </subsection>
+            <subsection id="H6FC4E9BF7F0D48748FBEF456EBDB5450">
+              <enum>(h)</enum>
+              <header>Collection of unpaid
+				fees</header>
+              <text>In any case where the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> does not receive payment of
+				a fee assessed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:a" proposed="true">subsection (a)</cato:entity-ref> within 30 days after it is due, such fee
+				shall be treated as a claim of the United States Government subject to
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/31/37/II">subchapter II of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/31/37">chapter 37</external-xref> of title 31, United States Code</cato:entity-ref>.</text>
+						</subsection>
+            <subsection id="H53305811A0E04420BEA7A08CD880A53C">
+              <enum>(i)</enum>
+              <header>Written requests for
+				waivers, reductions, and refunds</header>
+              <text>To qualify for consideration for
+				a waiver or reduction under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:d" proposed="true">subsection (d)</cato:entity-ref>, or for a refund of any fee
+				collected in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:a" proposed="true">subsection (a)</cato:entity-ref>, a person shall submit to the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> a written request for such waiver, reduction, or refund not later
+				than 180 days after such fee is due.</text>
+						</subsection>
+            <subsection id="HED9A15E7E363462D9ADD27DB179EDFD8">
+              <enum>(j)</enum>
+              <header>Construction</header>
+              <text>This
+				section may not be construed to require that the number of full-time equivalent
+				positions in the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Department of Health and Human Services</cato:entity-ref>, for officers,
+				employees, and advisory committees not engaged in the process of the review of
+				abbreviated applications for generic new animal drugs, be reduced to offset the
+				number of officers, employees, and advisory committees so engaged.</text>
+						</subsection>
+            <subsection id="H6C92FD26FC4B4377A900D92366D6A577">
+              <enum>(k)</enum>
+              <header>Definitions</header>
+              <text>In
+				this section and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:742" proposed="true">section 742</cato:entity-ref>:</text>
+							<paragraph id="HC4212EAC87344501A23ABA46434BEAE1">
+                <enum>(1)</enum>
+                <header>Abbreviated application
+				for a generic new animal drug</header>
+                <text>The terms <quote>abbreviated
+				application for a generic new animal drug</quote> and <quote>abbreviated
+				application</quote> mean an abbreviated application for the approval of any
+				generic new animal drug submitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:512/ss:b/p:2">section 512(b)(2)</cato:entity-ref>. Such term does not
+				include a supplemental abbreviated application for a generic new animal
+				drug.</text>
+							</paragraph>
+              <paragraph id="H05CB296EE9384D98B81E20BA3F9C0A97">
+                <enum>(2)</enum>
+                <header>Adjustment
+				factor</header>
+                <text>The term <term>adjustment factor</term> applicable to a
+				fiscal year is the Consumer Price Index for all urban consumers (all items;
+				United States city average) for October of the preceding fiscal year divided
+				by—</text>
+								<subparagraph id="HF666AF2CF1E141DC868A43A9B0DB90B3">
+                  <enum>(A)</enum>
+                  <text>for purposes of
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:f/p:1" proposed="true">subsection (f)(1)</cato:entity-ref>, such Index for October 2002; and</text>
+								</subparagraph>
+                <subparagraph id="H9A2DECDEF28A46149FCDB1F6DC9D7752">
+                  <enum>(B)</enum>
+                  <text>for purposes of
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741/ss:g/p:2/sp:A/cl:ii" proposed="true">subsection (g)(2)(A)(ii)</cato:entity-ref>, such Index for October 2007.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="HA7CDC64A0D70448A8FDF60B5CC9C79F7">
+                <enum>(3)</enum>
+                <header>Costs of resources
+				allocated for the process for the review of abbreviated applications for
+				generic new animal drugs</header>
+                <text>The term <term>costs of resources
+				allocated for the process for the review of abbreviated applications for
+				generic new animal drugs</term> means the expenses in connection with the
+				process for the review of abbreviated applications for generic new animal drugs
+				for—</text>
+								<subparagraph id="HA4C5C10B6FB347FD9218FC0BBD561DE6">
+                  <enum>(A)</enum>
+                  <text>officers and employees of
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food and Drug Administration</cato:entity-ref>, contractors of the Food and Drug
+				Administration, advisory committees consulted with respect to the review of
+				specific abbreviated applications, supplemental abbreviated applications, or
+				investigational submissions, and costs related to such officers, employees,
+				committees, and contractors, including costs for travel, education, and
+				recruitment and other personnel activities;</text>
+								</subparagraph>
+                <subparagraph id="H0ADFE85E78B542389B186AE1DC4A941F">
+                  <enum>(B)</enum>
+                  <text>management of
+				information, and the acquisition, maintenance, and repair of computer
+				resources;</text>
+								</subparagraph>
+                <subparagraph id="H6AD3F95943B643DA8DAF154637716464">
+                  <enum>(C)</enum>
+                  <text>leasing, maintenance,
+				renovation, and repair of facilities and acquisition, maintenance, and repair
+				of fixtures, furniture, scientific equipment, and other necessary materials and
+				supplies; and</text>
+								</subparagraph>
+                <subparagraph id="H46BCF2D2B5DC470ABBE22B9C0A40BC87">
+                  <enum>(D)</enum>
+                  <text>collecting fees under
+				this section and accounting for resources allocated for the review of
+				abbreviated applications, supplemental abbreviated applications, and
+				investigational submissions.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="HC08A320770374791A0C552624B10640C">
+                <enum>(4)</enum>
+                <header>Final dosage
+				form</header>
+                <text>The term <term>final dosage form</term> means, with respect
+				to a generic new animal drug product, a finished dosage form which is approved
+				for administration to an animal without substantial further manufacturing. Such
+				term includes generic new animal drug products intended for mixing in animal
+				feeds.</text>
+							</paragraph>
+              <paragraph id="H02B19E83A77C4CFDAB2C77FFF9423DF1">
+                <enum>(5)</enum>
+                <header>Generic new animal
+				drug</header>
+                <text>The term <term>generic new animal drug</term> means a new
+				animal drug that is the subject of an abbreviated application.</text>
+							</paragraph>
+              <paragraph id="H5A4B8A06A4514E4D8E21B11EF810A7A6">
+                <enum>(6)</enum>
+                <header>Generic new animal drug
+				product</header>
+                <text>The term <term>generic new animal drug product</term>
+				means each specific strength or potency of a particular active ingredient or
+				ingredients in final dosage form marketed by a particular manufacturer or
+				distributor, which is uniquely identified by the labeler code and product code
+				portions of the national drug code, and for which an abbreviated application
+				for a generic new animal drug or a supplemental abbreviated application has
+				been approved.</text>
+							</paragraph>
+              <paragraph id="HAFB2A1A674664BDC9E7F0BF927F49AE9">
+                <enum>(7)</enum>
+                <header>Generic new animal drug
+				sponsor</header>
+                <text>The term <term>generic new animal drug sponsor</term>
+				means either an applicant named in an abbreviated application for a generic new
+				animal drug that has not been withdrawn by the applicant and for which approval
+				has not been withdrawn by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>, or a person who has submitted an
+				investigational submission for a generic new animal drug that has not been
+				terminated or otherwise rendered inactive by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>.</text>
+							</paragraph>
+              <paragraph id="HF39DC0FC19E74EA19630D2FECC5754AA">
+                <enum>(8)</enum>
+                <header>Investigational
+				submission for a generic new animal drug</header>
+                <text>The terms
+				<term>investigational submission for a generic new animal drug</term> and
+				<quote>investigational submission</quote> mean—</text>
+								<subparagraph id="HE18A7834F3D8451ABF4BC745F51126E9">
+                  <enum>(A)</enum>
+                  <text>the filing of a claim for
+				an investigational exemption under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:512/ss:j">section 512(j)</cato:entity-ref> for a generic new animal drug
+				intended to be the subject of an abbreviated application or a supplemental
+				abbreviated application; or</text>
+								</subparagraph>
+                <subparagraph id="H6954C49B066F4EEA9C8790D1D0C238BA">
+                  <enum>(B)</enum>
+                  <text>the submission of
+				information for the purpose of enabling the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> to evaluate the safety or
+				effectiveness of a generic new animal drug in the event of the filing of an
+				abbreviated application or supplemental abbreviated application for such
+				drug.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="HB686E7A08B8F4CD18271E57A19939BC7">
+                <enum>(9)</enum>
+                <header>Person</header>
+                <text>The
+				term <term>person</term> includes an affiliate thereof (as such term is defined
+				in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:735/p:11">section 735(11)</cato:entity-ref>).</text>
+							</paragraph>
+              <paragraph id="HFA819836FB384A67B3E679BB4F3D0F0F">
+                <enum>(10)</enum>
+                <header>Process for the review
+				of abbreviated applications for generic new animal drugs</header>
+                <text>The term
+				<term>process for the review of abbreviated applications for generic new animal
+				drugs</term> means the following activities of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> with respect to
+				the review of abbreviated applications, supplemental abbreviated applications,
+				and investigational submissions:</text>
+								<subparagraph id="HF8FB9B03AA124DF79A79087452F960DD">
+                  <enum>(A)</enum>
+                  <text>The activities necessary
+				for the review of abbreviated applications, supplemental abbreviated
+				applications, and investigational submissions.</text>
+								</subparagraph>
+                <subparagraph id="HBF2514551E4A412997930F74CB2D4A29">
+                  <enum>(B)</enum>
+                  <text>The issuance of action
+				letters which approve abbreviated applications or supplemental abbreviated
+				applications or which set forth in detail the specific deficiencies in
+				abbreviated applications, supplemental abbreviated applications, or
+				investigational submissions and, where appropriate, the actions necessary to
+				place such applications, supplemental applications, or submissions in condition
+				for approval.</text>
+								</subparagraph>
+                <subparagraph id="HFB36B6EA6A974AEEAA9CECCEC8CCDC14">
+                  <enum>(C)</enum>
+                  <text>The inspection of generic
+				new animal drug establishments and other facilities undertaken as part of the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary’s</cato:entity-ref> review of pending abbreviated applications, supplemental
+				abbreviated applications, and investigational submissions.</text>
+								</subparagraph>
+                <subparagraph id="H03DB435A2EBE4D7DAD4C6E851849B4CC">
+                  <enum>(D)</enum>
+                  <text>Monitoring of research
+				conducted in connection with the review of abbreviated applications,
+				supplemental abbreviated applications, and investigational submissions.</text>
+								</subparagraph>
+                <subparagraph id="H3CD3AB565E7149E9B3B78AB8F5F98FBC">
+                  <enum>(E)</enum>
+                  <text>The development of
+				regulations and policy related to the review of abbreviated applications,
+				supplemental abbreviated applications, and investigational submissions.</text>
+								</subparagraph>
+                <subparagraph id="HA4A5C4210A484302B0CF83D49A3A61AB">
+                  <enum>(F)</enum>
+                  <text>Development of standards
+				for products subject to review.</text>
+								</subparagraph>
+                <subparagraph id="H0149F54A52E64638B74FBCB2D0C6D972">
+                  <enum>(G)</enum>
+                  <text>Meetings between the
+				agency and the generic new animal drug sponsor.</text>
+								</subparagraph>
+                <subparagraph id="HA50AC19898A844FEBD572C4082529C15">
+                  <enum>(H)</enum>
+                  <text>Review of advertising and
+				labeling prior to approval of an abbreviated application or supplemental
+				abbreviated application, but not after such application has been
+				approved.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H76AD418EF2FD4530AF0C45637EC895DD">
+                <enum>(11)</enum>
+                <header>Supplemental
+				abbreviated application for generic new animal drug</header>
+                <text>The terms
+				<quote>supplemental abbreviated application for a generic new animal
+				drug</quote> and <quote>supplemental abbreviated application</quote> mean a
+				request to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> to approve a change in an approved abbreviated
+				application.</text>
+							</paragraph>
+            </subsection>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</section>
+      <section id="HA2992BBB203C48F486BDBDF43BF9E1A0">
+        <enum>203.</enum>
+        <header>Reauthorization;
+			 reporting requirements</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:742">Section
+			 742 of the Federal Food, Drug, and Cosmetic Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/21/379j-22">
+              <cato:entity-ref entity-type="uscode" value="usc/21/379j–22">21 U.S.C. 379j–22</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended
+			 to read as follows:</text>
+				<quoted-block changed="added" committee-id="HIF00" display-inline="no-display-inline" id="H0A02A82E9C974F99AF82F4B85CEA7F49" reported-display-style="italic" style="OLC">
+					<section id="H8DF60BA7FDDF4F5A98CEDC84C071F5E8">
+            <enum>742.</enum>
+            <header>Reauthorization;
+				reporting requirements</header>
+						<subsection id="H28884148BDEF4D508FF64912D1A6F312">
+              <enum>(a)</enum>
+              <header>Performance
+				reports</header>
+              <text>Beginning with fiscal year 2014, not later
+				than 120 days after the end of each fiscal year during which fees are collected
+				under this part, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall prepare and submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSHR00">Committee on
+				Health, Education, Labor, and Pensions of the Senate</cato:entity-ref>, and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HIF00">Committee on
+				Energy and Commerce of the House of Representatives</cato:entity-ref> a report concerning the
+				progress of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food and Drug Administration</cato:entity-ref> in achieving the goals identified
+				in the letters described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Animal Generic Drug User Fee Amendments of 2013/s:201/ss:b" proposed="true">section 201(b) of the Animal Generic Drug User Fee
+				Amendments of 2013</cato:entity-ref> toward expediting the generic new animal drug development
+				process and the review of abbreviated applications for generic new animal
+				drugs, supplemental abbreviated applications for generic new animal drugs, and
+				investigational submissions for generic new animal drugs during such fiscal
+				year.</text>
+						</subsection>
+            <subsection id="H1C05DF7CE546424386C70C7B2CE78189">
+              <enum>(b)</enum>
+              <header>Fiscal
+				report</header>
+              <text>Beginning with fiscal year 2014, not later than 120 days
+				after the end of each fiscal year during which fees are collected under this
+				part, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall prepare and submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSHR00">Committee on Health,
+				Education, Labor, and Pensions of the Senate</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HIF00">Committee on Energy and
+				Commerce of the House of Representatives</cato:entity-ref> a report on the implementation of the
+				authority for such fees during such fiscal year and the use, by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food and
+				Drug Administration</cato:entity-ref>, of the fees collected during such fiscal year for which
+				the report is made.</text>
+						</subsection>
+            <subsection id="HF9A8B7B7257E434286B5BF20F75B8D38">
+              <enum>(c)</enum>
+              <header>Public
+				availability</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall make the reports required under
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:742/ss:a" proposed="true">subsections (a)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:742/ss:b" proposed="true">(b)</cato:entity-ref> available to the public on the Internet Web site of the
+				Food and Drug Administration.</text>
+						</subsection>
+            <subsection id="HA5EE00D3911E431A83D2630447A807AB">
+              <enum>(d)</enum>
+              <header>Reauthorization</header>
+							<paragraph id="H00F0E08CC8BD4558AD80190BB89D0C84">
+                <enum>(1)</enum>
+                <header>Consultation</header>
+                <text>In
+				developing recommendations to present to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> with respect to the goals,
+				and plans for meeting the goals, for the process for the review of abbreviated
+				applications for generic new animal drugs for the first 5 fiscal years after
+				fiscal year 2018, and for the reauthorization of this part for such fiscal
+				years, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall consult with—</text>
+								<subparagraph id="HAB2231A05FBC4423A90FD16342332C93">
+                  <enum>(A)</enum>
+                  <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HIF00">Committee on Energy
+				and Commerce of the House of Representatives</cato:entity-ref>;</text>
+								</subparagraph>
+                <subparagraph id="H6E7C9CAB02A84CE5A8766B1300D8CFF4">
+                  <enum>(B)</enum>
+                  <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSHR00">Committee on Health,
+				Education, Labor, and Pensions of the Senate</cato:entity-ref>;</text>
+								</subparagraph>
+                <subparagraph id="H6D69F3F5745E4618B6277E4399B2058B">
+                  <enum>(C)</enum>
+                  <text>scientific and academic
+				experts;</text>
+								</subparagraph>
+                <subparagraph id="HD667E9A42E174D01B690A7C06AF4CA1C">
+                  <enum>(D)</enum>
+                  <text>veterinary
+				professionals;</text>
+								</subparagraph>
+                <subparagraph id="H3A67D8CC408244C8B19B5635CFBEE1F9">
+                  <enum>(E)</enum>
+                  <text>representatives of
+				patient and consumer advocacy groups; and</text>
+								</subparagraph>
+                <subparagraph id="HD4628CC71CB04CA49812D17A75314EE6">
+                  <enum>(F)</enum>
+                  <text>the regulated
+				industry.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="HB061671AC8A045AB8EE64AC0318006F8">
+                <enum>(2)</enum>
+                <header>Prior public
+				input</header>
+                <text>Prior to beginning negotiations with the regulated industry
+				on the reauthorization of this part, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall—</text>
+								<subparagraph id="H71AFCC31CEC44D6484A8324EF5CA3DAC">
+                  <enum>(A)</enum>
+                  <text>publish a notice in the
+				Federal Register requesting public input on the reauthorization;</text>
+								</subparagraph>
+                <subparagraph id="H2905BD1AA5BD4EBC8283C38AA8E241C1">
+                  <enum>(B)</enum>
+                  <text>hold a public meeting at
+				which the public may present its views on the reauthorization, including
+				specific suggestions for changes to the goals referred to in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:742/ss:a" proposed="true">subsection
+				(a)</cato:entity-ref>;</text>
+								</subparagraph>
+                <subparagraph id="H4D0954B6F6DA4618810799F319B646AF">
+                  <enum>(C)</enum>
+                  <text>provide a period of 30
+				days after the public meeting to obtain written comments from the public
+				suggesting changes to this part; and</text>
+								</subparagraph>
+                <subparagraph id="H822FCDFD9FA84F1B8499BE2E650B935D">
+                  <enum>(D)</enum>
+                  <text>publish the comments on
+				the Food and Drug Administration’s Internet Web site.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H717343B8918E4F878146A8A7409B92FA">
+                <enum>(3)</enum>
+                <header>Periodic
+				consultation</header>
+                <text>Not less frequently than once every 4 months during
+				negotiations with the regulated industry, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall hold discussions
+				with representatives of veterinary, patient, and consumer advocacy groups to
+				continue discussions of their views on the reauthorization and their
+				suggestions for changes to this part as expressed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:742/ss:d/p:2" proposed="true">paragraph (2)</cato:entity-ref>.</text>
+							</paragraph>
+              <paragraph id="H6F5798A53DAC4CBAA3E8A87D95E35BF8">
+                <enum>(4)</enum>
+                <header>Public review of
+				recommendations</header>
+                <text>After negotiations with the regulated industry,
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall—</text>
+								<subparagraph id="HCE6990599D484DE885C6EB10C6360401">
+                  <enum>(A)</enum>
+                  <text>present the
+				recommendations developed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:742/ss:d/p:1" proposed="true">paragraph (1)</cato:entity-ref> to the congressional committees
+				specified in such paragraph;</text>
+								</subparagraph>
+                <subparagraph id="H77859CB47142405BA398DF9578D67599">
+                  <enum>(B)</enum>
+                  <text>publish such
+				recommendations in the Federal Register;</text>
+								</subparagraph>
+                <subparagraph id="H394B9FB0F924454B99C7A068E7201207">
+                  <enum>(C)</enum>
+                  <text>provide for a period of
+				30 days for the public to provide written comments on such
+				recommendations;</text>
+								</subparagraph>
+                <subparagraph id="H189457F059D9451EA61CB6DDEA380E42">
+                  <enum>(D)</enum>
+                  <text>hold a meeting at which
+				the public may present its views on such recommendations; and</text>
+								</subparagraph>
+                <subparagraph id="H8EE0350C342545288B8774409C6B5748">
+                  <enum>(E)</enum>
+                  <text>after consideration of
+				such public views and comments, revise such recommendations as
+				necessary.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="HD1865FEB3CA0406E86066F3BBC007E99">
+                <enum>(5)</enum>
+                <header>Transmittal of
+				recommendations</header>
+                <text>Not later than January 15, 2018, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>
+				shall transmit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> the revised recommendations under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:742/ss:d/p:4" proposed="true">paragraph (4)</cato:entity-ref>, a
+				summary of the views and comments received under such paragraph, and any
+				changes made to the recommendations in response to such views and
+				comments.</text>
+							</paragraph>
+              <paragraph id="HEDF9BFDEC7564F94A5D82149C43EE982">
+                <enum>(6)</enum>
+                <header>Minutes of negotiation
+				meetings</header>
+								<subparagraph id="H246FC885DA654B329ADB64685190FBCC">
+                  <enum>(A)</enum>
+                  <header>Public
+				availability</header>
+                  <text>Before presenting the recommendations developed
+				under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:742/ss:d/p:1..5" proposed="true">paragraphs (1) through (5)</cato:entity-ref> to Congress, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall make publicly
+				available, on the Internet Web site of the Food and Drug Administration,
+				minutes of all negotiation meetings conducted under this subsection between the
+				Food and Drug Administration and the regulated industry.</text>
+								</subparagraph>
+                <subparagraph id="H560A7610AE0244CCB4C19ABBA36C9653">
+                  <enum>(B)</enum>
+                  <header>Content</header>
+                  <text>The
+				minutes described under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:742/ss:d/p:6/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> shall summarize any substantive
+				proposal made by any party to the negotiations as well as significant
+				controversies or differences of opinion during the negotiations and their
+				resolution.</text>
+								</subparagraph>
+              </paragraph>
+            </subsection>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</section>
+      <section id="H83E3CC685FA74B32A47F803CED686D9C">
+        <enum>204.</enum>
+        <header>Savings
+			 clause</header>
+        <text display-inline="no-display-inline">Notwithstanding the
+			 amendments made by this title, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/ch:VII/sch:C/pt:5">part 5 of subchapter C of chapter VII of the
+			 Federal Food, Drug, and Cosmetic Act</cato:entity-ref>, as in effect on the day before the date
+			 of enactment of this title, shall continue to be in effect with respect to
+			 abbreviated applications for a generic new animal drug and supplemental
+			 abbreviated applications for a generic new animal drug (as defined in such part
+			 as of such day) that on or after October 1, 2008, but before October 1, 2013,
+			 were accepted by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7524">Food and Drug Administration</cato:entity-ref> for filing with respect to
+			 assessing and collecting any fee required by such part for a fiscal year prior
+			 to fiscal year 2014.</text>
+			</section>
+      <section id="HC2BA9599B1D34A349F78F644EFB91691">
+        <enum>205.</enum>
+        <header>Effective
+			 date</header>
+        <text display-inline="no-display-inline">The amendments made by
+			 this title shall take effect on October 1, 2013, or the date of enactment of
+			 this title, whichever is later, except that fees under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Food, Drug, and Cosmetic Act/ch:VII/sch:C/pt:5">part 5 of subchapter C
+			 of chapter VII of the Federal Food, Drug, and Cosmetic Act</cato:entity-ref>, as amended by this
+			 title, shall be assessed for all abbreviated applications for a generic new
+			 animal drug and supplemental abbreviated applications for a generic new animal
+			 drug received on or after October 1, 2013, regardless of the date of enactment
+			 of this title.</text>
+			</section>
+      <section id="HDD72B01819D14FAB84BD9832B4014201">
+        <enum>206.</enum>
+        <header>Sunset dates</header>
+				<subsection id="HCFF03F69BC6042D8A147B0395C50478B">
+          <enum>(a)</enum>
+          <header>Authorization</header>
+          <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:741" proposed="true">Section
+			 741 of the Federal Food, Drug, and Cosmetic Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/21/379j-21">
+                <cato:entity-ref entity-type="uscode" value="usc/21/379j–21" proposed="true">21 U.S.C. 379j–21</cato:entity-ref>
+              </external-xref>)</cato:entity> shall cease
+			 to be effective October 1, 2018.</text>
+				</subsection>
+        <subsection id="H091DC25AA0C24B3097FDED366CB82EC4">
+          <enum>(b)</enum>
+          <header>Reporting
+			 requirements</header>
+          <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Federal Food, Drug, and Cosmetic Act/s:742" proposed="true">Section 742 of the Federal Food, Drug, and Cosmetic
+			 Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/21/379j-22">
+                <cato:entity-ref entity-type="uscode" value="usc/21/379j–22" proposed="true">21 U.S.C. 379j–22</cato:entity-ref>
+              </external-xref>)</cato:entity> shall cease to be effective January 31, 2019.</text>
+				</subsection>
+        <subsection commented="no" id="HF884CD85657B44A59382E966BA6ACC78">
+          <enum>(c)</enum>
+          <header>Previous sunset
+			 provision</header>
+					<paragraph commented="no" id="H220705ED3D394539AF25F58025E20772">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Animal Generic Drug User Fee Act of 2008/s:204">Section 204 of the Animal Generic Drug User Fee Act of
+			 2008</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/110/316">
+                  <cato:entity-ref entity-type="public-law" value="public-law/110/316">Public Law 110–316</cato:entity-ref>
+                </external-xref>)</cato:entity> is repealed.</text>
+					</paragraph>
+          <paragraph commented="no" id="HE22B1C4374324AD998965B9C304B511F">
+            <enum>(2)</enum>
+            <header>Conforming
+			 amendment</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="public-law" value="public-law/110/316">Public Law 110–316</cato:entity-ref>
+			 (<cato:entity-ref entity-type="statute-at-large" value="statute-at-large/122/3509">122 Stat. 3509</cato:entity-ref>)</cato:entity> is amended in the table of contents in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Animal Generic Drug User Fee Act of 2008/s:1">section 1</cato:entity-ref>, by striking
+			 the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Animal Generic Drug User Fee Act of 2008/s:204">section 204</cato:entity-ref>.</text>
+					</paragraph>
+        </subsection>
+      </section>
+    </title>
+  </legis-body>
+  <official-title-amendment>Amend the title so as to read:
+	 <quote>A bill to amend the Federal Food, Drug, and Cosmetic Act to reauthorize
+	 user fee programs relating to new animal drugs and generic new animal
+	 drugs.</quote>.</official-title-amendment>
+	<endorsement display="yes">
+		<action-date>August 2, 2013</action-date>
+		<action-desc>Reported with amendments, committed to the Committee of the
+		  Whole House on the State of the Union, and ordered to be printed</action-desc>
+	</endorsement>
+</bill>
+</doc>
