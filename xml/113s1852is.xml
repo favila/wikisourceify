@@ -1,0 +1,1522 @@
+<doc>
+  <docmeta id="113s1852is">
+    <bill congress="113" type="s" number="1852" version="is"/>
+    <revision size="69722" annotations="0" status="complete" id="7" commit-time="2014-03-11T21:26:01Z" committer="mbohmer" doc="113s1852is/7.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+  <metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S1852 IS: Economic Freedom Zones Act of 2013</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-12-18</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code>
+    <congress>113th CONGRESS</congress>
+    <session>1st Session</session>
+    <legis-num>S. 1852</legis-num>
+    <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+    <action>
+      <action-date date="20131218">December 18, 2013</action-date>
+      <action-desc>
+        <sponsor name-id="S348">Mr. Paul</sponsor> (for himself and <cosponsor name-id="S174">Mr. McConnell</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name>
+      </action-desc>
+    </action>
+    <legis-type>A BILL</legis-type>
+    <official-title>To provide for the establishment of free market enterprise zones in order to help facilitate the creation of new jobs, entrepreneurial opportunities, enhanced and renewed educational opportunities, and increased community involvement in bankrupt or economically distressed areas.</official-title>
+  </form>
+  <legis-body>
+    <section id="S1" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title; table of contents</header>
+      <subsection id="idBB322D9C779342C8BCD8731BF9789E09">
+        <enum>(a)</enum>
+        <header>Short title</header>
+        <text display-inline="yes-display-inline">This Act may be cited as the
+		  <quote>
+            <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013" proposed="true">Economic Freedom Zones Act of 2013</cato:entity-ref>
+            </short-title>
+          </quote>.</text>
+      </subsection>
+      <subsection id="id59BC0E311CAD47BF81AD76BE8D3057D4">
+        <enum>(b)</enum>
+        <header>Table of contents</header>
+        <text>The table of contents for this Act is as follows:</text>
+        <toc>
+          <toc-entry idref="S1" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+          <toc-entry idref="id7F04E923AA0F440AA560F26AC0A734DE" level="section">Sec. 2. Definitions.</toc-entry>
+          <toc-entry idref="idE147EDE557A1468FA30482BAC59DE99E" level="title">TITLE I—Prohibition against a Federal Government bailout of a State, city, or municipality</toc-entry>
+          <toc-entry idref="id56CB0ACB52DB4ED983412FEC92BD0BCE" level="section">Sec. 101. Prohibition of Federal Government Bailouts.</toc-entry>
+          <toc-entry idref="id4283D6282471497E85B45F9F3738DD35" level="title">TITLE II—Designation of Economic Freedom Zones (EFZ)</toc-entry>
+          <toc-entry idref="idC43C8C00DBE14D95BC6149166BB0BC60" level="section">Sec. 201. Eligibility requirements for Economic Freedom Zone Status.</toc-entry>
+          <toc-entry idref="id3B764BF703724C9F8A6379A5BF4DF403" level="section">Sec. 202. Area and regional requirements.</toc-entry>
+          <toc-entry idref="idf647edff9ba04c24b4bbd0c9810d4b6c" level="section">Sec. 203. Application and duration of designation.</toc-entry>
+          <toc-entry idref="id8B717685C2D34E0B9A1ACC0CADC6D59A" level="title">TITLE III—Federal tax incentives</toc-entry>
+          <toc-entry idref="idC33189C0368F481795265DA26D7EB10A" level="section">Sec. 301. Tax incentives related to Economic Freedom Zones.</toc-entry>
+          <toc-entry idref="idE905DEF7755E4CA488D5FFB0B6F4F770" level="title">TITLE IV—Federal regulatory reductions</toc-entry>
+          <toc-entry idref="idD1B92E561EF74D3997DADFD21783640B" level="section">Sec. 401. Suspension of certain laws and regulations.</toc-entry>
+          <toc-entry idref="id73B60CC56D1D4B0DAF7693B325A50D57" level="title">TITLE V—Educational enhancements</toc-entry>
+          <toc-entry idref="id5EC4EB3D61B34DE7A3D4637E34341256" level="section">Sec. 501. Educational opportunity tax credit.</toc-entry>
+          <toc-entry idref="id9E0F4287624A4478AAE6187EC5AC6C01" level="section">Sec. 502. School choice through portability.</toc-entry>
+          <toc-entry idref="id0EF1D8DE884742CC95224748125FEB33" level="section">Sec. 503. Special Economic Freedom Zone visas.</toc-entry>
+          <toc-entry idref="idA15779A33AC44AD9A9590EBE5C81AA9C" level="section">Sec. 504. Economic Freedom Zone educational savings accounts.</toc-entry>
+          <toc-entry idref="idCF28F621CFAA42918CD02B1212B970B5" level="title">TITLE VI—Community assistance and rebuilding</toc-entry>
+          <toc-entry idref="id06527C8B3EA64FBA825EEC3101F51FED" level="section">Sec. 601. Nonapplication of Davis-Bacon.</toc-entry>
+          <toc-entry idref="id6049FBB2960F40FB8DCD83136D575131" level="section">Sec. 602. Economic Freedom Zone charitable tax credit.</toc-entry>
+          <toc-entry idref="id12D1A352231F4A9099EEB50ABE316BCF" level="title">TITLE VII—State and community policy recommendations</toc-entry>
+          <toc-entry idref="id11BE39013F3A41028350414484D68B35" level="section">Sec. 701. Sense of the Senate concerning policy recommendations.</toc-entry>
+        </toc>
+      </subsection>
+    </section>
+    <section id="id7F04E923AA0F440AA560F26AC0A734DE">
+      <enum>2.</enum>
+      <header>Definitions</header>
+      <text display-inline="no-display-inline">In this Act:</text>
+      <paragraph id="id8155dfe079424720a4674ab59dac7f6e">
+        <enum>(1)</enum>
+        <header>City</header>
+        <text>The term <term>city</term> means any unit of general local government that is classified as a municipality by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1323">United States Census Bureau</cato:entity-ref>, or is a town or township as determined jointly by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director of the Office of Management and Budget</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref>.</text>
+      </paragraph>
+      <paragraph id="id9972f2ac8cba4343af760a998dc7ba36">
+        <enum>(2)</enum>
+        <header>County</header>
+        <text>The term 	<term>County</term> means any unit of local general government that is classified as a county by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1323">United States Census Bureau</cato:entity-ref>.</text>
+      </paragraph>
+      <paragraph commented="no" display-inline="no-display-inline" id="id2612CAC51FA0445B85320AA1C40F0CC8">
+        <enum>(3)</enum>
+        <header>Eligible entity</header>
+        <text>The term <term>eligible entity</term> means a State, municipality, zip code, or rural area.</text>
+      </paragraph>
+      <paragraph id="id6CB4024B5FC14F1AA306DD053F2B658A">
+        <enum>(4)</enum>
+        <header>Municipality</header>
+        <text>The term <term>municipality</term> has the meaning given that term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/11/101//40">
+            <external-xref legal-doc="usc" parsable-cite="usc/11/101">section 101(40)</external-xref> of title 11, United States Code</cato:entity-ref>.</text>
+      </paragraph>
+      <paragraph id="idD8C156CD673C4EAF93331EA6A29AA55B">
+        <enum>(5)</enum>
+        <header>Rural area</header>
+        <text>The term <term>rural area</term> means any area not in an urbanized area, as that term is defined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1323">Census Bureau</cato:entity-ref>.</text>
+      </paragraph>
+      <paragraph id="idFE770AC35B844D1BBEC3E6F1A97D200F">
+        <enum>(6)</enum>
+        <header>Secretary</header>
+        <text>The term <term>Secretary</term> means the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref>.</text>
+      </paragraph>
+      <paragraph commented="no" display-inline="no-display-inline" id="idCE18C4C199F44A81ABB18723A2195B55">
+        <enum>(7)</enum>
+        <header>Zip code</header>
+        <text>The term <term>zip code</term> means any area or region associated with or covered by a United States Postal zip code of not less than 5 digits.</text>
+      </paragraph>
+    </section>
+    <title id="idE147EDE557A1468FA30482BAC59DE99E" style="OLC">
+      <enum>I</enum>
+      <header>Prohibition against a Federal Government bailout of a State, city, or municipality</header>
+      <section id="id56CB0ACB52DB4ED983412FEC92BD0BCE">
+        <enum>101.</enum>
+        <header>Prohibition of Federal Government Bailouts</header>
+        <subsection id="id0CB225029819426C9A78EA20B90C68BA">
+          <enum>(a)</enum>
+          <header>Definitions</header>
+          <text>In this section—</text>
+          <paragraph commented="no" id="id52028726151D460C83604B176F5A1A26">
+            <enum>(1)</enum>
+            <text>the term <term>credit rating</term> has the meaning given that term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Securities Exchange Act of 1934/s:3/ss:a/p:60">section 3(a)(60) of the Securities Exchange Act of 1934</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">
+                <cato:entity-ref entity-type="uscode" value="usc/15/78c/a/60">15 U.S.C. 78c(a)(60)</cato:entity-ref>
+              </external-xref>)</cato:entity>;</text>
+          </paragraph>
+          <paragraph commented="no" id="id1207749FC5734B36BB54CE235D406732">
+            <enum>(2)</enum>
+            <text>the term <term>credit rating agency</term> has the meaning given that term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Securities Exchange Act of 1934/s:3/ss:a/p:61">section 3(a)(61) of the Securities Exchange Act of 1934</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">
+                <cato:entity-ref entity-type="uscode" value="usc/15/78c/a/61">15 U.S.C. 78c(a)(61)</cato:entity-ref>
+              </external-xref>)</cato:entity>;</text>
+          </paragraph>
+          <paragraph id="id4170C6CA879C41258B7D06F17853FDE6">
+            <enum>(3)</enum>
+            <text>the term <term>Federal assistance</term> means the use of any advances from the Federal Reserve credit facility or discount window that is not part of a program or facility with broad-based eligibility under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Federal Reserve Act/s:13/p:3/sp:A">section 13(3)(A) of the Federal Reserve Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/12/343">
+                <cato:entity-ref entity-type="uscode" value="usc/12/343//3/A">12 U.S.C. 343(3)(A)</cato:entity-ref>
+              </external-xref>)</cato:entity>, Federal Deposit Insurance Corporation insurance, or guarantees for the purpose of—</text>
+            <subparagraph id="id044F5A2D86EA43AB9D011355D48629E0">
+              <enum>(A)</enum>
+              <text>making a loan to, or purchasing any interest or debt obligation of, a municipality;</text>
+            </subparagraph>
+            <subparagraph id="idA9309AA53F6D481888A8ECB91EFF50C8">
+              <enum>(B)</enum>
+              <text>purchasing the assets of a municipality;</text>
+            </subparagraph>
+            <subparagraph id="idB019886AD0A148DBA52293DFBA50983D">
+              <enum>(C)</enum>
+              <text>guaranteeing a loan or debt issuance of a municipality; or</text>
+            </subparagraph>
+            <subparagraph commented="no" id="id8763EF5D2A364D7AA3F6C43A018F479B">
+              <enum>(D)</enum>
+              <text>entering into an assistance arrangement, including a grant program, with an eligible entity;</text>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="id46C444142CC046389FC021985B8C3B3F">
+            <enum>(4)</enum>
+            <text>the term <term>insolvent</term> means, with respect to an eligible entity, a financial condition such that the eligible entity—</text>
+            <subparagraph id="idDDC006F15A1145FE847F7807DEF11CA0">
+              <enum>(A)</enum>
+              <text>has any debt that has been given a credit rating lower than a <quote>B</quote> by a nationally recognized statistical rating organization or a credit rating agency;</text>
+            </subparagraph>
+            <subparagraph id="id039F1B2512F44A599EB1DFA8DCA244E6">
+              <enum>(B)</enum>
+              <text>is not paying its debts as they become due, unless such debts are the subject of a bona fide dispute; or</text>
+            </subparagraph>
+            <subparagraph id="idFA2B6C27474740CC8B6442702BB4BF97">
+              <enum>(C)</enum>
+              <text>is unable to pay its debts as they become due; and</text>
+            </subparagraph>
+          </paragraph>
+          <paragraph commented="no" id="id78CD4957F13542B1A402AD159EC9DA3A">
+            <enum>(5)</enum>
+            <text>the term <term>nationally recognized statistical rating organization</term> has the meaning given that term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Securities Exchange Act of 1934/s:3/ss:a/p:62">section 3(a)(62) of the Securities Exchange Act of 1934</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/78c">
+                <cato:entity-ref entity-type="uscode" value="usc/15/78c/a/62">15 U.S.C. 78c(a)(62)</cato:entity-ref>
+              </external-xref>)</cato:entity>.</text>
+          </paragraph>
+        </subsection>
+        <subsection id="id308D205F267341A4BC061336A5BB5F7D">
+          <enum>(b)</enum>
+          <header>Prohibition of Federal Government Bailouts</header>
+          <paragraph id="id536B96249D2043E4B9059C5B32F90D7E">
+            <enum>(1)</enum>
+            <header>Prohibition of  Federal assistance</header>
+            <text>Notwithstanding any other provision of law, no Federal assistance may be provided to an eligible entity (other than the assistance provided for in this Act for an area that is designated as an Economic Free Zone).</text>
+          </paragraph>
+          <paragraph id="id843D47B693C8408A84BDBB4D43E81B86">
+            <enum>(2)</enum>
+            <header>Prohibition of financial assistance to bankrupt or insolvent eligible entities</header>
+            <text>Except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/s:101/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>, the Federal Government may not provide financial assistance—</text>
+            <subparagraph id="idEB32215B7A0A4FBF801CB889C985241F">
+              <enum>(A)</enum>
+              <text>to a municipality that is a debtor under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/11/9">
+                  <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/11/9">chapter 9</external-xref> of title 11, United States Code</cato:entity-ref>; or</text>
+            </subparagraph>
+            <subparagraph id="id7A642961CB234263B41F37280DF619F2">
+              <enum>(B)</enum>
+              <text>to State or municipality that is insolvent.</text>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+      </section>
+    </title>
+    <title id="id4283D6282471497E85B45F9F3738DD35" style="OLC">
+      <enum>II</enum>
+      <header>Designation of Economic Freedom Zones (EFZ)</header>
+      <section id="idC43C8C00DBE14D95BC6149166BB0BC60">
+        <enum>201.</enum>
+        <header>Eligibility requirements for Economic Freedom Zone Status</header>
+        <subsection id="idA8422B50E1D34EB5845954A69C12758E">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text>In order to be eligible for designation as an Economic Freedom Zone by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>, an eligible entity shall meet one or more of the following requirements (in order of priority) and the requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/s:202" proposed="true">section 202</cato:entity-ref>:</text>
+          <paragraph id="idA00A38CCE94D4E83A5CB951167E61D40">
+            <enum>(1)</enum>
+            <header>Eligible chapter 9 debtor</header>
+            <text>An eligible entity that satisfies the requirements under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/11/109/c">
+                <external-xref legal-doc="usc" parsable-cite="usc/11/109">section 109(c)</external-xref> of title 11, United States Code</cato:entity-ref>.</text>
+          </paragraph>
+          <paragraph id="idAB652057574C44BB95D6CC4013FA1CC0">
+            <enum>(2)</enum>
+            <header>Eligible entity at risk of insolvency</header>
+            <subparagraph id="id0E174B125374463BACA34AF827600D39">
+              <enum>(A)</enum>
+              <header>In general</header>
+              <text>An eligible entity that is at risk of insolvency, as described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/s:201/ss:a/p:2/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>.</text>
+            </subparagraph>
+            <subparagraph id="id64203D2918AA4EE5A9D2D97E1F966D47">
+              <enum>(B)</enum>
+              <header>Requirements</header>
+              <text>An eligible entity is at risk of insolvency if—</text>
+              <clause id="idDABE4ACC66DA44E8B6085DC9C06A24D1">
+                <enum>(i)</enum>
+                <text>an independent actuarial firm that has been engaged by the eligible entity and that does not have a conflict of interest with the eligible entity, including any previous relationship with the eligible entity, as determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>—</text>
+                <subclause id="idA0A9F1E1719C41DB98B3CFD392B5BE2F">
+                  <enum>(I)</enum>
+                  <text>determines that the eligible entity is insolvent (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/s:101/ss:a/p:4" proposed="true">section 101(a)(4)</cato:entity-ref>); and</text>
+                </subclause>
+                <subclause id="idF4E8A619E4204AA8901559308CED1DAC">
+                  <enum>(II)</enum>
+                  <text>submits its analysis regarding the insolvency of the eligible entity to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>; and</text>
+                </subclause>
+              </clause>
+              <clause id="id13C5413F7FEA445A8405DBA6498D082C">
+                <enum>(ii)</enum>
+                <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> has reviewed and approved the determination of insolvency by the actuarial firm.</text>
+              </clause>
+            </subparagraph>
+          </paragraph>
+          <paragraph commented="no" display-inline="no-display-inline" id="id5AE422EDDE5B49069763997B545EEDC4">
+            <enum>(3)</enum>
+            <header>Low economic and high poverty zones</header>
+            <subparagraph commented="no" display-inline="no-display-inline" id="id149F3F0FA3144C158C3A18D1BD311739">
+              <enum>(A)</enum>
+              <header>In general</header>
+              <text>An eligible entity that is designated as a low economic or high poverty zone under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/s:201/ss:a/p:3/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>.</text>
+            </subparagraph>
+            <subparagraph commented="no" display-inline="no-display-inline" id="id675657535CD443B7A3244EA452358B98">
+              <enum>(B)</enum>
+              <header>Designation</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>, after reviewing supporting data as deemed appropriate, shall designate an eligible entity as a low economic or high poverty area if—</text>
+              <clause commented="no" display-inline="no-display-inline" id="idE9E4E46C0C3847F5A8EC24D741D851B4">
+                <enum>(i)</enum>
+                <text>the State or local government with jurisdiction over the entity certifies that—</text>
+                <subclause id="idce82e91163e74a0a8a16dcecbc0f1a8b">
+                  <enum>(I)</enum>
+                  <text>the entity is one of pervasive poverty, unemployment, and general distress;</text>
+                </subclause>
+                <subclause id="ide953e4eecbb245fc9d536016d5664664">
+                  <enum>(II)</enum>
+                  <text>the average rate of unemployment within  such entity during the most recent 3-month period for which data is available is at least 1.5 times the national unemployment rate for the period involved;</text>
+                </subclause>
+                <subclause id="id1d7f1cb977594f9bad62e2887b09916d">
+                  <enum>(III)</enum>
+                  <text>during the most recent 3-month period, at least 30 percent of the area residents have incomes below the national poverty level; or</text>
+                </subclause>
+                <subclause id="id82BB7364A9FC449CA364D845EEA413B6">
+                  <enum>(IV)</enum>
+                  <text>at least 70 percent of the are residents have incomes below 80 percent of the median income of households within the jurisdiction of the local government (as determined in the same manner as under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Housing and Community Development Act of 1974/s:119/ss:b/p:2">section 119(b)(2) of the Housing and Community Development Act of 1974</cato:entity-ref>); and</text>
+                </subclause>
+              </clause>
+              <clause id="id0C1A41EA2DE24E11B9F2AB6E2C1D53D4">
+                <enum>(ii)</enum>
+                <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> determines that such a designation is appropriate.</text>
+              </clause>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="idf7c1ec68924743a58ae7fe25c54c57cf">
+            <enum>(4)</enum>
+            <header>Special high poverty requirement for designation</header>
+            <text>An eligible entity shall be designated as a low economic or high poverty zone if the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> determines that—</text>
+            <subparagraph id="id7f7ad9a321334e20968309555c383107">
+              <enum>(A)</enum>
+              <text>the State in which the entity is located within one of the 10 most impoverished States, as determined using United States Census Bureau data;</text>
+            </subparagraph>
+            <subparagraph id="id5c815233e3a64ea6b46baca1b25d214b">
+              <enum>(B)</enum>
+              <text>the entity is one of pervasive poverty, unemployment, and general distress;</text>
+            </subparagraph>
+            <subparagraph id="id4bc036fb461a4650bd9a47e0f6b492a1">
+              <enum>(C)</enum>
+              <text>the average rate of unemployment within such entity during the most recent 3-month period for which data is available is at least 1.25 times the national unemployment rate for the period involved;</text>
+            </subparagraph>
+            <subparagraph id="id2b078f7429a9414ea87fda6d0de1242e">
+              <enum>(D)</enum>
+              <text>during the most recent 3-month period, at least 25 percent of the area residents have income below the national poverty level; or</text>
+            </subparagraph>
+            <subparagraph commented="no" display-inline="no-display-inline" id="id06CFE68E9F9945709BD27F8C2A1EB833">
+              <enum>(E)</enum>
+              <text>at least 65 percent of the residents have incomes below 80 percent of the median income of households within the jurisdiction of the local government (as determined in the same manner as under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Housing and Community Development Act of 1974/s:119/ss:b/p:2">section 119(b)(2) of the Housing and Community Development Act of 1974</cato:entity-ref>).</text>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="idA14ADEBC88B34747A98DB25B40D6015E">
+          <enum>(b)</enum>
+          <header>Refusal To grant status</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> may refuse to designate an eligible entity as an Economic Freedom Zone if the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> determines that any requirement under this Act, including any requirement under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/s:201/ss:a/p:2/sp:B" proposed="true">subsection (a)(2)(B)</cato:entity-ref>, has not been satisfied.</text>
+        </subsection>
+      </section>
+      <section id="id3B764BF703724C9F8A6379A5BF4DF403">
+        <enum>202.</enum>
+        <header>Area and regional requirements</header>
+        <subsection id="id9883a560b6894736bd1cdeea9bedebbb">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text>To be designated as an Economic Freedom Zone by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>, an eligible entity shall—</text>
+          <paragraph id="idE78C682676F549D393959797DC3205FD">
+            <enum>(1)</enum>
+            <text>meet one or more of the requirements under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/s:201" proposed="true">section 201</cato:entity-ref>; and</text>
+          </paragraph>
+          <paragraph id="idDA9FF0EDF71943EFA2A186387EDFDE08">
+            <enum>(2)</enum>
+            <text>be an entity described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/s:202/ss:b" proposed="true">subsection (b)</cato:entity-ref>.</text>
+          </paragraph>
+        </subsection>
+        <subsection id="idD5DF8A76A98547EE82F2BF59FD237FC0">
+          <enum>(b)</enum>
+          <header>Entity described</header>
+          <text>An entity is described in this subsection if such entity—</text>
+          <paragraph id="id2176d37ddfdf4e249678af525237d7f0">
+            <enum>(1)</enum>
+            <text>is a metropolitan statistical area (as defined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director of the Office of Management and Budget</cato:entity-ref>) that—</text>
+            <subparagraph id="ida587a29f0a1f4357aba2b92646333f84">
+              <enum>(A)</enum>
+              <text>is located within the jurisdiction of a local government; and</text>
+            </subparagraph>
+            <subparagraph id="id6392b43ee2ff4e8f9ca76ce071afa677">
+              <enum>(B)</enum>
+              <text>has a continuous boundary;</text>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="id56b08a2e15e54e52a3ad7d2c1a08bf5d">
+            <enum>(2)</enum>
+            <text>is a non-metropolitan statistical area (as defined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director of the Office of Management and Budget</cato:entity-ref>) if (based on the following order of priority) such area—</text>
+            <subparagraph id="id1641e9124a0e4bfc94d40f3167257148">
+              <enum>(A)</enum>
+              <text>is an official county geographical area in any State that meets any of the eligibility requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/s:201" proposed="true">section 201</cato:entity-ref>;</text>
+            </subparagraph>
+            <subparagraph id="id1634547c1d03401da836b2d4297e6dbd">
+              <enum>(B)</enum>
+              <text>is an official city geographical area in any State that meets any of the eligibility requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/s:201" proposed="true">section 201</cato:entity-ref>; or</text>
+            </subparagraph>
+            <subparagraph id="id51225d7407db4551b87346067826da54">
+              <enum>(C)</enum>
+              <text>is an official zip code geographical area in any State that meets any of the eligibility requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/s:201" proposed="true">section 201</cato:entity-ref>; or</text>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="id14A1DFE7855F4C6A9B57FFE328673383">
+            <enum>(3)</enum>
+            <text>is a zip code area that—</text>
+            <subparagraph id="id15bd1a47d3a242358841272231b3894e">
+              <enum>(A)</enum>
+              <text>is within a metropolitan statistical area; and</text>
+            </subparagraph>
+            <subparagraph commented="no" display-inline="no-display-inline" id="id4e9ddae59de44bcd9aa00e2ce7ef8b40">
+              <enum>(B)</enum>
+              <text>meets other eligibility criteria as determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> after consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1323">United States Census Bureau</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1625">Bureau of Labor Statistics</cato:entity-ref>, and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Office of Management and Budget</cato:entity-ref>.</text>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+      </section>
+      <section id="idf647edff9ba04c24b4bbd0c9810d4b6c">
+        <enum>203.</enum>
+        <header>Application and duration of designation</header>
+        <subsection id="idD4B854BC2BCA4EF699BB19D6AE1334AB">
+          <enum>(a)</enum>
+          <header>Application</header>
+          <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall develop procedures to enable an eligible entity to submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> an application for designation as an Economic Freedom Zone under this title.</text>
+        </subsection>
+        <subsection id="id5CBD3CB189924F7E8133A7E0A50AFF70">
+          <enum>(b)</enum>
+          <header>Duration</header>
+          <text display-inline="yes-display-inline">The designation by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> of an eligible entity as a Economic Freedom Zone shall be for a period of 10 years.</text>
+        </subsection>
+      </section>
+    </title>
+    <title id="id8B717685C2D34E0B9A1ACC0CADC6D59A" style="OLC">
+      <enum>III</enum>
+      <header>Federal tax incentives</header>
+      <section id="idC33189C0368F481795265DA26D7EB10A">
+        <enum>301.</enum>
+        <header>Tax incentives related to Economic Freedom Zones</header>
+        <subsection id="id8BC6787763E04C29A034AB422BB7ECA6">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1">
+              <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">Chapter 1</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by adding at the end the following new subchapter:</text>
+          <quoted-block display-inline="no-display-inline" id="id978537BE366346B78EE72546C3F775E4" style="OLC">
+            <subchapter id="id48CA9F8CFA384FD79F307A4359487434" style="OLC">
+              <enum>Z</enum>
+              <header>Economic Freedom Zones</header>
+              <toc>
+                <toc-entry idref="id23B2335B51A34545857E1E1CADBE3A68" level="part">Part I—Tax incentives</toc-entry>
+                <toc-entry idref="id55863CB25CF1487785049FBD802004CE" level="part">Part II—Definitions</toc-entry>
+              </toc>
+              <part id="id23B2335B51A34545857E1E1CADBE3A68" style="OLC">
+                <enum>I</enum>
+                <header>Tax incentives</header>
+                <toc>
+                  <toc-entry idref="idC6D8326D79C14F66970E58A6D8E95332" level="section">Sec. 1400V–1. Economic Freedom Zone individual flat tax.</toc-entry>
+                  <toc-entry idref="id86FC185A7E2C4D9AA8DB620BCC0B92B9" level="section">Sec. 1400V–2. Economic Freedom Zone corporate flat tax.</toc-entry>
+                  <toc-entry idref="PD72427CC0BCD44098C186C358F80B946" level="section">Sec. 1400V–3. Zero percent capital gains rate.</toc-entry>
+                  <toc-entry idref="idBE346EA7B73740C69783465FEF4C653F" level="section">Sec. 1400V–4. Reduced payroll taxes.</toc-entry>
+                  <toc-entry idref="id1CBEC9227FEC4ED1B4820B5CD440CFE1" level="section">Sec. 1400V–5. Increase in expensing under section 179.</toc-entry>
+                </toc>
+                <section id="idC6D8326D79C14F66970E58A6D8E95332">
+                  <enum>1400V–1.
+                  </enum>
+                  <header>Economic Freedom Zone individual flat tax</header>
+                  <subsection id="idE213DD9441F148F694F220C29B8BAE38">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+                    <text>In the case of any individual whose principal residence (within the meaning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:121">section 121</cato:entity-ref>) is located in an Economic Freedom Zone for the taxable year, in lieu of the tax imposed by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1">section 1</cato:entity-ref>, there shall be imposed a tax equal to 5 percent of the taxable income of such taxpayer.  For purposes of this title, the tax imposed by the preceding sentence shall be treated as a tax imposed by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1">section 1</cato:entity-ref>.</text>
+                  </subsection>
+                  <subsection id="id2928A297FEFC479CB099F28E4EB8329E">
+                    <enum>(b)</enum>
+                    <header>Joint returns</header>
+                    <text>In the case of a joint return under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6013">section 6013</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–1/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall apply so long as either spouse has a principal residence (within the meaning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:121">section 121</cato:entity-ref>) in an Economic Freedom Zone for the taxable year.</text>
+                  </subsection>
+                  <subsection id="idE22AD46B95BF45D58DBFC37E5EBB5BD7">
+                    <enum>(c)</enum>
+                    <header>Alternative minimum tax not To apply</header>
+                    <text>The tax imposed by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:55">section 55</cato:entity-ref> shall not apply to any taxpayer to whom <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–1/ss:a" proposed="true">subsection (a)</cato:entity-ref> applies.</text>
+                  </subsection>
+                </section>
+                <section id="id86FC185A7E2C4D9AA8DB620BCC0B92B9">
+                  <enum>1400V–2.
+                  </enum>
+                  <header>Economic Freedom Zone corporate flat tax</header>
+                  <subsection id="idDD3627EB41D84DB4A1717B08A85AD01B">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+                    <text>In the case of any corporation located in an Economic Freedom Zone for the taxable year, in lieu of the tax imposed by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:11">section 11</cato:entity-ref>, there shall be imposed a tax equal to 5 percent of the taxable income of such corporation.   For purposes of this title, the tax imposed by the preceding sentence shall be treated as a tax imposed by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:11">section 11</cato:entity-ref>.</text>
+                  </subsection>
+                  <subsection id="id6A25B54355934A019DD88FE05557CD2E">
+                    <enum>(b)</enum>
+                    <header>Limitation</header>
+                    <text>
+                      <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–2/ss:a" proposed="true">Subsection (a)</cato:entity-ref> shall not apply to any corporation for any taxable year if the adjusted gross income of such corporation for such taxable year exceeds $500,000,000.</text>
+                  </subsection>
+                  <subsection id="id4A62663AE7344571AE045F1A215EB482">
+                    <enum>(c)</enum>
+                    <header>Located</header>
+                    <text>For purposes of this section, a corporation shall be considered to be located in an Economic Freedom Zone if—</text>
+                    <paragraph id="id2819360D5CC84E54991F386D087B93A9">
+                      <enum>(1)</enum>
+                      <text>not less than 10 percent of the total gross income of such corporation is derived from the active conduct of a trade or business within an Economic Freedom Zone, or</text>
+                    </paragraph>
+                    <paragraph id="id1DE67B0820BE455C81F0509CB07C2DA8">
+                      <enum>(2)</enum>
+                      <text>at least 25 percent of the employees of such corporation are residents of an Economic Freedom Zone.</text>
+                    </paragraph>
+                  </subsection>
+                  <subsection id="idBC6272F41BA749ADAA1010744E0D0A58">
+                    <enum>(d)</enum>
+                    <header>Alternative minimum tax not To apply</header>
+                    <text>The tax imposed by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:55">section 55</cato:entity-ref> shall not apply to any taxpayer to whom <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–2/ss:a" proposed="true">subsection (a)</cato:entity-ref> applies.</text>
+                  </subsection>
+                </section>
+                <section commented="no" display-inline="no-display-inline" id="PD72427CC0BCD44098C186C358F80B946" section-type="subsequent-section">
+                  <enum>1400V–3.
+                  </enum>
+                  <header display-inline="yes-display-inline">Zero percent capital gains rate</header>
+                  <subsection commented="no" display-inline="no-display-inline" id="PDE7F601A13C541889A1004D9EAEF3C2F">
+                    <enum>(a)</enum>
+                    <header>Exclusion</header>
+                    <text>Gross income shall not include qualified capital gain from the sale or exchange of—</text>
+                    <paragraph commented="no" display-inline="no-display-inline" id="idC0782E3FA7F64B60BED055DDA9615A41">
+                      <enum>(1)</enum>
+                      <text>any Economic Freedom  Zone asset held for more than 5 years,</text>
+                    </paragraph>
+                    <paragraph commented="no" display-inline="no-display-inline" id="id36DC6F54704E406183F5176D44BB5514">
+                      <enum>(2)</enum>
+                      <text>any real property located in an Economic Freedom Zone.</text>
+                    </paragraph>
+                  </subsection>
+                  <subsection commented="no" display-inline="no-display-inline" id="P1931D35FB99E4C9CAC52275AA100D42A">
+                    <enum>(b)</enum>
+                    <header>Economic Freedom  Zone asset</header>
+                    <text>For purposes of this section—</text>
+                    <paragraph id="P496C6A689AD443748A25EEA1D87C9591">
+                      <enum>(1)</enum>
+                      <header>In general</header>
+                      <text>The term <quote>Economic Freedom  Zone asset</quote> means—</text>
+                      <subparagraph id="P732E713809BD4DFA8B2CFBBD95C3265C">
+                        <enum>(A)</enum>
+                        <text>any Economic Freedom  Zone business stock,</text>
+                      </subparagraph>
+                      <subparagraph id="PE9025F681F6D4191AD1E32579EEAD352">
+                        <enum>(B)</enum>
+                        <text>any Economic Freedom  Zone partnership interest, and</text>
+                      </subparagraph>
+                      <subparagraph id="P8B6E183CC5AF4CD0A7C054F23CB995DE">
+                        <enum>(C)</enum>
+                        <text>any Economic Freedom  Zone business property.</text>
+                      </subparagraph>
+                    </paragraph>
+                    <paragraph id="P55583B1A9BD44791839AF11149CEA228">
+                      <enum>(2)</enum>
+                      <header>Economic Freedom  Zone business stock</header>
+                      <subparagraph id="PEB16410ADFD84CAB9A3412B527A46439">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+                        <text>The term <term>Economic Freedom  Zone business stock</term> means any stock in a domestic corporation if—</text>
+                        <clause id="PDD2F01F6A6604D1E90A1169DC561DCDF">
+                          <enum>(i)</enum>
+                          <text>such stock is acquired by the taxpayer, before the date on which such corporation no longer qualifies as an Economic Freedom Zone business due to the lapse of 1 or more Economic Freedom Zones, at its original issue (directly or through an underwriter) solely in exchange for cash,</text>
+                        </clause>
+                        <clause id="PE5E885DA3C41442AA33968CEE7680FED">
+                          <enum>(ii)</enum>
+                          <text>as of the time such stock was issued, such corporation was an Economic Freedom  Zone business (or, in the case of a new corporation, such corporation was being organized for purposes of being an Economic Freedom  Zone business), and</text>
+                        </clause>
+                        <clause id="PB05AA38D87F04340B457471704CDA3DC">
+                          <enum>(iii)</enum>
+                          <text>during substantially all of the taxpayer's holding period for such stock, such corporation qualified as an Economic Freedom  Zone business.</text>
+                        </clause>
+                      </subparagraph>
+                      <subparagraph id="P4731D21F865945D7827AB9BB8FA271F4">
+                        <enum>(B)</enum>
+                        <header>Redemptions</header>
+                        <text>A rule similar to the rule of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1202/ss:c/p:3">section 1202(c)(3)</cato:entity-ref> shall apply for purposes of this paragraph.</text>
+                      </subparagraph>
+                    </paragraph>
+                    <paragraph id="P97B27EFF7D2E445B996F8B0CE89A2141">
+                      <enum>(3)</enum>
+                      <header>Economic Freedom  Zone partnership interest</header>
+                      <text>The term <term>Economic Freedom  Zone partnership interest</term> means any capital or profits interest in a domestic partnership if—</text>
+                      <subparagraph id="P0029654EA7D74113B08262BEFF9FE2AE">
+                        <enum>(A)</enum>
+                        <text>such interest is acquired by the taxpayer, before the date on which such partnership no longer qualifies as an Economic Freedom Zone business due to the lapse of 1 or more Economic Freedom Zones, from the partnership solely in exchange for cash,</text>
+                      </subparagraph>
+                      <subparagraph id="P8B8CE3C009AD49D99F0A8F62D6898ACB">
+                        <enum>(B)</enum>
+                        <text>as of the time such interest was acquired, such partnership was an Economic Freedom  Zone business (or, in the case of a new partnership, such partnership was being organized for purposes of being an Economic Freedom  Zone business), and</text>
+                      </subparagraph>
+                      <subparagraph id="PDA880A6118644F04A750B4469AC69E3C">
+                        <enum>(C)</enum>
+                        <text>during substantially all of the taxpayer's holding period for such interest, such partnership qualified as an Economic Freedom  Zone business.</text>
+                      </subparagraph>
+                      <continuation-text continuation-text-level="paragraph">A rule similar to the rule of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–3/ss:b/p:2/sp:B" proposed="true">paragraph (2)(B)</cato:entity-ref> shall apply for purposes of this paragraph.</continuation-text>
+                    </paragraph>
+                    <paragraph id="P5AB6B186CD96488592AB9F99E06068A3">
+                      <enum>(4)</enum>
+                      <header>Economic Freedom  Zone business property</header>
+                      <subparagraph id="P0910B2F10D394285BCDA3AF91BB2E80C">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+                        <text>The term <term>Economic Freedom  Zone business property</term> means tangible property if—</text>
+                        <clause id="PC1201622E3254998B53F8BC64C8DCFA5">
+                          <enum>(i)</enum>
+                          <text>such property was acquired by the taxpayer by purchase (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:179/ss:d/p:2">section 179(d)(2)</cato:entity-ref>) after the date on such taxpayer qualifies as an Economic Freedom Zone business and before the date on which such taxpayer no longer qualifies as an Economic Freedom Zone business due to the lapse of 1 or more Economic Freedom Zones,</text>
+                        </clause>
+                        <clause id="P9FB3383A2D0F4CA3BD2D8A23A567D442">
+                          <enum>(ii)</enum>
+                          <text>the original use of such property in the Economic Freedom  Zone commences with the taxpayer, and</text>
+                        </clause>
+                        <clause id="P81DF4B3D6987409280DDE24DBF7A95CB">
+                          <enum>(iii)</enum>
+                          <text>during substantially all of the taxpayer's holding period for such property, substantially all of the use of such property was in an Economic Freedom  Zone business of the taxpayer.</text>
+                        </clause>
+                      </subparagraph>
+                      <subparagraph id="PFD072B9F381444ADB5F569E5B59A33E5">
+                        <enum>(B)</enum>
+                        <header>Special rule for buildings which are substantially improved</header>
+                        <clause id="P402296B630204D7B944387EC20404202">
+                          <enum>(i)</enum>
+                          <header>In general</header>
+                          <text>The requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–3/ss:b/p:4/sp:A/cl:i" proposed="true">clauses (i)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–3/ss:b/p:4/sp:A/cl:ii" proposed="true">(ii) of subparagraph (A)</cato:entity-ref> shall be treated as met with respect to—</text>
+                          <subclause id="P9FF722F8D86D43A2817020295BB3C452">
+                            <enum>(I)</enum>
+                            <text>property which is substantially improved by the taxpayer before the date on which such taxpayer no longer qualifies as an Economic Freedom Zone business due to the lapse of 1 or more Economic Freedom Zones, and</text>
+                          </subclause>
+                          <subclause id="P9EF5E0EF4080402CAD199965D367DE07">
+                            <enum>(II)</enum>
+                            <text>any land on which such property is located.</text>
+                          </subclause>
+                        </clause>
+                        <clause id="PDA39CF9C21B44C56BC683C81B09CB595">
+                          <enum>(ii)</enum>
+                          <header>Substantial improvement</header>
+                          <text>For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–3/ss:b/p:4/sp:B/cl:i" proposed="true">clause (i)</cato:entity-ref>, property shall be treated as substantially improved by the taxpayer only if, during any 24-month period beginning after the date on which the taxpayer qualifies as an Economic Freedom Zone business additions to basis with respect to such property in the hands of the taxpayer exceed the greater of—</text>
+                          <subclause id="PAB77CC64792544298E4A103A72B77309">
+                            <enum>(I)</enum>
+                            <text>an amount equal to the adjusted basis of such property at the beginning of such 24-month period in the hands of the taxpayer, or</text>
+                          </subclause>
+                          <subclause id="P9D1CEFEE79A44E6AAF75BA3254A7D7D7">
+                            <enum>(II)</enum>
+                            <text>$5,000.</text>
+                          </subclause>
+                        </clause>
+                      </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" id="P69DF2E8221814A09BA28EA2B04554D5B">
+                      <enum>(5)</enum>
+                      <header>Treatment of Economic Freedom  Zone termination</header>
+                      <text>Except as otherwise provided in this subsection, the termination of the designation of the Economic Freedom  Zone shall be disregarded for purposes of determining whether any property is an Economic Freedom  Zone asset.</text>
+                    </paragraph>
+                    <paragraph id="P337B008970ED479F97101FDA7B70A68C">
+                      <enum>(6)</enum>
+                      <header>Treatment of subsequent purchasers, etc</header>
+                      <text>The term <term>Economic Freedom  Zone asset</term> includes any property which would be an Economic Freedom  Zone asset but for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–3/ss:b/p:2/sp:A/cl:i" proposed="true">paragraph (2)(A)(i)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–3/ss:b/p:3/sp:A" proposed="true">(3)(A)</cato:entity-ref>, or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–3/ss:b/p:4/sp:A/cl:i" proposed="true">(4)(A)(i)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–3/ss:b/p:4/sp:A/cl:ii" proposed="true">(ii)</cato:entity-ref> in the hands of the taxpayer if such property was an Economic Freedom  Zone asset in the hands of a prior holder.</text>
+                    </paragraph>
+                    <paragraph id="P29E47FA0A4D04A459E2412342570EB04">
+                      <enum>(7)</enum>
+                      <header>5-Year safe harbor</header>
+                      <text>If any property ceases to be an Economic Freedom  Zone asset by reason of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–3/ss:b/p:2/sp:A/cl:iii" proposed="true">paragraph (2)(A)(iii)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–3/ss:b/p:3/sp:C" proposed="true">(3)(C)</cato:entity-ref>, or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–3/ss:b/p:4/sp:A/cl:iii" proposed="true">(4)(A)(iii)</cato:entity-ref> after the 5-year period beginning on the date the taxpayer acquired such property, such property shall continue to be treated as meeting the requirements of such paragraph; except that the amount of gain to which <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–3/ss:a" proposed="true">subsection (a)</cato:entity-ref> applies on any sale or exchange of such property shall not exceed the amount which would be qualified capital gain had such property been sold on the date of such cessation.</text>
+                    </paragraph>
+                  </subsection>
+                  <subsection commented="no" display-inline="no-display-inline" id="P656D46264F564A6FBD7954F5C27C0305">
+                    <enum>(c)</enum>
+                    <header>Economic Freedom  Zone business</header>
+                    <text>For purposes of this section, the term <term>Economic Freedom  Zone business</term> means any enterprise zone business (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1397C">section 1397C</cato:entity-ref>), determined—</text>
+                    <paragraph id="P3BAD298698B44DD6A913CB9E595E395E">
+                      <enum>(1)</enum>
+                      <text>after the application of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400/ss:e">section 1400(e)</cato:entity-ref>,</text>
+                    </paragraph>
+                    <paragraph id="PF20659E3EF3C418C94B661E8B29F1C83">
+                      <enum>(2)</enum>
+                      <text>by substituting <quote>80 percent</quote> for <quote>50 percent</quote> in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1397C/ss:b/p:2">subsections (b)(2)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1397C/ss:c/p:1">(c)(1) of section 1397C</cato:entity-ref>, and</text>
+                    </paragraph>
+                    <paragraph id="PA1DA9A5CBC5246E3AA8BE9375B04A1A5">
+                      <enum>(3)</enum>
+                      <text>by treating only areas that are Economic Freedom  Zones as an empowerment zone or enterprise community.</text>
+                    </paragraph>
+                  </subsection>
+                  <subsection commented="no" display-inline="no-display-inline" id="PC325DE51DCC94E0692C16D2213E33BEB">
+                    <enum>(d)</enum>
+                    <header>Other definitions and special rules</header>
+                    <text>For purposes of this section—</text>
+                    <paragraph id="PC96169008B9348EBA8C667EE4ACD83BF">
+                      <enum>(1)</enum>
+                      <header>Qualified capital gain</header>
+                      <text>Except as otherwise provided in this subsection, the term <term>qualified capital gain</term> means any gain recognized on the sale or exchange of—</text>
+                      <subparagraph id="PD4CE761D87324631A7845D4B6D0F3CE1">
+                        <enum>(A)</enum>
+                        <text>a capital asset, or</text>
+                      </subparagraph>
+                      <subparagraph id="P5DE6325F3FD646FA8BAE165A82FC96F4">
+                        <enum>(B)</enum>
+                        <text>property used in the trade or business (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1231/ss:b">section 1231(b)</cato:entity-ref>).</text>
+                      </subparagraph>
+                    </paragraph>
+                    <paragraph commented="no" id="P182F2A2127614525B8619514DCB153F8">
+                      <enum>(2)</enum>
+                      <header>Certain gain not qualified</header>
+                      <text>The term <term>qualified capital gain</term> shall not include any gain attributable to periods before the date on which the a business qualifies as an Economic Freedom Zone business or after the date that is  4 years after the date on which such business no longer qualifies as an Economic Freedom Zone business due to the lapse of 1 or more Economic Freedom Zones.</text>
+                    </paragraph>
+                    <paragraph id="PA093D070DC564DC893F986CFBD048777">
+                      <enum>(3)</enum>
+                      <header>Certain gain not qualified</header>
+                      <text>The term <term>qualified capital gain</term> shall not include any gain which would be treated as ordinary income under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1245">section 1245</cato:entity-ref> or under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1250">section 1250</cato:entity-ref> if <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1250">section 1250</cato:entity-ref> applied to all depreciation rather than the additional depreciation.</text>
+                    </paragraph>
+                    <paragraph id="P00CD039A452347C69DF2BFEF19E13189">
+                      <enum>(4)</enum>
+                      <header>Intangibles not integral part of Economic Freedom  Zone business</header>
+                      <text>In the case of gain described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–3/ss:a/p:1" proposed="true">subsection (a)(1)</cato:entity-ref>, the term <term>qualified capital gain</term> shall not include any gain which is attributable to an intangible asset which is not an integral part of an Economic Freedom  Zone business.</text>
+                    </paragraph>
+                    <paragraph id="P32AE48F044D04651BE4F9F624D23145E">
+                      <enum>(5)</enum>
+                      <header>Related party transactions</header>
+                      <text>The term <term>qualified capital gain</term> shall not include any gain attributable, directly or indirectly, in whole or in part, to a transaction with a related person.  For purposes of this paragraph, persons are related to each other if such persons are described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:267/ss:b">section 267(b)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:707/ss:b/p:1">707(b)(1)</cato:entity-ref>.</text>
+                    </paragraph>
+                  </subsection>
+                  <subsection commented="no" display-inline="no-display-inline" id="PD46F2D974D9041D3908ED0AE0D2C4737">
+                    <enum>(e)</enum>
+                    <header>Sales and exchanges of interests in partnerships and s corporations which are Economic Freedom  Zone businesses</header>
+                    <text>In the case of the sale or exchange of an interest in a partnership, or of stock in an S corporation, which was an Economic Freedom  Zone business during substantially all of the period the taxpayer held such interest or stock, the amount of qualified capital gain shall be determined without regard to—</text>
+                    <paragraph id="PDC8E5DCE2C014BF780B6017F1F824886">
+                      <enum>(1)</enum>
+                      <text>any gain which is attributable to an intangible asset which is not an integral part of an Economic Freedom  Zone business, and</text>
+                    </paragraph>
+                    <paragraph commented="no" id="P3CFD5E31C7494E768C792C2710A278E7">
+                      <enum>(2)</enum>
+                      <text>any gain attributable to periods before the date on which the a business qualifies as an Economic Freedom Zone business or after the date that is  4 years after the date on which such business no longer qualifies as an Economic Freedom Zone business due to the lapse of 1 or more Economic Freedom Zones.</text>
+                    </paragraph>
+                  </subsection>
+                </section>
+                <section commented="no" id="idBE346EA7B73740C69783465FEF4C653F">
+                  <enum>1400V–4.
+                  </enum>
+                  <header>Reduced payroll taxes</header>
+                  <subsection id="id7f52951efbb84cf0adfbbeec437918cb">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+                    <paragraph id="id31F02AB3C1494F59B30C12D99B93CC69">
+                      <enum>(1)</enum>
+                      <header>Employees</header>
+                      <text>The rate of tax under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:3101/ss:a">3101(a)</cato:entity-ref> (including for purposes of determining the applicable percentage under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:3201/ss:a">sections 3201(a)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:3211/ss:a/p:1">3211(a)(1)</cato:entity-ref>) shall be 4.2 percent  for any remuneration received during any period in which the individual's principal residence  (within the meaning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:121">section 121</cato:entity-ref>) is located  in an Economic Freedom Zone.</text>
+                    </paragraph>
+                    <paragraph id="idF6EB3EA035DC48BC9A826A6AD04C5A63">
+                      <enum>(2)</enum>
+                      <header>Employers</header>
+                      <subparagraph id="idDFB85285543742999A715F8D7EF96A54">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+                        <text>The rate of tax under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:3111/ss:a">section 3111(a)</cato:entity-ref> (including for purposes of determining the applicable percentage under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:3221/ss:a">sections 3221(a)</cato:entity-ref>) shall be 4.2 percent with respect to remuneration paid for qualified services during any period in which the employer is located in an Economic Freedom Zone.</text>
+                      </subparagraph>
+                      <subparagraph id="idb7b0491e682f46ea91d6397d632c7ac3">
+                        <enum>(B)</enum>
+                        <header>Qualified services</header>
+                        <text>For purposes of this section, the term <term>qualified services</term> means services performed—</text>
+                        <clause id="id3d811dfa753d4841af98ec00bd19cc77">
+                          <enum>(i)</enum>
+                          <text>in a trade or business of a qualified employer, or</text>
+                        </clause>
+                        <clause id="id1f8b5cfb525345d18fbff0014f19de52">
+                          <enum>(ii)</enum>
+                          <text>in the case of a qualified employer exempt from tax under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:501/ss:a">
+                              <external-xref legal-doc="usc" parsable-cite="usc/26/501">section 501(a)</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref>, in furtherance of the activities related to the purpose or function constituting the basis of the employer’s exemption under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:501">section 501 of such Code</cato:entity-ref>.</text>
+                        </clause>
+                      </subparagraph>
+                      <subparagraph id="id6F36ABF629E2473B91C19684CD3864CA">
+                        <enum>(C)</enum>
+                        <header>Location of employer</header>
+                        <text>For purposes of this paragraph, the location of an employer shall be determined in the same manner as under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–2/ss:c" proposed="true">section 1400V–2(c)</cato:entity-ref>.</text>
+                      </subparagraph>
+                    </paragraph>
+                    <paragraph id="id3C8B31F182E941F4A1B14C98349D0451">
+                      <enum>(3)</enum>
+                      <header>Self-employed individuals</header>
+                      <text>The rate of tax under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1401/ss:a">section 1401(a)</cato:entity-ref>  shall be 8.40 percent any taxable year in which such individual was located (determined under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–2/ss:c" proposed="true">section 1400V–2(c)</cato:entity-ref> as if such individual were a corporation) in an Economic Freedom Zone.</text>
+                    </paragraph>
+                  </subsection>
+                  <subsection id="idca6984199f004a48b810a214fd85958d">
+                    <enum>(b)</enum>
+                    <header>Transfers of Funds</header>
+                    <text>-</text>
+                    <paragraph id="id4c1c19fbed294f42a036a459d82dd19d">
+                      <enum>(1)</enum>
+                      <header>Transfers to federal old-age and survivors insurance trust fund</header>
+                      <text>There are hereby appropriated to the Federal Old-Age and Survivors Trust Fund and the Federal Disability Insurance Trust Fund established under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                          <cato:entity-ref entity-type="act" value="Social Security Act/s:201">section 201 of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/401">
+                          <cato:entity-ref entity-type="uscode" value="usc/42/401">42 U.S.C. 401</cato:entity-ref>
+                        </external-xref>)</cato:entity> amounts equal to the reduction in revenues to the Treasury by reason of the application of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–4/ss:a" proposed="true">subsection (a)</cato:entity-ref>. Amounts appropriated by the preceding sentence shall be transferred from the general fund at such times and in such manner as to replicate to the extent possible the transfers which would have occurred to such Trust Fund had such amendments not been enacted.</text>
+                    </paragraph>
+                    <paragraph id="id532831f494d34f4caa64707abf07d1e2">
+                      <enum>(2)</enum>
+                      <header>Transfers to social security equivalent benefit account</header>
+                      <text>There are hereby appropriated to the Social Security Equivalent Benefit Account established under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                          <cato:entity-ref entity-type="act" value="Railroad Retirement Act of 1974/s:15A/ss:a">section 15A(a) of the Railroad Retirement Act of 1974</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/45/231n-1">
+                          <cato:entity-ref entity-type="uscode" value="usc/45/231n–1/a">45 U.S.C. 231n–1(a)</cato:entity-ref>
+                          </external-xref>)</cato:entity> amounts equal to the reduction in revenues to the Treasury by reason of the application of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–4/ss:a/p:1" proposed="true">paragraphs (1)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–4/ss:a/p:2" proposed="true">(2) of subsection  (a)</cato:entity-ref>. Amounts appropriated by the preceding sentence shall be transferred from the general fund at such times and in such manner as to replicate to the extent possible the transfers which would have occurred to such Account had such amendments not been enacted.</text>
+                    </paragraph>
+                    <paragraph id="ide79409228f5347d2ab5964eb2c28df19">
+                      <enum>(3)</enum>
+                      <header>Coordination with other federal laws</header>
+                      <text>For purposes of applying any provision of Federal law other than the provisions of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986">Internal Revenue Code of 1986</cato:entity-ref>, the rate of tax in effect under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:3101/ss:a">section 3101(a)</cato:entity-ref> shall be determined without regard to the reduction in such rate under this section.</text>
+                    </paragraph>
+                  </subsection>
+                </section>
+                <section id="id1CBEC9227FEC4ED1B4820B5CD440CFE1">
+                  <enum>1400V–5.
+                  </enum>
+                  <header>Increase in expensing under section 179</header>
+                  <subsection id="id5D2A7BB46F9742849468874DFFD679AE">
+                    <enum>(a)</enum>
+                    <header>In general</header>
+                    <text display-inline="yes-display-inline">In the case of an Economic Freedom Zone business, for purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:179">section 179</cato:entity-ref>—</text>
+                    <paragraph id="id6D597B6A8B7C4256855BE4F9EC532759">
+                      <enum>(1)</enum>
+                      <text display-inline="yes-display-inline">the limitation under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:179/ss:b/p:1">section 179(b)(1)</cato:entity-ref> shall be increased by the lesser of—</text>
+                      <subparagraph id="id88254900FF3747338CCFF936471110AD">
+                        <enum>(A)</enum>
+                        <text display-inline="yes-display-inline">200 percent of the amount in effect under such section (determined without regard to this section), or</text>
+                      </subparagraph>
+                      <subparagraph id="id2827FCF81BDE43F1BDE774A3B2AE6CCF">
+                        <enum>(B)</enum>
+                        <text display-inline="yes-display-inline">the cost of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:179">section 179</cato:entity-ref> property which is Economic Freedom Zone  business property placed in service during the taxable year, and</text>
+                      </subparagraph>
+                    </paragraph>
+                    <paragraph id="id3BFC267648CF469CB22B861860419A85">
+                      <enum>(2)</enum>
+                      <text display-inline="yes-display-inline">the amount taken into account under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:179/ss:b/p:2">section 179(b)(2)</cato:entity-ref> with respect to any <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:179">section 179</cato:entity-ref> property which is Economic Freedom Zone  business property shall be 50 percent of the cost thereof.</text>
+                    </paragraph>
+                  </subsection>
+                  <subsection commented="no" display-inline="no-display-inline" id="P98F89FADAAFB4FE98B2CD69F1CAF25E0">
+                    <enum>(b)</enum>
+                    <header display-inline="yes-display-inline">Economic Freedom zone business property</header>
+                    <text>For purposes of this section, the term <term>Economic Freedom Zone business property</term> has the meaning given such term under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–3/ss:b/p:4" proposed="true">section 1400V–3(b)(4)</cato:entity-ref>, except that for purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–3/ss:b/p:4/sp:A/cl:ii" proposed="true">subparagraph (A)(ii) thereof</cato:entity-ref>,  if property is sold and leased back by the taxpayer within 3 months after the date such property was originally placed in service, such property shall be treated as originally placed in service not earlier than the date on which such property is used under the leaseback</text>
+                  </subsection>
+                  <subsection commented="no" display-inline="no-display-inline" id="P6C09590CE2DA4AC1AAC95A30CF349616">
+                    <enum>(c)</enum>
+                    <header display-inline="yes-display-inline">Recapture</header>
+                    <text display-inline="yes-display-inline">Rules similar to the rules under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:179/ss:d/p:10">section 179(d)(10)</cato:entity-ref> shall apply with respect to any qualified zone property which ceases to be used in an empowerment zone by an enterprise zone business.</text>
+                  </subsection>
+                </section>
+              </part>
+              <part id="id55863CB25CF1487785049FBD802004CE" style="OLC">
+                <enum>II</enum>
+                <header>Definitions</header>
+                <toc>
+                  <toc-entry idref="id412D7B5C20564589B4DE6A4915D8A707" level="section">Sec. 1400V–6. Economic Freedom Zone.</toc-entry>
+                </toc>
+                <section commented="no" display-inline="no-display-inline" id="id412D7B5C20564589B4DE6A4915D8A707">
+                  <enum>1400V–6.
+                  </enum>
+                  <header>Economic Freedom Zone</header>
+                  <text display-inline="no-display-inline">For purposes of this subchapter, the term <term>Economic Freedom Zone</term> means any area which is an Economic Freedom Zone under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/t:II" proposed="true">title II of the Economic Freedom Zone Act</cato:entity-ref>.</text>
+                </section>
+              </part>
+            </subchapter>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="id57A2AE965C614239BE1AE1058F666583">
+          <enum>(b)</enum>
+          <header>Clerical amendment</header>
+          <text>The table of subchapters for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1">chapter 1 of such Code</cato:entity-ref> is amended by inserting after the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:Y">subchapter Y</cato:entity-ref> the following new item:</text>
+          <quoted-block display-inline="no-display-inline" id="idA6A9C3E93280434E99E014726405D09C" style="OLC">
+            <toc>
+              <toc-entry level="subchapter">Subchapter Z—Economic Freedom Zones</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="id23FCE234F6C5454080E2C529A689459C">
+          <enum>(c)</enum>
+          <header>Effective date</header>
+          <text>The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.</text>
+        </subsection>
+      </section>
+    </title>
+    <title id="idE905DEF7755E4CA488D5FFB0B6F4F770" style="OLC">
+      <enum>IV</enum>
+      <header>Federal regulatory reductions</header>
+      <section id="idD1B92E561EF74D3997DADFD21783640B">
+        <enum>401.</enum>
+        <header>Suspension of certain laws and regulations</header>
+        <subsection id="id01406BF501684D4D99A5BAE65166C0B3">
+          <enum>(a)</enum>
+          <header>Environmental Protection Agency</header>
+          <text>For each area designated as an Economic Freedom Zone under this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6800">Administrator of the Environmental Protection Agency</cato:entity-ref> shall not enforce, with respect to that Economic Freedom Zone, and the Economic Freedom Zone shall be exempt from compliance with—</text>
+          <paragraph id="idD87712E7489B44E9BFE9448AEBE6EC74">
+            <enum>(1)</enum>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Clean Air Act/pt:D">part D of the Clean Air Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/7501">
+                <cato:entity-ref entity-type="uscode" value="usc/42/7501/etseq">42 U.S.C. 7501 et seq</cato:entity-ref>.</external-xref>)</cato:entity> (including any regulations promulgated under that part);</text>
+          </paragraph>
+          <paragraph id="id98A99F7ED5A546E4BFBF8EAAD410AC98">
+            <enum>(2)</enum>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Federal Water Pollution Control Act/s:402">section 402 of the Federal Water Pollution Control Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/33/1342">
+                <cato:entity-ref entity-type="uscode" value="usc/33/1342">33 U.S.C. 1342</cato:entity-ref>
+              </external-xref>)</cato:entity>;</text>
+          </paragraph>
+          <paragraph id="id84942871CE5341218A0BD68D3E211649">
+            <enum>(3)</enum>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/23/139">sections 139</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/23/168">168</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/23/169">169</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/23/326">326</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/23/327">327 of title 23, United States Code</cato:entity-ref>;</text>
+          </paragraph>
+          <paragraph id="id15B69C0B18904E36A15DD79A4119C163">
+            <enum>(4)</enum>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/304">
+                <external-xref legal-doc="usc" parsable-cite="usc/49/304">section 304</external-xref> of title 49, United States Code</cato:entity-ref>; and</text>
+          </paragraph>
+          <paragraph id="id550496D30FC540FB96E9F40199C0E42F">
+            <enum>(5)</enum>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="public-law" value="public-law/112/141/s:1315..1320">sections 1315 through 1320 of <external-xref legal-doc="public-law" parsable-cite="pl/112/141">
+                Public Law 112–141
+              </external-xref> (</cato:entity-ref>
+                <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/126/549">126 Stat. 549</cato:entity-ref>)</cato:entity>.</text>
+          </paragraph>
+        </subsection>
+        <subsection id="id0F5EC0997A5E47A08B2AEB3A340B297C">
+          <enum>(b)</enum>
+          <header>Department of the Interior</header>
+          <paragraph id="id1F0BCECD6862481DB8297C901D1ED1CC">
+            <enum>(1)</enum>
+            <header>Wild and scenic rivers</header>
+            <text>For each area designated as an Economic Freedom Zone under this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary  of the Interior</cato:entity-ref> shall not enforce, with respect to that Economic Freedom Zone, and the Economic Freedom Zone shall be exempt from compliance with the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Wild and Scenic Rivers Act">Wild and Scenic Rivers Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/16/1271/etseq">16 U.S.C.
+		1271 et seq</cato:entity-ref>.)</cato:entity>.</text>
+          </paragraph>
+          <paragraph id="idB8450E54F5C74664AFE64EA74F9D8257">
+            <enum>(2)</enum>
+            <header>National heritage areas</header>
+            <text>For the period beginning on the date of enactment of this Act and ending on the date on which an area is removed from designation as an Economic Freedom Zone, any National Heritage Area located within that Economic Freedom Zone shall not be considered to be a National Heritage Area and any applicable Federal law (including regulations) relating to that National Heritage Area shall not apply.</text>
+          </paragraph>
+        </subsection>
+      </section>
+    </title>
+    <title id="id73B60CC56D1D4B0DAF7693B325A50D57" style="OLC">
+      <enum>V</enum>
+      <header>Educational enhancements</header>
+      <section id="id5EC4EB3D61B34DE7A3D4637E34341256">
+        <enum>501.</enum>
+        <header>Educational opportunity tax credit</header>
+        <subsection id="id999B2962918B4255AF0C703D5E368351">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:A/pt:IV/spt:A">Subpart A of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:25D">section 25D</cato:entity-ref> the following new section:</text>
+          <quoted-block display-inline="no-display-inline" id="id2898E638812944BABB92664E4278A231" style="OLC">
+            <section commented="no" display-inline="no-display-inline" id="idAB58C2F8F35A4D21B02FD344F90C810D">
+              <enum>25E.</enum>
+              <header>Credit for qualified elementary and secondary education expenses</header>
+              <subsection commented="no" display-inline="no-display-inline" id="id0F4DBDA8C14A4C7C8D6F19F747B997B0">
+                <enum>(a)</enum>
+                <header>In general</header>
+                <text display-inline="yes-display-inline">In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the qualified elementary and secondary education expenses of an eligible student.</text>
+              </subsection>
+              <subsection commented="no" display-inline="no-display-inline" id="id4C49F29F32BC48ADB96C716496056D12">
+                <enum>(b)</enum>
+                <header>Limitation</header>
+                <text display-inline="yes-display-inline">The amount taken into account under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:25E/ss:a" proposed="true">subsection (a)</cato:entity-ref> with respect to any student for any taxable year shall not exceed $5,000.</text>
+              </subsection>
+              <subsection commented="no" display-inline="no-display-inline" id="idBB902D6C20A745D18D3B2188F88FA44F">
+                <enum>(c)</enum>
+                <header>Definitions</header>
+                <text display-inline="yes-display-inline">For purposes of this section—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id020923B2119F43C19B082EA62382DD3F">
+                  <enum>(1)</enum>
+                  <header>Qualified elementary and secondary education expenses</header>
+                  <text display-inline="yes-display-inline">The term <term>qualified elementary and secondary education expenses</term> has the meaning given such term under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:530/ss:b/p:3">section 530(b)(3)</cato:entity-ref>.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idF149D34F91444C2DA15F2BE64C8C4F8F">
+                  <enum>(2)</enum>
+                  <header>Eligible student</header>
+                  <text display-inline="yes-display-inline">The term <term>eligible student</term> means any student who—</text>
+                  <subparagraph commented="no" display-inline="no-display-inline" id="idB2420517F78A490196B99260C04E6189">
+                    <enum>(A)</enum>
+                    <text display-inline="yes-display-inline">is enrolled in, or attends, any public, private, or religious school (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:530/ss:b/p:3/sp:B">section 530(b)(3)(B)</cato:entity-ref>), and</text>
+                  </subparagraph>
+                  <subparagraph commented="no" display-inline="no-display-inline" id="id4A52FC9A7BD249DA89EB11A0B3095806">
+                    <enum>(B)</enum>
+                    <text display-inline="yes-display-inline">whose principal residence (within the meaning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:123">section 123</cato:entity-ref>) is located in an Economic Freedom Zone.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id9DC29BE5DE414144AFD439BBEBDD1421">
+                  <enum>(3)</enum>
+                  <header>Economic Freedom Zone</header>
+                  <text display-inline="yes-display-inline">The term <term>Economic Freedom Zone</term> means any area which is an Economic Freedom Zone under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/t:II" proposed="true">title II of the Economic Freedom Zone Act</cato:entity-ref>.</text>
+                </paragraph>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="id628AE156E9CF49B0B13E97C508149CF3">
+          <enum>(b)</enum>
+          <header>Clerical amendment</header>
+          <text>The table of sections for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:A/pt:IV/spt:A">subpart A of part IV of subchapter A of chapter 1 of such Code</cato:entity-ref> is amended by inserting after the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:25D">section 25D</cato:entity-ref> the following new item:</text>
+          <quoted-block id="id5BAF3CBF5FEF4ABC9837B425C1DA74E6" style="OLC">
+            <toc>
+              <toc-entry level="section">Sec. 25E. Credit for qualified elementary and secondary education expenses.</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="id426A5DC6F4C1489BB5A5F6C1B3349186">
+          <enum>(c)</enum>
+          <header>Effective date</header>
+          <text>The amendments made by this section shall apply to expenditures made in taxable years beginning after the date of the enactment of this Act.</text>
+        </subsection>
+      </section>
+      <section id="id9E0F4287624A4478AAE6187EC5AC6C01">
+        <enum>502.</enum>
+        <header>School choice through portability</header>
+        <subsection id="id4BF619A36C18414DB21E781CA7FBDBAF">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Elementary and Secondary Education Act of 1965/t:I/pt:A/spt:2">Subpart 2 of part A of title I of the Elementary and Secondary Education Act of 1965</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/20/6331">
+              <cato:entity-ref entity-type="uscode" value="usc/20/6331/etseq">20 U.S.C. 6331 et seq</cato:entity-ref>.</external-xref>)</cato:entity> is amended by adding at the end the following:</text>
+          <quoted-block display-inline="no-display-inline" id="id5F091967007547629E2EA12FA4D87A81" style="OLC">
+            <section id="idFFA8B9F730E14538BC39EFF902C042C7">
+              <enum>1128.</enum>
+              <header>School choice through portability</header>
+              <subsection id="id9f12ac3361854d3ea82b16d2d99559da">
+                <enum>(a)</enum>
+                <header>Authorization</header>
+                <paragraph id="id2602BA86678C426B9CA0CDB22A31523F">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>Notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Elementary and Secondary Education Act of 1965/s:1124">sections 1124</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Elementary and Secondary Education Act of 1965/s:1124A">1124A</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Elementary and Secondary Education Act of 1965/s:1125">1125</cato:entity-ref> and any other provision of law, and to the extent permitted under State law, a State educational agency may allocate grant funds under this subpart among the local educational agencies in the State based on the formula described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Elementary and Secondary Education Act of 1965/s:1128/ss:a/p:2" proposed="true">paragraph (2)</cato:entity-ref>.</text>
+                </paragraph>
+                <paragraph id="id7697E39062554307BCA1D4FB5AA2EA42">
+                  <enum>(2)</enum>
+                  <header>Formula</header>
+                  <text>A State educational agency may allocate grant funds under this subpart for a fiscal year among the local educational agencies in the State in proportion to the number of eligible children enrolled in public schools served by the local educational agency and enrolled in State-accredited private schools within the local educational agency’s geographic jurisdiction, for the most recent fiscal year for which satisfactory data are available, compared to the number of such children in all such local educational agencies for that fiscal year.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="idB15EE04E19D74659BDC7E94E7BBE83A7">
+                <enum>(b)</enum>
+                <header>Eligible child</header>
+                <paragraph id="idBA9D568CD0EB49AB89D85FDC467CE951">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>In this section, the term <term>eligible child</term> means a child—</text>
+                  <subparagraph id="id71452DEE81F94E0DBD744243D86708FB">
+                    <enum>(A)</enum>
+                    <text>from a family with an income below the poverty level, on the basis of the most recent satisfactory data published by the Department of Commerce; and</text>
+                  </subparagraph>
+                  <subparagraph id="id1C0BB724F8354BE4A9B8C2CE325550CD">
+                    <enum>(B)</enum>
+                    <text>who resides in an Economic Freedom Zone as designated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/t:II" proposed="true">title II of the <short-title>Economic Freedom Zones Act of 2013</short-title>
+                      </cato:entity-ref>.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="ide1cf3471ad8f45e5861c7c41bc9c444c">
+                  <enum>(2)</enum>
+                  <header>Criteria of poverty</header>
+                  <text>In determining the families with incomes below the poverty level for the purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Elementary and Secondary Education Act of 1965/s:1128/ss:b/p:2" proposed="true">paragraph (2)</cato:entity-ref>, a State educational agency shall use the criteria of poverty used by the Census Bureau in compiling the most recent decennial census.</text>
+                </paragraph>
+                <paragraph id="id7534ba28f7b7468380c468eb29c9ac59">
+                  <enum>(3)</enum>
+                  <header>Identification of eligible children</header>
+                  <text>On an annual basis, on a date to be determined by the State educational agency, each local educational agency that receives grant funding in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Elementary and Secondary Education Act of 1965/s:1128/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall inform the State educational agency of the number of eligible children enrolled in public schools served by the local educational agency and enrolled in State-accredited private schools within the local educational agency’s geographic jurisdiction.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="idb277cd961a2f4c21bfcea973febe0a93">
+                <enum>(c)</enum>
+                <header>Distribution to schools</header>
+                <text>Each local educational agency that receives grant funding under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Elementary and Secondary Education Act of 1965/s:1128/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall distribute such funds to the public schools served by the local educational agency and State-accredited private schools with the local educational agency’s geographic jurisdiction—</text>
+                <paragraph id="id26bc875b24ec460ca137d313940044d1">
+                  <enum>(1)</enum>
+                  <text>based on the number of eligible children enrolled in such schools; and</text>
+                </paragraph>
+                <paragraph id="id167e436dbdd549b887625ce6488f70c3">
+                  <enum>(2)</enum>
+                  <text>in the manner that would, in the absence of such Federal funds, supplement the funds made available from the non-Federal resources for the education of pupils participating in programs under this part, and not to supplant such funds.</text>
+                </paragraph>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="idD02A40879DE8475D8506F9E25FCAE588">
+          <enum>(b)</enum>
+          <header>Table of contents</header>
+          <text>The table of contents in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Elementary and Secondary Education Act of 1965/s:2">section 2 of the Elementary and Secondary Education Act of 1965</cato:entity-ref> is amended by inserting after the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Elementary and Secondary Education Act of 1965/s:1127">section 1127</cato:entity-ref> the following:</text>
+          <quoted-block id="id285886b7-d473-4bb4-a268-d353b1c11bde" style="OLC">
+            <toc>
+              <toc-entry idref="idFFA8B9F730E14538BC39EFF902C042C7" level="section">Sec. 1128. School choice through portability.</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+      </section>
+      <section id="id0EF1D8DE884742CC95224748125FEB33">
+        <enum>503.</enum>
+        <header>Special Economic Freedom Zone visas</header>
+        <subsection id="id27004A684145402C82C7E4AF12B9AB73">
+          <enum>(a)</enum>
+          <header>Definitions</header>
+          <text>In this section:</text>
+          <paragraph id="idB4FE3B31A7CF4273A8E274F1E68567F6">
+            <enum>(1)</enum>
+            <header>Abandoned; dilapidated</header>
+            <text>The terms <term>abandoned</term> and <term>dilapidated</term> shall be defined by the States in accordance with the provisions of this Act.</text>
+          </paragraph>
+          <paragraph id="idAAB55D1781CA4D638E61899D36584C2A">
+            <enum>(2)</enum>
+            <header>Full-time employment</header>
+            <text>The term <term>full-time employment</term> means employment in a position that requires at least 35 hours of service per week at any time, regardless of who fills the position.</text>
+          </paragraph>
+        </subsection>
+        <subsection id="idE6EFE6F88E5442298FA8D968615A5DEB">
+          <enum>(b)</enum>
+          <header>Purpose</header>
+          <text>The purpose of this section is to facilitate increased investment and enhanced human capital in Economic Freedom Zones through the issuance of special regional visas.</text>
+        </subsection>
+        <subsection id="idC808DA27E81F4090A9A3A0805F457291">
+          <enum>(c)</enum>
+          <header>Authorization</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary of Homeland Security</cato:entity-ref>, in collaboration with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1600">Secretary of Labor</cato:entity-ref>, may issue Special Economic Freedom Zone Visas, in a number determined by the Governor of each State, in consultation with local officials in regions designated by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref> as Economic Freedom Zones, to authorize qualified aliens to enter the United States for the purpose of—</text>
+          <paragraph id="idFB756D54B550484AAD5FF62FFEF33472">
+            <enum>(1)</enum>
+            <text>engaging in a new commercial enterprise (including a limited partnership)—</text>
+            <subparagraph id="id4DD57F572DA8431F9FA87FAFA1DD6396">
+              <enum>(A)</enum>
+              <text>in which such alien has invested, or is actively in the process of investing, capital in an amount not less than the amount specified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/s:503/ss:d" proposed="true">subsection (d)</cato:entity-ref>; and</text>
+            </subparagraph>
+            <subparagraph id="idF955FEEA3E314FE7985BAA9EA84FFEFA">
+              <enum>(B)</enum>
+              <text>which will benefit the region designated as an Economic Freedom Zone by creating full-time employment of not fewer than 5 United States citizens, aliens lawfully admitted for permanent residence, or other immigrants lawfully authorized to be employed in the United States (excluding the alien and the alien’s immediate family);</text>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="idC0242BDE9D38436C9642957A4E156917">
+            <enum>(2)</enum>
+            <text>engaging in the purchase and renovation of dilapidated or abandoned properties or residences (as determined by State and local officials) in which such alien has invested, or is actively in the process of investing, in the ownership of such properties or residences; or</text>
+          </paragraph>
+          <paragraph id="id7162AF12E8F2442D9962CE40AECB946D">
+            <enum>(3)</enum>
+            <text>residing and working in an Economic Freedom Zone.</text>
+          </paragraph>
+        </subsection>
+        <subsection id="id6E906DE0DC52442CB6539D3436247701">
+          <enum>(d)</enum>
+          <header>Effective period</header>
+          <text>A visa issued to an alien under this section shall expire on the later of—</text>
+          <paragraph id="id2E1BB69F4BA24E8AB10EF782CA0171D8">
+            <enum>(1)</enum>
+            <text>the date on which the relevant Economic Freedom Zone loses such designation; or</text>
+          </paragraph>
+          <paragraph id="id6008BA154A874300A574AC17167F5C52">
+            <enum>(2)</enum>
+            <text>the date that is 5 years after the date on which such visa was issued to such alien.</text>
+          </paragraph>
+        </subsection>
+        <subsection id="id0024CBEAF357469285394A50E77437A1">
+          <enum>(e)</enum>
+          <header>Capital and educational requirements</header>
+          <paragraph id="id0CA80A26D42E4A26A18272FF3941C2FB">
+            <enum>(1)</enum>
+            <header>New commercial enterprises</header>
+            <text>Except as otherwise provided under this section, the minimum amount of capital required to comply with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/s:503/ss:c/p:1/sp:A" proposed="true">subsection (c)(1)(A)</cato:entity-ref> shall be $50,000.</text>
+          </paragraph>
+          <paragraph id="id234EC2B3B1D54DCA95AC33D3A2C1F79A">
+            <enum>(2)</enum>
+            <header>Renovation of dilapidated or abandoned properties</header>
+            <text>An alien is not in compliance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/s:503/ss:c/p:2" proposed="true">subsection (c)(2</cato:entity-ref>) unless the alien—</text>
+            <subparagraph id="id22FF7F9F5D214B79895267960F381F97">
+              <enum>(A)</enum>
+              <text>purchases a dilapidated or abandoned property in an Economic Freedom Zone; and</text>
+            </subparagraph>
+            <subparagraph id="idA135FFF6E8B14150B2E4CEBFE7B1DCB1">
+              <enum>(B)</enum>
+              <text>not later than 18 months after such purchase, invests not less than $25,000 to rebuild, rehabilitate, or repurpose the property.</text>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="idFEEED82882F640B4AD04A28187D59115">
+            <enum>(3)</enum>
+            <header>Verification</header>
+            <text>A visa issued under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/s:503/ss:c" proposed="true">subsection (c)</cato:entity-ref> shall not remain in effect for more than 2 years unless the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary of Homeland Security</cato:entity-ref> has verified that the alien has complied with the requirements described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/s:503/ss:c" proposed="true">subsection (c)</cato:entity-ref>.</text>
+          </paragraph>
+          <paragraph id="idFAA38DC7B4EC413CACBD934A7CDF8788">
+            <enum>(4)</enum>
+            <header>Education and skill requirements</header>
+            <text>An alien is not in compliance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/s:503/ss:c/p:3" proposed="true">subsection (c)(3)</cato:entity-ref> unless the alien possesses—</text>
+            <subparagraph id="id9D12090979524C67AFD65AA613CA7FAC">
+              <enum>(A)</enum>
+              <text>a bachelor’s degree (or its equivalent) or an advanced degree;</text>
+            </subparagraph>
+            <subparagraph id="idBB796452C8B94AECBF14CAD4A81457F8">
+              <enum>(B)</enum>
+              <text>a degree or specialty certification that—</text>
+              <clause id="idEE8AE584D6314660BE29A31A7029AA9E">
+                <enum>(i)</enum>
+                <text>is required for the job the alien will be performing; and</text>
+              </clause>
+              <clause id="id74DBCD16049E4B5EAF314DAD66BC3333">
+                <enum>(ii)</enum>
+                <text>is specific to an industry or job that is so complex or unique that it can be performed only by an individual with the specialty certification;</text>
+              </clause>
+            </subparagraph>
+            <subparagraph id="id54B741C0E2CF426681C30F190ADD62FB">
+              <enum>(C)</enum>
+              <clause commented="no" display-inline="yes-display-inline" id="id785D156E2B7C43498A96A0108A04FCCA">
+                <enum>(i)</enum>
+                <text>the knowledge required to perform the duties of the job the alien will be performing; and</text>
+              </clause>
+              <clause id="id1D948050369E4B7E994C9AB9012AA6B0" indent="up1">
+                <enum>(ii)</enum>
+                <text>the nature of the specific duties is so specialized and complex that such knowledge is usually associated with attainment of a bachelor’s or higher degree;  or</text>
+              </clause>
+            </subparagraph>
+            <subparagraph id="id9A1C71CE844E40C68CE8D1B87191549B">
+              <enum>(D)</enum>
+              <text>a skill or talent that would benefit the Economic Freedom Zone.</text>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection id="id68FAA85C86F3466CA2A54A776DF20AD1">
+          <enum>(f)</enum>
+          <header>Additional provisions</header>
+          <paragraph id="id9EED53D98F104DFDA7D94B113F3D7812">
+            <enum>(1)</enum>
+            <header>Geographic limitation</header>
+            <text>An alien who has been issued a visa under this section is not permitted to live or work outside of an Economic Freedom Zone.</text>
+          </paragraph>
+          <paragraph id="id913321A053F54A4283A5CEBC29A4CC6B">
+            <enum>(2)</enum>
+            <header>Rescission</header>
+            <text>A visa issued under this section shall be rescinded if the visa holder resides or works outside of an Economic Freedom Zone or otherwise fails to comply with the provisions of this section.</text>
+          </paragraph>
+          <paragraph id="idCB14D83592BB4DE79F567CA347CE0AC6">
+            <enum>(3)</enum>
+            <header>Other visas</header>
+            <text>An alien who has been issued a visa under this section may apply for any other visa for which the alien is eligible in order to pursue employment outside of an Economic Freedom Zone.</text>
+          </paragraph>
+        </subsection>
+        <subsection id="idA1E6B983803047B2938D06ADC1BFCFDC">
+          <enum>(g)</enum>
+          <header>Adjustment of status</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary of Homeland Security</cato:entity-ref> may adjust the status of an alien who has been issued a visa under this section to that of an alien lawfully admitted for permanent residence, without numerical limitation, if the alien—</text>
+          <paragraph id="id451A57602C104929A36B86FDB720F6E3">
+            <enum>(1)</enum>
+            <text>has fully complied with the requirements set forth in this section for at least 5 years;</text>
+          </paragraph>
+          <paragraph id="id61CB4408984640C8B46B138CE73C387F">
+            <enum>(2)</enum>
+            <text>submits a completed application to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>; and</text>
+          </paragraph>
+          <paragraph id="idCD7E3029A0A3406EBE2967EB1AE91EAC">
+            <enum>(3)</enum>
+            <text>is not inadmissible to the United States based on any of the factors set forth in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Immigration and Nationality Act/s:212/ss:a">section 212(a) of the Immigration and Nationality Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/8/1182">
+                <cato:entity-ref entity-type="uscode" value="usc/8/1182/a">8 U.S.C. 1182(a)</cato:entity-ref>
+              </external-xref>)</cato:entity>.</text>
+          </paragraph>
+        </subsection>
+      </section>
+      <section id="idA15779A33AC44AD9A9590EBE5C81AA9C">
+        <enum>504.</enum>
+        <header>Economic Freedom Zone educational savings accounts</header>
+        <subsection id="id05C4E8060B0C4AF1BC717D2F5C4A93E2">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:F/pt:VIII">Part VIII of subchapter F of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by adding at the end the following new section:</text>
+          <quoted-block display-inline="no-display-inline" id="idABFB4065F6114C4294CF3E2CE7634C72" style="OLC">
+            <section id="id9A874F5F52B34D9DB941123167143E1D">
+              <enum>530A.</enum>
+              <header>Economic Freedom Zone educational savings accounts</header>
+              <subsection id="idD855648E825245A396190DC2E528946B">
+                <enum>(a)</enum>
+                <header>In general</header>
+                <text>Except as provided in this section, an Economic Freedom Zone educational savings account shall be treated for purposes of this title in the same manner as a Coverdell  education savings account.</text>
+              </subsection>
+              <subsection id="id787E8AE4EFD14F9DA8E8C5A719268E79">
+                <enum>(b)</enum>
+                <header>Definitions</header>
+                <text>For purposes of this section—</text>
+                <paragraph id="idA36B96DB19A841E4ABCE00440CE0016D">
+                  <enum>(1)</enum>
+                  <header>Economic Freedom Zone educational savings account</header>
+                  <text>The term <term>Economic Freedom Zone educational savings account</term> means a trust created or organized in the United States exclusively for the purpose of paying the qualified education expenses (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:530/ss:b/p:2">section 530(b)(2)</cato:entity-ref>) of an individual who is the designated beneficiary of the trust (and designated as an Economic Freedom Zone educational saving account at the time created or organized) and who is a qualified individual at the time such trust is established, but only if the written governing instrument creating the trust meets the following requirements:</text>
+                  <subparagraph id="id6a79c2cbeb3d40fface8cf2d7a109163">
+                    <enum>(A)</enum>
+                    <text>No contribution will be accepted—</text>
+                    <clause id="id4b2a1bfeea6e46979e3e6016812d4129">
+                      <enum>(i)</enum>
+                      <text>unless it is in cash,</text>
+                    </clause>
+                    <clause id="id1fc42e36673c4d449b7b1d2ed9c18d75">
+                      <enum>(ii)</enum>
+                      <text>after the date on which such beneficiary attains age 25, or</text>
+                    </clause>
+                    <clause id="idc27e48773f7e4132b7d78b1d7acf1b8f">
+                      <enum>(iii)</enum>
+                      <text>except in the case of rollover contributions, if such contribution would result in aggregate contributions for the taxable year exceeding $10,000.</text>
+                    </clause>
+                  </subparagraph>
+                  <subparagraph id="id1CC6C00D2F894087B015833A1DCBF4CE">
+                    <enum>(B)</enum>
+                    <text>No contribution shall be accepted at any time in which the designated beneficiary is not a qualified individual.</text>
+                  </subparagraph>
+                  <subparagraph id="id1FE8EFB51D524DB58889A3BB2A845D0E">
+                    <enum>(C)</enum>
+                    <text>The trust meets the requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:530/ss:b/p:1/sp:B">subparagraphs (B)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:530/ss:b/p:1/sp:C">(C)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:530/ss:b/p:1/sp:D">(D)</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:530/ss:b/p:1/sp:E">(E) of section 530(b)(1)</cato:entity-ref>.</text>
+                  </subparagraph>
+                  <continuation-text continuation-text-level="paragraph">The age limitations in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:530/ss:b/p:1/sp:A/cl:ii">subparagraphs (A)(ii)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:530/ss:b/p:1/sp:E">subparagraph (E) of section 530(b)(1)</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:530/ss:d/p:5">paragraphs (5)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:530/ss:d/p:6">(6) of section 530(d)</cato:entity-ref>, shall not apply to any designated beneficiary with special needs (as determined under regulations prescribed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>).</continuation-text>
+                </paragraph>
+                <paragraph id="idE2194667CBDC4B9086D4A97EC449A3F1">
+                  <enum>(2)</enum>
+                  <header>Qualified individual</header>
+                  <text>The term <term>qualified individual</term> means any individual whose principal residence (within the meaning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:121">section 121</cato:entity-ref>) is located in an Economic Freedom Zone (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1400V–6" proposed="true">section 1400V–6</cato:entity-ref>).</text>
+                </paragraph>
+              </subsection>
+              <subsection id="id7E0790F88A064176B90043BBD901878B">
+                <enum>(c)</enum>
+                <header>Deduction for contributions</header>
+                <paragraph id="id90CCB9E7F20A4F5F9ABE3F54BBBCD7B8">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>There shall be allowed as a deduction under part VII of subchapter B of this chapter an amount equal to the aggregate amount of contributions made by the taxpayer to any Economic Freedom Zone educational savings account during the taxable year.</text>
+                </paragraph>
+                <paragraph id="idF6EF234C82744B8CAAA36EEF74D0E3DE">
+                  <enum>(2)</enum>
+                  <header>Limitation</header>
+                  <text>The amount of the deduction allowed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:530A/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref> for any taxpayer for any taxable year shall not exceed $40,000.</text>
+                </paragraph>
+                <paragraph id="id90EF42BA62BE41D98E922DABFC0F9782">
+                  <enum>(3)</enum>
+                  <header>No deduction for rollover contributions</header>
+                  <text>No deduction shall be allowed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:530A/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref> for any rollover contribution described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:530/ss:d/p:5">section 530(d)(5)</cato:entity-ref>.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="id489A72298D5948FF8B5637B13986149C">
+                <enum>(d)</enum>
+                <header>Other rules</header>
+                <paragraph id="idB94740D299AF491CB4A96319C3F525E3">
+                  <enum>(1)</enum>
+                  <header>No income limit</header>
+                  <text>In the case of an Economic Freedom Zone educational savings account, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:530/ss:c">subsection (c) of section 530</cato:entity-ref> shall not apply.</text>
+                </paragraph>
+                <paragraph id="id6641A314E4144B8A917B6F52ADE04EFE">
+                  <enum>(2)</enum>
+                  <header>Change in beneficiaries</header>
+                  <text>Notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:530/ss:b/p:6">paragraph (6) of section 530(b)</cato:entity-ref>, a change in the beneficiary of an Economic Freedom Zone education savings account shall be treated as a distribution unless the new beneficiary is a qualified individual.</text>
+                </paragraph>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="id629F1C34168E458EBC13BF4D5380BE17">
+          <enum>(b)</enum>
+          <header>Clerical amendment</header>
+          <text>The  table of sections for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:F/pt:VIII">part VIII of subchapter F of chapter 1 of such Code</cato:entity-ref> is amended by adding at the end the following new item:</text>
+          <quoted-block id="id38e71b80-1932-4db4-ba6c-992682d8065d" style="OLC">
+            <toc>
+              <toc-entry idref="id9A874F5F52B34D9DB941123167143E1D" level="section">Sec. 530A. Economic Freedom Zone educational savings accounts.</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+      </section>
+    </title>
+    <title id="idCF28F621CFAA42918CD02B1212B970B5" style="OLC">
+      <enum>VI</enum>
+      <header>Community assistance and rebuilding</header>
+      <section id="id06527C8B3EA64FBA825EEC3101F51FED">
+        <enum>601.</enum>
+        <header>Nonapplication of Davis-Bacon</header>
+        <text display-inline="no-display-inline">The wage rate requirements of <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="uscode" value="usc-chapter/40/31/IV">subchapter IV of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/40/31">chapter 31</external-xref> of title 40, United States Code</cato:entity-ref> (commonly referred to as the <quote>
+              <cato:entity-ref entity-type="act" value="Davis-Bacon Act">Davis-Bacon Act</cato:entity-ref>
+            </quote>)</cato:entity>, shall not apply with respect to any area designated as an Economic Freedom Zone under this Act.</text>
+      </section>
+      <section id="id6049FBB2960F40FB8DCD83136D575131">
+        <enum>602.</enum>
+        <header>Economic Freedom Zone charitable tax credit</header>
+        <subsection id="idF9342102F8C0435C878DFE356A8D766E">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text>
+            <external-xref legal-doc="usc" parsable-cite="usc/11/170">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/170">Section 170</cato:entity-ref>
+            </external-xref> is amended by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/170/p">subsection (p)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/170/q" proposed="true">subsection (q</cato:entity-ref>) and by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/170/o">subsection (o)</cato:entity-ref> the following new subsection:</text>
+          <quoted-block display-inline="no-display-inline" id="idB6B154D2784B40CD9688AB6E9D00E87D" style="OLC">
+            <subsection id="id4DC71293EE9E48468D9BDDC95E13181F">
+              <enum>(o)</enum>
+              <header>Election To treat contributions for Economic Freedom Zone charities as a credit</header>
+              <paragraph id="idFB08AF8ED06B45A08B845796C8487CC9">
+                <enum>(1)</enum>
+                <header>In general</header>
+                <text>In the case of an individual, at the election of the taxpayer, so much of the deduction allowed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/170/a">subsection (a)</cato:entity-ref> (determined without regard to this subsection) which is attributable to Economic Freedom Zone charitable contributions—</text>
+                <subparagraph id="id01F7F15195C946CEA06B294044829362">
+                  <enum>(A)</enum>
+                  <text>shall be allowed as a credit against the tax imposed by this chapter for the taxable year, and</text>
+                </subparagraph>
+                <subparagraph id="idDB38F8C129AD461598A76B6EB50D4276">
+                  <enum>(B)</enum>
+                  <text>shall not be allowed as a deduction for such taxable year under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/170/a">subsection (a)</cato:entity-ref>.</text>
+                </subparagraph>
+                <continuation-text continuation-text-level="paragraph">Any amount allowable as a credit under this subsection shall be treated as a credit allowed under subpart A of part IV of subchapter A for purposes of this title.</continuation-text>
+              </paragraph>
+              <paragraph id="id68E83CC3A2644AB994C9DE7270C77858">
+                <enum>(2)</enum>
+                <header>Amount attributable to Economic Freedom Zone charitable contributions</header>
+                <text>For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/170/o/1" proposed="true">paragraph (1)</cato:entity-ref>—</text>
+                <subparagraph id="idB5067342C91A49A9B5937D6796060C99">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+                  <text>In any case in which the total charitable contributions of a taxpayer for a taxable year exceed the contribution base, the amount of Economic Freedom Zone charitable contributions taken into account under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/170/o/1" proposed="true">paragraph (1)</cato:entity-ref> shall be the amount  which bears the same ratio to the total charitable contributions made by the taxpayer during such taxable year as the amount of the deduction allowed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/170/a">subsection (a)</cato:entity-ref> (determined without regard to this subsection and after application of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/170/b">subsection (b)</cato:entity-ref>) bears to the total charitable contributions made by the taxpayer for such taxable year.</text>
+                </subparagraph>
+                <subparagraph id="id5ED1D119D53D431381C0EEE15932D1F8">
+                  <enum>(B)</enum>
+                  <header>Carryovers</header>
+                  <text>In the case of any contribution carried from a preceding taxable year under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/170/d">subsection (d)</cato:entity-ref>, such amount shall be treated as attributable to an Economic Freedom Zone charitable contribution in the amount that bears the same ratio to the total amount carried from preceding taxable years under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/170/d">subsection (d)</cato:entity-ref> as the amount of Economic Freedom Zone charitable contributions not allowed as a deduction under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/170/a">subsection (a)</cato:entity-ref> (other than by reason of this subsection) for the preceding 5 taxable year bears to total amount carried from preceding taxable years under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/170/d">subsection (d)</cato:entity-ref>.</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="id665C4E7422CF4F6687F4FCF73C8C497C">
+                <enum>(3)</enum>
+                <header>Economic Freedom Zone charitable contribution</header>
+                <text>The term <term>Economic Freedom Zone charitable contribution</term> means any contribution to a corporation, trust, or community chest fund, or foundation described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/40/170/c/2">subsection (c)(2)</cato:entity-ref>, but only if—</text>
+                <subparagraph id="idC5C770A651134EEDA4BFE03E539E6723">
+                  <enum>(A)</enum>
+                  <text>such entity is created or organized exclusively for—</text>
+                  <clause id="idE169676E827A46F596C5E2B9E42621FE">
+                    <enum>(i)</enum>
+                    <text>religious purposes,</text>
+                  </clause>
+                  <clause id="idFBFE3CD3477E41C9A396EC8F7C8F5055">
+                    <enum>(ii)</enum>
+                    <text>educational purposes, or</text>
+                  </clause>
+                  <clause id="idB73E2A666CBE4A0681BFBC23CD423119">
+                    <enum>(iii)</enum>
+                    <text>any of the following charitable purposes: providing educational scholarships, providing shelters for homeless individuals, or setting up or maintaining food banks,</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="id7883B420818B41659EBCC51AA82583CA">
+                  <enum>(B)</enum>
+                  <text>the primary mission of such entity is serving individuals in an Economic Freedom Zone,</text>
+                </subparagraph>
+                <subparagraph id="id3C0B395790D8402096AB4364BF354587">
+                  <enum>(C)</enum>
+                  <text>the entity maintains accountability to residents of such Economic Freedom Zone through their representation on any governing board of the entity or any advisory board to the entity, and</text>
+                </subparagraph>
+                <subparagraph id="idE5D291D3806F43F09EAC9EE882FA5838">
+                  <enum>(D)</enum>
+                  <text>the entity is certified by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> for purposes of this subsection.</text>
+                </subparagraph>
+                <continuation-text continuation-text-level="paragraph">Such term shall not include any contribution made to an entity described in the preceding sentence after the date in which the designation of the Economic Freedom Zone serviced by such entity lapses.</continuation-text>
+              </paragraph>
+              <paragraph commented="no" display-inline="no-display-inline" id="id6FD888C92EC74A0C8AA5BDB464B4B6F7">
+                <enum>(4)</enum>
+                <header display-inline="yes-display-inline">Economic Freedom Zone</header>
+                <text display-inline="yes-display-inline">The term <term>Economic Freedom Zone</term> means any area which is an Economic Freedom Zone under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Economic Freedom Zones Act of 2013/t:II" proposed="true">title II of the Economic Freedom Zone Act</cato:entity-ref>.</text>
+              </paragraph>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="id21D240C09C4E4BE8A87B306CDC7084F2">
+          <enum>(b)</enum>
+          <header>Effective date</header>
+          <text>The amendments made by this section shall apply to taxable years beginning after the date of the enactment of this Act.</text>
+        </subsection>
+      </section>
+    </title>
+    <title id="id12D1A352231F4A9099EEB50ABE316BCF" style="OLC">
+      <enum>VII</enum>
+      <header>State and community policy recommendations</header>
+      <section id="id11BE39013F3A41028350414484D68B35">
+        <enum>701.</enum>
+        <header>Sense of the Senate concerning policy recommendations</header>
+        <text display-inline="no-display-inline">It is the sense of the Senate that State and local governments should review and adopt the following policy recommendations:</text>
+        <paragraph id="id94b22010cebf4fb3875668d1d5c9e55f">
+          <enum>(1)</enum>
+          <header>Pension reform</header>
+          <text>State and local governments should—</text>
+          <subparagraph id="id6523DB48BA1B43F68513CA8B8B739F2D">
+            <enum>(A)</enum>
+            <text>implement reforms to address any fiscal shortfall in public pension funding, including utilizing accrual accounting methods, such as those reforms undertaken by the private sector pension funds; and</text>
+          </subparagraph>
+          <subparagraph id="id79a625e5427049ae89290435abbe4808">
+            <enum>(B)</enum>
+            <text>restructure and renegotiate any public pension fund that is deemed to be insolvent or underfunded, including adopting defined contribution retirement systems.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="id8cdcd60edb3a47af8f599f74c2b0b442">
+          <enum>(2)</enum>
+          <header>Taxes</header>
+          <text>State and local governments should reduce jurisdictional tax rates below the national average in order to help facilitate capital investment and economic growth, particularly in combination with the provisions of this Act.</text>
+        </paragraph>
+        <paragraph id="ide7b2801401d5434bb6bf23c5ee0f09de">
+          <enum>(3)</enum>
+          <header>Education</header>
+          <text>State and local governments should adopt school choice options to provide children and parents more educational choices, particularly in impoverished areas.</text>
+        </paragraph>
+        <paragraph id="id61e717fbe2404495b45ead49d2bf42ab">
+          <enum>(4)</enum>
+          <header>Communities</header>
+          <text>State and local governments should adopt right-to-work laws to allow more competitiveness and more flexibility for businesses to expand.</text>
+        </paragraph>
+        <paragraph id="id5e57793b27c840019abb9a1b235b1d22">
+          <enum>(5)</enum>
+          <header>Regulations</header>
+          <text>State and local governments should streamline the regulatory burden on families and businesses, including streamlining the opportunities for occupational licensing.</text>
+        </paragraph>
+        <paragraph id="id6f62ebc49e4344aeb757add40920b762">
+          <enum>(6)</enum>
+          <header>Abandoned structures</header>
+          <text>State and local governments should consider the following options to reduce or fix areas with abandoned properties or residences:</text>
+          <subparagraph id="idf2fe168f1c3f43e5b171bb13d263415c">
+            <enum>(A)</enum>
+            <text>In the case of foreclosures, tax notifications should be sent to both the lien holder (if different than the homeowner) and the homeowner.</text>
+          </subparagraph>
+          <subparagraph id="ide729573d51d644909eaf8afe1697ee61">
+            <enum>(B)</enum>
+            <text>Where State constitutions permit, property tax abatement or credits should be provided for individuals who purchase or invest in abandoned or dilapidated properties.</text>
+          </subparagraph>
+          <subparagraph id="id36d61fb58fa94ee685a834030d255d24">
+            <enum>(C)</enum>
+            <text>Non-profit or charity demolition entities  should be permitted or encouraged to help remove abandoned properties.</text>
+          </subparagraph>
+          <subparagraph id="id3632f12b02d74f29b433a16fd975be05">
+            <enum>(D)</enum>
+            <text>Government or municipality fees and penalties should be limited, and be proportional to the outstanding tax amount and the ability to pay.</text>
+          </subparagraph>
+          <subparagraph id="id720985c769e440cf80aca7a6e350062a">
+            <enum>(E)</enum>
+            <text>The sale of tax liens to third parties should be reviewed, and where available, should prohibit the selling of tax liens below a certain threshold (for example the prohibition of the sale of tax liens to third parties under $1,000).</text>
+          </subparagraph>
+        </paragraph>
+      </section>
+    </title>
+  </legis-body>
+</bill>
+</doc>
