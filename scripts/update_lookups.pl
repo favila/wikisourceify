@@ -75,21 +75,12 @@ $DEBUG and print "\nProcessing public laws: ";
 while ( my $pl_row = $pl_csv->getline_hr( $public_laws ) ) {
 	$DEBUG and print ".";
 	#build the xml
-	#in the csv:
-		#columns: ID	ParentID	Abbr	OfficialName	HistoricalName	LeadershipName	Wikipedia
-	#for the local wikipedia:
-		#<item id="9554" name="Interagency Council on the Homeless" wikipedia="United States Interagency Council on Homelessness" />
 	$clientplXML->emptyTag("item", 
-			id=>$pl_row->{'ID'}, 
-			name=>$pl_row->{'Name'},
-			wikipedia=>$pl_row->{'Wikipedia'}
+			id=>$pl_row->{'Public law number'}, 
+			name=>$pl_row->{'Popular Name'},
+			wikipedia=>$pl_row->{'Wikipedia article name'}
 		);
-	# for the server:
-	#   <entitites>
-	#	<entity id="0500" parent-id="0000"><name role="official">Government Accountability Office</name>
-	#     		<name role="historical">General Accounting Office</name><name role="leadership">Comptroller General of the United States</name>
-	#     		<abbr>GAO</abbr>
-	# 	</entity>
+
 	$serverplXML->startTag("entity", id=>$pl_row->{'Name'});
 	$serverplXML->dataElement("name", $pl_row->{'Name'});
 	$serverplXML->endTag("entity");
