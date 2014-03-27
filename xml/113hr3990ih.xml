@@ -1,0 +1,1941 @@
+<doc>
+  <docmeta id="113hr3990ih">
+    <bill congress="113" type="hr" number="3990" version="ih"/>
+    <revision size="97739" annotations="0" status="complete" id="14" commit-time="2014-03-18T16:36:15Z" committer="mbohmer" doc="113hr3990ih/14.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H1C2138710F7849FE82D46199C5286969" public-private="public">
+  <metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 3990 IH: Personal Data Privacy and Security Act of 2014</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-02-04</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code>
+    <congress>113th CONGRESS</congress>
+    <session>2d Session</session>
+    <legis-num>H. R. 3990</legis-num>
+    <current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+    <action>
+      <action-date date="20140204">February 4, 2014</action-date>
+      <action-desc>
+        <sponsor name-id="S001170">Ms. Shea-Porter</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HJU00">Committee on the Judiciary</committee-name>, and in addition to the Committees on <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, <committee-name committee-id="HBA00">Financial Services</committee-name>, <committee-name committee-id="HGO00">Oversight and Government Reform</committee-name>, and <committee-name committee-id="HBU00">the Budget</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+    </action>
+    <legis-type>A BILL</legis-type>
+    <official-title>To prevent and mitigate identity theft, to ensure privacy, to provide notice of security breaches, and to enhance criminal penalties, law enforcement assistance, and other protections against security breaches, fraudulent access, and misuse of personally identifiable information.</official-title>
+  </form>
+  <legis-body id="HA9C13A1F7DA044A986A2DAF56D5BA930" style="OLC">
+    <section id="HF1069BAB52A5456F8DF291B13E36B65C" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title; table of contents</header>
+      <subsection id="H03CAFE47F04C4C5D93107CF3F8F44552">
+        <enum>(a)</enum>
+        <header>Short title</header>
+        <text display-inline="yes-display-inline">This Act may be cited as the <quote>
+            <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Personal Data Privacy and Security Act of 2014" entity-type="act">Personal Data Privacy and Security Act of 2014</cato:entity-ref>
+            </short-title>
+          </quote>.</text>
+      </subsection>
+      <subsection id="H0BA5AC6D3E8E41288455B20D368A9FEA">
+        <enum>(b)</enum>
+        <header>Table of Contents</header>
+        <text>The table of contents of this Act is as follows:</text>
+        <toc>
+          <toc-entry idref="HF1069BAB52A5456F8DF291B13E36B65C" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+          <toc-entry idref="H6CBA34CE74924FE3A445BA244E779D3D" level="section">Sec. 2. Findings.</toc-entry>
+          <toc-entry idref="H522BA22560864EE3835C60C3D8101E91" level="section">Sec. 3. Definitions.</toc-entry>
+          <toc-entry idref="H78B122A5076842A9A3413486806CB587" level="title">TITLE I—Enhancing punishment for identity theft and other violations of data privacy and security</toc-entry>
+          <toc-entry idref="HD5EF3621763247EE84E46A3147E7B7EC" level="section">Sec. 101. Organized criminal activity in connection with unauthorized access to personally identifiable information.</toc-entry>
+          <toc-entry idref="H511DE8970EB8470F948BD5882560CEC4" level="section">Sec. 102. Concealment of security breaches involving sensitive personally identifiable information.</toc-entry>
+          <toc-entry idref="H9FA3329BFC3A4E9CB12EBE5CE94F5D26" level="section">Sec. 103. Penalties for fraud and related activity in connection with computers.</toc-entry>
+          <toc-entry idref="HC9BD6A3698CE4663A4A78A6B0C63D74A" level="section">Sec. 104. Trafficking in passwords.</toc-entry>
+          <toc-entry idref="H6516F93708A9443381C5CB134B0B68D0" level="section">Sec. 105. Conspiracy and attempted computer fraud offenses.</toc-entry>
+          <toc-entry idref="HBDB5A1FE4CCB439EA15832E23A428DC5" level="section">Sec. 106. Criminal and civil forfeiture for fraud and related activity in connection with computers.</toc-entry>
+          <toc-entry idref="H5726F28DA25E4AED820A5584D74B918D" level="section">Sec. 107. Limitation on civil actions involving unauthorized use.</toc-entry>
+          <toc-entry idref="H1A78917B713144CDA056F4054314FB2F" level="section">Sec. 108. Reporting of certain criminal cases.</toc-entry>
+          <toc-entry idref="H65310A1065384B7286ACE626CAC52404" level="section">Sec. 109. Damage to critical infrastructure computers.</toc-entry>
+          <toc-entry idref="H842908A646FE4E80B07126755AE8DDD9" level="section">Sec. 110. Limitation on actions involving unauthorized use.</toc-entry>
+          <toc-entry idref="H7228027CA7B346B38A784169EF34B77F" level="title">TITLE II—Privacy and security of personally identifiable information</toc-entry>
+          <toc-entry idref="HFA74C187C75042A7B8D4C271F9823418" level="subtitle">Subtitle A—A Data Privacy and Security Program</toc-entry>
+          <toc-entry idref="HE77151929F7B47DCA777653C73432C63" level="section">Sec. 201. Purpose and applicability of data privacy and security program.</toc-entry>
+          <toc-entry idref="HAFD19509A5F54EFDAA28F1DE108D0178" level="section">Sec. 202. Requirements for a personal data privacy and security program.</toc-entry>
+          <toc-entry idref="H2BB440410C6C479EA02A2B9C20CC51EE" level="section">Sec. 203. Enforcement.</toc-entry>
+          <toc-entry idref="H1A26A9FC9B684E21B93CD3F160D5064D" level="section">Sec. 204. Relation to other laws.</toc-entry>
+          <toc-entry idref="H7FAFABDF97A54071AED05A745E2BBFC1" level="subtitle">Subtitle B—Security Breach Notification</toc-entry>
+          <toc-entry idref="H24B50A28D8554D7E9AD6261871811FE2" level="section">Sec. 211. Notice to individuals.</toc-entry>
+          <toc-entry idref="HD3256C3D686440FAB61EF45D976E50D7" level="section">Sec. 212. Exemptions.</toc-entry>
+          <toc-entry idref="H5D4C265EA0F14868834E5A3962C472CD" level="section">Sec. 213. Methods of notice.</toc-entry>
+          <toc-entry idref="H775865DB438548D09C9E01C466CCEF1B" level="section">Sec. 214. Content of notification.</toc-entry>
+          <toc-entry idref="H4CC953000BDC49FEB032FBDEBC3A5841" level="section">Sec. 215. Coordination of notification with credit reporting agencies.</toc-entry>
+          <toc-entry idref="H5543983357284D43A7EA1B6AAB8950BE" level="section">Sec. 216. Notice to law enforcement.</toc-entry>
+          <toc-entry idref="HF91FDBD6DD3D4A21B396F5F63EB96EC9" level="section">Sec. 217. Enforcement.</toc-entry>
+          <toc-entry idref="HC9EFB938A50A413E8AA490785EEA3707" level="section">Sec. 218. Enforcement by State attorneys general.</toc-entry>
+          <toc-entry idref="H487422E19C9A4C46981412391D5859CA" level="section">Sec. 219. Effect on Federal and State law.</toc-entry>
+          <toc-entry idref="H903D8FA58BA54E398A78BD89AF159000" level="section">Sec. 220. Reporting on exemptions.</toc-entry>
+          <toc-entry idref="H5C27282B26994993A4F1B67D0179089F" level="section">Sec. 221. Effective date.</toc-entry>
+          <toc-entry idref="H91ADC7999CD44CCD9BD6748EA7F5D98F" level="title">TITLE III—Compliance with statutory Pay-As-You-Go Act</toc-entry>
+          <toc-entry idref="HEE2709548FBD46EBA8835767876AA571" level="section">Sec. 301. Budget compliance.</toc-entry>
+        </toc>
+      </subsection>
+    </section>
+    <section id="H6CBA34CE74924FE3A445BA244E779D3D">
+      <enum>2.</enum>
+      <header>Findings</header>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds that—</text>
+      <paragraph id="HCFB085ED3DE644918531833230AFB209">
+        <enum>(1)</enum>
+        <text>databases of personally identifiable information are increasingly prime targets of hackers, identity thieves, rogue employees, and other criminals, including organized and sophisticated criminal operations;</text>
+      </paragraph>
+      <paragraph id="H388AB7C5D1B34350BF3ECB90CDF8CAA6">
+        <enum>(2)</enum>
+        <text>identity theft is a serious threat to the Nation's economic stability, national security, homeland security, cybersecurity, the development of e-commerce, and the privacy rights of Americans;</text>
+      </paragraph>
+      <paragraph id="H250BCB8B1108459BAC67D7B43B6930BA">
+        <enum>(3)</enum>
+        <text>security breaches are a serious threat to consumer confidence, homeland security, national security, e-commerce, and economic stability;</text>
+      </paragraph>
+      <paragraph id="H53F61C4C5AAB40E99FF51C5A57C26820">
+        <enum>(4)</enum>
+        <text>it is important for business entities that own, use, or license personally identifiable information to adopt reasonable procedures to ensure the security, privacy, and confidentiality of that personally identifiable information;</text>
+      </paragraph>
+      <paragraph id="HA947B7E65CED4B22B5FE416F879E7C2E">
+        <enum>(5)</enum>
+        <text>individuals whose personal information has been compromised or who have been victims of identity theft should receive the necessary information and assistance to mitigate their damages and to restore the integrity of their personal information and identities;</text>
+      </paragraph>
+      <paragraph id="H7331C10E738D4FF091C7E3D54AB5AEC5">
+        <enum>(6)</enum>
+        <text>data misuse and use of inaccurate data have the potential to cause serious or irreparable harm to an individual's livelihood, privacy, and liberty and undermine efficient and effective business and government operations;</text>
+      </paragraph>
+      <paragraph id="H3D8E89580D7A4EB5AF846B27C9EE6D4A">
+        <enum>(7)</enum>
+        <text>government access to commercial data can potentially improve safety, law enforcement, and national security; and</text>
+      </paragraph>
+      <paragraph id="HB2E6CECBFD714E639131786F5CFEE1B6">
+        <enum>(8)</enum>
+        <text>because government use of commercial data containing personal information potentially affects individual privacy, and law enforcement and national security operations, there is a need for Congress to exercise oversight over government use of commercial data.</text>
+      </paragraph>
+    </section>
+    <section id="H522BA22560864EE3835C60C3D8101E91">
+      <enum>3.</enum>
+      <header>Definitions</header>
+      <text display-inline="no-display-inline">In this Act, the following definitions shall apply:</text>
+      <paragraph id="H46362D39369247D59405DE6853492543">
+        <enum>(1)</enum>
+        <header>Affiliate</header>
+        <text>The term <term>affiliate</term> means persons related by common ownership or by corporate control.</text>
+      </paragraph>
+      <paragraph id="H1B493E90271B4ABFB7FFCCAA457E759D">
+        <enum>(2)</enum>
+        <header>Agency</header>
+        <text>The term <term>agency</term> has the same meaning given such term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/5/551" entity-type="uscode">
+            <external-xref legal-doc="usc" parsable-cite="usc/5/551">section 551</external-xref> of title 5, United States Code</cato:entity-ref>.</text>
+      </paragraph>
+      <paragraph id="H5405ABAEC4214F5A9CD8978611BFF1F4">
+        <enum>(3)</enum>
+        <header>Business entity</header>
+        <text>The term <term>business entity</term> means any organization, corporation, trust, partnership, sole proprietorship, unincorporated association, or venture established to make a profit, or nonprofit.</text>
+      </paragraph>
+      <paragraph id="HA3B4EDD8708D40E7A888B8EF379B8EB8">
+        <enum>(4)</enum>
+        <header>Data system communication information</header>
+        <text>The term <term>data system communication information</term> means dialing, routing, addressing, or signaling information that identifies the origin, direction, destination, processing, transmission, or termination of each communication initiated, attempted, or received.</text>
+      </paragraph>
+      <paragraph id="H1284F43BACE14420B25BFE39A99FB58D">
+        <enum>(5)</enum>
+        <header>Designated entity</header>
+        <text>The term <term>designated entity</term> means the Federal Government entity designated by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Personal Data Privacy and Security Act of 2014/s:216/ss:a" entity-type="act">section 216(a)</cato:entity-ref>.</text>
+      </paragraph>
+      <paragraph id="HADA8670BFE684F1889F6526D3D8F999E">
+        <enum>(6)</enum>
+        <header>Encryption</header>
+        <text>The term <term>encryption</term>—</text>
+        <subparagraph id="H67B339C227E24B8787B8C95AF13CDF9F">
+          <enum>(A)</enum>
+          <text>means the protection of data in electronic form, in storage or in transit, using an encryption technology that has been generally accepted by experts in the field of information security that renders such data indecipherable in the absence of associated cryptographic keys necessary to enable decryption of such data; and</text>
+        </subparagraph>
+        <subparagraph id="HC6CBF2E9FBAA473DA0BA766B53B03518">
+          <enum>(B)</enum>
+          <text>includes appropriate management and safeguards of such cryptographic keys so as to protect the integrity of the encryption.</text>
+        </subparagraph>
+      </paragraph>
+      <paragraph id="HB9CCB905D6504C1ABB0288615B0AA622">
+        <enum>(7)</enum>
+        <header>Identity theft</header>
+        <text>The term <term>identity theft</term> means a violation of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/18/1028/a/7" entity-type="uscode">
+            <external-xref legal-doc="usc" parsable-cite="usc/18/1028">section 1028(a)(7)</external-xref> of title 18, United States Code</cato:entity-ref>.</text>
+      </paragraph>
+      <paragraph id="HD1E31E0BEB4A4A07A2A26A64DA883A4F">
+        <enum>(8)</enum>
+        <header>Personally identifiable information</header>
+        <text>The term <term>personally identifiable information</term> means any information, or compilation of information, in electronic or digital form that is a means of identification, as defined by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/18/1028/d/7" entity-type="uscode">
+            <external-xref legal-doc="usc" parsable-cite="usc/18/1028">section 1028(d)(7)</external-xref> of title 18, United States Code</cato:entity-ref>.</text>
+      </paragraph>
+      <paragraph id="HFB80975FD38B447DB181F51D5F82E03B">
+        <enum>(9)</enum>
+        <header>Public record source</header>
+        <text>The term <term>public record source</term> means the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>, any agency, any State or local government agency, the government of the District of Columbia and governments of the territories or possessions of the United States, and Federal, State or local courts, courts martial and military commissions, that maintain personally identifiable information in records available to the public.</text>
+      </paragraph>
+      <paragraph id="H7BDB2BDDA19A412480386E36756766D3">
+        <enum>(10)</enum>
+        <header>Security breach</header>
+        <subparagraph id="H88EF0EB85E5A400E8912E373CFEB3F5F">
+          <enum>(A)</enum>
+          <header>In general</header>
+          <text>The term <term>security breach</term> means compromise of the security, confidentiality, or integrity of, or the loss of, computerized data that result in, or that there is a reasonable basis to conclude has resulted in—</text>
+          <clause id="H6F724D0FAA84446AB635693CC8E723B6">
+            <enum>(i)</enum>
+            <text>the unauthorized acquisition of sensitive personally identifiable information; and</text>
+          </clause>
+          <clause id="H7CF2F454B7FD426E9E63588D753766A1">
+            <enum>(ii)</enum>
+            <text>access to sensitive personally identifiable information that is for an unauthorized purpose, or in excess of authorization.</text>
+          </clause>
+        </subparagraph>
+        <subparagraph id="H825B7537DB85484285C2F9750EBFD050">
+          <enum>(B)</enum>
+          <header>Exclusion</header>
+          <text>The term <term>security breach</term> does not include—</text>
+          <clause id="HF7410468F3A14B1DA881C7D56D661122">
+            <enum>(i)</enum>
+            <text>a good faith acquisition of sensitive personally identifiable information by a business entity or agency, or an employee or agent of a business entity or agency, if the sensitive personally identifiable information is not subject to further unauthorized disclosure;</text>
+          </clause>
+          <clause id="H1FA71721FB3743E49C1592AF6C4C37A9">
+            <enum>(ii)</enum>
+            <text>the release of a public record not otherwise subject to confidentiality or nondisclosure requirements or the release of information obtained from a public record, including information obtained from a news report or periodical; or</text>
+          </clause>
+          <clause id="H7C6053FCCEDC4000B7BEA3221AD08762">
+            <enum>(iii)</enum>
+            <text>any lawfully authorized investigative, protective, or intelligence activity of a law enforcement or intelligence agency of the United States, a State, or a political subdivision of a State.</text>
+          </clause>
+        </subparagraph>
+      </paragraph>
+      <paragraph id="H841EC5F9BE7741CAA4ABF6CB180D2680">
+        <enum>(11)</enum>
+        <header>Sensitive personally identifiable information</header>
+        <text>The term <term>sensitive personally identifiable information</term> means any information or compilation of information, in electronic or digital form that includes the following:</text>
+        <subparagraph id="H8027A332614D411EA36C368150AFD6EA">
+          <enum>(A)</enum>
+          <text>An individual's first and last name or first initial and last name in combination with any two of the following data elements:</text>
+          <clause id="H706A3F8612144F7F92CB2109EF068F8D">
+            <enum>(i)</enum>
+            <text>Home address or telephone number.</text>
+          </clause>
+          <clause id="HBA850DB0483A480B9FC805BDC801D372">
+            <enum>(ii)</enum>
+            <text>Mother's maiden name.</text>
+          </clause>
+          <clause id="H237F90D3188A45DD83422FFCD851E816">
+            <enum>(iii)</enum>
+            <text>Month, day, and year of birth.</text>
+          </clause>
+        </subparagraph>
+        <subparagraph id="HC5322606E3594EFDB6742964D5DC08FC">
+          <enum>(B)</enum>
+          <text>A non-truncated social security number, driver's license number, passport number, or alien registration number or other government-issued unique identification number.</text>
+        </subparagraph>
+        <subparagraph id="H3A4ED4E4D1AB41A6A5CE56B5D15AF484">
+          <enum>(C)</enum>
+          <text>Unique biometric data such as a fingerprint, voice print, a retina or iris image, or any other unique physical representation.</text>
+        </subparagraph>
+        <subparagraph id="HBAAE88C5B22E4CC9BA0A671E381F4245">
+          <enum>(D)</enum>
+          <text>A unique account identifier, including a financial account number or credit or debit card number, electronic identification number, user name, or routing code.</text>
+        </subparagraph>
+        <subparagraph id="HF7FACA0A37084931954A9F4C6068F4C5">
+          <enum>(E)</enum>
+          <text>Any combination of the following data elements:</text>
+          <clause id="HA5766D422C194B058F169C28C9D1D6C1">
+            <enum>(i)</enum>
+            <text>An individual's first and last name or first initial and last name.</text>
+          </clause>
+          <clause id="HE21581B8D0334243A287E4DEB1072BE8">
+            <enum>(ii)</enum>
+            <text>A unique account identifier, including a financial account number or credit or debit card number, electronic identification number, user name, or routing code.</text>
+          </clause>
+          <clause id="H8362A7969D1B4DA6A39480392567BEF2">
+            <enum>(iii)</enum>
+            <text>Any security code, access code, or password, or source code that could be used to generate such codes or passwords.</text>
+          </clause>
+        </subparagraph>
+      </paragraph>
+      <paragraph id="HAB163D085BFD486982ED5607EB60D88A">
+        <enum>(12)</enum>
+        <header>Service provider</header>
+        <text>The term <term>service provider</term> means a business entity that provides electronic data transmission, routing, intermediate and transient storage, or connections to its system or network, where the business entity providing such services does not select or modify the content of the electronic data, is not the sender or the intended recipient of the data, and the business entity transmits, routes, stores, or provides connections for personal information in a manner that personal information is undifferentiated from other types of data that such business entity transmits, routes, stores, or provides connections. Any such business entity shall be treated as a service provider under this Act only to the extent that it is engaged in the provision of such transmission, routing, intermediate and transient storage or connections.</text>
+      </paragraph>
+    </section>
+    <title id="H78B122A5076842A9A3413486806CB587">
+      <enum>I</enum>
+      <header>Enhancing punishment for identity theft and other violations of data privacy and security</header>
+      <section id="HD5EF3621763247EE84E46A3147E7B7EC">
+        <enum>101.</enum>
+        <header>Organized criminal activity in connection with unauthorized access to personally identifiable information</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1961//1">
+            <external-xref legal-doc="usc" parsable-cite="usc/18/1961">Section 1961(1)</external-xref> of title 18, United States Code</cato:entity-ref>, is amended by inserting <quote>section 1030 (relating to fraud and related activity in connection with computers) if the act is a felony,</quote> before <quote>section 1084</quote>.</text>
+      </section>
+      <section id="H511DE8970EB8470F948BD5882560CEC4">
+        <enum>102.</enum>
+        <header>Concealment of security breaches involving sensitive personally identifiable information</header>
+        <subsection id="H90B2437D370E4447B682448AB4B52167">
+          <enum>(a)</enum>
+          <header>In General</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/18/47">
+              <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/47">Chapter 47</external-xref> of title 18, United States Code</cato:entity-ref>, is amended by adding at the end the following:</text>
+          <quoted-block display-inline="no-display-inline" id="H0F2A4FBB875244E99FF74CC766C79DCC" style="USC">
+            <section id="H2F76C9B8C6114DCBB937276AC54F9CE2">
+              <enum>1041.</enum>
+              <header>Concealment of security breaches involving sensitive personally identifiable information</header>
+              <subsection id="HCFE66DA90C4C4AFFABB80036D07FFE77">
+                <enum>(a)</enum>
+                <header>In general</header>
+                <text>Whoever, having knowledge of a security breach and of the fact that notice of such security breach is required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/t:II" proposed="true">title II of the <short-title>Personal Data Privacy and Security Act of 2014</short-title>
+                  </cato:entity-ref>, intentionally and willfully conceals the fact of such security breach, shall, in the event that such security breach results in economic harm to any individual in the amount of $1,000 or more, be fined under this tile or imprisoned for not more than 5 years, or both.</text>
+              </subsection>
+              <subsection id="H8012F2B0BDA1486B8915E04C5392F59D">
+                <enum>(b)</enum>
+                <header>Person defined</header>
+                <text>For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1041/a" proposed="true">subsection (a)</cato:entity-ref>, the term <term>person</term> has the meaning given the term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/e/12">section 1030(e)(12)</cato:entity-ref>.</text>
+              </subsection>
+              <subsection id="H627F0ABB72A04060960D9C4876FB8601">
+                <enum>(c)</enum>
+                <header>Notice requirement</header>
+                <text>Any person seeking an exemption under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:212/ss:b" proposed="true">section 212(b) of the <short-title>Personal Data Privacy and Security Act of 2014</short-title>
+                  </cato:entity-ref> shall be immune from prosecution under this section if the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> does not indicate, in writing, that such notice be given under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:212/ss:b/p:3" proposed="true">section 212(b)(3) of such Act</cato:entity-ref>.</text>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="HDA41101D20704D99BA12885A642AEE5B">
+          <enum>(b)</enum>
+          <header>Conforming and Technical Amendments</header>
+          <text>The table of sections for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/18/47">
+              <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/47">chapter 47</external-xref> of title 18, United States Code</cato:entity-ref>, is amended by adding at the end the following:</text>
+          <quoted-block id="H6CAC929AB83F4951AF6516C2FDF368AE" style="USC">
+            <toc>
+              <toc-entry idref="H2F76C9B8C6114DCBB937276AC54F9CE2" level="section">1041. Concealment of security breaches involving sensitive personally identifiable information.</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="HCE60CAFE63544498ABA21E8209C099E8">
+          <enum>(c)</enum>
+          <header>Enforcement authority</header>
+          <paragraph id="H845D2A3C70354905BEBCBE01244C4E0B">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7009">United States Secret Service</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Federal Bureau of Investigation</cato:entity-ref> shall have the authority to investigate offenses under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1041" proposed="true">
+                <external-xref legal-doc="usc" parsable-cite="usc/18/1041">section 1041</external-xref> of title 18, United States Code</cato:entity-ref>, as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:102/ss:a" proposed="true">subsection (a)</cato:entity-ref>.</text>
+          </paragraph>
+          <paragraph id="HF46EB73883A54FE2A4179C9AA196D895">
+            <enum>(2)</enum>
+            <header>Nonexclusivity</header>
+            <text>The authority granted in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:102/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref> shall not be exclusive of any existing authority held by any other Federal agency.</text>
+          </paragraph>
+        </subsection>
+      </section>
+      <section id="H9FA3329BFC3A4E9CB12EBE5CE94F5D26">
+        <enum>103.</enum>
+        <header>Penalties for fraud and related activity in connection with computers</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/c">
+            <external-xref legal-doc="usc" parsable-cite="usc/18/1030">Section 1030(c)</external-xref> of title 18, United States Code</cato:entity-ref>, is amended to read as follows:</text>
+        <quoted-block display-inline="no-display-inline" id="HB98B108BE7D54F7693C3228FE7CB46BA" style="OLC">
+          <subsection id="HDFB003B5F95C42EFB8E068A9AC776A28">
+            <enum>(c)</enum>
+            <text>The punishment for an offense under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/a">subsection (a)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/b">(b) of this section</cato:entity-ref> is—</text>
+            <paragraph id="HBB7C3739B9A14032A3D4CAE977AA4F80">
+              <enum>(1)</enum>
+              <text>a fine under this title or imprisonment for not more than 20 years, or both, in the case of an offense under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/a/1">subsection (a)(1)</cato:entity-ref> of this section;</text>
+            </paragraph>
+            <paragraph id="H5050383C7E354224BC36E0969FE9108D">
+              <enum>(2)</enum>
+              <subparagraph commented="no" display-inline="yes-display-inline" id="HA26A728D46BC4E099DFB573DC4DD086E">
+                <enum>(A)</enum>
+                <text>except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/c/2/B" proposed="true">subparagraph (B)</cato:entity-ref>, a fine under this title or imprisonment for not more than 3 years, or both, in the case of an offense under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/a/2">subsection (a)(2)</cato:entity-ref>; or</text>
+              </subparagraph>
+              <subparagraph id="HF2419242A1EB4F238A5337CBBF254429" indent="up1">
+                <enum>(B)</enum>
+                <text>a fine under this title or imprisonment for not more than ten years, or both, in the case of an offense under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/a/2">paragraph (a)(2) of this section</cato:entity-ref>, if—</text>
+                <clause id="HCBDD2FFEF83A4D7A8C01348CAE57FF4E">
+                  <enum>(i)</enum>
+                  <text>the offense was committed for purposes of commercial advantage or private financial gain;</text>
+                </clause>
+                <clause id="HA3C71A146F4B4DEF8F4F541CC52E4740">
+                  <enum>(ii)</enum>
+                  <text>the offense was committed in the furtherance of any criminal or tortious act in violation of the Constitution or laws of the United States, or of any State; or</text>
+                </clause>
+                <clause id="H5C07990498F14799B4A0C6565CA6842E">
+                  <enum>(iii)</enum>
+                  <text>the value of the information obtained, or that would have been obtained if the offense was completed, exceeds $5,000;</text>
+                </clause>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="HEF5350DC8EE3470FBF5BF8F7E9816CC1">
+              <enum>(3)</enum>
+              <text>a fine under this title or imprisonment for not more than 1 year, or both, in the case of an offense under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/a/3">subsection (a)(3) of this section</cato:entity-ref>;</text>
+            </paragraph>
+            <paragraph id="HF1F90AB5BB6946B2AF5206A8A3EDE15E">
+              <enum>(4)</enum>
+              <text>a fine under this title or imprisonment of not more than 20 years, or both, in the case of an offense under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/a/4">subsection (a)(4) of this section</cato:entity-ref>;</text>
+            </paragraph>
+            <paragraph id="HF2A391C413974923A0C093B11ECAAE3D">
+              <enum>(5)</enum>
+              <subparagraph commented="no" display-inline="yes-display-inline" id="HC1715F8FC6CC4C8A849DC2F6E51D87A1">
+                <enum>(A)</enum>
+                <text>except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/c/5/D" proposed="true">subparagraph (D)</cato:entity-ref>, a fine under this title, imprisonment for not more than 20 years, or both, in the case of an offense under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/a/5/A">subsection (a)(5)(A) of this section</cato:entity-ref>, if the offense caused—</text>
+                <clause id="H0432604687F74FE58D7D2AF5D27E3715" indent="up1">
+                  <enum>(i)</enum>
+                  <text>loss to 1 or more persons during any 1-year period (and, for purposes of an investigation, prosecution, or other proceeding brought by the United States only, loss resulting from a related course of conduct affecting 1 or more other protected computers) aggregating at least $5,000 in value;</text>
+                </clause>
+                <clause id="HC4F6DA1B50564F7891D7B0A31D7ADE28" indent="up1">
+                  <enum>(ii)</enum>
+                  <text>the modification or impairment, or potential modification or impairment, of the medical examination, diagnosis, treatment, or care of 1 or more individuals;</text>
+                </clause>
+                <clause id="H00B6AD1CF30A480082BE879745D577BA" indent="up1">
+                  <enum>(iii)</enum>
+                  <text>physical injury to any person;</text>
+                </clause>
+                <clause id="H63A82CF3E44B487EB928955E55583712" indent="up1">
+                  <enum>(iv)</enum>
+                  <text>a threat to public health or safety;</text>
+                </clause>
+                <clause id="HAA428AFA866C4AAF8577F8211EFCA57C" indent="up1">
+                  <enum>(v)</enum>
+                  <text>damage affecting a computer used by, or on behalf of, an entity of the United States Government in furtherance of the administration of justice, national defense, or national security; or</text>
+                </clause>
+                <clause id="H49A5E93708F740C2BDDFDDB1AAD0798B" indent="up1">
+                  <enum>(vi)</enum>
+                  <text>damage affecting 10 or more protected computers during any 1-year period;</text>
+                </clause>
+              </subparagraph>
+              <subparagraph id="HC3F690BC386D48BDB28DD0E72065E0DC" indent="up1">
+                <enum>(B)</enum>
+                <text>a fine under this title, imprisonment for not more than 10 years, or both, in the case of an offense under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/a/5/B">subsection (a)(5)(B)</cato:entity-ref>, if the offense caused a harm provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/c/5/A/i..iv" proposed="true">clauses (i) through (vi) of subparagraph (A) of this subsection</cato:entity-ref>;</text>
+              </subparagraph>
+              <subparagraph id="H49246B39B18143F8806698EB78C9FB44" indent="up1">
+                <enum>(C)</enum>
+                <text>if the offender attempts to cause or knowingly or recklessly causes death from conduct in violation of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/a/5/A">subsection (a)(5)(A)</cato:entity-ref>, a fine under this title, imprisonment for any term of years or for life, or both; or</text>
+              </subparagraph>
+              <subparagraph id="H833F8FB095A248DBA823875EFDB39165" indent="up1">
+                <enum>(D)</enum>
+                <text>a fine under this title, imprisonment for not more than 1 year, or both, for any other offense under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/a/5">subsection (a)(5)</cato:entity-ref>;</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H7B3E4DB8FA9F483FB8209A53B701B99F">
+              <enum>(6)</enum>
+              <text>a fine under this title or imprisonment for not more than 10 years, or both, in the case of an offense under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/a/6">subsection (a)(6) of this section</cato:entity-ref>; or</text>
+            </paragraph>
+            <paragraph id="H4E06D92B8D4D47A3B6FD01A47B409A48">
+              <enum>(7)</enum>
+              <text>a fine under this title or imprisonment for not more than 10 years, or both, in the case of an offense under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/a/7">subsection (a)(7) of this section</cato:entity-ref>.</text>
+            </paragraph>
+          </subsection>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </section>
+      <section id="HC9BD6A3698CE4663A4A78A6B0C63D74A">
+        <enum>104.</enum>
+        <header>Trafficking in passwords</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/a">
+            <external-xref legal-doc="usc" parsable-cite="usc/18/1030">Section 1030(a)</external-xref> of title 18, United States Code</cato:entity-ref>, is amended by striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/a/6">paragraph (6)</cato:entity-ref> and inserting the following:</text>
+        <quoted-block display-inline="no-display-inline" id="H88199062395741B6B2C1DB48A8AFD6DE" style="OLC">
+          <paragraph id="HCC087B3A0C904DDA8E65DCF66A045784">
+            <enum>(6)</enum>
+            <text>knowingly and with intent to defraud traffics (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1029">section 1029</cato:entity-ref>) in—</text>
+            <subparagraph id="H6C84F38D0CA94DCDA094E01B6B1AAB77">
+              <enum>(A)</enum>
+              <text>any password or similar information through which a protected computer as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/e/2/A">subparagraphs (A)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/e/2/B">(B) of subsection (e)(2)</cato:entity-ref> may be accessed without authorization; or</text>
+            </subparagraph>
+            <subparagraph id="H9B01EB9B46664D7A8FCCA3940D01B68F">
+              <enum>(B)</enum>
+              <text>any means of access through which a protected computer as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/e/2/A">subsection (e)(2)(A)</cato:entity-ref> may be accessed without authorization.</text>
+            </subparagraph>
+          </paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </section>
+      <section id="H6516F93708A9443381C5CB134B0B68D0">
+        <enum>105.</enum>
+        <header>Conspiracy and attempted computer fraud offenses</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/b">
+            <external-xref legal-doc="usc" parsable-cite="usc/18/1030">Section 1030(b)</external-xref> of title 18, United States Code</cato:entity-ref>, is amended by inserting <quote>for the completed offense</quote> after <quote>punished as provided</quote>.</text>
+      </section>
+      <section id="HBDB5A1FE4CCB439EA15832E23A428DC5">
+        <enum>106.</enum>
+        <header>Criminal and civil forfeiture for fraud and related activity in connection with computers</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030">
+            <external-xref legal-doc="usc" parsable-cite="usc/18/1030">Section 1030</external-xref> of title 18, United States Code</cato:entity-ref>, is amended by striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/i">subsections (i)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/j">(j)</cato:entity-ref> and inserting the following:</text>
+        <quoted-block display-inline="no-display-inline" id="H2C0C3F65228045BFA105337122B1A965" style="USC">
+          <subsection id="H4B6CE6E98B5847D0876986E3F4C72C00">
+            <enum>(i)</enum>
+            <header>Criminal Forfeiture</header>
+            <paragraph id="H3E6B05552325452F98CD8D3EEC24D08D">
+              <enum>(1)</enum>
+              <text>The court, in imposing sentence on any person convicted of a violation of this section, or convicted of conspiracy to violate this section, shall order, in addition to any other sentence imposed and irrespective of any provision of State law, that such person forfeit to the United States—</text>
+              <subparagraph id="H0D319D24A8FB49F9943430890E231480">
+                <enum>(A)</enum>
+                <text>such person’s interest in any property, real or personal, that was used, or intended to be used, to commit or facilitate the commission of such violation; and</text>
+              </subparagraph>
+              <subparagraph id="H550BCCE3BE2C46EF8B1E55FF3F8B476E">
+                <enum>(B)</enum>
+                <text>any property, real or personal, constituting or derived from any gross proceeds, or any property traceable to such property, that such person obtained, directly or indirectly, as a result of such violation.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="HAD4F6018FC174CBEA4A8F4B43CF43390">
+              <enum>(2)</enum>
+              <text>The criminal forfeiture of property under this subsection, including any seizure and disposition of the property, and any related judicial or administrative proceeding, shall be governed by the provisions of <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Comprehensive Drug Abuse Prevention and Control Act of 1970/s:413">section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/21/853">
+                  <cato:entity-ref entity-type="uscode" value="usc/21/853">21 U.S.C. 853</cato:entity-ref>
+                </external-xref>)</cato:entity>, except <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Comprehensive Drug Abuse Prevention and Control Act of 1970/s:413/ss:d">subsection (d) of that section</cato:entity-ref>.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="H3428623C3A5C4AC48BBB3B88ADCD295E">
+            <enum>(j)</enum>
+            <header>Civil Forfeiture</header>
+            <paragraph id="H0D57D774622343E483A9F7250DD0B05F">
+              <enum>(1)</enum>
+              <text>The following shall be subject to forfeiture to the United States and no property right, real or personal, shall exist in them:</text>
+              <subparagraph id="HB8E3F9F628664C3F8B0D56D5150B0AF8">
+                <enum>(A)</enum>
+                <text>Any property, real or personal, that was used, or intended to be used, to commit or facilitate the commission of any violation of this section, or a conspiracy to violate this section.</text>
+              </subparagraph>
+              <subparagraph id="H5FC8F576A9A140A494883FA8D7E62747">
+                <enum>(B)</enum>
+                <text>Any property, real or personal, constituting or derived from any gross proceeds obtained directly or indirectly, or any property traceable to such property, as a result of the commission of any violation of this section, or a conspiracy to violate this section.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H16D122FB095B4C97A81CDB21C98A91BE">
+              <enum>(2)</enum>
+              <text>Seizures and forfeitures under this subsection shall be governed by the provisions in chapter 46 relating to civil forfeitures, except that such duties as are imposed on the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary of the Treasury</cato:entity-ref> under the customs laws described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/981/d">section 981(d)</cato:entity-ref> shall be performed by such officers, agents and other persons as may be designated for that purpose by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary of Homeland Security</cato:entity-ref> or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref>.</text>
+            </paragraph>
+          </subsection>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </section>
+      <section id="H5726F28DA25E4AED820A5584D74B918D">
+        <enum>107.</enum>
+        <header>Limitation on civil actions involving unauthorized use</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/g">
+            <external-xref legal-doc="usc" parsable-cite="usc/18/1030">Section 1030(g)</external-xref> of title 18, United States Code</cato:entity-ref>, is amended—</text>
+        <paragraph id="H3A1143776ADD4F86BCAFFF5D5E908AFE">
+          <enum>(1)</enum>
+          <text display-inline="yes-display-inline">by inserting <quote>(1)</quote> before <quote>Any person</quote>; and</text>
+        </paragraph>
+        <paragraph id="HE7249545EF5E48FBAE6FDC7FF7A679E1">
+          <enum>(2)</enum>
+          <text display-inline="yes-display-inline">by adding at the end the following:</text>
+          <quoted-block display-inline="no-display-inline" id="H21397900C4FD41BF838EFD8143E3224B" style="OLC">
+            <paragraph id="HAB75611FB3A04D73861ADE268585EC96" indent="up1">
+              <enum>(2)</enum>
+              <text>No action may be brought under this subsection if a violation of a contractual obligation or agreement, such as an acceptable use policy or terms of service agreement, constitutes the sole basis for determining that access to the protected computer is unauthorized, or in excess of authorization.</text>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </section>
+      <section id="H1A78917B713144CDA056F4054314FB2F">
+        <enum>108.</enum>
+        <header>Reporting of certain criminal cases</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030">
+            <external-xref legal-doc="usc" parsable-cite="usc/18/1030">Section 1030</external-xref> of title 18, United States Code</cato:entity-ref>, is amended by adding at the end the following:</text>
+        <quoted-block display-inline="no-display-inline" id="HB48148B7FD0E480D9094D1D92D1F156D" style="OLC">
+          <subsection id="HED60F340EA394F17A6DD362BAA9C68DC">
+            <enum>(k)</enum>
+            <header>Reporting certain criminal cases</header>
+            <text>Not later than 1 year after the date of the enactment of this Act, and annually thereafter, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> shall report to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSJU00">Committee on the Judiciary of the Senate</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HJU00">Committee on the Judiciary of the House of Representatives</cato:entity-ref> the number of criminal cases brought under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/a">subsection (a)</cato:entity-ref> that involve conduct in which—</text>
+            <paragraph id="HD448C289E606400A87F8EEE6AABC6CBC">
+              <enum>(1)</enum>
+              <text>the defendant—</text>
+              <subparagraph id="HCA317401A97148CB97215F444DD24168">
+                <enum>(A)</enum>
+                <text>exceeded authorized access to a non-governmental computer; or</text>
+              </subparagraph>
+              <subparagraph id="HA7CD47F8D7F549A69E07B6EEB98ED9EA">
+                <enum>(B)</enum>
+                <text>accessed a non-governmental computer without authorization; and</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H0AFBE7D541044AA092829D43BD6DB465">
+              <enum>(2)</enum>
+              <text>the sole basis for the Government determining that access to the non-governmental computer was unauthorized, or in excess of authorization was that the defendant violated a contractual obligation or agreement with a service provider or employer, such as an acceptable use policy or terms of service agreement.</text>
+            </paragraph>
+          </subsection>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </section>
+      <section id="H65310A1065384B7286ACE626CAC52404">
+        <enum>109.</enum>
+        <header>Damage to critical infrastructure computers</header>
+        <subsection id="HCC4F7B03C417488EB0449D7ED7603844">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/18/47">
+              <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/47">Chapter 47</external-xref> of title 18, United States Code</cato:entity-ref>, is amended by inserting after <external-xref legal-doc="usc" parsable-cite="usc/18/1030">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030">section 1030</cato:entity-ref>
+            </external-xref> the following:</text>
+          <quoted-block display-inline="no-display-inline" id="H5C5A8CA404C84D9CA7448CF533EAAED5" style="USC">
+            <section id="H65AB38AB0751422EA70F8451ACCCD228">
+              <enum>1030A.</enum>
+              <header>Aggravated damage to a critical infrastructure computer</header>
+              <subsection id="H3C391975B8FE4D93BEA75EF24B09B3F1">
+                <enum>(a)</enum>
+                <header>Definitions</header>
+                <text>In this section—</text>
+                <paragraph id="H533FA0136DEE4B24ACB378D9361E9CA2">
+                  <enum>(1)</enum>
+                  <text>the terms <term>computer</term> and <term>damage</term> have the meanings given such terms in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030">section 1030</cato:entity-ref>; and</text>
+                </paragraph>
+                <paragraph id="H7A20263F6F534DEFAC2AFDE9F218FE65">
+                  <enum>(2)</enum>
+                  <text>the term <term>critical infrastructure computer</term> means a computer that manages or controls systems or assets vital to national defense, national security, national economic security, public health or safety, or any combination of those matters, whether publicly or privately owned or operated, including—</text>
+                  <subparagraph id="HC80EE5199BDB4A68970D25DDC51BFBAC">
+                    <enum>(A)</enum>
+                    <text>gas and oil production, storage, and delivery systems;</text>
+                  </subparagraph>
+                  <subparagraph id="H944D86AAD90C4DF6AA92A2F379D1AC85">
+                    <enum>(B)</enum>
+                    <text>water supply systems;</text>
+                  </subparagraph>
+                  <subparagraph id="H017DFCE8004F4913BBD1FA73273D6BD7">
+                    <enum>(C)</enum>
+                    <text>telecommunication networks;</text>
+                  </subparagraph>
+                  <subparagraph id="H344396A28E8D4D948D8B00CE37EAB20F">
+                    <enum>(D)</enum>
+                    <text>electrical power delivery systems;</text>
+                  </subparagraph>
+                  <subparagraph id="H46E7968E37FB40219801E84D71A810B5">
+                    <enum>(E)</enum>
+                    <text>finance and banking systems;</text>
+                  </subparagraph>
+                  <subparagraph id="HFB5EDB7310D740C098B93AAF1BE94191">
+                    <enum>(F)</enum>
+                    <text>emergency services;</text>
+                  </subparagraph>
+                  <subparagraph id="H11E9777FF24A42D5B695A343A9B19068">
+                    <enum>(G)</enum>
+                    <text>transportation systems and services; and</text>
+                  </subparagraph>
+                  <subparagraph id="H60D9197ED5D54527ACA65CE9CDE7D8AD">
+                    <enum>(H)</enum>
+                    <text>government operations that provide essential services to the public.</text>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="H1E1AA3931C7B463394422D4AD9AE7F3C">
+                <enum>(b)</enum>
+                <header>Offense</header>
+                <text>It shall be unlawful to, during and in relation to a felony violation of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030">section 1030</cato:entity-ref>, intentionally cause or attempt to cause damage to a critical infrastructure computer, and such damage results in (or, in the case of an attempt, would, if completed have resulted in) the substantial impairment—</text>
+                <paragraph id="H68FEBF1F99D348B09592A435BF09E796">
+                  <enum>(1)</enum>
+                  <text>of the operation of the critical infrastructure computer; or</text>
+                </paragraph>
+                <paragraph id="HB34C4FB517FB4BF587B3DDF138195A47">
+                  <enum>(2)</enum>
+                  <text>of the critical infrastructure associated with the computer.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="HB5EA7944A157446487FCBF7690781926">
+                <enum>(c)</enum>
+                <header>Penalty</header>
+                <text>Any person who violates <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030A/b" proposed="true">subsection (b)</cato:entity-ref> shall be fined under this title, imprisoned for not less than 3 years nor more than 20 years, or both.</text>
+              </subsection>
+              <subsection id="H11904F221D5D4514B62874E7EB3A434A">
+                <enum>(d)</enum>
+                <header>Consecutive sentence</header>
+                <text>Notwithstanding any other provision of law—</text>
+                <paragraph id="H683C5D01FBCE4AB085B6C2C95DF22DF8">
+                  <enum>(1)</enum>
+                  <text>a court shall not place on probation any person convicted of a violation of this section;</text>
+                </paragraph>
+                <paragraph id="H8F9D247217544596A94080037D603265">
+                  <enum>(2)</enum>
+                  <text>except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030A/d/4" proposed="true">paragraph (4)</cato:entity-ref>, no term of imprisonment imposed on a person under this section shall run concurrently with any other term of imprisonment, including any term of imprisonment imposed on the person under any other provision of law, including any term of imprisonment imposed for the felony violation <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030">section 1030</cato:entity-ref>;</text>
+                </paragraph>
+                <paragraph id="HEFD1C3EF57E540A28C5A5C8D5D03EE92">
+                  <enum>(3)</enum>
+                  <text>in determining any term of imprisonment to be imposed for a felony violation of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030">section 1030</cato:entity-ref>, a court shall not in any way reduce the term to be imposed for such crime so as to compensate for, or otherwise take into account, any separate term of imprisonment imposed or to be imposed for a violation of this section; and</text>
+                </paragraph>
+                <paragraph id="HF531F37F2D7F4A34B835DBBB7D076531">
+                  <enum>(4)</enum>
+                  <text>a term of imprisonment imposed on a person for a violation of this section may, in the discretion of the court, run concurrently, in whole or in part, only with another term of imprisonment that is imposed by the court at the same time on that person for an additional violation of this section, provided that such discretion shall be exercised in accordance with any applicable guidelines and policy statements issued by the United States Sentencing Commission pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/28/994">
+                      <external-xref legal-doc="usc" parsable-cite="usc/28/994">section 994</external-xref> of title 28</cato:entity-ref>.</text>
+                </paragraph>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="H1038F90821CF44138A6A39EAFC1C89D5">
+          <enum>(b)</enum>
+          <header>Technical and conforming amendment</header>
+          <text>The table of sections for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/18/47">
+              <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/18/47">chapter 47</external-xref> of title 18, United States Code</cato:entity-ref>, is amended by inserting after the item relating to <external-xref legal-doc="usc" parsable-cite="usc/18/1030">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030">section 1030</cato:entity-ref>
+            </external-xref> the following:</text>
+          <quoted-block display-inline="no-display-inline" id="HF03A9394078A404797B7565A230E3A2A" style="OLC">
+            <toc>
+              <toc-entry bold="off" level="section">1030A. Aggravated damage to a critical infrastructure computer.</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+      </section>
+      <section id="H842908A646FE4E80B07126755AE8DDD9">
+        <enum>110.</enum>
+        <header>Limitation on actions involving unauthorized use</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1030/e/6">
+            <external-xref legal-doc="usc" parsable-cite="usc/18/1030">Section 1030(e)(6)</external-xref> of title 18, United States Code</cato:entity-ref>, is amended by striking <quote>alter;</quote> and inserting <quote>alter, but does not include access in violation of a contractual obligation or agreement, such as an acceptable use policy or terms of service agreement, with an Internet service provider, Internet website, or non-government employer, if such violation constitutes the sole basis for determining that access to a protected computer is unauthorized;</quote>.</text>
+      </section>
+    </title>
+    <title id="H7228027CA7B346B38A784169EF34B77F">
+      <enum>II</enum>
+      <header>Privacy and security of personally identifiable information</header>
+      <subtitle id="HFA74C187C75042A7B8D4C271F9823418">
+        <enum>A</enum>
+        <header>A Data Privacy and Security Program</header>
+        <section id="HE77151929F7B47DCA777653C73432C63">
+          <enum>201.</enum>
+          <header>Purpose and applicability of data privacy and security program</header>
+          <subsection id="H47FD070E7E154D2D95337317C888BB42">
+            <enum>(a)</enum>
+            <header>Purpose</header>
+            <text>The purpose of this subtitle is to ensure standards for developing and implementing administrative, technical, and physical safeguards to protect the security of sensitive personally identifiable information.</text>
+          </subsection>
+          <subsection id="H1C46906694544EE8BDC21224B769EDCE">
+            <enum>(b)</enum>
+            <header>Applicability</header>
+            <text>A business entity engaging in interstate commerce that involves collecting, accessing, transmitting, using, storing, or disposing of sensitive personally identifiable information in electronic or digital form on 10,000 or more United States persons is subject to the requirements for a data privacy and security program under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:202" proposed="true">section 202</cato:entity-ref> for protecting sensitive personally identifiable information.</text>
+          </subsection>
+          <subsection id="HFBCA96AABB5D4998868A736776DEF4CA">
+            <enum>(c)</enum>
+            <header>Limitations</header>
+            <text>Notwithstanding any other obligation under this subtitle, this subtitle does not apply to the following:</text>
+            <paragraph id="HCF65C3F991E4416090EE032CED20701E">
+              <enum>(1)</enum>
+              <header>Financial institutions</header>
+              <text>Financial institutions—</text>
+              <subparagraph id="HC143217664734EADB74C3609513B1B31">
+                <enum>(A)</enum>
+                <text>subject to the data security requirements and standards under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Gramm-Leach-Bliley Act/s:501/ss:b">section 501(b) of the Gramm-Leach-Bliley Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/6801">
+                    <cato:entity-ref entity-type="uscode" value="usc/15/6801/b">15 U.S.C. 6801(b)</cato:entity-ref>
+                  </external-xref>)</cato:entity>; and</text>
+              </subparagraph>
+              <subparagraph id="H95F16C7B8EFF44359CD73DF607A7C769">
+                <enum>(B)</enum>
+                <text>subject to the jurisdiction of an agency or authority described in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Gramm-Leach-Bliley Act/s:505/ss:a">section 505(a) of the Gramm-Leach-Bliley Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/6805">
+                    <cato:entity-ref entity-type="uscode" value="usc/15/6805/a">15 U.S.C. 6805(a)</cato:entity-ref>
+                  </external-xref>)</cato:entity>.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H7EF9EBEAE5D8467A857833CC54F752A9">
+              <enum>(2)</enum>
+              <header>HIPAA regulated entities</header>
+              <subparagraph id="HF7DCA46301D8486290EDE3F73359728F">
+                <enum>(A)</enum>
+                <header>Covered entities</header>
+                <text>Covered entities subject to the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Health Insurance Portability and Accountability Act of 1996">Health Insurance Portability and Accountability Act of 1996</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1301">
+                    <cato:entity-ref entity-type="uscode" value="usc/42/1301/etseq">42 U.S.C. 1301 et seq</cato:entity-ref>.</external-xref>)</cato:entity>, including the data security requirements and implementing regulations of that Act.</text>
+              </subparagraph>
+              <subparagraph id="H5FA9268289DE434792EAE985B20C0536">
+                <enum>(B)</enum>
+                <header>Business entities</header>
+                <text>A business entity shall be deemed in compliance with this Act if the business entity—</text>
+                <clause id="H570DD531B7754088B701DB408C637081">
+                  <enum>(i)</enum>
+                  <text>is acting as a business associate, as that term is defined under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Health Insurance Portability and Accountability Act of 1996">Health Insurance Portability and Accountability Act of 1996</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1301">
+                      <cato:entity-ref entity-type="uscode" value="usc/42/1301/etseq">42 U.S.C. 1301 et seq</cato:entity-ref>.</external-xref>)</cato:entity> and is in compliance with the requirements imposed under that Act and implementing regulations promulgated under that Act; and</text>
+                </clause>
+                <clause id="H33AA4C2CCE5344F3A167AE8631110F68">
+                  <enum>(ii)</enum>
+                  <text>is subject to, and currently in compliance, with the privacy and data security requirements under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="American Reinvestment and Recovery Act of 2009/s:13401">sections 13401</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="American Reinvestment and Recovery Act of 2009/s:13404">13404 of division A of the American Reinvestment and Recovery Act of 2009</cato:entity-ref> (<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/42/17931">42 U.S.C. 17931</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/42/17934">17934</cato:entity-ref>) and implementing regulations promulgated under such sections.</text>
+                </clause>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H9D1B374165534E74B6F7D875B02A7554">
+              <enum>(3)</enum>
+              <header>Service providers</header>
+              <text>A service provider for any electronic communication by a third party, to the extent that the service provider is exclusively engaged in the transmission, routing, or temporary, intermediate, or transient storage of that communication.</text>
+            </paragraph>
+            <paragraph id="H914DD61E6BD44DC6847098C271BD611C">
+              <enum>(4)</enum>
+              <header>Public records</header>
+              <text>Public records not otherwise subject to a confidentiality or nondisclosure requirement, or information obtained from a public record, including information obtained from a news report or periodical.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="H892D14EB150441C5A5D4162FA443FFA4">
+            <enum>(d)</enum>
+            <header>Safe Harbors</header>
+            <paragraph id="HC1975D2E8A394F83A21C19C0BC999180">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text>A business entity shall be deemed in compliance with the privacy and security program requirements under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:202" proposed="true">section 202</cato:entity-ref> if the business entity complies with or provides protection equal to industry standards or standards widely accepted as an effective industry practice, as identified by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref>, that are applicable to the type of sensitive personally identifiable information involved in the ordinary course of business of such business entity.</text>
+            </paragraph>
+            <paragraph id="H7CA49D78B0DB49898618FE6DC5054F79">
+              <enum>(2)</enum>
+              <header>Limitation</header>
+              <text>Nothing in this subsection shall be construed to permit, and nothing does permit, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> to issue regulations requiring, or according greater legal status to, the implementation of or application of a specific technology or technological specifications for meeting the requirements of this title.</text>
+            </paragraph>
+          </subsection>
+        </section>
+        <section id="HAFD19509A5F54EFDAA28F1DE108D0178">
+          <enum>202.</enum>
+          <header>Requirements for a personal data privacy and security program</header>
+          <subsection id="HA8D82F25C96048F4B2C406C161542A8E">
+            <enum>(a)</enum>
+            <header>Personal Data Privacy and Security Program</header>
+            <text>A business entity subject to this subtitle shall comply with the following safeguards and any other administrative, technical, or physical safeguards identified by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> in a rulemaking process pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553">
+                <external-xref legal-doc="usc" parsable-cite="usc/5/553">section 553</external-xref> of title 5, United States Code</cato:entity-ref>, for the protection of sensitive personally identifiable information:</text>
+            <paragraph id="H925F138E747C4C62890E3355FCFABCAE">
+              <enum>(1)</enum>
+              <header>Scope</header>
+              <text>A business entity shall implement a comprehensive personal data privacy and security program that includes administrative, technical, and physical safeguards appropriate to the size and complexity of the business entity and the nature and scope of its activities.</text>
+            </paragraph>
+            <paragraph id="H1F38C96D96FF4729B64C1317F1FD3811">
+              <enum>(2)</enum>
+              <header>Design</header>
+              <text>The personal data privacy and security program shall be designed to—</text>
+              <subparagraph id="H1F7151AFAB7D459A96C99A40D531C295">
+                <enum>(A)</enum>
+                <text>ensure the privacy, security, and confidentiality of sensitive personally identifying information;</text>
+              </subparagraph>
+              <subparagraph id="H826B16080C614C2592854E67D7A1FD6E">
+                <enum>(B)</enum>
+                <text>protect against any anticipated vulnerabilities to the privacy, security, or integrity of sensitive personally identifying information; and</text>
+              </subparagraph>
+              <subparagraph id="H622D3C5A3BAB41CF93B17B8E04A5A383">
+                <enum>(C)</enum>
+                <text>protect against unauthorized access to use of sensitive personally identifying information that could create a significant risk of harm or fraud to any individual.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="HE109B647D0B64A4E8860B23DD61FEDF7">
+              <enum>(3)</enum>
+              <header>Risk assessment</header>
+              <text>A business entity shall—</text>
+              <subparagraph id="HA73CFF1BA91D415698AAD8DD6474B618">
+                <enum>(A)</enum>
+                <text>identify reasonably foreseeable internal and external vulnerabilities that could result in unauthorized access, disclosure, use, or alteration of sensitive personally identifiable information or systems containing sensitive personally identifiable information;</text>
+              </subparagraph>
+              <subparagraph id="HFA315B7A0E4C43D2868C845246FD8588">
+                <enum>(B)</enum>
+                <text>assess the likelihood of and potential damage from unauthorized access, disclosure, use, or alteration of sensitive personally identifiable information;</text>
+              </subparagraph>
+              <subparagraph id="H66C614F21F634DAFB1DE27577AAC90FC">
+                <enum>(C)</enum>
+                <text>assess the sufficiency of its policies, technologies, and safeguards in place to control and minimize risks from unauthorized access, disclosure, use, or alteration of sensitive personally identifiable information; and</text>
+              </subparagraph>
+              <subparagraph id="HFB7726CE224444F88B304F4E2C76CB45">
+                <enum>(D)</enum>
+                <text>assess the vulnerability of sensitive personally identifiable information during destruction and disposal of such information, including through the disposal or retirement of hardware.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="HACCFD9723CA94C09A41CB9DF81F68C7D">
+              <enum>(4)</enum>
+              <header>Risk management and control</header>
+              <text>Each business entity shall—</text>
+              <subparagraph id="HDA734764EDDF49CEB0E27BE20E5CD7AB">
+                <enum>(A)</enum>
+                <text>design its personal data privacy and security program to control the risks identified under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:202/ss:a/p:3" proposed="true">paragraph (3)</cato:entity-ref>;</text>
+              </subparagraph>
+              <subparagraph id="H0ABFAF34D7A648088C890708A3688A37">
+                <enum>(B)</enum>
+                <text>adopt measures commensurate with the sensitivity of the data as well as the size, complexity, and scope of the activities of the business entity that—</text>
+                <clause id="H82D46AFAF05E4B76928DCB65C0BAD00F">
+                  <enum>(i)</enum>
+                  <text>control access to systems and facilities containing sensitive personally identifiable information, including controls to authenticate and permit access only to authorized individuals;</text>
+                </clause>
+                <clause id="H695465B0E72B447281F4ED9BA0462727">
+                  <enum>(ii)</enum>
+                  <text>detect, record, and preserve information relevant to actual and attempted fraudulent, unlawful, or unauthorized access, disclosure, use, or alteration of sensitive personally identifiable information, including by employees and other individuals otherwise authorized to have access;</text>
+                </clause>
+                <clause id="H6F0ABE3AD78140D0B173EE4232F230D4">
+                  <enum>(iii)</enum>
+                  <text>protect sensitive personally identifiable information during use, transmission, storage, and disposal by encryption, redaction, or access controls that are widely accepted as an effective industry practice or industry standard, or other reasonable means (including as directed for disposal of records under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Fair Credit Reporting Act/s:628">section 628 of the Fair Credit Reporting Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/1681w">
+                      <cato:entity-ref entity-type="uscode" value="usc/15/1681w">15 U.S.C. 1681w</cato:entity-ref>
+                    </external-xref>)</cato:entity> and the implementing regulations of such Act as set forth in <external-xref legal-doc="regulation" parsable-cite="cfr/16/682">section 682</external-xref> of title 16, Code of Federal Regulations);</text>
+                </clause>
+                <clause id="H7AE7EE4A13644B61911A0C573E5F3B11">
+                  <enum>(iv)</enum>
+                  <text>ensure that sensitive personally identifiable information is properly destroyed and disposed of, including during the destruction of computers, diskettes, and other electronic media that contain sensitive personally identifiable information;</text>
+                </clause>
+                <clause id="HD76D7F31F5B94BDDBC8F3538D7F4E05C">
+                  <enum>(v)</enum>
+                  <text>trace access to records containing sensitive personally identifiable information so that the business entity can determine who accessed or acquired such sensitive personally identifiable information pertaining to specific individuals; and</text>
+                </clause>
+                <clause id="H3AE16F3599194D05BACA0A3A5023939A">
+                  <enum>(vi)</enum>
+                  <text>ensure that no third party or customer of the business entity is authorized to access or acquire sensitive personally identifiable information without the business entity first performing sufficient due diligence to ascertain, with reasonable certainty, that such information is being sought for a valid legal purpose; and</text>
+                </clause>
+              </subparagraph>
+              <subparagraph id="HFA5BC63FB61E44D5BFE44ABE922153DD">
+                <enum>(C)</enum>
+                <text>establish a plan and procedures for minimizing the amount of sensitive personally identifiable information maintained by such business entity, which shall provide for the retention of sensitive personally identifiable information only as reasonably needed for the business purposes of such business entity or as necessary to comply with any legal obligation.</text>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection id="H56800476DD2148CCA1AE2C308DFFE1F7">
+            <enum>(b)</enum>
+            <header>Training</header>
+            <text>Each business entity subject to this subtitle shall take steps to ensure employee training and supervision for implementation of the data security program of the business entity.</text>
+          </subsection>
+          <subsection id="H999EC81D8140474CABDF9A53EE30CBBC">
+            <enum>(c)</enum>
+            <header>Vulnerability testing</header>
+            <paragraph id="HFAE403CC29B94C8DB1E16445849595C1">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text>Each business entity subject to this subtitle shall take steps to ensure regular testing of key controls, systems, and procedures of the personal data privacy and security program to detect, prevent, and respond to attacks or intrusions, or other system failures.</text>
+            </paragraph>
+            <paragraph id="HA193119416F14590BFD5CB3E23BD93FA">
+              <enum>(2)</enum>
+              <header>Frequency</header>
+              <text>The frequency and nature of the tests required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:202/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref> shall be determined by the risk assessment of the business entity under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:202/ss:a/p:3" proposed="true">subsection (a)(3)</cato:entity-ref>.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="HB28CF09586D94DF5AEA2CE26111A6DD4">
+            <enum>(d)</enum>
+            <header>Relationship to certain providers of services</header>
+            <text>In the event a business entity subject to this subtitle engages a person or entity not subject to this subtitle (other than a service provider) to receive sensitive personally identifiable information in performing services or functions (other than the services or functions provided by a service provider) on behalf of and under the instruction of such business entity, such business entity shall—</text>
+            <paragraph id="H6076EDB405804AC08F0CAE701D4FB0C2">
+              <enum>(1)</enum>
+              <text>exercise appropriate due diligence in selecting the person or entity for responsibilities related to sensitive personally identifiable information, and take reasonable steps to select and retain a person or entity that is capable of maintaining appropriate safeguards for the security, privacy, and integrity of the sensitive personally identifiable information at issue; and</text>
+            </paragraph>
+            <paragraph id="H07F1BF0EB7824FF58626D9970B409D98">
+              <enum>(2)</enum>
+              <text>require the person or entity by contract to implement and maintain appropriate measures designed to meet the objectives and requirements governing entities subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:201" proposed="true">section 201</cato:entity-ref>, this section, and subtitle B.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="H0277065A8C084AEBBB6CA022854D4335">
+            <enum>(e)</enum>
+            <header>Periodic Assessment and Personal Data Privacy and Security Modernization</header>
+            <text>Each business entity subject to this subtitle shall on a regular basis monitor, evaluate, and adjust, as appropriate its data privacy and security program in light of any relevant changes in—</text>
+            <paragraph id="H3190D543D5CE490B9EE0D815CD5A0A5E">
+              <enum>(1)</enum>
+              <text>technology;</text>
+            </paragraph>
+            <paragraph id="H5C43EA2252DB438793EC74584ADBBE6C">
+              <enum>(2)</enum>
+              <text>the sensitivity of personally identifiable information;</text>
+            </paragraph>
+            <paragraph id="H5BA2D7AA63E140889822FC27207C4470">
+              <enum>(3)</enum>
+              <text>internal or external threats to personally identifiable information; and</text>
+            </paragraph>
+            <paragraph id="H6B7B2FAFE37748AF9BB204A67DE47A72">
+              <enum>(4)</enum>
+              <text>the changing business arrangements of the business entity, such as—</text>
+              <subparagraph id="HF20C7189B34746CE8D9A7265DB5C34EF">
+                <enum>(A)</enum>
+                <text>mergers and acquisitions;</text>
+              </subparagraph>
+              <subparagraph id="HB60DA7C153DF43F6AC28E26D6ADF8517">
+                <enum>(B)</enum>
+                <text>alliances and joint ventures;</text>
+              </subparagraph>
+              <subparagraph id="H6CE5085823094738BB322F531E0D2438">
+                <enum>(C)</enum>
+                <text>outsourcing arrangements;</text>
+              </subparagraph>
+              <subparagraph id="HEDE70ABE5DE34B8883D87B2FE3EB2482">
+                <enum>(D)</enum>
+                <text>bankruptcy; and</text>
+              </subparagraph>
+              <subparagraph id="H619ED39B79AA495A83512CC48ADEB0E1">
+                <enum>(E)</enum>
+                <text>changes to sensitive personally identifiable information systems.</text>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection id="H309E65754F4C46F3886D0153BD318060">
+            <enum>(f)</enum>
+            <header>Implementation Timeline</header>
+            <text>Not later than 1 year after the date of enactment of this Act, a business entity subject to the provisions of this subtitle shall implement a data privacy and security program pursuant to this subtitle.</text>
+          </subsection>
+        </section>
+        <section id="H2BB440410C6C479EA02A2B9C20CC51EE">
+          <enum>203.</enum>
+          <header>Enforcement</header>
+          <subsection id="HCDD3F82FAF08442FBC5C8C6AF002F6A4">
+            <enum>(a)</enum>
+            <header>Civil Penalties</header>
+            <paragraph id="H2CF9EBCEB1604AF4AFEFA8BA8D33C50B">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text>Any business entity that violates the provisions of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:201" proposed="true">section 201</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:202" proposed="true">202</cato:entity-ref> shall be subject to civil penalties of not more than $5,000 per violation per day while such a violation exists, with a maximum of $500,000 per violation.</text>
+            </paragraph>
+            <paragraph id="H5B9F0560EA17458A9723524A1ED2B94C">
+              <enum>(2)</enum>
+              <header>Intentional or willful violation</header>
+              <text>A business entity that intentionally or willfully violates the provisions of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:201" proposed="true">section 201</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:202" proposed="true">202</cato:entity-ref> shall be subject to additional penalties in the amount of $5,000 per violation per day while such a violation exists, with a maximum of an additional $500,000 per violation.</text>
+            </paragraph>
+            <paragraph id="H45E0110416194586AB990FE57F93863F">
+              <enum>(3)</enum>
+              <header>Penalty limits</header>
+              <subparagraph id="H87BDA0D6A9994C2B95AA8CD189CD1742">
+                <enum>(A)</enum>
+                <header>In general</header>
+                <text>Notwithstanding any other provision of law, the total sum of civil penalties assessed against a business entity for all violations of the provisions of this subtitle resulting from the same or related acts or omissions shall not exceed $500,000, unless such conduct is found to be willful or intentional.</text>
+              </subparagraph>
+              <subparagraph id="H33AB77EEDDA94BB69E5E7AE767759A04">
+                <enum>(B)</enum>
+                <header>Determinations</header>
+                <text>The determination of whether a violation of a provision of this subtitle has occurred, and if so, the amount of the penalty to be imposed, if any, shall be made by the court sitting as the finder of fact. The determination of whether a violation of a provision of this subtitle was willful or intentional, and if so, the amount of the additional penalty to be imposed, if any, shall be made by the court sitting as the finder of fact.</text>
+              </subparagraph>
+              <subparagraph commented="no" id="H83289D0BF1B54C41A303CA8EEA2029F8">
+                <enum>(C)</enum>
+                <header>Additional penalty limit</header>
+                <text>If a court determines under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:203/ss:a/p:3/sp:B" proposed="true">subparagraph (B)</cato:entity-ref> that a violation of a provision of this subtitle was willful or intentional and imposes an additional penalty, the court may not impose an additional penalty in an amount that exceeds $500,000.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H0DD547B35CA24BC5A427FF963D4B5E7E">
+              <enum>(4)</enum>
+              <header>Equitable relief</header>
+              <text>A business entity engaged in interstate commerce that violates this section may be enjoined from further violations by a United States district court.</text>
+            </paragraph>
+            <paragraph id="H7ABA085B11E547788197332952830D5A">
+              <enum>(5)</enum>
+              <header>Other rights and remedies</header>
+              <text>The rights and remedies available under this section are cumulative and shall not affect any other rights and remedies available under law.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="H268D2A50CCFE437DA772BB0EB3F64D2D">
+            <enum>(b)</enum>
+            <header>Federal Trade Commission Authority</header>
+            <text>Any business entity shall have the provisions of this subtitle enforced against it by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref>.</text>
+          </subsection>
+          <subsection id="HBFCC0C5E44FA4CD2B5340F2880D45732">
+            <enum>(c)</enum>
+            <header>State Enforcement</header>
+            <paragraph id="HD85A22FBF7CB455B97A43A8C5AD9F7FC">
+              <enum>(1)</enum>
+              <header>Civil actions</header>
+              <text>In any case in which the attorney general of a State or any State or local law enforcement agency authorized by the State attorney general or by State statute to prosecute violations of consumer protection law, has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the acts or practices of a business entity that violate this subtitle, the State may bring a civil action on behalf of the residents of that State in a district court of the United States of appropriate jurisdiction to—</text>
+              <subparagraph id="H036A51C3A0D84FE3937B8D64D9C626F4">
+                <enum>(A)</enum>
+                <text>enjoin that act or practice;</text>
+              </subparagraph>
+              <subparagraph id="H4972BDDFCD26487D827CA5724075D091">
+                <enum>(B)</enum>
+                <text>enforce compliance with this subtitle; or</text>
+              </subparagraph>
+              <subparagraph id="H0057D84C62AA4F0CBD49F1AC0F6C503D">
+                <enum>(C)</enum>
+                <text>obtain civil penalties of not more than $5,000 per violation per day while such violations persist, up to a maximum of $500,000 per violation.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H5DC071D7AE904EC3B9885657656C737C">
+              <enum>(2)</enum>
+              <header>Penalty limits</header>
+              <subparagraph id="H6E9DEF4BBF1B4327A615582D149141AF">
+                <enum>(A)</enum>
+                <header>In general</header>
+                <text>Notwithstanding any other provision of law, the total sum of civil penalties assessed against a business entity for all violations of the provisions of this subtitle resulting from the same or related acts or omissions shall not exceed $500,000, unless such conduct is found to be willful or intentional.</text>
+              </subparagraph>
+              <subparagraph id="H6F93A802C4064E5FAE9DD870C58B7DB2">
+                <enum>(B)</enum>
+                <header>Determinations</header>
+                <text>The determination of whether a violation of a provision of this subtitle has occurred, and if so, the amount of the penalty to be imposed, if any, shall be made by the court sitting as the finder of fact. The determination of whether a violation of a provision of this subtitle was willful or intentional, and if so, the amount of the additional penalty to be imposed, if any, shall be made by the court sitting as the finder of fact.</text>
+              </subparagraph>
+              <subparagraph commented="no" id="HF1D5D2D1A6D146E28BEE88EF35A37FB5">
+                <enum>(C)</enum>
+                <header>Additional penalty limit</header>
+                <text>If a court determines under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:203/ss:c/p:2/sp:B" proposed="true">subparagraph (B)</cato:entity-ref> that a violation of a provision of this subtitle was willful or intentional and imposes an additional penalty, the court may not impose an additional penalty in an amount that exceeds $500,000.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H43F2C6FD58E84C9099319CE093D62114">
+              <enum>(3)</enum>
+              <header>Notice</header>
+              <subparagraph id="H3FF5C76FF17E4D119E4A62EF4928F544">
+                <enum>(A)</enum>
+                <header>In general</header>
+                <text>Before filing an action under this subsection, the attorney general of the State involved shall provide to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref>—</text>
+                <clause id="HBB7A5E97CAB64CA49324826FFE76D400">
+                  <enum>(i)</enum>
+                  <text>a written notice of that action; and</text>
+                </clause>
+                <clause id="HCE225A64749E4682BE726895046F9321">
+                  <enum>(ii)</enum>
+                  <text>a copy of the complaint for that action.</text>
+                </clause>
+              </subparagraph>
+              <subparagraph id="H7B07D6E1C169481688662707B5D4ED7A">
+                <enum>(B)</enum>
+                <header>Exception</header>
+                <text>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:203/ss:c/p:3/sp:A" proposed="true">Subparagraph (A)</cato:entity-ref> shall not apply with respect to the filing of an action by an attorney general of a State under this subsection, if the attorney general of a State determines that it is not feasible to provide the notice described in this subparagraph before the filing of the action.</text>
+              </subparagraph>
+              <subparagraph id="HC659FB539CD0439C9EC9384DE884C7EE">
+                <enum>(C)</enum>
+                <header>Notification when practicable</header>
+                <text>In an action described under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:203/ss:c/p:3/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>, the attorney general of a State shall provide the written notice and the copy of the complaint to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> as soon after the filing of the complaint as practicable.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H87D9FBDCD72E468D8265ABF8AC627433">
+              <enum>(4)</enum>
+              <header>Federal trade commission authority</header>
+              <text>Upon receiving notice under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:203/ss:c/p:2" proposed="true">paragraph (2)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> shall have the right to—</text>
+              <subparagraph id="H8C541FE2DB4445A0A2E172E50269B4AE">
+                <enum>(A)</enum>
+                <text>move to stay the action, pending the final disposition of a pending Federal proceeding or action as described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:203/ss:c/p:4" proposed="true">paragraph (4)</cato:entity-ref>;</text>
+              </subparagraph>
+              <subparagraph id="H0DBBD47B62754E889FE8E0C6A797382A">
+                <enum>(B)</enum>
+                <text>intervene in an action brought under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:203/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref>; and</text>
+              </subparagraph>
+              <subparagraph id="H8587B83107564D258903A4C72093B806">
+                <enum>(C)</enum>
+                <text>file petitions for appeal.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H3D5005E22B974396A5759C421D1EC686">
+              <enum>(5)</enum>
+              <header>Pending proceedings</header>
+              <text>If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> initiates a Federal civil action for a violation of this subtitle, or any regulations thereunder, no attorney general of a State may bring an action for a violation of this subtitle that resulted from the same or related acts or omissions against a defendant named in the Federal civil action initiated by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref>.</text>
+            </paragraph>
+            <paragraph id="H334E5BF05DCA48E2A3AA4F0AD63EE009">
+              <enum>(6)</enum>
+              <header>Rule of construction</header>
+              <text>For purposes of bringing any civil action under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:203/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref> nothing in this subtitle shall be construed to prevent an attorney general of a State from exercising the powers conferred on the attorney general by the laws of that State to—</text>
+              <subparagraph id="HA23C3B75837C41A382B8EB2AF8C7CC85">
+                <enum>(A)</enum>
+                <text>conduct investigations;</text>
+              </subparagraph>
+              <subparagraph id="HC1196FEF16E04D36A5AA84567DECA921">
+                <enum>(B)</enum>
+                <text>administer oaths and affirmations; or</text>
+              </subparagraph>
+              <subparagraph id="H9E2A6D54E13545C8A3F31AE025314585">
+                <enum>(C)</enum>
+                <text>compel the attendance of witnesses or the production of documentary and other evidence.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H19F9A0FBD58B41408BB54B2B0E5623B4">
+              <enum>(7)</enum>
+              <header>Venue; service of process</header>
+              <subparagraph id="H55274E18EFEB485881B6A02BE047057C">
+                <enum>(A)</enum>
+                <header>Venue</header>
+                <text>Any action brought under this subsection may be brought in the district court of the United States that meets applicable requirements relating to venue under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/28/1391">
+                    <external-xref legal-doc="usc" parsable-cite="usc/28/1391">section 1391</external-xref> of title 28, United States Code</cato:entity-ref>.</text>
+              </subparagraph>
+              <subparagraph id="H18E2A46877584524B6C4C643D712AC11">
+                <enum>(B)</enum>
+                <header>Service of process</header>
+                <text>In an action brought under this subsection, process may be served in any district in which the defendant—</text>
+                <clause id="H90E27D7795A74C09ABCB39B7684C2149">
+                  <enum>(i)</enum>
+                  <text>is an inhabitant; or</text>
+                </clause>
+                <clause id="H14DCC4D3167849BCB69A234D23292840">
+                  <enum>(ii)</enum>
+                  <text>may be found.</text>
+                </clause>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection id="H720DAA1D38104B9E91213993EC7F2614">
+            <enum>(d)</enum>
+            <header>No Private Cause of Action</header>
+            <text>Nothing in this subtitle establishes a private cause of action against a business entity for violation of any provision of this subtitle.</text>
+          </subsection>
+        </section>
+        <section id="H1A26A9FC9B684E21B93CD3F160D5064D">
+          <enum>204.</enum>
+          <header>Relation to other laws</header>
+          <subsection id="H3F7C601A0CA74C2892C714DDE404CA1D">
+            <enum>(a)</enum>
+            <header>In General</header>
+            <text>No State may require any business entity subject to this subtitle to comply with any requirements with respect to administrative, technical, and physical safeguards for the protection of personal information.</text>
+          </subsection>
+          <subsection id="H954FAE46C65446E09818F1852731E98F">
+            <enum>(b)</enum>
+            <header>Limitations</header>
+            <text>Nothing in this subtitle shall be construed to modify, limit, or supersede the operation of the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Gramm-Leach-Bliley Act">Gramm-Leach-Bliley Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/6801">
+                <cato:entity-ref entity-type="uscode" value="usc/15/6801/etseq">15 U.S.C. 6801 et seq</cato:entity-ref>.</external-xref>)</cato:entity> or its implementing regulations, including those adopted or enforced by States.</text>
+          </subsection>
+        </section>
+      </subtitle>
+      <subtitle id="H7FAFABDF97A54071AED05A745E2BBFC1">
+        <enum>B</enum>
+        <header>Security Breach Notification</header>
+        <section id="H24B50A28D8554D7E9AD6261871811FE2">
+          <enum>211.</enum>
+          <header>Notice to individuals</header>
+          <subsection id="HB857DD251A784B4CA77C92293B2748B9">
+            <enum>(a)</enum>
+            <header>In General</header>
+            <text>Except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:212" proposed="true">section 212</cato:entity-ref>, any agency, or business entity engaged in interstate commerce, other than a service provider, that uses, accesses, transmits, stores, disposes of or collects sensitive personally identifiable information shall, following the discovery of a security breach of such information, notify any resident of the United States whose sensitive personally identifiable information has been, or is reasonably believed to have been, accessed, or acquired.</text>
+          </subsection>
+          <subsection id="H55F05F32C068452882CC667457963F46">
+            <enum>(b)</enum>
+            <header>Obligation of Owner or Licensee</header>
+            <paragraph id="H5896DAC0CA294338897A958C0B068C23">
+              <enum>(1)</enum>
+              <header>Notice to owner or licensee</header>
+              <text>Any agency, or business entity engaged in interstate commerce, that uses, accesses, transmits, stores, disposes of, or collects sensitive personally identifiable information that the agency or business entity does not own or license shall notify the owner or licensee of the information following the discovery of a security breach involving such information.</text>
+            </paragraph>
+            <paragraph id="H1DFDE45660BC41ADB8CC7A7A67D2C153">
+              <enum>(2)</enum>
+              <header>Notice by owner, licensee, or other designated third party</header>
+              <text>Nothing in this subtitle shall prevent or abrogate an agreement between an agency or business entity required to give notice under this section and a designated third party, including an owner or licensee of the sensitive personally identifiable information subject to the security breach, to provide the notifications required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:211/ss:a" proposed="true">subsection (a)</cato:entity-ref>.</text>
+            </paragraph>
+            <paragraph id="H8B4C04703FB6481A9A727663B09F657C">
+              <enum>(3)</enum>
+              <header>Business entity relieved from giving notice</header>
+              <text>A business entity obligated to give notice under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:211/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall be relieved of such obligation if an owner or licensee of the sensitive personally identifiable information subject to the security breach, or other designated third party, provides such notification.</text>
+            </paragraph>
+            <paragraph id="H1C29B96733CD45E59DFFF68D49B55226">
+              <enum>(4)</enum>
+              <header>Service providers</header>
+              <text>If a service provider becomes aware of a security breach of data in electronic form containing sensitive personal information that is owned or possessed by another business entity that connects to or uses a system or network provided by the service provider for the purpose of transmitting, routing, or providing intermediate or transient storage of such data, the service provider shall be required to notify the business entity who initiated such connection, transmission, routing, or storage of the security breach if the business entity can be reasonably identified. Upon receiving such notification from a service provider, the business entity shall be required to provide the notification required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:211/ss:a" proposed="true">subsection (a)</cato:entity-ref>.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="H65DC14235AF840B9BBC6071CA030DD30">
+            <enum>(c)</enum>
+            <header>Timeliness of Notification</header>
+            <paragraph id="H601C64EDB920413581B5FCA836287DDB">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text>All notifications required under this section shall be made without unreasonable delay following the discovery by the agency or business entity of a security breach.</text>
+            </paragraph>
+            <paragraph id="H50D7BEDE3F144671B40BA3C7B5947D7D">
+              <enum>(2)</enum>
+              <header>Reasonable delay</header>
+              <subparagraph id="H53F5E63F35FB4928917B9EAA3086DEEB">
+                <enum>(A)</enum>
+                <header>In general</header>
+                <text>Reasonable delay under this subsection may include any time necessary to determine the scope of the security breach, prevent further disclosures, conduct the risk assessment described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:202/ss:a/p:3" proposed="true">section 202(a)(3)</cato:entity-ref>, and restore the reasonable integrity of the data system and provide notice to law enforcement when required.</text>
+              </subparagraph>
+              <subparagraph id="H8DF5F63D58FA442B8DF30B23E26B6F51">
+                <enum>(B)</enum>
+                <header>Extension</header>
+                <clause id="H40689A6A4960426B891C22D46CF1CEE1">
+                  <enum>(i)</enum>
+                  <header>In general</header>
+                  <text>Except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:211/ss:d" proposed="true">subsection (d)</cato:entity-ref>, delay of notification shall not exceed 60 days following the discovery of the security breach, unless the business entity or agency requests an extension of time and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> determines in writing that additional time is reasonably necessary to determine the scope of the security breach, prevent further disclosures, conduct the risk assessment, restore the reasonable integrity of the data system, or to provide notice to the designated entity.</text>
+                </clause>
+                <clause id="H76C310B626FF4BE7940D088D0506E284">
+                  <enum>(ii)</enum>
+                  <header>Approval of request</header>
+                  <text>If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> approves the request for delay, the agency or business entity may delay the time period for notification for additional periods of up to 30 days.</text>
+                </clause>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H79A6B59BD8AE411B9F39E9B0449FAC41">
+              <enum>(3)</enum>
+              <header>Burden of production</header>
+              <text>The agency, business entity, owner, or licensee required to provide notice under this subtitle shall, upon the request of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> provide records or other evidence of the notifications required under this subtitle, including to the extent applicable, the reasons for any delay of notification.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="H77A8E69E77454B929D7515D369F2223C">
+            <enum>(d)</enum>
+            <header>Delay of notification authorized for law enforcement or national security purposes</header>
+            <paragraph id="HFD1FCF68BE7546DC9DA0C31C3C7755D5">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text>If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7009">United States Secret Service</cato:entity-ref> or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Federal Bureau of Investigation</cato:entity-ref> determines that the notification required under this section would impede a criminal investigation, or national security activity, such notification shall be delayed upon written notice from the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7009">United States Secret Service</cato:entity-ref> or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Federal Bureau of Investigation</cato:entity-ref> to the agency or business entity that experienced the breach. The notification from the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7009">United States Secret Service</cato:entity-ref> or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Federal Bureau of Investigation</cato:entity-ref> shall specify in writing the period of delay requested for law enforcement or national security purposes.</text>
+            </paragraph>
+            <paragraph id="H22CF08972E1D4A29BEC6E0B0A3088BE6">
+              <enum>(2)</enum>
+              <header>Extended delay of notification</header>
+              <text>If the notification required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:211/ss:a" proposed="true">subsection (a)</cato:entity-ref> is delayed pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:211/ss:d/p:1" proposed="true">paragraph (1)</cato:entity-ref>, an agency or business entity shall give notice 30 days after the day such law enforcement or national security delay was invoked unless a Federal law enforcement or intelligence agency provides written notification that further delay is necessary.</text>
+            </paragraph>
+            <paragraph id="HC1996FB4E3364805A2D1F0B2E57A104A">
+              <enum>(3)</enum>
+              <header>Law enforcement immunity</header>
+              <text>No non-constitutional cause of action shall lie in any court against any agency for acts relating to the delay of notification for law enforcement or national security purposes under this subtitle.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="H985F85E948F34615A3446ED96534B3B4">
+            <enum>(e)</enum>
+            <header>Limitations</header>
+            <text>Notwithstanding any other obligation under this subtitle, this subtitle does not apply to the following:</text>
+            <paragraph id="HBDD965098473479C832EF44B10937AA2">
+              <enum>(1)</enum>
+              <header>Financial institutions</header>
+              <text>Financial institutions—</text>
+              <subparagraph id="H2EF17AD81BAB4513AA194888D4D85205">
+                <enum>(A)</enum>
+                <text>subject to the data security requirements and standards under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Gramm-Leach-Bliley Act/s:501/ss:b">section 501(b) of the Gramm-Leach-Bliley Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/6801">
+                    <cato:entity-ref entity-type="uscode" value="usc/15/6801/b">15 U.S.C. 6801(b)</cato:entity-ref>
+                  </external-xref>)</cato:entity>; and</text>
+              </subparagraph>
+              <subparagraph id="H7BD890A6363748DA872B2508A47FF2DE">
+                <enum>(B)</enum>
+                <text>subject to the jurisdiction of an agency or authority described in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Gramm-Leach-Bliley Act/s:505/ss:a">section 505(a) of the Gramm-Leach-Bliley Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/6805">
+                    <cato:entity-ref entity-type="uscode" value="usc/15/6805/a">15 U.S.C. 6805(a)</cato:entity-ref>
+                  </external-xref>)</cato:entity>.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="HFCDAC44C23674F4C87A02B05C47FA3C9">
+              <enum>(2)</enum>
+              <header>HIPAA regulated entities</header>
+              <subparagraph id="H73F5E894B3C34F2F824228714EADDC39">
+                <enum>(A)</enum>
+                <header>Covered entities</header>
+                <text>Covered entities subject to the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Health Insurance Portability and Accountability Act of 1996">Health Insurance Portability and Accountability Act of 1996</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1301">
+                    <cato:entity-ref entity-type="uscode" value="usc/42/1301/etseq">42 U.S.C. 1301 et seq</cato:entity-ref>.</external-xref>)</cato:entity>, including the data security requirements and implementing regulations of that Act.</text>
+              </subparagraph>
+              <subparagraph id="H2AB2245173EB466CBBF4BFACF568A758">
+                <enum>(B)</enum>
+                <header>Business entities</header>
+                <text>A business entity shall be deemed in compliance with this Act if the business entity—</text>
+                <clause id="H8B2A730BE0844987A0A38653F931A7D9">
+                  <enum>(i)</enum>
+                  <subclause commented="no" display-inline="yes-display-inline" id="H18D636655074495DB0378251A32351A1">
+                    <enum>(I)</enum>
+                    <text>is acting as a covered entity and as a business associate, as those terms are defined under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                        <cato:entity-ref entity-type="act" value="Health Insurance Portability and Accountability Act of 1996">Health Insurance Portability and Accountability Act of 1996</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1301">
+                        <cato:entity-ref entity-type="uscode" value="usc/42/1301/etseq">42 U.S.C. 1301 et seq</cato:entity-ref>.</external-xref>)</cato:entity> and is in compliance with the requirements imposed under that Act and implementing regulations promulgated under that Act; and</text>
+                  </subclause>
+                  <subclause id="H0D021932EA0040A7B174BD164161D3C8" indent="up1">
+                    <enum>(II)</enum>
+                    <text>is subject to, and currently in compliance, with the data breach notification, privacy and data security requirements under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                        <cato:entity-ref entity-type="act" value="Health Information Technology for Economic and Clinical Health (HITECH) Act">Health Information Technology for Economic and Clinical Health (HITECH) Act</cato:entity-ref>, (<external-xref legal-doc="usc" parsable-cite="usc/42/17932">
+                        <cato:entity-ref entity-type="uscode" value="usc/42/17932">42 U.S.C. 17932</cato:entity-ref>
+                      </external-xref>)</cato:entity> and implementing regulations promulgated thereunder; or</text>
+                  </subclause>
+                </clause>
+                <clause id="H72403C36345A46C3818410CEAA01B985">
+                  <enum>(ii)</enum>
+                  <text>is acting as a vendor of personal health records and third party service provider, subject to the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Health Information Technology for Economic and Clinical Health (HITECH) Act">Health Information Technology for Economic and Clinical Health (HITECH) Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/17937">
+                      <cato:entity-ref entity-type="uscode" value="usc/42/17937">42 U.S.C. 17937</cato:entity-ref>
+                    </external-xref>)</cato:entity>, including the data breach notification requirements and implementing regulations of that Act.</text>
+                </clause>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+        </section>
+        <section id="HD3256C3D686440FAB61EF45D976E50D7">
+          <enum>212.</enum>
+          <header>Exemptions</header>
+          <subsection id="HA86D0B8448A549BC9BBE6DEBC5F071E3">
+            <enum>(a)</enum>
+            <header>Exemption for National Security and Law Enforcement</header>
+            <paragraph id="HBE1B1A825E2D4645AD4026C4F5B5D847">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:211" proposed="true">Section 211</cato:entity-ref> shall not apply to an agency or business entity if—</text>
+              <subparagraph id="H450215641519451B92F02DA2EC5C1723">
+                <enum>(A)</enum>
+                <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7009">United States Secret Service</cato:entity-ref> or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Federal Bureau of Investigation</cato:entity-ref> determines that notification of the security breach could be expected to reveal sensitive sources and methods or similarly impede the ability of the Government to conduct law enforcement investigations; or</text>
+              </subparagraph>
+              <subparagraph id="HBC87FF774A4449678D4CBB898F9E7135">
+                <enum>(B)</enum>
+                <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Federal Bureau of Investigation</cato:entity-ref> determines that notification of the security breach could be expected to cause damage to the national security.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph commented="no" id="H9F383DC16F6B49D69B694DF360A621BF">
+              <enum>(2)</enum>
+              <header>Immunity</header>
+              <text>No non-constitutional cause of action shall lie in any court against any Federal agency for acts relating to the exemption from notification for law enforcement or national security purposes under this title.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="HA6E9DCA786F64BB4AA4085BF327EEA14">
+            <enum>(b)</enum>
+            <header>Safe Harbor</header>
+            <paragraph id="H72CAF01066D245F786B79B82936F3EF6">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text>An agency or business entity shall be exempt from the notice requirements under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:211" proposed="true">section 211</cato:entity-ref>, if—</text>
+              <subparagraph id="H95AFF4ED93534E7CA760486789DEE614">
+                <enum>(A)</enum>
+                <text>a risk assessment conducted by the agency or business entity concludes that, based upon the information available, there is no significant risk that a security breach has resulted in, or will result in, identity theft, economic loss or harm, or physical harm to the individuals whose sensitive personally identifiable information was subject to the security breach;</text>
+              </subparagraph>
+              <subparagraph id="HA01DE35085964A65AE640232C9BD99F6">
+                <enum>(B)</enum>
+                <text>without unreasonable delay, but not later than 45 days after the discovery of a security breach, unless extended by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref>, the agency or business entity notifies the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref>, in writing, of—</text>
+                <clause id="H17C7A04EA5094D98AA048D548F09F764">
+                  <enum>(i)</enum>
+                  <text>the results of the risk assessment; and</text>
+                </clause>
+                <clause id="H3C8833E035EA41C0BE37229C547B0D0A">
+                  <enum>(ii)</enum>
+                  <text>its decision to invoke the risk assessment exemption; and</text>
+                </clause>
+              </subparagraph>
+              <subparagraph id="H7B4C01490CD946BDBB0ED3605294E843">
+                <enum>(C)</enum>
+                <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> does not indicate, in writing, within 10 business days from receipt of the decision, that notice should be given.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H179677A3182849AF8EB72F8D6BFD6C4F">
+              <enum>(2)</enum>
+              <header>Rebuttable presumptions</header>
+              <text>For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:212/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>—</text>
+              <subparagraph id="H8EB535C45A0D4F56B93908FEBFBAEAA3">
+                <enum>(A)</enum>
+                <text>the encryption of sensitive personally identifiable information described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:212/ss:b/p:1/sp:A/cl:i" proposed="true">paragraph (1)(A)(i)</cato:entity-ref> shall establish a rebuttable presumption that no significant risk exists; and</text>
+              </subparagraph>
+              <subparagraph id="HFAA796421ABC4004B89B5F3EAAD6EFE7">
+                <enum>(B)</enum>
+                <text>the rendering of sensitive personally identifiable information described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:212/ss:b/p:1/sp:A/cl:ii" proposed="true">paragraph (1)(A)(ii)</cato:entity-ref> unusable, unreadable, or indecipherable through data security technology or methodology that is generally accepted by experts in the field of information security, such as redaction or access controls shall establish a rebuttable presumption that no significant risk exists.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="HD523C28C0E324929B408CEFA6A1C369B">
+              <enum>(3)</enum>
+              <header>Violation</header>
+              <text>It shall be a violation of this section to—</text>
+              <subparagraph id="H0EEF35F93A4C4CA982B263F2FB418FC5">
+                <enum>(A)</enum>
+                <text>fail to conduct the risk assessment in a reasonable manner, or according to standards generally accepted by experts in the field of information security; or</text>
+              </subparagraph>
+              <subparagraph id="H97A360F789B74730A953750C1AA30696">
+                <enum>(B)</enum>
+                <text>submit the results of a risk assessment that contains fraudulent or deliberately misleading information.</text>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection id="H294070F75EE7492ABEE7E89646D5C9EC">
+            <enum>(c)</enum>
+            <header>Financial fraud prevention exemption</header>
+            <paragraph id="HAA6D804B79FB48BC8EEA135FBFA1E08B">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text>A business entity will be exempt from the notice requirement under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:211" proposed="true">section 211</cato:entity-ref> if the business entity utilizes or participates in a security program that—</text>
+              <subparagraph id="H56EA18C0C127487ABBEF5336E49FE8EC">
+                <enum>(A)</enum>
+                <text>effectively blocks the use of the sensitive personally identifiable information to initiate unauthorized financial transactions before they are charged to the account of the individual; and</text>
+              </subparagraph>
+              <subparagraph id="HE694327E3E0D44828202116417C06ABB">
+                <enum>(B)</enum>
+                <text>provides for notice to affected individuals after a security breach that has resulted in fraud or unauthorized transactions.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H5AD7CF7C5CD5412E9A6494C13515E0B4">
+              <enum>(2)</enum>
+              <header>Limitation</header>
+              <text>The exemption in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:212/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref> does not apply if the information subject to the security breach includes an individual's first and last name, or any other type of sensitive personally identifiable information as defined in section 3, unless that information is only a credit card number or credit card security code.</text>
+            </paragraph>
+          </subsection>
+        </section>
+        <section id="H5D4C265EA0F14868834E5A3962C472CD">
+          <enum>213.</enum>
+          <header>Methods of notice</header>
+          <text display-inline="no-display-inline">An agency or business entity shall be in compliance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:211" proposed="true">section 211</cato:entity-ref> if it provides the following:</text>
+          <paragraph id="H00EE0C0556494351952EB06E7DCB2084">
+            <enum>(1)</enum>
+            <header>Individual notice</header>
+            <text>Notice to individuals by one of the following means:</text>
+            <subparagraph id="H0865016E759B41EEBE67E72BD2E4F533">
+              <enum>(A)</enum>
+              <text>Written notification to the last known home mailing address of the individual in the records of the agency or business entity.</text>
+            </subparagraph>
+            <subparagraph id="H1AAF640D2CB042B196F4BAE5CE47D065">
+              <enum>(B)</enum>
+              <text>Telephone notice to the individual personally.</text>
+            </subparagraph>
+            <subparagraph id="HA2BBE19D74BC4BBE9605036871B89FFE">
+              <enum>(C)</enum>
+              <text>E-mail notice, if the individual has consented to receive such notice and the notice is consistent with the provisions permitting electronic transmission of notices under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Electronic Signatures in Global and National Commerce Act/s:101">section 101 of the Electronic Signatures in Global and National Commerce Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/7001">
+                  <cato:entity-ref entity-type="uscode" value="usc/15/7001">15 U.S.C. 7001</cato:entity-ref>
+                </external-xref>)</cato:entity>.</text>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="HCAA4FE8CBDB0448283E01AC7C3EAE164">
+            <enum>(2)</enum>
+            <header>Media notice</header>
+            <text>Notice to major media outlets serving a State or jurisdiction, if the number of residents of such State whose sensitive personally identifiable information was, or is reasonably believed to have been, accessed or acquired by an unauthorized person exceeds 5,000.</text>
+          </paragraph>
+        </section>
+        <section id="H775865DB438548D09C9E01C466CCEF1B">
+          <enum>214.</enum>
+          <header>Content of notification</header>
+          <subsection id="H4A7F697FAF0A402281E62357CA0FB269">
+            <enum>(a)</enum>
+            <header>In General</header>
+            <text>Regardless of the method by which notice is provided to individuals under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:213" proposed="true">section 213</cato:entity-ref>, such notice shall include, to the extent possible—</text>
+            <paragraph id="HE76EF1A240A34D4482F97C57651F71AA">
+              <enum>(1)</enum>
+              <text>a description of the categories of sensitive personally identifiable information that was, or is reasonably believed to have been, accessed or acquired by an unauthorized person;</text>
+            </paragraph>
+            <paragraph id="HCA3A47129E1A4D998EFB1432BAB54655">
+              <enum>(2)</enum>
+              <text>a toll-free number—</text>
+              <subparagraph id="HF6E7AFAEF5314934B4B66AB01EE15DB6">
+                <enum>(A)</enum>
+                <text>that the individual may use to contact the agency or business entity, or the agent of the agency or business entity; and</text>
+              </subparagraph>
+              <subparagraph id="H0BBD23E7991F4E91A074FC7F91466133">
+                <enum>(B)</enum>
+                <text>from which the individual may learn what types of sensitive personally identifiable information the agency or business entity maintained about that individual; and</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H08E52BD67089413481E4290FD2685731">
+              <enum>(3)</enum>
+              <text>the toll-free contact telephone numbers and addresses for the major credit reporting agencies.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="H772C9B3D0E004916AF50ECB6DD4C0DA2">
+            <enum>(b)</enum>
+            <header>Additional content</header>
+            <text>Notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:219" proposed="true">section 219</cato:entity-ref>, a State may require that a notice under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:214/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall also include information regarding victim protection assistance provided for by that State.</text>
+          </subsection>
+          <subsection id="H9C0D9C9BBC5B4DDAA9E3D13DFB8B301F">
+            <enum>(c)</enum>
+            <header>Direct Business Relationship</header>
+            <text>Regardless of whether a business entity, agency, or a designated third party provides the notice required pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:211/ss:b" proposed="true">section 211(b)</cato:entity-ref>, such notice shall include the name of the business entity or agency that has a direct relationship with the individual being notified.</text>
+          </subsection>
+        </section>
+        <section id="H4CC953000BDC49FEB032FBDEBC3A5841">
+          <enum>215.</enum>
+          <header>Coordination of notification with credit reporting agencies</header>
+          <text display-inline="no-display-inline">If an agency or business entity is required to provide notification to more than 5,000 individuals under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:211/ss:a" proposed="true">section 211(a)</cato:entity-ref>, the agency or business entity shall also notify all consumer reporting agencies that compile and maintain files on consumers on a nationwide basis (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Fair Credit Reporting Act/s:603/ss:p">section 603(p) of the Fair Credit Reporting Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/1681a">
+              <cato:entity-ref entity-type="uscode" value="usc/15/1681a/p">15 U.S.C. 1681a(p)</cato:entity-ref>
+            </external-xref>)</cato:entity>) of the timing and distribution of the notices. Such notice shall be given to the consumer credit reporting agencies without unreasonable delay and, if it will not delay notice to the affected individuals, prior to the distribution of notices to the affected individuals.</text>
+        </section>
+        <section id="H5543983357284D43A7EA1B6AAB8950BE">
+          <enum>216.</enum>
+          <header>Notice to law enforcement</header>
+          <subsection id="H3848C4B083AC4358B0ECC44DCCC78E69">
+            <enum>(a)</enum>
+            <header>Designation of government entity To receive notice</header>
+            <paragraph id="H4B0571451E5B42A895649D7894931768">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text>Not later than 60 days after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary of Homeland Security</cato:entity-ref> shall designate a Federal Government entity to receive the notices required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:212" proposed="true">section 212</cato:entity-ref> and this section, and any other reports and information about information security incidents, threats, and vulnerabilities.</text>
+            </paragraph>
+            <paragraph id="HC40E234E6D8C4DB99FDAA73B6CFEF4A7">
+              <enum>(2)</enum>
+              <header>Responsibilities of the designated entity</header>
+              <text>The designated entity shall—</text>
+              <subparagraph id="HC7180AE274404E16B5C6FC9827520449">
+                <enum>(A)</enum>
+                <text>be responsible for promptly providing the information that it receives to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7009">United States Secret Service</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Federal Bureau of Investigation</cato:entity-ref>, and to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> for civil law enforcement purposes; and</text>
+              </subparagraph>
+              <subparagraph id="H75DBFF5D2C724E63B8C2C91F2068B18A">
+                <enum>(B)</enum>
+                <text>provide the information described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:216/ss:a/p:2/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> as appropriate to other Federal agencies for law enforcement, national security, or data security purposes.</text>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection id="H03AC71E86F4F486C92E9F20956667577">
+            <enum>(b)</enum>
+            <header>Notice</header>
+            <text>Any business entity or agency shall notify the designated entity of the fact that a security breach has occurred if—</text>
+            <paragraph id="H30E5866F6D644AD68ACB95D1606E863E">
+              <enum>(1)</enum>
+              <text>the number of individuals whose sensitive personally identifying information was, or is reasonably believed to have been accessed or acquired by an unauthorized person exceeds 5,000;</text>
+            </paragraph>
+            <paragraph id="H5CFD5562DB9240D9ADE40291DEC9A362">
+              <enum>(2)</enum>
+              <text>the security breach involves a database, networked or integrated databases, or other data system containing the sensitive personally identifiable information of more than 500,000 individuals nationwide;</text>
+            </paragraph>
+            <paragraph id="H988E0B97FCC64EB6890610C24F073819">
+              <enum>(3)</enum>
+              <text>the security breach involves databases owned by the Federal Government; or</text>
+            </paragraph>
+            <paragraph id="H191A1D237D4447F184100D09A80D577E">
+              <enum>(4)</enum>
+              <text>the security breach involves primarily sensitive personally identifiable information of individuals known to the agency or business entity to be employees and contractors of the Federal Government involved in national security or law enforcement.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="H945F028322574F4FB31589D1C9326928">
+            <enum>(c)</enum>
+            <header>FTC rulemaking and review of thresholds</header>
+            <paragraph id="H9530FA8B75D44613995C6D72CF07C185">
+              <enum>(1)</enum>
+              <header>Reports</header>
+              <text>Not later than 1 year after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref>, in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General of the United States</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary of Homeland Security</cato:entity-ref>, shall promulgate regulations under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553">
+                  <external-xref legal-doc="usc" parsable-cite="usc/5/553">section 553</external-xref> of title 5, United States Code</cato:entity-ref>, regarding the reports required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:216/ss:a" proposed="true">subsection (a)</cato:entity-ref>.</text>
+            </paragraph>
+            <paragraph id="HBC3FAF529531459C8B5C3D5608B079E4">
+              <enum>(2)</enum>
+              <header>Thresholds for notice</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref>, in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary of Homeland Security</cato:entity-ref>, after notice and the opportunity for public comment, and in a manner consistent with this section, shall promulgate regulations, as necessary, under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553">
+                  <external-xref legal-doc="usc" parsable-cite="usc/5/553">section 553</external-xref> of title 5, United States Code</cato:entity-ref>, to adjust the thresholds for notice to law enforcement and national security authorities under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:216/ss:a" proposed="true">subsection (a)</cato:entity-ref> and to facilitate the purposes of this section.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="H19358357547F4647887C088F9C0183B6">
+            <enum>(d)</enum>
+            <header>Timing</header>
+            <text>The notice required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:216/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall be provided as promptly as possible, but such notice must be provided either 72 hours before notice is provided to an individual pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:211" proposed="true">section 211</cato:entity-ref>, or not later than 10 days after the business entity or agency discovers the security breach or discovers that the nature of the security breach requires notice to law enforcement under this section, whichever occurs first.</text>
+          </subsection>
+        </section>
+        <section id="HF91FDBD6DD3D4A21B396F5F63EB96EC9">
+          <enum>217.</enum>
+          <header>Enforcement</header>
+          <subsection id="H8AAD5825BDC1452EB5421ACFABAA7109">
+            <enum>(a)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> may enforce civil violations of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:211" proposed="true">section 211</cato:entity-ref>.</text>
+          </subsection>
+          <subsection id="HB14C3A391C0D407A855DEBEF6C1D487E">
+            <enum>(b)</enum>
+            <header>Civil actions by the Attorney General of the United States</header>
+            <paragraph id="H095DA43BA7B04A8F8DB569485F26C96D">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> may bring a civil action in the appropriate United States district court against any business entity that engages in conduct constituting a violation of this subtitle and, upon proof of such conduct by a preponderance of the evidence, such business entity shall be subject to a civil penalty of not more than $11,000 per day per security breach.</text>
+            </paragraph>
+            <paragraph id="H62BC2182CA0843ECBE44AC2BEE58BEDC">
+              <enum>(2)</enum>
+              <header>Penalty limitation</header>
+              <text>Notwithstanding any other provision of law, the total amount of the civil penalty assessed against a business entity for conduct involving the same or related acts or omissions that results in a violation of this subtitle may not exceed $1,000,000.</text>
+            </paragraph>
+            <paragraph id="H2EEF493BFB1541D4B3D8EB447EEC936E">
+              <enum>(3)</enum>
+              <header>Determinations</header>
+              <text>The determination of whether a violation of a provision of this subtitle has occurred, and if so, the amount of the penalty to be imposed, if any, shall be made by the court sitting as the finder of fact. The determination of whether a violation of a provision of this subtitle was willful or intentional, and if so, the amount of the additional penalty to be imposed, if any, shall be made by the court sitting as the finder of fact.</text>
+            </paragraph>
+            <paragraph commented="no" id="HD5134156665D4AB488975E9A120CC2B9">
+              <enum>(4)</enum>
+              <header>Additional penalty limit</header>
+              <text>If a court determines under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:217/ss:b/p:3" proposed="true">paragraph (3)</cato:entity-ref> that a violation of a provision of this subtitle was willful or intentional and imposes an additional penalty, the court may not impose an additional penalty in an amount that exceeds $1,000,000.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="H9660D3E3C2A34826B1BF6A69E081E0B7">
+            <enum>(c)</enum>
+            <header> Injunctive actions by the Attorney General</header>
+            <paragraph id="H33EC3E6669BD4814B5EBD35D413C2751">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text>If it appears that a business entity has engaged, or is engaged, in any act or practice constituting a violation of this subtitle, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> may petition an appropriate district court of the United States for an order—</text>
+              <subparagraph id="HE3B8F1DE4F2C46658D945BE7FC01AC34">
+                <enum>(A)</enum>
+                <text>enjoining such act or practice; or</text>
+              </subparagraph>
+              <subparagraph id="H715629BF7371497295DC5A15F2894571">
+                <enum>(B)</enum>
+                <text>enforcing compliance with this subtitle.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="HD5A4E8EAE0AA49049DA9657EA232D36C">
+              <enum>(2)</enum>
+              <header>Issuance of order</header>
+              <text>A court may issue an order under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:217/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref>, if the court finds that the conduct in question constitutes a violation of this subtitle.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="H2B3C53588C3445FFAF2CF5F1B5F04960">
+            <enum>(d)</enum>
+            <header>Civil actions by the Federal Trade Commission
+            </header>
+            <paragraph id="H1D1EF81C48E247BA874941F39D9F7C46">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text>Compliance with the requirements imposed under this subtitle may be enforced under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Federal Trade Commission Act">Federal Trade Commission Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/41">
+                  <cato:entity-ref entity-type="uscode" value="usc/15/41/etseq">15 U.S.C. 41 et seq</cato:entity-ref>.</external-xref>)</cato:entity> by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> with respect to business entities subject to this Act. All of the functions and powers of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> under the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Trade Commission Act">Federal Trade Commission Act</cato:entity-ref> are available to the Commission to enforce compliance by any person with the requirements imposed under this title.</text>
+            </paragraph>
+            <paragraph id="H326EBBD30CC94AD3AE130DD4C8BC6C86">
+              <enum>(2)</enum>
+              <header>Penalty limitation</header>
+              <subparagraph id="HAEAE3D380D25487292F2D42E97C7C9B4">
+                <enum>(A)</enum>
+                <header>In general</header>
+                <text>Notwithstanding any other provision of law, the total sum of civil penalties assessed against a business entity for all violations of the provisions of this subtitle resulting from the same or related acts or omissions may not exceed $1,000,000, unless such conduct is found to be willful or intentional.</text>
+              </subparagraph>
+              <subparagraph id="HDC729B03C2B942B786E4C7E6CBFE73FB">
+                <enum>(B)</enum>
+                <header>Determinations</header>
+                <text>The determination of whether a violation of a provision of this subtitle has occurred, and if so, the amount of the penalty to be imposed, if any, shall be made by the court sitting as the finder of fact. The determination of whether a violation of a provision of this subtitle was willful or intentional, and if so, the amount of the additional penalty to be imposed, if any, shall be made by the court sitting as the finder of fact.</text>
+              </subparagraph>
+              <subparagraph commented="no" id="HFDBE1ED2F0E6445B886891F66F9001D8">
+                <enum>(C)</enum>
+                <header>Additional penalty limit</header>
+                <text>If a court determines under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:217/ss:d/p:2/sp:B" proposed="true">subparagraph (B)</cato:entity-ref> that a violation of a provision of this subtitle was willful or intentional and imposes an additional penalty, the court may not impose an additional penalty in an amount that exceeds $1,000,000.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H6083FDF531504B7A8E4049D9817CC2C2">
+              <enum>(3)</enum>
+              <header>Unfair or deceptive acts or practices</header>
+              <text>For the purpose of the exercise by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> of its functions and powers under the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Trade Commission Act">Federal Trade Commission Act</cato:entity-ref>, a violation of any requirement or prohibition imposed under this title shall constitute an unfair or deceptive act or practice in commerce in violation of a regulation under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Federal Trade Commission Act/s:18/ss:a/p:1/sp:B">section 18(a)(1)(B) of the Federal Trade Commission Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/57a">
+                  <cato:entity-ref entity-type="uscode" value="usc/15/57a/a/I/B">15 U.S.C. 57a(a)(I)(B)</cato:entity-ref>
+                </external-xref>)</cato:entity> regarding unfair or deceptive acts or practices and shall be subject to enforcement by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> under that Act with respect to any business entity, irrespective of whether that business entity is engaged in commerce or meets any other jurisdictional tests in the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Trade Commission Act">Federal Trade Commission Act</cato:entity-ref>.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="H45D222CBA7B347C0A72E49A31BDF60D4">
+            <enum>(e)</enum>
+            <header>Coordination of enforcement</header>
+            <paragraph id="H5ACB31175A804622B08AA69BCA79D50F">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text>Before opening an investigation, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> shall consult with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref>.</text>
+            </paragraph>
+            <paragraph id="H969EDEBCC907472BB304374AD1511263">
+              <enum>(2)</enum>
+              <header>Limitation</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> may initiate investigations under this subsection unless the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> determines that such an investigation would impede an ongoing criminal investigation or national security activity.</text>
+            </paragraph>
+            <paragraph id="H1F62F913DD9242F490AA37F53E83DC98">
+              <enum>(3)</enum>
+              <header>Coordination agreement</header>
+              <subparagraph id="H6D030D417A4E4B52BB95D5456C306411">
+                <enum>(A)</enum>
+                <header>In general</header>
+                <text>In order to avoid conflicts and promote consistency regarding the enforcement and litigation of matters under this Act, not later than 180 days after the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> shall enter into an agreement for coordination regarding the enforcement of this Act.</text>
+              </subparagraph>
+              <subparagraph id="HEF37725C8CE24210BACDEFEA99457EA8">
+                <enum>(B)</enum>
+                <header>Requirement</header>
+                <text>The coordination agreement entered into under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:217/ss:e/p:3/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> shall include provisions to ensure that parallel investigations and proceedings under this section are conducted in a matter that avoids conflicts and does not impede the ability of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> to prosecute violations of Federal criminal laws.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H30EB1D8528054FB3A3443B72B13A8EFC">
+              <enum>(4)</enum>
+              <header>Coordination with the FCC</header>
+              <text>If an enforcement action under this Act relates to customer proprietary network information, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> shall coordinate the enforcement action with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Federal Communications Commission</cato:entity-ref>.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="HF46C9AE291FB444091DB1B91E2C3F16A">
+            <enum>(f)</enum>
+            <header>Rulemaking</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> may, in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref>, issue such other regulations as it determines to be necessary to carry out this subtitle. All regulations promulgated under this Act shall be issued in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553">
+                <external-xref legal-doc="usc" parsable-cite="usc/5/553">section 553</external-xref> of title 5, United States Code</cato:entity-ref>. Where regulations relate to customer proprietary network information, the promulgation of such regulations will be coordinated with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Federal Communications Commission</cato:entity-ref>.</text>
+          </subsection>
+          <subsection id="H1C553672487E440ABCC7AC1936D81449">
+            <enum>(g)</enum>
+            <header>Other rights and remedies</header>
+            <text>The rights and remedies available under this subtitle are cumulative and shall not affect any other rights and remedies available under law.</text>
+          </subsection>
+          <subsection id="H7C8676A55A8F4C818865329C9324A563">
+            <enum>(h)</enum>
+            <header>Fraud alert</header>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Fair Credit Reporting Act/s:605A/ss:b/p:1">Section 605A(b)(1) of the Fair Credit Reporting Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/1681c-1">
+                <cato:entity-ref entity-type="uscode" value="usc/15/1681c–1/b/1">15 U.S.C. 1681c–1(b)(1)</cato:entity-ref>
+                </external-xref>)</cato:entity> is amended by inserting <quote>, or evidence that the consumer has received notice that the consumer's financial information has or may have been compromised,</quote> after <quote>identity theft report</quote>.</text>
+          </subsection>
+        </section>
+        <section id="HC9EFB938A50A413E8AA490785EEA3707">
+          <enum>218.</enum>
+          <header>Enforcement by State attorneys general</header>
+          <subsection id="HDF59698F873F498896832D94CC5B2ED1">
+            <enum>(a)</enum>
+            <header>In general</header>
+            <paragraph id="H5221A85EA3934F8DA464FFE80DC736B1">
+              <enum>(1)</enum>
+              <header>Civil actions</header>
+              <text>In any case in which the attorney general of a State or any State or local law enforcement agency authorized by the State attorney general or by State statute to prosecute violations of consumer protection law, has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the engagement of a business entity in a practice that is prohibited under this subtitle, the State or the State or local law enforcement agency on behalf of the residents of the agency's jurisdiction, may bring a civil action on behalf of the residents of the State or jurisdiction in a district court of the United States of appropriate jurisdiction to—</text>
+              <subparagraph id="H83CCBB98097341738163CA2B354C0994">
+                <enum>(A)</enum>
+                <text>enjoin that practice;</text>
+              </subparagraph>
+              <subparagraph id="HA2FDDDB34B2E4A6C9B14E8767F36F75F">
+                <enum>(B)</enum>
+                <text>enforce compliance with this subtitle; or</text>
+              </subparagraph>
+              <subparagraph id="H37EC1F8A707F41CA89F720000491F7BE">
+                <enum>(C)</enum>
+                <text>civil penalties of not more than $11,000 per day per security breach up to a maximum of $1,000,000 per violation, unless such conduct is found to be willful or intentional.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H3FDD7A645B1346D29DA2689FEACE595C">
+              <enum>(2)</enum>
+              <header>Penalty limitation</header>
+              <subparagraph id="HAD431C5B2D0E4CFC919BD3A611250816">
+                <enum>(A)</enum>
+                <header>In general</header>
+                <text>Notwithstanding any other provision of law, the total sum of civil penalties assessed against a business entity for all violations of the provisions of this subtitle resulting from the same or related acts or omissions may not exceed $1,000,000, unless such conduct is found to be willful or intentional.</text>
+              </subparagraph>
+              <subparagraph id="H38CE47AD945A4DA4A260F60660B6E790">
+                <enum>(B)</enum>
+                <header>Determinations</header>
+                <text>The determination of whether a violation of a provision of this subtitle has occurred, and if so, the amount of the penalty to be imposed, if any, shall be made by the court sitting as the finder of fact. The determination of whether a violation of a provision of this subtitle was willful or intentional, and if so, the amount of the additional penalty to be imposed, if any, shall be made by the court sitting as the finder of fact.</text>
+              </subparagraph>
+              <subparagraph commented="no" id="HC5B441DCAF8E442C8284057656F44AE9">
+                <enum>(C)</enum>
+                <header>Additional penalty limit</header>
+                <text>If a court determines under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:218/ss:a/p:2/sp:B" proposed="true">subparagraph (B)</cato:entity-ref> that a violation of a provision of this subtitle was willful or intentional and imposes an additional penalty, the court may not impose an additional penalty in an amount that exceeds $1,000,000.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="H5EB2967699A747E0B0BF65B31C4EEE06">
+              <enum>(3)</enum>
+              <header>Notice</header>
+              <subparagraph id="H49FA29DE3C7B458489138209937ABFA8">
+                <enum>(A)</enum>
+                <header>In general</header>
+                <text>Before filing an action under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:218/ss:a/p:1" proposed="true">paragraph (1)</cato:entity-ref>, the attorney general of the State involved shall provide to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General of the United States</cato:entity-ref>—</text>
+                <clause id="HE51513780F8740BFB8CB5C279E170607">
+                  <enum>(i)</enum>
+                  <text>written notice of the action; and</text>
+                </clause>
+                <clause id="H128F01BCC83944748255BAC0F3BC7359">
+                  <enum>(ii)</enum>
+                  <text>a copy of the complaint for the action.</text>
+                </clause>
+              </subparagraph>
+              <subparagraph id="H9363288D3EEA4EF3A52E0EB915A2B391">
+                <enum>(B)</enum>
+                <header>Exemption</header>
+                <clause id="H57E0082AFF0D481592557F6346FDA96A">
+                  <enum>(i)</enum>
+                  <header>In general</header>
+                  <text>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:218/ss:a/p:3/sp:A" proposed="true">Subparagraph (A)</cato:entity-ref> shall not apply with respect to the filing of an action by an attorney general of a State under this subtitle, if the State attorney general determines that it is not feasible to provide the notice described in such subparagraph before the filing of the action.</text>
+                </clause>
+                <clause id="H59AE6C2FD8E54FC5A2FCC17143B18DA0">
+                  <enum>(ii)</enum>
+                  <header>Notification</header>
+                  <text>In an action described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:218/ss:a/p:3/sp:B/cl:i" proposed="true">clause (i)</cato:entity-ref>, the attorney general of a State shall provide notice and a copy of the complaint to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> at the time the State attorney general files the action.</text>
+                </clause>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection id="HBBDCF99376F647BC9FFA9DE204AE9EDD">
+            <enum>(b)</enum>
+            <header>Federal proceedings</header>
+            <text>Upon receiving notice under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:218/ss:a/p:2" proposed="true">subsection (a)(2)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> shall have the right to—</text>
+            <paragraph id="HD1F1CE1221584A97A18A4EBD4F53F6C6">
+              <enum>(1)</enum>
+              <text>move to stay the action, pending the final disposition of a pending Federal proceeding or action;</text>
+            </paragraph>
+            <paragraph id="H4204BC27624D468E85117D9F1D5147DC">
+              <enum>(2)</enum>
+              <text>initiate an action in the appropriate United States district court under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:217" proposed="true">section 217</cato:entity-ref> and move to consolidate all pending actions, including State actions, in such court;</text>
+            </paragraph>
+            <paragraph id="HDF017E1A7DBA4F2982B3AC43C097993D">
+              <enum>(3)</enum>
+              <text>intervene in an action brought under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:218/ss:a/p:2" proposed="true">subsection (a)(2)</cato:entity-ref>; and</text>
+            </paragraph>
+            <paragraph id="H14B1005CC59F4CF393AF226809F912B6">
+              <enum>(4)</enum>
+              <text>file petitions for appeal.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="H254256948E9241ACA5162744CAC055D9">
+            <enum>(c)</enum>
+            <header>Pending proceedings</header>
+            <text>If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1500">Attorney General</cato:entity-ref> or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> initiate a criminal proceeding or civil action for a violation of a provision of this subtitle, or any regulations thereunder, no attorney general of a State may bring an action for a violation of a provision of this subtitle against a defendant named in the Federal criminal proceeding or civil action.</text>
+          </subsection>
+          <subsection id="H81D95D54C68A4536BC8D9DB539D3932D">
+            <enum>(d)</enum>
+            <header>Construction</header>
+            <text>For purposes of bringing any civil action under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:218/ss:a" proposed="true">subsection (a)</cato:entity-ref>, nothing in this subtitle regarding notification shall be construed to prevent an attorney general of a State from exercising the powers conferred on such attorney general by the laws of that State to—</text>
+            <paragraph id="HAF2C0D1FA1AC4BFC8960F1191BB61F7A">
+              <enum>(1)</enum>
+              <text>conduct investigations;</text>
+            </paragraph>
+            <paragraph id="HA8548975FDE1450D8CDD0EC7A88483C6">
+              <enum>(2)</enum>
+              <text>administer oaths or affirmations; or</text>
+            </paragraph>
+            <paragraph id="HA9148B08C5F24D05A6C5A3C4074B7FC3">
+              <enum>(3)</enum>
+              <text>compel the attendance of witnesses or the production of documentary and other evidence.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="HFB0327291FBB43C3992CEE4BBF20D938">
+            <enum>(e)</enum>
+            <header>Venue; service of process</header>
+            <paragraph id="HA34BAA85239849E8B8AAF8354034AC05">
+              <enum>(1)</enum>
+              <header>Venue</header>
+              <text>Any action brought under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:218/ss:a" proposed="true">subsection (a)</cato:entity-ref> may be brought in—</text>
+              <subparagraph id="H50FF1AEAFAD0420A817659715581DEDF">
+                <enum>(A)</enum>
+                <text>the district court of the United States that meets applicable requirements relating to venue under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/28/1391">
+                    <external-xref legal-doc="usc" parsable-cite="usc/28/1391">section 1391</external-xref> of title 28, United States Code</cato:entity-ref>; or</text>
+              </subparagraph>
+              <subparagraph id="H36D79B2B41F342BB98A3729287FB8CA9">
+                <enum>(B)</enum>
+                <text>another court of competent jurisdiction.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph id="HE21B59C61DA04738989CF42A40BCA8B4">
+              <enum>(2)</enum>
+              <header>Service of process</header>
+              <text>In an action brought under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:218/ss:a" proposed="true">subsection (a)</cato:entity-ref>, process may be served in any district in which the defendant—</text>
+              <subparagraph id="H9F72FAE86C8E4CF4B158A5A108A6EBA9">
+                <enum>(A)</enum>
+                <text>is an inhabitant; or</text>
+              </subparagraph>
+              <subparagraph id="H987E6F4CF0D747FEAC19D5CC61D2B130">
+                <enum>(B)</enum>
+                <text>may be found.</text>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection id="HC87E6D3089964F67858C126951E0B212">
+            <enum>(f)</enum>
+            <header>No private cause of action</header>
+            <text>Nothing in this subtitle establishes a private cause of action against a business entity for violation of any provision of this subtitle.</text>
+          </subsection>
+        </section>
+        <section id="H487422E19C9A4C46981412391D5859CA">
+          <enum>219.</enum>
+          <header>Effect on Federal and State law</header>
+          <text display-inline="no-display-inline">For any entity, or agency that is subject to this subtitle, the provisions of this subtitle shall supersede any other provision of Federal law, or any provisions of the law of any State, relating to notification of a security breach, except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:214/ss:b" proposed="true">section 214(b)</cato:entity-ref>. Nothing in this subtitle shall be construed to modify, limit, or supersede the operation of the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Gramm-Leach-Bliley Act">Gramm-Leach-Bliley Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/6801">
+              <cato:entity-ref entity-type="uscode" value="usc/15/6801/etseq">15 U.S.C. 6801 et seq</cato:entity-ref>.</external-xref>)</cato:entity> or its implementing regulations, including those regulations adopted or enforced by States, the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Health Insurance Portability and Accountability Act of 1996">Health Insurance Portability and Accountability Act of 1996</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/1301">
+              <cato:entity-ref entity-type="uscode" value="usc/42/1301/etseq">42 U.S.C. 1301 et seq</cato:entity-ref>.</external-xref>)</cato:entity> or its implementing regulations, or the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Health Information Technology for Economic and Clinical Health Act">Health Information Technology for Economic and Clinical Health Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/17937">
+              <cato:entity-ref entity-type="uscode" value="usc/42/17937">42 U.S.C. 17937</cato:entity-ref>
+            </external-xref>)</cato:entity> or its implementing regulations.</text>
+        </section>
+        <section id="H903D8FA58BA54E398A78BD89AF159000">
+          <enum>220.</enum>
+          <header>Reporting on exemptions</header>
+          <subsection id="H97ECBFF3CE1D4C7BB3F8CEDC3407C99E">
+            <enum>(a)</enum>
+            <header>FTC report</header>
+            <text display-inline="yes-display-inline">Not later than 18 months after the date of enactment of this Act, and upon request by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> thereafter, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Federal Trade Commission</cato:entity-ref> shall submit a report to Congress on the number and nature of the security breaches described in the notices filed by those business entities invoking the risk assessment exemption under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:212/ss:b" proposed="true">section 212(b)</cato:entity-ref> and their response to such notices.</text>
+          </subsection>
+          <subsection id="H5223675BBD5346E4886DE33EDB494C07">
+            <enum>(b)</enum>
+            <header>Law enforcement report</header>
+            <paragraph id="HFAABD338526F42DCBA456BEFBD2CD30B">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text>Not later than 18 months after the date of enactment of this Act, and upon the request by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> thereafter, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7009">United States Secret Service</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Federal Bureau of Investigation</cato:entity-ref> shall submit a report to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> on the number and nature of security breaches subject to the national security and law enforcement exemptions under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:212/ss:a" proposed="true">section 212(a)</cato:entity-ref>.</text>
+            </paragraph>
+            <paragraph id="HD8A14FCD55184212B567005CD53130F7">
+              <enum>(2)</enum>
+              <header>Requirement</header>
+              <text>The report required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Personal Data Privacy and Security Act of 2014/s:220/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref> shall not include the contents of any risk assessment provided to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7009">United States Secret Service</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1549">Federal Bureau of Investigation</cato:entity-ref> under this subtitle.</text>
+            </paragraph>
+          </subsection>
+        </section>
+        <section id="H5C27282B26994993A4F1B67D0179089F">
+          <enum>221.</enum>
+          <header>Effective date</header>
+          <text display-inline="no-display-inline">This subtitle shall take effect on the expiration of the date which is 90 days after the date of enactment of this Act.</text>
+        </section>
+      </subtitle>
+    </title>
+    <title id="H91ADC7999CD44CCD9BD6748EA7F5D98F">
+      <enum>III</enum>
+      <header>Compliance with statutory Pay-As-You-Go Act</header>
+      <section id="HEE2709548FBD46EBA8835767876AA571">
+        <enum>301.</enum>
+        <header>Budget compliance</header>
+        <text display-inline="no-display-inline">The budgetary effects of this Act, for the purpose of complying with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Statutory Pay-As-You-Go Act of 2010">Statutory Pay-As-You-Go Act of 2010</cato:entity-ref>, shall be determined by reference to the latest statement titled <quote>Budgetary Effects of PAYGO Legislation</quote> for this Act, submitted for printing in the Congressional Record by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSBU00">Chairman of the Senate Budget Committee</cato:entity-ref>, provided that such statement has been submitted prior to the vote on passage.</text>
+      </section>
+    </title>
+  </legis-body>
+</bill>
+</doc>
