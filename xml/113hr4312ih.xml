@@ -1,0 +1,811 @@
+<doc>
+  <docmeta id="113hr4312ih">
+    <bill congress="113" type="hr" number="4312" version="ih"/>
+    <revision size="30501" annotations="0" status="complete" id="6" commit-time="2014-04-04T19:14:56Z" committer="mbohmer" doc="113hr4312ih/6.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9A629F3F58BA4AEF95424BFE94AC9872" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 4312 IH: Public Online Information Act of 2014</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-03-26</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>H. R. 4312</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20140326">March 26, 2014</action-date>
+			<action-desc>
+        <sponsor name-id="I000057">Mr. Israel</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To establish an advisory committee to issue nonbinding governmentwide guidelines on making public
+			 information available on the Internet, to require publicly available
+			 Government information held by the executive branch to be made available
+			 on the Internet, to express the sense of Congress that publicly available
+			 information held by the legislative and judicial branches should be
+			 available on the Internet, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H057B604D00C6497AA2E145DD94FC735B" style="OLC">
+		<section id="H7C19817285D341D99EFFEC7D87410146" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title</header>
+      <text display-inline="no-display-inline">This Act may be cited as the <quote>
+          <short-title>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Online Information Act of 2014" proposed="true">Public Online Information Act of 2014</cato:entity-ref>
+          </short-title>
+        </quote>.</text>
+		</section>
+    <section id="HA08A811B34ED488FB5683031DDB3EB2F">
+      <enum>2.</enum>
+      <header>Table of contents</header>
+      <text display-inline="no-display-inline">The table of contents for this Act is as follows:</text>
+			<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+				<toc-entry idref="H7C19817285D341D99EFFEC7D87410146" level="section">Sec. 1. Short title.</toc-entry>
+				<toc-entry idref="HA08A811B34ED488FB5683031DDB3EB2F" level="section">Sec. 2. Table of contents.</toc-entry>
+				<toc-entry idref="HB70844E5FC104D9787E200DE420B920B" level="section">Sec. 3. Definitions.</toc-entry>
+				<toc-entry idref="H00538FB4C408464DA70AF74454589A33" level="section">Sec. 4. Purposes.</toc-entry>
+				<toc-entry idref="HDDAEE5A0D7114ECC80C5E23E27FCD37E" level="section">Sec. 5. Findings of Congress.</toc-entry>
+				<toc-entry idref="H35FB70D19EAA4D7A94701FA66EC2D1CD" level="section">Sec. 6. Establishment of Public Online Information Advisory Committee.</toc-entry>
+				<toc-entry idref="H7F76D6179902454E887886527341F086" level="section">Sec. 7. Executive branch Internet publication mandate.</toc-entry>
+				<toc-entry idref="HBB5F7F6B96304847B6289ADED09380E3" level="section">Sec. 8. Legislative and judicial information.</toc-entry>
+				<toc-entry idref="H188EA854830947D8926A48C6F728D362" level="section">Sec. 9. Government Printing Office.</toc-entry>
+      </toc>
+		</section>
+    <section id="HB70844E5FC104D9787E200DE420B920B">
+      <enum>3.</enum>
+      <header>Definitions</header>
+      <text display-inline="no-display-inline">In this Act:</text>
+			<paragraph id="H954DF77636934A128E91E0AEB99F585E">
+        <enum>(1)</enum>
+        <header>Agency</header>
+        <text display-inline="yes-display-inline">The term <term>agency</term> means an Executive agency or an independent regulatory agency.</text>
+			</paragraph>
+      <paragraph id="HB7F244CE159548F5A3A8FACB94D4BE95">
+        <enum>(2)</enum>
+        <header>Executive agency</header>
+        <text>The term <term>Executive agency</term> means any of the following:</text>
+				<subparagraph id="H88F25A8816B24A7590AB80A3CEC13B53">
+          <enum>(A)</enum>
+          <text>An Executive department, as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/101">
+              <external-xref legal-doc="usc" parsable-cite="usc/5/101">section 101</external-xref> of title 5, United States Code</cato:entity-ref>.</text>
+				</subparagraph>
+        <subparagraph id="HC7831EA6B8194AFF808C7B3648D53E2A">
+          <enum>(B)</enum>
+          <text>A military department, as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/102">section 102 of such title</cato:entity-ref>.</text>
+				</subparagraph>
+        <subparagraph id="HDEA2CE6BA8134E7C838732D22196D1F8">
+          <enum>(C)</enum>
+          <text>A Government corporation, as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/103">section 103 of such title</cato:entity-ref>.</text>
+				</subparagraph>
+        <subparagraph id="H9024B1A2227C48C98F52B1A540257439">
+          <enum>(D)</enum>
+          <text>Any other establishment in the executive branch of the Government (including the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1100" entity-type="federal-body">Executive Office
+			 of the President</cato:entity-ref>), other than an independent regulatory agency.</text>
+				</subparagraph>
+      </paragraph>
+      <paragraph id="H23B3BB704242408DB5BACF4ECDE6B51D">
+        <enum>(3)</enum>
+        <header>Independent Regulatory Agency</header>
+        <text>The term <term>independent regulatory agency</term> means an independent establishment, as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/104">
+            <external-xref legal-doc="usc" parsable-cite="usc/5/104">section 104</external-xref> of title 5, United States Code</cato:entity-ref>.</text>
+			</paragraph>
+      <paragraph id="HDCBA321EE010427B964730B6CC6D5BA1">
+        <enum>(4)</enum>
+        <header>Record</header>
+        <text>The term <term>record</term> has the meaning provided the term <term>records</term> in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3301">
+            <external-xref legal-doc="usc" parsable-cite="usc/44/3301">section 3301</external-xref> of title 44, United States Code</cato:entity-ref>.</text>
+			</paragraph>
+      <paragraph id="H1E37C8A8115446C5AABAC9C12AA06C65">
+        <enum>(5)</enum>
+        <header>Public Record</header>
+        <text>The term <term>public record</term> means any record, regardless of form or format, that an agency discloses, publishes, disseminates,
+			 or makes available to the public.</text>
+			</paragraph>
+      <paragraph id="HF37D0B09B0424E238925F4A1B4A6BED1">
+        <enum>(6)</enum>
+        <header>E-Government Administrator</header>
+        <text>The term <term>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">E-Government Administrator</cato:entity-ref>
+          </term> means the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government">Administrator of the Office of Electronic Government</cato:entity-ref> established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3602">section 3602 of
+			 title 44, United States Code</cato:entity-ref>.</text>
+			</paragraph>
+    </section>
+    <section id="H00538FB4C408464DA70AF74454589A33">
+      <enum>4.</enum>
+      <header>Purposes</header>
+      <text display-inline="no-display-inline">The purposes of this Act include the following:</text>
+			<paragraph id="H10944503A5014B15A576D2B39BC82E83">
+        <enum>(1)</enum>
+        <text>To establish an advisory committee to issue nonbinding guidelines for all three branches of
+			 Government regarding making public information available on the Internet,
+			 with sufficient flexibility to adapt to changes in technology.</text>
+			</paragraph>
+      <paragraph id="H54F05701712F4131B2DE5BA3BED40832">
+        <enum>(2)</enum>
+        <text>To empower the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">E-Government Administrator</cato:entity-ref> to establish binding rules concerning making publicly
+			 available Government information held by Executive agencies to be made
+			 available on the Internet, and to empower independent regulatory agencies
+			 to do the same.</text>
+			</paragraph>
+      <paragraph id="HAE7A63FD4B9D4559905252A1A42E13FF">
+        <enum>(3)</enum>
+        <text>To express the sense of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> that publicly available information held by the legislative and
+			 judicial branches should be available on the Internet.</text>
+			</paragraph>
+      <paragraph id="HA4219CE122CD4A70B0D6DADC637827D1">
+        <enum>(4)</enum>
+        <text>To encourage the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="0400">Government Printing Office</cato:entity-ref> to make all of its publications available on the
+			 Internet in the formats most useful to the public, after having considered
+			 the formats identified by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Public Online Information Advisory
+			 Committee</cato:entity-ref>.</text>
+			</paragraph>
+    </section>
+    <section id="HDDAEE5A0D7114ECC80C5E23E27FCD37E">
+      <enum>5.</enum>
+      <header>Findings of Congress</header>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+			<paragraph id="H3F05995628474020A3CDA15408CF7E98">
+        <enum>(1)</enum>
+        <text>The Federal Government holds a vast repository of public information. Throughout the Nation’s
+			 history, the Government has attempted to make that information available
+			 to the public, whether through the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1800" entity-type="federal-body">United States Postal Service</cato:entity-ref>, the
+			 Federal Depository Library Program, the Presidential Library System,
+			 Agency Reading Rooms, under the Freedom of Information Act, or by other
+			 means. Providing this information to the general public is a public good:
+			 informed citizens are informed voters. However, even with these efforts,
+			 Government information is too often hard to find, difficult to understand,
+			 expensive to obtain in useful formats, and available in only a few
+			 locations.</text>
+			</paragraph>
+      <paragraph id="H17CAA6905A4A45A88CE48E519CA429C3">
+        <enum>(2)</enum>
+        <text>The advent of the Internet presents the opportunity for the Government to make information readily
+			 available to many more Americans. The Internet is ubiquitous, turning
+			 every computer into a portal to the world’s largest library. The
+			 Government has made some efforts to take advantage of this new medium. As
+			 the public moves online, the Government must do so as well.</text>
+			</paragraph>
+      <paragraph id="HE922E988AE1A43218EF4D7A6BC5888D7">
+        <enum>(3)</enum>
+        <text>In addition to the traditional means of disseminating public information, the Federal Government
+			 should make all of its public information available on the Internet. It
+			 should do so in ways that take advantage of modern technology, that
+			 anticipate the public’s needs, and that provide access to the greatest
+			 number of people. The Government should strive to make its information
+			 available on the Internet in real-time and in machine processable formats.</text>
+			</paragraph>
+      <paragraph id="H0FFF82BA4B4D45FAA3A3112C341049E8">
+        <enum>(4)</enum>
+        <text>The creation of this vast new information library will empower citizens to gain a better
+			 understanding of how their Government functions and what it does in their
+			 name. It will also give innovators new tools to build on this information
+			 and provide better goods and services to the American people. Government
+			 services will be provided more efficiently, saving the taxpayers money and
+			 allowing them to be more involved in the lives of their communities.</text>
+			</paragraph>
+      <paragraph id="HAFF58DA1785B413EB6C04EA9C7713A7D">
+        <enum>(5)</enum>
+        <text>Accomplishing these goals requires significant coordination. It also requires the creation of new
+			 authorities and responsibilities within the Government, and the
+			 identification of appropriate technology standards.</text>
+			</paragraph>
+    </section>
+    <section id="H35FB70D19EAA4D7A94701FA66EC2D1CD">
+      <enum>6.</enum>
+      <header>Establishment of Public Online Information Advisory Committee</header>
+			<subsection id="HC42B15EC7B644E3B8E2B7A4A1C15D8F8">
+        <enum>(a)</enum>
+        <header>Establishment</header>
+        <text>There is hereby established an advisory committee to be known as the <quote>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" proposed="true" value="Public Online Information Advisory Committee">Public Online Information Advisory Committee</cato:entity-ref>
+          </quote> (in this Act referred to as the <quote>Advisory Committee</quote>).</text>
+			</subsection>
+      <subsection id="HABB96FE3D02E422A96F75C814F51412D">
+        <enum>(b)</enum>
+        <header>Purposes</header>
+        <text>The purposes of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> are—</text>
+				<paragraph commented="no" id="H5F1F28F899A64613BDBF85047FFA2D4D">
+          <enum>(1)</enum>
+          <text display-inline="yes-display-inline">to coordinate and encourage the Government’s efforts to make Government information from all three
+			 branches of Government available on the Internet; and</text>
+				</paragraph>
+        <paragraph commented="no" id="H269498D15DB74F609E779C5596428DCE">
+          <enum>(2)</enum>
+          <text>to issue nonbinding guidelines on how the Government should make public information available on
+			 the Internet, and update those guidelines as appropriate.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="H9A9538E5FE824798B25D80B86B97E967">
+        <enum>(c)</enum>
+        <header>Membership</header>
+				<paragraph id="H9E2A7DD175CB4DAD98CF5721B4BA2E66">
+          <enum>(1)</enum>
+          <header>In general</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> shall be composed of 19 members (including the Chair), as follows:</text>
+					<subparagraph id="H4099C3A1869A40878F8E2EE164A277FA">
+            <enum>(A)</enum>
+            <text>Six members shall be appointed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">E-Government Administrator</cato:entity-ref>.</text>
+					</subparagraph>
+          <subparagraph id="HAFB7282A28BB49F78AD45F3A9509A4F2">
+            <enum>(B)</enum>
+            <text>Six members shall be appointed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1027" entity-type="federal-body">Director of the Administrative Office of the Courts</cato:entity-ref>.</text>
+					</subparagraph>
+          <subparagraph id="HCA210BAC4C264233B3A28B1AFE8B0AA0">
+            <enum>(C)</enum>
+            <text>Three members shall be appointed by the Chairman, in consultation with the Ranking Member, of the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSGA00">Committee on Homeland Security and Governmental Affairs of the Senate</cato:entity-ref>.</text>
+					</subparagraph>
+          <subparagraph id="H0FBD79C6FBD840ABBDE4A79A1AC5380D">
+            <enum>(D)</enum>
+            <text>Three members shall be appointed by the Chair, in consultation with the Ranking Member, of the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HGO00">Committee on Oversight and Government Reform of the House of
+			 Representatives</cato:entity-ref>.</text>
+					</subparagraph>
+          <subparagraph id="HE15D983504F04320B7259D2BB70F4AE3">
+            <enum>(E)</enum>
+            <text display-inline="yes-display-inline">The Chair shall be appointed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4700" entity-type="federal-body">Administrator of General Services</cato:entity-ref>, after conferring with the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">E-Government Administrator</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1027" entity-type="federal-body">Director of the Administrative Office of
+			 the Courts</cato:entity-ref>, the Chairman of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSGA00">Committee on Homeland Security and
+			 Governmental Affairs of the Senate</cato:entity-ref>, and the Chair of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HGO00">Committee on
+			 Oversight and Government Reform of the House of Representatives</cato:entity-ref>.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="H456D07C1F0B2419BB4AAE06447BF3D54">
+          <enum>(2)</enum>
+          <header>Vice chair</header>
+          <text>A Vice Chair shall be selected from among the members of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> by the Chair.</text>
+				</paragraph>
+        <paragraph id="H91FEA82EBC5742C697AC8823AC02502B">
+          <enum>(3)</enum>
+          <header>Limitation on Government employee members</header>
+          <text>Not more than six members of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> may be Government employees.</text>
+				</paragraph>
+        <paragraph id="HEE319FF1B8074E16A7C5A14BB5C499F9">
+          <enum>(4)</enum>
+          <header>Terms of office</header>
+          <text>Each member of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> shall be appointed for a renewable term of five years, except
+			 that one-third of the members initially appointed shall be appointed for a
+			 three-year term, one-third of such members shall be appointed for a
+			 four-year term, and one-third of such members and the Chair shall be
+			 appointed for a five-year term.</text>
+				</paragraph>
+        <paragraph commented="no" id="H1307B7B39E364B2B837643B853D135E2">
+          <enum>(5)</enum>
+          <header>Initial appointments</header>
+          <text>The initial appointments of members of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> shall be made not later than 90 days
+			 after the date of the enactment of this Act.</text>
+				</paragraph>
+        <paragraph id="HE99AAEEA5317452FABC7011EB2942BE4">
+          <enum>(6)</enum>
+          <header>Meetings</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> shall meet no fewer than six times per year.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="H39A6EFB71F444B4292E53D0C4B1B8C4D">
+        <enum>(d)</enum>
+        <header>Powers of Advisory Committee</header>
+				<paragraph id="H96D57B79F3BB498497324ACE17C582EB">
+          <enum>(1)</enum>
+          <header>In general</header>
+          <text>From time to time, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> shall examine its legislative charter, structure, and
+			 funding, and shall make recommendations to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>, and
+			 the Courts regarding how it could be restructured to better accomplish its
+			 mission of making Government information available to the public on the
+			 Internet. The recommendations shall be published in print and on the
+			 Internet.</text>
+				</paragraph>
+        <paragraph id="H905ADDC2E89D47C3A26AD90F2BB3C503">
+          <enum>(2)</enum>
+          <header>Specific powers</header>
+          <text>In order to carry out its purposes, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> is authorized to do the following:</text>
+					<subparagraph id="HE6C2325E9BA74CF197325CC4A2154584">
+            <enum>(A)</enum>
+            <text display-inline="yes-display-inline">Hold hearings.</text>
+					</subparagraph>
+          <subparagraph id="H8E0544E4CED144689C6E75C831EEE2D8">
+            <enum>(B)</enum>
+            <text>Issue recommendations to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>.</text>
+					</subparagraph>
+          <subparagraph id="HD2D3FB77B6A04320B499F9BF1FDCE923">
+            <enum>(C)</enum>
+            <text>Issue recommendations to agencies.</text>
+					</subparagraph>
+          <subparagraph id="H1B7908B83F3D42269BEFF73331DAF416">
+            <enum>(D)</enum>
+            <text>Issue reports, guidelines, and memoranda.</text>
+					</subparagraph>
+          <subparagraph id="H249161FAD433494AA791F15E6D3DAE97">
+            <enum>(E)</enum>
+            <text>Articulate guidelines on how the Government should make public records available on the Internet,
+			 update those guidelines as appropriate, and inquire into Government
+			 compliance with those guidelines.</text>
+					</subparagraph>
+          <subparagraph id="HC17345B4DB174214A59A9E386DE91221">
+            <enum>(F)</enum>
+            <text>Hold or host conferences and symposia.</text>
+					</subparagraph>
+          <subparagraph id="HAA7B36D58CC94044B9A3D46987394AE1">
+            <enum>(G)</enum>
+            <text>Enter into cooperative agreements with outside experts to obtain relevant advice or expertise, and
+			 oversee staff.</text>
+					</subparagraph>
+          <subparagraph id="H3061B679B05C4DAA871B887196315545">
+            <enum>(H)</enum>
+            <text>Establish subcommittees.</text>
+					</subparagraph>
+          <subparagraph id="H1F74C273EC3549DB95F9DF43F188430A">
+            <enum>(I)</enum>
+            <text>Establish rules of procedure.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="H73498EAB41AD442E8B5C841503C0C745">
+          <enum>(3)</enum>
+          <header>Relationship to FACA</header>
+          <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> shall not be subject to the control of any advisory committee management
+			 officer designated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Advisory Committee Act/s:8/ss:b/p:1">section 8(b)(1) of the Federal Advisory Committee
+			 Act</cato:entity-ref>.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="HF6187CAF57514A7FB4C5DAB6B002A67C">
+        <enum>(e)</enum>
+        <header>Operations</header>
+				<paragraph id="H5C9FBC9BD34A4213BFC0778FA9D10770">
+          <enum>(1)</enum>
+          <header>Open Government procedures</header>
+          <text>In addition to the rules in the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Federal Advisory Committee Act">Federal Advisory Committee Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc-appendix/5">5 U.S.C. App.</cato:entity-ref>)</cato:entity>, in the interest of
+			 improving transparency, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> shall adhere to the
+			 following rules that supplement and modify such Act (in accordance with
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Advisory Committee Act/s:4/ss:a">section 4(a) of such Act</cato:entity-ref>):</text>
+					<subparagraph id="H5E24111DD4CD481BB56713E59A5AF709">
+            <enum>(A)</enum>
+            <text>Subcommittees shall have the same duties and obligations as the full committee as delineated under
+			 sections 10 through 13 of such Act. Subcommittees shall similarly be bound
+			 by the terms of this section.</text>
+					</subparagraph>
+          <subparagraph id="H83204667271D4BEA8D3CBFB33F6FC253">
+            <enum>(B)</enum>
+            <text>All information made available on the Internet shall be done so by state-of-the-art methods.</text>
+					</subparagraph>
+          <subparagraph id="HB9E6DDA88AA8426EAD202DEB94DF7104">
+            <enum>(C)</enum>
+            <text>Information required to be made available on the Internet shall be done so in a timely fashion.</text>
+					</subparagraph>
+          <subparagraph id="HDB6CD100F487432186F685F5A9CB3057">
+            <enum>(D)</enum>
+            <text>Notice of all meetings shall be available on the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref>’s website, with agendas
+			 available on the Internet at least 3 days prior to any meeting.</text>
+					</subparagraph>
+          <subparagraph id="H34F08015CFC34E979E58998DB1307D08">
+            <enum>(E)</enum>
+            <text>All records available for public copying under section 10 of the Act shall also be made available
+			 on the website of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref>.</text>
+					</subparagraph>
+          <subparagraph id="H5C5F47638ACE4FC9A11A2DC2D6723FB3">
+            <enum>(F)</enum>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> shall make available on the Internet and to any person, at no cost,
+			 transcripts of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> proceedings.</text>
+					</subparagraph>
+          <subparagraph id="HBC36B14922EA46E39F4193512575181D">
+            <enum>(G)</enum>
+            <text>Videos recordings of proceedings shall be made available on the Internet.</text>
+					</subparagraph>
+          <subparagraph id="HC00DE56D1ECB4B81AD766F9926769430">
+            <enum>(H)</enum>
+            <text>Documents submitted to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> shall be made publicly available unless the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory
+			 Committee</cato:entity-ref> determines that those materials would disclose matters described
+			 in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/552/b">
+                <external-xref legal-doc="usc" parsable-cite="usc/5/552">section 552(b)</external-xref> of title 5, United States Code</cato:entity-ref>.</text>
+					</subparagraph>
+          <subparagraph id="H6701AF242EDD475C940F85F52F04978B">
+            <enum>(I)</enum>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> shall make publicly available the names and brief biographies of its
+			 members.</text>
+					</subparagraph>
+          <subparagraph id="HB75A23EE4965460A8865FA2FD9858BCD">
+            <enum>(J)</enum>
+            <text>All members of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> shall file financial disclosure forms, which shall be made
+			 available on the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> website after redactions to remove
+			 personally identifiable information, such as social security numbers.</text>
+					</subparagraph>
+          <subparagraph id="HF494B1E7A00A47BB9EDD30E79A0E4D28">
+            <enum>(K)</enum>
+            <text>All members of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> shall have to state and publicly disclose conflicts of
+			 interest. These statements must be updated whenever new conflicts arise or
+			 on an annual basis, whichever is more frequent. These disclosures shall be
+			 placed on the Internet.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="H4AB820C8F32D41FD9E783086A7396953">
+          <enum>(2)</enum>
+          <header>Support services</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4700" entity-type="federal-body">General Services Administration</cato:entity-ref> shall be responsible for providing all support services to the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref>, including quarters and staff, and for requesting funds
+			 from <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> on behalf of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref>. Nothing in this section
+			 shall prevent the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> from communicating with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
+			 directly regarding funding or other matters.</text>
+				</paragraph>
+        <paragraph id="HAB209292B26B4312B51C4491431B422F">
+          <enum>(3)</enum>
+          <header>Duration</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> is a continuing body and is not subject to termination as provided in
+			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Federal Advisory Committee Act/s:14">
+                <external-xref legal-doc="usc-act" parsable-cite="usc-act/Federal Advisory Committee Act /14">section 14</external-xref> of the Federal Advisory Committee Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc-appendix/5">5 U.S.C. App.</cato:entity-ref>)</cato:entity>.</text>
+				</paragraph>
+        <paragraph id="H5828878CBD4D4CBC99CFF8139126B46D">
+          <enum>(4)</enum>
+          <header>Application of FACA</header>
+          <text>Except as otherwise provided in this section, the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Federal Advisory Committee Act">Federal Advisory Committee Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc-appendix/5">5 U.S.C. App.</cato:entity-ref>)</cato:entity>
+			 shall apply to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref>.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="HB98D22556A5543AE855B6274EF381478">
+        <enum>(f)</enum>
+        <header>Reports</header>
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> shall issue a report on its activities every two years, or as appropriate,
+			 whichever is more frequent.</text>
+			</subsection>
+      <subsection id="H0F8AA0CA44054183AD0A758F693B6189">
+        <enum>(g)</enum>
+        <header>Authorization</header>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be appropriated to the <cato:entity-ref entity-id="4700" entity-type="federal-body">General Services Administration</cato:entity-ref> <cato:funds-and-year amount="indefinite">such sums as may be
+			 necessary</cato:funds-and-year> <cato:property name="purpose">for the operations of the <cato:entity-ref entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref>
+            </cato:property>.</cato:entity>
+        </text>
+			</subsection>
+    </section>
+    <section id="H7F76D6179902454E887886527341F086">
+      <enum>7.</enum>
+      <header>Executive branch Internet publication mandate</header>
+			<subsection id="HFE672F0C5DC5402E8A4E54572D60D148">
+        <enum>(a)</enum>
+        <header>Online Publication Requirements</header>
+				<paragraph id="H5C0361B5E5B148FBB26A20A481E913A2">
+          <enum>(1)</enum>
+          <header>Free availability</header>
+					<subparagraph id="HA3B2ED3DB3014159899F517D3C437B93">
+            <enum>(A)</enum>
+            <text>Except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Online Information Act of 2014/s:7/ss:a/p:1/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>, the Government shall make public records available on the
+			 Internet at no charge (including a charge for recovery of costs) to the
+			 public.</text>
+					</subparagraph>
+          <subparagraph id="H55787E1F062745059152E8AE8EE2B268">
+            <enum>(B)</enum>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Online Information Act of 2014/s:7/ss:a/p:1/sp:A" proposed="true">Subparagraph (A)</cato:entity-ref> shall not apply in the case of a charge imposed by Federal law before the date of
+			 the enactment of this Act.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="H07C4C62E783346EFBDF9FE375228F3FA">
+          <enum>(2)</enum>
+          <header>Permanence</header>
+          <text>Public records shall be permanently available on the Internet.</text>
+				</paragraph>
+        <paragraph id="H26655F88FED6451C947C656A146401CB">
+          <enum>(3)</enum>
+          <header>Current technology</header>
+          <text>Current information technology capabilities shall be applied to the means by which records are made
+			 available on the Internet, and the formats in which they are available.</text>
+				</paragraph>
+        <paragraph id="HFFA1F0A718874AF7A73E8E40AF8E0D86">
+          <enum>(4)</enum>
+          <header>Searchable list</header>
+          <text>Each agency shall publish on the Internet a comprehensive, searchable, machine processable list of
+			 all records it makes publicly available. With respect to those records,
+			 the list shall include at least the following information:</text>
+					<subparagraph id="HA8D6DA8663D041EA9C5F20ABECE8DEFA">
+            <enum>(A)</enum>
+            <text>Where the records can be found.</text>
+					</subparagraph>
+          <subparagraph id="H507479C88B334C2499BB09CE6BF916B7">
+            <enum>(B)</enum>
+            <text>Whether the records are available to the public at no cost or for a fee (and the amount of the fee,
+			 if applicable).</text>
+					</subparagraph>
+          <subparagraph id="H65C235405E1845C3A05B21F7040875BA">
+            <enum>(C)</enum>
+            <text>Brief descriptions of the records.</text>
+					</subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection id="H2EE7190E1CD34CA998A03A6141D8DF81">
+        <enum>(b)</enum>
+        <header>Rulemaking Authority</header>
+				<paragraph id="H019335183B0240BBA41C5292620A5B1F">
+          <enum>(1)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">Nothing in the grant of authority in this subsection shall be construed to limit the Government's
+			 obligation to make records publicly available as required by law.</text>
+				</paragraph>
+        <paragraph id="H85A7E0A5BEDC4061843AECBE6F63DC6A">
+          <enum>(2)</enum>
+          <header>Executive Agencies</header>
+					<subparagraph id="H72DFA841EB324F6F8FD63C3D41FBFF08">
+            <enum>(A)</enum>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1103" entity-type="federal-body">Director of the Office of Management and Budget</cato:entity-ref> shall delegate to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">E-Government
+			 Administrator</cato:entity-ref> the authority to administer all functions under this
+			 section, except that any such delegation shall not relieve the Director of
+			 responsibility for the administration of such functions.</text>
+					</subparagraph>
+          <subparagraph id="H91BDDA51CC9D44C69FA7AEE5791ED5B2">
+            <enum>(B)</enum>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">E-Government Administrator</cato:entity-ref>, after consulting with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Information and Regulatory Affairs" entity-parent-id="1103">Office of Information and Regulatory
+			 Policy</cato:entity-ref>, shall promulgate such regulations as are necessary to ensure that
+			 all public records held by Executive agencies are available on the
+			 Internet in the formats and by the means the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">E-Government Administrator</cato:entity-ref>
+			 designates. In promulgating the regulations, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">E-Government
+			 Administrator</cato:entity-ref> shall consider the guidelines issued by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Public Online
+			 Information Advisory Committee</cato:entity-ref>.</text>
+					</subparagraph>
+          <subparagraph id="H19882DEB48FE4BD786DAB47D7DB39E8D">
+            <enum>(C)</enum>
+            <text>In the regulations promulgated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Online Information Act of 2014/s:7/ss:b/p:2/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">E-Government Administrator</cato:entity-ref> shall
+			 include—</text>
+						<clause id="HE9E19A0DFD1E42B6B34591C0897A1AE9">
+              <enum>(i)</enum>
+              <text>rules on how Executive agencies shall publish records on the Internet, including the format and
+			 timeframe; and</text>
+						</clause>
+            <clause id="HE8E52E28DF6144169B7750B70A1B9BA2">
+              <enum>(ii)</enum>
+              <text>procedures through which Executive agencies may object to placing public records on the Internet,
+			 in accordance with the exceptions under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Online Information Act of 2014/s:7/ss:b/p:4" proposed="true">paragraph (4)</cato:entity-ref>, and a method by
+			 which the objections can be reviewed.</text>
+						</clause>
+          </subparagraph>
+          <subparagraph id="H7F0B4A7EFF9E454491D203FF8194666F">
+            <enum>(D)</enum>
+            <text>The regulations promulgated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Online Information Act of 2014/s:7/ss:b/p:2/sp:B" proposed="true">subparagraph (B)</cato:entity-ref> shall not preclude Executive agencies from
+			 making additional records available on the Internet beyond those required
+			 by the regulations, or in additional formats beyond those required by the
+			 regulations, or on a more rapid timeframe than required by the
+			 regulations. In addition, each Executive agency head shall designate a
+			 person within the agency responsible for Internet publication of public
+			 records.</text>
+					</subparagraph>
+          <subparagraph id="H4E476ABF8ACF4C318CAAE11CC7313E74">
+            <enum>(E)</enum>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1103" entity-type="federal-body">Director of the Office of Management and Budget</cato:entity-ref> shall ensure that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">E-Government
+			 Administrator</cato:entity-ref> has adequate staff and resources to properly fulfill all the
+			 Administrator’s functions under this Act.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="HEE34385392F9424CBD85C2C27330806A">
+          <enum>(3)</enum>
+          <header>Independent Regulatory Agencies</header>
+					<subparagraph id="H5B0001632D464DA1AA1618AC7510AF99">
+            <enum>(A)</enum>
+            <text display-inline="yes-display-inline">A Chief Information Officer of an independent regulatory agency (hereafter in this section referred
+			 to as a <quote>CIO</quote>) or an official designated by the head of an independent regulatory agency shall promulgate such
+			 regulations as are necessary to ensure that public records are available
+			 on the Internet in the formats and by the means the CIO designates. In
+			 promulgating the regulations, the CIO or other official shall consider the
+			 guidelines issued by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Public Online Information Advisory Committee</cato:entity-ref>, as
+			 well as regulations promulgated by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">E-Government Administrator</cato:entity-ref> under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Online Information Act of 2014/s:7/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>.</text>
+					</subparagraph>
+          <subparagraph id="HE0BAFEA51AA74316A9FE79430BBE964D">
+            <enum>(B)</enum>
+            <text>The regulations promulgated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Online Information Act of 2014/s:7/ss:b/p:3/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> shall not preclude the heads of offices within
+			 an independent regulatory agency from making additional records available
+			 on the Internet beyond those required by the regulations, or in additional
+			 formats beyond those required by the regulations, or on a more rapid
+			 timeframe than required by the regulations.</text>
+					</subparagraph>
+          <subparagraph id="H9E6B791B6BE14F1587AC0A5F66E25FD9">
+            <enum>(C)</enum>
+            <text display-inline="yes-display-inline">The head of the independent regulatory agency shall ensure that the CIO or the official designated
+			 by the head of the independent regulatory agency has adequate staff and
+			 resources to properly fulfill all of the CIO’s functions under this Act.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph commented="no" id="H3DD3C6636C794859AED6A0FEEF9E25A6">
+          <enum>(4)</enum>
+          <header>Exceptions</header>
+					<subparagraph commented="no" id="HB4B3F7C3F52445A2A95C6F47E3A6FEEA">
+            <enum>(A)</enum>
+            <header>In general</header>
+            <text>The regulations promulgated under this subsection may contain exceptions, in accordance with this
+			 paragraph, to the requirement that all public records be made available on
+			 the Internet.</text>
+					</subparagraph>
+          <subparagraph commented="no" id="H28AFBF34D732483CBFD88692AB175EB1">
+            <enum>(B)</enum>
+            <header>Scope of exceptions</header>
+            <text display-inline="yes-display-inline">The exceptions may be no broader than the exceptions recognized under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="uscode" value="usc/5/552">
+                  <external-xref legal-doc="usc" parsable-cite="usc/5/552">section 552</external-xref> of title 5,
+			 United States Code</cato:entity-ref> (popularly referred to as the <quote>
+                  <cato:entity-ref entity-type="act" value="Freedom of Information Act">Freedom of Information Act</cato:entity-ref>
+                </quote>)</cato:entity>.</text>
+					</subparagraph>
+          <subparagraph commented="no" id="H4CF9F7D3704A4C41A1193889C08996C3">
+            <enum>(C)</enum>
+            <header>Additional exceptions by request</header>
+            <text display-inline="yes-display-inline">In addition to the exceptions provided under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Online Information Act of 2014/s:7/ss:b/p:4/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>, the regulations shall provide for
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">E-Government Administrator</cato:entity-ref> or, in the case of an independent
+			 regulatory agency, the CIO or official designated by the head of the
+			 agency, to grant narrow case-by-case exceptions to the Internet
+			 publication requirement if an agency requests an exception and the agency
+			 demonstrates that—</text>
+						<clause commented="no" id="HA9F5AB2F101C421580FC0A0736E61CD3">
+              <enum>(i)</enum>
+              <text>there is a clear and convincing reason for the record to not be made available on the Internet; and</text>
+						</clause>
+            <clause commented="no" id="H57E8BF0FC5DB4432B33EA80C1205686F">
+              <enum>(ii)</enum>
+              <text>on balance, the harm caused by disclosure significantly outweighs the public’s interest in having
+			 the record available on the Internet.</text>
+						</clause>
+          </subparagraph>
+          <subparagraph commented="no" id="H4AFA2BBAF8F74EA5A886E8CD67FA4219">
+            <enum>(D)</enum>
+            <header>Availability of segregable portions</header>
+            <text display-inline="yes-display-inline">If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">E-Government Administrator</cato:entity-ref>, CIO, or official designated by the head of an independent
+			 regulatory agency approves a request for an exception with respect to a
+			 public record under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Online Information Act of 2014/s:7/ss:b/p:4/sp:C" proposed="true">subparagraph (C)</cato:entity-ref>, any reasonably segregable portion of
+			 the public record shall be made available on the Internet in a timely
+			 fashion after deletion of the portions that are subject to the exception.
+			 The amount of information deleted shall be indicated on the portion of the
+			 record that is made available on the Internet, unless including that
+			 indication would significantly harm the interest protected by the
+			 exception. If technically feasible, the amount of the information deleted
+			 shall be indicated at the place in the record where such deletion is made.</text>
+					</subparagraph>
+          <subparagraph id="HEFA8891E262F4719AF99DAB44841D7EB">
+            <enum>(E)</enum>
+            <header>Disclosure of withheld records</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">E-Government Administrator</cato:entity-ref>, CIO, or official designated by the head of an independent
+			 regulatory agency shall maintain a list of records not made available on
+			 the Internet by reason of an exception under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Online Information Act of 2014/s:7/ss:b/p:4/sp:C" proposed="true">subparagraph (C)</cato:entity-ref> and publish
+			 such list on the Internet, excluding any records the identification of
+			 which would significantly harm the interest protected by the exception.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="H83946EE31479410D8A73752562BC8634">
+          <enum>(5)</enum>
+          <header>Publication</header>
+          <text display-inline="yes-display-inline">Regulations promulgated under this subsection shall be published in the Federal Register and on the
+			 relevant agency website.</text>
+				</paragraph>
+        <paragraph id="HEB107B5E9DC1479E9765F2297058BE80">
+          <enum>(6)</enum>
+          <header>Applicability</header>
+          <text>Regulations promulgated under this subsection shall apply only to public records generated,
+			 updated, or released after the date of the enactment of this Act.</text>
+				</paragraph>
+        <paragraph id="H3AF93428462D4ADD9F7662928C3574A2">
+          <enum>(7)</enum>
+          <header>Effective date</header>
+          <text>Regulations promulgated under this subsection shall take effect no sooner than 3 years after the
+			 date of the enactment of this Act.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="HECF860E0A1FE432BAF52D5722C45A2B8">
+        <enum>(c)</enum>
+        <header>Reports to Congress</header>
+        <text display-inline="yes-display-inline">At least once every four years, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">E-Government Administrator</cato:entity-ref> and each independent regulatory
+			 agency CIO shall review the exceptions provided under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Online Information Act of 2014/s:7/ss:b/p:4" proposed="true">subsection (b)(4)</cato:entity-ref> to
+			 making public records available on the Internet and, if warranted, make
+			 recommendations to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> and to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> regarding whether Federal
+			 law should be changed. The report shall be made publicly available,
+			 including being published on the Internet.</text>
+			</subsection>
+      <subsection id="HB6CA592369EB47F396869B0BDEB584E3">
+        <enum>(d)</enum>
+        <header>Inspector general reviews</header>
+        <text>The Inspector General of each agency shall conduct periodic reviews regarding agency compliance
+			 with Internet publication requirements, no less often than once every four
+			 years. The reviews shall be published on the Internet.</text>
+			</subsection>
+      <subsection id="HC5EB3B5186FC4E60918FD1652F971A84">
+        <enum>(e)</enum>
+        <header>Enforcement of Public Access by Private Individuals or Organizations</header>
+				<paragraph id="H584E65F73C79490DB24AA912B8C6AD7B">
+          <enum>(1)</enum>
+          <header>Requests</header>
+          <text display-inline="yes-display-inline">Private individuals or organizations may request that an Executive agency place public records on
+			 the Internet, including the comprehensive searchable list of publicly
+			 available records referred to in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Online Information Act of 2014/s:7/ss:a/p:4" proposed="true">section 7(a)(4)</cato:entity-ref>, in accordance with
+			 Federal regulations. An agency has 30 days to respond to the request in
+			 writing or to place the record on the Internet. If an agency denies the
+			 request in whole or in part, the private individual or organization may
+			 file a complaint in Federal court.</text>
+				</paragraph>
+        <paragraph id="HFB9122A0391C4A7FA8B5B96D301995B6">
+          <enum>(2)</enum>
+          <header>Jurisdiction</header>
+					<subparagraph commented="no" display-inline="yes-display-inline" id="HC80E5060A43F42A7BCD5B536BF3EC6E6">
+            <enum>(A)</enum>
+            <text>On complaint, the district court of the United States in the district in which the complainant
+			 resides, or has his principal place of business, or in which the agency
+			 records are situated, or in the District of Columbia, has jurisdiction to
+			 enjoin the agency from refusing to publish agency records on the Internet,
+			 or refusing to publish it in an appropriate format, and to order the
+			 Internet online publication of any agency records improperly withheld. In
+			 such a case the court shall determine the matter de novo, and may examine
+			 the contents of such agency records in camera to determine whether such
+			 records or any part thereof shall be withheld under any of the exceptions
+			 provided under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Online Information Act of 2014/s:7/ss:b/p:4" proposed="true">subsection (b)(4)</cato:entity-ref>, and the burden is on the agency to
+			 sustain its action.</text>
+					</subparagraph>
+          <subparagraph id="H913E220C83FB417DA198643B97436F17" indent="up1">
+            <enum>(B)</enum>
+            <text>Notwithstanding any other provision of law, the defendant shall serve an answer or otherwise plead
+			 to any complaint made under this subsection within 30 days after service
+			 upon the defendant of the pleading in which such complaint is made, unless
+			 the court otherwise directs for good cause shown.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="H0953EADC7A374699BB2F151B1D2BAF7B">
+          <enum>(3)</enum>
+          <header>Attorney fees</header>
+          <text>The court may assess against the United States reasonable attorney fees and other litigation costs
+			 reasonably incurred in any case under this subsection in which the
+			 complainant has substantially prevailed.</text>
+				</paragraph>
+        <paragraph id="HE870754768FE4400A153C5AA8164B2D0">
+          <enum>(4)</enum>
+          <header>Special Counsel</header>
+          <text>Whenever the court orders the production of any agency records improperly withheld from the
+			 complainant and assesses against the United States reasonable attorney
+			 fees, litigation costs, and interest, and the court additionally issues a
+			 written finding that the circumstances surrounding the withholding raise
+			 questions whether agency personnel acted arbitrarily or capriciously with
+			 respect to the withholding, a Special Counsel shall promptly initiate a
+			 proceeding to determine whether disciplinary action is warranted against
+			 the officer or employee who was primarily responsible for the withholding.
+			 A Special Counsel, after investigation and consideration of the evidence
+			 submitted, shall submit his findings and recommendations to the
+			 administrative authority of the agency concerned and shall send copies of
+			 the findings and recommendations to the officer or employee or his
+			 representative. The administrative authority shall take the corrective
+			 action that the Special Counsel recommends.</text>
+				</paragraph>
+        <paragraph id="H8E4FE8AF9D1C46278FA9AF06C3023A96">
+          <enum>(5)</enum>
+          <header>Contempt</header>
+          <text>In the event of noncompliance with the order of the court, the district court may punish for
+			 contempt the responsible employee, and in the case of a uniformed service,
+			 the responsible member.</text>
+				</paragraph>
+      </subsection>
+    </section>
+    <section id="HBB5F7F6B96304847B6289ADED09380E3">
+      <enum>8.</enum>
+      <header>Legislative and judicial information</header>
+      <text display-inline="no-display-inline">It is the sense of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> that judicial and legislative agencies (within the meaning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/3701">section
+			 3701 of title 31, United States Code</cato:entity-ref>) should adopt or adapt the
+			 recommendations of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Advisory Committee</cato:entity-ref> for their own use. In addition,
+			 judicial and legislative agencies are encouraged to consider the
+			 guidelines issued by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Public Online Information Advisory Committee</cato:entity-ref> and
+			 the regulations promulgated by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">E-Government Administrator</cato:entity-ref>.</text>
+		</section>
+    <section id="H188EA854830947D8926A48C6F728D362">
+      <enum>9.</enum>
+      <header>Government Printing Office</header>
+      <text display-inline="no-display-inline">It is the sense of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0400" entity-type="federal-body">Government Printing Office</cato:entity-ref> should make all of its
+			 publications permanently available on the Internet in a multiplicity of
+			 formats that best meet the needs of the public. In doing so, the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0400" entity-type="federal-body">Government Printing Office</cato:entity-ref> is strongly encouraged to consider the
+			 recommendations of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Online Information Advisory Committee" proposed="true">Public Online Information Advisory Committee</cato:entity-ref> and
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">E-Government Administrator</cato:entity-ref>.</text>
+		</section>
+  </legis-body>
+</bill>
+</doc>
