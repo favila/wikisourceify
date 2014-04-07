@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113hr2122ih">
     <bill congress="113" type="hr" number="2122" version="ih"/>
-    <revision size="50073" annotations="0" status="complete" id="4" commit-time="2013-08-01T20:09:58Z" committer="mbohmer" doc="113hr2122ih/4.xml">
+    <revision size="50073" annotations="0" status="complete" id="5" commit-time="2014-04-05T18:20:34Z" committer="mbohmer" doc="113hr2122ih/5.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H163E456CE72E4858B56DC80E1F7DEEEC" public-private="public">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata>
 <dublinCore>
-<dc:title>113 HR 2122 IH: Regulatory Accountability Act of 2013</dc:title>
-<dc:publisher>U.S. House of Representatives</dc:publisher>
-<dc:date>2013-05-23</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 2122 IH: Regulatory Accountability Act of 2013</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-05-23</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -46,8 +46,10 @@
       <header>Short title</header>
       <text display-inline="no-display-inline">This Act may be cited as the
 			 <quote>
-          <short-title>Regulatory Accountability Act of
-			 2013</short-title>
+          <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Regulatory Accountability Act of 2013" proposed="true">Regulatory Accountability Act of
+			 2013</cato:entity-ref>
+            </short-title>
         </quote>.</text>
 		</section>
     <section id="HC43BAE265A4B43D898629A41BB8FD3AE">
@@ -1242,7 +1244,7 @@
         <text>by adding at the
 			 end the following: “Denial by an agency of a correction request or, where
 			 administrative appeal is provided for, denial of an appeal, under an
-			 administrative mechanism described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Information Quality Act/s:/ss:b/p:2/sp:B">subsection (b)(2)(B) of the Information
+			 administrative mechanism described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Information Quality Act/ss:b/p:2/sp:B">subsection (b)(2)(B) of the Information
 			 Quality Act</cato:entity-ref>, or the failure of an agency within 90 days to grant or deny such
 			 request or appeal, shall be final action for purposes of this section.</text>
 				<quoted-block id="HCBF5517C57A241828010FDEDDE263B9D" style="OLC">

@@ -1,0 +1,822 @@
+<doc>
+  <docmeta id="113s2158is">
+    <bill congress="113" type="s" number="2158" version="is"/>
+    <revision size="31231" annotations="0" status="complete" id="8" commit-time="2014-04-05T17:07:58Z" committer="mbohmer" doc="113s2158is/8.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-Senate" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S2158 IS: Grid Reliability and Infrastructure Defense Act</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-03-26</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 2158</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20140326">March 26, 2014</action-date>
+			<action-desc>
+        <sponsor name-id="S369">Mr. Markey</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSEG00">Committee on Energy and Natural Resources</committee-name>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title display="yes">To amend the Federal Power Act to protect the bulk-power system and electric infrastructure
+			 critical to the defense of the United States against cybersecurity and
+			 physical and other threats and vulnerabilities.</official-title>
+	</form>
+	<legis-body id="H99B938EFC9014ED9903D4667921C667A" style="OLC">
+		<section id="HB748F02662EA4F6D88B22A2E3D46322D" section-type="section-one">
+			<enum>1.</enum>
+			<header>Short title</header>
+			<text display-inline="no-display-inline">This Act may be cited as the <quote>
+          <short-title>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Grid Reliability and Infrastructure Defense Act" proposed="true">Grid Reliability and Infrastructure Defense Act</cato:entity-ref>
+          </short-title>
+        </quote> or the  <quote>
+          <short-title>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="GRID Act" proposed="true">GRID Act</cato:entity-ref>
+          </short-title>
+        </quote>.</text>
+		</section>
+    <section id="HCB1FA24365CB4D34981C89CA5E528025">
+			<enum>2.</enum>
+			<header>Critical electric infrastructure security</header>
+			<subsection id="H9877D625BC524BACAF9B0960C964D8BC">
+				<enum>(a)</enum>
+				<header>In general</header>
+				<text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/pt:II">Part II of the Federal Power Act</cato:entity-ref> is amended by inserting after <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Federal Power Act/s:215">section 215</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/16/824o">
+            <cato:entity-ref entity-type="uscode" value="usc/16/824o">16 U.S.C. 824o</cato:entity-ref>
+          </external-xref>)</cato:entity> the
+			 following:</text>
+				<quoted-block display-inline="no-display-inline" id="HAE44B88321D8487B8131F2B1F8BFE903" style="OLC">
+					<section id="H8FDB39D121E94034B66BFB6A70CB1441">
+						<enum>215A.</enum>
+						<header>Critical electric infrastructure security</header>
+						<subsection id="HCE627A5E999A42C39BDB966AC1781666">
+							<enum>(a)</enum>
+							<header> Definitions</header>
+							<text display-inline="yes-display-inline">In this section:</text>
+							<paragraph id="HCCEC829A3344485582FC9F2DC856CAEA">
+								<enum>(1)</enum>
+								<header>Bulk-power system; Electric Reliability Organization; Regional Entity</header>
+								<text>The terms <term>bulk-power system</term>, <term>Electric Reliability Organization</term>, and <term>regional entity</term> have the meanings given those terms in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215/ss:a">section 215(a)</cato:entity-ref>.</text>
+							</paragraph>
+              <paragraph id="H21BB12086BDB45DF94E73D290FA596F9">
+								<enum>(2)</enum>
+								<header>Defense critical electric infrastructure</header>
+								<text>The term <term>defense critical electric infrastructure</term> means any infrastructure located in the United States (including the territories) used for the
+			 generation, transmission, or distribution of electric energy that—</text>
+								<subparagraph id="H89FA120922EF4645940A8ABAD1D0ED06">
+									<enum>(A)</enum>
+									<text>is not part of the bulk-power system; and</text>
+								</subparagraph>
+                <subparagraph id="HF95DBA155B3749DEA89DB7B5225CA716">
+									<enum>(B)</enum>
+									<text>serves a facility designated by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:d/p:1" proposed="true">subsection (d)(1)</cato:entity-ref>, but is not owned or
+			 operated by the owner or operator of the facility.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H98A1D7EC676A4251ACBBCBFB6A057056">
+								<enum>(3)</enum>
+								<header>Defense critical electric infrastructure vulnerability</header>
+								<text>The term <term>defense critical electric infrastructure vulnerability</term> means a weakness in defense critical electric infrastructure that, in the event of—</text>
+                <subparagraph id="idE190C593164B4D21A1E261BE6BB1F12E">
+                  <enum>(A)</enum>
+                  <text>a malicious act
+			 using electronic communication or an electromagnetic pulse, would pose a
+			 substantial risk of disruption of those electronic devices or
+			 communications networks, including hardware, software, and data, that are
+			 essential to the reliability of defense critical electric infrastructure;
+			 or</text>
+								</subparagraph>
+                <subparagraph id="idBAD4B94AE7084AE5B1E3A6B135FAB760">
+                  <enum>(B)</enum>
+                  <text>a direct physical attack on the defense critical electric infrastructure, would pose a substantial
+			 risk of significant adverse effects on the reliability of defense critical
+			 electric infrastructure.</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="H7EECDF2E2F84447D8ED3E49B92A44D39">
+								<enum>(4)</enum>
+								<header>Electromagnetic pulse</header>
+								<text>The term <term>electromagnetic pulse</term> means 1 or more pulses of electromagnetic energy emitted by any device or weapon capable of
+			 generating a pulse
+			 that would pose a substantial risk of disruption to the operation of those
+			 electronic devices or communications networks, including hardware,
+			 software, and data, that are essential to the reliability of systems
+			 necessary for the generation, transmission, and distribution of electric
+			 energy.</text>
+							</paragraph>
+              <paragraph id="H2F6FFC2B573849C3AA505FB0D8425002">
+								<enum>(5)</enum>
+								<header>Geomagnetic storm</header>
+								<text>The term <term>geomagnetic storm</term> means a temporary disturbance of the magnetic field of the Earth resulting from solar activity.</text>
+							</paragraph>
+              <paragraph id="H889CBD3B78724FC5B9F72A61061E731D">
+								<enum>(6)</enum>
+								<header>Grid security threat</header>
+								<text>The term <term>grid security threat</term> means a substantial likelihood of—</text>
+								<subparagraph id="H9CDCF6545014400EBFB555AF0DF86589">
+									<enum>(A)</enum>
+									<clause commented="no" display-inline="yes-display-inline" id="H2B9279025FBF4377A7BD20C85AF11FC9">
+                    <enum>(i)</enum>
+										<text>a malicious act using electronic communication or an electromagnetic pulse, or a geomagnetic storm
+			 event, that could disrupt the operation of those electronic devices or
+			 communications networks, including hardware, software, and data, that are
+			 essential to the reliability of the bulk-power system or of defense
+			 critical electric infrastructure; and</text>
+									</clause>
+                  <clause id="HDAC108870CAB4C11BA763ACCBF9CC3E5" indent="up1">
+										<enum>(ii)</enum>
+										<text>disruption of the operation of those devices or networks, with significant adverse effects on the
+			 reliability of the bulk-power system or of defense critical electric
+			 infrastructure, as a result of the act or event; or</text>
+									</clause>
+                </subparagraph>
+                <subparagraph commented="no" id="H730E56E3847E4B4ABCBC3E1666229C65">
+									<enum>(B)</enum>
+									<clause commented="no" display-inline="yes-display-inline" id="H86211FE8F3FC4C54A89793FA9A7162A3">
+                    <enum>(i)</enum>
+										<text>a direct physical attack on the bulk-power system or on defense critical electric infrastructure;
+			 and</text>
+									</clause>
+                  <clause commented="no" id="H31A4A4D13D9C4503B2AE1D92FD690290" indent="up1">
+										<enum>(ii)</enum>
+										<text>significant adverse effects on the reliability of the bulk-power system or of defense critical
+			 electric infrastructure as a result of the physical attack.</text>
+									</clause>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="HCB22074EC4F7473A8E6FDFAD17344E07">
+                <enum>(7)</enum>
+                <header>Grid security vulnerability</header>
+                <text>The term <term>grid security vulnerability</term> means a weakness in the bulk power system that, in the event of—</text>
+                <subparagraph id="idC2D8D2B6274C4D4F92621BA9F32C1EA3">
+                  <enum>(A)</enum>
+                  <text>a malicious act using electronic communication or an
+			 electromagnetic pulse, would pose a substantial risk of disruption to the
+			 operation of those electronic devices or communications networks,
+			 including hardware, software, and data, that are essential to the
+			 reliability of the bulk-power system; or</text>
+                </subparagraph>
+                <subparagraph id="id497993796CF64F518D02C912D2A87189">
+                  <enum>(B)</enum>
+                  <text>a direct physical attack	on the bulk-power
+			 system, would pose a substantial risk of significant adverse effects on
+			 the reliability of the bulk-power system.</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="HBBBD94D4ECA24366953E7A0E7EB1323E">
+								<enum>(8)</enum>
+								<header>Large transformer</header>
+								<text>The term <term>large transformer</term> means an electric transformer that is part of the bulk-power system.</text>
+							</paragraph>
+              <paragraph id="H7C271127FE4348B5BB89E94296346A4B">
+								<enum>(9)</enum>
+								<header>Protected information</header>
+								<text>The term <term>protected information</term> means information, other than classified national security information, designated as protected
+			 information by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:e/p:2" proposed="true">subsection (e)(2)</cato:entity-ref>—</text>
+								<subparagraph id="HECD9B1E4B30C400EBD262DAED9A2202E">
+									<enum>(A)</enum>
+									<text>that was developed or submitted in connection with the implementation of this section;</text>
+								</subparagraph>
+                <subparagraph id="H0C0901F4D57F464882D9361D89053E36">
+									<enum>(B)</enum>
+									<text>that specifically discusses grid security threats, grid security vul­ner­a­bil­i­ties, defense
+			 critical
+			 electric infrastructure vul­ner­a­bil­i­ties, or plans, procedures, or
+			 measures
+			 to address the threats or vul­ner­a­bil­i­ties; and</text>
+								</subparagraph>
+                <subparagraph id="HDE0AF811862D4B16ADA7980E964C595E">
+									<enum>(C)</enum>
+									<text>the unauthorized disclosure of which could be used in a malicious manner to impair the reliability
+			 of the bulk-power system or of defense critical electric infrastructure.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="HF5D27B2230AF41628EC1CC4C27AA3D43">
+								<enum>(10)</enum>
+								<header>Secretary</header>
+								<text>The term <term>Secretary</term> means the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="8900" entity-type="federal-body">Secretary of Energy</cato:entity-ref>.</text>
+							</paragraph>
+              <paragraph id="H727235B0EC374C16BF7005255FBC4F56">
+								<enum>(11)</enum>
+								<header>Security</header>
+								<text>The term <term>security</term> does not have the definition of  the term provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:3">section 3</cato:entity-ref>.</text>
+							</paragraph>
+            </subsection>
+            <subsection id="HD12496F7F24340D0954AF0FEF9EA1131">
+							<enum>(b)</enum>
+							<header>Emergency response measures</header>
+							<paragraph id="HF73A308C639C49058B611B922E7F9C6F">
+								<enum>(1)</enum>
+								<header>Authority to address grid security threats</header>
+								<subparagraph id="id4BF78858776E49D29DC76E17DBAE6FEB">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+                  <text>If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> issues and provides to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> (either directly or through the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref>) a written directive or determination identifying an imminent
+			 grid security threat, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> may, with or without notice, hearing,
+			 or report, issue such orders for emergency measures as are necessary in
+			 the judgment of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> to protect the reliability of the
+			 bulk-power system or of
+			 defense critical electric infrastructure against the threat.</text>
+                </subparagraph>
+                <subparagraph id="id1D7772A7E67D480F8859E162E616B4D1">
+                  <enum>(B)</enum>
+                  <header>Rules of procedure</header>
+                  <text>As soon as
+			 practicable but not later than 180 days after the date of enactment of
+			 this section, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> shall, after notice and opportunity for
+			 comment, establish rules of procedure that ensure that the authority
+			 described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:b/p:1/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> can
+			 be exercised expeditiously.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="HFA15C39344F24336B0CCE680127E956B">
+								<enum>(2)</enum>
+								<header>Notification of Congress</header>
+								<text>If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> issues and provides to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> (either directly or through the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref>) a written directive or determination under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>, the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> (or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref>, as the case may be) shall promptly notify
+			 congressional committees of relevant jurisdiction, including the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HIF00">Committee
+			 on Energy and Commerce of the House of Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSEG00">Committee
+			 on Energy and Natural Resources of the Senate</cato:entity-ref>, of the contents of, and
+			 justification for, the directive or determination.</text>
+							</paragraph>
+              <paragraph id="H31CE46EC20004E43B28B43F4EA285AA1">
+								<enum>(3)</enum>
+								<header>Consultation</header>
+								<text>Before issuing an order for emergency measures under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> shall, to the
+			 extent practicable in light of the nature of the grid security threat and
+			 the urgency of the need for the emergency measures, consult with
+			 appropriate governmental authorities in Canada and Mexico, entities
+			 described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:b/p:4" proposed="true">paragraph (4)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref>, and other appropriate Federal
+			 agencies regarding implementation of the emergency measures.</text>
+							</paragraph>
+              <paragraph id="H007E4F19C8854CCFAE7517574FFB795D">
+								<enum>(4)</enum>
+								<header>Application</header>
+								<text>An order for emergency measures under this subsection may apply to—</text>
+								<subparagraph id="H1C8BABEC37434A529721DD1C77B9698F">
+									<enum>(A)</enum>
+									<text>the Electric Reliability Organization;</text>
+								</subparagraph>
+                <subparagraph id="H487C10CB3E564CE2949D0984FC58A0D4">
+									<enum>(B)</enum>
+									<text>a regional entity; or</text>
+								</subparagraph>
+                <subparagraph id="H21A40150C92545A788E1932A35A5DFF0">
+									<enum>(C)</enum>
+									<text display-inline="yes-display-inline">any owner, user, or operator of the bulk-power system or of defense critical electric
+			 infrastructure within the United States.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="HE164C1842C7D46A684A517088539BF98">
+								<enum>(5)</enum>
+								<header>Discontinuance</header>
+								<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> shall issue an order discontinuing any emergency measures ordered under this
+			 subsection, effective not later than 30 days after the earliest of the
+			 following:</text>
+								<subparagraph id="HDBE23851AF1A4D2DA4BD462FD9E47F06">
+									<enum>(A)</enum>
+									<text>The date on which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> issues and provides to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> (either directly or through
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref>) a written directive or determination that the grid security
+			 threat identified under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref> no longer exists.</text>
+								</subparagraph>
+                <subparagraph id="H0E5924DEB3F5414B9D2271C185BFB955">
+									<enum>(B)</enum>
+									<text display-inline="yes-display-inline">The date on which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> issues a written determination that the emergency measures are
+			 no longer needed to address the grid security threat identified under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>, including by means of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> approval of a reliability
+			 standard under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215">section 215</cato:entity-ref> that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> determines adequately
+			 addresses the threat.</text>
+								</subparagraph>
+                <subparagraph id="H6B6D531C2B3040029F82999A93018E5F">
+									<enum>(C)</enum>
+									<text display-inline="yes-display-inline">The date that is 1 year after the issuance of an order under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph commented="no" id="HB7A4DFDC8DB541F080E4556950407907">
+								<enum>(6)</enum>
+								<header>Cost recovery</header>
+								<text display-inline="yes-display-inline">If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> determines that owners, operators, or users of the bulk-power system or of
+			 defense critical electric infrastructure have incurred substantial costs
+			 to comply with an order under this subsection and that the costs were
+			 prudently incurred and cannot reasonably be recovered through regulated
+			 rates or market prices for the electric energy or services sold by the
+			 owners, operators, or users, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> shall, after notice and an
+			 opportunity for comment, establish a mechanism that permits the owners,
+			 operators, or users to recover the costs.</text>
+							</paragraph>
+            </subsection>
+            <subsection id="HA526B35E0D444913828CFC62B84136B9">
+							<enum>(c)</enum>
+							<header>Measures To address grid security vulnerabilities</header>
+							<paragraph id="HFDA26571252047E49BB0EAC3237E2227">
+								<enum>(1)</enum>
+								<header>Commission authority</header>
+								<subparagraph id="id9ECD6486C1364C31AB45F38C5C6C38A7">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+                  <text>If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref>, in consultation with appropriate Federal agencies, identifies a grid security
+			 vulnerability that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> determines has not adequately been
+			 addressed through a reliability standard developed and approved under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215">section 215</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> shall, after notice and opportunity for
+			 comment and after consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref>, other appropriate
+			 Federal agencies, and appropriate governmental authorities in Canada and
+			 Mexico, promulgate a rule or issue an order requiring implementation, by
+			 any owner, operator, or user of the bulk-power system in the United
+			 States, of measures to protect the bulk-power system against such
+			 vulnerability.</text>
+                </subparagraph>
+                <subparagraph id="id600D3C40E1AB49A78B4B0CF8E406A685">
+                  <enum>(B)</enum>
+                  <header>Recommendations</header>
+                  <clause id="id9D61D27A5A8B4F389A3CF7D8B435D0CA">
+                    <enum>(i)</enum>
+                    <header>In general</header>
+                    <text>Before promulgating a rule or issuing an order under this
+			 paragraph, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> shall, to the extent practicable in light of the
+			 urgency of the need for action to address the grid security vulnerability,
+			 request and consider recommendations from the Electric Reliability
+			 Organization regarding the rule or order.</text>
+                  </clause>
+                  <clause id="id835CDF7575BD4B6BBE8784B26AEF45D0">
+                    <enum>(ii)</enum>
+                    <header>Deadline</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> may establish an
+			 appropriate deadline for the submission of the recommendations.</text>
+									</clause>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="H720E58F4E4F040F8B87B2F600DE728F4">
+								<enum>(2)</enum>
+								<header>Certain existing cybersecurity vulnerabilities</header>
+								<text>Not later than 180 days after the date of enactment of this section, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> shall, after
+			 notice and opportunity for comment and after consultation with the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref>, other appropriate Federal agencies, and appropriate
+			 governmental authorities in Canada and Mexico, promulgate a rule or issue
+			 an order requiring the implementation, by any owner, user, or operator of
+			 the bulk-power system in the United States, of such measures as are
+			 necessary to protect the bulk-power system against the vulnerabilities
+			 identified in the communication entitled  ‘Electricity
+			 Sector Owners and Operators’,	dated June 21, 2007, of the North American
+			 Electric Reliability
+			 Corporation, acting in the capacity of the Corporation as the Electricity
+			 Sector Information
+			 and Analysis Center.</text>
+							</paragraph>
+              <paragraph id="H51233D152D314267A988767396AD9EB8">
+								<enum>(3)</enum>
+								<header>Rescission</header>
+								<subparagraph id="id6F18B91870894FA19A7F842C250E61E1">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> shall approve a reliability standard developed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215">section 215</cato:entity-ref> that addresses a
+			 grid security vulnerability that is the subject of a rule or order under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:c/p:2" proposed="true">(2)</cato:entity-ref>, unless the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> determines that the
+			 reliability standard does not adequately protect against the
+			 vulnerability or otherwise does not satisfy the requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215">section
+			 215</cato:entity-ref>.</text>
+                </subparagraph>
+                <subparagraph id="id473DE24C4A2F487F96A27D81C5961F9F">
+                  <enum>(B)</enum>
+                  <header>Rescission</header>
+                  <text>On such approval, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> shall rescind the rule promulgated
+			 or order issued under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:c/p:2" proposed="true">(2)</cato:entity-ref> addressing the vulnerability,
+			 effective on the effective date of the newly approved reliability
+			 standard.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="HC88595902A1647E2A994EF748ED0748D">
+								<enum>(4)</enum>
+								<header>Large transformer availability</header>
+								<subparagraph id="id619BB7391F144D08B74472B85B4C7F29">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+                  <text>Not later than 1 year after the date of enactment of this section, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> shall, after
+			 notice and an opportunity for comment and after consultation with the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> and other appropriate Federal agencies, issue an order directing
+			 the Electric Reliability Organization to submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> for
+			 approval under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215">section 215</cato:entity-ref>, not later than 1 year after the issuance of
+			 the order, reliability standards addressing availability of large
+			 transformers.</text>
+                </subparagraph>
+                <subparagraph id="id0991FAA51FC34767A45468F530C6EBFF">
+                  <enum>(B)</enum>
+                  <header>Restoration of bulk-power system</header>
+                  <text>The  standards shall require entities that own or operate
+			 large transformers to ensure, individually or jointly, adequate
+			 availability of large transformers to promptly restore the reliable
+			 operation of the bulk-power system in the event that any such transformer
+			 is destroyed or disabled as a result of a reasonably foreseeable physical
+			 or other attack or geomagnetic storm event.</text>
+                </subparagraph>
+                <subparagraph id="idB2531FD34CB14FA79830E68AE4416ABC">
+                  <enum>(C)</enum>
+                  <header>Basis for standards</header>
+                  <text>The order of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> shall
+			 specify the nature and magnitude of the reasonably foreseeable attacks or
+			 events that shall provide the basis for the standards.</text>
+                </subparagraph>
+                <subparagraph id="id0706BBF572A54696BA30FDA926DF8E7E">
+                  <enum>(D)</enum>
+                  <header>Standards</header>
+                  <text>The standards
+			 shall—</text>
+									<clause id="HFC1CFF8FC80B48479BE7ABA0D3E37280">
+										<enum>(i)</enum>
+										<text>provide entities subject to the standards with the option of meeting the standards individually or
+			 jointly; and</text>
+									</clause>
+                  <clause id="HA3D861A2A47B41F7B467F8A17014FB70">
+										<enum>(ii)</enum>
+										<text>appropriately balance the risks associated with a reasonably foreseeable attack or event,
+			 including—</text>
+                    <subclause id="id6AF7D6708CEC4A069FD4AC4A59483C34">
+                      <enum>(I)</enum>
+                      <text>any regional variation in the risks; and</text>
+                    </subclause>
+                    <subclause id="id9AFA6EA6194644B9A7EA4D21A41FB373">
+                      <enum>(II)</enum>
+                      <text>the costs of ensuring adequate
+			 availability of spare transformers.</text>
+										</subclause>
+                  </clause>
+                </subparagraph>
+              </paragraph>
+            </subsection>
+            <subsection id="HFA9F2085323942FBB5A9CDB063D336B0">
+							<enum>(d)</enum>
+							<header>Critical defense facilities</header>
+							<paragraph id="H73232F5B8AB24D9F81C8F8FCA71056AC">
+								<enum>(1)</enum>
+								<header>Designation</header>
+								<subparagraph id="idB75EC740A91842DCBBE00C1B637A6C44">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+                  <text display-inline="yes-display-inline">Not later than 180 days after the date of enactment of this section, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> shall designate,
+			 in a written directive or determination provided to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref>,
+			 facilities located in the United States (including the territories) that
+			 are—</text>
+									<clause id="H7EB175F6AEEF4ADFA1F2523FDD420A64">
+										<enum>(i)</enum>
+										<text>critical to the defense of the United States; and</text>
+									</clause>
+                  <clause id="H2CF231D88AB4488CA5DB20F5097BBA25">
+										<enum>(ii)</enum>
+										<text>vulnerable to a disruption of the supply of electric energy provided to such facility by an
+			 external provider.</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="idD9ABCECC0CA041E89A2D17E6E586F99D">
+                  <enum>(B)</enum>
+                  <header>Maximum number</header>
+                  <text>The number of facilities designated by the directive or determination shall not exceed 100.</text>
+                </subparagraph>
+                <subparagraph id="id1183CFBF98DB4997AAD2FA0AB32007EF">
+                  <enum>(C)</enum>
+                  <header>Revision</header>
+                  <text>The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> may periodically revise the list of designated facilities
+			 through a subsequent written directive or determination provided to the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref>, except that the total number of designated facilities at any
+			 time shall not exceed 100.</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="H6C380D8137774E73AA674592740016DB">
+								<enum>(2)</enum>
+								<header>Commission authority</header>
+								<subparagraph id="id0D378963C0D4480EBB7529EA4FE8BB93">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+                  <text display-inline="yes-display-inline">If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> identifies a defense critical electric infrastructure vulnerability that the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref>, in consultation with owners and operators of any 1 or more
+			 facilities designated by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:d/p:1" proposed="true">paragraph (1)</cato:entity-ref>,
+			 determines has not adequately been addressed through measures undertaken
+			 by owners or operators of defense critical electric infrastructure, the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> shall, after notice and an opportunity for comment and after
+			 consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> and other appropriate Federal agencies,
+			 promulgate a rule or issue an order requiring implementation, by any owner
+			 or operator of defense critical electric infrastructure, of measures to
+			 protect the defense critical electric infrastructure against the
+			 vulnerability.</text>
+                </subparagraph>
+                <subparagraph id="idB6DD3B8EF8104EA08D6DB75DFAADCC57">
+                  <enum>(B)</enum>
+                  <header>Exemptions</header>
+                  <clause id="id2F6D1766B56140288B6F69A39DAF8564">
+                    <enum>(i)</enum>
+                    <header>In general</header>
+                    <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> shall exempt from any  rule or order promulgated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:d/p:2/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> any
+			 specific defense critical electric infrastructure that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref>
+			 determines already has been adequately protected against the identified
+			 vulnerability.</text>
+                  </clause>
+                  <clause id="id9DEAD216013D43808ACE4D8AD7E4DCD8">
+                    <enum>(ii)</enum>
+                    <header>Consultation</header>
+                    <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> shall make any determination under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:d/p:2/sp:B/cl:i" proposed="true">clause (i)</cato:entity-ref> in
+			 consultation with the owner or operator of the facility designated by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:d/p:1" proposed="true">paragraph (1)</cato:entity-ref> that relies on the defense critical
+			 electric infrastructure.</text>
+									</clause>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="H076C76EFD42749C090E9C37493360442">
+								<enum>(3)</enum>
+								<header>Cost recovery</header>
+								<text>An owner or operator of defense critical electric infrastructure shall be required to take measures
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:d/p:2" proposed="true">paragraph (2)</cato:entity-ref> only to the extent that the owners or operators of 1
+			 or more facilities designated by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:d/p:1" proposed="true">paragraph
+			 (1)</cato:entity-ref> that rely on the infrastructure agree to bear the full incremental
+			 costs of compliance with a rule promulgated or order issued under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:d/p:2" proposed="true">paragraph (2)</cato:entity-ref>.</text>
+							</paragraph>
+            </subsection>
+            <subsection id="H977B42C9106F498AA46F3E48E96786C4">
+							<enum>(e)</enum>
+							<header>Protection of information</header>
+							<paragraph id="H56637E5EFBFF48C88EF48677C6BC5AD2">
+								<enum>(1)</enum>
+								<header>Prohibition of public disclosure of protected information</header>
+								<text>Protected information—</text>
+								<subparagraph id="HC4162F442D6C4F5491AC1D6FE16E5BD2">
+									<enum>(A)</enum>
+									<text>shall be exempt from disclosure under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/552/b/3">
+                      <external-xref legal-doc="usc" parsable-cite="usc/5/552">section 552(b)(3)</external-xref> of title 5, United States Code</cato:entity-ref>; and</text>
+								</subparagraph>
+                <subparagraph id="H11135281CAA24823B1CEB91E1E31EA9B">
+									<enum>(B)</enum>
+									<text>shall not be made available pursuant to any State, local, or tribal law requiring disclosure of
+			 information or records.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H8952C3BB6B714275B514C2E9C3690F35">
+								<enum>(2)</enum>
+								<header>Information sharing</header>
+								<subparagraph id="H65F0847DAF1C4CEA99A154319144D9D3">
+									<enum>(A)</enum>
+									<header>In general</header>
+									<text display-inline="yes-display-inline">Consistent with the Controlled Unclassified Information framework established by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>, the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> shall promulgate such regulations and issue such orders as
+			 necessary to designate protected information and to prohibit the
+			 unauthorized disclosure of the protected information.</text>
+								</subparagraph>
+                <subparagraph id="H53A929E77D4D49E5BD049816B4B49AFA">
+									<enum>(B)</enum>
+									<header>Sharing of protected information</header>
+									<clause id="id9CD67742743A40B8B2A59BB6A6DFB8F0">
+                    <enum>(i)</enum>
+                    <header>In general</header>
+                    <text>The regulations promulgated and orders issued pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:e/p:2/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> shall provide standards
+			 for and facilitate the appropriate sharing of protected information with,
+			 between, and by Federal, State, local, and tribal authorities, the
+			 Electric Reliability Organization, regional entities, and owners,
+			 operators, and users of the bulk-power system in the United States and of
+			 defense critical electric infrastructure.</text>
+                  </clause>
+                  <clause id="id78BEDE35FD2447C99BACBA4E386D9F89">
+                    <enum>(ii)</enum>
+                    <header>State commissions</header>
+                    <text>In promulgating the regulations
+			 and issuing the orders, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> shall take account of the role of
+			 State commissions in reviewing the prudence and cost of investments within
+			 the respective jurisdictions of the State commissions.</text>
+                  </clause>
+                  <clause id="id6845C1C3EC5C47D4BA9F5123B123C962">
+                    <enum>(iii)</enum>
+                    <header>Canada and Mexico</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> shall consult with
+			 appropriate Canadian and Mexican authorities to develop protocols for the
+			 sharing of protected information with, between, and by appropriate
+			 Canadian and Mexican authorities and owners, operators, and users of the
+			 bulk-power system outside the United States.</text>
+									</clause>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="H8F5FDD89197E48FCBD0AF572A574FA74">
+								<enum>(3)</enum>
+								<header>Submission of information to Congress</header>
+								<text>Nothing in this section permits or authorizes the withholding of information from <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>, any
+			 committee or subcommittee of Congress, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0500">Comptroller General of the
+			 United States</cato:entity-ref>.</text>
+							</paragraph>
+              <paragraph id="H49007FB2BF654E8DA474BB37CE86F750">
+								<enum>(4)</enum>
+								<header>Disclosure of nonprotected information</header>
+								<subparagraph id="idF3D37E204B3C42D796EF3011D24337ED">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+                  <text>In implementing this section, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> shall protect from disclosure only the minimum
+			 quantity
+			 of information necessary to protect the reliability of the bulk-power
+			 system and of defense critical electric infrastructure.</text>
+                </subparagraph>
+                <subparagraph id="id9A0329CF871F4B959FB1B1C2BA99097E">
+                  <enum>(B)</enum>
+                  <header>Segregation of protected information</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref>
+			 shall segregate protected information within documents and electronic
+			 communications, whenever feasible, to facilitate disclosure of information
+			 that is not designated as protected information.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="HF9C7EB4A81BC42318EFF71A0FF56CF80">
+								<enum>(5)</enum>
+								<header>Duration of designation</header>
+								<text>Information may not be designated as protected information for longer than 5 years, unless
+			 specifically redesignated by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref>.</text>
+							</paragraph>
+              <paragraph id="HE29E8544436C40569F0272AFDA43C13B">
+								<enum>(6)</enum>
+								<header>Removal of designation</header>
+								<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> may remove the designation of protected information, in whole or in part, from a
+			 document or electronic communication if the unauthorized disclosure of
+			 the information could no longer be used to impair the reliability of the
+			 bulk-power system or of defense critical electric infrastructure.</text>
+							</paragraph>
+              <paragraph id="HD3EDCFE346DC4E5C84EDD83A0F9C6AC9">
+								<enum>(7)</enum>
+								<header>Judicial review of designations</header>
+								<subparagraph id="id843DAF8C64D1415CA152A2844B4642F3">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+                  <text>Notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:f" proposed="true">subsection (f)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:313">section 313</cato:entity-ref>, a person or entity may seek judicial
+			 review of a determination by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> concerning the designation of
+			 protected information under this subsection exclusively in the district
+			 court of the United States in the district in which the complainant
+			 resides, or has a principal place of business, or in the District of
+			 Columbia.</text>
+                </subparagraph>
+                <subparagraph id="idB7CAC28605E442F5A2F8C782777971A8">
+                  <enum>(B)</enum>
+                  <header>Procedure</header>
+                  <text>In  a case described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:e/p:7/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>, the court—</text>
+                  <clause id="id63A2FF3DE67D4781A2B7776754C9A45A">
+                    <enum>(i)</enum>
+                    <text>shall determine the matter de novo; and</text>
+                  </clause>
+                  <clause id="idA826C16F1FCC438BB97C9EF74FEFCAF1">
+                    <enum>(ii)</enum>
+                    <text>may examine the contents of documents or electronic communications
+			 designated as protected information in camera to determine whether the
+			 documents or any part of the documents were improperly designated as
+			 protected
+			 information.</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="id35968D5340C147CB93B07E7176E65CA2">
+                  <enum>(C)</enum>
+                  <header>Burden of proof</header>
+                  <text>The burden shall be on the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> to sustain the designation of the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref>.</text>
+								</subparagraph>
+              </paragraph>
+            </subsection>
+            <subsection id="H22CFA5A7D6474DC38AA458CAA55B9BBA">
+							<enum>(f)</enum>
+							<header>Judicial review</header>
+							<paragraph id="id12B217DDE3F2452EA6484575E1E97E17">
+                <enum>(1)</enum>
+                <header>In general</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> shall act expeditiously to resolve all applications for rehearing of orders issued
+			 pursuant to this section that are filed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:313/ss:a">section 313(a)</cato:entity-ref>.</text>
+              </paragraph>
+              <paragraph id="id9448E2E476474148944CE0A1C01924D8">
+                <enum>(2)</enum>
+                <header>Jurisdiction</header>
+                <text>Any party
+			 seeking judicial review pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:313">section 313</cato:entity-ref> of an order issued under
+			 this section may obtain the review only in the United States Court of
+			 Appeals for the District of Columbia Circuit.</text>
+							</paragraph>
+            </subsection>
+            <subsection id="H0003DE7094354AA78CEEF7E79BD9DD72">
+							<enum>(g)</enum>
+							<header>Provision of assistance to industry in meeting grid security protection needs</header>
+							<paragraph id="H11197F4F6CEB48F0A7FA0D7861434A40">
+								<enum>(1)</enum>
+								<header>Expertise and resources</header>
+								<subparagraph id="id52F0A5E189664150B6B3F4C5F93FD12C">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+                  <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> shall establish a program, in consultation with other appropriate Federal agencies,
+			 to develop technical expertise in the protection of systems for the
+			 generation, transmission, and distribution of electric energy against
+			 geomagnetic storms or malicious acts using electronic communications or
+			 electromagnetic pulse that would pose a substantial risk of disruption to
+			 the operation of those electronic devices or communications networks,
+			 including hardware, software, and data, that are essential to the
+			 reliability of the systems.</text>
+                </subparagraph>
+                <subparagraph id="id75CF1B419B1F4222894A6AD80057909D">
+                  <enum>(B)</enum>
+                  <header>Resources</header>
+                  <text display-inline="yes-display-inline">The program shall include the identification
+			 and development of appropriate technical and electronic resources,
+			 including hardware, software, and system equipment.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H1C021E4EB7EF4698AA4D2CC8838725CF">
+								<enum>(2)</enum>
+								<header>Sharing expertise</header>
+								<subparagraph id="id1FCF542A5C324B3DB44D17F6FCF13903">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+                  <text>As appropriate, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> shall offer to share technical expertise developed under the program
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:g/p:1" proposed="true">paragraph (1)</cato:entity-ref>, through consultation and assistance, with owners,
+			 operators, or users of systems for the generation, transmission, or
+			 distribution of electric energy located in the United States and with
+			 State commissions.</text>
+                </subparagraph>
+                <subparagraph id="id98C21965966247778F777373C8CCD3A6">
+                  <enum>(B)</enum>
+                  <header>Priority</header>
+                  <text>In offering the support, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> shall assign
+			 higher priority to systems serving facilities designated by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>
+			 pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:d/p:1" proposed="true">subsection (d)(1)</cato:entity-ref> and other critical-infrastructure
+			 facilities, which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> shall identify in consultation with the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref> and other appropriate Federal agencies.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="HBECFC85636954DA09190A76EF663504D">
+								<enum>(3)</enum>
+								<header>Security clearances and communication</header>
+								<subparagraph id="id94E56D1924D54712827C2F42B7BEC514">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref> shall facilitate and, to the extent practicable, expedite the acquisition of adequate
+			 security clearances by key personnel of any entity subject to the
+			 requirements of this section to enable optimum communication with Federal
+			 agencies regarding grid security threats, grid security
+			 vul­ner­a­bil­i­ties,
+			 and defense critical electric infrastructure vul­ner­a­bil­i­ties.</text>
+                </subparagraph>
+                <subparagraph id="id50E44E097F4C4C1DA21A667E1B428363">
+                  <enum>(B)</enum>
+                  <header>Actionable information</header>
+                  <text>The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8900">Secretary</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8990">Commission</cato:entity-ref>, and other appropriate Federal agencies shall,
+			 to the extent practicable and consistent with their obligations to protect
+			 classified and protected information, share timely actionable information
+			 regarding grid security threats, grid security vul­ner­a­bil­i­ties, and
+			 defense critical electric infrastructure vul­ner­a­bil­i­ties with
+			 appropriate
+			 key personnel of owners, operators, and users of the bulk-power system and
+			 of defense critical electric infrastructure.</text>
+								</subparagraph>
+              </paragraph>
+            </subsection>
+            <subsection id="H5F0DBE83152143938D6B8BEA16400F9C">
+							<enum>(h)</enum>
+							<header>Certain Federal entities</header>
+							<text>During the 11-year period beginning on the date of enactment of this section, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6400">Tennessee Valley
+			 Authority</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Bonneville Power Administration" entity-parent-id="8900">Bonneville Power Administration</cato:entity-ref> shall be exempt from any
+			 requirement under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:b" proposed="true">subsection (b)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A/ss:c" proposed="true">(c)</cato:entity-ref> (except for any requirement
+			 addressing a malicious act using electronic communication).</text>
+						</subsection>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+      <subsection id="HBF252C8EBE344AE58E329FFEAF565028">
+				<enum>(b)</enum>
+				<header>Conforming amendments</header>
+				<paragraph id="H8C74D4EE8460434B96E6D4AC9CB00BCB">
+					<enum>(1)</enum>
+					<header>Jurisdiction</header>
+					<text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Federal Power Act/s:201/ss:b/p:2">Section 201(b)(2) of the Federal Power Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/16/824">
+              <cato:entity-ref entity-type="uscode" value="usc/16/824/b/2">16 U.S.C. 824(b)(2)</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended by inserting <quote>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A" proposed="true">215A</cato:entity-ref>,</quote> after <quote>215,</quote> each place it appears.</text>
+				</paragraph>
+        <paragraph id="H97F1EDBBCA1044D18ABDB820B21A43BA">
+					<enum>(2)</enum>
+					<header>Public utility</header>
+					<text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Federal Power Act/s:201/ss:e">Section 201(e) of the Federal Power Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/16/824">
+              <cato:entity-ref entity-type="uscode" value="usc/16/824/e">16 U.S.C. 824(e)</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended by inserting <quote>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:215A" proposed="true">215A</cato:entity-ref>,</quote> after <quote>215,</quote>.</text>
+				</paragraph>
+      </subsection>
+    </section>
+  </legis-body>
+</bill>
+</doc>

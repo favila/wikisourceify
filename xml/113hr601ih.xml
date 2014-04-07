@@ -1,8 +1,8 @@
 <doc>
   <docmeta id="113hr601ih">
     <bill congress="113" type="hr" number="601" version="ih"/>
-    <revision size="32205" annotations="0" id="12" commit-time="2013-03-21T23:31:26+00:00" committer="favila" doc="113hr601ih/12.xml" status="complete">
-      <description/>
+    <revision size="32205" annotations="0" id="13" commit-time="2014-04-05T18:55:15Z" committer="mbohmer" doc="113hr601ih/13.xml" status="complete">
+      <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H9250E25222C243EE939196E85294997F" public-private="public">
@@ -219,14 +219,18 @@
             <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref> shall
 			 not issue any new lease that authorizes the production of oil or natural gas
 			 under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
-                <cato:entity-ref entity-type="act" value="Outer Continental Shelf Lands Act">Outer Continental Shelf Lands Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/43/1331">43 U.S.C. 1331 et seq.</external-xref>)</cato:entity> to a person
+                <cato:entity-ref entity-type="act" value="Outer Continental Shelf Lands Act">Outer Continental Shelf Lands Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/43/1331">
+                    <cato:entity-ref entity-type="uscode" value="usc/43/1331/etseq">43 U.S.C. 1331 et seq.</cato:entity-ref>
+                  </external-xref>)</cato:entity> to a person
 			 described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Deficit Reduction Through Fair Oil Royalties Act/s:202/ss:a/p:2" proposed="true">paragraph (2)</cato:entity-ref> unless the person has renegotiated each covered
 			 lease with respect to which the person is a lessee, to modify the payment
 			 responsibilities of the person to require the payment of royalties if the price
 			 of oil and natural gas is greater than or equal to the price thresholds
 			 described in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
                 <cato:entity-ref entity-type="act" value="Outer Continental Shelf Lands Act/s:8/ss:a/p:3/sp:C/cl:v..vii">clauses (v) through (vii) of section 8(a)(3)(C) of the Outer
-			 Continental Shelf Lands Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/43/1337">43 U.S.C. 1337(a)(3)(C)</external-xref>)</cato:entity>.</text>
+			 Continental Shelf Lands Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/43/1337">
+                    <cato:entity-ref entity-type="uscode" value="usc/43/1337/a/3/C">43 U.S.C. 1337(a)(3)(C)</cato:entity-ref>
+                  </external-xref>)</cato:entity>.</text>
 					</paragraph>
           <paragraph id="H36E97BA6FB9149D085DD570E54215B5C">
             <enum>(2)</enum>
@@ -268,14 +272,16 @@
               <enum>(A)</enum>
               <header>In
 			 general</header>
-              <text>For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Deficit Reduction Through Fair Oil Royalties Act/s:/ss:/p:1" proposed="true">paragraph (1)</cato:entity-ref>, if there are multiple
+              <text>For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Deficit Reduction Through Fair Oil Royalties Act/s:202/ss:a/p:1" proposed="true">paragraph (1)</cato:entity-ref>, if there are multiple
 			 lessees that own a share of a covered lease, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref> may implement
 			 separate agreements with any lessee with a share of the covered lease that
 			 modifies the payment responsibilities with respect to the share of the lessee
 			 to include price thresholds that are equal to or less than the price thresholds
 			 described in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
                   <cato:entity-ref entity-type="act" value="Outer Continental Shelf Lands Act/s:8/ss:a/p:3/sp:C/cl:v..vii">clauses (v) through (vii) of section 8(a)(3)(C) of the Outer
-			 Continental Shelf Lands Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/43/1337">43 U.S.C. 1337(a)(3)(C)</external-xref>)</cato:entity>.</text>
+			 Continental Shelf Lands Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/43/1337">
+                      <cato:entity-ref entity-type="uscode" value="usc/43/1337/a/3/C">43 U.S.C. 1337(a)(3)(C)</cato:entity-ref>
+                    </external-xref>)</cato:entity>.</text>
 						</subparagraph>
             <subparagraph id="H011F85275B9342AB9661221A0F6B2CC1">
               <enum>(B)</enum>
@@ -298,7 +304,9 @@
 			 agreement) any covered lease, the economic benefit of any covered lease, or any
 			 other lease for the production of oil or natural gas in the Gulf of Mexico
 			 under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
-              <cato:entity-ref entity-type="act" value="Outer Continental Shelf Lands Act">Outer Continental Shelf Lands Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/43/1331">43 U.S.C. 1331 et seq.</external-xref>)</cato:entity>, unless the
+              <cato:entity-ref entity-type="act" value="Outer Continental Shelf Lands Act">Outer Continental Shelf Lands Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/43/1331">
+                  <cato:entity-ref entity-type="uscode" value="usc/43/1331/etseq">43 U.S.C. 1331 et seq.</cato:entity-ref>
+                </external-xref>)</cato:entity>, unless the
 			 lessee or other person has—</text>
 					<paragraph id="H4835EBEAA664420A8365A12AA5694C48">
             <enum>(1)</enum>
@@ -308,8 +316,10 @@
 			 thresholds that are equal to or less than the price thresholds described in
 			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
                 <cato:entity-ref entity-type="act" value="Outer Continental Shelf Lands Act/s:8/ss:a/p:3/sp:C/cl:v..vii">clauses (v) through (vii) of section 8(a)(3)(C) of the Outer Continental Shelf
-			 Lands Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/43/1337">43 U.S.C.
-			 1337(a)(3)(C)</external-xref>)</cato:entity>; or</text>
+			 Lands Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/43/1337">
+                    <cato:entity-ref entity-type="uscode" value="usc/43/1337/a/3/C">43 U.S.C.
+			 1337(a)(3)(C)</cato:entity-ref>
+                  </external-xref>)</cato:entity>; or</text>
 					</paragraph>
           <paragraph id="H9047A62E1C7A49D2916C2549078C3F63">
             <enum>(2)</enum>
@@ -393,8 +403,10 @@
 			 provisions, that are equal to or less than the price thresholds described in
 			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
             <cato:entity-ref entity-type="act" value="Outer Continental Shelf Lands Act/s:8/ss:a/p:3/sp:C/cl:v..vii/i:vii">clauses (v) through (vii) of section 8(a)(3)(C) of the Outer Continental Shelf
-			 Lands Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/43/1337">43 U.S.C.
-			 1337(a)(3)(C)</external-xref>)</cato:entity>. Any amended lease shall impose the new or
+			 Lands Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/43/1337">
+                <cato:entity-ref entity-type="uscode" value="usc/43/1337/a/3/C">43 U.S.C.
+			 1337(a)(3)(C)</cato:entity-ref>
+              </external-xref>)</cato:entity>. Any amended lease shall impose the new or
 			 revised price thresholds effective October 1, 2013. Existing lease provisions
 			 shall prevail through September 30, 2013.</text>
 			</section>
@@ -408,7 +420,9 @@
 			 provisions of Energy Policy Act of 2005</header>
           <text>The following provisions
 			 of the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
-              <cato:entity-ref entity-type="act" value="Energy Policy Act of 2005">Energy Policy Act of 2005</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/109/58">Public Law 109–58</external-xref>)</cato:entity> are
+              <cato:entity-ref entity-type="act" value="Energy Policy Act of 2005">Energy Policy Act of 2005</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/109/58">
+                  <cato:entity-ref entity-type="public-law" value="public-law/109/58">Public Law 109–58</cato:entity-ref>
+                </external-xref>)</cato:entity> are
 			 repealed:</text>
 					<paragraph id="HC8403818306E4439B54BC0F4FC30656B">
             <enum>(1)</enum>
@@ -436,8 +450,10 @@
           <text>
             <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
               <cato:entity-ref entity-type="act" value="Outer Continental Shelf Lands Act/s:8/ss:a/p:3/sp:B">Section
-			 8(a)(3)(B) of the Outer Continental Shelf Lands Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/43/1337">43 U.S.C.
-			 1337(a)(3)(B)</external-xref>)</cato:entity> is amended by striking <quote>and in the
+			 8(a)(3)(B) of the Outer Continental Shelf Lands Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/43/1337">
+                  <cato:entity-ref entity-type="uscode" value="usc/43/1337/a/3/B">43 U.S.C.
+			 1337(a)(3)(B)</cato:entity-ref>
+                </external-xref>)</cato:entity> is amended by striking <quote>and in the
 			 Planning Areas offshore Alaska</quote>.</text>
 				</subsection>
       </section>
@@ -463,7 +479,9 @@
         <text display-inline="no-display-inline">
           <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
             <cato:entity-ref entity-type="act" value="Outer Continental Shelf Lands Act/s:22">Section 22 of
-			 the Outer Continental Shelf Lands Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/43/1348">43 U.S.C. 1348</external-xref>)</cato:entity> is amended by
+			 the Outer Continental Shelf Lands Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/43/1348">
+                <cato:entity-ref entity-type="uscode" value="usc/43/1348">43 U.S.C. 1348</cato:entity-ref>
+              </external-xref>)</cato:entity> is amended by
 			 adding at the end of the section the following:</text>
 				<quoted-block id="HECB3D1F2190E4356940693A4F04357D9" style="OLC">
 					<subsection id="H891F3F4DF57C4798B12DECB46E63241D">
@@ -506,8 +524,9 @@
               <header>Availability of
 				fees</header>
               <text>Notwithstanding
-				<external-xref legal-doc="usc" parsable-cite="usc/31/3302">section
-				3302</external-xref> of title 31, United States Code, all amounts collected by
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/3302">
+                    <external-xref legal-doc="usc" parsable-cite="usc/31/3302">section
+				3302</external-xref> of title 31, United States Code</cato:entity-ref>, all amounts collected by
 				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref> under this section—</text>
 							<subparagraph id="HC42DB109B234453995FB62B09FBCBBC6">
                 <enum>(A)</enum>

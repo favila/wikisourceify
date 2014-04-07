@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113hr2650ih">
     <bill congress="113" type="hr" number="2650" version="ih"/>
-    <revision size="2002" annotations="0" status="complete" id="5" commit-time="2013-07-25T21:52:12Z" committer="mbohmer" doc="113hr2650ih/5.xml">
+    <revision size="2002" annotations="0" status="complete" id="6" commit-time="2014-04-05T18:44:59Z" committer="mbohmer" doc="113hr2650ih/6.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H0D17FC83A0ED475582E8E662A60FA8A5" public-private="public">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata>
 <dublinCore>
-<dc:title>113 HR 2650 IH: Fond du Lac Band of Lake Superior Chippewa Non-Intercourse Act of 2013</dc:title>
-<dc:publisher>U.S. House of Representatives</dc:publisher>
-<dc:date>2013-07-10</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 2650 IH: Fond du Lac Band of Lake Superior Chippewa Non-Intercourse Act of 2013</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-07-10</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -41,8 +41,10 @@
       <header>Short title</header>
       <text display-inline="no-display-inline">This Act may be cited as the
 			 <quote>
-          <short-title>Fond du Lac Band of Lake Superior
-			 Chippewa Non-Intercourse Act of 2013</short-title>
+          <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Fond du Lac Band of Lake Superior Chippewa Non-Intercourse Act of 2013" proposed="true">Fond du Lac Band of Lake Superior
+			 Chippewa Non-Intercourse Act of 2013</cato:entity-ref>
+            </short-title>
         </quote>.</text>
 		</section>
     <section id="H51F166EC065D4DE6B4494030687655C9" section-type="subsequent-section">

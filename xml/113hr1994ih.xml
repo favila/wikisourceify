@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113hr1994ih">
     <bill congress="113" type="hr" number="1994" version="ih"/>
-    <revision size="12417" annotations="0" status="complete" id="4" commit-time="2013-07-05T21:26:31Z" committer="mbohmer" doc="113hr1994ih/4.xml">
+    <revision size="12417" annotations="0" status="complete" id="5" commit-time="2014-04-05T18:18:12Z" committer="mbohmer" doc="113hr1994ih/5.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H874B4D8EFE9C4251841F8AA285BCE295" public-private="public">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata>
 <dublinCore>
-<dc:title>113 HR 1994 IH: To terminate the Election Assistance Commission.</dc:title>
-<dc:publisher>U.S. House of Representatives</dc:publisher>
-<dc:date>2013-05-15</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 1994 IH: To terminate the Election Assistance Commission.</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-05-15</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -145,14 +145,14 @@
               <enum>1002.</enum>
               <header>Office of
 				management and budget to perform transition functions</header>
-              <text display-inline="no-display-inline">Except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Help America Vote Act of 2002/s:1004">section 1004</cato:entity-ref>, the
+              <text display-inline="no-display-inline">Except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Help America Vote Act of 2002/s:1004" proposed="true">section 1004</cato:entity-ref>, the
 				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director of the Office of Management and Budget</cato:entity-ref> shall, effective upon the
 				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref> termination date—</text>
 							<paragraph id="HB9F25E7DED11444798CBC6EC10056E71">
                 <enum>(1)</enum>
                 <text>perform the
 				functions of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9523">Commission</cato:entity-ref> with respect to contracts and agreements described
-				in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Help America Vote Act of 2002/s:/ss:1003/p:a" proposed="true">subsection 1003(a)</cato:entity-ref> until the expiration of such contracts and agreements,
+				in sub<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Help America Vote Act of 2002/s:1003/ss:a" proposed="true">section 1003(a)</cato:entity-ref> until the expiration of such contracts and agreements,
 				but shall not renew any such contract or agreement; and</text>
 							</paragraph>
               <paragraph id="H4493B25558DD41F0B476A7802931BE1E">
@@ -299,7 +299,9 @@
         <text>
           <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
             <cato:entity-ref entity-type="act" value="Help America Vote Act of 2002/s:221">Section 221 of such
-			 Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/15361">42 U.S.C. 15361</external-xref>)</cato:entity> is amended by adding at the end the following new
+			 Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/15361">
+                <cato:entity-ref entity-type="uscode" value="usc/42/15361">42 U.S.C. 15361</cato:entity-ref>
+              </external-xref>)</cato:entity> is amended by adding at the end the following new
 			 subsection:</text>
 				<quoted-block display-inline="no-display-inline" id="H6BE3A20129914FCB859E3E7350C54714" style="OLC">
 					<subsection id="HE1EDC432399D4876B5C10BC23B610B50">

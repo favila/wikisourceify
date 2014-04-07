@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113hr2742ih">
     <bill congress="113" type="hr" number="2742" version="ih"/>
-    <revision size="3805" annotations="0" status="complete" id="3" commit-time="2013-08-04T23:05:11Z" committer="mbohmer" doc="113hr2742ih/3.xml">
+    <revision size="3805" annotations="0" status="complete" id="4" commit-time="2014-04-05T20:03:07Z" committer="mbohmer" doc="113hr2742ih/4.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HECD138132070440599924931463143FB" public-private="public">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata>
 <dublinCore>
-<dc:title>113 HR 2742 IH: Army Corps of Engineers Communications Accountability Act of 2013</dc:title>
-<dc:publisher>U.S. House of Representatives</dc:publisher>
-<dc:date>2013-07-18</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 2742 IH: Army Corps of Engineers Communications Accountability Act of 2013</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-07-18</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -42,8 +42,10 @@
       <header>Short title</header>
       <text display-inline="no-display-inline">This Act may be cited as the
 			 <quote>
-          <short-title>Army Corps of Engineers Communications
-			 Accountability Act of 2013</short-title>
+          <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Army Corps of Engineers Communications Accountability Act of 2013" proposed="true">Army Corps of Engineers Communications
+			 Accountability Act of 2013</cato:entity-ref>
+            </short-title>
         </quote>.</text>
 		</section>
     <section id="HE5EE462F6FFD42B1A85F9F427BA7BA68">
@@ -54,9 +56,9 @@
         <enum>(a)</enum>
         <header>In
 			 general</header>
-        <text display-inline="yes-display-inline">If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief of Engineers" entity-parent-id="2100">Chief of
+        <text display-inline="yes-display-inline">If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Chief of Engineers" entity-parent-id="2100">Chief of
 			 Engineers</cato:entity-ref> makes an upper quartile determination or an upper decile
-			 determination, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief of Engineers" entity-parent-id="2100">Chief of Engineers</cato:entity-ref> shall notify the public of such
+			 determination, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Chief of Engineers" entity-parent-id="2100">Chief of Engineers</cato:entity-ref> shall notify the public of such
 			 determination, and consult with affected governments, in accordance with this
 			 section.</text>
 			</subsection>
@@ -64,7 +66,7 @@
         <enum>(b)</enum>
         <header>Notification</header>
         <text display-inline="yes-display-inline">Not later than 7 days after making a
-			 determination described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Army Corps of Engineers Communications Accountability Act of 2013/s:2/ss:a" proposed="true">subsection (a)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief of Engineers" entity-parent-id="2100">Chief of Engineers</cato:entity-ref> shall notify
+			 determination described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Army Corps of Engineers Communications Accountability Act of 2013/s:2/ss:a" proposed="true">subsection (a)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Chief of Engineers" entity-parent-id="2100">Chief of Engineers</cato:entity-ref> shall notify
 			 the public that such determination has been made.</text>
 			</subsection>
       <subsection id="H954BC5AEE58B43298F4CD12263C6E0A5">
@@ -74,21 +76,21 @@
           <enum>(1)</enum>
           <header>In
 			 general</header>
-          <text display-inline="yes-display-inline">If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief of Engineers" entity-parent-id="2100">Chief of
+          <text display-inline="yes-display-inline">If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Chief of Engineers" entity-parent-id="2100">Chief of
 			 Engineers</cato:entity-ref> makes an upper decile determination, an affected government may
-			 request a consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief of Engineers" entity-parent-id="2100">Chief of Engineers</cato:entity-ref>.</text>
+			 request a consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Chief of Engineers" entity-parent-id="2100">Chief of Engineers</cato:entity-ref>.</text>
 				</paragraph>
         <paragraph id="H5ED97BFE39074E4580FEF9F050C75A73">
           <enum>(2)</enum>
           <header>Deadline</header>
           <text display-inline="yes-display-inline">If an affected government requests a
-			 consultation under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="/s:2/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief of Engineers" entity-parent-id="2100">Chief of Engineers</cato:entity-ref> shall provide such
+			 consultation under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Army Corps of Engineers Communications Accountability Act of 2013/s:2/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Chief of Engineers" entity-parent-id="2100">Chief of Engineers</cato:entity-ref> shall provide such
 			 consultation not later than 7 days after receiving the request.</text>
 				</paragraph>
         <paragraph id="H42059723362740FE8BA8E33444E80E39">
           <enum>(3)</enum>
           <header>Contents</header>
-          <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief of Engineers" entity-parent-id="2100">Chief of Engineers</cato:entity-ref> may provide in a
+          <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Chief of Engineers" entity-parent-id="2100">Chief of Engineers</cato:entity-ref> may provide in a
 			 consultation under this subsection—</text>
 					<subparagraph id="HDF70386F6AB1467888D31DE7823D24AB">
             <enum>(A)</enum>
@@ -108,7 +110,7 @@
           <subparagraph id="H5D3FE11E577245FBA5A8CD270F692735">
             <enum>(D)</enum>
             <text display-inline="yes-display-inline">any other information or assistance
-			 determined appropriate by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief of Engineers" entity-parent-id="2100">Chief of Engineers</cato:entity-ref>.</text>
+			 determined appropriate by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Chief of Engineers" entity-parent-id="2100">Chief of Engineers</cato:entity-ref>.</text>
 					</subparagraph>
         </paragraph>
       </subsection>
@@ -124,7 +126,7 @@
           <text display-inline="yes-display-inline">The term
 			 <term>affected government</term> means a State, local, or tribal government
 			 with jurisdiction over an area that will be affected by a flood occurring in
-			 the Missouri River System, as determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief of Engineers" entity-parent-id="2100">Chief of Engineers</cato:entity-ref> in an upper
+			 the Missouri River System, as determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Chief of Engineers" entity-parent-id="2100">Chief of Engineers</cato:entity-ref> in an upper
 			 decile determination.</text>
 				</paragraph>
         <paragraph commented="no" id="H061DCF9D5DD146E4A17BAD28E178A1D4">
@@ -132,7 +134,7 @@
           <header>Annual operating
 			 plan</header>
           <text>The term <term>annual operating plan</term> means a plan
-			 prepared by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief of Engineers" entity-parent-id="2100">Chief of Engineers</cato:entity-ref> that describes potential water conditions
+			 prepared by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Chief of Engineers" entity-parent-id="2100">Chief of Engineers</cato:entity-ref> that describes potential water conditions
 			 scenarios for the Missouri River System for a year.</text>
 				</paragraph>
         <paragraph commented="no" id="HD2BE5691902148C4BD353E7A14612BF1">

@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113s256es">
     <bill congress="113" type="s" number="256" version="es"/>
-    <revision size="1658" annotations="0" status="complete" id="7" commit-time="2013-08-08T22:06:31Z" committer="mbohmer" doc="113s256es/7.xml">
+    <revision size="1658" annotations="0" status="complete" id="8" commit-time="2014-04-05T20:08:03Z" committer="mbohmer" doc="113s256es/8.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Engrossed-in-Senate" bill-type="olc" public-print="no" public-private="public" stage-count="1" star-print="no-star-print">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata>
 <dublinCore>
-<dc:title>113 S256 ES: To amend <external-xref legal-doc="public-law" parsable-cite="pl/93/435">Public Law 93–435</external-xref> with respect to the Northern Mariana Islands, providing parity with Guam, the Virgin Islands, and American Samoa. </dc:title>
-<dc:publisher>U.S. Senate</dc:publisher>
-<dc:date/>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S256 ES: To amend <external-xref legal-doc="public-law" parsable-cite="pl/93/435">Public Law 93–435</external-xref> with respect to the Northern Mariana Islands, providing parity with Guam, the Virgin Islands, and American Samoa. </dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form display="yes">
@@ -34,12 +34,12 @@
 			<subsection commented="no" display-inline="no-display-inline" id="HCD2DE6926D4741EAAF469E09CF6D34D6">
         <enum>(a)</enum>
         <header display-inline="yes-display-inline">In general</header>
-        <text display-inline="yes-display-inline">The <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
-            <cato:entity-ref value="public-law/93/435/s:1..2" entity-type="public-law">first section and section 2 of Public
+        <text display-inline="yes-display-inline">The 
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="public-law/93/435/s:1..2" entity-type="public-law">first section and section 2 of Public
 			 Law 93–435</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/48/1705">
-              <cato:entity-ref value="usc/48/1705" entity-type="uscode">48 U.S.C. 1705</cato:entity-ref>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/48/1705" entity-type="uscode">48 U.S.C. 1705</cato:entity-ref>
             </external-xref>
-          </cato:entity>, 1706) are amended by inserting <quote>the
+          , <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/48/1706">1706</cato:entity-ref>) are amended by inserting <quote>the
 			 Commonwealth of the Northern Mariana Islands,</quote> after
 			 <quote>Guam,</quote> each place it appears.</text>
 			</subsection>
@@ -48,7 +48,7 @@
         <header display-inline="yes-display-inline">References to date of
 			 enactment</header>
         <text display-inline="yes-display-inline">For the purposes of
-			 the amendment made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="/s:1/ss:a" entity-type="act">subsection (a)</cato:entity-ref>, each reference in <external-xref legal-doc="public-law" parsable-cite="pl/93/435">
+			 the amendment made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="113 S 256/s:1/ss:a" entity-type="act">subsection (a)</cato:entity-ref>, each reference in <external-xref legal-doc="public-law" parsable-cite="pl/93/435">
             <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="public-law/93/435" entity-type="public-law">Public Law 93–435</cato:entity-ref>
           </external-xref> to
 			 the <quote>date of enactment</quote> shall be considered to be a reference to
@@ -60,14 +60,16 @@
       <header display-inline="yes-display-inline">Adjustment of scheduled wage increases in
 			 the commonwealth of the northern mariana islands</header>
       <text display-inline="no-display-inline">
-        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
-          <cato:entity-ref value="Fair Minimum Wage Act of 2007/s:8103/ss:b/p:1/sp:B" entity-type="act">Section 8103(b)(1)(B) of the Fair Minimum
-			 Wage Act of 2007</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/29/206">
-            <cato:entity-ref value="usc/29/206" entity-type="uscode">29 U.S.C. 206</cato:entity-ref>
+        
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref value="Fair Minimum Wage Act of 2007/s:8103/ss:b/p:1/sp:B" entity-type="act">Section 8103(b)(1)(B) of the Fair Minimum
+			 Wage Act of 2007</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/29/206/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/29/206">
+            29 U.S.C. 206
           </external-xref>
-        </cato:entity> note; <external-xref legal-doc="public-law" parsable-cite="pl/110/28">
-          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="public-law">Public Law 110–28</cato:entity-ref>
-        </external-xref>) is amended by striking
+         note</cato:entity-ref>; <external-xref legal-doc="public-law" parsable-cite="pl/110/28">
+          <cato:entity-ref entity-type="public-law">Public Law 110–28</cato:entity-ref>
+        </external-xref>)</cato:entity> is amended by striking
 			 <quote>2011</quote> and inserting <quote>2011, 2013, and 2015</quote>.</text>
 		</section>
   </legis-body>
