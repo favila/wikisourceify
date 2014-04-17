@@ -1,0 +1,1014 @@
+<doc>
+  <docmeta id="113hr4370ih">
+    <bill congress="113" type="hr" number="4370" version="ih"/>
+    <revision size="37112" annotations="0" status="complete" id="7" commit-time="2014-04-15T18:13:32Z" committer="mbohmer" doc="113hr4370ih/7.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H3E3078C81EF64D25B5D8ECE5C9978E8A" key="H" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 4370 IH: Veterans Information Security Improvement Act</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-04-02</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>H. R. 4370</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20140402">April 2, 2014</action-date>
+			<action-desc>
+        <sponsor name-id="W000813">Mrs. Walorski</sponsor> (for herself, <cosponsor name-id="C001077">Mr. Coffman</cosponsor>, <cosponsor name-id="W000815">Mr. Wenstrup</cosponsor>, and <cosponsor name-id="N000185">Mr. Nugent</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HVR00">Committee on Veterans' Affairs</committee-name>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title> To improve the information security of the Department of Veterans Affairs by directing the
+			 Secretary of Veterans Affairs to carry out certain actions to improve the
+			 transparency and the governance of the information security program of the
+			 Department, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H516432AE728B407FBE146389E355AC1A" style="OLC">
+		<section id="H32BEAB3CCD0F4B86B9637D07D9F0756F" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title; table of contents</header>
+			<subsection id="H6006231BA0E24650A15EF3A7D82563F3">
+        <enum>(a)</enum>
+        <header>Short title</header>
+				<text>This Act may be cited as the <quote>
+            <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Information Security Improvement Act" proposed="true">Veterans Information Security Improvement Act</cato:entity-ref>
+            </short-title>
+          </quote>.</text>
+			</subsection>
+      <subsection id="id7539317C9CE14F0EB72A24CA1612D319">
+        <enum>(b)</enum>
+        <header>Table of contents</header>
+				<text>The table of contents for this Act is as follows:</text>
+				<toc>
+					<toc-entry idref="H32BEAB3CCD0F4B86B9637D07D9F0756F" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="id6838166BFD28405A87AB204A489078AB" level="section">Sec. 2. Governance of information security program of Department of Veterans Affairs.</toc-entry>
+					<toc-entry idref="id1513155BA6E14DF6BDAF58B46104CA45" level="section">Sec. 3. Security of critical network infrastructure, including domain controller, of Department of
+			 Veterans Affairs.</toc-entry>
+					<toc-entry idref="id1E8AC81F06C64E17AEF1CA40AF5B8FFA" level="section">Sec. 4. Security of computers and servers of Department of Veterans Affairs.</toc-entry>
+					<toc-entry idref="idA3F213F3383C481183E95BB44FB97861" level="section">Sec. 5. Upgrade or phase-out of unsupported or outdated operating systems.</toc-entry>
+					<toc-entry idref="id98740BD3427E4727A4C412AAF75A761C" level="section">Sec. 6. Security of web applications from vital vulnerabilities.</toc-entry>
+					<toc-entry idref="id4388C74A5920432CACCFC2FD536FD44A" level="section">Sec. 7. Security of the Vista system.</toc-entry>
+					<toc-entry idref="id9FB5D851F5C540EFA267F86988AE6ACA" level="section">Sec. 8. Report on compliance with information security requirements and best practices.</toc-entry>
+					<toc-entry idref="id7A8F9714C8E249CCA9B62CA18859E84C" level="section">Sec. 9. Reports on implementation.</toc-entry>
+					<toc-entry idref="id703297BD9F854C67B9811FF2AE1035F7" level="section">Sec. 10. Application.</toc-entry>
+					<toc-entry idref="idC7B124A1A278401A80372138088A93BE" level="section">Sec. 11. Definitions.</toc-entry>
+				</toc>
+			</subsection>
+    </section>
+    <section id="id6838166BFD28405A87AB204A489078AB">
+      <enum>2.</enum>
+      <header>Governance of information security program of Department of Veterans Affairs</header>
+			<subsection id="id08E489035B424B86913B8F4B91265F15">
+        <enum>(a)</enum>
+        <header>Requirements for certain officials and staff</header>
+				<paragraph id="idDB21D38993434DAC9E08089063F2C0CA">
+          <enum>(1)</enum>
+          <header>In general</header>
+					<text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/38/57/III">Subchapter III of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/57">chapter 57</external-xref> of title 38, United States Code</cato:entity-ref>, is amended by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/38/5723">section
+			 5723</cato:entity-ref> the following new section:</text>
+					<quoted-block display-inline="no-display-inline" id="idB9A9A24406E945BFA93091CF14A50CB2" style="USC">
+						<section id="id82DC263892094D119D8F063E542854B0">
+              <enum>5723A.</enum>
+							<header>Governance of information security program </header>
+							<subsection id="id4E3DA707F8A5416DBD70F0286106EC63">
+                <enum>(a)</enum>
+                <header>In general</header>
+								<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall carry out this section to improve the transparency and the coordination of the
+			 information security program of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>.</text>
+							</subsection>
+              <subsection display-inline="no-display-inline" id="idFC01109488714E7EBC6D0894F0605BF8">
+                <enum>(b)</enum>
+                <header>Office of Information and Technology</header>
+								<paragraph commented="no" display-inline="yes-display-inline" id="idCFEBF50C9D8147E785D4A2EF04D58595">
+                  <enum>(1)</enum>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall ensure that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3650">Assistant Secretary for Information and Technology</cato:entity-ref>, as the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Chief Information Officer" entity-parent-id="3600">Chief Information Officer of the Department</cato:entity-ref>, possesses—</text>
+									<subparagraph id="idA617DC41B4A6490C943AC2B6FF135B8C" indent="up1">
+                    <enum>(A)</enum>
+										<text>the appropriate education and at least 10 concurrent years of validated experience and capabilities
+			 in the management of information technology organizations;</text>
+									</subparagraph>
+                  <subparagraph id="idAEBB74E708F347079DB01D59389A33FA" indent="up1">
+                    <enum>(B)</enum>
+										<text>an industry recognized certification in information security and cyber security defense; and</text>
+									</subparagraph>
+                  <subparagraph id="idBD938BB824824226A6512BA4FDB57A61" indent="up1">
+                    <enum>(C)</enum>
+                    <text>demonstrated, sound technical capabilities.</text>
+									</subparagraph>
+                </paragraph>
+                <paragraph id="id8CA3CB60F99B4364837527ED310A4702" indent="up1">
+                  <enum>(2)</enum>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall ensure that the staff of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3650">Office of Information and Technology</cato:entity-ref> who perform
+			 security functions, including the assessment and analysis of risk,
+			 security auditing, security operations, and security engineering, are
+			 assigned to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Information Security" entity-parent-id="3600">Office of Information Security</cato:entity-ref>.</text>
+								</paragraph>
+                <paragraph id="idDDD750F124C1406FB816C20E2CA0D0A1" indent="up1">
+                  <enum>(3)</enum>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall ensure that subordinate offices of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3650">Office of Information and Technology</cato:entity-ref>, in
+			 coordination with the head of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Information Security" entity-parent-id="3600">Office of Information Security</cato:entity-ref>, maintain
+			 appropriate information security functions within each such office to—</text>
+									<subparagraph id="idDB76569A5EB34510AF18F0295593941F">
+                    <enum>(A)</enum>
+                    <text>incorporate secure software assurance processes into the software development life­cy­cle for all
+			 software development activities;</text>
+									</subparagraph>
+                  <subparagraph id="id8A6D46E2686B49D9983F3FB79F615555">
+                    <enum>(B)</enum>
+                    <text>validate that each third-party developed software used in any information system of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>
+			 meets the standards of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1341" entity-type="federal-body">National Institute of Standards and Technology</cato:entity-ref>
+			 with respect to security, safety, reliability, func­tion­al­i­ty and
+			 extensibility;</text>
+									</subparagraph>
+                  <subparagraph id="idFBF8EBD43D154F97BA9D810700CE7AE8">
+                    <enum>(C)</enum>
+                    <text>maintain established information security baseline controls for such information systems, and
+			 immediately remediate systems determined to be out of compliance with
+			 established baseline controls to the maximum extent possible;</text>
+									</subparagraph>
+                  <subparagraph id="id211D241D2E274201A73EDB4CE344F1C4">
+                    <enum>(D)</enum>
+                    <text>ensure that the security architecture of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref> is documented and fully integrated into the
+			 overall enterprise architecture strategy of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>; and</text>
+									</subparagraph>
+                  <subparagraph id="idA3FB14EA317B494B9E1B4543C7EC176C">
+                    <enum>(E)</enum>
+                    <text>develop and implement a policy that restricts the development of new data warehouses and data marts
+			 holding sensitive personal information of veterans and reduces the number
+			 of data marts holding such information.</text>
+									</subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="id4B78EEF2AACD406985C3A1ED6732AADD">
+                <enum>(c)</enum>
+                <header>Office of Information Security</header>
+								<paragraph commented="no" display-inline="yes-display-inline" id="id65DAB0BCA42542AFBE52B5AD2AB9DC0B">
+                  <enum>(1)</enum>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall ensure that the head of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Information Security" entity-parent-id="3600">Office of Information Security</cato:entity-ref> possesses—</text>
+									<subparagraph id="id442D02C67C8C435D8FCC01586BDB4B26" indent="up1">
+                    <enum>(A)</enum>
+										<text>the appropriate education and at least 10 concurrent years of experience with respect to validated
+			 information security; and</text>
+									</subparagraph>
+                  <subparagraph id="id6DF7C5196D024FF9A06017C9D1A1145C" indent="up1">
+                    <enum>(B)</enum>
+										<text>an industry recognized certification in cyber security defense;</text>
+									</subparagraph>
+                  <subparagraph id="id449521F74E5D49829C5DFF9D37A08B89" indent="up1">
+                    <enum>(C)</enum>
+										<text>demonstrated, sound technical capabilities; and</text>
+									</subparagraph>
+                  <subparagraph id="idDECA863D85D74683AA021A0DD903F5A6" indent="up1">
+                    <enum>(D)</enum>
+										<text>other relevant experience.</text>
+									</subparagraph>
+                </paragraph>
+                <paragraph id="idB9CD161932D24139BB45B17A6C9D727B" indent="up1">
+                  <enum>(2)</enum>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall ensure that all of the field staff of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Information Security" entity-parent-id="3600">Office of Information Security</cato:entity-ref>,
+			 including relevant staff of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Information Technology" entity-parent-id="3600">Office of Information Technology</cato:entity-ref>, whose
+			 primary responsibility is the protection of personally identifiable
+			 information of veterans maintain current information security training and
+			 possess a certain level of information security, cyber security defense,
+			 and technical capabilities and certifications as appropriate.</text>
+                </paragraph>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+        <paragraph id="id25E9BB82607344B5AD959F30DEF54010">
+          <enum>(2)</enum>
+          <header>Clerical amendment</header>
+          <text>The table of sections at the beginning of such chapter is amended by inserting after the item
+			 relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/38/5723">section 5723</cato:entity-ref> the following new item:</text>
+					<quoted-block display-inline="no-display-inline" id="id6C35D4630D35450F9825DB8C4C53E500" style="OLC">
+						<toc>
+							<toc-entry bold="off" level="section">5723A. Governance of information security program.</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </subsection>
+      <subsection id="id4FD5B1F189E644C893781CC422CBC973">
+        <enum>(b)</enum>
+        <header>Definitions</header>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/38/5721">
+            <external-xref legal-doc="usc" parsable-cite="usc/38/5721">Section 5721</external-xref> of title 38, United States Code</cato:entity-ref>, is amended by adding at the end the following new
+			 paragraphs:</text>
+				<quoted-block display-inline="no-display-inline" id="idF63776C1C4934EA2BD916DC1FADA6EE4" style="OLC">
+					<paragraph id="idD191F23A8F3A4BA59C21B1A253DE21BE">
+            <enum>(24)</enum>
+            <header>Data mart</header>
+            <text>The term <term>data mart</term> means a subset of a data warehouse that contains information for a specific department or entity
+			 of an organization rather than the entire organization.</text>
+					</paragraph>
+          <paragraph id="id4B0B16FB13D74AE2A449BC8453714B69">
+            <enum>(25)</enum>
+            <header>Data warehouse</header>
+            <text>The term <term>data warehouse</term> means a collection of data designed to support management decision making that contains a wide
+			 variety of data that present a coherent picture of business conditions for
+			 an entire organization at a single point in time and whose development
+			 includes the development of systems to extract data from operating systems
+			 plus installation of a warehouse database system that provides managers
+			 flexible access to the data.</text>
+          </paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+    </section>
+    <section id="id1513155BA6E14DF6BDAF58B46104CA45">
+      <enum>3.</enum>
+      <header>Security of critical network infrastructure, including domain controller, of Department of Veterans
+			 Affairs</header>
+			<subsection id="idCA484382B32D4C31B643DAA315AB184D">
+        <enum>(a)</enum>
+        <header>In general</header>
+				<text>Not later than 90 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="3600" entity-type="federal-body">Secretary of Veterans
+			 Affairs</cato:entity-ref> shall ensure the security and safeguard of the network
+			 infrastructure of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="3600" entity-type="federal-body">Department of Veterans Affairs</cato:entity-ref>.</text>
+			</subsection>
+      <subsection id="idBD30DCB1CCCC421993E3D20689F3715A">
+        <enum>(b)</enum>
+        <header>Actions required</header>
+				<text>In carrying out <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Information Security Improvement Act/s:3/ss:a" proposed="true">subsection (a)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall carry out the following actions:</text>
+				<paragraph id="HD285930BBAE944BDBBCE52E3F48D3C3B">
+          <enum>(1)</enum>
+          <text>Maintain the awareness and complete physical and logical control of the critical network
+			 infrastructure, including routers, switches, domain naming systems,
+			 firewalls, load balancers, proxy devices, authentication services,
+			 telecommunications, domain controllers, and any device that is part of the
+			 trusted Internet connection system.</text>
+				</paragraph>
+        <paragraph id="HA96DE71D1CD14E3796B6EC24E0324AEC">
+          <enum>(2)</enum>
+          <text>If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> determines that any critical network infrastructure device or service has been
+			 compromised, restore the device or service to the last known
+			 noncompromised state and determine the cause of the compromise.</text>
+				</paragraph>
+        <paragraph id="H9E214E77842D44BCB624E6E161B1D4F7">
+          <enum>(3)</enum>
+          <text>If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> determines that compromised devices or services must be used for a limited time,
+			 conduct such use in accordance with the guidance established by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="97CG" entity-type="federal-body">National Security Agency</cato:entity-ref> under the document titled <quote>Information Assurance Guidance for Operating on a Compromised Network</quote>, or successor document.</text>
+				</paragraph>
+        <paragraph id="H3CFC15F74D9C4E179231211C68AB110F">
+          <enum>(4)</enum>
+          <text>Provide special security configurations for protecting critical infrastructure devices and
+			 services.</text>
+				</paragraph>
+        <paragraph id="HF3171428089C4F71B5CC1CE82DA0775D">
+          <enum>(5)</enum>
+          <text>Implement policies and security measures that minimize the threats to critical infrastructure
+			 devices and services.</text>
+				</paragraph>
+        <paragraph id="HBA828223E3734094B19789C2931160CE">
+          <enum>(6)</enum>
+          <text>Ensure that critical infrastructure devices and services, including the domain controller settings,
+			 are in compliance with the Server Security Plan of the Department under
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="3600" entity-type="federal-body">Department of Veterans Affairs</cato:entity-ref> Handbook 6500.</text>
+				</paragraph>
+        <paragraph id="HBD3AC8996BC84ED1847724BD568C8F42">
+          <enum>(7)</enum>
+          <text>Establish access rights, permissions, and multifactor authentication for the critical
+			 infrastructure devices and services, including the domain controller, for
+			 specific users or groups of users.</text>
+				</paragraph>
+        <paragraph id="H264B15D5717D47E6B9731F85E6ECD69F">
+          <enum>(8)</enum>
+          <text>Ensure that proper physical security measures are taken to safeguard the critical infrastructure
+			 devices and services and limit physical access to such location to a
+			 limited number of authorized individuals.</text>
+				</paragraph>
+        <paragraph id="HB1DABB3FA30C479792AD2B15D939ECE6">
+          <enum>(9)</enum>
+          <text>Limit the access from network connections to critical infrastructure devices and services and only
+			 configure services and software that are needed by the devices and
+			 services.</text>
+				</paragraph>
+        <paragraph id="H662022B22EE742D2B3A221FF274CE3A9">
+          <enum>(10)</enum>
+          <text>Disable or delete any service or software from critical infrastructure devices and services that is
+			 unnecessary.</text>
+				</paragraph>
+        <paragraph id="HCC0B20332DF74C9A8F44CFF03272B573">
+          <enum>(11)</enum>
+          <text>Where feasible, secure critical infrastructure devices and services with host-based and
+			 networked-based security controls and limit the number of ports that are
+			 opened between critical infrastructure devices and services, including any
+			 device requesting access to network resources and services.</text>
+				</paragraph>
+        <paragraph id="HD04F27A7A4F44F0494361ECD86C2A75E">
+          <enum>(12)</enum>
+          <text>Conduct regular audits and testing of the backups and restore events of the critical infrastructure
+			 devices and services.</text>
+				</paragraph>
+        <paragraph id="H66E81981DC80498688466065F6B38BD6">
+          <enum>(13)</enum>
+          <text>Ensure that for any device to access and communicate with critical infrastructure devices and
+			 services within the domain, the authentication traffic has to be signed
+			 and encrypted.</text>
+				</paragraph>
+        <paragraph id="H224C6060869D4C03A0BBDE41CE4CB096">
+          <enum>(14)</enum>
+          <text>Limit the administrator account from accessing critical infrastructure devices and services,
+			 including domain controllers, throughout the network and use such account
+			 only for emergencies.</text>
+				</paragraph>
+        <paragraph id="H78E4F32FAF2646448B54789FD59BF835">
+          <enum>(15)</enum>
+          <text>Restrict remote access to local administrator accounts and use firewall rules to restrict lateral
+			 movement on the network.</text>
+				</paragraph>
+        <paragraph id="H14AA3FB7643845B28290D78B8D4E6746">
+          <enum>(16)</enum>
+          <text>Conduct regular formal penetration testing to test for potential security weaknesses and resolve
+			 such weaknesses by not later than seven days after identifying such
+			 weaknesses.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="HE696B16946F948C3911D104F318A8CC1">
+        <enum>(c)</enum>
+        <header>Certification</header>
+        <text>Not later than 30 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall submit to
+			 the congressional veterans committees written certification that the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> has commenced each action described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Information Security Improvement Act/s:3/ss:b" proposed="true">subsection (b)</cato:entity-ref>.</text>
+			</subsection>
+    </section>
+    <section id="id1E8AC81F06C64E17AEF1CA40AF5B8FFA">
+      <enum>4.</enum>
+      <header>Security of computers and servers of Department of Veterans Affairs</header>
+			<subsection id="idDC16DA1EDBFC45A29AF7F92DA7ECC4CA">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall ensure the security of each general purpose computer and server of the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>.</text>
+			</subsection>
+      <subsection id="id23FDE9A262764045948ACA0971F88697">
+        <enum>(b)</enum>
+        <header>Actions required</header>
+        <text>In carrying out <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Information Security Improvement Act/s:4/ss:a" proposed="true">subsection (a)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall carry out the following actions:</text>
+				<paragraph id="idA1E7375D4B104F5DA8398A900AB6EBC3">
+          <enum>(1)</enum>
+					<text>Formalize and enforce a <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>-wide process to monitor software installed on general purpose
+			 computers and servers of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>, prevent the unauthorized
+			 installation of software, and remove any unauthorized software that has
+			 been installed.</text>
+				</paragraph>
+        <paragraph id="id9B0289A8B39F485DA90A778CC5558B0D">
+          <enum>(2)</enum>
+          <text>Not later than 45 days after the date of the enactment of this Act, implement automated patch­ing
+			 tools and processes that ensure that security patches are installed for
+			 any software or operating system on a computer by not later than 48 hours
+			 after the patch is made available.</text>
+				</paragraph>
+        <paragraph id="id3A55C6876B084DD491514299BF789036">
+          <enum>(3)</enum>
+					<text>Employ automated tools to continuously monitor general purpose computers, servers, and mobile
+			 devices for active, up-to-date anti-malware protection with antivirus,
+			 antispyware, personal firewalls, and host-based intrusion prevention
+			 system functionality.</text>
+				</paragraph>
+        <paragraph id="id0186D778043144519CB2A1FE69F43FF3">
+          <enum>(4)</enum>
+					<text>Centralize oversight and control to effectively administer patch management processes (but the
+			 responsibility for testing and applying patches to specific systems may be
+			 decentralized to the component level).</text>
+				</paragraph>
+        <paragraph id="idA873BF8FB3AD4F71B42FD178DCDEE786">
+          <enum>(5)</enum>
+					<text>Perform regular scans of general purpose computers and servers to discover security
+			 vul­ner­a­bil­i­ties and log the results of such scans.</text>
+				</paragraph>
+        <paragraph id="id025D1B510ED644B299E91D3D2C53FBF5">
+          <enum>(6)</enum>
+					<text>Perform a patch-focused risk assessment to evaluate each system, database, and general purpose
+			 computer for threats, vulnerabilities, and its criticality to the mission
+			 of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>.</text>
+				</paragraph>
+        <paragraph id="id9259831A565F4ED293014090478F9BA4">
+          <enum>(7)</enum>
+					<text>If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> determines any security vulnerability—</text>
+					<subparagraph id="idE5A5944B438B4DB39E660EB0CBA29D85">
+            <enum>(A)</enum>
+            <text>develop a test for the vulnerability and determine the cause of the vulnerability;</text>
+					</subparagraph>
+          <subparagraph id="idF30ED5D508C342CA9A23F21F8B1B33D5">
+            <enum>(B)</enum>
+            <text>address the vulnerability, including by patching, implementing a compensating control, or
+			 documenting and accepting a reasonable business risk (in accordance with
+			 industry accepted best practices) with respect to the vulnerability; and</text>
+					</subparagraph>
+          <subparagraph id="id6BF90B9290314F7CB066085C4BF410DD">
+            <enum>(C)</enum>
+            <text>perform a post remediation scan to verify that the vulnerability was so addressed.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="id196B5A5DBBAF409E9B6FFC6FE21E66DD">
+          <enum>(8)</enum>
+					<text>Establish and ensure the use of standard, secure configurations of each operating system in use on
+			 the computers of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>.</text>
+				</paragraph>
+        <paragraph id="idED6589A6CACA43E3900BE4F8B7A3661B">
+          <enum>(9)</enum>
+					<text>Employ system-scanning tools that check computers daily for software version, patch levels, and
+			 configuration files.</text>
+				</paragraph>
+        <paragraph id="idDAAC1F550C284D20904DC4EE65C54360">
+          <enum>(10)</enum>
+          <text>Deploy a security content automation protocol tool that is validated by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1341" entity-type="federal-body">National Institute of
+			 Standards and Technology</cato:entity-ref> to use specific standards to enable automated
+			 vulnerability management, measurement, and policy compliance evaluation.</text>
+				</paragraph>
+        <paragraph id="id01257353DFCD4A4786E7DECD61560C63">
+          <enum>(11)</enum>
+					<text>Standardize policies, procedures, and tools for effective patch management, including by assigning
+			 roles and responsibilities, performing risk assessments, and testing
+			 patches.</text>
+				</paragraph>
+        <paragraph id="id23FE7950BE5842A29CD250D914EB96F0">
+          <enum>(12)</enum>
+					<text>Test each patch against all system configurations of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref> in a test environment to
+			 determine any effect on the network before deploying the patch to the
+			 affected systems and monitor the status of the patches after deployment.</text>
+				</paragraph>
+        <paragraph id="idA1AE59789E35451B9926F07D7545E97A">
+          <enum>(13)</enum>
+					<text>Establish and maintain an inventory of all hardware equipment, software packages, services, and
+			 other technologies installed and used by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref> for patch
+			 management.</text>
+				</paragraph>
+        <paragraph id="idC02D375C5DA54F1A975D64DDE2B768D8">
+          <enum>(14)</enum>
+					<text>Establish a policy for security fixes that is clearly communicated to computer users to ensure that
+			 the users are aware of—</text>
+					<subparagraph id="idA3DD8D9F7FE9465F9D95CF7C9E89F0C6">
+            <enum>(A)</enum>
+						<text>the versions of software or operating systems that are supported with respect to security fixes;
+			 and</text>
+					</subparagraph>
+          <subparagraph id="id25B8DF5FFB73420F97DBF3CD115F6FC9">
+            <enum>(B)</enum>
+						<text>when software, operating systems, or other products are scheduled to no longer be maintained.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="id75C66AE3763A4ACD8E597F94054CE5C5">
+          <enum>(15)</enum>
+					<text>Ensure that—</text>
+					<subparagraph id="idBA7526F4B71F47E6972D9602FE76E89F">
+            <enum>(A)</enum>
+						<text>the staff or contractors of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref> who are involved in patch management have the skills and
+			 knowledge needed to perform the responsibilities relating to such
+			 management; and</text>
+					</subparagraph>
+          <subparagraph id="id30FA0D183E774AC0BD5BA51C05FA3376">
+            <enum>(B)</enum>
+						<text>system administrators are trained in identifying new patches and vulnerabilities.</text>
+					</subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection id="id85958F092A4F49BF9F1134CC144D345C">
+        <enum>(c)</enum>
+        <header>Certification</header>
+        <text>Not later than 30 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall submit to
+			 the congressional veterans committees written certification that the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> has commenced each action described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Information Security Improvement Act/s:4/ss:b" proposed="true">subsection (b)</cato:entity-ref>.</text>
+			</subsection>
+    </section>
+    <section id="idA3F213F3383C481183E95BB44FB97861">
+      <enum>5.</enum>
+      <header>Upgrade or phase-out of unsupported or outdated operating systems</header>
+			<subsection id="idDF6F31CF7732433EB26DFFCFA6F0BB21">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text>Not later than 90 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall ensure that
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> upgrades or phases out outdated or unsupported operating
+			 systems to protect computers of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref> from harmful viruses,
+			 spyware, and other malicious software that could affect the
+			 confidentiality of sensitive personal information of veterans.</text>
+			</subsection>
+      <subsection id="id7527E97D3AEE4100BC1EC623ED03DD9A">
+        <enum>(b)</enum>
+        <header>Actions required</header>
+        <text>In carrying out <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Information Security Improvement Act/s:5/ss:a" proposed="true">subsection (a)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall carry out the following activities:</text>
+				<paragraph id="idDCC8EFD14FAE491BA2B54B1C996ED8D1">
+          <enum>(1)</enum>
+					<text>Establish a plan for phasing out outdated or unsupported operating systems used by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>.</text>
+				</paragraph>
+        <paragraph id="idB9A15C330A3B4888A84C02E76C77E0A3">
+          <enum>(2)</enum>
+					<text>Establish a policy to ensure that outdated and unsupported operating systems used by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>
+			 do not connect to the network of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref> by not later than 15 days
+			 after the date on which such operating systems are so outdated or
+			 unsupported, as determined appropriate by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref>.</text>
+				</paragraph>
+        <paragraph id="id54E45A4AF7F1489793DC50E5DC51B412">
+          <enum>(3)</enum>
+					<text>Establish a configuration management process to ensure that—</text>
+					<subparagraph id="id3B75A16A0C5C44F7A67A84A3E55D30A6">
+            <enum>(A)</enum>
+						<text>a secure image that is regularly updated is used to build all new computers used by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>;
+			 and</text>
+					</subparagraph>
+          <subparagraph id="id237414EA27C341B3BC47389632938CAF">
+            <enum>(B)</enum>
+            <text>any computer used by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref> that becomes compromised is re-imaged using such image.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="id30B790BF2B13450AB41AC31263FC4A89">
+          <enum>(4)</enum>
+          <text>Implement applicable operating systems based on security guidance identified by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Information Assurance Directorate" entity-parent-id="97CG">Information
+			 Assurance Directorate of the National Security Agency</cato:entity-ref>.</text>
+				</paragraph>
+        <paragraph id="id2D80FCC5C004476F92184960A8344BAF">
+          <enum>(5)</enum>
+          <text>Appropriately configure and test required software that was designed to be used on older operating
+			 systems to ensure the software is usable on a new operating system used by
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>.</text>
+				</paragraph>
+        <paragraph id="id0B433D3772E04FA78A1752A64BB3C9F0">
+          <enum>(6)</enum>
+          <text>Limit administrative privileges to very few users who have both the appropriate knowledge and
+			 business need to modify the configuration of the operating system.</text>
+				</paragraph>
+        <paragraph id="id75D75F5BD130406FAEEAE58D01A0FA38">
+          <enum>(7)</enum>
+					<text>Until the date on which an unsupported operating system is replaced, if a computer uses such
+			 operating system, disable web browser plug-ins, use a hardware firewall,
+			 and if practicable, disconnect the computer from the network and do not
+			 use the computer to access the Internet.</text>
+				</paragraph>
+        <paragraph id="idD72D529B19E240FB915FFD737BDA9686">
+          <enum>(8)</enum>
+					<text>Deploy a software inventory tool to cover each of the operating systems in use by the Department to
+			 track—</text>
+					<subparagraph id="idC68827FC7FB14CD8A013FF8DFB794C5C">
+            <enum>(A)</enum>
+            <text>the type of such operating systems being used by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>; and</text>
+					</subparagraph>
+          <subparagraph id="idF3373A59F4B74F83950DDA861AA3A1DC">
+            <enum>(B)</enum>
+            <text>with respect to each computer of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>—</text>
+						<clause id="idD125F9940314480091AAB0BD214FAF92">
+              <enum>(i)</enum>
+              <text>the type of operating system installed and the version number and patch level of such operating
+			 system; and</text>
+						</clause>
+            <clause id="idB7124581EF7F4E9FAA4F891FDE5937E7">
+              <enum>(ii)</enum>
+							<text>the software being used on such operating system.</text>
+						</clause>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="id798BC214A0EC4D4E9A2221570BA1720D">
+          <enum>(9)</enum>
+          <text>Regularly use file integrity checking tools to check any changes to critical operating systems,
+			 services, and configuration files.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="id0419B5CF026C427CA46D70FC3BE8B400">
+        <enum>(c)</enum>
+        <header>Certification</header>
+        <text>Not later than 30 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall submit to
+			 the congressional veterans committees written certification that the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> has commenced each action described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Information Security Improvement Act/s:5/ss:b" proposed="true">subsection (b)</cato:entity-ref>.</text>
+			</subsection>
+    </section>
+    <section id="id98740BD3427E4727A4C412AAF75A761C">
+      <enum>6.</enum>
+      <header>Security of web applications from vital vulnerabilities</header>
+			<subsection id="id4CC674D35069413892773EBB8D5535A1">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall ensure that web applications used by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref> are secure from
+			 vulnerabilities that could affect the confidentiality of sensitive
+			 personal information of veterans.</text>
+			</subsection>
+      <subsection id="id6CEE1EC989324A1BBAC3410D90009598">
+        <enum>(b)</enum>
+        <header>Actions required</header>
+        <text>In carrying out <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Information Security Improvement Act/s:6/ss:a" proposed="true">subsection (a)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall carry out the following activities:</text>
+				<paragraph id="id97E00AFCE54D493EA3880718BE1F367A">
+          <enum>(1)</enum>
+					<text>Not later than 60 days after the date of the enactment of this Act, develop a plan, including
+			 required actions and milestones, to fully remediate all security
+			 vulnerabilities described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Information Security Improvement Act/s:6/ss:a" proposed="true">subsection (a)</cato:entity-ref> that exist as of the date of
+			 the enactment of this Act.</text>
+				</paragraph>
+        <paragraph id="id3D4C96971A8C4A66810B6F1F3B62E352">
+          <enum>(2)</enum>
+					<text>Develop detailed guidance for remediating each critical security vulnerability.</text>
+				</paragraph>
+        <paragraph id="id8413324AF91D4AA385849B6CA78F7AAC">
+          <enum>(3)</enum>
+					<text>Use best practices and lessons learned, including such practices and lessons described by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1341" entity-type="federal-body">National Institute of Standards and Technology</cato:entity-ref> and the Open Web
+			 Application Security Project, to address the security vulnerabilities of
+			 web applications.</text>
+				</paragraph>
+        <paragraph id="idB11FA7798B9A4C698A8927EAE6552778">
+          <enum>(4)</enum>
+					<text>Limit the permissions on the database logon used by web applications to only what is needed to
+			 reduce the effectiveness of any attack that exploits bugs in the
+			 application.</text>
+				</paragraph>
+        <paragraph id="idF89E77EFBB8D49F9A36240D24393A30C">
+          <enum>(5)</enum>
+					<text>Provide to web application developers—</text>
+					<subparagraph id="id7DE0F27365094803B388C125FBD255FE">
+            <enum>(A)</enum>
+						<text>thorough application development guidance to ensure that new applications are designed by taking
+			 into account security; and</text>
+					</subparagraph>
+          <subparagraph id="id08E727AB47BC4144B4649F0BDE3D7E10">
+            <enum>(B)</enum>
+						<text>detailed guidance on testing existing web applications for security vulnerabilities, including
+			 buffer overflows and cross-site script­ing.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="id80B2732DA4404C92B3F2B92A93D82FEE">
+          <enum>(6)</enum>
+					<text>Configure administrative passwords to be—</text>
+					<subparagraph id="id777B2808EBDB47F8B51692762A80EB1A">
+            <enum>(A)</enum>
+            <text>complex and consist only of strings of letters, numbers, and characters that do not form a
+			 recognizable word; and</text>
+					</subparagraph>
+          <subparagraph id="id8DF9A01BA2D34A338400EE7FE884E400">
+            <enum>(B)</enum>
+            <text>changed every 90 days, in accordance with industry best practices.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="id3951015765764F05997A5CA39945EB3E">
+          <enum>(7)</enum>
+					<text>With respect to passwords used in connection with web applications, store the passwords for each
+			 system of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref> only in a well-hashed or encrypted format.</text>
+				</paragraph>
+        <paragraph id="idAAFBFF64B14345319F1739F30648342F">
+          <enum>(8)</enum>
+					<text>Implement two-factor authentication technology requirements throughout the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>.</text>
+				</paragraph>
+        <paragraph id="id96F1324A20564401B9851AD9A97A994B">
+          <enum>(9)</enum>
+					<text>If vulnerabilities in a web application are found, administer a full-source code review to
+			 determine if the vulnerabilities exist elsewhere within the code of the
+			 application.</text>
+				</paragraph>
+        <paragraph id="idF47ED9C244914362825B7823CADD8681">
+          <enum>(10)</enum>
+					<text>Periodically review user access to networks and web applications to identify unnecessary, inactive,
+			 or terminated user accounts.</text>
+				</paragraph>
+        <paragraph id="idEEDECF80FFD14CD8AFCCC4B62CE0E0E8">
+          <enum>(11)</enum>
+					<text>Establish a single set of strong authentication and session management controls that meet all the
+			 authentication and session management requirements defined in the
+			 Application Security Ver­i­fi­ca­tion Standard of the Open Web Application
+			 Security Project.</text>
+				</paragraph>
+        <paragraph id="id59745FF6B74C4EB5A9FAF2AE872DD1CE">
+          <enum>(12)</enum>
+					<text>Implement visibility and attribution measures to improve the process, architecture, and technical
+			 capabilities of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref> to monitor web applications used on the
+			 networks and computers of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref> to detect attack attempts, locate
+			 points of entry, identify already compromised machines, interrupt
+			 activities of infiltrated attackers, and gain information about the
+			 sources of an attack.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="id42A4986ACD974CAD884BACB7C233A4E1">
+        <enum>(c)</enum>
+        <header>Certification</header>
+        <text>Not later than 30 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall submit to
+			 the congressional veterans committees written certification that the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> has commenced each action described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Information Security Improvement Act/s:6/ss:b" proposed="true">subsection (b)</cato:entity-ref>.</text>
+			</subsection>
+    </section>
+    <section id="id4388C74A5920432CACCFC2FD536FD44A">
+      <enum>7.</enum>
+      <header>Security of the Vista system</header>
+			<subsection id="id58E52F1490224097A02FE2531CD0D401">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text>Not later than 90 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall ensure that
+			 the Vista system is secure from vulnerabilities that could affect the
+			 confidentiality of sensitive personal information of veterans.</text>
+			</subsection>
+      <subsection id="idBCDF05A496B34CBBA2A142C2D8F1C6E6">
+        <enum>(b)</enum>
+        <header>Actions required</header>
+				<text>In carrying out <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Information Security Improvement Act/s:7/ss:a" proposed="true">subsection (a)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall carry out the following activities:</text>
+				<paragraph id="id99E07002A687425F981551D6D5E321F5">
+          <enum>(1)</enum>
+					<text>Develop a remedial action plan to address the approaches to interoperability—</text>
+					<subparagraph id="id5E5CA17A0B654AD4B96F7700863819F4">
+            <enum>(A)</enum>
+						<text>between multiple Vista systems; and</text>
+					</subparagraph>
+          <subparagraph id="idE3F01AA5108D4655B0E412B885195381">
+            <enum>(B)</enum>
+						<text>between the Vista system and external systems and software.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="idA866C6C535F147138490536A43C4811E">
+          <enum>(2)</enum>
+					<text>Update the policy, procedures, and governance of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref> with respect to system-to-system
+			 integration where users log on to external systems and then automatically
+			 connect to the Vista system and interact.</text>
+				</paragraph>
+        <paragraph id="id44A1DFD88CC44F4BA6F6045EC0F7EBDC">
+					<enum>(3)</enum>
+          <text>Provide authentication for the machine-to-machine broker so that the Vista system <quote>listener</quote> verifies the identity of the calling system.</text>
+				</paragraph>
+        <paragraph id="idDB65960E33834EDEB784684D40E5861B">
+          <enum>(4)</enum>
+					<text>Establish and implement policy with respect to the authentication of external systems attempting to
+			 connect to the Vista system and criteria by which user authentication must
+			 be accomplished to ensure all applications that connect to the Vista
+			 system convey accurate user information.</text>
+				</paragraph>
+        <paragraph id="idE91A4A79742B4408A83E57CA3265D2E8">
+          <enum>(5)</enum>
+					<text>Establish a business requirement that system-to-system integration connectivity across the
+			 wide-area network must consist of encrypted communication and require
+			 external systems to securely identify themselves, or for the Vista system
+			 to securely identify external systems that attempt to connect to the
+			 system.</text>
+				</paragraph>
+        <paragraph id="idBF1B2D91BB7D4D8FA9A2EDB533F15EF7">
+          <enum>(6)</enum>
+					<text>Establish a business requirement that external systems communicate accurate user information to the
+			 Vista system relating to actions initiated by actual individuals and
+			 facilitate the revocation of access by the Vista system relative to
+			 specific users or external systems attempting to connect.</text>
+				</paragraph>
+        <paragraph id="idE7F715D551E74D68B73F93EE4DFBAA47">
+          <enum>(7)</enum>
+					<text>Implement monthly project design reviews of the integration between systems and web applications to
+			 ensure that the effectiveness of the existing controls is sustained.</text>
+				</paragraph>
+        <paragraph id="idE70BDE0003AE4F8894F8806C156CED82">
+          <enum>(8)</enum>
+					<text>Assess the potential compromise to non-Department networks that are interconnected with the network
+			 of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>, including the networks of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Department of Defense</cato:entity-ref> and
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7500" entity-type="federal-body">Department of Health and Human Services</cato:entity-ref>.</text>
+				</paragraph>
+        <paragraph id="id2C1CB6589EF8463DA7ABFDE238BD1A29">
+          <enum>(9)</enum>
+					<text>Ensure that, in the near-term, software development for the Vista system develops the critical
+			 enhancements and fixes to the system that are necessary to ensure
+			 compliance with changes to patient enrollment.</text>
+				</paragraph>
+        <paragraph id="id2B55AE3B6FD14CF1B5D2734877B3F292">
+          <enum>(10)</enum>
+					<text>Ensure that all systems of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref> have been given the <term>Authority to Operate</term> designation and have been properly certified by meeting all requirements, including a
+			 comprehensive assessment of management, operational, and technical
+			 security controls, to become operational, and restrict the use of waivers.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="id54C6BE1930714DD3BC384F126DCAE7B7">
+        <enum>(c)</enum>
+        <header>Certification</header>
+        <text>Not later than 30 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall submit to
+			 the congressional veterans committees written certification that the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> has commenced each action described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Information Security Improvement Act/s:7/ss:b" proposed="true">subsection (b)</cato:entity-ref>.</text>
+			</subsection>
+    </section>
+    <section id="id9FB5D851F5C540EFA267F86988AE6ACA">
+      <enum>8.</enum>
+      <header>Report on compliance with information security requirements and best practices</header>
+      <text display-inline="no-display-inline">Not later than 60 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="3600" entity-type="federal-body">Secretary of Veterans
+			 Affairs</cato:entity-ref> shall submit to the congressional veterans committees the
+			 following:</text>
+			<paragraph id="idA81674C7B68843F087F06ABDC3256D34">
+        <enum>(1)</enum>
+				<text>Written certification that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> is taking every action required to comply with—</text>
+				<subparagraph id="id14BCB00121A74DC19D69A018B859644E">
+          <enum>(A)</enum>
+					<text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/38/57/III">subchapter III of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/38/57">chapter 57</external-xref> of title 38, United States Code</cato:entity-ref>;</text>
+				</subparagraph>
+        <subparagraph id="idB6F25182C0CD4792938033218DC92E9B">
+          <enum>(B)</enum>
+					<text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/44/35/III">subchapter III of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/35">chapter 35</external-xref> of title 44, United States Code</cato:entity-ref>;</text>
+				</subparagraph>
+        <subparagraph id="idB9B7A947D2BD4D65A6D853B292B97AFF">
+          <enum>(C)</enum>
+					<text>special publications 800–53 and 800–111 of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1341" entity-type="federal-body">National Institute of Standards and Technology</cato:entity-ref>,
+			 including with respect to en­crypt­ing databases;</text>
+				</subparagraph>
+        <subparagraph id="idC6F4F5292527407996428DBE372F61CA">
+          <enum>(D)</enum>
+					<text>applicable memoranda issued by the Director of Management and Budget regarding protecting
+			 personally identifiable information; and</text>
+				</subparagraph>
+        <subparagraph id="idCED042D220204BBD9C124470FAEDA4AA">
+          <enum>(E)</enum>
+          <text>any other relevant law or regulation regarding the information security of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="3600" entity-type="federal-body">Department of
+			 Veterans Affairs</cato:entity-ref>.</text>
+				</subparagraph>
+      </paragraph>
+      <paragraph id="id4369A6E55A614185ACC9911CC410BE90">
+        <enum>(2)</enum>
+        <text>How the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> is using and implementing the principles and best practices regarding improving
+			 information security, including with respect to such principles and
+			 practices described in the document titled <quote>Framework for Improving Critical Infrastructure Cybersecurity</quote> of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1341" entity-type="federal-body">National Institute of Standards and Technology</cato:entity-ref>.</text>
+			</paragraph>
+    </section>
+    <section id="id7A8F9714C8E249CCA9B62CA18859E84C">
+      <enum>9.</enum>
+      <header>Reports on implementation</header>
+			<subsection id="id7B18A4D0FCC04138B04BACEA6DA2ACDE">
+        <enum>(a)</enum>
+        <header>Biannual reports</header>
+				<paragraph id="id2476A08554AB498B8CCCF152706DD457">
+          <enum>(1)</enum>
+          <header>In general</header>
+          <text>Not later than 180 days after the date of the enactment of this Act, and every 180-day period
+			 thereafter, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall submit to the congressional veterans
+			 committees a report on the implementation of this Act, including the
+			 amendments made by this Act.</text>
+				</paragraph>
+        <paragraph id="idFCCCB87435224463861C6F79C6681BD0">
+          <enum>(2)</enum>
+          <header>Matters included</header>
+          <text>Each report under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Information Security Improvement Act/s:9/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall include the following:</text>
+					<subparagraph id="id9B72D8725BCE4CCAA84024A3272A229B">
+            <enum>(A)</enum>
+            <text>A description of the actions taken by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> to implement and comply with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Information Security Improvement Act/s:2..7" proposed="true">sections 2 through
+			 7</cato:entity-ref>.</text>
+					</subparagraph>
+          <subparagraph id="idD8EE38905496481898C6189EAE7DAC52">
+            <enum>(B)</enum>
+						<text>A timeline and project plan, both short-term and long-term, for implementing each of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Information Security Improvement Act/s:2..7" proposed="true">sections 2
+			 through 7</cato:entity-ref> and assigning roles and responsibilities under such plan.</text>
+					</subparagraph>
+          <subparagraph id="id894F208C333B459AB20FDE564EFAEF95">
+            <enum>(C)</enum>
+						<text>Performance measures and benchmarks to measure the results of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> in carrying out
+			 remediation efforts under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Information Security Improvement Act/s:2..7" proposed="true">sections 2 through 7</cato:entity-ref>.</text>
+					</subparagraph>
+          <subparagraph id="id8B33C920113D4133A16DB529D6C88315">
+            <enum>(D)</enum>
+						<text>A description of the best practices and lessons learned by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> in carrying out <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Information Security Improvement Act/s:2..7" proposed="true">sections 2
+			 through 7</cato:entity-ref>.</text>
+					</subparagraph>
+          <subparagraph id="idA65E24C4DA314A26A1D2DECFD9881EB2">
+            <enum>(E)</enum>
+            <text>The progress made by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> during each month covered by the report with respect to reducing
+			 the total number of outdated operating systems, web application
+			 vul­ner­a­bil­i­ties, critical security vulnerabilities, and other matters
+			 covered by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Information Security Improvement Act/s:2..7" proposed="true">sections 2 through 7</cato:entity-ref>.</text>
+					</subparagraph>
+          <subparagraph id="id31CDB02A10F94E1DA90D00EAE46B96B4">
+            <enum>(F)</enum>
+            <text>An appendix containing detailed reports of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>, including the enterprise information
+			 technology dashboard and reports regarding security vulnerabilities,
+			 operating system trends, and web applications.</text>
+					</subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection id="idEDFE5FD77324428B9A797F65ABB5EAF1">
+        <enum>(b)</enum>
+        <header>Annual Inspector General report</header>
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="3604" entity-type="federal-body">Inspector General of the Department of Veterans Affairs</cato:entity-ref> shall submit to the congressional
+			 veterans committees an annual report that includes a comprehensive
+			 assessment of the adequacy and effectiveness of the implementation by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="3600" entity-type="federal-body">Secretary of Veterans Affairs</cato:entity-ref> of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Information Security Improvement Act/s:2..7" proposed="true">sections 2 through 7</cato:entity-ref>, including the
+			 amendments made by this Act.</text>
+			</subsection>
+      <subsection id="id36887D08E89740D38E0BA556B20D960A">
+        <enum>(c)</enum>
+        <header>Monthly reports</header>
+        <text>On a monthly basis, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> shall submit to the congressional veterans committees reports on
+			 security vulnerabilities discovered pursuant to the actions taken under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Information Security Improvement Act/s:4/ss:b/p:5" proposed="true">section 4(b)(5)</cato:entity-ref>.</text>
+			</subsection>
+    </section>
+    <section id="id703297BD9F854C67B9811FF2AE1035F7">
+      <enum>10.</enum>
+      <header>Application</header>
+      <text display-inline="no-display-inline">In carrying out this Act, including the amendments made by this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="3600" entity-type="federal-body">Secretary of Veterans
+			 Affairs</cato:entity-ref> may substitute a new technology or process relating to information
+			 security for a specific technology or process relating to information
+			 security described in this Act, including the amendments made by this Act,
+			 if the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> determines that such new technology or process—</text>
+			<paragraph id="id3A5F3C156F4C404681D49DB67EE75554">
+        <enum>(1)</enum>
+        <text>is a successor to the specific technology or process described in this Act, including the
+			 amendments made by this Act; and</text>
+			</paragraph>
+      <paragraph id="idFABE8178E212401BA78F8FAE9908B889">
+        <enum>(2)</enum>
+        <text>provides a greater amount of information security than would be provided if the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref> did not
+			 make such substitution.</text>
+			</paragraph>
+    </section>
+    <section id="idC7B124A1A278401A80372138088A93BE">
+      <enum>11.</enum>
+      <header>Definitions</header>
+      <text display-inline="no-display-inline">In this Act:</text>
+			<paragraph id="H57B9D5758B4341DC9AA6F19A559C1F90">
+        <enum>(1)</enum>
+        <text>The term <term>Authority to Operate</term> means the official management decision given by a senior official of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref> to authorize
+			 operation of an information system and to explicitly accept the risk to
+			 the operations of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref> (including with respect to the mission,
+			 functions, image, or reputation of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>), the assets and
+			 individuals of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>, other elements of the Federal Government,
+			 and the United States based on the implementation of an agreed-upon set of
+			 security controls.</text>
+			</paragraph>
+      <paragraph id="H5A107F1C1AEF4C2D8F74821FE412F12C">
+        <enum>(2)</enum>
+        <text>The terms <term>confidentiality</term> has the meaning given that term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/38/5727">
+            <external-xref legal-doc="usc" parsable-cite="usc/38/5727">section 5727</external-xref> of title 38, United States Code</cato:entity-ref>.</text>
+			</paragraph>
+      <paragraph id="HA396D101942049F1814802F6DB1F7ED6">
+        <enum>(3)</enum>
+        <text>The term <term>congressional veterans committees</term> means the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HVR00">Committees on Veterans’ Affairs of the House of Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSVA00">Senate</cato:entity-ref>.</text>
+			</paragraph>
+      <paragraph id="HD879BAF1CF4346BD90372DA78F99F3B7">
+        <enum>(4)</enum>
+        <text>The term <term>critical network infrastructure</term> means information technology hardware that provides—</text>
+				<subparagraph id="HFFC799C6A3FE4950A2EA9AB10D093FBA">
+          <enum>(A)</enum>
+          <text>vital network services to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref> that is vital to carrying out the mission of the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>; and</text>
+				</subparagraph>
+        <subparagraph id="H92981EE736684CFBACF8E271CFEBFFAB">
+          <enum>(B)</enum>
+          <text>communications, security, transportation, access, and authentication services and capabilities.</text>
+				</subparagraph>
+      </paragraph>
+      <paragraph id="id5C7F9851ECDC46E48E0CB0D865AE1437">
+        <enum>(5)</enum>
+        <text>The term <term>domain controller</term> means a server that responds to security authentication requests responsible for allowing host
+			 access to domain resources by authenticating users, sorting user account
+			 information, and enforcing security policy.</text>
+			</paragraph>
+      <paragraph id="idE78E2E4FB70444CAA40B54457FDB7507">
+        <enum>(6)</enum>
+        <text>The term <term>general purpose computer</term> means a computer that, given the appropriate application and required time, should be able to
+			 perform most common computing tasks. Such term includes personal
+			 computers, including desktops, notebooks, smart phones, and tablets.</text>
+			</paragraph>
+      <paragraph id="H0A6FEDF895594100882B22CF92BD757A">
+        <enum>(7)</enum>
+        <text>The term <term>image</term> means a standard set of software (including the operating system and other software) that is
+			 installed on a computer.</text>
+			</paragraph>
+      <paragraph id="H1839C2CC7CC740788DAAE69557BB7BA6">
+        <enum>(8)</enum>
+        <text>The term <term>information security</term> has the meaning given that term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/38/5727">
+            <external-xref legal-doc="usc" parsable-cite="usc/38/5727">section 5727</external-xref> of title 38, United States Code</cato:entity-ref>.</text>
+			</paragraph>
+      <paragraph id="H15ECE86F66E64B0A89040B5EA847B97B">
+        <enum>(9)</enum>
+        <text>The term <term>information system</term> has the meaning given that term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/38/5727">
+            <external-xref legal-doc="usc" parsable-cite="usc/38/5727">section 5727</external-xref> of title 38, United States Code</cato:entity-ref>.</text>
+			</paragraph>
+      <paragraph id="HADE2B4AA50E24C0DB531643595875C12">
+        <enum>(10)</enum>
+        <text>The term <term>sensitive personal information</term> has the meaning given that term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/38/5727">
+            <external-xref legal-doc="usc" parsable-cite="usc/38/5727">section 5727</external-xref> of title 38, United States Code</cato:entity-ref>.</text>
+			</paragraph>
+      <paragraph id="id2794375B0FC946169FB8FAA74B86EAC7">
+        <enum>(11)</enum>
+        <text>The term <term>Vista system</term> means the Veterans Health Information Systems and Technology Architecture of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="3600" entity-type="federal-body">Department of
+			 Veterans Affairs</cato:entity-ref> that allows for an integrated inpatient and outpatient
+			 electronic health record for patients and provides administrative tools to
+			 employees of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Department</cato:entity-ref>.</text>
+			</paragraph>
+      <paragraph id="idA6DD5B1A5C5E493A893388B197097EA0">
+        <enum>(12)</enum>
+        <text>The term <term>web application</term> means an application in which all or some parts of the software are downloaded from the Internet
+			 each time the software is accessed, including web browser-based software
+			 that run within a web browser, desktop software that does not use a web
+			 browser, and mobile software that accesses the Internet for additional
+			 information.</text>
+			</paragraph>
+      <paragraph id="idE0D1B3A5552742C1BF3806ECF44481C4">
+        <enum>(13)</enum>
+        <text>The term <term>well-hashed</term> means the process of using a mathematical algorithm against data to produce a numeric value that
+			 is representative of that data.</text>
+			</paragraph>
+    </section>
+  </legis-body>
+</bill>
+</doc>
