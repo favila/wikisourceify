@@ -1,0 +1,986 @@
+<doc>
+  <docmeta id="113s2153is">
+    <bill congress="113" type="s" number="2153" version="is"/>
+    <revision size="32133" annotations="0" status="complete" id="6" commit-time="2014-04-29T23:05:42Z" committer="mbohmer" doc="113s2153is/6.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-Senate" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S2153 IS: National Regulatory Budget Act of 2014</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-03-25</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 2153</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20140325">March 25, 2014</action-date>
+			<action-desc>
+        <sponsor name-id="S350">Mr. Rubio</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs</committee-name>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To establish a National Regulatory Budget, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one">
+			<enum>1.</enum>
+			<header>Short title</header>
+			<text display-inline="no-display-inline">This Act may be cited as the
+		  <quote>
+          <short-title>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Regulatory Budget Act of 2014" proposed="true">National Regulatory Budget Act of 2014</cato:entity-ref>
+          </short-title>
+        </quote>.</text>
+		</section>
+    <section id="id1c0481ac93c44e5099b698495e301d97">
+			<enum>2.</enum>
+			<header>Establishment of the Office of Regulatory Analysis</header>
+			<subsection id="id703ED995787B4D13B872234628C68A2F">
+				<enum>(a)</enum>
+				<header>In general</header>
+				<text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5">Part I of title 5, United States Code</cato:entity-ref>, is amended by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/6">chapter 6</cato:entity-ref> the following:</text>
+				<quoted-block display-inline="no-display-inline" id="ida3ff68b224e24e3da50444b0f490ac99" style="USC">
+					<chapter id="idBC80129122FD4B87B08BE628C3D4681A" style="OLC">
+						<enum>6A</enum>
+						<header>National Regulatory Budget and Office of Regulatory Analysis</header>
+						<toc>
+							<toc-entry level="section">Sec. </toc-entry>
+							<toc-entry level="section">613. Definitions.</toc-entry>
+							<toc-entry level="section">614. Office of Regulatory Analysis; establishment; powers.</toc-entry>
+							<toc-entry level="section">615. Functions of Office of Regulatory Analysis; Executive branch agency compliance.</toc-entry>
+							<toc-entry level="section">616. Public disclosure of estimate methodology and data; privacy.</toc-entry>
+							<toc-entry level="section">617. National Regulatory Budget; timeline.</toc-entry>
+							<toc-entry level="section">618. Executive branch agency cooperation mandatory; information sharing.</toc-entry>
+							<toc-entry level="section">619. Enforcement.</toc-entry>
+							<toc-entry level="section">620. Regulatory Analysis Advisory Board.</toc-entry>
+						</toc>
+            <section id="id8A5923BFF9364BD5B5A1DE76A0FD0DA9">
+              <enum>613.</enum>
+              <header>Definitions</header>
+              <text display-inline="no-display-inline">In this chapter—</text>
+              <paragraph id="iddcf17d650e814b0ba2f4c37a4b4fa260">
+                <enum>(1)</enum>
+                <text>the term <term>aggregate costs</term>, with respect to a covered Federal rule, means the sum of—</text>
+                <subparagraph id="id8CFA38B8B1294880AAD54201A2DF0BBE">
+                  <enum>(A)</enum>
+                  <text>the direct costs of the covered Federal rule; and</text>
+                </subparagraph>
+                <subparagraph id="id46F34F19FF454F1684E561B71021154D">
+                  <enum>(B)</enum>
+                  <text>the regulatory costs of the covered Federal rule;</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="id4565992F38264E04B826BD659E430344">
+                <enum>(2)</enum>
+                <text>the term <term>covered Federal rule</term> means—</text>
+                <subparagraph id="id7d8e3d4e55d6461a8324759b51659819">
+                  <enum>(A)</enum>
+                  <text>a rule (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/551">section 551</cato:entity-ref>);</text>
+                </subparagraph>
+                <subparagraph id="id1130fe04312d49d7adcc4501715bc5de">
+                  <enum>(B)</enum>
+                  <text>an information collection requirement given a control number by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1103" entity-type="federal-body">Office of Management and
+			 Budget</cato:entity-ref>; or</text>
+                </subparagraph>
+                <subparagraph id="id62d76696e67a483f852f11907da8d588">
+                  <enum>(C)</enum>
+                  <text>guidance or a directive that—</text>
+                  <clause id="id40E68601F9A8402F93F76B5CC2461B14">
+                    <enum>(i)</enum>
+                    <text>is not described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/613//2/A" proposed="true">subparagraph (A)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/613//2/B" proposed="true">(B)</cato:entity-ref>;</text>
+                  </clause>
+                  <clause id="idC3BC0D4B83BF4E5C9656D6E148E6839F">
+                    <enum>(ii)</enum>
+                    <subclause commented="no" display-inline="yes-display-inline" id="id30FDC440F6DF4BEAA6CEC94E96B79958">
+                      <enum>(I)</enum>
+                      <text>is mandatory in its application to regulated entities; or</text>
+                    </subclause>
+                    <subclause id="id0337C8113F5E47C8A453AC9614BE91B4" indent="up1">
+                      <enum>(II)</enum>
+                      <text>represents a statement of agency position that regulated entities would reasonably construe as
+			 reflecting the enforcement or litigation position of the agency; and</text>
+                    </subclause>
+                  </clause>
+                  <clause id="id45ACE07818664166AFAF94B5E51D1333">
+                    <enum>(iii)</enum>
+                    <text>imposes not less than $25,000,000 in annual costs on regulated entities;</text>
+                  </clause>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="id39da3eb036db4820826c0b81630c4990">
+                <enum>(3)</enum>
+                <text>the term <term>direct costs</term> means—</text>
+                <subparagraph id="id52fe237f530f4fd898f5b0efcb59f518">
+                  <enum>(A)</enum>
+                  <text>expenditures made by an Executive branch agency that relate to the promulgation, administration, or
+			 enforcement of a covered Federal rule; or</text>
+                </subparagraph>
+                <subparagraph id="id466eb1b94db143b6a6c2a21bd2fa4f8b">
+                  <enum>(B)</enum>
+                  <text>costs incurred by an Executive branch agency, a Government corporation, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1800" entity-type="federal-body">United States Postal
+			 Service</cato:entity-ref>, or any other instrumentality of the Federal Government because of
+			 a covered Federal rule;</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="id2CC3B59A213649B78FC3514AA580059E">
+                <enum>(4)</enum>
+                <text>the term <term>Director</term> means the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director of the Office of Regulatory Analysis</cato:entity-ref> established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/614/b" proposed="true">section 614(b)</cato:entity-ref>;</text>
+              </paragraph>
+              <paragraph id="id1a0cf47087474d9eb5c53db3e975e6f8">
+                <enum>(5)</enum>
+                <text>the term <term>Executive branch agency</term> means—</text>
+                <subparagraph id="id5D053B05C2324FA49DBB22409BDF68A5">
+                  <enum>(A)</enum>
+                  <text>an Executive department (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/101">section 101</cato:entity-ref>); and</text>
+                </subparagraph>
+                <subparagraph id="id34E5F89DE3FA4585800D1694A9225A53">
+                  <enum>(B)</enum>
+                  <text>an independent establishment (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/104">section 104</cato:entity-ref>);</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="id7625b837eb6c4ac5a0cbd30c4ba53970">
+                <enum>(6)</enum>
+                <text>the term <term>regulated entity</term> means—</text>
+                <subparagraph id="id6D52F8C9629144E6A6A7D431D592B386">
+                  <enum>(A)</enum>
+                  <text>a for-profit private sector entity (including an individual who is in business as a sole
+			 proprietor);</text>
+                </subparagraph>
+                <subparagraph id="idDDC94BC64696443BB0D55E69DA08FDD9">
+                  <enum>(B)</enum>
+                  <text>a not-for-profit private sector entity; or</text>
+                </subparagraph>
+                <subparagraph id="idBC64BC471CFC42D4B626A066EEAD5C2D">
+                  <enum>(C)</enum>
+                  <text>a State or local government; and</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="id2198015a0fbd4aa2888029a3ac06ec5c">
+                <enum>(7)</enum>
+                <text>the term <term>regulatory costs</term> means all costs incurred by a regulated entity because of covered Federal rules.</text>
+              </paragraph>
+            </section>
+            <section id="id3e55bdc9761846e4a61ede920abe8cc8">
+							<enum>614.</enum>
+							<header>Office of Regulatory Analysis; establishment; powers</header>
+							<subsection id="id0d33e20592e14d29be97e3cf86ebfb60">
+								<enum>(a)</enum>
+								<header>Establishment</header>
+                <text>There is established in the executive branch an independent establishment to be known as the <quote>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Regulatory Analysis" proposed="true">Office of Regulatory Analysis</cato:entity-ref>
+                  </quote>.</text>
+							</subsection>
+              <subsection id="idcc952117f357475caa47c19424ff0d26">
+								<enum>(b)</enum>
+								<header>Director</header>
+								<paragraph id="idC3426A314FF04A688C48066E4049FE69">
+									<enum>(1)</enum>
+									<header>Establishment of position</header>
+									<text>There shall be at the head of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Regulatory Analysis" proposed="true">Office of Regulatory Analysis</cato:entity-ref> a <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref>, who shall be appointed
+			 by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>, by and with the advice and consent of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0010" entity-type="federal-body">Senate</cato:entity-ref>.</text>
+								</paragraph>
+                <paragraph id="id4c7eb728fda4467c8912c1360d5611bd">
+									<enum>(2)</enum>
+									<header>Term</header>
+									<subparagraph id="id96BEEB0EAF834E9795537D46FDA47F14">
+										<enum>(A)</enum>
+										<header>In general</header>
+										<text>The term of office of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> shall—</text>
+										<clause id="idB3D30371F2D94D099EE7B6F537A6DE91">
+											<enum>(i)</enum>
+											<text>be 4 years; and</text>
+										</clause>
+                    <clause id="id9188891672C54AA782F5FA5424DE1B7D">
+											<enum>(ii)</enum>
+											<text>expire on the last day of February following each Presidential election.</text>
+										</clause>
+                  </subparagraph>
+                  <subparagraph id="id7D8E1FAE88744C73B0015C41FCE7A0D8">
+										<enum>(B)</enum>
+										<header>Appointments prior to expiration of term</header>
+										<text>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/614/b/2/C" proposed="true">subparagraph (C)</cato:entity-ref>, an individual appointed as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> to fill a vacancy prior to the
+			 expiration of a term shall serve
+			 only for the unexpired portion of the term.</text>
+									</subparagraph>
+                  <subparagraph id="idB9934E8560604FF3AA9326E6E19660EC">
+										<enum>(C)</enum>
+										<header>Service until appointment of successor</header>
+										<text>An individual serving as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> at the expiration of a term may continue to serve until a
+			 successor is appointed.</text>
+									</subparagraph>
+                </paragraph>
+                <paragraph id="idbafe909ce71d41778970e19c4496c9b5">
+									<enum>(3)</enum>
+									<header>Powers</header>
+									<subparagraph id="idAF35D8DF9AD243A69D710C55FD053AE2">
+										<enum>(A)</enum>
+										<header>Appointment of Deputy Directors, officers, and employees</header>
+										<clause id="id9E699C7111D94A0CAD3CECDF0A3CEF42">
+											<enum>(i)</enum>
+											<header>In general</header>
+											<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> may appoint Deputy Directors, officers, and employees, including attorneys, in
+			 accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/51">chapter 51</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/53/III">subchapter III of chapter 53</cato:entity-ref>.</text>
+										</clause>
+                    <clause id="id0E8E07E6D92849AD8C91B9B7F790EBC5">
+											<enum>(ii)</enum>
+											<header>Term of Deputy Directors</header>
+											<text>A <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Deputy Director of the Office of Regulatory Analysis" proposed="true">Deputy Director</cato:entity-ref> shall serve until the expiration of the term of office of the Director who
+			 appointed the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Deputy Director of the Office of Regulatory Analysis" proposed="true">Deputy Director</cato:entity-ref> (and until a successor to that <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> is
+			 appointed), unless sooner removed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref>.</text>
+										</clause>
+                  </subparagraph>
+                  <subparagraph id="id4168b8bd4c604676b476887efdda5439">
+										<enum>(B)</enum>
+										<header>Contracting</header>
+										<clause id="id554EEEAC38664F7FA9DCAD053A1317B6">
+											<enum>(i)</enum>
+											<header>In general</header>
+											<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> may contract for financial and administrative services (including those related to
+			 budget and accounting, financial reporting, personnel, and procurement)
+			 with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4700" entity-type="federal-body">General Services Administration</cato:entity-ref>, or such other Federal agency as
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> determines appropriate, for which payment shall be made in
+			 advance, or by reimbursement, from funds of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Regulatory Analysis" proposed="true">Office of Regulatory
+			 Analysis</cato:entity-ref> in such amounts as may be agreed upon by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> and the
+			 head of the Federal agency providing the services.</text>
+										</clause>
+                    <clause id="idD33E8AD7840D4B5C9D19186ED0D839BD">
+											<enum>(ii)</enum>
+											<header>Subject to appropriations</header>
+											<text>Contract authority under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/614/b/3/B/i" proposed="true">clause (i)</cato:entity-ref> shall be effective for any fiscal year only to the extent that
+			 appropriations are available for that purpose.</text>
+										</clause>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="id8ca99800fb384c5d82ebdb5880a0013e">
+								<enum>(c)</enum>
+								<header>Authorization of appropriations</header>
+                <text>
+                  <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated to the <cato:entity-ref entity-type="federal-body" value="Office of Regulatory Analysis" proposed="true">Office of Regulatory Analysis</cato:entity-ref> <cato:funds-and-year amount="indefinite">for each fiscal year
+			 such
+			 sums as may be necessary</cato:funds-and-year> <cato:property name="purpose">to enable the <cato:entity-ref entity-type="federal-body" value="Office of Regulatory Analysis" proposed="true">Office of Regulatory Analysis</cato:entity-ref> to
+			 carry out its duties and functions</cato:property>.</cato:entity>
+                </text>
+              </subsection>
+            </section>
+            <section id="idf0acfd2173074691ace2bff76c6da88e">
+							<enum>615.</enum>
+							<header>Functions of Office of Regulatory Analysis; Executive branch agency compliance</header>
+							<subsection id="id19ada37c61d4468db50b8a203f65f45f">
+								<enum>(a)</enum>
+								<header>Annual report required</header>
+								<paragraph id="id1BD5CB7A483D4180B9F9C115D5D68B41">
+									<enum>(1)</enum>
+									<header>In general</header>
+									<text>Not later than January 30 of each year, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSGA00">Committee on Homeland
+			 Security and Governmental Affairs of the Senate</cato:entity-ref>, the  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSSB00">Committee on Small
+			 Business and Entrepreneurship of the Senate</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HGO00">Committee on Oversight
+			 and Government Reform of the House of Representatives</cato:entity-ref>, and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HSM00">Committee
+			 on Small Business of the House of Representatives</cato:entity-ref> a Report on National
+			 Regulatory Costs (referred to in this section as the <term>Report</term>) that includes the information specified under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/615/a/2" proposed="true">paragraph (2)</cato:entity-ref>.</text>
+								</paragraph>
+                <paragraph id="idC56F089A62C94EBCAE136FA5ED3287E5">
+									<enum>(2)</enum>
+									<header>Contents</header>
+									<text>Each Report shall include–</text>
+									<subparagraph id="id98e37b0ba20443118d71b072893e9737">
+										<enum>(A)</enum>
+										<text>an estimate, for the fiscal year during which the Report is submitted and for the preceding fiscal
+			 year, of—</text>
+										<clause id="idF22431574F774FC4829EEDC45B74C076">
+											<enum>(i)</enum>
+											<text>the regulatory costs imposed by each Executive branch agency on regulated entities;</text>
+										</clause>
+                    <clause id="id9016ef6ba35d4162933c8faee16a34dd">
+											<enum>(ii)</enum>
+											<text>the aggregate costs imposed by each Executive branch agency;</text>
+										</clause>
+                    <clause id="id8e7b54aac81947508ceeaf401c6ca376">
+											<enum>(iii)</enum>
+											<text>the aggregate costs imposed by all Executive branch agencies combined;</text>
+										</clause>
+                    <clause id="id70d23c7855f74e7c9e0088ecf50749c8">
+											<enum>(iv)</enum>
+											<text>the direct costs incurred by the Federal Government because of covered Federal rules issued by each
+			 Executive branch agency;</text>
+										</clause>
+                    <clause id="id648f582ef1d54ee4a45048cf797d8687">
+											<enum>(v)</enum>
+											<text>the sum of the costs described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/615/a/2/A/iii" proposed="true">clauses (iii)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/615/a/2/A/iv" proposed="true">(iv)</cato:entity-ref>;</text>
+										</clause>
+                    <clause id="idf5cc2afa91f542239e0c81347d07f73c">
+											<enum>(vi)</enum>
+											<text>the regulatory costs imposed by each Executive branch agency on small businesses, small
+			 organizations, and small governmental jurisdictions (as those terms are
+			 defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/601">section 601</cato:entity-ref>); and</text>
+										</clause>
+                    <clause id="ideb672e1f9e9446279ca84ce19d3ecf30">
+											<enum>(vii)</enum>
+											<text>the sum of the costs described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/615/a/2/A/vi" proposed="true">clause (vi)</cato:entity-ref>;</text>
+										</clause>
+                  </subparagraph>
+                  <subparagraph id="id3dfe7573b2b8455d92d1b5b8b1c76d4d">
+										<enum>(B)</enum>
+										<text>an analysis of any major changes in estimation methodology used by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Regulatory Analysis" proposed="true">Office of Regulatory
+			 Analysis</cato:entity-ref> since the previous annual report;</text>
+									</subparagraph>
+                  <subparagraph id="id5a27758866dd4b6a90f58e61b5851579">
+										<enum>(C)</enum>
+										<text>an analysis of any major estimate changes caused by improved or inadequate data since the previous
+			 annual report;</text>
+									</subparagraph>
+                  <subparagraph id="idf1bbde12216c44789dc139303715bc90">
+										<enum>(D)</enum>
+										<text>recommendations, both general and specific, regarding—</text>
+										<clause id="id37eec1a8bf374b5ab9d8b9c68c2855df">
+											<enum>(i)</enum>
+											<text>how regulations may be streamlined, simplified, and modernized;</text>
+										</clause>
+                    <clause id="ida324aa25375043439dee7a5be189ebff">
+											<enum>(ii)</enum>
+											<text>regulations that should be repealed; and</text>
+										</clause>
+                    <clause id="id120a0c9456404fcbad5ffe6c3d103ae8">
+											<enum>(iii)</enum>
+											<text>how the Federal Government may reduce the costs of regulations without diminishing the
+			 effectiveness of regulations; and</text>
+										</clause>
+                  </subparagraph>
+                  <subparagraph id="ideef0cae3c6174297af76c18dd08f3b63">
+										<enum>(E)</enum>
+										<text>any other information that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> determines may be of assistance to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> in determining
+			 the National Regulatory Budget required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/617" proposed="true">section 617</cato:entity-ref>.</text>
+									</subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="id01d3d598360141b28ef5c174e41547b3">
+								<enum>(b)</enum>
+								<header>Regulatory analysis of new rules</header>
+								<paragraph id="idE6317C98939740DFBFAC3C571ABCABF1">
+									<enum>(1)</enum>
+									<header>Requirement</header>
+									<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> shall publish in the Federal Register and on the website of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Regulatory Analysis" proposed="true">Office of Regulatory
+			 Analysis</cato:entity-ref>  a regulatory analysis of each proposed covered Federal rule
+			 issued by an Executive branch agency,
+			 and each proposed withdrawal or modification of a covered Federal rule by
+			 an Executive branch agency,
+			 that—</text>
+									<subparagraph id="id091ad85543a84c4e8f2b31981b8af9e0">
+										<enum>(A)</enum>
+										<text>imposes costs on a regulated entity; or</text>
+									</subparagraph>
+                  <subparagraph id="iddc23d566915e41e88018eeafb8d30202">
+										<enum>(B)</enum>
+										<text>reduces costs imposed on a regulated entity.</text>
+									</subparagraph>
+                </paragraph>
+                <paragraph id="id60B9DDFE47AF47B6A8C7D9470DCAF196">
+									<enum>(2)</enum>
+									<header>Contents</header>
+									<text>Each  regulatory analysis published under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/615/b/1" proposed="true">paragraph (1)</cato:entity-ref> shall  include—</text>
+									<subparagraph id="idE49E35905B9D4BEB8D23948A70A3A64F">
+										<enum>(A)</enum>
+										<text>an estimate of the change in regulatory cost of each proposed covered Federal rule (or proposed
+			 withdrawal or modification of a covered Federal rule); and</text>
+									</subparagraph>
+                  <subparagraph id="id6633BFD36536438EA0B621F9114C8D91">
+										<enum>(B)</enum>
+										<text>any other information or recommendation that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> may choose to provide.</text>
+									</subparagraph>
+                </paragraph>
+                <paragraph id="ida503f4b2d73842cd84501292ad74fb2a">
+									<enum>(3)</enum>
+									<header>Timing of regulatory analysis</header>
+									<subparagraph id="idBB484E57858A4F58A603B20985549DF5">
+										<enum>(A)</enum>
+										<header>Initial regulatory analysis</header>
+										<text>Not later than 60 days after the date on which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> receives a copy of a proposed covered
+			 Federal rule from the head of an Executive branch agency under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/615/b/4" proposed="true">paragraph
+			 (4)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> shall publish an initial regulatory analysis.</text>
+									</subparagraph>
+                  <subparagraph id="id0212CBD78EFE47138AB27A41951F8DEC">
+										<enum>(B)</enum>
+										<header>Revised regulatory analysis</header>
+										<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> may publish a revised regulatory analysis at any time.</text>
+									</subparagraph>
+                </paragraph>
+                <paragraph id="idf8e12ba4227049a8933566170bc0a7a8">
+									<enum>(4)</enum>
+									<header>Notice to Director of proposed covered Federal rule</header>
+									<text>The head of an Executive branch agency shall provide a copy of each proposed covered Federal rule
+			 to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> in a manner prescribed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref>.</text>
+								</paragraph>
+              </subsection>
+              <subsection id="id122b92f475644e229bd023fd86d6ce00">
+								<enum>(c)</enum>
+								<header>Effective dates</header>
+								<paragraph id="idE79FBADFE8A84F77A8C8C07FBCD1534C">
+									<enum>(1)</enum>
+									<header>In general</header>
+									<text>Except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/615/c/2" proposed="true">paragraph (2)</cato:entity-ref>, a covered Federal rule may not take effect earlier than 75
+			 days after the date on which the head of the Executive branch agency
+			 proposing the covered Federal rule submits a copy of the proposed covered
+			 Federal rule to the Director in the manner prescribed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref>
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/615/b/4" proposed="true">subsection (b)(4)</cato:entity-ref>.</text>
+								</paragraph>
+                <paragraph id="id397395E1212B401ABE3DC3BFB74D514F">
+									<enum>(2)</enum>
+									<header>Exception</header>
+									<text>If the head of the Executive branch agency proposing a covered Federal rule determines that the
+			 public health or safety or national security requires that the covered
+			 Federal rule be promulgated earlier than the date specified under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/615/c/1" proposed="true">paragraph (1)</cato:entity-ref>, the head of the Executive branch agency may promulgate the
+			 covered Federal rule without regard to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/615/c/1" proposed="true">paragraph (1)</cato:entity-ref>.</text>
+								</paragraph>
+              </subsection>
+            </section>
+            <section id="idfe2b73fc229d466991e213783054db77">
+							<enum>616.</enum>
+							<header>Public disclosure of estimate methodology and data; privacy</header>
+							<subsection id="idb07dfad5e5604240850f21e1dcf3aea0">
+								<enum>(a)</enum>
+								<header>Privacy</header>
+								<text>The Director shall comply with all relevant privacy laws, including—</text>
+								<paragraph id="idC3A86032CF724AA6948D81B2B01425D6">
+									<enum>(1)</enum>
+									<text>the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Confidential Information Protection and Statistical Efficiency Act of 2002">Confidential Information Protection and Statistical Efficiency Act of 2002</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/44/3501/note">44 U.S.C. 3501
+			 note</cato:entity-ref>)</cato:entity>;</text>
+								</paragraph>
+                <paragraph id="id8EB35BFDEEDE4822AB08E6B101DDBD0C">
+									<enum>(2)</enum>
+									<text>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/13/9">
+                      <external-xref legal-doc="usc" parsable-cite="usc/13/9">section 9</external-xref> of title 13</cato:entity-ref>; and</text>
+								</paragraph>
+                <paragraph id="id06F01227A05A41C798069CC6C6D81AD6">
+									<enum>(3)</enum>
+									<text>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6103">
+                      <external-xref legal-doc="usc" parsable-cite="usc/26/6103">section 6103</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref>.</text>
+								</paragraph>
+              </subsection>
+              <subsection id="ida0db35cb387d495b9206b05856cd4aa2">
+								<enum>(b)</enum>
+								<header>Disclosure</header>
+								<paragraph id="id178BC23DC4B74DDCB8CD7BA114638C36">
+									<enum>(1)</enum>
+									<header>In general</header>
+									<text>To the maximum extent permitted by law, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> shall disclose, by publication in the Federal
+			 Register and on the website of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Regulatory Analysis" proposed="true">Office of Regulatory Analysis</cato:entity-ref>, the
+			 methodology and data used to generate the estimates in the Report on
+			 National Regulatory Costs
+			 required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/615" proposed="true">section 615</cato:entity-ref>.</text>
+								</paragraph>
+                <paragraph id="id37F2BD1F45454E5286FECD6B9A09D875">
+									<enum>(2)</enum>
+									<header>Goal of disclosure</header>
+									<text>In disclosing the methodology and data under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/616/b/1" proposed="true">paragraph (1)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> shall seek to provide
+			 sufficient
+			 information so that outside researchers may replicate the results
+			 contained in the Report on National Regulatory Costs.</text>
+								</paragraph>
+              </subsection>
+            </section>
+            <section id="idf012615b3a584739b259671ff3f8cd82">
+							<enum>617.</enum>
+							<header>National Regulatory Budget; timeline</header>
+							<subsection id="id2b5fcdead499439a994dcebcdfc59611">
+								<enum>(a)</enum>
+								<header>Definition</header>
+								<text>In this section—</text>
+								<paragraph id="id9C2A4E674E0B444B9033EEDEC3E1AFE0">
+									<enum>(1)</enum>
+									<text>the term <term>annual overall regulatory cost cap</term> means the maximum amount of regulatory costs that all Executive branch agencies combined may
+			 impose in a fiscal year;</text>
+								</paragraph>
+                <paragraph id="idAE58C20247EE42E29BDCCB79736BE299">
+                  <enum>(2)</enum>
+									<text>the term <term>annual agency regulatory cost cap</term> means the maximum amount of regulatory costs that an
+			 Executive branch agency may impose in a fiscal year; and</text>
+                </paragraph>
+                <paragraph id="id449A2A4654274C7CB353A82EAECE2BC4">
+                  <enum>(3)</enum>
+                  <text>the term <term>National Regulatory Budget</term> means an Act of Congress that establishes, for a fiscal year—</text>
+									<subparagraph id="id7850E54BB1974FE48CADBBACD9CD97D9">
+										<enum>(A)</enum>
+										<text>the annual overall regulatory cost cap; and</text>
+									</subparagraph>
+                  <subparagraph id="id61FA8A5BA61E4F5E8A516227E1ADEF16">
+										<enum>(B)</enum>
+										<text>an annual agency regulatory cost cap for each Executive branch agency.</text>
+									</subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="idf7c27323180c46d2bb9334d2c3421cca">
+								<enum>(b)</enum>
+								<header>Committee deadlines</header>
+								<paragraph id="id0A5ADE7B8F0040F08F59F337D1213416">
+									<enum>(1)</enum>
+									<header>Referral</header>
+									<text>Not later than March 31 of each year—</text>
+									<subparagraph id="id2726FECEBB9842D88B7A586AED7379DE">
+										<enum>(A)</enum>
+										<text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSSB00">Committee on Small Business and Entrepreneurship of the Senate</cato:entity-ref> shall refer to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSGA00">Committee on
+			 Homeland Security and Governmental Affairs of the Senate</cato:entity-ref> a bill that sets
+			 forth a National Regulatory Budget for the fiscal year beginning on
+			 October 1 of that year; and</text>
+									</subparagraph>
+                  <subparagraph id="id3dfa25d8a26d4c7eb8bd04bfd639fee6">
+										<enum>(B)</enum>
+										<text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HSM00">Committee on Small Business of the House of Representatives</cato:entity-ref> shall refer to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HGO00">Committee on
+			 Oversight and Government Reform of the House of Representatives</cato:entity-ref> a bill
+			 that sets forth a National Regulatory Budget for the fiscal year beginning
+			 on October 1 of that year.</text>
+									</subparagraph>
+                </paragraph>
+                <paragraph id="ide9764509431d4955864531c222ccd2b2">
+									<enum>(2)</enum>
+									<header>Reporting</header>
+									<text>Not later than May 31 of each year—</text>
+									<subparagraph id="idBF38FFF250014865A16499FD499C7CF5">
+										<enum>(A)</enum>
+										<text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSGA00">Committee on Homeland Security and Governmental Affairs of the Senate</cato:entity-ref> shall report a bill
+			 establishing a National Regulatory Budget for the fiscal year beginning on
+			 October 1 of that year; and</text>
+									</subparagraph>
+                  <subparagraph id="ide78013fd1f4544678a73f357a6c6872e">
+										<enum>(B)</enum>
+										<text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HGO00">Committee on Oversight and Government Reform of the House of Representatives</cato:entity-ref> shall report a
+			 bill establishing a National Regulatory Budget for the fiscal year
+			 beginning on October 1 of that year.</text>
+									</subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="id9a6b41f7770e4632aeaa243e8ceeb569">
+								<enum>(c)</enum>
+								<header>Passage</header>
+								<text>Not later than July 31 of each year, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0050" entity-type="federal-body">House of Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0010" entity-type="federal-body">Senate</cato:entity-ref> shall each pass a
+			 bill establishing a National Regulatory Budget for the fiscal
+			 year beginning on October 1 of that year.</text>
+							</subsection>
+              <subsection id="ide6dcbd0cfb8843bdbc81bfbdf5c3055b">
+								<enum>(d)</enum>
+								<header>Presentment</header>
+								<text>Not later than September 15 of each year, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> shall pass and present to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> a
+			 National Regulatory Budget
+			 for the fiscal year  beginning on October 1 of that year.</text>
+							</subsection>
+              <subsection id="idca9fe72c4c394f0d91265a0a784f0ccd">
+								<enum>(e)</enum>
+								<header>Default budget</header>
+								<paragraph id="id9B3654F5D4274B0B8C1C47599E839B03">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>If a National Regulatory Budget is not enacted with respect to a fiscal year, the most recently
+			 enacted National Regulatory Budget shall apply to that fiscal
+			 year.</text>
+								</paragraph>
+                <paragraph id="idE0537C7983D04E5A808254D93F182861">
+                  <enum>(2)</enum>
+                  <header>Default initial budget</header>
+                  <subparagraph id="id499D8EC81D474CC3934D7C1F77E0518D">
+                    <enum>(A)</enum>
+                    <header>Calculation</header>
+                    <text>If a National Regulatory Budget is not enacted with respect to a fiscal year, and no National
+			 Regulatory Budget has previously been enacted—</text>
+                    <clause id="id1328C2A9E8DD44F7ACDE4270B8CF4611">
+                      <enum>(i)</enum>
+                      <text>the annual agency regulatory cost cap for an Executive branch agency for the fiscal year shall be
+			 equal to the  amount of regulatory costs imposed by that Executive branch
+			 agency on regulated entities during the preceding fiscal year, as
+			 estimated by the Director in the annual report submitted to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/615/a" proposed="true">section 615(a)</cato:entity-ref>; and</text>
+                    </clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id1A9761F2C7C74E6895230E02D91560BD">
+                      <enum>(ii)</enum>
+                      <text display-inline="yes-display-inline">the annual overall regulatory cost cap for the fiscal year shall be equal to the sum of the amounts
+			 described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/617/e/2/A/i" proposed="true">clause (i)</cato:entity-ref>.</text>
+                    </clause>
+                  </subparagraph>
+                  <subparagraph commented="no" display-inline="no-display-inline" id="id3BE9D90E87BD4B95A9E04BF72BB5C9CE">
+                    <enum>(B)</enum>
+                    <header>Effect</header>
+                    <text display-inline="yes-display-inline">For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/619" proposed="true">section 619</cato:entity-ref>, an annual agency regulatory cost cap described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/617/e/2/A" proposed="true">subparagraph (A)</cato:entity-ref>
+			 that applies to a fiscal year shall have the same effect as if the annual
+			 agency regulatory cost cap were part of a National Regulatory Budget
+			 applicable to that fiscal year.</text>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="id315c5ddc774143209bdef7a77269a588">
+                <enum>(f)</enum>
+                <header>Initial budget</header>
+                <text>The first National Regulatory Budget shall be with respect to fiscal year 2016.</text>
+              </subsection>
+            </section>
+            <section id="id6949c0048e7b42baaef7f15afa1e472f">
+							<enum>618.</enum>
+							<header>Executive branch agency cooperation mandatory; information sharing</header>
+							<subsection id="idefb2bd4ce9e340509c1d470e7f608407">
+								<enum>(a)</enum>
+								<header>Executive branch agency cooperation mandatory</header>
+								<text>Not later than 45 days after the date on which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> requests any information from an
+			 Executive
+			 branch agency, the Executive branch agency shall provide the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> with
+			 the information.</text>
+							</subsection>
+              <subsection id="idd63c7bdb093e498faed7c11786bf4156">
+								<enum>(b)</enum>
+								<header>Memoranda of understanding regarding confidentiality</header>
+								<paragraph id="id7490E77E0E4A4D17ADE1DE81CDE14D25">
+									<enum>(1)</enum>
+									<header>In general</header>
+									<text>An Executive branch agency may require the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> to enter into a memorandum of understanding
+			 regarding the confidentiality of information provided by the Executive
+			 branch agency to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/618/a" proposed="true">subsection (a)</cato:entity-ref> as a condition
+			 precedent to providing any requested information.</text>
+								</paragraph>
+                <paragraph id="idD7BF2F53BFF0424C9C3D33D31998EF36">
+									<enum>(2)</enum>
+									<header>Degree of confidentiality or data protection</header>
+									<text>An Executive branch agency may not require a greater degree of confidentiality or data protection
+			 from the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> in a memorandum of understanding entered into under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/618/b/1" proposed="true">paragraph (1)</cato:entity-ref> than the Executive branch agency itself must adhere to.</text>
+								</paragraph>
+                <paragraph id="id49C248870FFA40779C94F10B010D35E7">
+									<enum>(3)</enum>
+									<header>Scope</header>
+									<text>A memorandum of understanding entered into by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> and an Executive branch agency under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/618/b/1" proposed="true">paragraph (1)</cato:entity-ref> shall—</text>
+									<subparagraph id="id0E893AD22D6C4987A6208AC3C6016B5A">
+										<enum>(A)</enum>
+										<text>be general in scope; and</text>
+									</subparagraph>
+                  <subparagraph id="id18E511715AE94008BDE06121D8B54E3B">
+										<enum>(B)</enum>
+										<text>govern all pending and future requests made to the Executive branch agency by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref>.</text>
+									</subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="id48460c0d9c3d4c3e8c885325f7f48237">
+                <enum>(c)</enum>
+                <header>Sanctions for non-Cooperation</header>
+                <paragraph id="id92917DCB262D49D6BF4E169302F9598E">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>The appropriations of an Executive branch agency for a fiscal year  shall be reduced by one-half of
+			 1
+			 percent if, during that fiscal year, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> finds 
+			 that—</text>
+                  <subparagraph id="id8429b52381f54e00adc41f71fa8fec37">
+										<enum>(A)</enum>
+										<text>the Executive branch agency has failed to timely provide information that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> requested
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/618/a" proposed="true">subsection (a)</cato:entity-ref>;</text>
+									</subparagraph>
+                  <subparagraph id="id005ac58a04e6483092781d681d36b83f">
+										<enum>(B)</enum>
+										<text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> has provided notice of the failure described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/618/c/1/A" proposed="true">subparagraph (A)</cato:entity-ref> to the Executive
+			 branch agency;</text>
+									</subparagraph>
+                  <subparagraph id="idA18D17846F8F430D988479B09E4B2597">
+										<enum>(C)</enum>
+										<text>the Executive branch agency has failed to cure the failure described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/618/c/1/A" proposed="true">subparagraph (A)</cato:entity-ref> within 30
+			 days of being notified under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/618/c/1/B" proposed="true">subparagraph (B)</cato:entity-ref>; and</text>
+									</subparagraph>
+                  <subparagraph id="id8701428f9d16489eb596d76e053d9608">
+										<enum>(D)</enum>
+										<text>the information that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref>  requested under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/618/a" proposed="true">subsection (a)</cato:entity-ref>—</text>
+										<clause id="id507D7B3C1C0A4555BE161F026FAF78D9">
+											<enum>(i)</enum>
+											<text>is in the possession of the Executive branch agency; or</text>
+										</clause>
+                    <clause id="idF43B03018F5440A8A06CFD8B4E80E179">
+											<enum>(ii)</enum>
+											<text>may reasonably be developed by the Executive branch agency.</text>
+										</clause>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="id8410C7303FE543FB84A399251A399FF0">
+									<enum>(2)</enum>
+									<header>Sequestration</header>
+									<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1103" entity-type="federal-body">Office of Management and Budget</cato:entity-ref>, in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Federal Financial Management">Office of Federal Financial
+			 Management</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2033" entity-type="federal-body">Financial Management Service</cato:entity-ref>, shall enforce a reduction in
+			 appropriations under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/618/c/1" proposed="true">paragraph (1)</cato:entity-ref> by sequestering the appropriate amount
+			 of funds and returning the funds to the Treasury.</text>
+								</paragraph>
+                <paragraph id="idbbae8ce3eb7b46cda37a9a062aef0c63">
+									<enum>(3)</enum>
+									<header>Appeals</header>
+									<subparagraph id="id798E689839C141CFB578EAA4E0727E1D">
+										<enum>(A)</enum>
+										<header>In general</header>
+										<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1103" entity-type="federal-body">Director of the Office of Management and Budget</cato:entity-ref> may reduce the amount of, or except as provided
+			 in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/618/c/3/B" proposed="true">subparagraph (B)</cato:entity-ref>, waive, a sanction imposed under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/618/c/1" proposed="true">paragraph (1)</cato:entity-ref> if the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1103" entity-type="federal-body">Director of the Office of Management and Budget</cato:entity-ref> 
+			 finds that—</text>
+										<clause id="id4A37AA3EC9124E91830101A759BC9630">
+											<enum>(i)</enum>
+											<text>the sanction is unwarranted;</text>
+										</clause>
+                    <clause id="idBFB0D4C6955D4E4EA8BB7B70AEE8CF8F">
+											<enum>(ii)</enum>
+											<text>the sanction is disproportionate to the gravity of the failure;</text>
+										</clause>
+                    <clause id="idD8057C9BAEA54778945E03D2BA2A6B40">
+											<enum>(iii)</enum>
+											<text>the failure has been cured; or</text>
+										</clause>
+                    <clause id="id8B2521563DFB4BF4BF52E58004357CDE">
+											<enum>(iv)</enum>
+											<text>providing the requested information would adversely affect national security.</text>
+										</clause>
+                  </subparagraph>
+                  <subparagraph id="id50956822B4F34EB2A2EDB24B99214DCF">
+										<enum>(B)</enum>
+										<header>No waiver for historically non-compliant agencies</header>
+										<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1103" entity-type="federal-body">Director of the Office of Management and Budget</cato:entity-ref> may not waive a sanction imposed on an
+			 Executive branch
+			 agency under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/618/c/1" proposed="true">paragraph (1)</cato:entity-ref> if the Executive branch agency has a history of
+			 non-compliance with
+			 requests for information by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director of the Office of Regulatory
+			 Analysis</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/618/a" proposed="true">subsection (a)</cato:entity-ref>.</text>
+									</subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="idb29a9e9b711b428b830091881e5382cf">
+								<enum>(d)</enum>
+								<header>National security</header>
+								<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> may not require an Executive branch agency to provide information under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/618/a" proposed="true">subsection (a)</cato:entity-ref>
+			 that would adversely affect national security.</text>
+							</subsection>
+            </section>
+            <section id="id10e0a49ac86b4cc8a415e42628119628">
+							<enum>619.</enum>
+							<header>Enforcement</header>
+							<subsection id="id8d19df9d2bb34a4a92a7f7f577aa95db">
+								<enum>(a)</enum>
+								<header>Exceeding annual agency regulatory cost cap</header>
+								<text>An Executive branch agency that exceeds the annual agency regulatory cost cap imposed by the
+			 National Regulatory
+			 Budget for a fiscal year may not promulgate a new covered Federal rule
+			 that increases regulatory costs until the Executive branch agency no
+			 longer exceeds the annual agency regulatory cost cap imposed by the
+			 applicable National
+			 Regulatory Budget.</text>
+							</subsection>
+              <subsection id="ide88a88d33b9f45dcaa92808ed9c4463e">
+								<enum>(b)</enum>
+								<header>Determination of Director</header>
+								<paragraph id="id9DC42F9CFA4D437295681ABF06D66B4D">
+									<enum>(1)</enum>
+									<header>In general</header>
+									<text>An Executive branch agency may not promulgate a covered Federal rule unless the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref>
+			 determines, in conducting the regulatory analysis of the covered Federal
+			 rule under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/615/b/3/A" proposed="true">section 615(b)(3)(A)</cato:entity-ref> that, after the Executive branch agency
+			 promulgates the covered Federal rule, the Executive branch agency will not
+			 exceed the annual agency regulatory cost cap for that Executive branch
+			 agency.</text>
+								</paragraph>
+                <paragraph commented="no" id="id861C09F2BAEC46F9A1877A38033C0B12">
+									<enum>(2)</enum>
+									<header>Timing</header>
+									<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> shall make a determination under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/619/b/1" proposed="true">paragraph (1)</cato:entity-ref> with respect to a proposed covered
+			 Federal rule not later than 60 days after the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> receives a copy of
+			 the proposed covered Federal  rule under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/615/b/4" proposed="true">section 615(b)(4)</cato:entity-ref>.</text>
+								</paragraph>
+              </subsection>
+              <subsection commented="no" id="id2f553cfbcbd042fc94f73d390d22f2be">
+								<enum>(c)</enum>
+								<header>Effect of violation of this section</header>
+								<paragraph commented="no" id="id8854AAC2237D4A7A9BC5E98128A31B18">
+									<enum>(1)</enum>
+									<header>No force or effect</header>
+									<text>A covered Federal rule that is promulgated in violation of this section shall have no force or
+			 effect.</text>
+								</paragraph>
+                <paragraph commented="no" id="idC6C1DC8315EC487D8E86F3B16A475EBB">
+									<enum>(2)</enum>
+									<header>Judicial Enforcement</header>
+									<text>Any party may bring an action in a district court of the United States to declare that a covered
+			 Federal
+			 rule has no force or effect because the covered Federal rule was
+			 promulgated in violation of this section.</text>
+								</paragraph>
+              </subsection>
+            </section>
+            <section id="idf701087ce6ee4cb5bd8324d5ff2f9b9a">
+							<enum>620.</enum>
+							<header>Regulatory Analysis Advisory Board</header>
+							<subsection id="id9DD2607FACCC4A5D9CE806D8CBFCBB96">
+								<enum>(a)</enum>
+								<header>Establishment of Board</header>
+								<text display-inline="yes-display-inline">In accordance with the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Federal Advisory Committee Act">Federal Advisory Committee Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc-appendix/5">5 U.S.C. App.</cato:entity-ref>)</cato:entity>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> shall—</text>
+								<paragraph id="idAA0B016FAAFD486B96134F37BD673955">
+									<enum>(1)</enum>
+									<text display-inline="yes-display-inline">establish a <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Regulatory Analysis Advisory Board" proposed="true">Regulatory Analysis Advisory Board</cato:entity-ref>; and</text>
+								</paragraph>
+                <paragraph id="idE5B404CAFC3742CB9A17BB6A77C774A5">
+									<enum>(2)</enum>
+									<text display-inline="yes-display-inline">appoint not fewer than 9 and not more than 15 individuals as members of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Regulatory Analysis Advisory Board" proposed="true">Regulatory Analysis
+			 Advisory Board</cato:entity-ref>.</text>
+								</paragraph>
+              </subsection>
+              <subsection id="idC68FEAA47F2A4D668F53F2CC3DC1F239">
+								<enum>(b)</enum>
+								<header>Qualifications</header>
+								<text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> shall appoint individuals with technical and practical expertise in economics, law,
+			 accounting, science, management, and other areas that will aid the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> in preparing the annual Report on National Regulatory Costs
+			 required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/615" proposed="true">section 615</cato:entity-ref>.</text>
+							</subsection>
+            </section>
+          </chapter>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+      <subsection id="idd86816030c8140b28bca06041f046f44">
+				<enum>(b)</enum>
+				<header>Technical and conforming amendments</header>
+				<paragraph id="H1EB4490B40E94285B4D13C597C12286D">
+					<enum>(1)</enum>
+					<header>Table of chapters</header>
+					<text>The table of chapters for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5">part I of title 5, United States Code</cato:entity-ref>, is amended by inserting after the
+			 item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/6">chapter 6</cato:entity-ref> the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H41252A720D1F4679919AE064AD71ED48" style="OLC">
+						<toc>
+							<multi-column-toc-entry bold="off" level="section">
+								<toc-enum>6A. </toc-enum>
+								<level-header level="section">National Regulatory Budget and Office of Regulatory Analysis</level-header>
+								<target>613</target>
+							</multi-column-toc-entry>
+						</toc>
+						<after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+        <paragraph id="id771DCE12D52C4554A9CB4DC0AAB8C54E">
+					<enum>(2)</enum>
+					<header>Internal Revenue Code of 1986</header>
+					<text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:6103/ss:j">
+              <external-xref legal-doc="usc" parsable-cite="usc/26/6103">Section 6103(j)</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id0C5F89919CF746E5B4E54C4FE07BC845" style="tax">
+						<paragraph id="id891dc4525ca246c8b14dfa60b0a66017">
+							<enum>(7)</enum>
+							<header>Office of Regulatory Analysis</header>
+							<text>Upon written request by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director of the Office of Regulatory Analysis</cato:entity-ref> established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/614" proposed="true">section
+			 614 of title 5, United States Code</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall
+			 furnish to officers and employees of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Regulatory Analysis" proposed="true">Office of Regulatory Analysis</cato:entity-ref>
+			 return information for the purpose of, but only to the extent necessary
+			 for, an analysis of regulatory costs.</text>
+						</paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </subsection>
+    </section>
+    <section id="id3b5e89d225b64abf8d7e4eaf96437ada">
+			<enum>3.</enum>
+			<header>Report on duplicative personnel; report on regulatory analysis</header>
+			<subsection id="id16a2990ae77f486ebbc0fd25e7fbbe38">
+				<enum>(a)</enum>
+				<header>Report on duplicative personnel</header>
+				<text>Not later than December 31, 2014, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> shall submit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a report determining
+			 positions in the Federal Government that are—</text>
+        <paragraph id="id89D6DD97F880428DB58FB74D0331C2A6">
+          <enum>(1)</enum>
+          <text>duplicative of the work
+			 performed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Regulatory Analysis" proposed="true">Office of Regulatory Analysis</cato:entity-ref> established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/614" proposed="true">section
+			 614 of title 5, United States Code</cato:entity-ref>; or</text>
+        </paragraph>
+        <paragraph id="idA1D6117E5B114DAFA6EB242B7B806329">
+          <enum>(2)</enum>
+          <text>otherwise rendered cost
+			 ineffective by the work of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Regulatory Analysis" proposed="true">Office of Regulatory Analysis</cato:entity-ref>.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="id8b6759a28ff84918a637d3a92bf485c6">
+				<enum>(b)</enum>
+				<header>Report on regulatory analysis</header>
+				<paragraph id="id059528F3E4AE49F98887A2614F655038">
+					<enum>(1)</enum>
+					<header>Report required</header>
+					<text>Not later than June 30, 2015, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Director of the Office of Regulatory Analysis" proposed="true">Director</cato:entity-ref> shall provide to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a report analyzing the
+			 practice with respect to, and the effectiveness of—</text>
+					<subparagraph id="idbeed6e230f8f42179bdf02c9adc406bf">
+						<enum>(A)</enum>
+						<text>
+              
+                chapter 6 of this title (commonly known as the <quote>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Regulatory Flexibility Act">Regulatory Flexibility Act</cato:entity-ref>
+                </quote>);</text>
+					</subparagraph>
+          <subparagraph id="id40954bc9329348d2b5edb8ee256b8423">
+						<enum>(B)</enum>
+						<text>the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Small Business Regulatory Enforcement Fairness Act of 1996">Small Business Regulatory Enforcement Fairness Act of 1996</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/5/601/note">
+                  <external-xref legal-doc="usc" parsable-cite="usc/5/601">
+                5 U.S.C. 601
+              </external-xref> note</cato:entity-ref>)</cato:entity>;</text>
+					</subparagraph>
+          <subparagraph id="idb4ef26aaf5324367af57c75c266ce975">
+						<enum>(C)</enum>
+						<text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="uscode" value="usc-chapter/44/35">
+                  <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/35">chapter 35</external-xref> of title 44</cato:entity-ref> (commonly known as the <quote>
+                  <cato:entity-ref entity-type="act" value="Paperwork Reduction Act">Paperwork Reduction Act</cato:entity-ref>
+                </quote>
+              </cato:entity>;</text>
+					</subparagraph>
+          <subparagraph id="id4ee7e61659bd49b0b8f47a6f1d86ac29">
+						<enum>(D)</enum>
+						<text>each Executive order that mandates economic analysis of Federal regulations; and</text>
+					</subparagraph>
+          <subparagraph id="id01de1334f5c24c068da9157d0eca04f2">
+						<enum>(E)</enum>
+						<text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1103" entity-type="federal-body">Office of Management and Budget</cato:entity-ref> circulars, directives, and memoranda that mandate the economic
+			 analysis of Federal regulation.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="id08C09F9A803D490D8661F4137953D057">
+					<enum>(2)</enum>
+					<header>Recommendations</header>
+					<text>The  report under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Regulatory Budget Act of 2014/s:3/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref> shall include recommendations about how Federal regulatory analysis
+			 may be improved.</text>
+				</paragraph>
+      </subsection>
+    </section>
+    <section id="idb9def98adef84c5c9ff34b3852a1f8f1">
+			<enum>4.</enum>
+			<header>Administrative procedure</header>
+			<subsection commented="no" id="idd8798135d9ed4a0c8a62794816ddfbb8">
+				<enum>(a)</enum>
+				<header>Definition of <quote>rule</quote>
+        </header>
+				<text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/551//4">
+            <external-xref legal-doc="usc" parsable-cite="usc/5/551">Section 551(4)</external-xref> of title 5, United States Code</cato:entity-ref>, is amended by inserting after <quote>requirements of an agency</quote> the following: <quote>, whether or not the agency  statement amends the Code of Federal Regulations and including,
+			 without limitation, a statement described by the agency as a regulation,
+			 rule, directive, or guidance,</quote>.</text>
+			</subsection>
+      <subsection id="id7a693c27b6a3495f8f8a9e7e60ba2177">
+				<enum>(b)</enum>
+				<header>Notice of proposed rulemaking</header>
+				<text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553/b">
+            <external-xref legal-doc="usc" parsable-cite="usc/5/553">Section 553(b)</external-xref> of title 5, United States Code</cato:entity-ref>, is amended, following the flush text, in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553/b//A">subparagraph (A)</cato:entity-ref> by striking <quote>interpretative rules, general statements of policy, or</quote>.</text>
+			</subsection>
+    </section>
+  </legis-body>
+</bill>
+</doc>
