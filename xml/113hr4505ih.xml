@@ -1,0 +1,177 @@
+<doc>
+  <docmeta id="113hr4505ih">
+    <bill congress="113" type="hr" number="4505" version="ih"/>
+    <revision size="6134" annotations="0" status="complete" id="4" commit-time="2014-05-06T21:07:02Z" committer="mbohmer" doc="113hr4505ih/4.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HE01E1D84618B422B854CABA1038F2823" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 4505 IH: DOD Cloud Security Act</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-04-28</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>H. R. 4505</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20140428">April 28, 2014</action-date>
+			<action-desc>
+        <sponsor name-id="T000465">Ms. Tsongas</sponsor> (for herself, <cosponsor name-id="K000381">Mr. Kilmer</cosponsor>, <cosponsor name-id="L000560">Mr. Larsen of Washington</cosponsor>, and <cosponsor name-id="C001078">Mr. Connolly</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HAS00">Committee on Armed Services</committee-name>, and in addition to the Committee on <committee-name committee-id="HGO00">Oversight and Government Reform</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To direct the Comptroller General of the United States and the Chief Information Officer of the
+			 Department of Defense to assess the cloud security requirements of the
+			 Department of Defense.</official-title>
+	</form>
+	<legis-body id="H9BE72AFA87F94B09B9CFBF51BED15C83" style="OLC">
+		<section id="H06AC1501828D4EDEBD8F8C91397F7999" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title</header>
+      <text display-inline="no-display-inline">This Act may be cited as the <quote>
+          <short-title>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="DOD Cloud Security Act" proposed="true">DOD Cloud Security Act</cato:entity-ref>
+          </short-title>
+        </quote>.</text>
+		</section>
+    <section id="H2768EB85E1A94ED8B76862FC3E91D758">
+      <enum>2.</enum>
+      <header>Assessment of Department of Defense cloud security requirements</header>
+			<subsection id="H7937915D3A2645AF84DCA0FC857B18A7">
+        <enum>(a)</enum>
+        <header>Comptroller General responsibilities</header>
+        <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0500" entity-type="federal-body">Comptroller General of the United States</cato:entity-ref> shall—</text>
+				<paragraph id="H44098AE355924B94936D9FCE507BE8AB">
+          <enum>(1)</enum>
+          <text display-inline="yes-display-inline">review and summarize the best practices relating to cloud security by reviewing the practices of
+			 other Federal departments and agencies and commercial cloud providers;</text>
+				</paragraph>
+        <paragraph id="H51B6CF584B7047B5B22F113C6901DF6E">
+          <enum>(2)</enum>
+          <text>assess the cloud capacity of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Department of Defense</cato:entity-ref> and such other departments and agencies by
+			 assessing how and to what extent the Department has adopted commercial
+			 cloud; and</text>
+				</paragraph>
+        <paragraph id="H21BA307F616A4FCFAFB59B48E82A8FE2">
+          <enum>(3)</enum>
+          <text display-inline="yes-display-inline">assess the opportunities for the Department to utilize cloud computing in lieu of or in addition to
+			 conventional computing.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="HEEEC0A63B34F4CCEAC0AF740BA40B864">
+        <enum>(b)</enum>
+        <header>Chief Information Officer responsibilities</header>
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Information Officer" entity-parent-id="9700">Chief Information Officer of the Department of Defense</cato:entity-ref> shall—</text>
+				<paragraph id="HB79CB89A22D641DD93DB84E97695FB8B">
+          <enum>(1)</enum>
+          <text>determine the security requirements that are necessary for any cloud service to store <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Department of
+			 Defense</cato:entity-ref> information, including—</text>
+					<subparagraph id="H52C0A83B464C4DE898D6AB73C9336066">
+            <enum>(A)</enum>
+            <text>by individually detailing security requirements for each <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Department of Defense</cato:entity-ref> impact level and
+			 security classification level; and</text>
+					</subparagraph>
+          <subparagraph id="H1D4475CE410D4A449543AF9E0C42EF3E">
+            <enum>(B)</enum>
+            <text>by providing a justification to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSAS00">Committees on Armed Services of the Senate</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HAS00">House of
+			 Representatives</cato:entity-ref> for any discrepancy between security requirements for
+			 different provider types;</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="HEC71209A564D4C6D8FA2FF78F21020A1">
+          <enum>(2)</enum>
+          <text display-inline="yes-display-inline">conduct a threat-based assessment of whether security controls resident in commercial cloud
+			 services and the cloud services of other Federal departments and agencies
+			 meet the security requirements determined under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="DOD Cloud Security Act/s:2/ss:b/p:2" proposed="true">paragraph (2)</cato:entity-ref>, including—</text>
+					<subparagraph id="H9124642FB3354289807762DE89185126">
+            <enum>(A)</enum>
+            <text>by determining what services can and cannot be provided by commercial cloud vendors, based on such
+			 security requirements;</text>
+					</subparagraph>
+          <subparagraph id="H598F059CD08A4C64B660EC7C467F26A3">
+            <enum>(B)</enum>
+            <text>by providing justification for why such determinations were made by citing, as appropriate,
+			 industry responses to requests for information and capability statement
+			 that confirm the conclusions of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Department of Defense</cato:entity-ref>; and</text>
+					</subparagraph>
+          <subparagraph id="H55C4B490EDAC4E31A9DD8CC99B8F2F4C">
+            <enum>(C)</enum>
+            <text>by requesting that commercial vendors submit their plans for how they can adapt their systems to
+			 the unique and dynamic cyber defense requirements of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Department of
+			 Defense</cato:entity-ref>;</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="HBD664A7C99854B699BA77B289DBE26D0">
+          <enum>(3)</enum>
+          <text>require any government-owned, operated, or unique system that is or will be designed to provide
+			 cloud capabilities for the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Department of Defense</cato:entity-ref> to be certified and
+			 accredited through the same process, and to the same standards, that is
+			 used to certify and accredit commercial service providers; and</text>
+				</paragraph>
+        <paragraph id="HA61F88E2D50B4E1CAD33B1EF209C1308">
+          <enum>(4)</enum>
+          <text>ensure that, as part of any <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Department of Defense</cato:entity-ref> pilot demonstrations with commercial cloud
+			 vendors—</text>
+					<subparagraph id="H43C33D95FB934561821BAA455DAC3874">
+            <enum>(A)</enum>
+            <text>an analysis is conducted of—</text>
+						<clause id="H56598B3B804F4A41B1D891FDECE3AC07">
+              <enum>(i)</enum>
+              <text>requiring the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="97AK">Defense Information Systems Agency</cato:entity-ref> to work with commercial service providers to
+			 extend the Department of Defense Information Network to commercial service
+			 providers that are issued provisional authority to operate for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Department
+			 of Defense</cato:entity-ref> impact levels 1 and 2 in order to leverage the commercial
+			 service providers for secure connections to the Department of Defense
+			 Information Network;</text>
+						</clause>
+            <clause id="HA8B734E9CDA2432DA4410108D173F53F">
+              <enum>(ii)</enum>
+              <text>the benefits and challenges relating to how the secure connections would be enabled and delivered
+			 as a service by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="97AK">DISA</cato:entity-ref> cloud broker to the commercial service providers
+			 who have achieved provisional authority to operate for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Department of
+			 Defense</cato:entity-ref> impact levels 1 and 2;</text>
+						</clause>
+            <clause id="H70F62C6EEB9A45578FA05B4BF64F892B">
+              <enum>(iii)</enum>
+              <text>requiring the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="97AK">Defense Information Systems Agency</cato:entity-ref> to address the ability of commercial service
+			 providers to provide service for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Department of Defense</cato:entity-ref> impact levels 3
+			 through 5 using logical separation;</text>
+						</clause>
+            <clause id="HA06CA640046241FDA7436CB7BBBF8321">
+              <enum>(iv)</enum>
+              <text>the ability of commercial service providers to provide innovative solutions to the separation of
+			 customer data and supporting resources that do not rely on physical
+			 separation;</text>
+						</clause>
+            <clause id="H106E8C13194D4ED9970B4FDD3B072C7B">
+              <enum>(v)</enum>
+              <text>the benefits and challenges regarding the consideration of such solutions for equivalence to
+			 physical separation; and</text>
+						</clause>
+            <clause id="HD445E383500E4F08A04B615C4804EF3B">
+              <enum>(vi)</enum>
+              <text display-inline="yes-display-inline">the benefits and challenges of hybrid solutions for providing cloud services; and</text>
+						</clause>
+          </subparagraph>
+          <subparagraph id="HDF6A4CDA4ACE4116BD540BD0C908F072">
+            <enum>(B)</enum>
+            <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Information Officer" entity-parent-id="9700">Chief Information Officer</cato:entity-ref> provides to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSAS00">Committees on Armed Services of the Senate</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="HAS00">House
+			 of Representatives</cato:entity-ref> a briefing on the matters referred to in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="DOD Cloud Security Act/s:2/ss:b/p:4/sp:A" proposed="true">subparagraph
+			 (A)</cato:entity-ref> by not later than 30 days after the conclusion of such pilot
+			 demonstration.</text>
+					</subparagraph>
+        </paragraph>
+      </subsection>
+    </section>
+  </legis-body>
+</bill>
+</doc>

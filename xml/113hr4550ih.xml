@@ -1,0 +1,2402 @@
+<doc>
+  <docmeta id="113hr4550ih">
+    <bill congress="113" type="hr" number="4550" version="ih"/>
+    <revision size="89450" annotations="0" status="complete" id="7" commit-time="2014-05-08T19:24:01Z" committer="mbohmer" doc="113hr4550ih/7.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5E0B7AF39ECA4A41876FBFEF17139F67" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 4550 IH: Emergency Unemployment Compensation Extension Act of 2014</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-05-01</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>H. R. 4550</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20140501">May 1, 2014</action-date>
+			<action-desc>
+        <sponsor name-id="F000451">Mr. Fitzpatrick</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>, and in addition to the Committees on <committee-name committee-id="HPW00">Transportation and Infrastructure</committee-name>, <committee-name committee-id="HED00">Education and the Workforce</committee-name>, <committee-name committee-id="HSM00">Small Business</committee-name>, <committee-name committee-id="HIF00">Energy and Commerce</committee-name>, <committee-name committee-id="HBA00">Financial Services</committee-name>, and <committee-name committee-id="HII00">Natural Resources</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To extend the emergency unemployment compensation program, and to stimulate the economy and create
+			 opportunities for new job creation.</official-title>
+	</form>
+	<legis-body id="H7AF57E711F9046CA834507A9BA2BC761" style="OLC">
+		<section id="H946DA3362F6947AB89E33E1915A3C08D" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title; table of contents</header>
+			<subsection id="HB9E3CFB3AA5142BFAE15905BD5A1AAE8">
+        <enum>(a)</enum>
+        <header>Short title</header>
+        <text display-inline="yes-display-inline">This Act may be cited as the <quote>
+            <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Emergency Unemployment Compensation Extension Act of 2014" proposed="true">Emergency Unemployment Compensation Extension Act of 2014</cato:entity-ref>
+            </short-title>
+          </quote>.</text>
+			</subsection>
+      <subsection id="H60B0EA2A926B4D0C806075B747E3ADB9">
+        <enum>(b)</enum>
+        <header>Table of contents</header>
+        <text>The table of contents of this Act is as follows:</text>
+				<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+					<toc-entry idref="H946DA3362F6947AB89E33E1915A3C08D" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="HC981603DD2BF4E62B2C2C516922453AF" level="title">Title I—Provisions relating to unemployment compensation</toc-entry>
+					<toc-entry idref="H4B85BE3414A945378C047FDFCF4959D7" level="section">Sec. 101. Extension of emergency unemployment compensation program.</toc-entry>
+					<toc-entry idref="H09A8A234A4BC494293C8ECEE5F907DCA" level="section">Sec. 102. Temporary extension of extended benefit provisions.</toc-entry>
+					<toc-entry idref="H819BD3DF8CFC4923A2A09CE8153797A6" level="section">Sec. 103. Extension of funding for reemployment services and reemployment and eligibility
+			 assessment activities.</toc-entry>
+					<toc-entry idref="H5AB6F896D5464CD7B13A06DE9D42FF01" level="section">Sec. 104. Additional extended unemployment benefits under the Railroad Unemployment Insurance Act.</toc-entry>
+					<toc-entry idref="HC672BF76C96F4FF6946BEAD836BE3B11" level="section">Sec. 105. Flexibility for unemployment program agreements.</toc-entry>
+					<toc-entry idref="H9A3D5FDC81FE44FC9817F731C30B5C3E" level="section">Sec. 106. Ending unemployment payments to jobless millionaires and billionaires.</toc-entry>
+					<toc-entry idref="HA824323E128E4AAAAA3DD5AE67A45997" level="section">Sec. 107. GAO study on the use of work suitability requirements in unemployment insurance programs.</toc-entry>
+					<toc-entry idref="HBA109F869ED7454FBAB68EC0CF0CE95A" level="section">Sec. 108. Funding stabilization.</toc-entry>
+					<toc-entry idref="H296927A27D8A4BC3BBF33449306701B2" level="section">Sec. 109. Prepayment of certain PBGC premiums.</toc-entry>
+					<toc-entry idref="H461DA0DDA81243439C17F8CCFD6D683C" level="section">Sec. 110. Extension of customs user fees.</toc-entry>
+					<toc-entry idref="HE312B088423648E7852AECFF814B89A2" level="section">Sec. 111. Emergency services, government, and certain nonprofit volunteers.</toc-entry>
+					<toc-entry idref="HF8004248627F4D98B09FE3C92EC517EB" level="title">Title II—Provisions relating to job creation</toc-entry>
+					<toc-entry idref="H9A6CA32BED4447C2A9DCC2189F4F4F24" level="section">Sec. 201. Treatment of employment assistance voucher programs.</toc-entry>
+					<toc-entry idref="H3D0FD0F7B82D446E8AB8F983483ED7BB" level="section">Sec. 202. Disadvantaged business enterprises.</toc-entry>
+					<toc-entry idref="HD7868B9B0D484062A5B26DA5F2B64459" level="section">Sec. 203. America Star Program.</toc-entry>
+					<toc-entry idref="H39E6E969F2A441CB8AFAE603ADD23467" level="section">Sec. 204. Fostering innovation.</toc-entry>
+					<toc-entry idref="HEB8E1669788D4C2B84DC653264FAE6CD" level="section">Sec. 205. Partnership To Build America.</toc-entry>
+					<toc-entry idref="HA093DBD7E2434769BF6A2BD1FC275477" level="section">Sec. 206. Keystone XL pipeline.</toc-entry>
+				</toc>
+			</subsection>
+    </section>
+    <title id="HC981603DD2BF4E62B2C2C516922453AF">
+      <enum>I</enum>
+      <header>Provisions relating to unemployment compensation</header>
+			<section id="H4B85BE3414A945378C047FDFCF4959D7">
+        <enum>101.</enum>
+        <header>Extension of emergency unemployment compensation program</header>
+				<subsection id="H727A5F1E0D5649B4967E5061DE3D9215">
+          <enum>(a)</enum>
+          <header>Extension</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Supplemental Appropriations Act, 2008/s:4007/ss:a/p:2">Section 4007(a)(2) of the Supplemental Appropriations Act, 2008</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/110/252">
+              <cato:entity-ref entity-type="public-law" value="public-law/110/252">Public Law 110–252</cato:entity-ref>
+            </external-xref>; <cato:entity-ref entity-type="uscode" value="usc/26/3304/note">26 U.S.C. 3304
+			 note</cato:entity-ref>)</cato:entity> is amended by striking <quote>January 1, 2014</quote> and inserting <quote>June 1, 2014</quote>.</text>
+				</subsection>
+        <subsection id="HDEC0F3727EC0479084EAF36E31CD0087">
+          <enum>(b)</enum>
+          <header>Funding</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Supplemental Appropriations Act, 2008/s:4004/ss:e/p:1">Section 4004(e)(1) of the Supplemental Appropriations Act, 2008</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/110/252">
+              <cato:entity-ref entity-type="public-law" value="public-law/110/252">Public Law 110–252</cato:entity-ref>
+            </external-xref>; <cato:entity-ref entity-type="uscode" value="usc/26/3304/note">26 U.S.C. 3304
+			 note</cato:entity-ref>)</cato:entity> is amended—</text>
+					<paragraph id="H8C8A4BF867DE45A6A8AB60282264FCF2">
+            <enum>(1)</enum>
+            <text>in subparagraph (I), by striking <quote>and</quote> at the end;</text>
+					</paragraph>
+          <paragraph id="HA90673615F8C4459940A821A5DFA8442">
+            <enum>(2)</enum>
+            <text>in subparagraph (J), by inserting <quote>and</quote> at the end; and</text>
+					</paragraph>
+          <paragraph id="HFBD0E30989F940C6BDB8D4F9BA172E0D">
+            <enum>(3)</enum>
+            <text>by inserting after subparagraph (J) the following:</text>
+						<quoted-block id="H6AA3333D4E9A4764A2FA9551D4514EDF" style="OLC">
+							<subparagraph id="HA62445D73A334A4F9B9DC52ED6C50467">
+                <enum>(K)</enum>
+                <text display-inline="yes-display-inline">the amendment made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Emergency Unemployment Compensation Extension Act of 2014/s:101/ss:a" proposed="true">section 101(a) of the <short-title>Emergency Unemployment Compensation Extension Act of 2014</short-title>
+                  </cato:entity-ref>;</text>
+              </subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="H409680CBFD66486290585F03362A6F10">
+          <enum>(c)</enum>
+          <header>Effective date</header>
+          <text display-inline="yes-display-inline">The amendments made by this section shall take effect as if included in the enactment of the
+			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="American Taxpayer Relief Act of 2012">American Taxpayer Relief Act of 2012</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/112/240">
+              <cato:entity-ref entity-type="public-law" value="public-law/112/240">Public Law 112–240</cato:entity-ref>
+            </external-xref>)</cato:entity>.</text>
+				</subsection>
+      </section>
+      <section id="H09A8A234A4BC494293C8ECEE5F907DCA">
+        <enum>102.</enum>
+        <header>Temporary extension of extended benefit provisions</header>
+				<subsection id="H30F65D256AAF4B109D0BAAC58ADDB058">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Assistance for Unemployed Workers and Struggling Families Act/s:2005">Section 2005 of the Assistance for Unemployed Workers and Struggling Families Act</cato:entity-ref>, as contained in
+			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <external-xref legal-doc="public-law" parsable-cite="pl/111/5">
+              <cato:entity-ref entity-type="public-law" value="public-law/111/5">Public Law 111–5</cato:entity-ref>
+            </external-xref> (<cato:entity-ref entity-type="uscode" value="usc/26/3304/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/26/3304">
+              26 U.S.C. 3304
+            </external-xref> note</cato:entity-ref>)</cato:entity>, is amended—</text>
+					<paragraph id="H7EFA5D2326D64166AEA23B595905D907">
+            <enum>(1)</enum>
+            <text>by striking <quote>December 31, 2013</quote> each place it appears and inserting <quote>May 31, 2014</quote>; and</text>
+					</paragraph>
+          <paragraph id="H2296B15F148F4465BAE6EB82C32ADA1F">
+            <enum>(2)</enum>
+            <text>in subsection (c), by striking <quote>June 30, 2014</quote> and inserting <quote>November 30, 2014</quote>.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H780DA93528F64F77A75BC6B2DBB3835F">
+          <enum>(b)</enum>
+          <header>Extension of matching for states with no waiting week</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Unemployment Compensation Extension Act of 2008/s:5">Section 5 of the Unemployment Compensation Extension Act of 2008</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/110/449">
+              <cato:entity-ref entity-type="public-law" value="public-law/110/449">Public Law 110–449</cato:entity-ref>
+            </external-xref>; <cato:entity-ref entity-type="uscode" value="usc/26/3304/note">26 U.S.C.
+			 3304 note</cato:entity-ref>)</cato:entity> is amended by striking <quote>June 30, 2014</quote> and inserting <quote>November 30, 2014</quote>.</text>
+				</subsection>
+        <subsection id="H1886ADC9F98C43DEBAB9DA12FA4D565E">
+          <enum>(c)</enum>
+          <header>Extension of modification of indicators under the extended benefit program</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Federal-State Extended Unemployment Compensation Act of 1970/s:203">Section 203 of the Federal-State Extended Unemployment Compensation Act of 1970</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/26/3304/note">26 U.S.C. 3304
+			 note</cato:entity-ref>)</cato:entity> is amended—</text>
+					<paragraph id="H9AA2714FF7A74C20A2F5E0E27D461F4A">
+            <enum>(1)</enum>
+            <text>in subsection (d), by striking <quote>December 31, 2013</quote> and inserting <quote>May 31, 2014</quote>; and</text>
+					</paragraph>
+          <paragraph id="H54DF2A58A7044C0DA88656B5EB2DBF37">
+            <enum>(2)</enum>
+            <text>in subsection (f)(2), by striking <quote>December 31, 2013</quote> and inserting <quote>May 31, 2014</quote>.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="HA05FCA7709F848C98E323B87E2C9F44C">
+          <enum>(d)</enum>
+          <header>Effective date</header>
+          <text display-inline="yes-display-inline">The amendments made by this section shall take effect as if included in the enactment of the
+			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="American Taxpayer Relief Act of 2012">American Taxpayer Relief Act of 2012</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/112/240">
+              <cato:entity-ref entity-type="public-law" value="public-law/112/240">Public Law 112–240</cato:entity-ref>
+            </external-xref>)</cato:entity>.</text>
+				</subsection>
+      </section>
+      <section id="H819BD3DF8CFC4923A2A09CE8153797A6">
+        <enum>103.</enum>
+        <header>Extension of funding for reemployment services and reemployment and eligibility assessment
+			 activities</header>
+				<subsection id="H7F726037D7714508BB497A381D641916">
+          <enum>(a)</enum>
+          <header>Extension</header>
+					<paragraph id="H1FEE645633C6432D8A5C535464C0848A">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Supplemental Appropriations Act, 2008/s:4004/ss:c/p:2/sp:A">Section 4004(c)(2)(A) of the Supplemental Appropriations Act, 2008</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/110/252">
+                <cato:entity-ref entity-type="public-law" value="public-law/110/252">Public Law 110–252</cato:entity-ref>
+              </external-xref>; <cato:entity-ref entity-type="uscode" value="usc/26/3304/note">26 U.S.C.
+			 3304 note</cato:entity-ref>)</cato:entity> is amended by striking <quote>through fiscal year 2014</quote> and inserting <quote>through the first five months of fiscal year 2015</quote>.</text>
+					</paragraph>
+          <paragraph id="H6B2F01CBD2F0434EAFF49577CBB9B8CF">
+            <enum>(2)</enum>
+            <header>Effective date</header>
+            <text display-inline="yes-display-inline">The amendment made by this subsection shall take effect as if included in the enactment of the
+			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="American Taxpayer Relief Act of 2012">American Taxpayer Relief Act of 2012</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/112/240">
+                <cato:entity-ref entity-type="public-law" value="public-law/112/240">Public Law 112–240</cato:entity-ref>
+              </external-xref>)</cato:entity>.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="HFFB8D39BEC5F42EBB2DFF9DDBD6049C9">
+          <enum>(b)</enum>
+          <header>Timing for services and activities</header>
+					<paragraph id="H97C4CFDC1C6642BDB2009EBDB40031DA">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Supplemental Appropriations Act, 2008/s:4001/ss:i/p:1/sp:A">Section 4001(i)(1)(A) of the Supplemental Appropriations Act, 2008</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/110/252">
+                <cato:entity-ref entity-type="public-law" value="public-law/110/252">Public Law 110–252</cato:entity-ref>
+              </external-xref>; <cato:entity-ref entity-type="uscode" value="usc/26/3304/note">26 U.S.C.
+			 3304 note</cato:entity-ref>)</cato:entity> is amended by adding at the end the following new sentence:</text>
+						<quoted-block display-inline="no-display-inline" id="HDEA2A626351F4946B4BA34A222C22674" style="OLC">
+							<quoted-block-continuation-text quoted-block-continuation-text-level="subparagraph">At a minimum, such reemployment services and reemployment and eligibility assessment activities
+			 shall be provided to an individual within a time period (determined
+			 appropriate by the Secretary) after the date the individual begins to
+			 receive amounts under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Supplemental Appropriations Act, 2008/s:4002/ss:b">section 4002(b)</cato:entity-ref> (first tier benefits) and, if
+			 applicable, again within a time period (determined appropriate by the
+			 Secretary) after the date the individual begins to receive amounts under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Supplemental Appropriations Act, 2008/s:4002/ss:d">section 4002(d)</cato:entity-ref> (third tier benefits).</quoted-block-continuation-text>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+          <paragraph commented="no" display-inline="no-display-inline" id="HAB3D35F8DE7F4A67BCC48FA96256CB0B">
+            <enum>(2)</enum>
+            <header>Effective date</header>
+            <text>The amendment made by this subsection shall apply on and after the date of the enactment of this
+			 Act.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H06074C88747A455CAB8E8F46B4FC21C4">
+          <enum>(c)</enum>
+          <header>Purposes of services and activities</header>
+          <text>The purposes of the reemployment services and reemployment and eligibility assessment activities
+			 under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Supplemental Appropriations Act, 2008/s:4001/ss:i">section 4001(i) of the Supplemental Appropriations Act, 2008</cato:entity-ref> (<cato:entity-ref entity-type="public-law" value="public-law/110/252">Public
+			 Law 110–252</cato:entity-ref>; <cato:entity-ref entity-type="uscode" value="usc/26/3304/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/26/3304">
+              26 U.S.C. 3304
+            </external-xref> note</cato:entity-ref>)</cato:entity> are—</text>
+					<paragraph id="H0F34C58008564B2698B53F1E631031D1">
+            <enum>(1)</enum>
+            <text>to better link the unemployed with the overall workforce system by bringing individuals receiving
+			 unemployment insurance benefits in for personalized assessments and
+			 referrals to reemployment services; and</text>
+					</paragraph>
+          <paragraph id="H640C38A739FE42C89BD7DBC7E8883B03">
+            <enum>(2)</enum>
+            <text>to provide individuals receiving unemployment insurance benefits with early access to specific
+			 strategies that can help get them back into the workforce faster,
+			 including through—</text>
+						<subparagraph id="HA720A528ADDE4361B7D3582EAAB2B028">
+              <enum>(A)</enum>
+              <text>the development of a reemployment plan;</text>
+						</subparagraph>
+            <subparagraph id="HE7E1A2BE21E24AE288833A54F28CF30A">
+              <enum>(B)</enum>
+              <text>the provision of access to relevant labor market information;</text>
+						</subparagraph>
+            <subparagraph id="HDE42A1591E764E0A8689A0E0CD75642D">
+              <enum>(C)</enum>
+              <text>the provision of access to information about industry-recognized credentials that are regionally
+			 relevant or nationally portable;</text>
+						</subparagraph>
+            <subparagraph id="H66F22B651D454A47868B41C4CFE04005">
+              <enum>(D)</enum>
+              <text>the provision of referrals to reemployment services and training; and</text>
+						</subparagraph>
+            <subparagraph id="H6A649466A6524EBFB6039B5304A3F5AD">
+              <enum>(E)</enum>
+              <text>an assessment of the individual's on-going eligibility for unemployment insurance benefits.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+      </section>
+      <section id="H5AB6F896D5464CD7B13A06DE9D42FF01">
+        <enum>104.</enum>
+        <header>Additional extended unemployment benefits under the Railroad Unemployment Insurance Act</header>
+				<subsection id="H581656CE62FB4E9396365F1B826DC279">
+          <enum>(a)</enum>
+          <header>Extension</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Railroad Unemployment Insurance Act/s:2/ss:c/p:2/sp:D/cl:iii">Section 2(c)(2)(D)(iii) of the Railroad Unemployment Insurance Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/45/352">
+              <cato:entity-ref entity-type="uscode" value="usc/45/352/c/2/D/iii">45 U.S.C. 352(c)(2)(D)(iii)</cato:entity-ref>
+            </external-xref>)</cato:entity> is
+			 amended—</text>
+					<paragraph id="H5BD66C2DCA3144D7A967419EF0A618FC">
+            <enum>(1)</enum>
+            <text>by striking <quote>June 30, 2013</quote> and inserting <quote>November 30, 2013</quote>; and</text>
+					</paragraph>
+          <paragraph id="HB21950BCC4344E41A78FF9307276C0BB">
+            <enum>(2)</enum>
+            <text>by striking <quote>December 31, 2013</quote> and inserting <quote>May 31, 2014</quote>.</text>
+					</paragraph>
+        </subsection>
+        <subsection commented="no" id="H745A29BE17DD4CE7968F878BD1FE8A75">
+          <enum>(b)</enum>
+          <header>Clarification on authority To use funds</header>
+          <text>Funds appropriated under either the first or second sentence of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Railroad Unemployment Insurance Act/s:2/ss:c/p:2/sp:D/cl:iv">clause (iv) of section 2(c)(2)(D)
+			 of the Railroad Unemployment Insurance Act</cato:entity-ref> shall be available to cover the
+			 cost of additional extended unemployment benefits provided under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Railroad Unemployment Insurance Act/s:2/ss:c/p:2/sp:D">such
+			 section 2(c)(2)(D)</cato:entity-ref> by reason of the amendments made by subsection (a) as
+			 well as to cover the cost of such benefits provided under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Railroad Unemployment Insurance Act/s:2/ss:c/p:2/sp:D">such section
+			 2(c)(2)(D)</cato:entity-ref>, as in effect on the day before the date of enactment of this
+			 Act.</text>
+				</subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="HBF3A23C96B0848D184FBE04C2DE1EFE6">
+          <enum>(c)</enum>
+          <header>Funding for administration</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-approp">Out of any funds in the Treasury not otherwise appropriated, there are appropriated to the <cato:entity-ref entity-id="6000" entity-type="federal-body">Railroad
+			 Retirement Board</cato:entity-ref> <cato:funds-and-year amount="105000">$105,000</cato:funds-and-year> <cato:property name="purpose">for administrative expenses associated with the
+			 payment of additional extended unemployment benefits provided under
+			 <cato:entity-ref entity-type="act" value="Railroad Unemployment Insurance Act/s:2/ss:c/p:2/sp:D">section 2(c)(2)(D) of the Railroad Unemployment Insurance Act</cato:entity-ref> by reason of
+			 the amendments made by <cato:entity-ref entity-type="act" value="Emergency Unemployment Compensation Extension Act of 2014/s:104/ss:a" proposed="true">subsection (a)</cato:entity-ref>
+              </cato:property>, to remain available until expended.</cato:entity>
+          </text>
+				</subsection>
+      </section>
+      <section id="HC672BF76C96F4FF6946BEAD836BE3B11">
+        <enum>105.</enum>
+        <header>Flexibility for unemployment program agreements</header>
+				<subsection id="H4888037E78A9449C9ED6035DB16EB92C">
+          <enum>(a)</enum>
+          <header>Flexibility</header>
+					<paragraph id="H159AEBCB492048B586AC9DD068DB10F9">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Supplemental Appropriations Act, 2008/s:4001/ss:g">Subsection (g) of section 4001 of the Supplemental Appropriations Act, 2008</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/110/252">
+                <cato:entity-ref entity-type="public-law" value="public-law/110/252">Public Law 110–252</cato:entity-ref>
+              </external-xref>; <cato:entity-ref entity-type="uscode" value="usc/26/3304/note">26
+			 U.S.C. 3304 note</cato:entity-ref>)</cato:entity> shall not apply with respect to a State that has enacted
+			 a law before December 1, 2013, that, upon taking effect, would violate
+			 such subsection.</text>
+					</paragraph>
+          <paragraph commented="no" display-inline="no-display-inline" id="HFD7A5AE9746543D3ABF4363F6E8C96C6">
+            <enum>(2)</enum>
+            <header>Effective date</header>
+            <text>Paragraph (1) is effective with respect to weeks of unemployment beginning on or after December 29,
+			 2013.</text>
+					</paragraph>
+        </subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="H8997FF2149D4487F87B0B2D9600B51E6">
+          <enum>(b)</enum>
+          <header>Permitting a subsequent agreement</header>
+          <text>Nothing in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Supplemental Appropriations Act, 2008/t:IV">title IV of the Supplemental Appropriations Act, 2008</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/110/252">
+              <cato:entity-ref entity-type="public-law" value="public-law/110/252">Public Law 110–252</cato:entity-ref>
+            </external-xref>; <cato:entity-ref entity-type="uscode" value="usc/26/3304/note">26 U.S.C.
+			 3304 note</cato:entity-ref>)</cato:entity> shall preclude a State whose agreement under such title was
+			 terminated from entering into a subsequent agreement under such title on
+			 or after the date of the enactment of this Act if the State, taking into
+			 account the application of subsection (a), would otherwise meet the
+			 requirements for an agreement under such title.</text>
+				</subsection>
+      </section>
+      <section id="H9A3D5FDC81FE44FC9817F731C30B5C3E">
+        <enum>106.</enum>
+        <header>Ending unemployment payments to jobless millionaires and billionaires</header>
+				<subsection id="HE8087B2C290C4EAEB60F935817395411">
+          <enum>(a)</enum>
+          <header>Prohibition</header>
+          <text>Notwithstanding any other provision of law, no Federal funds may be used for payments of
+			 unemployment compensation under the emergency unemployment compensation
+			 program under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Supplemental Appropriations Act, 2008/t:IV">title IV of the Supplemental Appropriations Act, 2008</cato:entity-ref>
+			 (<external-xref legal-doc="public-law" parsable-cite="pl/110/252">
+              <cato:entity-ref entity-type="public-law" value="public-law/110/252">Public Law 110–252</cato:entity-ref>
+            </external-xref>; <cato:entity-ref entity-type="uscode" value="usc/26/3304/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/26/3304">
+              26 U.S.C. 3304
+            </external-xref> note</cato:entity-ref>)</cato:entity> to an individual whose adjusted
+			 gross income in the preceding year was equal to or greater than
+			 $1,000,000.</text>
+				</subsection>
+        <subsection id="HC7846E4223FF4C858974542B1E6689A4">
+          <enum>(b)</enum>
+          <header>Compliance</header>
+          <text>Unemployment Insurance applications shall include a form or procedure for an individual applicant
+			 to certify the individual’s adjusted gross income was not equal to or
+			 greater than $1,000,000 in the preceding year.</text>
+				</subsection>
+        <subsection id="H9773B965C4D14C48808078646632305B">
+          <enum>(c)</enum>
+          <header>Audits</header>
+          <text>The certifications required by subsection (b) shall be auditable by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1600" entity-type="federal-body">U.S. Department of Labor</cato:entity-ref> or
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0500" entity-type="federal-body">U.S. Government Accountability Office</cato:entity-ref>.</text>
+				</subsection>
+        <subsection id="H0395106702144AF8B082213778EBB3B8">
+          <enum>(d)</enum>
+          <header>Status of applicants</header>
+          <text>It is the duty of the States to verify the residency, employment, legal, and income status of
+			 applicants for Unemployment Insurance and no Federal funds may be expended
+			 for purposes of determining whether or not the prohibition under
+			 subsection (a) applies with respect to an individual.</text>
+				</subsection>
+        <subsection id="H54F4281E909E44F392048F49E61D10F4">
+          <enum>(e)</enum>
+          <header>Effective date</header>
+          <text>The prohibition under subsection (a) shall apply to weeks of unemployment beginning on or after the
+			 date of the enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section id="HA824323E128E4AAAAA3DD5AE67A45997">
+        <enum>107.</enum>
+        <header>GAO study on the use of work suitability requirements in unemployment insurance programs</header>
+				<subsection id="H3730F893EF4F4514A10D66D295440988">
+          <enum>(a)</enum>
+          <header>Study</header>
+          <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0500" entity-type="federal-body">Comptroller General of the United States</cato:entity-ref> shall conduct a study on the use of work suitability
+			 requirements to strengthen requirements to ensure that unemployment
+			 insurance benefits are being provided to individuals who are actively
+			 looking for work and who truly want to return to the labor force. Such
+			 study shall include an analysis of—</text>
+					<paragraph id="HD7751EF6257A4E1387EA939C45B5FDAF">
+            <enum>(1)</enum>
+            <text display-inline="yes-display-inline">how work suitability requirements work under both State and Federal unemployment insurance
+			 programs; and</text>
+					</paragraph>
+          <paragraph id="H685A9672F1B244B0A356C670F6C8B981">
+            <enum>(2)</enum>
+            <text>how to incorporate and improve such requirements under Federal unemployment insurance programs; and</text>
+					</paragraph>
+          <paragraph id="HA73BFB96C8EA4A88971EEAA6D07FE31D">
+            <enum>(3)</enum>
+            <text>other items determined appropriate by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0500" entity-type="federal-body">Comptroller General</cato:entity-ref>.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H0BFACBCC909048608DBF8F19214E8600">
+          <enum>(b)</enum>
+          <header>Briefing</header>
+          <text>Not later than 90 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0500" entity-type="federal-body">Comptroller General of the
+			 United States</cato:entity-ref> shall brief <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> on the ongoing study required under
+			 subsection (a). Such briefing shall include preliminary recommendations
+			 for such legislation and administrative action as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0500" entity-type="federal-body">Comptroller General</cato:entity-ref>
+			 determines appropriate.</text>
+				</subsection>
+      </section>
+      <section id="HBA109F869ED7454FBAB68EC0CF0CE95A">
+        <enum>108.</enum>
+        <header>Funding stabilization</header>
+				<subsection id="HE9AFC07272434020999A2DF33C6F22F7">
+          <enum>(a)</enum>
+          <header>Funding stabilization under the Internal Revenue Code</header>
+          <text>The table in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:430/ss:h/p:2/sp:C/cl:iv/scl:II">subclause (II) of <external-xref legal-doc="usc" parsable-cite="usc/26/430">section 430(h)(2)(C)(iv)</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is
+			 amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="H69BD2661541946BEAA6A0DC6E09B41EF" style="OLC">
+						<table align-to-level="section" blank-lines-before="1" colsep="1" frame="topbot" line-rules="hor-ver" rowsep="0" rule-weights="4.4.4.0.0.0" table-template-name="Generic: 3 text, even cols" table-type="">
+							<tgroup cols="3" grid-typeface="1.1" rowsep="0" thead-tbody-ldg-size="10.10.10">
+                <colspec coldef="txt" colname="column1" colwidth="105pts" min-data-value="95" rowsep="0"/>
+                <colspec coldef="txt" colname="column2" colwidth="105pts" min-data-value="95" rowsep="0"/>
+                <colspec coldef="txt-no-ldr" colname="column3" colwidth="105pts" min-data-value="95" rowsep="0"/>
+                <thead>
+									<row>
+                    <entry align="center" colname="column1" morerows="0" namest="column1" rowsep="1">If the calendar year is:</entry>
+                    <entry align="center" colname="column2" morerows="0" namest="column2" rowsep="1">The applicable minimum percentage is:</entry>
+                    <entry align="center" colname="column3" morerows="0" namest="column3" rowsep="1">The applicable maximum percentage is:</entry>
+                  </row>
+                </thead>
+								<tbody>
+									<row>
+                    <entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2012, 2013, 2014, 2015, 2016, or 2017</entry>
+                    <entry align="left" colname="column2" leader-modify="force-ldr" rowsep="0">90%</entry>
+                    <entry align="left" colname="column3" leader-modify="clr-ldr" rowsep="0">110%</entry>
+                  </row>
+									<row>
+                    <entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2018</entry>
+                    <entry align="left" colname="column2" leader-modify="force-ldr" rowsep="0">85%</entry>
+                    <entry align="left" colname="column3" leader-modify="clr-ldr" rowsep="0">115%</entry>
+                  </row>
+									<row>
+                    <entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2019</entry>
+                    <entry align="left" colname="column2" leader-modify="force-ldr" rowsep="0">80%</entry>
+                    <entry align="left" colname="column3" leader-modify="clr-ldr" rowsep="0">120%</entry>
+                  </row>
+									<row>
+                    <entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2020</entry>
+                    <entry align="left" colname="column2" leader-modify="force-ldr" rowsep="0">75%</entry>
+                    <entry align="left" colname="column3" leader-modify="clr-ldr" rowsep="0">125%</entry>
+                  </row>
+									<row>
+                    <entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">After 2020</entry>
+                    <entry align="left" colname="column2" leader-modify="force-ldr" rowsep="0">70%</entry>
+                    <entry align="left" colname="column3" leader-modify="clr-ldr" rowsep="0">130%</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="H40A92D39D3674524A9A7C5623CE39854">
+          <enum>(b)</enum>
+          <header>Funding stabilization under ERISA</header>
+					<paragraph id="H5B98CC5171A34534B5843CBE4DDE4A05">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text>The table in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Employee Retirement Income Security Act of 1974/s:303/ss:h/p:2/sp:C/cl:iv/scl:II">subclause (II) of section 303(h)(2)(C)(iv) of the Employee Retirement Income Security
+			 Act of 1974</cato:entity-ref> is amended to read as follows:</text>
+						<quoted-block display-inline="no-display-inline" id="H80596E57FF604321A778E2E83C3F5BBD" style="OLC">
+							<table align-to-level="section" blank-lines-before="1" colsep="1" frame="topbot" line-rules="hor-ver" rowsep="0" rule-weights="4.4.4.0.0.0" table-template-name="Generic: 3 text, even cols" table-type="">
+								<tgroup cols="3" grid-typeface="1.1" rowsep="0" thead-tbody-ldg-size="10.10.10">
+                  <colspec coldef="txt" colname="column1" colwidth="105pts" min-data-value="95" rowsep="0"/>
+                  <colspec coldef="txt" colname="column2" colwidth="105pts" min-data-value="95" rowsep="0"/>
+                  <colspec coldef="txt-no-ldr" colname="column3" colwidth="105pts" min-data-value="95" rowsep="0"/>
+                  <thead>
+										<row>
+                      <entry align="center" colname="column1" morerows="0" namest="column1" rowsep="1">If the calendar year is:</entry>
+                      <entry align="center" colname="column2" morerows="0" namest="column2" rowsep="1">The applicable minimum percentage is:</entry>
+                      <entry align="center" colname="column3" morerows="0" namest="column3" rowsep="1">The applicable maximum percentage is:</entry>
+                    </row>
+                  </thead>
+									<tbody>
+										<row>
+                      <entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2012, 2013, 2014, 2015, 2016, or 2017</entry>
+                      <entry align="left" colname="column2" leader-modify="force-ldr" rowsep="0">90%</entry>
+                      <entry align="left" colname="column3" leader-modify="clr-ldr" rowsep="0">110%</entry>
+                    </row>
+										<row>
+                      <entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2018</entry>
+                      <entry align="left" colname="column2" leader-modify="force-ldr" rowsep="0">85%</entry>
+                      <entry align="left" colname="column3" leader-modify="clr-ldr" rowsep="0">115%</entry>
+                    </row>
+										<row>
+                      <entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2019</entry>
+                      <entry align="left" colname="column2" leader-modify="force-ldr" rowsep="0">80%</entry>
+                      <entry align="left" colname="column3" leader-modify="clr-ldr" rowsep="0">120%</entry>
+                    </row>
+										<row>
+                      <entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">2020</entry>
+                      <entry align="left" colname="column2" leader-modify="force-ldr" rowsep="0">75%</entry>
+                      <entry align="left" colname="column3" leader-modify="clr-ldr" rowsep="0">125%</entry>
+                    </row>
+										<row>
+                      <entry align="left" colname="column1" leader-modify="force-ldr" rowsep="0" stub-definition="txt-ldr" stub-hierarchy="1">After 2020</entry>
+                      <entry align="left" colname="column2" leader-modify="force-ldr" rowsep="0">70%</entry>
+                      <entry align="left" colname="column3" leader-modify="clr-ldr" rowsep="0">130%</entry>
+                    </row>
+                  </tbody>
+                </tgroup>
+              </table>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+          <paragraph id="H515CDAD5B5D4445E8537C981EF007DAE">
+            <enum>(2)</enum>
+            <header>Conforming amendment</header>
+						<subparagraph id="HA8B4933E435D431D82847A0D7EECBF0D">
+              <enum>(A)</enum>
+              <header>In general</header>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Employee Retirement Income Security Act of 1974/s:101/ss:f/p:2/sp:D/cl:ii">Clause (ii) of section 101(f)(2)(D) of such Act</cato:entity-ref> is amended by striking <quote>2015</quote> and inserting <quote>2020</quote>.</text>
+						</subparagraph>
+            <subparagraph id="HA7BE41F8BCAF4D0398D04B0E29AAB39D">
+              <enum>(B)</enum>
+              <header>Statements</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1600" entity-type="federal-body">Secretary of Labor</cato:entity-ref> shall modify the statements required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Employee Retirement Income Security Act of 1974/s:101/ss:f/p:2/sp:D/cl:i/scl:I">subclauses (I)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Employee Retirement Income Security Act of 1974/s:101/ss:f/p:2/sp:D/cl:i/scl:II">(II) of
+			 section 101(f)(2)(D)(i) of such Act</cato:entity-ref> to conform to the amendments made by
+			 this section.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection id="HFE4DEFE0E99D434FB4DE2BA6820AC984">
+          <enum>(c)</enum>
+          <header>Stabilization not To apply for purposes of certain accelerated benefit distribution rules</header>
+					<paragraph id="HA0081DAA59F54C8691B16F8228028430">
+            <enum>(1)</enum>
+            <header>Internal Revenue Code of 1986</header>
+            <text>The second sentence of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:436/ss:d/p:2">paragraph (2) of <external-xref legal-doc="usc" parsable-cite="usc/26/436">section 436(d)</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is
+			 amended by striking <quote>of such plan</quote> and inserting <quote>of such plan (determined by not taking into account any adjustment of segment rates under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:430/ss:h/p:2/sp:C/cl:iv">section
+			 430(h)(2)(C)(iv)</cato:entity-ref>)</quote>.</text>
+					</paragraph>
+          <paragraph id="H6FFAC2ADD2844E9FA31976E739A06403">
+            <enum>(2)</enum>
+            <header>Employee Retirement Income Security Act of 1974</header>
+            <text>The second sentence of <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Employee Retirement Income Security Act of 1974/s:206/ss:g/p:3/sp:B">subparagraph (B) of section 206(g)(3) of the Employee Retirement Income
+			 Security Act of 1974</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/29/1056">
+                <cato:entity-ref entity-type="uscode" value="usc/29/1056/g/3/B">29 U.S.C. 1056(g)(3)(B)</cato:entity-ref>
+              </external-xref>)</cato:entity> is amended by striking <quote>of such plan</quote> and inserting <quote>of such plan (determined by not taking into account any adjustment of segment rates under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:303/ss:h/p:2/sp:C/cl:iv">section
+			 303(h)(2)(C)(iv)</cato:entity-ref>)</quote>.</text>
+					</paragraph>
+          <paragraph id="H785760B5B32E4ECD84369CB90AC8555E">
+            <enum>(3)</enum>
+            <header>Effective date</header>
+						<subparagraph id="HF0A6210EE86C4E4BB18E5E88CE5F35C1">
+              <enum>(A)</enum>
+              <header>In general</header>
+              <text>Except as provided in subparagraph (B), the amendments made by this subsection shall apply to plan
+			 years beginning after December 31, 2014.</text>
+						</subparagraph>
+            <subparagraph id="H3E06BED86B3D4A308AE9A5A34393529A">
+              <enum>(B)</enum>
+              <header>Collectively bargained plans</header>
+              <text>In the case of a plan maintained pursuant to 1 or more collective bargaining agreements, the
+			 amendments made by this subsection shall apply to plan years beginning
+			 after December 31, 2015.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="H2830789766DD44CD85CD170BF7753AFB">
+            <enum>(4)</enum>
+            <header>Provisions relating to plan amendments</header>
+						<subparagraph id="H40AC614CD2C642B7B90D6F555FB9FB68">
+              <enum>(A)</enum>
+              <header>In general</header>
+              <text>If this paragraph applies to any amendment to any plan or annuity contract, such plan or contract
+			 shall be treated as being operated in accordance with the terms of the
+			 plan during the period described in subparagraph (B)(ii).</text>
+						</subparagraph>
+            <subparagraph id="HE91BFF59FE4D48C29C4076FCA6AFDAE2">
+              <enum>(B)</enum>
+              <header>Amendments to which paragraph applies</header>
+							<clause id="H02E55141964D43E88967A1F730D931DD">
+                <enum>(i)</enum>
+                <header>In general</header>
+                <text>This paragraph shall apply to any amendment to any plan or annuity contract which is made—</text>
+								<subclause id="HC4CE5F87FA574F6DB29A9B0CE8957958">
+                  <enum>(I)</enum>
+                  <text>pursuant to the amendments made by this subsection, or pursuant to any regulation issued by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2000" entity-type="federal-body">Secretary of the Treasury</cato:entity-ref> or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1600" entity-type="federal-body">Secretary of Labor</cato:entity-ref> under any provision as
+			 so amended, and</text>
+								</subclause>
+                <subclause id="H78ED0F940B7D4E64B8918E84BF60A19E">
+                  <enum>(II)</enum>
+                  <text>on or before the last day of the first plan year beginning on or after January 1, 2016, or such
+			 later date as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2000" entity-type="federal-body">Secretary of the Treasury</cato:entity-ref> may prescribe.</text>
+								</subclause>
+              </clause>
+              <clause id="HA0D4C8AF88BC4E938D2F6BCD827A6241">
+                <enum>(ii)</enum>
+                <header>Conditions</header>
+                <text>This subsection shall not apply to any amendment unless, during the period—</text>
+								<subclause id="H042938BED00E4728AD72FCF9C386EEFE">
+                  <enum>(I)</enum>
+                  <text>beginning on the date that the amendments made by this subsection or the regulation described in
+			 clause (i)(I) takes effect (or in the case of a plan or contract amendment
+			 not required by such amendments or such regulation, the effective date
+			 specified by the plan), and</text>
+								</subclause>
+                <subclause id="HC8FD5C8331534B57AA03ADCE237B6DA7">
+                  <enum>(II)</enum>
+                  <text>ending on the date described in clause (i)(II) (or, if earlier, the date the plan or contract
+			 amendment is adopted),</text>
+                </subclause>
+                <continuation-text continuation-text-level="clause">the plan or contract is operated as if such plan or contract amendment were in effect, and such
+			 plan or contract amendment applies retroactively for such period.</continuation-text>
+              </clause>
+            </subparagraph>
+            <subparagraph id="H286EC15524BD4705BAF1CDE15F89B749">
+              <enum>(C)</enum>
+              <header>Anti-cutback relief</header>
+              <text>A plan shall not be treated as failing to meet the requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Employee Retirement Income Security Act of 1974/s:204/ss:g">section 204(g) of the Employee
+			 Retirement Income Security Act of 1974</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:411/ss:d/p:6">section 411(d)(6) of the
+			 Internal Revenue Code of 1986</cato:entity-ref> solely by reason of a plan amendment to
+			 which this paragraph applies.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection id="H58DC699965574B24B88DC155C9E0FFE6">
+          <enum>(d)</enum>
+          <header>Modification of funding target determination periods</header>
+					<paragraph id="HB21E682704154DED9A2357CE789FC942">
+            <enum>(1)</enum>
+            <header>Internal Revenue Code of 1986</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:430/ss:h/p:2/sp:B/cl:i">Clause (i) of <external-xref legal-doc="usc" parsable-cite="usc/26/430">section 430(h)(2)(B)</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by striking <quote>the first day of the plan year</quote> and inserting <quote>the valuation date for the plan year</quote>.</text>
+					</paragraph>
+          <paragraph id="H59FD037BCA984797B155B63D32DA51D3">
+            <enum>(2)</enum>
+            <header>Employee Retirement Income Security Act of 1974</header>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Employee Retirement Income Security Act of 1974/s:303/ss:h/p:2/sp:B/cl:i">Clause (i) of section 303(h)(2)(B) of the Employee Retirement Income Security Act of 1974</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/29/1083/h/2/B/i">29
+			 U.S.C. 1083(h)(2)(B)(i)</cato:entity-ref>)</cato:entity> is amended by striking <quote>the first day of the plan year</quote> and inserting <quote>the valuation date for the plan year</quote>.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H32EC902FE9184D05B13CF2A44DA43A1A">
+          <enum>(e)</enum>
+          <header>Effective date</header>
+					<paragraph id="H41CE7EE0CA164F76BCCD4C3A6A19FC4E">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text>The amendments made by subsections (a), (b), and (d) shall apply with respect to plan years
+			 beginning after December 31, 2012.</text>
+					</paragraph>
+          <paragraph id="H11E0DD86CB6848A1A63965561B33206E">
+            <enum>(2)</enum>
+            <header>Elections</header>
+            <text>A plan sponsor may elect not to have the amendments made by subsections (a), (b), and (d) apply to
+			 any plan year beginning before January 1, 2014, either (as specified in
+			 the election)—</text>
+						<subparagraph id="H00FB68DFB1D84734929E3BA58E8AFCAE">
+              <enum>(A)</enum>
+              <text>for all purposes for which such amendments apply, or</text>
+						</subparagraph>
+            <subparagraph id="H124818DA82F54E79AFF541757FC9A70B">
+              <enum>(B)</enum>
+              <text>solely for purposes of determining the adjusted funding target attainment percentage under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:436">sections
+			 436 of the Internal Revenue Code of 1986</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Employee Retirement Income Security Act of 1974/s:206/ss:g">206(g) of the Employee
+			 Retirement Income Security Act of 1974</cato:entity-ref> for such plan year.</text>
+            </subparagraph>
+            <continuation-text commented="no" continuation-text-level="paragraph">A plan shall not be treated as failing to meet the requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Employee Retirement Income Security Act of 1974/s:204/ss:g">section 204(g) of such Act</cato:entity-ref> and
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:411/ss:d/p:6">section 411(d)(6) of such Code</cato:entity-ref> solely by reason of an election under this
+			 paragraph.</continuation-text>
+          </paragraph>
+        </subsection>
+      </section>
+      <section id="H296927A27D8A4BC3BBF33449306701B2" section-type="subsequent-section">
+        <enum>109.</enum>
+        <header>Prepayment of certain PBGC premiums</header>
+				<subsection id="H1776219B0CCD428BA2C435F37CD8C008">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Employee Retirement Income Security Act of 1974/s:4007">Section 4007 of the Employee Retirement Income Security Act of 1974</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/29/1307">
+              <cato:entity-ref entity-type="uscode" value="usc/29/1307">29 U.S.C. 1307</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended by
+			 adding at the end the following new subsection:</text>
+					<quoted-block act-name="" id="H29F593D98A3F48F880FC6FECA1319571" style="OLC">
+						<subsection id="HBBA1713A6D4F486C8C77D3DA8605E156">
+              <enum>(f)</enum>
+              <header>Election To prepay flat dollar premiums</header>
+							<paragraph id="H16E675FD754341C494452C45A53631B5">
+                <enum>(1)</enum>
+                <header>In general</header>
+                <text>The designated payor may elect to prepay during any plan year the premiums due under clause (i) or
+			 (v), whichever is applicable, of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Employee Retirement Income Security Act of 1974/s:4006/ss:a/p:3/sp:A">section 4006(a)(3)(A)</cato:entity-ref> for the number of
+			 consecutive subsequent plan years (not greater than 5) specified in the
+			 election.</text>
+							</paragraph>
+              <paragraph id="HA150A433E2BA4696A1D2FE81E3154080">
+                <enum>(2)</enum>
+                <header>Amount of prepayment</header>
+								<subparagraph id="HAAB87604035B4E64A45E317A7BD6A79D">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+                  <text>The amount of the prepayment for any subsequent plan year under paragraph (1) shall be equal to the
+			 amount of the premium determined under clause (i) or (v), whichever is
+			 applicable, of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Employee Retirement Income Security Act of 1974/s:4006/ss:a/p:3/sp:A">section 4006(a)(3)(A)</cato:entity-ref> for the plan year in which the
+			 prepayment is made.</text>
+								</subparagraph>
+                <subparagraph id="HD5E7C02941A74A07B60C091D84693589">
+                  <enum>(B)</enum>
+                  <header>Additional participants</header>
+                  <text>If there is an increase in the number of participants in the plan during any plan year with respect
+			 to which a prepayment has been made, the designated payor shall pay a
+			 premium for such additional participants at the premium rate in effect
+			 under clause (i) or (v), whichever is applicable, of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Employee Retirement Income Security Act of 1974/s:4006/ss:a/p:3/sp:A">section 4006(a)(3)(A)</cato:entity-ref>
+			 for such plan year. No credit or other refund shall be granted in the case
+			 of a plan that has a decrease in number of participants during a plan year
+			 with respect to which a prepayment has been made.</text>
+								</subparagraph>
+                <subparagraph id="H792869C6DD4E470892007544A1FD5FC1">
+                  <enum>(C)</enum>
+                  <header>Coordination with premium for unfunded vested benefits</header>
+                  <text>The amount of the premium determined under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Employee Retirement Income Security Act of 1974/s:4006/ss:a/p:3/sp:A/cl:i">section 4006(a)(3)(A)(i)</cato:entity-ref> for the purpose of determining
+			 the prepayment amount for any plan year shall be determined without regard
+			 to the increase in such premium under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Employee Retirement Income Security Act of 1974/s:4006/ss:a/p:3/sp:E">section 4006(a)(3)(E)</cato:entity-ref>. Such increase
+			 shall be paid in the same amount and at the same time as it would
+			 otherwise be paid without regard to this subsection.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="HABE1C324C3FD490B91FB25804A5A5906">
+                <enum>(3)</enum>
+                <header>Election</header>
+                <text>The election under this subsection shall be made at such time and in such manner as the corporation
+			 may prescribe.</text>
+              </paragraph>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="HC9122C9444754EEF8C9371531BF83750">
+          <enum>(b)</enum>
+          <header>Conforming amendment</header>
+          <text>The second sentence of <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Employee Retirement Income Security Act of 1974/s:4007/ss:a">subsection (a) of section 4007 of the Employee Retirement Income Security
+			 Act of 1974</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/29/1307">
+              <cato:entity-ref entity-type="uscode" value="usc/29/1307">29 U.S.C. 1307</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended by striking <quote>Premiums</quote> and inserting <quote>Except as provided in subsection (f), premiums</quote>.</text>
+				</subsection>
+        <subsection id="H05C074D53CB2443A813D5EE8DE28C01D">
+          <enum>(c)</enum>
+          <header>Effective date</header>
+          <text>The amendments made by this section shall apply to plan years beginning after the date of the
+			 enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section id="H461DA0DDA81243439C17F8CCFD6D683C">
+        <enum>110.</enum>
+        <header>Extension of customs user fees</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Consolidated Omnibus Budget Reconciliation Act of 1985/s:13031/ss:j/p:3">Section 13031(j)(3) of the Consolidated Omnibus Budget Reconciliation Act of 1985</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/19/58c/j/3">19 U.S.C.
+			 58c(j)(3)</cato:entity-ref>)</cato:entity> is amended—</text>
+				<paragraph id="HC501634F2F4B47D19AB78B4AB7543E3B">
+          <enum>(1)</enum>
+          <text>in subparagraph (A), by striking <quote>September 30, 2023</quote> and inserting <quote>September 30, 2024</quote>; and</text>
+				</paragraph>
+        <paragraph commented="no" display-inline="no-display-inline" id="H0488A97BF13F4CE2A40E70FE714A12FC">
+          <enum>(2)</enum>
+          <text>in subparagraph (B)(i), by striking <quote>September 30, 2023</quote> and inserting <quote>September 30, 2024</quote>.</text>
+				</paragraph>
+      </section>
+      <section id="HE312B088423648E7852AECFF814B89A2">
+        <enum>111.</enum>
+        <header>Emergency services, government, and certain nonprofit volunteers</header>
+				<subsection id="H5C8FB2FCC2F44C9F9DD5DB520ABBE9EF">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:4980H/ss:c">
+              <external-xref legal-doc="usc" parsable-cite="usc/26/4980H">Section 4980H(c)</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by redesignating paragraphs (5),
+			 (6), and (7) as paragraphs (6), (7), and (8), respectively, and by
+			 inserting after paragraph (4) the following new paragraph:</text>
+					<quoted-block display-inline="no-display-inline" id="HE65D78E0AEAF49118A97B1876EE75023" style="OLC">
+						<paragraph id="HE4C2D4EF23DE4AEE860C79CEC1637F22">
+              <enum>(5)</enum>
+              <header>Special rules for certain emergency services, government, and nonprofit volunteers</header>
+							<subparagraph id="HE1AA543F50AD496AAAB85D40B263D826">
+                <enum>(A)</enum>
+                <header>Emergency services volunteers</header>
+                <text>Qualified services rendered as a bona fide volunteer to an eligible employer shall not be taken
+			 into account under this section as service provided by an employee. For
+			 purposes of the preceding sentence, the terms <term>qualified services</term>, <term>bona fide volunteer</term>, and <term>eligible employer</term> shall have the respective meanings given such terms under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:457/ss:e">section 457(e)</cato:entity-ref>.</text>
+							</subparagraph>
+              <subparagraph id="HACC14EBB739548C8BCB2DEDB43DC2435">
+                <enum>(B)</enum>
+                <header>Certain other government and nonprofit volunteers</header>
+								<clause id="H5A3D33125FE845EBB9B3482E6BB12659">
+                  <enum>(i)</enum>
+                  <header>In general</header>
+                  <text>Services rendered as a bona fide volunteer to a specified employer shall not be taken into account
+			 under this section as service provided by an employee.</text>
+								</clause>
+                <clause id="HF994777F62524F458D437023C17E5F80">
+                  <enum>(ii)</enum>
+                  <header>Bona fide volunteer</header>
+                  <text>For purposes of this subparagraph, the term <term>bona fide volunteer</term> means an employee of a specified employer whose only compensation from such employer is in the
+			 form of—</text>
+									<subclause id="HCBF430FDD29C460C80C059645115620E">
+                    <enum>(I)</enum>
+                    <text display-inline="yes-display-inline">reimbursement for (or reasonable allowance for) reasonable expenses incurred in the performance of
+			 services by volunteers, or</text>
+									</subclause>
+                  <subclause id="H55CE2924D7DD42B4982CED7BBE69273A">
+                    <enum>(II)</enum>
+                    <text>reasonable benefits (including length of service awards), and nominal fees, customarily paid by
+			 similar entities in connection with the performance of services by
+			 volunteers.</text>
+									</subclause>
+                </clause>
+                <clause id="H98D994E71B824606BFCD533C8D5F37BA">
+                  <enum>(iii)</enum>
+                  <header>Specified employer</header>
+                  <text>For purposes of this subparagraph, the term <term>specified employer</term> means—</text>
+									<subclause id="H008C03EB12AD4B2FB52A6F88E2C9D82B">
+                    <enum>(I)</enum>
+                    <text display-inline="yes-display-inline">any government entity, and</text>
+									</subclause>
+                  <subclause id="H969A797A42F0446AB279ABB0203088F3">
+                    <enum>(II)</enum>
+                    <text>any organization described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:501/ss:c">section 501(c)</cato:entity-ref> and exempt from tax under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:501/ss:a">section 501(a)</cato:entity-ref>.</text>
+									</subclause>
+                </clause>
+                <clause id="HD8627417EB84447EBD38051EDFEB7E36">
+                  <enum>(iv)</enum>
+                  <header>Coordination with subparagraph (A)</header>
+                  <text>This subparagraph shall not fail to apply with respect to services merely because such services are
+			 qualified services (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:457/ss:e/p:11/sp:C">section 457(e)(11)(C)</cato:entity-ref>).</text>
+                </clause>
+              </subparagraph>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="HB56EEF5459E947F5B1D41E30459B933E">
+          <enum>(b)</enum>
+          <header>Effective date</header>
+          <text>The amendments made by this section shall apply to months beginning after December 31, 2013.</text>
+				</subsection>
+      </section>
+    </title>
+    <title id="HF8004248627F4D98B09FE3C92EC517EB">
+      <enum>II</enum>
+      <header>Provisions relating to job creation</header>
+			<section id="H9A6CA32BED4447C2A9DCC2189F4F4F24">
+        <enum>201.</enum>
+        <header>Treatment of employment assistance voucher programs</header>
+				<subsection id="HB0712F8C90FC4F7A9335A8055C3A9BA8">
+          <enum>(a)</enum>
+          <header>Use of unemployment fund for employment assistance voucher program</header>
+					<paragraph id="HA13145FD5AD14783B723D1A109C9C3B2">
+            <enum>(1)</enum>
+            <header>State law</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:3304/ss:a/p:4">
+                <external-xref legal-doc="usc" parsable-cite="usc/26/3304">Section 3304(a)(4)</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by striking <quote>and</quote> at the end of subparagraph (F), by inserting <quote>and</quote> at the end of subparagraph (G), and by adding at the end the following new subparagraph:</text>
+						<quoted-block id="H6EC4ACF8BB1E410E8FAD5BD999463046" style="OLC">
+							<subparagraph id="H84126B6ACF6A467D94306CC94EC52102">
+                <enum>(H)</enum>
+                <text>during the 120-day period beginning on the date of the enactment of the <short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Emergency Unemployment Compensation Extension Act of 2014" proposed="true">Emergency Unemployment Compensation Extension Act of 2014</cato:entity-ref>
+                  </short-title>, amounts may be withdrawn for the payment of allowances under an employment assistance voucher
+			 program (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:3306/ss:v" proposed="true">section 3306(v)</cato:entity-ref>);</text>
+              </subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+          <paragraph id="H24536D1DA92943779DEAAF275AC69401">
+            <enum>(2)</enum>
+            <header>Permissible expenditures</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:3306/ss:f">Section 3306(f) of such Code</cato:entity-ref> is amended—</text>
+						<subparagraph id="H413CD7342A5A4929BB306F93577BDBEF">
+              <enum>(A)</enum>
+              <text>by striking <quote>and</quote> at the end of paragraph (5),</text>
+						</subparagraph>
+            <subparagraph id="H39D295E615C74E9C8D876511623F2E27">
+              <enum>(B)</enum>
+              <text>by redesignating the paragraph relating to the self-employment assistance program as paragraph (6)
+			 and striking the period at the end of such paragraph and inserting <quote>; and</quote>, and</text>
+						</subparagraph>
+            <subparagraph id="HEBC7D08AA60C419CACBC1731065B69F5">
+              <enum>(C)</enum>
+              <text>by adding at the end the following new paragraph:</text>
+							<quoted-block id="H07752964AF684369A4DB4B9ABCB33193" style="OLC">
+								<paragraph id="HC7F31D599A1A4F6A9515F21066894F5E">
+                  <enum>(7)</enum>
+                  <text display-inline="yes-display-inline">during the 120-day period beginning on the date of the enactment of the <short-title>
+                      <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Emergency Unemployment Compensation Extension Act of 2014" proposed="true">Emergency Unemployment Compensation Extension Act of 2014</cato:entity-ref>
+                    </short-title>, amounts may be withdrawn for the payment of allowances under an employment assistance voucher
+			 program (as defined in subsection (v)).</text>
+                </paragraph>
+                <after-quoted-block>.</after-quoted-block>
+              </quoted-block>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection id="HC6AEC90AD3EB45A0999FD409EF1438B9">
+          <enum>(b)</enum>
+          <header>Employment assistance voucher program defined</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:3306">Section 3306 of such Code</cato:entity-ref> is amended by adding at the end the following new subsection:</text>
+					<quoted-block id="H90356F42E3974C9CB71A97DE5B811C3F" style="OLC">
+						<subsection id="HCFA447F560C1402CA777C282663BC2B2">
+              <enum>(v)</enum>
+              <header>Employment assistance voucher program</header>
+              <text>For the purposes of this chapter—</text>
+							<paragraph id="H4FDF7CFA442247EEA67CA00E0F3880C7">
+                <enum>(1)</enum>
+                <header>In general</header>
+                <text>The term <term>employment assistance voucher program</term> means a program under which—</text>
+								<subparagraph id="H65F7DDC740824826BD670DB9C69E0239">
+                  <enum>(A)</enum>
+                  <text>an eligible individual is issued an employment assistance voucher,</text>
+								</subparagraph>
+                <subparagraph id="H58CE963DDFF1420EA77C8331C9F80E9A">
+                  <enum>(B)</enum>
+                  <text>upon employment with an employer described in paragraph (5)—</text>
+									<clause id="HA65C7F736E264C3783F505E0942482F0">
+                    <enum>(i)</enum>
+                    <text>the eligible individual transfers the employment assistance voucher to the employer,</text>
+									</clause>
+                  <clause id="H804DA5B6274145E79680577F998E3E80">
+                    <enum>(ii)</enum>
+                    <text>the individual ceases to receive unemployment compensation and is paid wages by the employer, and</text>
+									</clause>
+                  <clause id="HA03FA2B55AE546FC81997C2AC0FD3ECC">
+                    <enum>(iii)</enum>
+                    <text>the employer receives payments upon presenting the voucher to the State, and</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="HA2088D660B5F478AA3400BF714909E20">
+                  <enum>(C)</enum>
+                  <text>the program meets such other requirements as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1600" entity-type="federal-body">Secretary of Labor</cato:entity-ref> determines to be appropriate.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H7F1487C9B473412FAF926B339FA2C864">
+                <enum>(2)</enum>
+                <header>Rules relating to unemployed individuals</header>
+                <text>For purposes of paragraph (1)—</text>
+								<subparagraph id="H2CEC3F4ECC8E4E178E8655DC721AB24E">
+                  <enum>(A)</enum>
+                  <header>Compensation</header>
+                  <text display-inline="yes-display-inline">Compensation pursuant to paragraph (1)(B)(ii) shall—</text>
+									<clause id="HB611A7DBFC474CAFB8907887DE8C877E">
+                    <enum>(i)</enum>
+                    <text>not be less than 200 percent of the unemployment compensation otherwise payable to the individual
+			 on the date of the individual’s employment under the employment assistance
+			 voucher program,</text>
+									</clause>
+                  <clause id="H33A6275DA23B489D85C5E5BF4D46EBF8">
+                    <enum>(ii)</enum>
+                    <text display-inline="yes-display-inline">not be less than the minimum wage (as specified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Fair Labor Standards Act of 1938/s:6">section 6 of the Fair Labor Standards Act of
+			 1938</cato:entity-ref>), and</text>
+									</clause>
+                  <clause id="HB867AAC155144201992D2E6FC67133F8">
+                    <enum>(iii)</enum>
+                    <text>be payable for a period not to exceed the maximum number of remaining weeks of unemployment
+			 compensation (including supplemental and emergency) to which the employee
+			 would be entitled (but for participating in the employment assistance
+			 voucher program), determined as of the date of employment.</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="H7AC7F26441544A4BB226162822DBABC4">
+                  <enum>(B)</enum>
+                  <header>Termination of employment</header>
+                  <text>If, before the end of the period referred to in subparagraph (A)(iii), an individual’s employment
+			 with an employer under the employment assistance voucher program is
+			 terminated for reasons other than cause, the individual is entitled to the
+			 remaining period of entitlement referred to in subparagraph (A)(iii) less
+			 the number of weeks of such employment.</text>
+								</subparagraph>
+                <subparagraph id="H06A6EE16CD6948CDB6911EB761ACF336">
+                  <enum>(C)</enum>
+                  <header>Certain requirements not to apply</header>
+                  <text>State requirements relating to availability for work, active search for work, and refusal to accept
+			 work are not applicable to individuals participating in the employment
+			 assistance voucher program.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H598B5A4BDA604605A2D4EA67BE6BB230">
+                <enum>(3)</enum>
+                <header>Employment assistance voucher</header>
+                <text>The term <term>employment assistance voucher</term> means a voucher—</text>
+								<subparagraph id="HCE750910AC824883A17A0576C4E4F1A7">
+                  <enum>(A)</enum>
+                  <text>obtained by an eligible individual pursuant to the State law, and</text>
+								</subparagraph>
+                <subparagraph id="H1A32E43774314671AD8BA8FDD614AF62">
+                  <enum>(B)</enum>
+                  <text>payable to the employer of the eligible individual—</text>
+									<clause id="HBA36B74373444F00BFB3B8E11504DFD7">
+                    <enum>(i)</enum>
+                    <text>at a rate determined under State law but not to exceed 90 percent of the amount of unemployment
+			 compensation to which the eligible individual is entitled, and</text>
+									</clause>
+                  <clause id="HFF0C494D8403448E8FA7D2EB5CE382EB">
+                    <enum>(ii)</enum>
+                    <text>on the same schedule as unemployment compensation would be payable to the individual but for
+			 employment under the employment assistance voucher program.</text>
+									</clause>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="H4AF52D1376154CDE9E726924DC92CA20">
+                <enum>(4)</enum>
+                <header>Eligible individual</header>
+                <text>The term <term>eligible individual</term> means an individual who—</text>
+								<subparagraph id="H346A50314C084C3F8122204235F8352D">
+                  <enum>(A)</enum>
+                  <text>is eligible to receive regular unemployment compensation under the State law, extended
+			 unemployment, or emergency unemployment or would be eligible to receive
+			 such compensation except for the requirements described in paragraph
+			 (1)(B),</text>
+								</subparagraph>
+                <subparagraph id="H86A929C011DF44F7B8D7A8B20989EA09">
+                  <enum>(B)</enum>
+                  <text>is identified pursuant to a State worker profiling system as an individual likely to exhaust
+			 regular unemployment compensation,</text>
+								</subparagraph>
+                <subparagraph display-inline="no-display-inline" id="H79704EB5F5B34BC98D8C8D879E73C035">
+                  <enum>(C)</enum>
+                  <text display-inline="yes-display-inline">immediately prior to employment by the eligible employer, was unemployed for not less than 6
+			 months, and</text>
+								</subparagraph>
+                <subparagraph id="H570F4849607347A38DD8F60CA58FC27C">
+                  <enum>(D)</enum>
+                  <text>is employed by an eligible employer.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H5FC32853CE114B1F95B033F21B56BEF1">
+                <enum>(5)</enum>
+                <header>Eligible employer</header>
+                <text>The term <term>eligible employer</term> means an employer who agrees to the terms and conditions of employment under the unemployment
+			 assistance voucher program and who is approved by the State agency.</text>
+							</paragraph>
+              <paragraph id="H9776B2D3BECF405B88E3E527AD077A88">
+                <enum>(6)</enum>
+                <header>Treatment of participating individuals under Federal and State law</header>
+                <text>Individuals participating in an unemployment assistance voucher program shall be treated as
+			 unemployed for the purposes of Federal and State laws applicable to
+			 unemployment compensation, except that wages paid to the employee under
+			 such program shall be subject to Federal and State taxation to the same
+			 extent and in the same manner as wages generally.</text>
+							</paragraph>
+              <paragraph id="H3BB8B5EFDFF54F75B8089C3A36284E67">
+                <enum>(7)</enum>
+                <header>Cost limiter</header>
+                <text>A State program shall not be treated as an employment assistance voucher program for purposes of
+			 this chapter unless the program does not result in any cost to the
+			 Unemployment Trust Fund (established by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Social Security Act/s:904/ss:a">section 904(a) of the Social
+			 Security Act</cato:entity-ref>) in excess of the cost that would be incurred by such State
+			 and charged to such Fund, or to any Federal funds in the system if the
+			 State had not participated in such program.</text>
+							</paragraph>
+              <paragraph id="HF425076DA7F541FC8487CF93894C2383">
+                <enum>(8)</enum>
+                <header>Prevention of employment termination to participate in program</header>
+                <text display-inline="yes-display-inline">A State program shall not be treated as an employment assistance voucher program for purposes of
+			 this chapter unless the State has in effect measures to prevent employers
+			 from terminating employment for purposes of participating in the
+			 employment assistance voucher program.</text>
+							</paragraph>
+              <paragraph id="H826BC7D7B4E047DD9ABEE5AAEF923DD3">
+                <enum>(9)</enum>
+                <header>Prevention in terminating employees during program</header>
+                <text display-inline="yes-display-inline">A State program shall not be treated as an employment assistance voucher program for purposes of
+			 this chapter unless the State has in effect measures to recoup payments
+			 made to an employer under the program if the employer has terminated from
+			 employment more employees during the 120-day period referred to in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:3304/ss:a/p:4/sp:H">section
+			 3304(a)(4)(H)</cato:entity-ref> than the employer has hired under the program.</text>
+              </paragraph>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="HA05D109A9A0F40C4A0F30915A2272D34">
+          <enum>(c)</enum>
+          <header>Conforming amendment</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Social Security Act/s:303/ss:a/p:5">Section 303(a)(5) of the Social Security Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/503">
+              <cato:entity-ref entity-type="uscode" value="usc/42/503/a/5">42 U.S.C. 503(a)(5)</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended by striking <quote>; and</quote> and inserting <quote>: <italic>Provided further</italic>, That amounts may be withdrawn for the payment of allowances under an employment assistance
+			 voucher program (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:3306/ss:v" proposed="true">section 3306(v) of the Internal Revenue
+			 Code of 1986</cato:entity-ref>); and</quote>.</text>
+				</subsection>
+        <subsection id="HC7BFD1D472354FD2B95C1E0691761141">
+          <enum>(d)</enum>
+          <header>State reports</header>
+          <text display-inline="yes-display-inline">Any State operating an employment assistance voucher program approved by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1600" entity-type="federal-body">Secretary of Labor</cato:entity-ref>
+			 pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:3304/ss:a/p:4/sp:H">
+              <external-xref legal-doc="usc" parsable-cite="usc/26/3304">section 3304(a)(4)(H)</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> (as
+			 added by this section) shall report annually to the Secretary on the
+			 number of individuals who participate in the program, the operating costs
+			 of the program, compliance with program requirements, and any other
+			 relevant aspects of program operations requested by the Secretary.</text>
+				</subsection>
+        <subsection id="H6BC50EBA16F64037ABA2D2B49F0BD216">
+          <enum>(e)</enum>
+          <header>Report to congress</header>
+          <text display-inline="yes-display-inline">Not later than 1 year after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1600" entity-type="federal-body">Secretary of Labor</cato:entity-ref> shall
+			 submit a report to the Congress with respect to the operation of the
+			 employment assistance voucher program. Such report shall be based on the
+			 reports received from the States pursuant to subsection (d) and include
+			 such other information as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1600" entity-type="federal-body">Secretary of Labor</cato:entity-ref> determines is
+			 appropriate.</text>
+				</subsection>
+        <subsection id="HAB9D5568F94146F9A0095A3EFD4503F5">
+          <enum>(f)</enum>
+          <header>Effective date</header>
+          <text>The provisions of this section and the amendments made by this section shall take effect on the
+			 date of the enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section id="H3D0FD0F7B82D446E8AB8F983483ED7BB">
+        <enum>202.</enum>
+        <header>Disadvantaged business enterprises</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="MAP–21/s:1101/ss:b">Section 1101(b) of MAP–21</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/23/101/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/23/101">
+            23 U.S.C. 101
+          </external-xref> note</cato:entity-ref>)</cato:entity> is amended—</text>
+				<paragraph id="H98C4239D849A45618998A9DA428DB5CA">
+          <enum>(1)</enum>
+          <text>in paragraph (2) by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H7AFA13A5ACE34454AC791E57C75F167F" style="OLC">
+						<subparagraph id="H0392D52D6B324AA99744B7F644455F51">
+              <enum>(C)</enum>
+              <header>Veteran-owned small business concern</header>
+              <text display-inline="yes-display-inline">The term <term>veteran-owned small business concern</term> has the meaning given the term <term>small business concern owned and controlled by veterans</term> in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Small Business Act/s:3/ss:q">section 3(q) of the Small Business Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/632">
+                  <cato:entity-ref entity-type="uscode" value="usc/15/632/q">15 U.S.C. 632(q)</cato:entity-ref>
+                </external-xref>)</cato:entity>.</text>
+            </subparagraph>
+            <after-quoted-block>;</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+        <paragraph id="H12ECC51803BE473C91296CF18438B46A">
+          <enum>(2)</enum>
+          <text>in paragraph (3) by inserting <quote>and veteran-owned small business concerns</quote> before the period at the end; and</text>
+				</paragraph>
+        <paragraph id="HEB7DC1B6671844F7BCC3A5E2D229ADFD">
+          <enum>(3)</enum>
+          <text display-inline="yes-display-inline">in paragraph (4)(B)—</text>
+					<subparagraph id="HEE6C26AA9BDD41A8ADB0986A575C0FCC">
+            <enum>(A)</enum>
+            <text>in clause (ii) by striking <quote>and</quote> at the end;</text>
+					</subparagraph>
+          <subparagraph id="H92D035976B62456E9C23BF8C1F3452EB">
+            <enum>(B)</enum>
+            <text>in clause (iii) by striking the period at the end and inserting <quote>; and</quote>; and</text>
+					</subparagraph>
+          <subparagraph id="HE8479F69FDE442F89546BBE1F0BE5479">
+            <enum>(C)</enum>
+            <text>by adding at the end the following:</text>
+						<quoted-block display-inline="no-display-inline" id="H7020FC0A3E254162A96322DC2635287B" style="OLC">
+							<clause id="H3A96071847424678BD79E38E04FC77A1">
+                <enum>(iv)</enum>
+                <text display-inline="yes-display-inline">veterans.</text>
+              </clause>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</subparagraph>
+        </paragraph>
+      </section>
+      <section id="HD7868B9B0D484062A5B26DA5F2B64459">
+        <enum>203.</enum>
+        <header>America Star Program</header>
+				<subsection id="H61329C94221C4359BCAEDA86CF0CDC91">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> shall establish a voluntary program, to be known as the <quote>America Star Program</quote>, under which manufacturers may have products certified as meeting the standards of labels that
+			 indicate to consumers the extent to which the products are manufactured in
+			 the United States.</text>
+				</subsection>
+        <subsection id="H94ABFBFBE85942408F3E66964E1CADAB">
+          <enum>(b)</enum>
+          <header>Establishment of labels</header>
+					<paragraph id="HF452C883CDE3416A8597841E89779A96">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> shall by rule establish such America Star labels as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> considers
+			 appropriate, including the content of the labels and the standards that a
+			 product shall meet in order to bear a particular America Star label. The
+			 labels shall be consistent with public perceptions of the meaning of
+			 descriptions of the extent to which a product is manufactured in the
+			 United States.</text>
+					</paragraph>
+          <paragraph id="HD216372194F444439D83BFB9C67612C2">
+            <enum>(2)</enum>
+            <header>Goals</header>
+            <text>The America Star labels shall be designed to achieve the following goals:</text>
+						<subparagraph id="H7D487F69A0DF4580B29703972F8BB35A">
+              <enum>(A)</enum>
+              <text display-inline="yes-display-inline">Providing clarity for consumers about the extent to which products are manufactured in the United
+			 States.</text>
+						</subparagraph>
+            <subparagraph commented="no" id="H89CE4D645F8046C5B013F474CD2E56B5">
+              <enum>(B)</enum>
+              <text>Encouraging manufacturers to manufacture more products in the United States.</text>
+						</subparagraph>
+            <subparagraph id="HFA671E3D0C2C4D7584930F3B99B691DB">
+              <enum>(C)</enum>
+              <text>Highlighting the importance of domestic manufacturing for the economy of the United States.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection id="H12D0565D86A945C1B701C4E935FB268B">
+          <enum>(c)</enum>
+          <header>Certification of products</header>
+					<paragraph id="H8E4041893A21417B9C8C190A16385844">
+            <enum>(1)</enum>
+            <header>Application procedures</header>
+            <text>A manufacturer that wishes to have a product certified as meeting the standards of an America Star
+			 label may apply to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> for certification in accordance with such
+			 procedures as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> shall by rule establish.</text>
+					</paragraph>
+          <paragraph id="H97ED2CF83223434A9BCC4928DA3CA3D1">
+            <enum>(2)</enum>
+            <header>Action by Secretary</header>
+            <text>After receiving an application for certification under paragraph (1), the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> shall, not
+			 later than a reasonable time to be specified by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> by rule—</text>
+						<subparagraph id="H49761891B271487D88337E43A7ECE18E">
+              <enum>(A)</enum>
+              <text>determine whether the product meets the standards of the label;</text>
+						</subparagraph>
+            <subparagraph id="H9143531E88104F1C9AF4E47D6C171785">
+              <enum>(B)</enum>
+              <text>if the product meets such standards, certify the product; and</text>
+						</subparagraph>
+            <subparagraph id="H26A54E8575A44C05AAA461C3378CFB65">
+              <enum>(C)</enum>
+              <text>notify the manufacturer of the determination and whether the product has been certified.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection id="H43BA8152572B4D788870BDA1E966B739">
+          <enum>(d)</enum>
+          <header>Monitoring; withdrawal of certification</header>
+					<paragraph id="H20C88F8B183B4485A01BB11183F81B4B">
+            <enum>(1)</enum>
+            <header>Monitoring</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> shall conduct such monitoring and compliance review as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> considers
+			 necessary to—</text>
+						<subparagraph id="H9A6924AD2B154D8E8B9ADAFB9AEDA872">
+              <enum>(A)</enum>
+              <text display-inline="yes-display-inline">detect violations of subsection (h); and</text>
+						</subparagraph>
+            <subparagraph id="HC7342EE435064EA4AD9C8803C4397A81">
+              <enum>(B)</enum>
+              <text>ensure that products certified as meeting the standards of America Star labels continue to meet
+			 such standards.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="H68EBCF8D4DA74166809A7AECD3AF783B">
+            <enum>(2)</enum>
+            <header>Withdrawal of certification</header>
+						<subparagraph id="H7537FC110C874FE397F238A2B057DC75">
+              <enum>(A)</enum>
+              <header>On initiative of Secretary</header>
+              <text display-inline="yes-display-inline">If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> determines that a product certified as meeting the standards of an America Star
+			 label no longer meets such standards, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> shall—</text>
+							<clause id="H840ACE07594C438EBBD0CE312C062A39">
+                <enum>(i)</enum>
+                <text>notify the manufacturer of the determination and any corrective action that would enable the
+			 product to meet such standards; and</text>
+							</clause>
+              <clause id="HC94A4E9F9FBF4F0BB2B83AE0B8555A1D">
+                <enum>(ii)</enum>
+                <text>if the manufacturer does not take such action within a reasonable time after receiving notification
+			 under clause (i), to be specified by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> by rule, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref>
+			 shall withdraw the certification of the product and notify the
+			 manufacturer of the withdrawal.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="H9D8CCAE96CFF4670BCFB36E58713FAD9">
+              <enum>(B)</enum>
+              <header>At request of manufacturer</header>
+              <text display-inline="yes-display-inline">At the request of the manufacturer of a product, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> shall withdraw the certification of
+			 the product and notify the manufacturer of the withdrawal.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection id="H449D4D6C3A724FC6B882DC27A6B90702">
+          <enum>(e)</enum>
+          <header>Regulations</header>
+					<paragraph id="H192DC778B5054D10B10A7C5B067A5188">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> may promulgate such regulations as are necessary to implement this section.</text>
+					</paragraph>
+          <paragraph id="HFE186559AB68465ABD0614A02AB8D5A0">
+            <enum>(2)</enum>
+            <header>Deadline</header>
+            <text>Not later than 2 years after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> shall promulgate
+			 such regulations as are necessary to begin certifying products under the
+			 America Star Program.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H55C9A9E1E79E4A559CDFE8F74E1CE0EA">
+          <enum>(f)</enum>
+          <header>Administration by contract</header>
+          <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> may enter into a contract with a person under which such person carries out
+			 certification determinations under subsection (c), monitoring activities
+			 and withdrawal determinations under subsection (d), collection of fees
+			 under subsection (k)(1) and the remission of such fees to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref>
+			 (but not the establishment of the amounts of such fees), and related
+			 administrative activities. For purposes of subsections (h) and (j), such a
+			 determination, activity, or collection by such person shall be considered
+			 to be an action of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref>.</text>
+				</subsection>
+        <subsection id="HDFD6C2845504437F971424BC36F1B63B">
+          <enum>(g)</enum>
+          <header>Consultation</header>
+					<paragraph id="HE28AFBC96D874E13A9B1CF261DC052F0">
+            <enum>(1)</enum>
+            <header>With Federal Trade Commission</header>
+            <text>In establishing the America Star labels and operating the America Star Program, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> shall
+			 consult with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2900" entity-type="federal-body">Federal Trade Commission</cato:entity-ref> to ensure consistency with the
+			 requirements enforced by the Commission with respect to representations of
+			 the extent to which products are manufactured in the United States.</text>
+					</paragraph>
+          <paragraph id="H4CED58C4ABF4469CAC7A6C9B84A2FACE">
+            <enum>(2)</enum>
+            <header>With private-sector companies</header>
+            <text display-inline="yes-display-inline">In establishing the America Star labels and operating the America Star Program, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref>
+			 should consult with private-sector companies that have developed labeling
+			 programs to verify or certify to consumers the extent to which products
+			 are manufactured in the United States.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H66AA0BB5BA7E4235B663B87F4B9D0E2C">
+          <enum>(h)</enum>
+          <header>Prohibited conduct</header>
+          <text display-inline="yes-display-inline">Unless there is in effect a certification by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> that a product meets the standards of an
+			 America Star label, a person may not place such label on such product, use
+			 such label in any marketing materials for such product, or in any other
+			 way represent that such product meets or is certified as meeting the
+			 standards of such label.</text>
+				</subsection>
+        <subsection id="H83DB14D990B0443CA5ABAA0A0862B268">
+          <enum>(i)</enum>
+          <header>Enforcement</header>
+					<paragraph id="HA2ED9F94C4E54A2EB8108713E112FFCE">
+            <enum>(1)</enum>
+            <header>Civil penalty</header>
+            <text display-inline="yes-display-inline">Any person who knowingly violates subsection (h) shall be subject to a civil penalty of not more
+			 than $10,000.</text>
+					</paragraph>
+          <paragraph id="HF2EC51CAA9CD45F1820F937887EA0A6D">
+            <enum>(2)</enum>
+            <header>Ineligibility</header>
+						<subparagraph id="H355C2A0F17F44AE3BAD9D60632A0BFD7">
+              <enum>(A)</enum>
+              <header>In general</header>
+              <text>Except as provided in subparagraph (C), if the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> determines that a manufacturer—</text>
+							<clause id="H4F4FE799671546B893BBD5976F5FF7C9">
+                <enum>(i)</enum>
+                <text>has made a false statement to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> in connection with the America Star Program;</text>
+							</clause>
+              <clause id="H18C1E1845AD941F1947DED076F7BF0C5">
+                <enum>(ii)</enum>
+                <text>knowing, or having reason to know, that a product does not meet the standards of an America Star
+			 label, has placed such label on such product, has used such label in any
+			 marketing materials for such product, or in any other way has represented
+			 that such product meets or is certified as meeting the standards of such
+			 label; or</text>
+							</clause>
+              <clause id="HBE74B46C888F478DB054DB1096682D2E">
+                <enum>(iii)</enum>
+                <text>has otherwise violated the purposes of the America Star Program;</text>
+							</clause>
+              <continuation-text continuation-text-level="subparagraph">the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> may not, for a period of 5 years after the conduct described in clause (i), (ii), or
+			 (iii), certify the product to which such conduct relates as meeting the
+			 standards of an America Star label.</continuation-text>
+            </subparagraph>
+            <subparagraph id="H6290741C6CFA42CDBDB3AF3B263B1062">
+              <enum>(B)</enum>
+              <header>Effect on existing certification</header>
+              <text display-inline="yes-display-inline">In the case of a product with respect to which, at the time of the determination of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref>
+			 under subparagraph (A), there is in effect a certification by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> that the product meets the standards of an America Star label—</text>
+							<clause id="H886A387BC79941F6BAB410E5691BD524">
+                <enum>(i)</enum>
+                <text>if the product continues to meet such standards, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> may either withdraw the
+			 certification or allow the certification to continue in effect, as the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> considers appropriate; and</text>
+							</clause>
+              <clause id="HDF523D8CE5D14810A63BFC09A02EBA9F">
+                <enum>(ii)</enum>
+                <text>if the product no longer meets such standards, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> shall withdraw the certification.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="H67EB42DB69F24ED995F47997C86BB26B">
+              <enum>(C)</enum>
+              <header>Waiver</header>
+              <text>Notwithstanding subparagraph (A), the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> may waive or reduce the period referred to in such
+			 subparagraph if the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> determines that the waiver or reduction is
+			 in the best interests of the America Star Program.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="H01CE8123755142889844F48DF6116D7F">
+            <enum>(3)</enum>
+            <header>False statements</header>
+            <text>A false statement in connection with the America Star Program to a person with whom the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref>
+			 contracts under subsection (f) shall be considered a false statement to
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> for purposes of paragraph (2)(A)(i) and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1001">section 1001 of
+			 title 18, United States Code</cato:entity-ref>.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H36505580766A447293176281988E4B96">
+          <enum>(j)</enum>
+          <header>Administrative appeal</header>
+					<paragraph id="HE76C15303AD940CB983ACA4BBD55A956">
+            <enum>(1)</enum>
+            <header>Expedited appeals procedure</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> shall establish an expedited administrative appeals procedure under which persons may
+			 appeal an action of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> under this section that—</text>
+						<subparagraph id="HB0131974CA464EACA3E48CE274B844A0">
+              <enum>(A)</enum>
+              <text>adversely affects such person; or</text>
+						</subparagraph>
+            <subparagraph id="H5BF4FE7E974D48F4897FC86A830FA0E8">
+              <enum>(B)</enum>
+              <text>is inconsistent with the America Star Program.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="H0A6A819F25B74E15B3CEDCA25475DC91">
+            <enum>(2)</enum>
+            <header>Appeal of final decision</header>
+            <text>A final decision of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> under paragraph (1) may be appealed to the United States district
+			 court for the district in which the person is located.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H798F3BDB3B3B42F68F2C60C41C302691">
+          <enum>(k)</enum>
+          <header>Offsetting collections</header>
+					<paragraph id="H12810B375EEB43AC8448112227659A09">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> may collect reasonable fees from—</text>
+						<subparagraph id="HA26F35469D534E55B39E30B197E3A74E">
+              <enum>(A)</enum>
+              <text>manufacturers that apply for certification of products as meeting the standards of America Star
+			 labels; and</text>
+						</subparagraph>
+            <subparagraph id="H62D9FAE7409143C19DC97B928A387AC3">
+              <enum>(B)</enum>
+              <text display-inline="yes-display-inline">manufacturers of products for which such certifications are in effect.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="H5CCFA3DFD3264A8A9E9754D1CAF7470E">
+            <enum>(2)</enum>
+            <header>Account</header>
+            <text display-inline="yes-display-inline">The fees collected under paragraph (1) shall be credited to the account that incurs the cost of the
+			 certification services provided under this section.</text>
+					</paragraph>
+          <paragraph id="H9F1CB98A36B1415E9D85B653014F1F5C">
+            <enum>(3)</enum>
+            <header>Use</header>
+            <text display-inline="yes-display-inline">The fees collected under paragraph (1) shall be available to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref>, without further
+			 appropriation or fiscal-year limitation, to pay the expenses of the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> incurred in providing certification services under this section.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="HC34EB6CB8C6946C1BE30732AF284C78A">
+          <enum>(l)</enum>
+          <header>Definitions</header>
+          <text>In this section:</text>
+					<paragraph id="H55D2C3203CCC43699C1158BB937EE97D">
+            <enum>(1)</enum>
+            <header>America Star label</header>
+            <text>The term <term>America Star label</term> means a label described in subsection (a) and established by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1300">Secretary</cato:entity-ref> under subsection
+			 (b)(1).</text>
+					</paragraph>
+          <paragraph id="H0506A5FB20A14EC19108A4171F6AB0F4">
+            <enum>(2)</enum>
+            <header>America Star Program</header>
+            <text>The term <term>America Star Program</term> means the voluntary labeling program established under this section.</text>
+					</paragraph>
+          <paragraph id="H5843BABBE872436FAAF025183D808919">
+            <enum>(3)</enum>
+            <header>Secretary</header>
+            <text>The term <term>Secretary</term> means the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1300" entity-type="federal-body">Secretary of Commerce</cato:entity-ref>.</text>
+					</paragraph>
+        </subsection>
+      </section>
+      <section id="H39E6E969F2A441CB8AFAE603ADD23467">
+        <enum>204.</enum>
+        <header>Fostering innovation</header>
+        <text display-inline="no-display-inline">Not later than 180 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="5000" entity-type="federal-body">Securities and Exchange
+			 Commission</cato:entity-ref> shall revise the definition of <term>accelerated filer</term>, as such term is defined in Rule 12b–2 of the Commission (17 C.F.R. 240.12b–2), to include issuers
+			 that have annual revenues of greater than $100,000,000 during the most
+			 recently completed fiscal year for which audited financial statements are
+			 available and have an aggregated worldwide market value of the voting and
+			 non-voting common equity held by its non-affiliates of $250,000,000 or
+			 more, but less than $700,000,000, as of the last business day of the
+			 issuer’s most recently completed second fiscal quarter.</text>
+			</section>
+      <section id="HEB8E1669788D4C2B84DC653264FAE6CD">
+        <enum>205.</enum>
+        <header>Partnership To Build America</header>
+				<subsection id="H8FD4B83ED3554C7D808D7DF2AAEB0F88">
+          <enum>(a)</enum>
+          <header>American Infrastructure Fund</header>
+					<paragraph id="HF407D2FC14D442C39DAB73458897285F">
+            <enum>(1)</enum>
+            <header>American Infrastructure Fund</header>
+						<subparagraph id="H8DC3BDB7C1E64585879AEC1970E16B51">
+              <enum>(A)</enum>
+              <header>In general</header>
+              <text display-inline="yes-display-inline">There is established a wholly owned Government corporation to be called the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="American Infrastructure Fund" proposed="true">American Infrastructure
+			 Fund</cato:entity-ref> (<term>AIF</term>)—</text>
+							<clause id="H29FE7F9A108A44DCA1183E520150084B">
+                <enum>(i)</enum>
+                <text>which shall be headed by the Board of Trustees established under paragraph (2);</text>
+							</clause>
+              <clause id="HE165AB1132604C31B1A7BE034A1231B9">
+                <enum>(ii)</enum>
+                <text>which may have separate sub-accounts or subsidiaries for funds used to make loans, bond guarantees,
+			 and equity investments under this subsection and funds used to make bond
+			 guarantees under this subsection;</text>
+							</clause>
+              <clause id="H943897A2C35C424AB703F5875EEFBF55">
+                <enum>(iii)</enum>
+                <text>which shall be available to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="American Infrastructure Fund" proposed="true">AIF</cato:entity-ref> to pay for the costs of carrying out this subsection, including
+			 the compensation of the Board and other employees of the AIF; and</text>
+							</clause>
+              <clause id="HCB4457EDD6854E7AB2006F853570A234">
+                <enum>(iv)</enum>
+                <text>the funds of which may be invested by the Board in such manner as the Board determines appropriate.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="HABD3DDDE24AD410EAC505BA6311D3B26">
+              <enum>(B)</enum>
+              <header>Deposits to AIF</header>
+              <text>All funds received from bond issuances, loan payments, bond guarantee fees, and any other funds
+			 received in carrying out this subsection shall be held by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="American Infrastructure Fund" proposed="true">AIF</cato:entity-ref>.</text>
+						</subparagraph>
+            <subparagraph id="HA0240B0A058B412C98F764FB51103B77">
+              <enum>(C)</enum>
+              <header>Limitations</header>
+              <text display-inline="yes-display-inline">The charter of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="American Infrastructure Fund" proposed="true">AIF</cato:entity-ref> shall limit its activities to those activities described as the mission of
+			 the Board under paragraph (2)(B).</text>
+						</subparagraph>
+            <subparagraph id="HB525C20B9F2B4F0E96CD2E477EE4DEF4">
+              <enum>(D)</enum>
+              <header>Oversight</header>
+              <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="American Infrastructure Fund" proposed="true">AIF</cato:entity-ref> shall register with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="5000" entity-type="federal-body">Securities and Exchange Commission</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall report
+			 to Congress annually as to whether the AIF is fulfilling the mission of
+			 the Board under paragraph (2)(B).</text>
+						</subparagraph>
+            <subparagraph id="H07992748B1F54A49B5F9E93311AF1957">
+              <enum>(E)</enum>
+              <header>Treatment of AIF</header>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31">Title 31, United States Code</cato:entity-ref>, is amended in each of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/9107/c/3">sections 9107(c)(3)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/31/9108/d/2">9108(d)(2)</cato:entity-ref>—</text>
+							<clause id="H3ED6DE867B4142D98502A66AD1E312F6">
+                <enum>(i)</enum>
+                <text>by inserting <quote>the American Infrastructure Fund,</quote> after <quote>the Regional Banks for Cooperatives,</quote>; and</text>
+							</clause>
+              <clause id="H8625DBBD11564D83899C3F775AF9D523">
+                <enum>(ii)</enum>
+                <text>by striking <quote>those banks</quote> and inserting <quote>those entities</quote>.</text>
+							</clause>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="H1E4773F9DA744379AFA8320790C84808">
+            <enum>(2)</enum>
+            <header>Board of Trustees</header>
+						<subparagraph id="H00CDA570B6A64F46B9D0084BCC2E8023">
+              <enum>(A)</enum>
+              <header>In general</header>
+              <text display-inline="yes-display-inline">There is established a <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board of Trustees of the AIF</cato:entity-ref> (the <term>Board</term>), which shall be composed of 11 members, of which at least 4 must be risk management experts, as
+			 certified by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref>, having substantial experience in bond guarantees
+			 or municipal credit.</text>
+						</subparagraph>
+            <subparagraph id="H1D8A229F7CD4464BA726AC28120EC014">
+              <enum>(B)</enum>
+              <header>Mission</header>
+              <text display-inline="yes-display-inline">The Mission of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> is—</text>
+							<clause id="HB94FE661EB014B5395E6056E0925FC6E">
+                <enum>(i)</enum>
+                <text display-inline="yes-display-inline">to operate the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="American Infrastructure Fund" proposed="true">AIF</cato:entity-ref> and its subsidiaries to be a low cost provider of bond guarantees, loans, and
+			 equity investments to State and local governments and non-profit
+			 infrastructure providers for both urban and rural non-profit
+			 infrastructure projects that provide a positive economic impact and to
+			 meet such other standards as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> may develop;</text>
+							</clause>
+              <clause id="H83AD0C453C95403E9383514670D49237">
+                <enum>(ii)</enum>
+                <text>to operate the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="American Infrastructure Fund" proposed="true">AIF</cato:entity-ref> in a self-sustaining manner so as to allow the AIF to repay its infrastructure
+			 bonds when due;</text>
+							</clause>
+              <clause id="HBE580ED8401C4118B01A27547BC89891">
+                <enum>(iii)</enum>
+                <text>to not have a profit motive, but seek at all times to pursue its mission of providing low cost bond
+			 guarantees and loans while covering its costs, reserves as may be needed,
+			 and applying prudent underwriting standards;</text>
+							</clause>
+              <clause id="H077A0706B8F9493D99994F480D425561">
+                <enum>(iv)</enum>
+                <text>to only consider projects put forth by State and local governments and not to seek projects
+			 directly;</text>
+							</clause>
+              <clause id="HAEB8FE82B14D44238CBC359F5A25E232">
+                <enum>(v)</enum>
+                <text>to at all times make clear that no taxpayer money supports the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="American Infrastructure Fund" proposed="true">AIF</cato:entity-ref> or ever will; and</text>
+							</clause>
+              <clause id="HD087E5CDC86E47CFA7AAEBD56336CA1A">
+                <enum>(vi)</enum>
+                <text display-inline="yes-display-inline">to engage in no other activities other than those permitted under this subsection.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="H86BDF26958824CC1A97F87510FC2BA84">
+              <enum>(C)</enum>
+              <header>Membership</header>
+							<clause id="HB16D0996221A4CF38312EAA45EB1917F">
+                <enum>(i)</enum>
+                <header>Presidentially appointed members</header>
+                <text display-inline="yes-display-inline">Except as provided under clause (iii), 4 members of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> shall be appointed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>,
+			 by and with the advice and consent of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0010" entity-type="federal-body">Senate</cato:entity-ref>, and serve for a term of
+			 7 years.</text>
+							</clause>
+              <clause id="HD68F728B93214B7FBE9996C563877C1A">
+                <enum>(ii)</enum>
+                <header>Additional members</header>
+                <text display-inline="yes-display-inline">Except as provided under clause (iii), 7 members of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> shall be appointed by the current
+			 members of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> appointed pursuant to this clause or clause
+			 (iii)(II), and serve for a term of 7 years.</text>
+							</clause>
+              <clause commented="no" id="H0455D21A086E48F5A792B69DE67F449C">
+                <enum>(iii)</enum>
+                <header>Initial members</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> shall initially consist of the following members, who shall be appointed not later than
+			 the end of the 60-day period beginning on the date that bonds are issued
+			 under paragraph (5):</text>
+								<subclause commented="no" id="H0FB1C9D875D141F4A38AF0BF1264283E">
+                  <enum>(I)</enum>
+                  <text display-inline="yes-display-inline">Four members, appointed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>, by and with the advice and consent of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0010" entity-type="federal-body">Senate</cato:entity-ref>.</text>
+								</subclause>
+                <subclause commented="no" id="H3F999D415CE74056923777400609334A">
+                  <enum>(II)</enum>
+                  <text display-inline="yes-display-inline">Seven additional members, appointed one each by the seven entities purchasing the largest amount of
+			 bonds (by aggregate face amount of bonds purchased) under paragraph (5).</text>
+								</subclause>
+              </clause>
+              <clause id="HDF4C552B1DF3424688E876D3AB509AE9">
+                <enum>(iv)</enum>
+                <header>Staggered terms</header>
+                <text display-inline="yes-display-inline">The members of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> shall serve staggered terms, with 2 each of the initial members of the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> serving for terms of 4, 5, 6, 7, and 8 years, respectively, and the
+			 initial Chair selected under clause (v) serving for 9 years. The decision
+			 of which Board members, other than the Chair, serve for which initial
+			 terms shall be made by the members of the Board drawing lots.</text>
+							</clause>
+              <clause id="H8AD31A47E3DF4CB2B4DF917EE3D92603">
+                <enum>(v)</enum>
+                <header>Chair</header>
+                <text>The members of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> shall choose 1 member to serve as the Chair of the Board for a term of 7
+			 years, except that the initial Chair shall serve for a term of 7 years, as
+			 described under clause (iv).</text>
+							</clause>
+              <clause id="HD34EB7650FE842B186BEC4AC0A35AD7E">
+                <enum>(vi)</enum>
+                <header>Vacancies</header>
+                <text display-inline="yes-display-inline">Any member of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> appointed to fill a vacancy occurring before the expiration of the term to
+			 which that member's predecessor was appointed shall be appointed only for
+			 the remainder of the term.</text>
+							</clause>
+              <clause id="H97A6AFF644124741AC7E2CDB1E65B816">
+                <enum>(vii)</enum>
+                <header>Continuation of service</header>
+                <text>Each member of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> may continue to serve after the expiration of the term of office to which
+			 that member was appointed until a successor has been appointed.</text>
+							</clause>
+              <clause id="HA096FCB94DDF4199BF51601E3E0E13AA">
+                <enum>(viii)</enum>
+                <header>Conflicts of interest</header>
+                <text display-inline="yes-display-inline">No member of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> may have a financial interest in, or be employed by, a Qualified
+			 Infrastructure Project (<term>QIP</term>) related to assistance provided under this subsection or any entity that has purchased bonds under
+			 paragraph (5). Owning municipal credit of any State or local government or
+			 owning the securities of a diversified company that engages in
+			 infrastructure activities, provided those activities constitute less than
+			 20 percent of the company’s revenues, or investing in broadly held
+			 investment funds shall not be deemed to create a conflict of interest. The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> may issue regulations to define terms used under this clause.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="H10B0F721D17E434C91F2A6516E93F0AF">
+              <enum>(D)</enum>
+              <header>Compensation</header>
+              <text display-inline="yes-display-inline">The members of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> shall be compensated at an amount to be set by the Board, but under no
+			 circumstances may such compensation be higher than the rate prescribed for
+			 level IV of the Executive Schedule under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/5315">
+                  <external-xref legal-doc="usc" parsable-cite="usc/5/5315">section 5315</external-xref> of title 5, United
+			 States Code</cato:entity-ref>.</text>
+						</subparagraph>
+            <subparagraph id="HD5477269D02C4A77BAC9170D5289DF41">
+              <enum>(E)</enum>
+              <header>Staff</header>
+              <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> shall employ and set compensation for such staff as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> determines as is necessary
+			 to carry out the activities and mission of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="American Infrastructure Fund" proposed="true">AIF</cato:entity-ref>, and such staff may be
+			 paid without regard to the provisions of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/51">chapter 51</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/53/III">subchapter III of
+			 chapter 53, United States Code</cato:entity-ref>, relating to classification and General
+			 Schedule pay rates.</text>
+						</subparagraph>
+            <subparagraph id="HC3C8EA40B0494861B43B5C8B162801A8">
+              <enum>(F)</enum>
+              <header>Procedures</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> shall establish such procedures as are necessary to carry out this subsection.</text>
+						</subparagraph>
+            <subparagraph id="H134F216CEA0E44F082995E43044AA176">
+              <enum>(G)</enum>
+              <header>Corporate governance standards</header>
+							<clause id="H69186C33DECB4453933EA48271DDCDE5">
+                <enum>(i)</enum>
+                <header>Board committees generally</header>
+                <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> shall maintain all of the committees required to be maintained by the board of directors
+			 of an issuer listed on the New York Stock Exchange as of the date of the
+			 enactment of this subsection.</text>
+							</clause>
+              <clause id="HB3011E099DEB4528A92DB4F09FB3D811">
+                <enum>(ii)</enum>
+                <header>Risk management committee</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> shall maintain a risk management committee, which shall—</text>
+								<subclause id="H73BDC0FBE59E4465805EEB665779517F">
+                  <enum>(I)</enum>
+                  <text>consist of 4 members of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref>, with the initial 4 members consisting of 2 members appointed
+			 under paragraph (3)(C)(i) and 2 members appointed under subparagraph
+			 (C)(iii)(II);</text>
+								</subclause>
+                <subclause id="H3478E96E75764589AF679430C5122863">
+                  <enum>(II)</enum>
+                  <text display-inline="yes-display-inline">employ additional staff who are certified by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> as having significant and relevant
+			 experience in insurance underwriting and credit risk management; and</text>
+								</subclause>
+                <subclause id="H068F731C164246D08CF52C106ABC0271">
+                  <enum>(III)</enum>
+                  <text>establish the risk management policies used by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref>.</text>
+								</subclause>
+              </clause>
+              <clause id="H845F9EEB8A724C14940504B40E35B341">
+                <enum>(iii)</enum>
+                <header>Standards</header>
+                <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> shall, to the extent practicable, follow all standards with respect to corporate
+			 governance that are required to be followed by the board of directors of
+			 an issuer listed on the New York Stock Exchange as of the date of the
+			 enactment of this subsection.</text>
+							</clause>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="H76A6F6F8C8384378AC4AAA05BA8BBB4D">
+            <enum>(3)</enum>
+            <header>Infrastructure investment</header>
+						<subparagraph id="HB5807A5D59A243EA837FCFF2559EC37B">
+              <enum>(A)</enum>
+              <header>In general</header>
+              <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="American Infrastructure Fund" proposed="true">AIF</cato:entity-ref> shall provide bond guarantees to debt issued by State and local governments and non-profit
+			 infrastructure providers, make loans to States, local governments, and
+			 non-profit infrastructure providers, and make equity investments in
+			 projects sponsored by State and local governments and non-profit
+			 infrastructure provider to help Qualified Infrastructure Projects (<term>QIPs</term>). The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="American Infrastructure Fund" proposed="true">AIF</cato:entity-ref> may not make any loans or provide bond guaranties to for-profit entities.</text>
+						</subparagraph>
+            <subparagraph id="H82091DD4454249B1B9B2F2A0462BFBA6">
+              <enum>(B)</enum>
+              <header>Qualified Infrastructure Projects</header>
+              <text>A project qualifies as a QIP under this subsection if—</text>
+							<clause id="HB985946DD3744F88A47333F00C19B585">
+                <enum>(i)</enum>
+                <text>the project involves the construction, maintenance, improvement, or repair of a transportation,
+			 energy, water, communications, or educational facility; and</text>
+							</clause>
+              <clause id="HE8933806A68F40E2A5DB92CA03861AFE">
+                <enum>(ii)</enum>
+                <text display-inline="yes-display-inline">the recipient of bond guarantees, loans, equity investments, or any other financing technique
+			 authorized under this Act provides written assurances prescribed by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="American Infrastructure Fund" proposed="true">AIF</cato:entity-ref> that the project will be performed in compliance with the requirements
+			 of all Federal laws that would otherwise apply to similar projects to
+			 which the United States is a party.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="H5F8BD9C4AD7942EBAD24913F82DAF9C1">
+              <enum>(C)</enum>
+              <header>Application for assistance</header>
+							<clause id="H82542DAF26844FFAB5008D6059AABFE7">
+                <enum>(i)</enum>
+                <header>In general</header>
+                <text display-inline="yes-display-inline">A State or local government that wishes to receive a loan or bond guarantee under this subsection
+			 shall submit an application to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> in such form and manner and
+			 containing such information as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> may require.</text>
+							</clause>
+              <clause display-inline="no-display-inline" id="H2DFFFCC729CC45559353B05C0FD8B2F4">
+                <enum>(ii)</enum>
+                <header>Requirement for non-profit infrastructure providers to apply through State or local governments</header>
+                <text>A non-profit infrastructure provider may only receive a bond guarantee, loan, or equity investment
+			 under this subsection if the State or local government for the
+			 jurisdiction in which the non-profit infrastructure provider is located
+			 submits an application pursuant to clause (i) on behalf of such non-profit
+			 infrastructure provider.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="H8D28E25418D24DD68C26C250020D175C">
+              <enum>(D)</enum>
+              <header>Limitations on single State awards</header>
+							<clause id="H19AAB4FD41AC40EFA9C12F4A51E38F8C">
+                <enum>(i)</enum>
+                <header>Annual limitation</header>
+                <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> shall set an annual limit, as a percentage of total assistance provided under this
+			 subsection during a year, on the amount of assistance a single State
+			 (including local governments and other non-profit infrastructure providers
+			 within such State) may receive in assistance provided under this
+			 subsection.</text>
+							</clause>
+              <clause id="H0F90F49E252F48FB9D0AF137EED75578">
+                <enum>(ii)</enum>
+                <header>Cumulative limitation</header>
+                <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> shall set a limit, as a percentage of total assistance provided under this subsection
+			 outstanding at any one time, on the amount of assistance a single State
+			 (including local governments and other non-profit infrastructure providers
+			 within such State) may receive in assistance provided under this
+			 subsection.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="HEDECE9C4420E45BEAE547BAA35D98F57">
+              <enum>(E)</enum>
+              <header>Loan specifications</header>
+              <text display-inline="yes-display-inline">Loans made under this subsection shall have such maturity and carry such interest rate as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref>
+			 determines appropriate.</text>
+						</subparagraph>
+            <subparagraph id="HB055843AB14542D391FAE793E0E6BEB6">
+              <enum>(F)</enum>
+              <header>Bond guarantee</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> shall charge such fees for Bond guarantees made under this subsection as the Board
+			 determines appropriate.</text>
+						</subparagraph>
+            <subparagraph id="H55841CD24EB64B4484965FA028203285">
+              <enum>(G)</enum>
+              <header>Equity investments</header>
+              <text>With respect to a QIP, the amount of an equity investment made by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="American Infrastructure Fund" proposed="true">AIF</cato:entity-ref> in such QIP may not
+			 exceed 20 percent of the total cost of the QIP.</text>
+						</subparagraph>
+            <subparagraph id="H31A2BB3959A840D6B3471FD74D97E59E">
+              <enum>(H)</enum>
+              <header>Public-private partnership requirements</header>
+              <text>At least 25 percent of the assistance provided under this subsection shall be provided to QIPs for
+			 which at least 20 percent of the financing for such QIPs comes from
+			 private debt or equity.</text>
+						</subparagraph>
+            <subparagraph id="H5C521422087D40CC869A23ABF2C7CA17">
+              <enum>(I)</enum>
+              <header>Prohibition on principal forgiveness</header>
+              <text>With respect to a loan made under this subsection, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> may not forgive any amount of
+			 principal on such loan.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="HFE5A62822D244C658592EBA88D4D659A">
+            <enum>(4)</enum>
+            <header>American Infrastructure Bonds</header>
+						<subparagraph id="H8D6402AFAA72476082E36737F042DEC8">
+              <enum>(A)</enum>
+              <header>In general</header>
+              <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall, not later than the end of the 90-day period following the date of the
+			 enactment of this subsection and acting through the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="American Infrastructure Fund" proposed="true">AIF</cato:entity-ref>, issue bonds, to
+			 be called <term>American Infrastructure Bonds</term>, the proceeds from which shall be deposited into the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="American Infrastructure Fund" proposed="true">AIF</cato:entity-ref>.</text>
+						</subparagraph>
+            <subparagraph commented="no" id="HF2CEBAFC9FC1493F9C1B2A24CB3B4622">
+              <enum>(B)</enum>
+              <header>Forms and denominations; interest</header>
+              <text display-inline="yes-display-inline">American Infrastructure Bonds shall—</text>
+							<clause commented="no" id="H8D580C0D7B194264940068D340E2E379">
+                <enum>(i)</enum>
+                <text>be in such forms and denominations as determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>, and shall have a 50-year
+			 maturity; and</text>
+							</clause>
+              <clause commented="no" id="HD303BDFDA7EF468BB66C0CFF7C88E4CE">
+                <enum>(ii)</enum>
+                <text display-inline="yes-display-inline">bear interest of 1 percent.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="HA18348E98D88416DB97C11994FF55999">
+              <enum>(C)</enum>
+              <header>No full faith and credit</header>
+              <text display-inline="yes-display-inline">Interest and principal payments paid to holders of American Infrastructure Bonds shall be paid from
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="American Infrastructure Fund" proposed="true">AIF</cato:entity-ref>, to the extent funds are available, and shall not be backed by the
+			 full faith and credit of the United States.</text>
+						</subparagraph>
+            <subparagraph id="H6B51EB2DE6A9420CBEB525EB138A3895">
+              <enum>(D)</enum>
+              <header>Amount of bonds</header>
+              <text display-inline="yes-display-inline">The aggregate face amount of the bonds issued under this paragraph shall be $50,000,000,000.</text>
+						</subparagraph>
+            <subparagraph id="H9491CAC702AC4634ABA96FB0D5463DC3">
+              <enum>(E)</enum>
+              <header>Sale of American Infrastructure Bonds</header>
+							<clause id="H626041859FCD4FDA919FA9D5FA81BC62">
+                <enum>(i)</enum>
+                <header>Competitive bidding process</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall sell the $50,000,000,000 of American Infrastructure Bonds—</text>
+								<subclause id="H36BF6AD8516F40FDB3B3F6524D048390">
+                  <enum>(I)</enum>
+                  <text>through a competitive bidding process that encourages aggressive bidding;</text>
+								</subclause>
+                <subclause id="H2C92D5C14CE046CE8302C360B6403D65">
+                  <enum>(II)</enum>
+                  <text>in a manner so as to ensure that there are at least 7 different un-affiliated purchasers; and</text>
+								</subclause>
+                <subclause id="H28668D385C1B481CB8F013845B5904AE">
+                  <enum>(III)</enum>
+                  <text>with prospective purchasers bidding on how low of a multiplier they will accept (for purposes of
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:966/ss:b/p:1" proposed="true">subsection (b)(1) of <external-xref legal-doc="usc" parsable-cite="usc/26/966">section 966</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref>)
+			 when purchasing the American Infrastructure Bonds, for purposes of
+			 applying the foreign earnings exclusion described under that section.</text>
+								</subclause>
+              </clause>
+              <clause id="HB07FF8D458DD40CF9A288EC8D9B05AB5">
+                <enum>(ii)</enum>
+                <header>Limitation</header>
+                <text>The multiplier described under clause (i)(III) may not be greater than 6.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="H02BFA73ED88E4FE3B9D552791DD88C5A">
+              <enum>(F)</enum>
+              <header>Reimbursement of costs</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> shall repay the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>, from funds in the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="American Infrastructure Fund" proposed="true">AIF</cato:entity-ref>, for the costs to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> in
+			 carrying out this paragraph.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="HECFD521E0CCA4FDE859E59B4E85C183D">
+            <enum>(5)</enum>
+            <header>Additional bonds</header>
+						<subparagraph id="H0D53B64602C14C23A77C2E2F9054992F">
+              <enum>(A)</enum>
+              <header>In general</header>
+              <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> may issue such other bonds as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Board of Trustees of the American Infrastructure Fund" proposed="true">Board</cato:entity-ref> determines appropriate, the proceeds from which
+			 shall be deposited into the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="American Infrastructure Fund" proposed="true">AIF</cato:entity-ref>.</text>
+						</subparagraph>
+            <subparagraph id="H84C562BD44DC40FABA55DD61C55131B5">
+              <enum>(B)</enum>
+              <header>No full faith and credit</header>
+              <text>Interest and principal payments paid to holders of bonds issued pursuant to subparagraph (A) shall
+			 be paid from the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="American Infrastructure Fund" proposed="true">AIF</cato:entity-ref>, to the extent funds are available, and shall not be
+			 backed by the full faith and credit of the United States.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="H20AFBC9B13084EC2930E3F259D6A2755">
+            <enum>(6)</enum>
+            <header>Definitions</header>
+            <text>For purposes of this subsection—</text>
+						<subparagraph id="H70BB12E356AF4BCDA914E9C393A4965C">
+              <enum>(A)</enum>
+              <header>Bond guarantee</header>
+              <text display-inline="yes-display-inline">The term <term>bond guarantee</term> has the meaning given the term <term>loan guarantee</term> under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Federal Credit Reform Act of 1990/s:502">section 502 of the Federal Credit Reform Act of 1990</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/2/661a">
+                  <cato:entity-ref entity-type="uscode" value="usc/2/661a">2 U.S.C. 661a</cato:entity-ref>
+                </external-xref>)</cato:entity>.</text>
+						</subparagraph>
+            <subparagraph id="H5C2D7141BEB64D1E8F53AD7F64B991AD">
+              <enum>(B)</enum>
+              <header>Cost</header>
+              <text display-inline="yes-display-inline">With respect to a loan or a bond guarantee, the term <term>cost</term> has the meaning given such term under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Federal Credit Reform Act of 1990/s:502">section 502 of the Federal Credit Reform Act of 1990</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/2/661a">2
+			 U.S.C. 661a</cato:entity-ref>)</cato:entity>.</text>
+						</subparagraph>
+            <subparagraph id="HCBDD47B5B62246D891F7E7F1721F63CB">
+              <enum>(C)</enum>
+              <header>Non-profit infrastructure provider</header>
+              <text>The term <term>non-profit infrastructure provider</term> means a non-profit entity that seeks to finance a QIP.</text>
+						</subparagraph>
+            <subparagraph id="H6F92ACBDE2404AEF97FF563361C9AA55">
+              <enum>(D)</enum>
+              <header>Loan</header>
+              <text display-inline="yes-display-inline">The term <term>loan</term> has the meaning given the term <term>direct loan</term> under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Federal Credit Reform Act of 1990/s:502">section 502 of the Federal Credit Reform Act of 1990</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/2/661a">
+                  <cato:entity-ref entity-type="uscode" value="usc/2/661a">2 U.S.C. 661a</cato:entity-ref>
+                </external-xref>)</cato:entity>.</text>
+						</subparagraph>
+            <subparagraph id="H81B2D22921394CC7AD18498B94DD3EF9">
+              <enum>(E)</enum>
+              <header>Secretary</header>
+              <text>The term <term>Secretary</term> means the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2000" entity-type="federal-body">Secretary of the Treasury</cato:entity-ref>.</text>
+						</subparagraph>
+            <subparagraph id="H26BDB18A7CE24E07900EC376BD80EE62">
+              <enum>(F)</enum>
+              <header>State</header>
+              <text>The term <term>State</term> means each of the several States, the District of Columbia, any territory or possession of the
+			 United States, and each federally recognized Indian tribe.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection id="H716BD8863CC74B36ABDE3736A8CC4BE4">
+          <enum>(b)</enum>
+          <header>Foreign earnings exclusion for purchase of infrastructure bonds</header>
+					<paragraph id="HCFC94C9E5B8E46159DA3925D23FC11F7">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:N/pt:III/spt:F">Subpart F of part III of subchapter N of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended
+			 by adding at the end the following new section:</text>
+						<quoted-block display-inline="no-display-inline" id="HC47D76BCBAB54EDAB17EC0E5EE22C0D6" style="OLC">
+							<section id="HBD6BC24280E446358E67D6EF43ED660D">
+                <enum>966.</enum>
+                <header>Foreign earnings exclusion for purchase of infrastructure bonds</header>
+								<subsection id="HC8293B4DC912439D80754F2162257936">
+                  <enum>(a)</enum>
+                  <header>Exclusion</header>
+                  <text>In the case of a corporation which is a United States shareholder and for which the election under
+			 this section is in effect for the taxable year, gross income does not
+			 include an amount equal to the qualified cash dividend amount.</text>
+								</subsection>
+                <subsection id="HC3F5E26635C44C71ADFBAD7D9BB6B883">
+                  <enum>(b)</enum>
+                  <header>Qualified cash dividend amount</header>
+                  <text display-inline="yes-display-inline">For purposes of this section, the term <term>qualified cash dividend amount</term> means an amount of the cash dividends which are received during a taxable year by such shareholder
+			 from controlled foreign corporations equal to—</text>
+									<paragraph id="HB741CD890ABC47A2ACF9C0812B01D101">
+                    <enum>(1)</enum>
+                    <text display-inline="yes-display-inline">the multiplier determined under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Emergency Unemployment Compensation Extension Act of 2014/s:205/ss:a/p:4/sp:E" proposed="true">section 205(a)(4)(E) of the Emergency Unemployment Compensation
+			 Extension Act of 2014</cato:entity-ref> for such shareholder, multiplied by</text>
+									</paragraph>
+                  <paragraph id="HAC64960A8D0A4F62961A9FA58227614A">
+                    <enum>(2)</enum>
+                    <text>the face amount of qualified infrastructure bonds acquired at its original issue (directly or
+			 through an underwriter) by such shareholder.</text>
+									</paragraph>
+                </subsection>
+                <subsection id="H191AE6A3CF944BD4AD3E5CE10B391277">
+                  <enum>(c)</enum>
+                  <header>Limitations</header>
+									<paragraph id="HE919697348FC432E8E79AA1924658355">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+                    <text>The amount of dividends taken into account under subsection (a) for a taxable year shall not exceed
+			 the lesser of—</text>
+										<subparagraph id="H3854B2A4D81442B8A3503965A54504BA">
+                      <enum>(A)</enum>
+                      <text>the cash dividends received by the taxpayer for such taxable year, or</text>
+										</subparagraph>
+                    <subparagraph id="H97DA2A06865944F789D3B20DFC7EFF28">
+                      <enum>(B)</enum>
+                      <text>the amount shown on the applicable financial statement as earnings permanently reinvested outside
+			 the United States.</text>
+										</subparagraph>
+                  </paragraph>
+                  <paragraph id="HBF1F8A1512A744BFADE4F4FE65D43C88">
+                    <enum>(2)</enum>
+                    <header>Dividends must be extraordinary</header>
+                    <text display-inline="yes-display-inline">The amount of dividends taken into account under subsection (a) shall not exceed the excess (if
+			 any) of—</text>
+										<subparagraph id="H88C6AFC8F47043CF8C6838FDA613831E">
+                      <enum>(A)</enum>
+                      <text>the cash dividends received during the taxable year by such shareholder from controlled foreign
+			 corporations, over</text>
+										</subparagraph>
+                    <subparagraph id="H7C63F0FD0C0B43A383AF062BEC8026F2">
+                      <enum>(B)</enum>
+                      <text>the annual average for the base period years of the cash dividends received during each base period
+			 year by such shareholder from controlled foreign corporations.</text>
+										</subparagraph>
+                  </paragraph>
+                  <paragraph id="HA6AD414A8EED40A1B0485EC8C3DC0A0C">
+                    <enum>(3)</enum>
+                    <header>Reduction of benefit if increase in related party indebtedness</header>
+                    <text>The amount of dividends which would (but for this paragraph) be taken into account under subsection
+			 (a) shall be reduced by the excess (if any) of—</text>
+										<subparagraph id="H51402B72D57A4F46BCF4294E7D1E463A">
+                      <enum>(A)</enum>
+                      <text>the amount of indebtedness of the controlled foreign corporation to any related person (as defined
+			 in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:954/ss:d/p:3">section 954(d)(3)</cato:entity-ref>) as of the close of the taxable year for which the
+			 election under this section is in effect, over</text>
+										</subparagraph>
+                    <subparagraph commented="no" id="H278AA7E2314E41869AB6BEC4AA72691E">
+                      <enum>(B)</enum>
+                      <text>the amount of indebtedness of the controlled foreign corporation to any related person (as so
+			 defined) as of the close of the preceding taxable year.</text>
+										</subparagraph>
+                    <continuation-text continuation-text-level="paragraph">All controlled foreign corporations with respect to which the taxpayer is a United States
+			 shareholder shall be treated as 1 controlled foreign corporation for
+			 purposes of this subsection. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> may prescribe such regulations
+			 as may be necessary or appropriate to prevent the avoidance of the
+			 purposes of this subsection, including regulations which provide that cash
+			 dividends shall not be taken into account under subsection (a) to the
+			 extent such dividends are attributable to the direct or indirect transfer
+			 (including through the use of intervening entities or capital
+			 contributions) of cash or other property from a related person (as so
+			 defined) to a controlled foreign corporation.</continuation-text>
+                  </paragraph>
+                </subsection>
+                <subsection id="HE340E47A291243B68D7D11ADEDD654CF">
+                  <enum>(d)</enum>
+                  <header>Definitions and special rules</header>
+                  <text>For purposes of this section—</text>
+									<paragraph id="HFBE76C84FA684E88BFE26F731EB933EF">
+                    <enum>(1)</enum>
+                    <header>Qualified infrastructure bonds</header>
+                    <text display-inline="yes-display-inline">The term <term>qualified infrastructure bond</term> means a bond issued under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Emergency Unemployment Compensation Extension Act of 2014/s:205/ss:a/p:4" proposed="true">section 205(a)(4) of the Emergency Unemployment Compensation Extension
+			 Act of 2014</cato:entity-ref>.</text>
+									</paragraph>
+                  <paragraph id="HF594AC95F95140EF945A9D811A8D888D">
+                    <enum>(2)</enum>
+                    <header>Applicable financial statement</header>
+                    <text>The term <term>applicable financial statement</term> means, with respect to a taxable year—</text>
+										<subparagraph id="H773E7F5233D2499FAD1BCAD38B221150">
+                      <enum>(A)</enum>
+                      <text>with respect to a United States shareholder which is required to file a financial statement with
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="5000" entity-type="federal-body">Securities and Exchange Commission</cato:entity-ref> (or which is included in such a
+			 statement so filed by another person), the most recent audited annual
+			 financial statement (including the notes which form an integral part of
+			 such statement) of such shareholder (or which includes such shareholder)—</text>
+											<clause id="H4B96D2DB5D614D2795FD0F80E06A374F">
+                        <enum>(i)</enum>
+                        <text>which was so filed for such taxable year, and</text>
+											</clause>
+                      <clause id="H7E22C67CACDA4C2A9A62CF2431712DD9">
+                        <enum>(ii)</enum>
+                        <text>which is certified as being prepared in accordance with generally accepted accounting principles,
+			 and</text>
+											</clause>
+                    </subparagraph>
+                    <subparagraph id="H17DAB7F71E2F40E3A7931F5AFAFE6580">
+                      <enum>(B)</enum>
+                      <text>with respect to any other United States shareholder, the most recent audited financial statement
+			 (including the notes which form an integral part of such statement) of
+			 such shareholder (or which includes such shareholder)—</text>
+											<clause id="H52F851AECB6E4AB98289A8D19838246A">
+                        <enum>(i)</enum>
+                        <text>which is certified as being prepared in accordance with generally accepted accounting principles,
+			 and</text>
+											</clause>
+                      <clause id="H92821907784E41F68DFBCEFAAFB04710">
+                        <enum>(ii)</enum>
+                        <text>which is used for the purposes of a statement or report—</text>
+												<subclause id="H4AFBE5EDD78F4FCDA30A9818F9AFC977">
+                          <enum>(I)</enum>
+                          <text>to creditors,</text>
+												</subclause>
+                        <subclause id="HAF6B26B3B8994487BE5D445CD3451B61">
+                          <enum>(II)</enum>
+                          <text>to shareholders, or</text>
+												</subclause>
+                        <subclause id="H3E4D4179D098466C9DE7097E443C61DE">
+                          <enum>(III)</enum>
+                          <text>for any other substantial nontax purpose.</text>
+												</subclause>
+                      </clause>
+                    </subparagraph>
+                  </paragraph>
+                  <paragraph id="H4631BD2D7EAE4D6E97482ABBB26A0B35">
+                    <enum>(3)</enum>
+                    <header>Base period years</header>
+										<subparagraph id="HB2B981E84DBA47C2AD290A9DC758D123">
+                      <enum>(A)</enum>
+                      <header>In general</header>
+                      <text>The base period years are the 3 taxable years—</text>
+											<clause id="H231715B68245486687E1CD2FC04564E8">
+                        <enum>(i)</enum>
+                        <text>which are among the 5 most recent preceding taxable years ending before the taxable year, and</text>
+											</clause>
+                      <clause id="HD28830307FBB46A5ABF7B5C0A3682C47">
+                        <enum>(ii)</enum>
+                        <text>which are determined by disregarding—</text>
+												<subclause id="HF347029A51BF4D849CF572D714FDB627">
+                          <enum>(I)</enum>
+                          <text>1 taxable year for which the amount described in subsection (c)(2)(B) is the largest, and</text>
+												</subclause>
+                        <subclause id="HE62896B7458E49E98FB8EE199CFD3D91">
+                          <enum>(II)</enum>
+                          <text>1 taxable year for which such amount is the smallest.</text>
+												</subclause>
+                      </clause>
+                    </subparagraph>
+                    <subparagraph id="H94E31842632C4E619C5F713AE513AD6D">
+                      <enum>(B)</enum>
+                      <header>Shorter period</header>
+                      <text>If the taxpayer has fewer than 5 taxable years ending before the taxable year, then in lieu of
+			 applying subparagraph (A), the base period years shall include all the
+			 taxable years of the taxpayer ending before such taxable year.</text>
+										</subparagraph>
+                    <subparagraph id="HA5D2F25A1D0D490C88E9D6FBBB887379">
+                      <enum>(C)</enum>
+                      <header>Mergers, acquisitions, etc</header>
+											<clause id="H4E06DBDBFFEE4E0EAF14159CB1DD6A90">
+                        <enum>(i)</enum>
+                        <header>In general</header>
+                        <text>Rules similar to the rules of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:41/ss:f/p:3/sp:A">subparagraphs (A)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:41/ss:f/p:3/sp:B">(B) of section 41(f)(3)</cato:entity-ref> shall apply for
+			 purposes of this paragraph.</text>
+											</clause>
+                      <clause id="H7D50F7DC14274E4DAACC42B8EB301DEB">
+                        <enum>(ii)</enum>
+                        <header>Spin-offs, etc</header>
+                        <text>If there is a distribution to which <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:355">section 355</cato:entity-ref> (or so much of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:356">section 356</cato:entity-ref> as relates to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:355">section
+			 355</cato:entity-ref>) applies during the 5-year period referred to in subparagraph (A)(i)
+			 and the controlled corporation (within the meaning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:355">section 355</cato:entity-ref>) is a
+			 United States shareholder—</text>
+												<subclause id="H39EAF991B5134566A6FFF719878B4433">
+                          <enum>(I)</enum>
+                          <text>the controlled corporation shall be treated as being in existence during the period that the
+			 distributing corporation (within the meaning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:355">section 355</cato:entity-ref>) is in
+			 existence, and</text>
+												</subclause>
+                        <subclause id="H8495E913CA8E4D4D88D682D63BAADCA9">
+                          <enum>(II)</enum>
+                          <text>for purposes of applying subsection (c)(2) to the controlled corporation and the distributing
+			 corporation, amounts described in subsection (c)(2)(B) which are received
+			 or includible by the distributing corporation or controlled corporation
+			 (as the case may be) before the distribution referred to in subclause (I)
+			 from a controlled foreign corporation shall be allocated between such
+			 corporations in proportion to their respective interests as United States
+			 shareholders of such controlled foreign corporation immediately after such
+			 distribution.</text>
+												</subclause>
+                        <continuation-text continuation-text-level="clause">Subclause (II) shall not apply if neither the controlled corporation nor the distributing
+			 corporation is a United States shareholder of such controlled foreign
+			 corporation immediately after such distribution.</continuation-text>
+                      </clause>
+                    </subparagraph>
+                  </paragraph>
+                  <paragraph id="HC504EA2CA6E946839C73EF2680A03728">
+                    <enum>(4)</enum>
+                    <header>Dividend</header>
+                    <text>The term <term>dividend</term> shall not include amounts includible in gross income as a dividend under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:78">section 78</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:367">367</cato:entity-ref>, or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1248">1248</cato:entity-ref>.
+			 In the case of a liquidation under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:332">section 332</cato:entity-ref> to which <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:367/ss:b">section 367(b)</cato:entity-ref>
+			 applies, the preceding sentence shall not apply to the extent the United
+			 States shareholder actually receives cash as part of the liquidation.</text>
+									</paragraph>
+                  <paragraph id="H8B5363941EFA458E9E30D2CA13A9CD0A">
+                    <enum>(5)</enum>
+                    <header>Coordination with dividend received deduction</header>
+                    <text>No deduction shall be allowed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:243">section 243</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:245">245</cato:entity-ref> for any dividend which is excluded from
+			 income by subsection (a).</text>
+									</paragraph>
+                  <paragraph id="H5DCF27B8DAE84D508E30146A0DCD1B90">
+                    <enum>(6)</enum>
+                    <header>Controlled groups</header>
+                    <text>All United States shareholders which are members of an affiliated group filing a consolidated
+			 return under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1501">section 1501</cato:entity-ref> shall be treated as one United States
+			 shareholder.</text>
+									</paragraph>
+                  <paragraph id="HA4BFCCB076544A1DB537686318F9B817">
+                    <enum>(7)</enum>
+                    <header>Reporting</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall require by regulation or other guidance the reporting of such information as
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> may require to carry out this section.</text>
+									</paragraph>
+                </subsection>
+                <subsection id="H555E4FD882CE43DF9BF5BEFCE3FCF4FF">
+                  <enum>(e)</enum>
+                  <header>Denial of foreign tax credit; denial of certain expenses</header>
+									<paragraph id="H25D4A514F98D45B68E78CB9172A04709">
+                    <enum>(1)</enum>
+                    <header>Foreign tax credit</header>
+										<subparagraph id="HBFE2C0313EBC4E97803B1D4890BA0A91">
+                      <enum>(A)</enum>
+                      <header>In general</header>
+                      <text>No credit shall be allowed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:901">section 901</cato:entity-ref> for any taxes paid or accrued (or treated as paid or
+			 accrued) with respect to the excluded portion of any dividend.</text>
+										</subparagraph>
+                    <subparagraph id="H6303375BCC6D42F3BAAF4871F063C1CA">
+                      <enum>(B)</enum>
+                      <header>Denial of deduction of related tax</header>
+                      <text>No deduction shall be allowed under this chapter for any tax for which credit is not allowable by
+			 reason of the preceding sentence.</text>
+										</subparagraph>
+                  </paragraph>
+                  <paragraph id="H95EA428E106545A1AA34EB66EBE321AD">
+                    <enum>(2)</enum>
+                    <header>Expenses</header>
+                    <text>No deduction shall be allowed for expenses directly allocable to the excludable portion described
+			 in paragraph (1).</text>
+									</paragraph>
+                  <paragraph id="HC2DFF4B08792453B9F29B101CCC77BF6">
+                    <enum>(3)</enum>
+                    <header>Excludable portion</header>
+                    <text>For purposes of paragraph (1), unless the taxpayer otherwise specifies, the excludable portion of
+			 any dividend or other amount is the amount which bears the same ratio to
+			 the amount of such dividend or other amount as the amount excluded from
+			 income under subsection (a) for the taxable year bears to the amount
+			 described in subsection (c)(2)(A) for such year.</text>
+									</paragraph>
+                  <paragraph id="H51143540D1A54CFFBD50FBA58211BA6C">
+                    <enum>(4)</enum>
+                    <header>Coordination with section 78</header>
+                    <text>
+                      <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:78">Section 78</cato:entity-ref> shall not apply to any tax which is not allowable as a credit under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:901">section 901</cato:entity-ref> by
+			 reason of this subsection.</text>
+									</paragraph>
+                </subsection>
+                <subsection id="HE7588833B1EA49548B82353F83701938">
+                  <enum>(f)</enum>
+                  <header>Election To have section apply</header>
+                  <text>A taxpayer may elect to have this section apply for any taxable year.</text>
+								</subsection>
+              </section>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+          <paragraph id="H4698AA34708947899C9BA14E47CAE512">
+            <enum>(2)</enum>
+            <header>Clerical amendment</header>
+            <text>The table of sections for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:N/pt:III/spt:F">subpart F of part III of subchapter N of chapter 1 of such Code</cato:entity-ref> is
+			 amended by adding at the end the following new item:</text>
+						<quoted-block display-inline="no-display-inline" id="HBBADE74C421446F29499BBC00D9EAB37" style="OLC">
+							<toc container-level="quoted-block-container" idref="HC47D76BCBAB54EDAB17EC0E5EE22C0D6" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+								<toc-entry idref="HBD6BC24280E446358E67D6EF43ED660D" level="section">Sec. 966. Foreign earnings exclusion for purchase of infrastructure bonds.</toc-entry>
+							</toc>
+							<after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+          <paragraph id="H27FEA034BB834C689B96AE8DA9883628">
+            <enum>(3)</enum>
+            <header>Effective date</header>
+            <text>The amendments made by this section shall apply to dividends received for taxable years ending
+			 after the date of the enactment of this Act.</text>
+					</paragraph>
+        </subsection>
+      </section>
+      <section commented="no" id="HA093DBD7E2434769BF6A2BD1FC275477">
+        <enum>206.</enum>
+        <header>Keystone XL pipeline</header>
+        <text display-inline="no-display-inline">Notwithstanding Executive Order No. 13337 (<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/3/301/note">
+            <external-xref legal-doc="usc" parsable-cite="usc/3/301">
+            3 U.S.C. 301
+          </external-xref> note</cato:entity-ref>), Executive Order No. 11423 (<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/3/301/note">3 U.S.C.
+			 301 note</cato:entity-ref>), <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/3/301">
+            <external-xref legal-doc="usc" parsable-cite="usc/3/301">section 301</external-xref> of title 3, United States Code</cato:entity-ref>, and any other
+			 Executive order or provision of law, no Presidential permit shall be
+			 required to authorize the construction, connection, operation, and
+			 maintenance of border crossing facilities for the pipeline described in
+			 the application filed on May 4, 2012, by TransCanada Keystone Pipeline,
+			 L.P., to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1900" entity-type="federal-body">Department of State</cato:entity-ref> for the Keystone XL pipeline, for the
+			 importation of crude oil to be located at the United States-Canada Border.</text>
+			</section>
+    </title>
+  </legis-body>
+</bill>
+</doc>
