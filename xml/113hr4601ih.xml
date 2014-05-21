@@ -1,0 +1,394 @@
+<doc>
+  <docmeta id="113hr4601ih">
+    <bill congress="113" type="hr" number="4601" version="ih"/>
+    <revision size="16599" annotations="0" status="complete" id="3" commit-time="2014-05-19T21:33:06Z" committer="mbohmer" doc="113hr4601ih/3.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" dms-id="HC900CFD7A9544DB3AD723DC65F997E44" public-private="public" bill-type="olc"> 
+<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 4601 IH: DRIVE Now Act of 2014</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-05-07</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code> 
+<congress>113th CONGRESS</congress>
+<session>2d Session</session>
+<legis-num>H. R. 4601</legis-num> 
+<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<action> 
+<action-date date="20140507">May 7, 2014</action-date> 
+<action-desc>
+        <sponsor name-id="K000382">Ms. Kuster</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name>, and in addition to the Committees on <committee-name committee-id="HWM00">Ways and Means</committee-name> and <committee-name committee-id="HAG00">Agriculture</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned</action-desc>
+</action> 
+<legis-type>A BILL</legis-type> 
+<official-title>To provide additional funding for the Highway Trust Fund, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H217B78CBD223472EB3B1A07CC5BBABE7" style="OLC"> 
+<section id="H272CA3ACDBCD4F46AF1623C72E761CFA" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title; table of contents</header> 
+<subsection id="HC31CE64059314EA1815E09DA7BF8D382">
+        <enum>(a)</enum>
+        <header>Short title</header>
+        <text display-inline="yes-display-inline">This Act may be cited as the <quote>
+            <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Deficit Reduction for Infrastructure, Value, and Efficiency Now Act of 2014" proposed="true">Deficit Reduction for Infrastructure, Value, and Efficiency Now Act of 2014</cato:entity-ref>
+            </short-title>
+          </quote> or the <quote>DRIVE Now Act of 2014</quote>. </text>
+      </subsection> 
+<subsection id="H965023E4CB844251940FC9E278FE97E3">
+        <enum>(b)</enum>
+        <header>Table of contents</header>
+        <text display-inline="yes-display-inline">The table of contents for this Act is as follows:</text> 
+<toc container-level="legis-body-container" quoted-block="no-quoted-block" lowest-level="section" regeneration="yes-regeneration" lowest-bolded-level="division-lowest-bolded">
+<toc-entry idref="H272CA3ACDBCD4F46AF1623C72E761CFA" level="section">Sec. 1. Short title; table of contents.</toc-entry> 
+<toc-entry idref="H00E04C69FB304E598F852E54309DE865" level="title">Title I—Highway Trust Fund</toc-entry> 
+<toc-entry idref="HC4E62CE5C8604A398C7164DEA757EBB9" level="section">Sec. 101. Funding of Highway Trust Fund.</toc-entry> 
+<toc-entry idref="H3E3368D36CB343479685517864CD3059" level="title">Title II—Cost Reduction Measures</toc-entry> 
+<toc-entry idref="HE9C7B386654D403EBCA6F2E7F37F7729" level="subtitle">Subtitle A—Data Center Consolidation</toc-entry> 
+<toc-entry idref="H328AD700E1094400AD8311C43CAF77A5" level="section">Sec. 201. Purpose.</toc-entry> 
+<toc-entry idref="HD20362D8FA6745BBBAFC8A9502005200" level="section">Sec. 202. Definitions.</toc-entry> 
+<toc-entry idref="H011AB7109CCC47718A5CD78144A0DCFB" level="section">Sec. 203. Federal Data Center Optimization Initiative.</toc-entry> 
+<toc-entry idref="H3E09CCACA4DA414A9074541A9CCC443F" level="section">Sec. 204. Performance requirements related to data center consolidation.</toc-entry> 
+<toc-entry idref="H8FF627AF070C42F5AF6ED7B88A154B09" level="section">Sec. 205. Cost savings related to data center optimization.</toc-entry> 
+<toc-entry idref="HFE527E42058C4FA89EE5B07C11F45A42" level="section">Sec. 206. Reporting requirements to Congress and the Federal Chief Information Officer.</toc-entry> 
+<toc-entry idref="H6EB998E6625B4F5596915F5DCCE152A9" level="section">Sec. 207. Reduction and consolidation of data centers.</toc-entry> 
+<toc-entry idref="HA59859796A6C45C485FD47DDB934BD00" level="subtitle">Subtitle B—Repeal of Duplicative Catfish Inspection Program</toc-entry> 
+<toc-entry idref="H95B6B723D8F540A299B0F383975A0EFC" level="section">Sec. 211. Repeal of duplicative catfish inspection program.</toc-entry> 
+<toc-entry idref="H7502CC4183E9458DA9E35FE1C46AA6F3" level="subtitle">Subtitle C—Closing Empty Bank Accounts</toc-entry> 
+<toc-entry idref="HC8727A6054FB4900B80BCCB2774DCA1D" level="section">Sec. 221. Documenting and closing long-empty Federal bank accounts.</toc-entry> </toc>
+      </subsection>
+    </section> 
+<title id="H00E04C69FB304E598F852E54309DE865">
+      <enum>I</enum>
+      <header>Highway Trust Fund</header> 
+<section id="HC4E62CE5C8604A398C7164DEA757EBB9">
+        <enum>101.</enum>
+        <header>Funding of Highway Trust Fund</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:9503/ss:f">
+            <external-xref legal-doc="usc" parsable-cite="usc/26/9503">Section 9503(f)</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended—</text> 
+<paragraph id="H235123126B5C4E8499EC85DC6497497B">
+          <enum>(1)</enum>
+          <text>by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:9503/ss:f/p:5">paragraph (5)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:9503/ss:f/p:6" proposed="true">paragraph (6)</cato:entity-ref>; and</text>
+        </paragraph> 
+<paragraph id="H6BD1E5341E5E4791AEC3C1D54E7CB902">
+          <enum>(2)</enum>
+          <text>by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:9503/ss:f/p:4">paragraph (4)</cato:entity-ref> the following:</text> 
+<quoted-block style="OLC" id="H32DA41F60C8041F58E56D93BF7291741" display-inline="no-display-inline"> 
+<paragraph id="H89BE05DFC6B74768B220AAA46C11F846">
+              <enum>(5)</enum>
+              <header>Additional sums</header>
+              <text display-inline="yes-display-inline">Out of money in the Treasury not otherwise appropriated, there is hereby appropriated $5,000,000,000 to the Highway Account (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:9503/ss:e/p:5/sp:B">subsection (e)(5)(B)</cato:entity-ref>) in the Highway Trust Fund.</text>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </section>
+    </title> 
+<title id="H3E3368D36CB343479685517864CD3059">
+      <enum>II</enum>
+      <header>Cost Reduction Measures</header> 
+<subtitle id="HE9C7B386654D403EBCA6F2E7F37F7729">
+        <enum>A</enum>
+        <header>Data Center Consolidation</header> 
+<section id="H328AD700E1094400AD8311C43CAF77A5" section-type="subsequent-section">
+          <enum>201.</enum>
+          <header>Purpose</header>
+          <text display-inline="no-display-inline">The purpose of this subtitle is to optimize Federal data center usage and efficiency.</text> </section> 
+<section id="HD20362D8FA6745BBBAFC8A9502005200">
+          <enum>202.</enum>
+          <header>Definitions</header>
+          <text display-inline="no-display-inline">In this subtitle:</text> 
+<paragraph id="H3D2DF3180D06494BB078D7A982C44ECB">
+            <enum>(1)</enum>
+            <header>Federal Data Center Optimization Initiative</header>
+            <text display-inline="yes-display-inline">The term <term>Federal Data Center Optimization Initiative</term> or the <term>Initiative</term> means the initiative developed and implemented by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director of the Office of Management and Budget</cato:entity-ref>, through the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Federal Chief Information Officer</cato:entity-ref>, as required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Deficit Reduction for Infrastructure, Value, and Efficiency Now Act of 2014/s:203" proposed="true">section 203</cato:entity-ref>.</text> </paragraph> 
+<paragraph id="HA32C325E3A0C4CC7A4576187E6E1966D">
+            <enum>(2)</enum>
+            <header>Covered agency</header>
+            <text display-inline="yes-display-inline">The term <term>covered agency</term> means any agency included in the Federal Data Center Optimization Initiative.</text> </paragraph> 
+<paragraph id="H81D3CA493EB544C48B6ED58FC1B8FA65">
+            <enum>(3)</enum>
+            <header>Federal Chief Information Officer</header>
+            <text display-inline="yes-display-inline">The term <term>Federal Chief Information Officer</term> means the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Administrator of the Office of Electronic Government</cato:entity-ref> established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3602">
+                <external-xref legal-doc="usc" parsable-cite="usc/44/3602">section 3602</external-xref> of title 44, United States Code</cato:entity-ref>.</text> </paragraph> 
+<paragraph id="HCACE2B26F9554CFBBB71C273CA5E1298">
+            <enum>(4)</enum>
+            <header>Data center</header>
+            <text display-inline="yes-display-inline">The term <term>data center</term> means a closet, room, floor, or building for the storage, management, and dissemination of data and information, as defined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Federal Chief Information Officer</cato:entity-ref> under guidance issued pursuant to this section.</text> </paragraph> 
+<paragraph id="H9E2BF7F017144704A4D1A7F841680885">
+            <enum>(5)</enum>
+            <header>Federal data center</header>
+            <text>The term <term>Federal data center</term> means any data center of a covered agency used or operated by a covered agency, by a contractor of a covered agency, or by another organization on behalf of a covered agency.</text> </paragraph> 
+<paragraph id="H67FA4F2FC381461C8434CD91C0DA4C1C">
+            <enum>(6)</enum>
+            <header>Server utilization</header>
+            <text>The term <term>server utilization</term> refers to the activity level of a server relative to its maximum activity level, expressed as a percentage.</text> </paragraph> 
+<paragraph id="H4314BAEA7AB94377AB1A04C7A093E004">
+            <enum>(7)</enum>
+            <header>Power usage effectiveness</header>
+            <text>The term <term>power usage effectiveness</term> means the ratio obtained by dividing the total amount of electricity and other power consumed in running a data center by the power consumed by the information and communications technology in the data center.</text> </paragraph>
+        </section> 
+<section id="H011AB7109CCC47718A5CD78144A0DCFB">
+          <enum>203.</enum>
+          <header>Federal Data Center Optimization Initiative</header> 
+<subsection commented="no" id="H2741CC94B19D4FF4924739BD240A73C4">
+            <enum>(a)</enum>
+            <header>Requirement for initiative</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Federal Chief Information Officer</cato:entity-ref>, in consultation with the chief information officers of covered agencies, shall develop and implement an initiative, to be known as the Federal Data Center Optimization Initiative, to optimize the usage and efficiency of Federal data centers by meeting the requirements of this Act and taking additional measures, as appropriate.</text> </subsection> 
+<subsection id="HCCE5D4C49DF04F1AAB990AAD5058B4C2">
+            <enum>(b)</enum>
+            <header>Requirement for plan</header>
+            <text display-inline="yes-display-inline">Within 6 months after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Federal Chief Information Officer</cato:entity-ref>, in consultation with the chief information officers of covered agencies, shall develop and submit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a plan for implementation of the Initiative required by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Deficit Reduction for Infrastructure, Value, and Efficiency Now Act of 2014/s:203/ss:a" proposed="true">subsection (a)</cato:entity-ref> by each covered agency. In developing the plan, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Federal Chief Information Officer</cato:entity-ref> shall take into account the findings and recommendations of the Comptroller General review required by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Deficit Reduction for Infrastructure, Value, and Efficiency Now Act of 2014/s:205/ss:e" proposed="true">section 205(e)</cato:entity-ref>.</text> </subsection> 
+<subsection id="H8F50C9DA812043DB9C0822104EDD7B69">
+            <enum>(c)</enum>
+            <header>Matters covered</header>
+            <text>The plan shall include—</text> 
+<paragraph id="HEA76C89FEEE64FE494678636EF0FAA0B">
+              <enum>(1)</enum>
+              <text>descriptions of how covered agencies will use reductions in floor space, energy use, infrastructure, equipment, applications, personnel, increases in multiorganizational use, and other appropriate methods to meet the requirements of the initiative; and</text> </paragraph> 
+<paragraph id="HC6B80F8B9BC044059196E61EE7B6DC63">
+              <enum>(2)</enum>
+              <text>appropriate consideration of shifting federally owned data centers to commercially owned data centers.</text> </paragraph>
+          </subsection>
+        </section> 
+<section id="H3E09CCACA4DA414A9074541A9CCC443F">
+          <enum>204.</enum>
+          <header>Performance requirements related to data center consolidation</header> 
+<subsection id="H48F4158937DD497B98D426F42DA785DD">
+            <enum>(a)</enum>
+            <header>Server utilization</header>
+            <text>Each covered agency may use the following methods to achieve the maximum server utilization possible as determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Federal Chief Information Officer</cato:entity-ref>:</text> 
+<paragraph id="HDFA683040531444CA358E8F95CC29FA4">
+              <enum>(1)</enum>
+              <text>The closing of existing data centers that lack adequate server utilization, as determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Federal Chief Information Officer</cato:entity-ref>. If the agency fails to close such data centers, the agency shall provide a detailed explanation as to why this data center should remain in use as part of the submitted plan. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Federal Chief Information Officer</cato:entity-ref> shall include an assessment of the agency explanation in the annual report to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>.</text> </paragraph> 
+<paragraph id="HF3C1F860E54D45F49C587598FB5693AD">
+              <enum>(2)</enum>
+              <text>The consolidation of services within existing data centers to increase server utilization rates.</text> </paragraph> 
+<paragraph id="H19ED2A89C8024124A0D8AFC3546F8A02">
+              <enum>(3)</enum>
+              <text>Any other method that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Federal Chief Information Officer</cato:entity-ref>, in consultation with the chief information officers of covered agencies, determines necessary to optimize server utilization.</text> </paragraph>
+          </subsection> 
+<subsection id="H8B7C15C1F8224C989721DD80999FA3A7">
+            <enum>(b)</enum>
+            <header>Power usage effectiveness</header>
+            <text>Each covered agency may use the following methods to achieve the maximum energy efficiency possible as determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Federal Chief Information Officer</cato:entity-ref>:</text> 
+<paragraph id="H3AE7E2BD42804CF38657E9549A51209A">
+              <enum>(1)</enum>
+              <text>The use of the measurement of power usage effectiveness to calculate data center energy efficiency.</text> </paragraph> 
+<paragraph id="HED3BA1114EAF4F71956C30B2E1D6C960">
+              <enum>(2)</enum>
+              <text>The use of power meters in data centers to frequently measure power consumption over time.</text> </paragraph> 
+<paragraph id="HC251D47666824BB2925025F664A46607">
+              <enum>(3)</enum>
+              <text>The establishment of power usage effectiveness goals for each data center.</text> </paragraph> 
+<paragraph id="HB87F3624BD2A41A391C18E0EE71BD82D">
+              <enum>(4)</enum>
+              <text>The adoption of best practices for managing—</text> 
+<subparagraph id="HD9AAB189D0434561B777C5F8B0F0FF58">
+                <enum>(A)</enum>
+                <text>temperature and airflow in data centers; and</text> </subparagraph> 
+<subparagraph id="HE58617C738FB4AA68308B62EB18473FA">
+                <enum>(B)</enum>
+                <text>power supply efficiency.</text> </subparagraph>
+            </paragraph> 
+<paragraph id="H1574E20FD7DB426BBC9E6A9EB08F0C0A">
+              <enum>(5)</enum>
+              <text>The implementation of any other method that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Federal Chief Information Officer</cato:entity-ref>, in consultation with the Chief Information Officers of covered agencies, determines necessary to optimize data center energy efficiency.</text> </paragraph>
+          </subsection>
+        </section> 
+<section id="H8FF627AF070C42F5AF6ED7B88A154B09">
+          <enum>205.</enum>
+          <header>Cost savings related to data center optimization</header> 
+<subsection id="HA8B4EC925ED34F04AEC0A4ADB44FDB38">
+            <enum>(a)</enum>
+            <header>Requirement To track costs</header> 
+<paragraph id="HDADD75352C4B48A0AC7097032AA26FDC">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text>Each covered agency shall track costs resulting from implementation of the Federal Data Center Optimization Initiative within the agency and submit a report on those costs annually to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Federal Chief Information Officer</cato:entity-ref>. Covered agencies shall determine the net costs from data consolidation on an annual basis.</text> </paragraph> 
+<paragraph id="H685A1DA4BA904ACCB42835CCCFDB1D5C">
+              <enum>(2)</enum>
+              <header>Factors</header>
+              <text>In calculating net costs each year under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Deficit Reduction for Infrastructure, Value, and Efficiency Now Act of 2014/s:205/ss:a/p:1" proposed="true">paragraph (1)</cato:entity-ref>, a covered agency shall use the following factors:</text> 
+<subparagraph id="HCEADC5953D2445BCA524B11A7EE6FA0E">
+                <enum>(A)</enum>
+                <text>Energy costs.</text> </subparagraph> 
+<subparagraph id="H2C66ECAAAF0D4237A258681DEACCAE20">
+                <enum>(B)</enum>
+                <text>Personnel costs.</text> </subparagraph> 
+<subparagraph id="HDE24FFC8440F4C08A8D4AF0029CE55EA">
+                <enum>(C)</enum>
+                <text>Real estate costs.</text> </subparagraph> 
+<subparagraph id="HBCE35BCAE0C947D789779FD5705417F3">
+                <enum>(D)</enum>
+                <text>Capital expense costs.</text> </subparagraph> 
+<subparagraph id="HACD7AD6D1E3E425BBC39C4E6FE3C13EB">
+                <enum>(E)</enum>
+                <text>Operating system, database, and other software license expense costs.</text> </subparagraph> 
+<subparagraph id="HA34FF5851D3E49B199DAAA75373DDA61">
+                <enum>(F)</enum>
+                <text>Other appropriate costs, as determined by the agency in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Federal Chief Information Officer</cato:entity-ref>.</text> </subparagraph>
+            </paragraph>
+          </subsection> 
+<subsection id="HD90863D9DC9249B8A3A21E6CC870C4E6">
+            <enum>(b)</enum>
+            <header>Requirement To track savings</header> 
+<paragraph id="H64812E07793B48D3AB1405F5CB2B49BD">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text>Each covered agency shall track savings resulting from implementation of the Federal Data Center Optimization Initiative within the agency and submit a report on those savings annually to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Federal Chief Information Officer</cato:entity-ref>. Covered agencies shall determine the net savings from data consolidation on an annual basis.</text> </paragraph> 
+<paragraph id="H29DC07DCCD2C4C0492DA0F1AE41A1322">
+              <enum>(2)</enum>
+              <header>Factors</header>
+              <text>In calculating net savings each year under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Deficit Reduction for Infrastructure, Value, and Efficiency Now Act of 2014/s:205/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>, a covered agency shall use the following factors:</text> 
+<subparagraph id="H07299287E43A42C69F675BBAACAF8793">
+                <enum>(A)</enum>
+                <text>Energy savings.</text> </subparagraph> 
+<subparagraph id="H6B999AE8186F410EA6CEFFA81975A065">
+                <enum>(B)</enum>
+                <text>Personnel savings.</text> </subparagraph> 
+<subparagraph id="H2D2B14B9D02C414E93FC04A293D1DFDD">
+                <enum>(C)</enum>
+                <text>Real estate savings.</text> </subparagraph> 
+<subparagraph id="H4F12EA3B5F5C4A209C862ED4B7A3EFFD">
+                <enum>(D)</enum>
+                <text>Capital expense savings.</text> </subparagraph> 
+<subparagraph id="HA5151698D0E240599F1FFAD4EC65BE5D">
+                <enum>(E)</enum>
+                <text>Operating system, database, and other software license expense savings.</text> </subparagraph> 
+<subparagraph id="H1778985D990E48989CFE85CED3056918">
+                <enum>(F)</enum>
+                <text>Other appropriate savings, as determined by the agency in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Federal Chief Information Officer</cato:entity-ref>.</text> </subparagraph>
+            </paragraph>
+          </subsection> 
+<subsection id="H7CDE72DBDC6844E9AB135158477F20BA">
+            <enum>(c)</enum>
+            <header>Requirement To use cost-Effective measures</header>
+            <text>Covered agencies shall use the most cost-effective measures to implement the Federal Data Center Optimization Initiative.</text> </subsection> 
+<subsection id="H74E61CF30C954881BB3CC203632C36D5">
+            <enum>(d)</enum>
+            <header>Use of savings</header>
+            <text>Any savings resulting from implementation of the Federal Data Center Optimization Initiative within a covered agency shall be used for the following purposes:</text> 
+<paragraph id="HBAAE761723674244BBB60BBF5558101A">
+              <enum>(1)</enum>
+              <text>To offset the costs of implementing the Initiative within the agency.</text> </paragraph> 
+<paragraph id="H1A5DD911059147009A1EEA1C1526D0B7">
+              <enum>(2)</enum>
+              <text>To further enhance information technology capabilities and services within the agency.</text> </paragraph>
+          </subsection> 
+<subsection id="H9389EEADD8B84CEFBBA1832C14C7BAE2">
+            <enum>(e)</enum>
+            <header>Government accountability office review</header>
+            <text display-inline="yes-display-inline">Not later than 3 months after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0500">Comptroller General of the United States</cato:entity-ref> shall examine methods for calculating savings from the Federal Data Center Optimization Initiative and using them for the purposes identified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Deficit Reduction for Infrastructure, Value, and Efficiency Now Act of 2014/s:205/ss:d" proposed="true">subsection (d)</cato:entity-ref>, including establishment and use of a special revolving fund that supports data centers and server optimization, and shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Federal Chief Information Officer</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a report on the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0500">Comptroller General’s</cato:entity-ref> findings and recommendations.</text> </subsection>
+        </section> 
+<section id="HFE527E42058C4FA89EE5B07C11F45A42">
+          <enum>206.</enum>
+          <header>Reporting requirements to Congress and the Federal Chief Information Officer</header> 
+<subsection id="H4B10B8D5CFF144758CD25977A4321E18">
+            <enum>(a)</enum>
+            <header>Agency Requirement To report to CIO</header>
+            <text display-inline="yes-display-inline">Each year, each covered agency shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Federal Chief Information Officer</cato:entity-ref> a report on the implementation of the Federal Data Center Optimization Initiative, including savings resulting from such implementation. The report shall include an update of the agency’s plan for implementing the Initiative.</text> </subsection> 
+<subsection id="HD55516F91D7F4B3897ED7CAA8C605A25">
+            <enum>(b)</enum>
+            <header>Federal Chief Information Officer requirement To report to Congress</header>
+            <text>Each year, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Federal Chief Information Officer</cato:entity-ref> shall submit to the relevant congressional committees a report that assesses agency progress in carrying out the Federal Data Center Optimization Initiative and updates the plan under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Deficit Reduction for Infrastructure, Value, and Efficiency Now Act of 2014/s:113" proposed="true">section 113</cato:entity-ref>. The report may be included as part of the annual report required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3606">
+                <external-xref legal-doc="usc" parsable-cite="usc/44/3606">section 3606</external-xref> of title 44, United States Code</cato:entity-ref>.</text> </subsection>
+        </section> 
+<section id="H6EB998E6625B4F5596915F5DCCE152A9">
+          <enum>207.</enum>
+          <header>Reduction and consolidation of data centers</header> 
+<subsection id="H4625D2BE3BBA4F7AB0A6939481524FE4">
+            <enum>(a)</enum>
+            <header>OMB recommendation</header>
+            <text>Not later than 6 months after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director of the Office of Management and Budget</cato:entity-ref>, in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="4700">Administrator of General Services</cato:entity-ref> and the heads of other executive agencies, shall issue recommendations for reducing or consolidating the number of Federal data centers in existence as of the date of the enactment of this Act—</text> 
+<paragraph id="HAFBAC3328B584409902BFB14613A47D5">
+              <enum>(1)</enum>
+              <text>by at least 40 percent not later than September 30, 2018; and</text> </paragraph> 
+<paragraph id="H0DA3E500C3204984809FB545461EC43B">
+              <enum>(2)</enum>
+              <text>by at least 80 percent not later than September 30, 2023.</text> </paragraph>
+          </subsection> 
+<subsection id="H41BC36B5147F49BEAAC85AD0279D533C">
+            <enum>(b)</enum>
+            <header>Reduction of data centers</header>
+            <text>Not later than 6 months after the issuance of recommendations by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1103">Director</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Deficit Reduction for Infrastructure, Value, and Efficiency Now Act of 2014/s:207/ss:a" proposed="true">subsection (a)</cato:entity-ref>, the head of each executive agency shall implement the recommendations by reducing the number of Federal data centers in accordance with such recommendations.</text> </subsection>
+        </section>
+      </subtitle> 
+<subtitle id="HA59859796A6C45C485FD47DDB934BD00">
+        <enum>B</enum>
+        <header>Repeal of Duplicative Catfish Inspection Program</header> 
+<section id="H95B6B723D8F540A299B0F383975A0EFC" section-type="section-one">
+          <enum>211.</enum>
+          <header>Repeal of duplicative catfish inspection program</header> 
+<subsection id="H3BB7A5167C78462CBF61D15508B6A354">
+            <enum>(a)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">Effective on the date of the enactment of the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Food, Conservation, and Energy Act of 2008">Food, Conservation, and Energy Act of 2008</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/7/8701">
+                  <cato:entity-ref entity-type="uscode" value="usc/7/8701/etseq">7 U.S.C. 8701 et seq.</cato:entity-ref>
+                </external-xref>)</cato:entity>, <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Food, Conservation, and Energy Act of 2008/s:11016">section 11016 of such Act</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/110/246">
+                  <cato:entity-ref entity-type="public-law" value="public-law/110/246">Public Law 110–246</cato:entity-ref>
+                </external-xref>; <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/122/2130">122 Stat. 2130</cato:entity-ref>)</cato:entity> and the amendments made by such section are repealed.</text> </subsection> 
+<subsection commented="no" display-inline="no-display-inline" id="HBBA90BDF65384998B8474886C951A735">
+            <enum>(b)</enum>
+            <header>Application</header>
+            <text display-inline="yes-display-inline">The <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Agricultural Marketing Act of 1946">Agricultural Marketing Act of 1946</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/7/1621">
+                  <cato:entity-ref entity-type="uscode" value="usc/7/1621/etseq">7 U.S.C. 1621 et seq.</cato:entity-ref>
+                </external-xref>)</cato:entity> and the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Federal Meat Inspection Act">Federal Meat Inspection Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/21/601">
+                  <cato:entity-ref entity-type="uscode" value="usc/21/601/etseq">21 U.S.C. 601 et seq.</cato:entity-ref>
+                </external-xref>)</cato:entity> shall be applied and administered as if <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Food, Conservation, and Energy Act of 2008/s:11016">section 11016</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/110/246">
+                  <cato:entity-ref entity-type="public-law" value="public-law/110/246">Public Law 110–246</cato:entity-ref>
+                </external-xref>; <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/122/2130">122 Stat. 2130</cato:entity-ref>) of the Food, Conservation, and Energy Act of 2008 (<external-xref legal-doc="usc" parsable-cite="usc/7/8701">
+                  <cato:entity-ref entity-type="uscode" value="usc/7/8701/etseq">7 U.S.C. 8701 et seq.</cato:entity-ref>
+                </external-xref>)</cato:entity> and the amendments made by such section had not been enacted.</text> </subsection>
+        </section>
+      </subtitle> 
+<subtitle id="H7502CC4183E9458DA9E35FE1C46AA6F3">
+        <enum>C</enum>
+        <header>Closing Empty Bank Accounts</header> 
+<section id="HC8727A6054FB4900B80BCCB2774DCA1D">
+          <enum>221.</enum>
+          <header>Documenting and closing long-empty Federal bank accounts</header> 
+<subsection id="H413690E5423146C3AB4AFD210C097667">
+            <enum>(a)</enum>
+            <header>Inspectors General report</header>
+            <text display-inline="yes-display-inline">Not later than 6 months after the date of the enactment of this Act, the Council of the Inspectors General on Integrity and Efficiency shall submit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a report that—</text> 
+<paragraph id="HD11A7EA2F98E4E1881467958E7E93921">
+              <enum>(1)</enum>
+              <text>lists each bank account held by the United States Government that has a balance of zero dollars for 180 days or more; and</text>
+            </paragraph> 
+<paragraph id="HD262995EA8D6401EAFCC8B3B42D856CE">
+              <enum>(2)</enum>
+              <text>recommends which of these accounts should be immediately closed.</text>
+            </paragraph>
+          </subsection> 
+<subsection id="H28D15A581B9141478EF2E7C02E43F554">
+            <enum>(b)</enum>
+            <header>Closure of accounts required</header>
+            <text display-inline="yes-display-inline">Not later than 7 days after the report is submitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Deficit Reduction for Infrastructure, Value, and Efficiency Now Act of 2014/s:221/ss:a" proposed="true">subsection (a)</cato:entity-ref>, the head of each agency with a bank account recommended for closure in the report described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Deficit Reduction for Infrastructure, Value, and Efficiency Now Act of 2014/s:221/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall close each such account that is managed by the agency.</text>
+          </subsection> 
+<subsection commented="no" id="H134C437C020F4D6895433C5F65C1ECD3">
+            <enum>(c)</enum>
+            <header>Agency defined</header>
+            <text>In this section, the term <term>agency</term> has the meaning given that term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/551">
+                <external-xref legal-doc="usc" parsable-cite="usc/5/551">section 551</external-xref> of title 5, United States Code</cato:entity-ref>.</text>
+          </subsection>
+        </section>
+      </subtitle>
+    </title> 
+</legis-body> 
+</bill>
+</doc>
