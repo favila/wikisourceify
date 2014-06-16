@@ -1,0 +1,819 @@
+<doc>
+  <docmeta id="113hr4753ih">
+    <bill congress="113" type="hr" number="4753" version="ih"/>
+    <revision size="28937" annotations="0" status="complete" id="7" commit-time="2014-06-05T21:46:40Z" committer="mbohmer" doc="113hr4753ih/7.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H17AB35C2DCFA40E282511ECB5F7BE6AB" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 4753 IH: Investing to Modernize the Production of American Clean Energy and Technology Act of 2014</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-05-28</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>H. R. 4753</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20140528">May 28, 2014</action-date>
+			<action-desc>
+        <sponsor name-id="M000404">Mr. McDermott</sponsor> (for himself, <cosponsor name-id="W000215">Mr. Waxman</cosponsor>, <cosponsor name-id="L000557">Mr. Larson of Connecticut</cosponsor>, <cosponsor name-id="B000574">Mr. Blumenauer</cosponsor>, and <cosponsor name-id="P000096">Mr. Pascrell</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To amend the Internal Revenue Code of 1986 to provide incentives for clean energy and to repeal
+			 fossil fuel subsidies for big oil companies.</official-title>
+	</form>
+	<legis-body id="H7F70182A0F1A427F88885B171E4488DC" style="OLC">
+		<section id="HFE0BDD6B990D4FBBA484B0A29864B51B" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title; table of contents</header>
+			<subsection id="HA7B7F06980874AF68911C21666C26992">
+        <enum>(a)</enum>
+        <header>Short title</header>
+        <text display-inline="yes-display-inline">This Act may be cited as the <quote>
+            <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Investing to Modernize the Production of American Clean Energy and Technology Act of 2014" proposed="true">Investing to Modernize the Production of American Clean Energy and Technology Act of 2014</cato:entity-ref>
+            </short-title>
+          </quote> or as the <quote>
+            <short-title>IMPACT Act of 2014</short-title>
+          </quote>.</text>
+			</subsection>
+      <subsection id="H22F17CF3B62B4A3EB3D173303EECEF04">
+        <enum>(b)</enum>
+        <header>Table of contents</header>
+        <text>The table of contents of this Act is as follows:</text>
+				<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+					<toc-entry idref="HFE0BDD6B990D4FBBA484B0A29864B51B" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="H8077398F172A472DB19F488210B7342A" level="title">Title I—Clean energy incentives</toc-entry>
+					<toc-entry idref="HA0A1C470EB0D4CE4A5DC592482FE04AF" level="subtitle">Subtitle A—Renewable energy</toc-entry>
+					<toc-entry idref="HCA05EB8FABEE4DA2BB25B87857B23E6C" level="section">Sec. 101. Extension of renewable energy credits.</toc-entry>
+					<toc-entry idref="HE82C0328AFAB488BB2A68BAC3A0399C6" level="section">Sec. 102. Extension of election of investment tax credit in lieu of production credit.</toc-entry>
+					<toc-entry idref="HE823AAD632B946D7AADFF4BC3F896DDE" level="section">Sec. 103. Extension of qualifying advanced energy project credit.</toc-entry>
+					<toc-entry idref="H49C1A8C8974F488EB82E7C5055BED886" level="section">Sec. 104. Extension of credit for energy-efficient new homes.</toc-entry>
+					<toc-entry idref="H8C35C4D2F09041C7BC45CC5EE111BE6C" level="section">Sec. 105. Extension of credit for energy-efficient appliances.</toc-entry>
+					<toc-entry idref="HE67FF4DEDB5E44B691511B840DAF0E79" level="subtitle">Subtitle B—Electric, natural gas, and hydrogen vehicles</toc-entry>
+					<toc-entry idref="H5BB8BFC98FE541CA81AF426AB03115EA" level="section">Sec. 111. Increase and expansion of credit for qualified plug-in electric drive motor vehicles.</toc-entry>
+					<toc-entry idref="H844B430DAACE40A3B865B83EF3C8A3D8" level="section">Sec. 112. Extension of new qualified alternative fuel motor vehicle credit for heavy natural gas
+			 vehicles.</toc-entry>
+					<toc-entry idref="H9014B90F69CD4D58963D7F396F10498B" level="section">Sec. 113. Modification of credit for alternative fuel vehicle refueling property for vehicles
+			 powered by electricity, natural gas, or hydrogen.</toc-entry>
+					<toc-entry idref="HFA2E28DAEE4A4A4A901C5095EB5682BF" level="section">Sec. 114. Electric, natural gas, and hydrogen vehicle refueling property tax credit bonds.</toc-entry>
+					<toc-entry idref="H81C3419F084F45588F074D92458A44D5" level="title">Title II—Repeal of fossil fuel subsidies for big oil companies</toc-entry>
+					<toc-entry idref="H84D97917E07C437AB1C851D2E3EDE8E9" level="section">Sec. 201. Prohibition on using last-in, first-out accounting for major integrated oil companies.</toc-entry>
+					<toc-entry idref="H4B4F1B69D60A47F9BF4D743F9BCB1A9D" level="section">Sec. 202. Modifications of foreign tax credit rules applicable to major integrated oil companies
+			 which are dual capacity taxpayers.</toc-entry>
+					<toc-entry idref="H5BB4B79ECB2A4ADEA399866237800CE7" level="section">Sec. 203. Limitation on section 199 deduction attributable to oil, natural gas, or primary products
+			 thereof.</toc-entry>
+					<toc-entry idref="HC856C84175524B5CA5B871F5673B4BF9" level="section">Sec. 204. Limitation on deduction for intangible drilling and development costs.</toc-entry>
+					<toc-entry idref="H69518C23900148968B9A97BB6340471D" level="section">Sec. 205. Limitation on percentage depletion allowance for oil and gas wells.</toc-entry>
+					<toc-entry idref="HC94296A2FB7348B4B271F8811324AD6D" level="section">Sec. 206. Limitation on deduction for tertiary injectants.</toc-entry>
+				</toc>
+			</subsection>
+    </section>
+    <title id="H8077398F172A472DB19F488210B7342A">
+      <enum>I</enum>
+      <header>Clean energy incentives</header>
+			<subtitle id="HA0A1C470EB0D4CE4A5DC592482FE04AF">
+        <enum>A</enum>
+        <header>Renewable energy</header>
+				<section id="HCA05EB8FABEE4DA2BB25B87857B23E6C">
+          <enum>101.</enum>
+          <header>Extension of renewable energy credits</header>
+					<subsection id="HBA2C69683E8545DF86A0C5DF946B1B80">
+            <enum>(a)</enum>
+            <header>Wind, biomass, geothermal, small irrigation, landfill gas, hydropower, marine, and hydrokinetic</header>
+            <text>Each of the following provisions of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:45/ss:d">section 45(d) of such Code</cato:entity-ref> is amended by striking <quote>January 1, 2014</quote> each place it appears and inserting <quote>January 1, 2024</quote>:</text>
+						<paragraph id="H797E0F81C3C84D39AF3208E3CFBF6E6C">
+              <enum>(1)</enum>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:45/ss:d/p:1">Paragraph (1)</cato:entity-ref>.</text>
+						</paragraph>
+            <paragraph id="HDA265D9DF2BD4CE3B98168C2EFB32F58">
+              <enum>(2)</enum>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:45/ss:d/p:2/sp:A/cl:i">Clauses (i)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:45/ss:d/p:2/sp:A/cl:ii">(ii) of paragraph (2)(A)</cato:entity-ref>.</text>
+						</paragraph>
+            <paragraph id="H48F9E3EE9F884D6A9BA57EB0ED284460">
+              <enum>(3)</enum>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:45/ss:d/p:3/sp:A/cl:i/scl:I">Clauses (i)(I)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:45/ss:d/p:3/sp:A/cl:ii">(ii) of paragraph (3)(A)</cato:entity-ref>.</text>
+						</paragraph>
+            <paragraph id="H9F3D6E3D32CA4675989BF0357C533521">
+              <enum>(4)</enum>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:45/ss:d/p:4">Paragraph (4)</cato:entity-ref>.</text>
+						</paragraph>
+            <paragraph id="H48E20336BDF74D908E827FCA0C082DF3">
+              <enum>(5)</enum>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:45/ss:d/p:6">Paragraph (6)</cato:entity-ref>.</text>
+						</paragraph>
+            <paragraph id="H2A6D624EC8954929877188B002686F68">
+              <enum>(6)</enum>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:45/ss:d/p:9/sp:A">Subparagraphs (A)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:45/ss:d/p:9/sp:C">(C) of paragraph (9)</cato:entity-ref>.</text>
+						</paragraph>
+            <paragraph id="H3FCA65FC11A642BD915811816FDC36BE">
+              <enum>(7)</enum>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:45/ss:d/p:11/sp:B">Subparagraph (B) of paragraph (11)</cato:entity-ref>.</text>
+						</paragraph>
+          </subsection>
+          <subsection id="H64C1587B5E2645198F7C6FEE647DA697">
+            <enum>(b)</enum>
+            <header>Early termination in event of Federal renewable electricity requirement</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:45/ss:d">Subsection (d) of <external-xref legal-doc="usc" parsable-cite="usc/26/45">section 45</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by adding at the end
+			 the following new paragraph:</text>
+						<quoted-block display-inline="no-display-inline" id="H3E1B70388A3349B4BD78E0F23ECC2C44" style="OLC">
+							<paragraph id="H4BC85F3D3A9044139845148F533030D3">
+                <enum>(12)</enum>
+                <header>Termination in event of Federal renewable electricity requirement</header>
+                <text display-inline="yes-display-inline">Notwithstanding any other provision of this section, the term <term>qualified facility</term> shall not include any property which is placed in service after the date which is 1 year after the
+			 date on which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="8900" entity-type="federal-body">Secretary of Energy</cato:entity-ref> makes a public declaration that a
+			 Federal law is in effect which requires retail electric suppliers in the
+			 United States to supply minimum and significant amounts of electric energy
+			 which is generated from renewable sources to customers for purposes other
+			 than resale.</text>
+              </paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</subsection>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="HE82C0328AFAB488BB2A68BAC3A0399C6">
+          <enum>102.</enum>
+          <header>Extension of election of investment tax credit in lieu of production credit</header>
+					<subsection commented="no" display-inline="no-display-inline" id="HF929CC092D4140569470A2878B8C5ED0">
+            <enum>(a)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:48/ss:a/p:5/sp:C/cl:ii">Clause (ii) of <external-xref legal-doc="usc" parsable-cite="usc/26/48">section 48(a)(5)(C)</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by striking <quote>January 1, 2014</quote> and inserting <quote>January 1, 2024</quote>.</text>
+					</subsection>
+          <subsection id="H2718188DB45B4403A14BB541260C580B">
+            <enum>(b)</enum>
+            <header>Limitation</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:48/ss:a/p:5">Paragraph (5) of section 48(a) of such Code</cato:entity-ref> is amended by adding at the end the following new
+			 subparagraphs:</text>
+						<quoted-block id="H1CBF86A54A5540D0938420CE4F349936" style="OLC">
+							<subparagraph commented="no" id="H3DB718E4DBFB409BA678AE25C998213C">
+                <enum>(E)</enum>
+                <header>Limitation</header>
+                <text>In the case of a qualifying offshore wind facility to which this paragraph applies and the total
+			 megawatt nameplate capacity of which exceeds 3,000 megawatts, the basis
+			 which would (but for this subparagraph) be taken into account under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:48/ss:a">subsection (a)</cato:entity-ref> with respect to such facility shall not exceed the amount
+			 which bears the same ratio to such basis as—</text>
+								<clause id="H6E8F6EFB002E49D1B59FD393134213B3">
+                  <enum>(i)</enum>
+                  <text>3000 megawatts, bears to</text>
+								</clause>
+                <clause id="H7BAD0D9323B94C34A11B26093379F124">
+                  <enum>(ii)</enum>
+                  <text>the total megawatt nameplate capacity of such facility.</text>
+								</clause>
+              </subparagraph>
+              <subparagraph id="H1CF588F1E88F48119296732B6F3680CF">
+                <enum>(F)</enum>
+                <header>Qualifying offshore wind facility</header>
+                <text>For purposes of this paragraph—</text>
+								<clause id="H20DBC183C57E49039D2D5815399D0E41">
+                  <enum>(i)</enum>
+                  <header>In general</header>
+                  <text>The term <term>qualifying offshore wind facility</term> means an offshore facility using wind to produce electricity.</text>
+								</clause>
+                <clause commented="no" display-inline="no-display-inline" id="HE437B68C27D345E9863F263620919288">
+                  <enum>(ii)</enum>
+                  <header>Offshore facility</header>
+                  <text>The term <term>offshore facility</term> means any facility located in the inland navigable waters of the United States, including the
+			 Great Lakes, or in the coastal waters of the United States, including the
+			 territorial seas of the United States, the exclusive economic zone of the
+			 United States, and the Outer Continental Shelf of the United States. For
+			 purposes of the preceding sentence, the term <term>United States</term> has the meaning given in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:638/p:1">section 638(1)</cato:entity-ref>.</text>
+                </clause>
+              </subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</subsection>
+          <subsection commented="no" id="H2F9CD836E32249A8B53E4E3526DD079B">
+            <enum>(c)</enum>
+            <header>Effective date</header>
+            <text>The amendments made by this section shall apply to facilities placed in service after December 31,
+			 2013.</text>
+					</subsection>
+        </section>
+        <section id="HE823AAD632B946D7AADFF4BC3F896DDE">
+          <enum>103.</enum>
+          <header>Extension of qualifying advanced energy project credit</header>
+          <text display-inline="no-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:48C/ss:d/p:1">Paragraph (1) of <external-xref legal-doc="usc" parsable-cite="usc/26/48C">
+              section 48C(d)</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by adding at the
+			 end the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="HB476737989DF49AABAE775EB02F5F990" style="OLC">
+						<subparagraph id="H164E639B3B844BEDA2345B7FF1995821">
+              <enum>(C)</enum>
+              <header>Additional limitation amount</header>
+							<clause id="H0E7251F53FAC4B12965645E8858FBCAC">
+                <enum>(i)</enum>
+                <header>In general</header>
+                <text display-inline="yes-display-inline">The total amount of credits that may be allocated under the program shall be increased by
+			 $5,000,000,000.</text>
+							</clause>
+              <clause id="H9D588BEFF3334E73B7F84FD9673DBC26">
+                <enum>(ii)</enum>
+                <header>Applications</header>
+                <text>Notwithstanding the deadline for submitting applications specified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:48C/ss:d/p:2/sp:A">paragraph (2)(A)</cato:entity-ref>, an
+			 applicant for certification with respect to credits allocated pursuant to
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:48C/ss:d/p:1/sp:C/cl:i" proposed="true">clause (i)</cato:entity-ref> may submit an application to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> at such time and in
+			 such manner as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> may provide.</text>
+							</clause>
+              <clause id="HA0F0D8D5C1154260B102059C23A06ECA">
+                <enum>(iii)</enum>
+                <header>Review, redistribution, and reallocation</header>
+                <text>Notwithstanding the deadline for review specified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:48C/ss:d/p:4/sp:A">paragraph (4)(A)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall review
+			 the credits allocated pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:48C/ss:d/p:1/sp:C/cl:i" proposed="true">clause (i)</cato:entity-ref> at such time as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>
+			 determines appropriate.</text>
+              </clause>
+            </subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</section>
+        <section id="H49C1A8C8974F488EB82E7C5055BED886">
+          <enum>104.</enum>
+          <header>Extension of credit for energy-efficient new homes</header>
+					<subsection id="HC22F15464C904EE68F855477A3C571D3">
+            <enum>(a)</enum>
+            <header>In general</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:45L/ss:g">Subsection (g) of <external-xref legal-doc="usc" parsable-cite="usc/26/45L">section 45L</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by striking <quote>December 31, 2013</quote> and inserting <quote>December 31, 2016</quote>.</text>
+					</subsection>
+          <subsection id="H299E845F53D243199EEA70B9A5B1000B">
+            <enum>(b)</enum>
+            <header>Effective date</header>
+            <text>The amendment made by this section shall apply to homes acquired after December 31, 2013.</text>
+					</subsection>
+        </section>
+        <section commented="no" id="H8C35C4D2F09041C7BC45CC5EE111BE6C">
+          <enum>105.</enum>
+          <header>Extension of credit for energy-efficient appliances</header>
+					<subsection commented="no" id="HDF4F4114719A49CE93E6E165AF2B95FE">
+            <enum>(a)</enum>
+            <header>In general</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:45M/ss:b">
+                <external-xref legal-doc="usc" parsable-cite="usc/26/45M">Section 45M(b)</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by striking <quote>or 2013</quote> each place it appears and inserting <quote>2013, 2014, 2015, or 2016</quote>.</text>
+					</subsection>
+          <subsection commented="no" id="H77E22E7B2E0F476890D931AFF4C1A360">
+            <enum>(b)</enum>
+            <header>Effective date</header>
+            <text>The amendments made by this section shall apply to appliances produced after December 31, 2013.</text>
+					</subsection>
+        </section>
+      </subtitle>
+      <subtitle id="HE67FF4DEDB5E44B691511B840DAF0E79">
+        <enum>B</enum>
+        <header>Electric, natural gas, and hydrogen vehicles</header>
+				<section id="H5BB8BFC98FE541CA81AF426AB03115EA">
+          <enum>111.</enum>
+          <header>Increase and expansion of credit for qualified plug-in electric drive motor vehicles</header>
+					<subsection id="H73DCC22E2AC549E4ACFB6CCF876C1471">
+            <enum>(a)</enum>
+            <header>Increase in dollar limitation</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:30D/ss:b/p:2">Paragraph (2) of <external-xref legal-doc="usc" parsable-cite="usc/26/30D">section 30D(b)</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by striking <quote>$2,500</quote> and inserting <quote>$5,000</quote>.</text>
+					</subsection>
+          <subsection id="H061EEAA68B834BCBBCCA2138B9F8A447">
+            <enum>(b)</enum>
+            <header>Increase in limitation on number of vehicles eligible for credit</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:30D/ss:e/p:2">Paragraph (2) of section 30D(e) of such Code</cato:entity-ref> is amended by striking <quote>200,000</quote> and inserting <quote>400,000</quote>.</text>
+					</subsection>
+          <subsection id="HF6905DAB88454162AF35FE4477CCA29C">
+            <enum>(c)</enum>
+            <header>Effective date</header>
+            <text>The amendment made by this section shall apply to vehicles acquired after the date of the enactment
+			 of this Act.</text>
+					</subsection>
+        </section>
+        <section id="H844B430DAACE40A3B865B83EF3C8A3D8">
+          <enum>112.</enum>
+          <header>Extension of new qualified alternative fuel motor vehicle credit for heavy natural gas vehicles</header>
+					<subsection commented="no" id="H0007F9A9A92B4EC89B31DA790E97636E">
+            <enum>(a)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:30B/ss:k/p:4">Paragraph (4) of <external-xref legal-doc="usc" parsable-cite="usc/26/30B">section 30B(k)</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by inserting <quote>(December 31, 2018, in the case of a vehicle powered by compressed or liquefied natural gas and
+			 weighing more than 8,500 pounds)</quote> before the period at the end.</text>
+					</subsection>
+          <subsection id="H932D8EE4F9F049BAB19381E12FED1F9C">
+            <enum>(b)</enum>
+            <header>Effective date</header>
+            <text>The amendment made by this section shall apply to vehicles purchased after the date of the
+			 enactment of this Act.</text>
+					</subsection>
+        </section>
+        <section id="H9014B90F69CD4D58963D7F396F10498B">
+          <enum>113.</enum>
+          <header>Modification of credit for alternative fuel vehicle refueling property for vehicles powered by
+			 electricity, natural gas, or hydrogen</header>
+					<subsection id="HE9C8DFBEC3E44658AC3D1F94BFADD635">
+            <enum>(a)</enum>
+            <header>Special Rules for Property Placed in Service Before January 1, 2021</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:30C/ss:e">Subsection (e) of <external-xref legal-doc="usc" parsable-cite="usc/26/30C">section 30C</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by adding at the end
+			 the following new paragraph:</text>
+						<quoted-block id="H3CA6F2407C0147B2987F20020DA28667" style="OLC">
+							<paragraph id="H692FAED8F11E4FFAADCD80D72CFDD437">
+                <enum>(7)</enum>
+                <header>Property for recharging vehicles powered by electricity, natural gas, or hydrogen</header>
+                <text>In the case of property placed in service after December 31, 2013, and before January 1, 2021,
+			 which relates to electricity, natural gas, or hydrogen—</text>
+								<subparagraph id="HD7C72FFB0DA041F59202D0D69015B085">
+                  <enum>(A)</enum>
+                  <text>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:30C/ss:a">subsection (a)</cato:entity-ref> shall be applied by substituting <quote>50 percent</quote> for <quote>30 percent</quote>,</text>
+								</subparagraph>
+                <subparagraph id="H7B71B084FBB044E1A9F3DE78FAC9891C">
+                  <enum>(B)</enum>
+                  <text>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:30C/ss:b/p:1">subsection (b)(1)</cato:entity-ref> shall be applied by substituting <quote>$50,000</quote> for <quote>$30,000</quote>, and</text>
+								</subparagraph>
+                <subparagraph id="HA51E33A1742D4F688D40638B00F1C997">
+                  <enum>(C)</enum>
+                  <text>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:30C/ss:b/p:2">subsection (b)(2)</cato:entity-ref> shall be applied by substituting <quote>$2,000</quote> for <quote>$1,000</quote>.</text>
+                </subparagraph>
+              </paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</subsection>
+          <subsection id="H4C132EF93C22493EBD76A919335DCCF4">
+            <enum>(b)</enum>
+            <header>Installation Costs</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:30C/ss:e">Subsection (e) of section 30C of such Code</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Investing to Modernize the Production of American Clean Energy and Technology Act of 2014/s:113/ss:a" proposed="true">subsection (a)</cato:entity-ref>, is amended by adding at
+			 the end the following:</text>
+						<quoted-block id="H5DB7E37D04C745ABAF412D8F075D3ADF" style="OLC">
+							<paragraph id="H04BFDE27059442E9B46A25E69E34B47C">
+                <enum>(8)</enum>
+                <header>Installation costs</header>
+                <text>The cost of any qualified alternative fuel vehicle refueling property which relates to electricity,
+			 natural gas, or hydrogen shall include the cost of the original
+			 installation of such property.</text>
+              </paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</subsection>
+          <subsection id="HA468B3F4392E474CB581164BFCBAB257">
+            <enum>(c)</enum>
+            <header>Termination of Credit</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:30C/ss:g/p:1">Paragraph (1) of section 30C(g) of such Code</cato:entity-ref> is amended to read as follows:</text>
+						<quoted-block id="H71970C00A58D4497AD5FFC774D084D15" style="OLC">
+							<paragraph id="H68D60428280C475BBB9636F5C909E00E">
+                <enum>(1)</enum>
+                <text>in the case of property relating to electricity, natural gas, or hydrogen, after December 31, 2020,
+			 and</text>
+              </paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</subsection>
+          <subsection id="H20F3A337C3604EAEB2987C99E358D660">
+            <enum>(d)</enum>
+            <header>Effective Date</header>
+            <text>The amendments made by this section shall apply to property placed in service after December 31,
+			 2013.</text>
+					</subsection>
+        </section>
+        <section id="HFA2E28DAEE4A4A4A901C5095EB5682BF">
+          <enum>114.</enum>
+          <header>Electric, natural gas, and hydrogen vehicle refueling property tax credit bonds</header>
+					<subsection id="H478C55C9C06247E69CEC83EAAC763731">
+            <enum>(a)</enum>
+            <header>In General</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:54A/ss:d/p:1">Paragraph (1) of <external-xref legal-doc="usc" parsable-cite="usc/26/54A">
+                section 54A(d)</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by striking <quote>or</quote> at the end of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:54A/ss:d/p:1/sp:D">subparagraph (D)</cato:entity-ref>, by inserting <quote>or</quote> at the end of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:54A/ss:d/p:1/sp:E">subparagraph (E)</cato:entity-ref>, and by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:54A/ss:d/p:1/sp:E">subparagraph (E)</cato:entity-ref> the following new
+			 subparagraph:</text>
+						<quoted-block id="H1807A76329704409A13F6FC31CBCA741" style="OLC">
+							<subparagraph id="H27EDCB64BF9D4DB5920DF17465C310DD">
+                <enum>(F)</enum>
+                <text>a qualified electric, natural gas, and hydrogen vehicle refueling property bond,</text>
+              </subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</subsection>
+          <subsection id="H478A8D34EED34C81B5024E15D8B0750A">
+            <enum>(b)</enum>
+            <header>Qualified Purpose</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:54A/ss:d/p:2/sp:C">Subparagraph (C) of section 54A(d)(2) of such Code</cato:entity-ref> is amended by striking <quote>and</quote> at the end of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:54A/ss:d/p:2/sp:C/cl:iv">clause (iv)</cato:entity-ref>, by striking the period at the end of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:54A/ss:d/p:2/sp:C/cl:v">clause (v)</cato:entity-ref> and inserting <quote>, and</quote>, and by adding at the end the following new clause:</text>
+						<quoted-block display-inline="no-display-inline" id="H1C82ED0B7EA54F02B364E07C1E434A5D" style="OLC">
+							<clause id="H54BFD3DB3EB5478685F4D4964196A2EE">
+                <enum>(vi)</enum>
+                <text display-inline="yes-display-inline">in the case of a qualified electric, natural gas, and hydrogen vehicle refueling property bond, a
+			 purpose specified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:54G/ss:a/p:1" proposed="true">section 54G(a)(1)</cato:entity-ref>.</text>
+              </clause>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</subsection>
+          <subsection id="HDD1EC8CED8EB443597A0355F362F0C38">
+            <enum>(c)</enum>
+            <header>Bonds Allowed</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:A/pt:IV/spt:I">Subpart I of part IV of subchapter A of chapter 1 of such Code</cato:entity-ref> is amended by adding at the end the
+			 following new section:</text>
+						<quoted-block id="H4D3CAC87E1524C588B3D815B5608BF24" style="OLC">
+							<section id="H8C9B4E70B65E46F3936D71A2172F2F04">
+                <enum>54G.</enum>
+                <header>Qualified electric, natural gas, and hydrogen vehicle refueling property bonds</header>
+								<subsection id="H2B2713656BD0406DA80E09F06664DC3B">
+                  <enum>(a)</enum>
+                  <header>Qualified Electric, Natural Gas, and Hydrogen Vehicle Refueling Property Bond</header>
+                  <text>For purposes of this subpart, the term <term>qualified electric, natural gas, and hydrogen vehicle refueling property bond</term> means any bond issued as part of an issue if—</text>
+									<paragraph id="H0BE7B5A34672480B8E09F35C3EDF7FF4">
+                    <enum>(1)</enum>
+                    <text>100 percent of the available project proceeds of such issue are to be used for capital expenditures
+			 incurred by a qualified issuer for 1 or more qualified electric, natural
+			 gas, and hydrogen vehicle refueling properties,</text>
+									</paragraph>
+                  <paragraph id="H7DE238704B754E70ABE2FC57D4CD2D6D">
+                    <enum>(2)</enum>
+                    <text>the bond is issued by a qualified issuer, and</text>
+									</paragraph>
+                  <paragraph id="H2A1A0AF595E24450BFB5CCEE636EDF4A">
+                    <enum>(3)</enum>
+                    <text>the issuer designates such bond for purposes of this section.</text>
+									</paragraph>
+                </subsection>
+                <subsection id="H37F92C6AAA1944CD8B747FF23969DAE5">
+                  <enum>(b)</enum>
+                  <header>Reduced Credit Amount</header>
+                  <text>Notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:54A/ss:b/p:2">paragraph (2) of section 54A(b)</cato:entity-ref>, the annual credit determined with respect to any
+			 qualified electric, natural gas, and hydrogen vehicle refueling property
+			 bond is 70 percent of the amount which would (but for this subsection)
+			 otherwise be determined under such paragraph with respect to such bond.</text>
+								</subsection>
+                <subsection id="H2D1B2719AD5D4AC1811DD052B2EAB404">
+                  <enum>(c)</enum>
+                  <header>Limitation on Amount of Bonds Designated</header>
+                  <text>The maximum aggregate face amount of bonds which may be designated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:54G/ss:a" proposed="true">subsection (a)</cato:entity-ref> by any
+			 issuer shall not exceed the limitation amount allocated to such issuer
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:54G/ss:e" proposed="true">subsection (e)</cato:entity-ref>.</text>
+								</subsection>
+                <subsection id="H51C1A6F2B2844B52BB84FCDE79500346">
+                  <enum>(d)</enum>
+                  <header>National Limitation on Amount of Bonds Designated</header>
+                  <text>There is a national qualified electric, natural gas, and hydrogen vehicle refueling property bond
+			 limitation of $750,000,000.</text>
+								</subsection>
+                <subsection id="H47EDA1FD1F71449980B765700F1CC72C">
+                  <enum>(e)</enum>
+                  <header>Allocations</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall make allocations of the amount of the national qualified electric, natural gas,
+			 and hydrogen vehicle refueling property bond limitation described in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:54G/ss:d" proposed="true">subsection (d)</cato:entity-ref> among purposes described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:54G/ss:a/p:1" proposed="true">subsection (a)(1)</cato:entity-ref> in such
+			 manner as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> determines appropriate.</text>
+								</subsection>
+                <subsection id="H93119EEFF4A94AA58A4F9409055A02CC">
+                  <enum>(f)</enum>
+                  <header>Definitions</header>
+                  <text>For purposes of this section—</text>
+									<paragraph id="H6A33DE1C503E44CAB9459714C7CCEE49">
+                    <enum>(1)</enum>
+                    <header>Qualified electric, natural gas, and hydrogen vehicle refueling property</header>
+                    <text>The term <term>qualified electric, natural gas, and hydrogen vehicle refueling property</term> means any qualified alternative fuel vehicle refueling property (within the meaning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:30C">section
+			 30C</cato:entity-ref>) which relates to electricity, natural gas, or hydrogen.</text>
+									</paragraph>
+                  <paragraph id="HF6786B6B428A40CABEA92637A3CA07F8">
+                    <enum>(2)</enum>
+                    <header>Qualified issuer</header>
+										<subparagraph id="H95DE856F1F2D4136BACB97BAFAAABE6D">
+                      <enum>(A)</enum>
+                      <header>In general</header>
+                      <text>The term <term>qualified issuer</term> means a public power provider, a cooperative electric company, or a governmental body.</text>
+										</subparagraph>
+                    <subparagraph id="H9D2E45D4A7F3455CB1D3910088A8D5A5">
+                      <enum>(B)</enum>
+                      <header>Governmental body</header>
+                      <text>The term <term>governmental body</term> means any State or Indian tribal government, or any political subdivision thereof.</text>
+										</subparagraph>
+                    <subparagraph id="HBBE6AA6AD5114F10B7FA1A0645D62914">
+                      <enum>(C)</enum>
+                      <header>Public power provider</header>
+                      <text>The term <term>public power provider</term> means a State utility that has a service obligation to end-users or to a distribution utility
+			 (within the meaning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Power Act/s:217">section 217 of the Federal Power Act</cato:entity-ref>, as in effect
+			 on the date of the enactment of this section).</text>
+										</subparagraph>
+                    <subparagraph id="HC89AEDB5D8D14E65B3EC1890389C873A">
+                      <enum>(D)</enum>
+                      <header>Cooperative electric company</header>
+                      <text>The term <term>cooperative electric company</term> means a mutual or cooperative electric company described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:501/ss:c/p:12">section 501(c)(12)</cato:entity-ref> or an organization
+			 described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:1381/ss:a/p:2/sp:C">section 1381(a)(2)(C)</cato:entity-ref>.</text>
+                    </subparagraph>
+                  </paragraph>
+                </subsection>
+              </section>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</subsection>
+          <subsection id="H240D6853183C43888EA7D48C19BA4386">
+            <enum>(d)</enum>
+            <header>Clerical Amendment</header>
+            <text>The table of sections for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/ch:1/sch:A/pt:IV/spt:I">subpart I of part IV of subchapter A of chapter 1 of the Internal Revenue
+			 Code of 1986</cato:entity-ref> is amended by adding at the end the following new item:</text>
+						<quoted-block display-inline="no-display-inline" id="H86DBCF9AB88D41E1AA719A65F558E8D4" style="OLC">
+							<toc regeneration="no-regeneration">
+								<toc-entry level="section">Sec. 54G. Qualified electric, natural gas, and hydrogen vehicle refueling property bonds.</toc-entry>
+              </toc>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</subsection>
+          <subsection id="HEE7AC89E287D429F9C3B62A5709BE363">
+            <enum>(e)</enum>
+            <header>Effective Date</header>
+            <text>The amendments made by this section shall apply to obligations issued after the date of the
+			 enactment of this Act.</text>
+					</subsection>
+        </section>
+      </subtitle>
+    </title>
+    <title id="H81C3419F084F45588F074D92458A44D5">
+      <enum>II</enum>
+      <header>Repeal of fossil fuel subsidies for big oil companies</header>
+			<section display-inline="no-display-inline" id="H84D97917E07C437AB1C851D2E3EDE8E9" section-type="subsequent-section">
+        <enum>201.</enum>
+        <header>Prohibition on using last-in, first-out accounting for major integrated oil companies</header>
+				<subsection id="H586991D120924269A43F5B86A2D5A3B7">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:472">
+              <external-xref legal-doc="usc" parsable-cite="usc/26/472">Section 472</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by adding at the end the following new
+			 subsection:</text>
+					<quoted-block display-inline="no-display-inline" id="HC27B4FC50F204194913A077575B09E1D" style="OLC">
+						<subsection id="H2315A061AAE94BF29F1144A6623FED1D">
+              <enum>(h)</enum>
+              <header>Major integrated oil companies</header>
+              <text display-inline="yes-display-inline">Notwithstanding any other provision of this section, a major integrated oil company (as defined in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:167/ss:h/p:5/sp:B">section 167(h)(5)(B)</cato:entity-ref>) may not use the method provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:472/ss:b">subsection (b)</cato:entity-ref> in
+			 inventorying of any goods.</text>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="H555FEA48D7A34A539FFE74F2C331FA58">
+          <enum>(b)</enum>
+          <header>Effective date and special rule</header>
+					<paragraph id="HC3529E6ACB8342B58233C9FB9C7F9AB4">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text>The amendment made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Investing to Modernize the Production of American Clean Energy and Technology Act of 2014/s:201/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall apply to taxable years beginning after the date of the
+			 enactment of this Act.</text>
+					</paragraph>
+          <paragraph id="HFEAAEFCAE57846EFB676B010298190F3">
+            <enum>(2)</enum>
+            <header>Change in method of accounting</header>
+            <text display-inline="yes-display-inline">In the case of any taxpayer required by the amendment made by this section to change its method of
+			 accounting for its first taxable year beginning after the date of the
+			 enactment of this Act—</text>
+						<subparagraph id="HCF4BE86ACF7C4F618065DACEA9EAC076">
+              <enum>(A)</enum>
+              <text>such change shall be treated as initiated by the taxpayer,</text>
+						</subparagraph>
+            <subparagraph id="HF21CEF42EC984327AFB71728A0F66C9B">
+              <enum>(B)</enum>
+              <text>such change shall be treated as made with the consent of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2000" entity-type="federal-body">Secretary of the Treasury</cato:entity-ref>, and</text>
+						</subparagraph>
+            <subparagraph id="HD5E1F0370F434EC6AC93D1F978DD442D">
+              <enum>(C)</enum>
+              <text>the net amount of the adjustments required to be taken into account by the taxpayer under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:481">section
+			 481 of the Internal Revenue Code of 1986</cato:entity-ref> shall be taken into account
+			 ratably over a period (not greater than 8 taxable years) beginning with
+			 such first taxable year.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+      </section>
+      <section commented="no" display-inline="no-display-inline" id="H4B4F1B69D60A47F9BF4D743F9BCB1A9D">
+        <enum>202.</enum>
+        <header>Modifications of foreign tax credit rules applicable to major integrated oil companies which are
+			 dual capacity taxpayers</header>
+				<subsection commented="no" display-inline="no-display-inline" id="HCCA61BCD23D548E5BCA18FCD300483C1">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:901">
+              <external-xref legal-doc="usc" parsable-cite="usc/26/901">Section 901</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:901/ss:n">subsection (n)</cato:entity-ref> as
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:901/ss:o" proposed="true">subsection (o)</cato:entity-ref> and by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:901/ss:m">subsection (m)</cato:entity-ref> the following new
+			 subsection:</text>
+					<quoted-block display-inline="no-display-inline" id="HA27CB06124184180A49DA5DAF5CDB703" style="OLC">
+						<subsection commented="no" display-inline="no-display-inline" id="HD634DF1EB311459386537334EA4A693E">
+              <enum>(n)</enum>
+              <header>Special rules relating to major integrated oil companies which are dual capacity taxpayers</header>
+							<paragraph commented="no" display-inline="no-display-inline" id="H302108685CCC4CEC810FC5CA9D569D85">
+                <enum>(1)</enum>
+                <header>General rule</header>
+                <text display-inline="yes-display-inline">Notwithstanding any other provision of this chapter, any amount paid or accrued by a dual capacity
+			 taxpayer which is a major integrated oil company (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:167/ss:h/p:5/sp:B">section
+			 167(h)(5)(B)</cato:entity-ref>) to a foreign country or possession of the United States for
+			 any period shall not be considered a tax—</text>
+								<subparagraph commented="no" display-inline="no-display-inline" id="HDED767B5BFE64AD282DEC3149C3B799C">
+                  <enum>(A)</enum>
+                  <text display-inline="yes-display-inline">if, for such period, the foreign country or possession does not impose a generally applicable
+			 income tax, or</text>
+								</subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="HDFBEBD7513A5490C909CA6D89AB66A4E">
+                  <enum>(B)</enum>
+                  <text display-inline="yes-display-inline">to the extent such amount exceeds the amount (determined in accordance with regulations) which—</text>
+									<clause commented="no" display-inline="no-display-inline" id="H174C684173E8405396EC042C6D79895C">
+                    <enum>(i)</enum>
+                    <text display-inline="yes-display-inline">is paid by such dual capacity taxpayer pursuant to the generally applicable income tax imposed by
+			 the country or possession, or</text>
+									</clause>
+                  <clause commented="no" display-inline="no-display-inline" id="H051EDAC5CB3F4C50A9EEAAAB9627500C">
+                    <enum>(ii)</enum>
+                    <text display-inline="yes-display-inline">would be paid if the generally applicable income tax imposed by the country or possession were
+			 applicable to such dual capacity taxpayer.</text>
+                  </clause>
+                </subparagraph>
+                <continuation-text commented="no" continuation-text-level="paragraph">Nothing in this paragraph shall be construed to imply the proper treatment of any such amount not
+			 in excess of the amount determined under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:901/ss:n/p:1/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>.</continuation-text>
+              </paragraph>
+              <paragraph commented="no" display-inline="no-display-inline" id="H84C2AA51802444C3B8AA1CADA4E517B6">
+                <enum>(2)</enum>
+                <header>Dual capacity taxpayer</header>
+                <text display-inline="yes-display-inline">For purposes of this subsection, the term <term>dual capacity taxpayer</term> means, with respect to any foreign country or possession of the United States, a person who—</text>
+								<subparagraph commented="no" display-inline="no-display-inline" id="H6EFA82F393B54511AC14147210690A26">
+                  <enum>(A)</enum>
+                  <text display-inline="yes-display-inline">is subject to a levy of such country or possession, and</text>
+								</subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="H761A9044836645248437E915AB24A1F8">
+                  <enum>(B)</enum>
+                  <text display-inline="yes-display-inline">receives (or will receive) directly or indirectly a specific economic benefit (as determined in
+			 accordance with regulations) from such country or possession.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph commented="no" display-inline="no-display-inline" id="H8F516083C21346CC83EE5448D687A2B9">
+                <enum>(3)</enum>
+                <header>Generally applicable income tax</header>
+                <text display-inline="yes-display-inline">For purposes of this subsection—</text>
+								<subparagraph commented="no" display-inline="no-display-inline" id="HB09E2026B2374F3287602AD9764DE49E">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+                  <text display-inline="yes-display-inline">The term <term>generally applicable income tax</term> means an income tax (or a series of income taxes) which is generally imposed under the laws of a
+			 foreign country or possession on income derived from the conduct of a
+			 trade or business within such country or possession.</text>
+								</subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="HC1A4BEF65CCF4AB88E50EBDF3903D9C1">
+                  <enum>(B)</enum>
+                  <header>Exceptions</header>
+                  <text display-inline="yes-display-inline">Such term shall not include a tax unless it has substantial application, by its terms and in
+			 practice, to—</text>
+									<clause commented="no" display-inline="no-display-inline" id="H847C121DC9954CBAA75A813FC355BDCE">
+                    <enum>(i)</enum>
+                    <text display-inline="yes-display-inline">persons who are not dual capacity taxpayers, and</text>
+									</clause>
+                  <clause commented="no" display-inline="no-display-inline" id="H8B43F25392D242E3A9269CAD4F97B7F7">
+                    <enum>(ii)</enum>
+                    <text display-inline="yes-display-inline">persons who are citizens or residents of the foreign country or possession.</text>
+                  </clause>
+                </subparagraph>
+              </paragraph>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="HB591B4F8BD084416B5F72D1FF6F9030F">
+          <enum>(b)</enum>
+          <header>Effective Date</header>
+					<paragraph commented="no" display-inline="no-display-inline" id="H13D6591A96344528B144D84096F1062D">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">The amendments made by this section shall apply to taxes paid or accrued in taxable years beginning
+			 after the date of the enactment of this Act.</text>
+					</paragraph>
+          <paragraph commented="no" display-inline="no-display-inline" id="H6F65026EC5A34F9F8D38567BC232DB9D">
+            <enum>(2)</enum>
+            <header>Contrary treaty obligations upheld</header>
+            <text display-inline="yes-display-inline">The amendments made by this section shall not apply to the extent contrary to any treaty obligation
+			 of the United States.</text>
+					</paragraph>
+        </subsection>
+      </section>
+      <section display-inline="no-display-inline" id="H5BB4B79ECB2A4ADEA399866237800CE7">
+        <enum>203.</enum>
+        <header>Limitation on section 199 deduction attributable to oil, natural gas, or primary products thereof</header>
+				<subsection id="H504FB21FCF6B42C5BA718567D85CD658">
+          <enum>(a)</enum>
+          <header>Denial of deduction</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:199/ss:c/p:4">Paragraph (4) of <external-xref legal-doc="usc" parsable-cite="usc/26/199">section 199(c)</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by adding at the
+			 end the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H49EF21E9596D4C3FA4ABF683736EE21F" style="OLC">
+						<subparagraph id="H071C82C930554082AA661A7042C28E47">
+              <enum>(E)</enum>
+              <header>Special rule for certain oil and gas income</header>
+              <text>In the case of any taxpayer who is a major integrated oil company (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:167/ss:h/p:5/sp:B">section
+			 167(h)(5)(B)</cato:entity-ref>) for the taxable year, the term <term>domestic production gross receipts</term> shall not include gross receipts from the production, transportation, or distribution of oil,
+			 natural gas, or any primary product (within the meaning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:199/ss:d/p:9">subsection
+			 (d)(9)</cato:entity-ref>) thereof.</text>
+            </subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="HEEF1FB4C30744DAB9F58055F22DDEE0E">
+          <enum>(b)</enum>
+          <header>Effective date</header>
+          <text>The amendment made by this section shall apply to taxable years beginning after December 31, 2013.</text>
+				</subsection>
+      </section>
+      <section commented="no" display-inline="no-display-inline" id="HC856C84175524B5CA5B871F5673B4BF9">
+        <enum>204.</enum>
+        <header>Limitation on deduction for intangible drilling and development costs</header>
+				<subsection commented="no" display-inline="no-display-inline" id="H492645F67278424CA36A797C7F7FEDE2">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:263/ss:c">
+              <external-xref legal-doc="usc" parsable-cite="usc/26/263">Section 263(c)</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by adding at the end the following
+			 new sentence: <quote>This subsection shall not apply to amounts paid or incurred by a taxpayer in any taxable year in
+			 which such taxpayer is a major integrated oil company (as defined in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:167/ss:h/p:5/sp:B">section 167(h)(5)(B)</cato:entity-ref>).</quote>.</text>
+				</subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="H252136D3707941D1B779E4E399AD4414">
+          <enum>(b)</enum>
+          <header>Effective date</header>
+          <text display-inline="yes-display-inline">The amendment made by this section shall apply to amounts paid or incurred in taxable years
+			 beginning after December 31, 2013.</text>
+				</subsection>
+      </section>
+      <section commented="no" display-inline="no-display-inline" id="H69518C23900148968B9A97BB6340471D" section-type="subsequent-section">
+        <enum>205.</enum>
+        <header display-inline="yes-display-inline">Limitation on percentage depletion allowance for oil and gas wells</header>
+				<subsection commented="no" display-inline="no-display-inline" id="HE31FCB0EE9C34709AA8517F519A66AAD">
+          <enum>(a)</enum>
+          <header display-inline="yes-display-inline">In general</header>
+          <text display-inline="yes-display-inline">
+            <external-xref legal-doc="usc" parsable-cite="usc/26/613A">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:613A">Section 613A</cato:entity-ref>
+            </external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new
+			 subsection:</text>
+					<quoted-block display-inline="no-display-inline" id="H0AE9183B2FA04C90AE0863A8372383FC" style="OLC">
+						<subsection commented="no" display-inline="no-display-inline" id="H94DF6DFFD0924128AD99B86EB1E2E8B6">
+              <enum>(f)</enum>
+              <header display-inline="yes-display-inline">Application with respect to major integrated oil companies</header>
+              <text display-inline="yes-display-inline">In the case of any taxable year in which the taxpayer is a major integrated oil company (as defined
+			 in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:167/ss:h/p:5/sp:B">section 167(h)(5)(B)</cato:entity-ref>), the allowance for percentage depletion shall be
+			 zero.</text>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="H2F798E128F534E63B78AA09084085887">
+          <enum>(b)</enum>
+          <header display-inline="yes-display-inline">Effective date</header>
+          <text display-inline="yes-display-inline">The amendment made by this section shall apply to taxable years beginning after December 31, 2013.</text>
+				</subsection>
+      </section>
+      <section commented="no" display-inline="no-display-inline" id="HC94296A2FB7348B4B271F8811324AD6D">
+        <enum>206.</enum>
+        <header>Limitation on deduction for tertiary injectants</header>
+				<subsection commented="no" display-inline="no-display-inline" id="HA2102F53CCD04C54A69A809C7D8B1445">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:193">
+              <external-xref legal-doc="usc" parsable-cite="usc/26/193">Section 193</external-xref> of the Internal Revenue Code of 1986</cato:entity-ref> is amended by adding at the end the following new
+			 subsection:</text>
+					<quoted-block display-inline="no-display-inline" id="H3650756227214A24BBB9A26EE3421DDB" style="OLC">
+						<subsection commented="no" display-inline="no-display-inline" id="H0FC503B5AD2C4143AC8E4D1DA5A3CDED">
+              <enum>(d)</enum>
+              <header>Application with respect to major integrated oil companies</header>
+              <text display-inline="yes-display-inline">This section shall not apply to amounts paid or incurred by a taxpayer in any taxable year in which
+			 such taxpayer is a major integrated oil company (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Internal Revenue Code of 1986/s:167/ss:h/p:5/sp:B">section
+			 167(h)(5)(B)</cato:entity-ref>).</text>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="HF49BAC9283394D21909D71CEAA6A0C0E">
+          <enum>(b)</enum>
+          <header>Effective date</header>
+          <text display-inline="yes-display-inline">The amendment made by this section shall apply to amounts paid or incurred in taxable years
+			 beginning after December 31, 2013.</text>
+				</subsection>
+      </section>
+    </title>
+  </legis-body>
+</bill>
+</doc>
