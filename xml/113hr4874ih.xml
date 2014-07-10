@@ -1,0 +1,857 @@
+<doc>
+  <docmeta id="113hr4874ih">
+    <bill congress="113" type="hr" number="4874" version="ih"/>
+    <revision size="33849" annotations="0" status="complete" id="7" commit-time="2014-06-26T22:41:33Z" committer="mbohmer" doc="113hr4874ih/7.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HC53E3E4B6BEA4FD2961F02445C3F00F9" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 4874 IH: Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-06-17</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>H. R. 4874</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20140617">June 17, 2014</action-date>
+			<action-desc>
+        <sponsor name-id="S001195">Mr. Smith of Missouri</sponsor> (for himself, <cosponsor name-id="B000013">Mr. Bachus</cosponsor>, <cosponsor name-id="C001093">Mr. Collins of Georgia</cosponsor>, <cosponsor name-id="F000460">Mr. Farenthold</cosponsor>, and <cosponsor name-id="H001059">Mr. Hultgren</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name>, and in addition to the Committees on the <committee-name committee-id="HJU00">Judiciary</committee-name> and <committee-name committee-id="HAP00">Appropriations</committee-name>, for a period to be subsequently determined by the Speaker, in each case for consideration of such
+			 provisions as fall within the jurisdiction of the committee concerned</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide for the establishment of a process for the review of rules and sets of rules, and for
+			 other purposes.</official-title>
+	</form>
+	<legis-body id="H48C05B4E1E2F4080ADCDB0795D87C831" style="OLC">
+		<section id="HB5618B81DF644D4BA66FA11766617C4D" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title</header>
+      <text display-inline="no-display-inline">This Act may be cited as the <quote>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014" proposed="true">
+            <short-title>Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014</short-title>
+          </cato:entity-ref>
+        </quote> or as the <quote>
+          <short-title>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="SCRUB Act of 2014" proposed="true">SCRUB Act of 2014</cato:entity-ref>
+          </short-title>
+        </quote>.</text>
+		</section>
+    <section id="HE481D02DE3354A49BB86A9561987E1FB">
+      <enum>2.</enum>
+      <header>Table of contents</header>
+			<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+				<toc-entry idref="HB5618B81DF644D4BA66FA11766617C4D" level="section">Sec. 1. Short title.</toc-entry>
+				<toc-entry idref="HE481D02DE3354A49BB86A9561987E1FB" level="section">Sec. 2. Table of contents.</toc-entry>
+				<toc-entry idref="HE1D7CEF396A94C44991EE1D4A4B3E6EA" level="title">Title I—Retrospective Regulatory Review Commission</toc-entry>
+				<toc-entry idref="HC1F5829A3180424398B539E151A0F8D2" level="section">Sec. 101. In general.</toc-entry>
+				<toc-entry idref="H73F4B2410FB6409A97BA7784E975CF18" level="title">Title II—Regulatory Cut-Go</toc-entry>
+				<toc-entry idref="HD9817FAF4D6D42AD9C03A52363426A07" level="section">Sec. 201. Cut-go procedures.</toc-entry>
+				<toc-entry idref="HEB7F264771314898BE716D1CF1CA959D" level="section">Sec. 202. Applicability.</toc-entry>
+				<toc-entry idref="H0EE4D758CD6F4CD4B978D4AE4DF92C2B" level="section">Sec. 203. OIRA certification of cost calculations.</toc-entry>
+				<toc-entry idref="H20EFACDA90E74BD1B6E9F8BF5D4F685C" level="title">Title III—Retrospective Review of New Rules</toc-entry>
+				<toc-entry idref="HAFBED92092C6416AA947EF80BCEC67F5" level="section">Sec. 301. Plan for future review.</toc-entry>
+				<toc-entry idref="H85BB60F2166D4C3EB1B928F905B93AC9" level="title">Title IV—Judicial Review</toc-entry>
+				<toc-entry idref="H544DBBCB2B4141E282D57502222A4803" level="section">Sec. 401. Judicial review.</toc-entry>
+				<toc-entry idref="HDA3829550A374059925CA82BF3FF458D" level="title">Title V—Miscellaneous Provisions</toc-entry>
+				<toc-entry idref="H4317730927014F83900CA13A8F2CF778" level="section">Sec. 501. Definitions.</toc-entry>
+				<toc-entry idref="HD152E159938D409684D692EDE6264698" level="section">Sec. 502. Effective date.</toc-entry>
+			</toc>
+		</section>
+    <title id="HE1D7CEF396A94C44991EE1D4A4B3E6EA">
+      <enum>I</enum>
+      <header>Retrospective Regulatory Review Commission</header>
+			<section id="HC1F5829A3180424398B539E151A0F8D2">
+        <enum>101.</enum>
+        <header>In general</header>
+				<subsection id="H8C75B513A944460E8606D774D937924B">
+          <enum>(a)</enum>
+          <header>Establishment</header>
+          <text display-inline="yes-display-inline">There is established a commission, to be known as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Retrospective Regulatory Review Commission</cato:entity-ref>,
+			 that shall review rules and sets of rules in accordance with specified
+			 criteria to determine if a rule or set of rules should be repealed to
+			 eliminate or reduce the costs of regulation to the economy. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>
+			 shall terminate on the date that is 5 years and 180 days after the date of
+			 enactment of this Act or 5 years after the date by which all <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>
+			 members’ terms have commenced, whichever is later.</text>
+				</subsection>
+        <subsection id="H5B4FABBC572E434393CEE7E05C893193">
+          <enum>(b)</enum>
+          <header>Membership</header>
+					<paragraph id="H3F7013503F1247F495735E3158B3A7E5">
+            <enum>(1)</enum>
+            <header>Number</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> shall be composed of 9 members who shall be appointed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> and confirmed
+			 by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0010" entity-type="federal-body">Senate</cato:entity-ref>. Each member shall be appointed not later than 180 days
+			 after the date of enactment of this Act.</text>
+					</paragraph>
+          <paragraph id="H29A7D1427C4C430AAEBF0DC0A06830A7">
+            <enum>(2)</enum>
+            <header>Term</header>
+            <text display-inline="yes-display-inline">The term of each member shall commence upon the member’s confirmation by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0010" entity-type="federal-body">Senate</cato:entity-ref> and shall
+			 extend to the date that is 5 years and 180 days after the date of
+			 enactment of this Act or that is 5 years after the date by which all
+			 members have been confirmed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0010" entity-type="federal-body">Senate</cato:entity-ref>, whichever is later.</text>
+					</paragraph>
+          <paragraph id="HD6E63034CE444D298B8EA956A3DFD670">
+            <enum>(3)</enum>
+            <header>Appointment</header>
+            <text>The members of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> shall be appointed as follows:</text>
+						<subparagraph id="H75BA3AD7F62845ACA1F2B645DE60416B">
+              <enum>(A)</enum>
+              <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> shall appoint the chair of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> from among past Administrators of the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Information and Regulatory Affairs" entity-parent-id="1103">Office of Information and Regulatory Affairs</cato:entity-ref>, past chairmen of the
+			 Administrative Conference of the United States, and other candidates of
+			 similar expertise and experience in rulemaking affairs and the
+			 administration of regulatory reviews.</text>
+						</subparagraph>
+            <subparagraph id="H3C4B3E6B56554AF3B6531ED15D2088F9">
+              <enum>(B)</enum>
+              <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-parent-id="0050" entity-type="federal-body" value="Speaker of the House of Representatives">Speaker of the House of Representatives</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-parent-id="0050" entity-type="federal-body" value="Minority Leader of the House of Representatives">Minority Leader of the House of Representatives</cato:entity-ref>,
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-parent-id="0010" entity-type="federal-body" value="Majority Leader of the Senate">Majority Leader of the Senate</cato:entity-ref>, and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-parent-id="0010" entity-type="federal-body" value="Minority Leader of the Senate">Minority Leader of the Senate</cato:entity-ref>
+			 shall each present to the President lists of candidates to be members of
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>. Such candidates shall be individuals learned in rulemaking
+			 affairs and, preferably, administration of regulatory reviews. The
+			 President shall appoint 2 members of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> from each list
+			 provided under this paragraph, subject to the provisions of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:b/p:3/sp:C" proposed="true">paragraph (C)</cato:entity-ref>.</text>
+						</subparagraph>
+            <subparagraph id="H379BB776953A467986E59CB1590AC0A2">
+              <enum>(C)</enum>
+              <text>If the President—</text>
+							<clause id="H2B69077C2ED14D0CA818CA704030B2A6">
+                <enum>(i)</enum>
+                <text display-inline="yes-display-inline">determines that any candidate to be a Member of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> who appears on a list presented to
+			 him under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:b/p:3/sp:B" proposed="true">paragraph (B)</cato:entity-ref> does not meet the qualifications specified in this
+			 paragraph to be a member of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>; and</text>
+							</clause>
+              <clause id="H47645F3792CD4245BAD9915727802574">
+                <enum>(ii)</enum>
+                <text display-inline="yes-display-inline">certifies that determination to the congressional officials specified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:b/p:3/sp:B" proposed="true">paragraph (B)</cato:entity-ref>;</text>
+              </clause>
+              <continuation-text continuation-text-level="subparagraph">the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> may then request from the presenter of the list a new list of one or more candidates.</continuation-text>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection id="HB86AC072B5C540B8AC43F05B1456C1F2">
+          <enum>(c)</enum>
+          <header>Powers and authorities of the Commission
+          </header>
+					<paragraph id="H49934E60EC904F65B5B253850720F6FE">
+            <enum>(1)</enum>
+            <header>Meetings</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> may meet when, where, and as often as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> determines appropriate, except
+			 that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> shall hold public meetings not less than twice each
+			 year.</text>
+					</paragraph>
+          <paragraph id="HBF9BC1FE2EFC466181BF4AA4477FA506">
+            <enum>(2)</enum>
+            <header>Hearings</header>
+            <text display-inline="yes-display-inline">In addition to meetings held under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> may hold hearings to consider
+			 issues of fact or law relevant to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>’s work. Any hearing held
+			 by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> shall be in public.</text>
+					</paragraph>
+          <paragraph id="H2D27881FE6C0463A9289EA764931CA1D">
+            <enum>(3)</enum>
+            <header>Access to Information</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> may secure directly from any department or agency of the United States information
+			 necessary to enable it to carry out this Act. Upon request of the chair of
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>, the head of that department or agency shall furnish that
+			 information to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>.</text>
+					</paragraph>
+          <paragraph id="H38ED738DB94B4A8E8D6C96D7D13078B3">
+            <enum>(4)</enum>
+            <header>Subpoenas</header>
+						<subparagraph id="HBAD2669689184B48BBB2D2DB5F9CF7BD">
+              <enum>(A)</enum>
+              <header>In general</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> may issue subpoenas requiring the attendance and testimony of witnesses and the
+			 production of any evidence relating to the duties of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>. The
+			 attendance of witnesses and the production of evidence may be required
+			 from any place within the United States at any designated place of hearing
+			 within the United States.</text>
+						</subparagraph>
+            <subparagraph id="H3CA1A1A8B6064B4A84627BCB0F1C6D5D">
+              <enum>(B)</enum>
+              <header>Failure to obey a Subpoena</header>
+              <text>If a person refuses to obey a subpoena issued under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:a" proposed="true">subparagraph (a)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> may apply to a
+			 United States district court for an order requiring that person to appear
+			 before the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> to give testimony, produce evidence, or both,
+			 relating to the matter under investigation. The application may be made
+			 within the judicial district where the hearing is conducted or where that
+			 person is found, resides, or transacts business. Any failure to obey the
+			 order of the court may be punished by the court as civil contempt.</text>
+						</subparagraph>
+            <subparagraph id="H9CEF999DA9A44C79A777E861DE6F4FC2">
+              <enum>(C)</enum>
+              <header>Service of subpoenas</header>
+              <text>The subpoenas of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> shall be served in the manner provided for subpoenas issued by a
+			 United States district court under the Federal Rules of Civil Procedure
+			 for the United States district courts.</text>
+						</subparagraph>
+            <subparagraph id="H2889EED92852430094F4AB88304727E9">
+              <enum>(D)</enum>
+              <header>Service of process</header>
+              <text>All process of any court to which application is made under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:c/p:2" proposed="true">paragraph (2)</cato:entity-ref> may be served in the
+			 judicial district in which the person required to be served resides or may
+			 be found.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection display-inline="no-display-inline" id="H529F33613A924230972C68B4DA53B9B2">
+          <enum>(d)</enum>
+          <header>Pay and Travel Expenses</header>
+					<paragraph id="H024743D4CACE479B83BAE346BE63E84E">
+            <enum>(1)</enum>
+            <header>Pay</header>
+						<subparagraph id="HB6FE44C04A9C40BFB197EDE15A7EA278">
+              <enum>(A)</enum>
+              <header>Members</header>
+              <text display-inline="yes-display-inline">Each member, other than the chair, shall be paid at a rate equal to the daily equivalent of the
+			 minimum annual rate of basic pay payable for level IV of the Executive
+			 Schedule under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/5315">
+                  <external-xref legal-doc="usc" parsable-cite="usc/5/5315">section 5315</external-xref> of title 5, United States Code</cato:entity-ref>, for each day
+			 (including travel time) during which the member is engaged in the actual
+			 performance of duties vested in the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>.</text>
+						</subparagraph>
+            <subparagraph id="HC82AEB97B2CC42CF80A57AA91F6B8B06">
+              <enum>(B)</enum>
+              <header>Chair</header>
+              <text display-inline="yes-display-inline">The chair shall be paid for each day referred to in subparagraph (A) at a rate equal to the daily
+			 equivalent of the minimum annual rate of basic pay payable for level III
+			 of the Executive Schedule under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/5314">
+                  <external-xref legal-doc="usc" parsable-cite="usc/5/5314">section 5314</external-xref> of title 5, United States
+			 Code</cato:entity-ref>.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="HF41A9E98B89F4F3FAA189F88EBD7C9FB">
+            <enum>(2)</enum>
+            <header>Travel expenses</header>
+            <text>Members shall receive travel expenses, including per diem in lieu of subsistence, in accordance
+			 with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/5702">sections <external-xref legal-doc="usc" parsable-cite="usc/5/5702">5702</external-xref>
+              </cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/5703">
+                <external-xref legal-doc="usc" parsable-cite="usc/5/5703">5703</external-xref> of title 5, United States Code</cato:entity-ref>.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="HCCAF1C52A9C44FACA80B467B2C474E62">
+          <enum>(e)</enum>
+          <header>Director of Staff</header>
+					<paragraph id="H7DA12826304445DAB420EA6A42755A26">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> shall appoint a Director.</text>
+					</paragraph>
+          <paragraph id="H8269F92A92664086A0A72FBC61DBD711">
+            <enum>(2)</enum>
+            <header>Pay</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Director</cato:entity-ref> shall be paid at the rate of basic pay payable for level IV of the Executive Schedule
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/5315">
+                <external-xref legal-doc="usc" parsable-cite="usc/5/5315">section 5315</external-xref> of title 5, United States Code</cato:entity-ref>.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H53F61B5A54D34744B9D510C8BB080D38">
+          <enum>(f)</enum>
+          <header>Staff</header>
+					<paragraph id="H68B9AF6E54E64C56B2F6B157ACD4DFCF">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:f/p:2" proposed="true">paragraph (2)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Director</cato:entity-ref>, with the approval of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>, may appoint and fix
+			 the pay of additional personnel from the public and private sectors.</text>
+					</paragraph>
+          <paragraph id="H1B1BFB6659A446C6B49AD04CB866BEAE">
+            <enum>(2)</enum>
+            <header>Limitations on appointment</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Director</cato:entity-ref> may make such appointments without regard to the provisions of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5">title 5, United States
+			 Code</cato:entity-ref>, governing appointments in the competitive service, and any personnel
+			 so appointed may be paid without regard to the provisions of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/51">chapter 51</cato:entity-ref>
+			 and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/53/III">subchapter III of chapter 53 of that title</cato:entity-ref> relating to classification
+			 and General Schedule pay rates, except that an individual so appointed may
+			 not receive pay in excess of the annual rate of basic pay payable for
+			 GS–18 of the General Schedule.</text>
+					</paragraph>
+          <paragraph id="HD995495BCDCB413EAD7A28CA3EB8FEDA">
+            <enum>(3)</enum>
+            <header>Agency assistance</header>
+            <text display-inline="yes-display-inline">Following consultation with and upon request of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Director</cato:entity-ref>, the head of any Federal department or
+			 agency shall detail any of the personnel of that department or agency to
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> to assist the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> in carrying out its duties under
+			 this Act.</text>
+					</paragraph>
+          <paragraph id="H18318C27EA4B41A4AB51DADBE937B4C9">
+            <enum>(4)</enum>
+            <header>GAO and OIRA assistance</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0500" entity-type="federal-body">Comptroller General of the United States</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1103" entity-type="federal-body">Administrator of the Office of Information and
+			 Regulatory Affairs</cato:entity-ref> shall provide assistance, including the detailing of
+			 employees, to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> in accordance with an agreement entered into
+			 with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>.</text>
+					</paragraph>
+          <paragraph id="H9560F38346014BDA947FAF0549770D50">
+            <enum>(5)</enum>
+            <header>Assistance from other parties</header>
+            <text display-inline="yes-display-inline">Congress, the States, municipalities, federally recognized Indian tribes, and local governments may
+			 provide assistance, including the detailing of employees, to the
+			 Commission in accordance with an agreement entered into with the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H83E68CB9F0434ABCB60DE1DD66BB8066">
+          <enum>(g)</enum>
+          <header>Other Authority</header>
+					<paragraph id="HCCB4477943E748CD8BAD896847701DBD">
+            <enum>(1)</enum>
+            <header>experts and consultants</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> may procure by contract, to the extent funds are available, the temporary or
+			 intermittent services of experts or consultants pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/3109">section 3109
+			 of title 5</cato:entity-ref>, United States Code.</text>
+					</paragraph>
+          <paragraph id="H045CBD13F5E04282ACBDA13FC3F05305">
+            <enum>(2)</enum>
+            <header>property</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> may lease space and acquire personal property to the extent funds are available.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H60A0C1D046A345A4975BE39613B8AA8E">
+          <enum>(h)</enum>
+          <header>Duties of the Commission
+          </header>
+					<paragraph id="H02EBB2FEA521421894AA8ABF63D6A0B6">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> shall conduct a review of the Code of Federal Regulations to identify rules and sets
+			 of rules that collectively implement a regulatory program that should be
+			 repealed to lower the cost of regulation to the economy. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>
+			 shall give priority in its review to rules or sets of rules that are major
+			 rules or include major rules, have been in effect more than 15 years,
+			 impose paperwork burdens that could be reduced substantially without
+			 significantly diminishing regulatory effectiveness, impose
+			 disproportionately high costs on entities that qualify as small entities
+			 within the meaning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/601//6">
+                <external-xref legal-doc="usc" parsable-cite="usc/5/601">section 601(6)</external-xref> of title 5, United States Code</cato:entity-ref>, or
+			 could be strengthened in their effectiveness while reducing regulatory
+			 costs. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> shall have as its goal to achieve a reduction of at
+			 least 15 percent in the cumulative costs of Federal regulation with a
+			 minimal reduction in the overall effectiveness of such regulation.</text>
+					</paragraph>
+          <paragraph id="H719264CD668B4DAD91F71D090B986437">
+            <enum>(2)</enum>
+            <header>Nature of review</header>
+            <text display-inline="yes-display-inline">To identify which rules and sets of rules should be repealed to lower the cost of regulation to the
+			 economy, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> shall apply the following criteria:</text>
+						<subparagraph id="HE47DC50981D3498A86AF987534BAF9AD">
+              <enum>(A)</enum>
+              <text display-inline="yes-display-inline">Whether the original purpose of the rule or set of rules was achieved, and the rule or set of rules
+			 could be repealed without significant recurrence of adverse effects or
+			 conduct that the rule or set of rules was intended to prevent or reduce.</text>
+						</subparagraph>
+            <subparagraph id="H61BCDFAEC8304EC19CCE305ADB22051E">
+              <enum>(B)</enum>
+              <text display-inline="yes-display-inline">Whether the implementation, compliance, administration, enforcement or other costs of the rule or
+			 set of rules to the economy are not justified by the benefits to society
+			 within the United States produced by the expenditure of those costs.</text>
+						</subparagraph>
+            <subparagraph id="H1ED96E50B8334262A2BC27B9AC685B29">
+              <enum>(C)</enum>
+              <text display-inline="yes-display-inline">Whether the rule or set of rules has been rendered unnecessary or obsolete, taking into
+			 consideration the length of time since the rule was made and the degree to
+			 which technology, economic conditions, market practices, or other relevant
+			 factors have changed in the subject area affected by the rule or set of
+			 rules.</text>
+						</subparagraph>
+            <subparagraph id="H6D7A42A3604C4BFAA6A14023BDAA42D7">
+              <enum>(D)</enum>
+              <text display-inline="yes-display-inline">Whether the rule or set of rules is ineffective at achieving the rule or set’s purposes.</text>
+						</subparagraph>
+            <subparagraph id="H959D22F8F74746F3961ECC9B44EEAF3A">
+              <enum>(E)</enum>
+              <text display-inline="yes-display-inline">Whether the rule or set of rules overlaps, duplicates, or conflicts with other Federal rules, and
+			 to the extent feasible, with State and local governmental rules.</text>
+						</subparagraph>
+            <subparagraph id="H55D4ECA5BEE44BABA0C219E5181EEBD9">
+              <enum>(F)</enum>
+              <text display-inline="yes-display-inline">Whether the rule or set of rules has excessive compliance costs or is otherwise excessively
+			 burdensome, as compared to alternatives that—</text>
+							<clause id="HAE785F0176074E0ABAF1A923DFA1D50E">
+                <enum>(i)</enum>
+                <text>specify performance objectives rather than conduct or manners of compliance;</text>
+							</clause>
+              <clause id="H1C9D7341081246B480E2AD475A77B693">
+                <enum>(ii)</enum>
+                <text>establish economic incentives to encourage desired behavior;</text>
+							</clause>
+              <clause id="H56738AD54118438299D0BDF1516BF889">
+                <enum>(iii)</enum>
+                <text>provide information upon which choices can be made by the public;</text>
+							</clause>
+              <clause id="H43729C26CEB9461EBE655BD0F4E6E931">
+                <enum>(iv)</enum>
+                <text>incorporate other innovative alternatives rather than agency actions that specify conduct or
+			 manners of compliance; or</text>
+							</clause>
+              <clause id="H0F1A21C7946846DA8E7A635D8B12306D">
+                <enum>(v)</enum>
+                <text display-inline="yes-display-inline">could in other ways substantially lower costs without significantly undermining effectiveness.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="H7CCCBDDCDED44A51B3F2C45B271A4C03">
+              <enum>(G)</enum>
+              <text display-inline="yes-display-inline">Whether the rule or set of rules inhibits innovation in or growth of the United States economy,
+			 such as by impeding the introduction or use of safer or equally safe
+			 technology that is newer or more efficient than technology required by or
+			 permissible under the rule or set of rules.</text>
+						</subparagraph>
+            <subparagraph id="HDF8BB1BE71AB446B932B91917A1631A8">
+              <enum>(H)</enum>
+              <text display-inline="yes-display-inline">Whether or not the rule or set of rules harms competition within the United States economy or the
+			 international economic competitiveness of enterprises or entities based in
+			 the United States.</text>
+						</subparagraph>
+            <subparagraph id="H191B310786C847D9AD510B7C713B1461">
+              <enum>(I)</enum>
+              <text display-inline="yes-display-inline">Such other criteria as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> devises to identify rules and sets of rules that can be
+			 repealed to eliminate or reduce unnecessarily burdensome costs to the
+			 United States economy.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="H47EBAF3CBEA54E7FBD1B0807BB493713">
+            <enum>(3)</enum>
+            <header>Methodology for review</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> shall establish a methodology for conducting its review (including its overall
+			 review and discrete reviews of portions of the Code of Federal
+			 Regulations), identifying rules and sets of rules, and classifying rules
+			 under this subsection and publish the terms of its methodology in the
+			 Federal Register and on an Internet Website of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>. The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> may propose and seek public comment on the methodology before
+			 the methodology is established.</text>
+					</paragraph>
+          <paragraph id="HF5BE6E22F7AC468EB369C8D6016CC5A1">
+            <enum>(4)</enum>
+            <header>Classification of rules and sets of rules</header>
+						<subparagraph id="HBEF37048493B49F483F204B93CAE0900">
+              <enum>(A)</enum>
+              <header>In general</header>
+              <text>After completion of any review of rules or sets of rules under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:2" proposed="true">paragraph (2)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> shall
+			 classify each rule or set of rules identified in the review to qualify for
+			 recommended repeal as either a rule or set of rules—</text>
+							<clause id="H91D68726EF7546BFA4BDA0CE66D58364">
+                <enum>(i)</enum>
+                <text display-inline="yes-display-inline">on which immediate action to repeal is recommended; or</text>
+							</clause>
+              <clause id="H31B2A26522364EF592F14DA7E91428D3">
+                <enum>(ii)</enum>
+                <text display-inline="yes-display-inline">that should be eligible for repeal under regulatory cut-go procedures under title II.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="HD3A8DC94A64E44E3878C0678ED1AE0CB">
+              <enum>(B)</enum>
+              <header>Decisions by majority</header>
+              <text display-inline="yes-display-inline">Each decision by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> to identify a rule or set of rules for classification under this
+			 paragraph, and each decision whether to classify the rule or set of rules
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:4/sp:A/cl:i" proposed="true">subparagraph (A)(i)</cato:entity-ref> or, instead, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:4/sp:A/cl:ii" proposed="true">subparagraph (A)(ii)</cato:entity-ref>, shall be made
+			 by a simple majority vote of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>. No such vote shall take place
+			 until afer all members of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> have been confirmed by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0010" entity-type="federal-body">Senate</cato:entity-ref>.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="HDAC93C9FC2BE4673911A5032B8716897">
+            <enum>(5)</enum>
+            <header>Initiation of review by other persons</header>
+						<subparagraph id="HEB0B77630BF44EA781788577D0D61755">
+              <enum>(A)</enum>
+              <header>In general</header>
+              <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> may also conduct a review under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:2" proposed="true">paragraph (2)</cato:entity-ref> of, and, if appropriate, classify
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:4" proposed="true">paragraph (4)</cato:entity-ref>, any rule or set of rules that is submitted for review
+			 to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> by—</text>
+							<clause id="H4A14361C00574AB195B90FA32862F84E">
+                <enum>(i)</enum>
+                <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>;</text>
+							</clause>
+              <clause id="HC9ABAEF8A35F4646A70BD220A3DF90CD">
+                <enum>(ii)</enum>
+                <text>a Member of Congress;</text>
+							</clause>
+              <clause id="H7D50021E123C41059F26D42F80F42144">
+                <enum>(iii)</enum>
+                <text>any officer or employee of a Federal, State, local or tribal government, or regional governmental
+			 body; or</text>
+							</clause>
+              <clause id="H777254E3A0EC4B6CB172759346423844">
+                <enum>(iv)</enum>
+                <text>any member of the public.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="H767AA27FBD94400FAFC796E842AD8041">
+              <enum>(B)</enum>
+              <header>Form of submission</header>
+              <text>A submission to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> under this paragraph shall—</text>
+							<clause id="HDD7B0B4800284DCCBF6891C23E1F535C">
+                <enum>(i)</enum>
+                <text display-inline="yes-display-inline">identify the specific rule or set of rules submitted for review;</text>
+							</clause>
+              <clause id="H5D79F577BAB649EABAC5311E10741CF1">
+                <enum>(ii)</enum>
+                <text display-inline="yes-display-inline">provide a statement of evidence to demonstrate that the rule or set of rules qualifies to be
+			 identified for repeal under the criteria listed in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:2" proposed="true">paragraph (2)</cato:entity-ref>; and</text>
+							</clause>
+              <clause id="HC41F69950154460E9D3B954CAEA5D848">
+                <enum>(iii)</enum>
+                <text display-inline="yes-display-inline">such other information as the submitter believes may be helpful to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>’s review,
+			 including a statement of the submitter’s interest in the matter.</text>
+							</clause>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection id="H9316027FAD234ABBA8DF21978B176465">
+          <enum>(i)</enum>
+          <header>Notices and reports of the Commission
+          </header>
+					<paragraph id="HC5F85EA0BC9D442EA66C69D1DC398DE9">
+            <enum>(1)</enum>
+            <header>Notices Of And Reports On Activities</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> shall publish, in the Federal Register and on an Internet Website of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>—</text>
+						<subparagraph id="HDF19424B1B3B4BA79C6182E8C4886134">
+              <enum>(A)</enum>
+              <text>notices in advance of all public meetings and hearings and classifications under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h" proposed="true">subsection (h)</cato:entity-ref>
+			 informing the public of the basis, purpose and procedures for the meeting,
+			 hearing or classification; and</text>
+						</subparagraph>
+            <subparagraph id="HBA21B3421AE340D785EDB2CCF41B55BE">
+              <enum>(B)</enum>
+              <text>reports after the conclusion of any public meeting, hearing, or classification under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h" proposed="true">subsection (h)</cato:entity-ref>
+			 summarizing in detail the basis, purpose and substance of the meeting,
+			 hearing, or classification.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="HC0A93762847C4B139D7A163EBC0520CA">
+            <enum>(2)</enum>
+            <header>Annual reports to Congress</header>
+            <text display-inline="yes-display-inline">Each year, beginning on the date that is one year after the date by which all <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> members
+			 have been confirmed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0010" entity-type="federal-body">Senate</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> shall submit a report
+			 simultaneously to each House of Congress detailing the activities of the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> for the previous year, and listing all rules and sets of rules
+			 classified under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h" proposed="true">subsection (h)</cato:entity-ref> during that year. For each rule or set of
+			 rules so listed, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> shall—</text>
+						<subparagraph id="H352997EA34DB4004AFD53E3C02A5341F">
+              <enum>(A)</enum>
+              <text>identify the agency that made the rule or set of rules;</text>
+						</subparagraph>
+            <subparagraph id="H8DD939BFCDDF4B21909748DF106DB149">
+              <enum>(B)</enum>
+              <text>identify the annual cost of the rule or set of rules to the United States economy and the bases
+			 upon which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> identified that cost;</text>
+						</subparagraph>
+            <subparagraph id="H4458B996F152489C9016BFEFBF27A73A">
+              <enum>(C)</enum>
+              <text display-inline="yes-display-inline">identify whether the rule or set of rules was classified under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:4/sp:A/cl:i" proposed="true">subsection (h)(4)(A)(i)</cato:entity-ref> or
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:4/sp:A/cl:ii" proposed="true">(h)(4)(A)(ii)</cato:entity-ref>;</text>
+						</subparagraph>
+            <subparagraph id="H044DD53240314CAA91049D49643DA362">
+              <enum>(D)</enum>
+              <text display-inline="yes-display-inline">identify the criteria under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:2" proposed="true">subsection (h)(2)</cato:entity-ref> that caused the classification of the rule or set of
+			 rules and the bases upon which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> determined that those
+			 criteria were met;</text>
+						</subparagraph>
+            <subparagraph id="HAD07DEB1BA3A4AFA9DEB3ADBCDAC92B0">
+              <enum>(E)</enum>
+              <text display-inline="yes-display-inline">for each rule or set of rules listed under the criteria set forth in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:2/sp:B" proposed="true">section 101(h)(2) (B)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:2/sp:D" proposed="true">(D)</cato:entity-ref>,
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:2/sp:F" proposed="true">(F)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:2/sp:G" proposed="true">(G)</cato:entity-ref>, or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:2/sp:H" proposed="true">(H)</cato:entity-ref>, or other criteria established by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:2/sp:I" proposed="true">subsection (h)(2)(I)</cato:entity-ref> under which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> evaluated alternatives to
+			 the rule or set of rules that could lead to lower regulatory costs,
+			 identify alternatives to the rule or set of rules that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>
+			 recommends the agency consider as replacements for the rule or set of
+			 rules and the bases on which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> rests its recommendations,
+			 and, in identifying such alternatives, emphasize alternatives that will
+			 achieve regulatory effectiveness at the lowest cost and with the lowest
+			 adverse impacts on jobs;</text>
+						</subparagraph>
+            <subparagraph id="H5B86445AE32B4DA3A6E4965266D7892C">
+              <enum>(F)</enum>
+              <text display-inline="yes-display-inline">for each rule or set of rules listed under the criteria set forth in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:2/sp:E" proposed="true">section 101(h)(2)(E)</cato:entity-ref>, the
+			 other Federal, State or local governmental rules that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> found
+			 the rule or set of rules to overlap, duplicate, or conflict with, and the
+			 bases for the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>’s findings; and</text>
+						</subparagraph>
+            <subparagraph id="H82E0F5E4D9EC45C1B8150D7D244433DC">
+              <enum>(G)</enum>
+              <text>in the case of each set of rules so listed, analyze whether <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> should also consider repeal of
+			 the statutory authority implemented by the set of rules.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="H427375E03E934054AF3254C1DA6D80E0">
+            <enum>(3)</enum>
+            <header>Final report</header>
+            <text display-inline="yes-display-inline">Not later than the date on which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> members’ appointments expire, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> shall
+			 submit a final report simultaneously to each House of Congress summarizing
+			 all activities and recommendations of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>, including a list of
+			 all rules or sets of rules the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> classified under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:4/sp:A/cl:i" proposed="true">subparagraph
+			 (h)(4)(A)(i)</cato:entity-ref> for immediate action to repeal, a separate list of all rules
+			 or sets of rules the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> classified under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:4/sp:A/cl:ii" proposed="true">subparagraph
+			 (h)(4)(A)(ii)</cato:entity-ref> for repeal, and with regard to each rule or set of rules
+			 listed on either list, the information described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:2/sp:A..F" proposed="true">subparagraphs (A)
+			 through (F) of paragraph (2)</cato:entity-ref>. This report may be included in the final
+			 annual report of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:2" proposed="true">paragraph (2)</cato:entity-ref> and may include the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission’s</cato:entity-ref> recommendation whether the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> should be reauthorized
+			 by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H299030F75A634D16AB7444EA65F8250C">
+          <enum>(j)</enum>
+          <header>Repeal of regulations; Congressional consideration of commission reports</header>
+					<paragraph id="H7FA25BAD7AEA49FCB35EA90F0C6CFA5E">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:j/p:2" proposed="true">paragraph (2)</cato:entity-ref>—</text>
+						<subparagraph id="H9FC84DCBA4C441ABB1BF14390EB43E05">
+              <enum>(A)</enum>
+              <text display-inline="yes-display-inline">the head of each agency with authority to repeal a rule or set of rules classified by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:4/sp:A/cl:i" proposed="true">subparagraph (h)(4)(A)(i)</cato:entity-ref> for immediate action to repeal
+			 and newly listed as such in an annual or final report of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:i/p:2" proposed="true">subsection (i) (2)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:i/p:3" proposed="true">(3)</cato:entity-ref> shall repeal the rule or set of rules as
+			 recommended by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> within 60 days after the enactment of a
+			 joint resolution under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:j/p:2" proposed="true">paragraph (2)</cato:entity-ref> for approval of the recommendations
+			 of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> in the report; and</text>
+						</subparagraph>
+            <subparagraph id="H4F4858CCC06B4EAEBBD7F855219BE4F8">
+              <enum>(B)</enum>
+              <text display-inline="yes-display-inline">the head of each agency with authority to repeal a rule or set of rules classified by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:4/sp:A/cl:ii" proposed="true">subparagraph (h)(4)(A)(ii)</cato:entity-ref> for repeal and newly listed as
+			 such in an annual or final report of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:i/p:2" proposed="true">subsection
+			 (i) (2)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:i/p:3" proposed="true">(3)</cato:entity-ref> shall repeal the rule or set of rules as recommended by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:201" proposed="true">section 201</cato:entity-ref>, following the enactment of a joint
+			 resolution under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:j/p:2" proposed="true">paragraph (2)</cato:entity-ref> for approval of the recommendations of the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> in the report.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="H8FE2AAB9B7134ECCAF635CFA305001BB">
+            <enum>(2)</enum>
+            <header>Congressional approval</header>
+						<subparagraph id="HE00FA4D6389D4BF1B2FEA640DB794994">
+              <enum>(A)</enum>
+              <header>In general</header>
+              <text>No head of an agency described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:j/p:1" proposed="true">paragraph (1)</cato:entity-ref> shall be required by this Act to carry out a repeal
+			 listed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> in a report transmitted to Congress under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:i/p:2" proposed="true">subsection (i) (2)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:i/p:3" proposed="true">(3)</cato:entity-ref> until a joint resolution is enacted, in
+			 accordance with the provisions of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:j/p:2/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>, approving such
+			 recommendations of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> for repeal.</text>
+						</subparagraph>
+            <subparagraph id="HC783644C7FE24115AF577BDDCAA804D7">
+              <enum>(B)</enum>
+              <header>Terms of the resolution</header>
+              <text display-inline="yes-display-inline">For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:j/p:2/sp:A" proposed="true">paragraph (A)</cato:entity-ref>, the term <term>joint resolution</term> means only a joint resolution which is introduced after the date on which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> transmits
+			 to the Congress under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:i/p:2" proposed="true">subsection (i) (2)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:i/p:3" proposed="true">(3)</cato:entity-ref> the report containing the
+			 recommendations to which the resolution pertains, and—</text>
+							<clause id="H73CAB4DD20EB41DB8CE72ADC2DEC7CFC">
+                <enum>(i)</enum>
+                <text>which does not have a preamble;</text>
+							</clause>
+              <clause id="HE0866F33B1C74EADAD329691D91E7862">
+                <enum>(ii)</enum>
+                <text>the matter after the resolving clause of which is only as follows: <quote>That Congress approves the recommendations for repeal of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Retrospective Regulatory Review
+			 Commission</cato:entity-ref> as submitted by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> on ____</quote>, the blank space being filled in with the appropriate date; and</text>
+							</clause>
+              <clause id="H7E2B1BFA39EC4A51A3DD3CA27684C132">
+                <enum>(iii)</enum>
+                <text>the title of which is as follows: <quote>Approving recommendations for repeal of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Retrospective Regulatory Review Commission</cato:entity-ref>.</quote>.</text>
+							</clause>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection id="HD634AFA3434A466B996E3D9A8D5BB741">
+          <enum>(k)</enum>
+          <header>Transfer of funds from regulatory agencies</header>
+          <text>Of the unobligated amounts made available in future fiscal years for each agency that makes rules
+			 subject to review by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>, up to 1 percent or $25,000,000,
+			 whichever is greater, shall be available for the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>.</text>
+				</subsection>
+        <subsection id="HC54BD8B7253540CBB2431BD1FE7FAC01">
+          <enum>(l)</enum>
+          <header>Consultation between the chairman and the director</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Chairman of the Commission</cato:entity-ref> shall consult with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1103" entity-type="federal-body">Director of the Office of Management and
+			 Budget</cato:entity-ref> before making requests for agency funds under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:j" proposed="true">paragraph (j)</cato:entity-ref>.</text>
+				</subsection>
+      </section>
+    </title>
+    <title id="H73F4B2410FB6409A97BA7784E975CF18">
+      <enum>II</enum>
+      <header>Regulatory Cut-Go</header>
+			<section id="HD9817FAF4D6D42AD9C03A52363426A07">
+        <enum>201.</enum>
+        <header>Cut-go procedures</header>
+				<subsection id="HAB2A7BB0D08C402C9E9A5357FF5B2AF8">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">Except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:j/p:2/sp:A" proposed="true">section 101(j)(2)(A)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:202" proposed="true">section 202</cato:entity-ref>, an agency, when the agency makes a new
+			 rule, shall repeal rules or sets of rules of that agency classified by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:4/sp:A/cl:ii" proposed="true">section 101(h)(4)(A)(ii)</cato:entity-ref>, such that the annual costs of
+			 the new rule to the United States economy is offset by such repeals, in an
+			 amount equal to or greater than the cost of the new rule, based on the
+			 regulatory cost reductions of repeal identified by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>.</text>
+				</subsection>
+        <subsection id="H0E29274206A1428DB08ECA7185E8DBAF">
+          <enum>(b)</enum>
+          <header>Alternative procedure</header>
+          <text display-inline="yes-display-inline">An agency may, alternatively, repeal rules or sets of rules of that agency classified by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:4/sp:A/cl:ii" proposed="true">section 101(h)(4)(A)(ii)</cato:entity-ref> prior to the time specified in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:201/ss:a" proposed="true">subsection (a)</cato:entity-ref>. If the agency so repeals such a rule or set of rules and
+			 thereby reduces the annual, inflation-adjusted cost of the rule or set of
+			 rules to the United States economy, the agency may thereafter apply the
+			 reduction in regulatory costs, based on the regulatory cost reductions of
+			 repeal identified by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref>, to meet, in whole or in part, the
+			 regulatory cost reduction required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:201/ss:a" proposed="true">subsection (a) of this section</cato:entity-ref> to
+			 be made at the time the agency promulgates a new rule.</text>
+				</subsection>
+        <subsection id="HD20D31D7633E44B99D0D42154391AEE9">
+          <enum>(c)</enum>
+          <header>Achievement of full net cost reductions</header>
+					<paragraph id="HC0C68CF36F0847AEB07B12B5544AB78D">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">Subject to the provisions of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:201/ss:c/p:2" proposed="true">paragraph (2)</cato:entity-ref>, an agency may offset the costs of a new rule or set of
+			 rules by repealing a rule or set of rules listed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:4/sp:A/cl:ii" proposed="true">section 101(h)(4)(A)(ii)</cato:entity-ref> that implement the same statutory authority as
+			 the new rule or set of rules.</text>
+					</paragraph>
+          <paragraph id="H49C4622632AC46519960DF413E9DE2AA">
+            <enum>(2)</enum>
+            <header>Limitation</header>
+            <text display-inline="yes-display-inline">When using the authority provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:201/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref>, the agency must achieve a net reduction in
+			 costs imposed by the agency’s body of rules (including the new rule or set
+			 of rules) that is equal to or greater than the cost of the new rule or set
+			 of rules to be promulgated, including, whenever necessary, by repealing
+			 additional rules of the agency listed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:4/sp:A/cl:ii" proposed="true">section
+			 101(h)(4)(A)(ii)</cato:entity-ref>.</text>
+					</paragraph>
+        </subsection>
+      </section>
+      <section id="HEB7F264771314898BE716D1CF1CA959D">
+        <enum>202.</enum>
+        <header>Applicability</header>
+        <text display-inline="no-display-inline">An agency shall no longer be subject to the requirements of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:201" proposed="true">sections 201</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:203" proposed="true">203</cato:entity-ref> beginning on the
+			 date that there is no rule or set of rules of the agency classified by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h/p:4/sp:A/cl:ii" proposed="true">section 101(h)(4)(A)(ii)</cato:entity-ref> that has not been repealed such
+			 that all regulatory cost reductions identified by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> to be
+			 achievable through repeal have been achieved.</text>
+			</section>
+      <section id="H0EE4D758CD6F4CD4B978D4AE4DF92C2B">
+        <enum>203.</enum>
+        <header>OIRA certification of cost calculations</header>
+        <text display-inline="no-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Information and Regulatory Affairs" entity-parent-id="1103">Administrator of the Office of Information and Regulatory Affairs of the Office of Management
+			 and Budget</cato:entity-ref> shall review and certify the accuracy of agency determinations
+			 of the costs of new rules under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:201" proposed="true">section 201</cato:entity-ref>. The certification shall be
+			 included in the administrative record of the relevant rulemaking by the
+			 agency promulgating the rule, and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Information and Regulatory Affairs" entity-parent-id="1103">Administrator</cato:entity-ref> shall transmit a copy
+			 of the certification to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> when it transmits the certification to
+			 the agency.</text>
+			</section>
+    </title>
+    <title id="H20EFACDA90E74BD1B6E9F8BF5D4F685C">
+      <enum>III</enum>
+      <header>Retrospective Review of New Rules</header>
+			<section id="HAFBED92092C6416AA947EF80BCEC67F5">
+        <enum>301.</enum>
+        <header>Plan for future review</header>
+        <text display-inline="no-display-inline">When an agency makes a rule, the agency shall include in the final issuance of such rule a plan for
+			 the review of such rule by not later than 10 years after the date such
+			 rule is made. Such a review, in the case of a major rule, shall be
+			 substantially similar to the review by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Commission</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:h" proposed="true">section
+			 101(h)</cato:entity-ref>. In the case of a rule other than a major rule, the agency’s plan
+			 for review shall include other procedures and standards to enable the
+			 agency to determine whether to repeal or amend the rule to eliminate
+			 unnecessary regulatory costs to the economy. Whenever feasible, the agency
+			 shall include a proposed plan for review of a proposed rule in its notice
+			 of proposed rulemaking and shall receive public comment on the plan.</text>
+			</section>
+    </title>
+    <title id="H85BB60F2166D4C3EB1B928F905B93AC9">
+      <enum>IV</enum>
+      <header>Judicial Review</header>
+			<section id="H544DBBCB2B4141E282D57502222A4803">
+        <enum>401.</enum>
+        <header>Judicial review</header>
+				<subsection id="H73DB9D47D66346F4BB36DCC35060B187">
+          <enum>(a)</enum>
+          <header>Immediate repeals</header>
+          <text display-inline="yes-display-inline">Agency compliance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101/ss:j" proposed="true">section 101(j) of this Act</cato:entity-ref> shall be subject to judicial review under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/7">chapter
+			 7 of title 5, United States Code</cato:entity-ref>.</text>
+				</subsection>
+        <subsection id="H914EFE5BBF5A48F9B2B50DC48058C7C1">
+          <enum>(b)</enum>
+          <header>Cut-Go procedures</header>
+          <text display-inline="yes-display-inline">Agency compliance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/t:II" proposed="true">title II of this Act</cato:entity-ref> shall be subject to judicial review under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/7">chapter 7 of
+			 title 5, United States Code</cato:entity-ref>.</text>
+				</subsection>
+        <subsection id="H036AAB2A18CD4270819FFB2F741B9C8A">
+          <enum>(c)</enum>
+          <header>plans for future review</header>
+          <text display-inline="yes-display-inline">Agency compliance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:301" proposed="true">section 301</cato:entity-ref> shall be subject to judicial review under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/7">
+              <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/7">chapter 7</external-xref> of title 5,
+			 United States Code</cato:entity-ref>.</text>
+				</subsection>
+      </section>
+    </title>
+    <title id="HDA3829550A374059925CA82BF3FF458D">
+      <enum>V</enum>
+      <header>Miscellaneous Provisions</header>
+			<section id="H4317730927014F83900CA13A8F2CF778">
+        <enum>501.</enum>
+        <header>Definitions</header>
+        <text display-inline="no-display-inline">In this Act:</text>
+				<paragraph id="H91F4DEF9AA404C14B71F5CA71AA70677">
+          <enum>(1)</enum>
+          <text>The term <term>agency</term> has the meaning given such term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/551">
+              <external-xref legal-doc="usc" parsable-cite="usc/5/551">section 551</external-xref> of title 5, United States Code</cato:entity-ref>.</text>
+				</paragraph>
+        <paragraph id="H6B626EB21AA34E0E90CA8B47628C9913">
+          <enum>(2)</enum>
+          <text>The term <term>Commission</term> means the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Retrospective Regulatory Review Commission" proposed="true">Retrospective Regulatory Review Commission</cato:entity-ref> established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2014/s:101" proposed="true">section 101</cato:entity-ref>.</text>
+				</paragraph>
+        <paragraph id="HA18D0663BF17483097C6E919DD20D4BD">
+          <enum>(3)</enum>
+          <text display-inline="yes-display-inline">The term <term>major rule</term> means any rule that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1103" entity-type="federal-body">Administrator of the Office of Information and Regulatory Affairs</cato:entity-ref>
+			 determines is likely to impose—</text>
+					<subparagraph id="HC2ADCD28576D432BADF5B6CBAD07442D">
+            <enum>(A)</enum>
+            <text>an annual cost on the economy of $100,000,000 or more, adjusted annually for inflation;</text>
+					</subparagraph>
+          <subparagraph id="H328E74E866754C95A4BD3584A9B8B36B">
+            <enum>(B)</enum>
+            <text>a major increase in costs or prices for consumers, individual industries, Federal, State, local, or
+			 tribal government agencies, or geographic regions;</text>
+					</subparagraph>
+          <subparagraph id="H32A4EA7E700A47E7946125A7860CC44D">
+            <enum>(C)</enum>
+            <text>significant adverse effects on competition, employment, investment, productivity, innovation, or on
+			 the ability of United States-based enterprises to compete with
+			 foreign-based enterprises in domestic and export markets; or</text>
+					</subparagraph>
+          <subparagraph id="H1A2666B552094964AF27652A6A780A36">
+            <enum>(D)</enum>
+            <text>significant impacts on multiple sectors of the economy.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="H3F62390A281F49749DB3D55E32C73D70">
+          <enum>(4)</enum>
+          <text>The term <term>set of rules</term> means a set of rules that collectively implements a regulatory authority of an agency.</text>
+				</paragraph>
+        <paragraph id="H513897A0AB7D4C329F27961E98E85789">
+          <enum>(5)</enum>
+          <text>The term <term>rule</term> has the meaning given such term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/551">
+              <external-xref legal-doc="usc" parsable-cite="usc/5/551">section 551</external-xref> of title 5, United States Code</cato:entity-ref>.</text>
+				</paragraph>
+      </section>
+      <section id="HD152E159938D409684D692EDE6264698">
+        <enum>502.</enum>
+        <header>Effective date</header>
+        <text display-inline="no-display-inline">This Act and the amendments made by this Act shall take effect beginning on the date of enactment.</text>
+			</section>
+    </title>
+  </legis-body>
+</bill>
+</doc>

@@ -1,0 +1,1312 @@
+<doc>
+  <docmeta id="113hr4871ih">
+    <bill congress="113" type="hr" number="4871" version="ih"/>
+    <revision size="43797" annotations="0" status="complete" id="9" commit-time="2014-06-26T19:57:02Z" committer="mbohmer" doc="113hr4871ih/9.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HBEC8961D79C04D34BEBED96E8FFD19E9" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 4871 IH: TRIA Reform Act of 2014</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-06-17</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>H. R. 4871</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20140617">June 17, 2014</action-date>
+			<action-desc>
+        <sponsor name-id="N000182">Mr. Neugebauer</sponsor> (for himself and <cosponsor name-id="W000796">Mr. Westmoreland</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HBA00">Committee on Financial Services</committee-name>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To reauthorize the Terrorism Risk Insurance Act of 2002, and for other purposes.</official-title>
+	</form>
+	<legis-body id="H4355E18714B14E32A638E143CA6B3575" style="OLC">
+		<section id="H7FB98D580B944997A52B0BC2F5606D21" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title and table of contents</header>
+			<subsection id="HD3869B56A85C440185C968728839DBBB">
+        <enum>(a)</enum>
+        <header>Short title</header>
+        <text display-inline="yes-display-inline">This Act may be cited as the <quote>
+            <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="TRIA Reform Act of 2014" proposed="true">TRIA Reform Act of 2014</cato:entity-ref>
+            </short-title>
+          </quote>.</text>
+			</subsection>
+      <subsection id="H0EA4DCDA5F8C4BEF8250C3FF87AA045E">
+        <enum>(b)</enum>
+        <header>Table of contents</header>
+        <text>The table of contents for this Act is as follows:</text>
+				<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+					<toc-entry idref="H7FB98D580B944997A52B0BC2F5606D21" level="section">Sec. 1. Short title and table of contents.</toc-entry>
+					<toc-entry idref="H11F323F1397C4BD9A8C7652160883684" level="section">Sec. 2. References.</toc-entry>
+					<toc-entry idref="H70CDCFF4A51F4B8EBA40B8BA22B62008" level="section">Sec. 3. Extension of program.</toc-entry>
+					<toc-entry idref="H5C1EC0F54C494E63AD4B21DBEFE82E99" level="section">Sec. 4. Certification of acts of terrorism.</toc-entry>
+					<toc-entry idref="H1918FAC75F41426BB66277BB08BB4F06" level="section">Sec. 5. Separate treatment of conventional terrorism from NBCR terrorism.</toc-entry>
+					<toc-entry idref="H805E77141CCE4E31A2AE39E983816AED" level="section">Sec. 6. Availability of coverage.</toc-entry>
+					<toc-entry idref="H9D46876A3597426F921E3165CBDC2BDF" level="section">Sec. 7. Terrorism loss risk-spreading premiums amount.</toc-entry>
+					<toc-entry idref="HB50DA5B247FF4B1EB8CF9209F0622C06" level="section">Sec. 8. Increase of aggregate retention amount; mandatory recoupment.</toc-entry>
+					<toc-entry idref="H119ED8BF82C041BBB99CE57542F481D8" level="section">Sec. 9. Terrorism loss risk-spreading premium.</toc-entry>
+					<toc-entry idref="H2FD3E0ED4D28476885691FB9043ED4FE" level="section">Sec. 10. Risk-sharing mechanisms.</toc-entry>
+					<toc-entry idref="HC253156EC9CE48F4A076E14964D16075" level="section">Sec. 11. Reporting of terrorism insurance data.</toc-entry>
+					<toc-entry idref="HA92B18B831A94DD9BC7F141F17018720" level="section">Sec. 12. Delivery of notices to policyholders.</toc-entry>
+					<toc-entry idref="HC660B3F8F804438AA3693104FA3F1AB7" level="section">Sec. 13. Definition of control.</toc-entry>
+					<toc-entry idref="H4C851DC926F44898AEB1DB45BEB7A99E" level="section">Sec. 14. Annual study of small insurer market competitiveness.</toc-entry>
+					<toc-entry idref="H800399E0ACF2425E9E414F54C3FA60A7" level="section">Sec. 15. CBO and OMB studies regarding budgeting for costs of Federal insurance programs.</toc-entry>
+					<toc-entry idref="HAF41E5AFAD2040BF99115DE92BEA8EBE" level="section">Sec. 16. GAO study on upfront premiums and capital reserve fund.</toc-entry>
+				</toc>
+			</subsection>
+    </section>
+    <section id="H11F323F1397C4BD9A8C7652160883684">
+      <enum>2.</enum>
+      <header>References</header>
+      <text display-inline="no-display-inline">Except as otherwise expressly provided, wherever in this Act an amendment or repeal is expressed in
+			 terms of an amendment to, or repeal of, a section or other provision, the
+			 reference shall be considered to be made to a section or other provision
+			 of the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002">Terrorism Risk Insurance Act of 2002</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+            <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+          15 U.S.C. 6701
+        </external-xref> note</cato:entity-ref>)</cato:entity>.</text>
+		</section>
+    <section id="H70CDCFF4A51F4B8EBA40B8BA22B62008">
+      <enum>3.</enum>
+      <header>Extension of program</header>
+			<subsection id="HBC7B2FACA3354CE8B67CB962A730FD09">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:108/ss:a">Subsection (a) of section 108</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+            15 U.S.C. 6701
+          </external-xref> note</cato:entity-ref>)</cato:entity> is amended by striking <quote>December 31, 2014</quote> and inserting <quote>December 31, 2019</quote>.</text>
+			</subsection>
+      <subsection id="HB4A6D380DEBF406CA6397E26B1B5B536">
+        <enum>(b)</enum>
+        <header>Program years</header>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:11/sp:G">Subparagraph (G) of section 102(11)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+            15 U.S.C. 6701
+          </external-xref> note</cato:entity-ref>)</cato:entity> is amended by striking <quote>2014</quote> and inserting <quote>2019</quote>.</text>
+			</subsection>
+    </section>
+    <section id="H5C1EC0F54C494E63AD4B21DBEFE82E99">
+      <enum>4.</enum>
+      <header>Certification of acts of terrorism</header>
+			<subsection id="H9994920C21A3426EBF559E46AAD0C07A">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:1">Paragraph (1) of section 102</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+            15 U.S.C. 6701
+          </external-xref> note</cato:entity-ref>)</cato:entity> is amended—</text>
+				<paragraph id="HC9EB34DF1E2D4905BA9ABACB4F4C4E08">
+          <enum>(1)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:1/sp:A">subparagraph (A)</cato:entity-ref>, in the matter preceding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:1/sp:A/cl:i">clause (i)</cato:entity-ref>, by striking <quote>concurrence with the Secretary of State
+            </quote> and inserting <quote>consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref>
+            </quote>;</text>
+				</paragraph>
+        <paragraph id="HE23332B8D8844D2CA2A1AD668EEE2D72">
+          <enum>(2)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:1/sp:B">subparagraph (B)</cato:entity-ref>—</text>
+					<subparagraph id="H16C6CAA023A049B5AF136DAA83EB3F04">
+            <enum>(A)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:1/sp:B/cl:i">clause (i)</cato:entity-ref>, by striking <quote>; or</quote> and inserting a period;</text>
+					</subparagraph>
+          <subparagraph id="HE9EA75FCD8FA418E9E52E07EC9FEE5ED">
+            <enum>(B)</enum>
+            <text>by striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:1/sp:B/cl:ii">clause (ii)</cato:entity-ref>; and</text>
+					</subparagraph>
+          <subparagraph id="HC9CB53878D394793842153EC595BEFD8">
+            <enum>(C)</enum>
+            <text>by striking <quote>terrorism if—</quote> and all that follows through <quote>(I) the act</quote> and inserting <quote>terrorism if the act</quote>;</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="H0B9DBB9DD18D4330A57868140D3AE2DD">
+          <enum>(3)</enum>
+          <text>by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:1/sp:C">subparagraphs (C)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:1/sp:D">(D)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:1/sp:E" proposed="true">subparagraphs (E)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:1/sp:G" proposed="true">(G)</cato:entity-ref>, respectively;</text>
+				</paragraph>
+        <paragraph id="H09522EF14E3D4E95AA0D4FD8882E0740">
+          <enum>(4)</enum>
+          <text>by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:1/sp:B" proposed="true">subparagraph (B)</cato:entity-ref> the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="HF4C184C213AD4C1A9D4CDDC944C96731" style="OLC">
+						<subparagraph id="H146B97160CC64459B0A6553861046C9C">
+              <enum>(C)</enum>
+              <header>Timing of certification</header>
+							<clause id="H485688E59F5E4B2BADD013DB7102A82B">
+                <enum>(i)</enum>
+                <header>Preliminary certification notice</header>
+                <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall issue a preliminary certification notice indicating whether an act is expected
+			 to be a certified act of terrorism not later than 15 days after—</text>
+								<subclause id="HD54C28D30ED4401D94B595782EE13DEA">
+                  <enum>(I)</enum>
+                  <text>the date of the occurrence of a potential act of terrorism; or</text>
+								</subclause>
+                <subclause id="HCB46430FC63A42B5A96EA9A9B5F238F1">
+                  <enum>(II)</enum>
+                  <text>the receipt of a petition seeking a preliminary certification decision submitted by an insurer
+			 having an in-force policy or policies that could be affected by a
+			 certification decision.</text>
+								</subclause>
+              </clause>
+              <clause id="HE3F4BF5631964FE6835A96CC6EB05859">
+                <enum>(ii)</enum>
+                <header>Final certification notice</header>
+                <text display-inline="yes-display-inline">Not later than 90 days after the date of the occurrence of a potential act of terrorism or the
+			 receipt of a petition submitted to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:1/sp:C/cl:i/scl:II" proposed="true">clause
+			 (i)(II)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall issue a final certification notice indicating
+			 whether an act is a certified act of terrorism for purposes of this Act.</text>
+							</clause>
+              <clause id="H7262A09F972B498795800CE88EB6CC32">
+                <enum>(iii)</enum>
+                <header>Rule of construction</header>
+                <text display-inline="yes-display-inline">Failure to issue a preliminary certification notice under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:1/sp:C/cl:i" proposed="true">clause (i)</cato:entity-ref> shall not prevent the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> from issuing a final certification notice under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:1/sp:C/cl:ii" proposed="true">clause (ii)</cato:entity-ref>.</text>
+              </clause>
+            </subparagraph>
+            <after-quoted-block>; and</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+        <paragraph id="H2596EECE6167404FA2A334C7BA42C8F5">
+          <enum>(5)</enum>
+          <text>by inserting before <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:1/sp:G" proposed="true">subparagraph (G)</cato:entity-ref>, as so redesignated by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="TRIA Reform Act of 2014/s:102/p:3" proposed="true">paragraph (3)</cato:entity-ref> of this subsection, the
+			 following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H0C6ECDB664744CE78D61C73DDA78DE2B" style="OLC">
+						<subparagraph id="H4AFEA077F8C242AC824DA2AE3E09C6E8">
+              <enum>(F)</enum>
+              <header>Failure to make determination</header>
+              <text display-inline="yes-display-inline">If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> does not certify, or make a determination not to certify, an act as an act of
+			 terrorism before the expiration of the 90-day period beginning on the
+			 occurrence of such act, such act shall be treated for purposes of this Act
+			 as having been determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> not to be an act of terrorism
+			 and such determination shall be final and shall not be subject to judicial
+			 review.</text>
+            </subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </subsection>
+      <subsection commented="no" id="HE4811F2726824337B332E18804B51B16">
+        <enum>(b)</enum>
+        <header>Applicability</header>
+        <text>The amendments made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="TRIA Reform Act of 2014/s:4/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall apply to the Program Year for the Terrorism Insurance
+			 Program established by <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/t:I">title I of the Terrorism Risk Insurance Act of 2002</cato:entity-ref>
+			 (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+            15 U.S.C. 6701
+          </external-xref> note</cato:entity-ref>)</cato:entity> that begins on January 1, 2015, and Program Years
+			 thereafter.</text>
+			</subsection>
+    </section>
+    <section id="H1918FAC75F41426BB66277BB08BB4F06">
+      <enum>5.</enum>
+      <header>Separate treatment of conventional terrorism from NBCR terrorism</header>
+			<subsection id="HEFC8159D5CC24DA1AE06DB0D134F8F01">
+        <enum>(a)</enum>
+        <header>Definition</header>
+				<paragraph id="HE2B6B04F61D04265A7E8F2A6D85253D2">
+          <enum>(1)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102">Section 102</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+              15 U.S.C. 6701
+            </external-xref> note</cato:entity-ref>)</cato:entity> is amended—</text>
+					<subparagraph id="HC9F0879E93B24063B2496EA79C6648AA">
+            <enum>(A)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:1">paragraph (1)</cato:entity-ref>, by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:1/sp:C" proposed="true">subparagraph (C)</cato:entity-ref>, as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="TRIA Reform Act of 2014/s:4/ss:a/p:4" proposed="true">section 4(a)(4) of this Act</cato:entity-ref>, the
+			 following new subparagraph:</text>
+						<quoted-block display-inline="no-display-inline" id="H924212C20BEF4054B5C0E2C26C9287FA" style="OLC">
+							<subparagraph id="H693F98745E034767AD01FC716F5DD2E5">
+                <enum>(D)</enum>
+                <header>Act of NBCR terrorism</header>
+                <text display-inline="yes-display-inline">Each certification of an act of terrorism under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:1/sp:A">subparagraph (A)</cato:entity-ref> shall include a determination of
+			 whether such act involves NBCR terrorism.</text>
+              </subparagraph>
+              <after-quoted-block>;</after-quoted-block>
+            </quoted-block>
+					</subparagraph>
+          <subparagraph id="H3880E4ECE10843E695B1E40C44D5AC65">
+            <enum>(B)</enum>
+            <text>by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:9..16">paragraphs (9) through (16)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:10..17" proposed="true">paragraphs (10) through (17)</cato:entity-ref>, respectively; and</text>
+					</subparagraph>
+          <subparagraph id="H654DFEC3F48F4D5998986E897128EB80">
+            <enum>(C)</enum>
+            <text>by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:8">paragraph (8)</cato:entity-ref> the following new paragraph:</text>
+						<quoted-block display-inline="no-display-inline" id="HD85CC37C8DDA4B359F7F6B1547AD2494" style="OLC">
+							<paragraph id="HC4C994275EEE427FB8C2F405D90C69EA">
+                <enum>(9)</enum>
+                <header>NBCR terrorism</header>
+                <text display-inline="yes-display-inline">Notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:1">paragraph (1)</cato:entity-ref>, the term <quote>NBCR terrorism</quote> means an act of terrorism to the extent that the insured losses involve, regardless of any other
+			 cause or event that contributes concurrently or in any sequence to such
+			 insurance loss—</text>
+								<subparagraph id="H570129F94CD44E0E9D6E48DBCD3A0F62">
+                  <enum>(A)</enum>
+                  <text>an act of terrorism that is carried out by means of the dispersal or application of radioactive
+			 material, or through the use of a nuclear weapon or device that involves
+			 or produces a nuclear reaction, nuclear radiation, or radioactive
+			 contamination;</text>
+								</subparagraph>
+                <subparagraph id="HA6416B6EBC904AD195DB7525D85346D9">
+                  <enum>(B)</enum>
+                  <text>the release of radioactive material, and it appears that one purpose of the act of terrorism was to
+			 release such material;</text>
+								</subparagraph>
+                <subparagraph id="HE0719564C78644DABBBCFBB9D1AD886A">
+                  <enum>(C)</enum>
+                  <text>an act of terrorism that is carried out by means of the dispersal or application of pathogenic or
+			 poisonous biological or chemical material; or</text>
+								</subparagraph>
+                <subparagraph id="H917F1F746EF940019F5BEB4C4B2A5602">
+                  <enum>(D)</enum>
+                  <text>the release of pathogenic or poisonous biological or chemical material, and it appears that one
+			 purpose of the act of terrorism was to release such material.</text>
+								</subparagraph>
+              </paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</subparagraph>
+        </paragraph>
+        <paragraph commented="no" id="H8512D47E73FE4645A82C37B9AE945E2F">
+          <enum>(2)</enum>
+          <header>Applicability</header>
+          <text>The amendments made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="TRIA Reform Act of 2014/s:5/ss:a/p:1" proposed="true">paragraph (1)</cato:entity-ref> shall apply to the Program Year for the Terrorism Insurance
+			 Program established by <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/t:I">title I of the Terrorism Risk Insurance Act of 2002</cato:entity-ref>
+			 (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+              15 U.S.C. 6701
+            </external-xref> note</cato:entity-ref>)</cato:entity> that begins on January 1, 2016, and Program Years
+			 thereafter.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="HFC59CBBA7B29485AA41EB5F1A0C115F4">
+        <enum>(b)</enum>
+        <header>Federal share of insured loss compensation</header>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:1/sp:A">Subparagraph (A) of section 103(e)(1)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+            15 U.S.C. 6701
+          </external-xref> note</cato:entity-ref>)</cato:entity> is amended—</text>
+				<paragraph id="H6FB00D73EEE24477BDCBB2B512FECF18">
+          <enum>(1)</enum>
+          <text>by striking <quote>The Federal share</quote> and inserting <quote>Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:1/sp:B">subparagraphs (B)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:1/sp:C">(C)</cato:entity-ref>, the Federal share</quote>;</text>
+				</paragraph>
+        <paragraph id="HCA169E51F2F14C9EB4275679F5F7E2B5">
+          <enum>(2)</enum>
+          <text>by striking <quote>an insurer during the Transition period</quote> and inserting the following:</text>
+					<quoted-block display-inline="yes-display-inline" id="HDC128A08595E42BD8AB1A2DF322B742C" style="OLC">
+            <text>an insurer—</text>
+            <clause id="HF19BF724245B4669814F157154976E4A">
+              <enum>(i)</enum>
+              <text display-inline="yes-display-inline">during the Transition period,</text>
+            </clause>
+            <after-quoted-block>;</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+        <paragraph id="HF287E59B8597467496BF6CED155AAA6E">
+          <enum>(3)</enum>
+          <text>by inserting <quote>through the Program Year ending on December 31, 2015,</quote> after <quote>each Program Year thereafter</quote>;</text>
+				</paragraph>
+        <paragraph id="HE8934B60C8D74857AC9B1F4744C35E9A">
+          <enum>(4)</enum>
+          <text>by striking the period at the end and inserting <quote>; and</quote>; and</text>
+				</paragraph>
+        <paragraph id="H430D7139406145789424F43B873701FF">
+          <enum>(5)</enum>
+          <text>by adding at the end the following new clause:</text>
+					<quoted-block display-inline="no-display-inline" id="HF66FFCA4B4DE4AB884BE7766FC802B5C" style="OLC">
+						<clause id="HEC4D85AB686C42E1AD7C100B372D705A">
+              <enum>(ii)</enum>
+              <text display-inline="yes-display-inline">shall be equal to—</text>
+							<subclause id="HB2B0DCA7CB744A8AA18AD80C2F38C461">
+                <enum>(I)</enum>
+                <text display-inline="yes-display-inline">except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:1/sp:A/cl:i/scl:II" proposed="true">subclause (II)</cato:entity-ref>—</text>
+								<item id="H34448BCB7EB3404AB55724CC95353CF0">
+                  <enum>(aa)</enum>
+                  <text>during the Program Year beginning on January 1, 2016, 84 percent of that portion of the amount of
+			 such insured losses that exceeds the applicable insurer deductible
+			 required to be paid during such Program Year;</text>
+								</item>
+                <item id="H5D12E64D04BD47E6AFEE34CF450B6786">
+                  <enum>(bb)</enum>
+                  <text display-inline="yes-display-inline">during the Program Year beginning on January 1, 2017, 83 percent of that portion of the amount of
+			 such insured losses that exceeds the applicable insurer deductible
+			 required to be paid during such Program Year;</text>
+								</item>
+                <item id="HFE0CDC9E095248E1BC307710C8B4698E">
+                  <enum>(cc)</enum>
+                  <text display-inline="yes-display-inline">during the Program Year beginning on January 1, 2018, 82 percent of that portion of the amount of
+			 such insured losses that exceeds the applicable insurer deductible
+			 required to be paid during such Program Year; and</text>
+								</item>
+                <item id="H15FE013155664D79A9B3F93A123DCD64">
+                  <enum>(dd)</enum>
+                  <text display-inline="yes-display-inline">during the Program Year beginning on January 1, 2019, 80 percent of that portion of the amount of
+			 such insured losses that exceeds the applicable insurer deductible
+			 required to be paid during such Program Year; and</text>
+								</item>
+              </subclause>
+              <subclause id="HEF244C37DEFF44D0B07C1D473A335629">
+                <enum>(II)</enum>
+                <text display-inline="yes-display-inline">in the case of insured losses resulting from acts of NBCR terrorism, during the Program Year
+			 beginning on January 1, 2016, and each Program Year thereafter, 85 percent
+			 of that portion of the amount of such insured losses that exceeds the
+			 applicable insurer deductible required to be paid during such Program
+			 Year.</text>
+              </subclause>
+            </clause>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </subsection>
+      <subsection id="HAF346CE14CCE49A3BACDCDBB4DE1487C">
+        <enum>(c)</enum>
+        <header>Program trigger</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:1/sp:B">Subparagraph (B) of section 103(e)(1)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+            15 U.S.C. 6701
+          </external-xref> note</cato:entity-ref>)</cato:entity> is amended—</text>
+				<paragraph id="H7A343BE3E1EE4EFFA219A85E17C4AF4A">
+          <enum>(1)</enum>
+          <text>in the matter preceding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:1/sp:B/cl:i">clause (i)</cato:entity-ref>—</text>
+					<subparagraph id="H8C694C95BA594AA6B3152F3BFA879963">
+            <enum>(A)</enum>
+            <text>by striking <quote>a certified act</quote> and inserting <quote>certified acts</quote>; and</text>
+					</subparagraph>
+          <subparagraph id="H04E4FA75ADA04F55813401AC62FDBA1E">
+            <enum>(B)</enum>
+            <text>by striking <quote>such certified act</quote> and inserting <quote>such certified acts</quote>;</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="H2B8E821A29A241D786F4EEBC4F20D4FC">
+          <enum>(2)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:1/sp:B/cl:i">clause (i)</cato:entity-ref> by striking <quote>or</quote> at the end;</text>
+				</paragraph>
+        <paragraph id="H06CF261C9B224A669B04766DC5A856CC">
+          <enum>(3)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:1/sp:B/cl:ii">clause (ii)</cato:entity-ref>, by striking the period at the end and inserting the following <quote>through the Program Year ending on December 31, 2015; or</quote>;</text>
+				</paragraph>
+        <paragraph id="HCA15DB8CC1064319947EA7CE92B36157">
+          <enum>(4)</enum>
+          <text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H60B14002350B49FC946A6FEFFB28086C" style="OLC">
+						<clause id="H97340163C8F449C0BA518A64260E2DB2">
+              <enum>(iii)</enum>
+							<subclause commented="no" display-inline="yes-display-inline" id="HB36A77EE6BF34D2782DE0A47B883645A">
+                <enum>(I)</enum>
+                <text display-inline="yes-display-inline">except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:1/sp:B/cl:iii/scl:II" proposed="true">subclause (II)</cato:entity-ref>—</text>
+								<item id="HDC1220065340478E83B6A641E379E28E" indent="up1">
+                  <enum>(aa)</enum>
+                  <text display-inline="yes-display-inline">$200,000,000, with respect to such insured losses occurring in the Program Year beginning on
+			 January 1, 2016;</text>
+								</item>
+                <item id="HDF3476FB0F3F401F8F10FA52A3087FA8" indent="up1">
+                  <enum>(bb)</enum>
+                  <text>$300,000,000, with respect to such insured losses occurring in the Program Year beginning on
+			 January 1, 2017;</text>
+								</item>
+                <item id="HF2AD3B949CD14CF1970D8294AD1993B2" indent="up1">
+                  <enum>(cc)</enum>
+                  <text>$400,000,000, with respect to such insured losses occurring in the Program Year beginning on
+			 January 1, 2018; and</text>
+								</item>
+                <item id="H7765F9EC815C49379F412D7B52DF4F60" indent="up1">
+                  <enum>(dd)</enum>
+                  <text>$500,000,000, with respect to such insured losses occurring in the Program Year beginning on
+			 January 1, 2019; and</text>
+								</item>
+              </subclause>
+              <subclause id="H16FC2EFF332B482CBCCE68A639862D69" indent="up1">
+                <enum>(II)</enum>
+                <text display-inline="yes-display-inline">in the case of an act of NBCR terrorism, $100,000,000, with respect to such insured losses
+			 occurring in the Program Year beginning on January 1, 2016, or any Program
+			 Year thereafter.</text>
+              </subclause>
+            </clause>
+            <after-quoted-block>; and</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+        <paragraph id="HBAFBA2D0CB954B40B72300621E52F160">
+          <enum>(5)</enum>
+          <text>by adding after and below <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:1/sp:B/cl:iii" proposed="true">clause (iii)</cato:entity-ref>, as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="TRIA Reform Act of 2014/s:5/ss:c/p:4" proposed="true">paragraph (4) of this subsection</cato:entity-ref>, the
+			 following:</text>
+					<quoted-block display-inline="no-display-inline" id="H3F6F4B2C15F145DE98647FEACD2597C6" style="OLC">
+						<quoted-block-continuation-text quoted-block-continuation-text-level="subparagraph">In determining the aggregate industry insured losses resulting from certified acts of terrorism for
+			 purposes of this subparagraph, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall not consider any act of
+			 terrorism resulting, in the aggregate, in less than $50,000,000 in insured
+			 losses.</quoted-block-continuation-text>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </subsection>
+    </section>
+    <section display-inline="no-display-inline" id="H805E77141CCE4E31A2AE39E983816AED">
+      <enum>6.</enum>
+      <header>Availability of coverage</header>
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:c">Subsection (c) of section 103</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+            <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+          15 U.S.C. 6701
+        </external-xref> note</cato:entity-ref>)</cato:entity> is amended to read as follows:</text>
+			<quoted-block display-inline="no-display-inline" id="H8DB9C6BD86394B61B08DFFB414669F94" style="OLC">
+				<subsection id="HF64B03B1164D49E0880735BF33C31726">
+          <enum>(c)</enum>
+          <header>Mandatory availability</header>
+					<paragraph id="HB94DF7FC5C0244B4B39C2424CBB595BC">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">Except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:c/p:2" proposed="true">paragraph (2)</cato:entity-ref>, during each Program Year, each entity that meets the
+			 definition of an insurer under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102">section 102</cato:entity-ref> shall make available—</text>
+						<subparagraph id="H7E3BFE2AF50C40F684C5EEBDA8C577C8">
+              <enum>(A)</enum>
+              <text>in all of its property and casualty insurance policies, coverage for insured losses; and</text>
+						</subparagraph>
+            <subparagraph id="HCCFB35EF46D14645A38B03BEB0898D76">
+              <enum>(B)</enum>
+              <text display-inline="yes-display-inline">property and casualty insurance coverage for insured losses that does not differ materially from
+			 the terms, amounts, and other coverage limitations applicable to losses
+			 arising from events other than acts of terrorism.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="H958FCCAFA20F4223B9EA452952A8CDC1">
+            <enum>(2)</enum>
+            <header>No mandatory availability for small insurers</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall provide, by regulation and in consultation with State insurance regulatory
+			 authorities, that <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref> shall not apply for a Program Year with
+			 respect to any small insurer (as such term is defined in such regulations
+			 by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>) that, at the option of the insurer, makes a request for
+			 such inapplicability for such Program Year to the appropriate State
+			 insurance regulatory authority for the State in which such insurer is
+			 domiciled and is determined by such State insurance regulatory authority
+			 to meet such requirements for financial hardship or financial
+			 infeasibility of providing coverage for insured losses as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>
+			 shall establish in such regulations. The insurer shall provide notice, in
+			 a manner satisfactory to the State insurance regulatory authority,
+			 informing affected prospective and current policyholders whether such
+			 coverage is not provided by the insurer. This paragraph may not be
+			 construed to require any State insurance regulatory authority to undertake
+			 making determinations under this paragraph.</text>
+          </paragraph>
+        </subsection>
+        <after-quoted-block>.</after-quoted-block>
+      </quoted-block>
+		</section>
+    <section id="H9D46876A3597426F921E3165CBDC2BDF">
+      <enum>7.</enum>
+      <header>Terrorism loss risk-spreading premiums amount</header>
+			<subsection id="H5C7DCC35DBB04355B1C83CC44A5AD674">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:7/sp:C">Subparagraph (C) of section 103(e)(7)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+            15 U.S.C. 6701
+          </external-xref> note</cato:entity-ref>)</cato:entity> is amended—</text>
+				<paragraph id="HA970DE27229F4BF189DB41B72AE6645B">
+          <enum>(1)</enum>
+          <text display-inline="yes-display-inline">by striking <quote>subparagraphs (A) through (E)</quote> and inserting <quote>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:7/sp:A..F" proposed="true">subparagraphs (A) through (F)</cato:entity-ref>
+            </quote>; and</text>
+				</paragraph>
+        <paragraph id="H1743F73267C548C59F12454ECFDEA9F6">
+          <enum>(2)</enum>
+          <text>by striking <quote>133 percent</quote> and inserting <quote>150 percent</quote>.</text>
+				</paragraph>
+      </subsection>
+      <subsection commented="no" id="HD61F69384514412BA0EFD04621925C6C">
+        <enum>(b)</enum>
+        <header>Applicability</header>
+        <text>The amendment made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="TRIA Reform Act of 2014/s:7/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall apply to the Program Year for the Terrorism Insurance
+			 Program established by <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/t:I">title I of the Terrorism Risk Insurance Act of 2002</cato:entity-ref>
+			 (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+            15 U.S.C. 6701
+          </external-xref> note</cato:entity-ref>)</cato:entity> that begins on January 1, 2016, and Program Years
+			 thereafter.</text>
+			</subsection>
+    </section>
+    <section id="HB50DA5B247FF4B1EB8CF9209F0622C06">
+      <enum>8.</enum>
+      <header>Increase of aggregate retention amount; mandatory recoupment</header>
+			<subsection id="H116291D3CC2B419A9FAFE783BCC29A5C">
+        <enum>(a)</enum>
+        <header>In General</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:6">Paragraph (6) of section 103(e)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+            15 U.S.C. 6701
+          </external-xref> note</cato:entity-ref>)</cato:entity> is amended—</text>
+				<paragraph id="H5D6C355C4061434680FA3463748147F1">
+          <enum>(1)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:6/sp:D/cl:ii">subparagraph (D)(ii)</cato:entity-ref>, by striking <quote>and</quote> at the end;</text>
+				</paragraph>
+        <paragraph id="HF6A1B32B8523464097249E8ED59F864C">
+          <enum>(2)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:6/sp:E">subparagraph (E)</cato:entity-ref>—</text>
+					<subparagraph id="H0F7DB77EAE1343D98ADF80268E5C7816">
+            <enum>(A)</enum>
+            <text>in the matter preceding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:6/sp:E/cl:i">clause (i)</cato:entity-ref>, by inserting <quote>through the Program Year ending on December 31, 2015</quote> before the comma; and</text>
+					</subparagraph>
+          <subparagraph id="H97E7A4560BD44036B4051B4E9638B38B">
+            <enum>(B)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:6/sp:E/cl:ii">clause (ii)</cato:entity-ref>, by striking the period at the end and inserting <quote>; and</quote>; and</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="H785CC87940404A13AF753FBF6B445407">
+          <enum>(3)</enum>
+          <text display-inline="yes-display-inline">by adding at the end the following new subparagraph:</text>
+					<quoted-block display-inline="no-display-inline" id="H5D2E08D28D1C41F6BB3C764BDFDD23DF" style="OLC">
+						<subparagraph id="H440B7AC0A8654366A835F04142C6AE6E">
+              <enum>(F)</enum>
+              <text display-inline="yes-display-inline">for the Program Year beginning January 1, 2016, and each Program Year thereafter, the lesser of—</text>
+							<clause id="H9C372B8279364933A8A4F50573532D74">
+                <enum>(i)</enum>
+                <text>the amount that is equal to the sum of the insurer deductibles for the Program Year for all
+			 insurers participating in the Program; and</text>
+							</clause>
+              <clause id="H4AFE9919F1864D98822942F62B936F4D">
+                <enum>(ii)</enum>
+                <text>the aggregate amount, for all insurers, of insured losses during such Program Year.</text>
+              </clause>
+            </subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </subsection>
+      <subsection id="H841DB6241B8C4355AA2FFFAFA7826CCC">
+        <enum>(b)</enum>
+        <header>Mandatory recoupment</header>
+				<paragraph id="H5038651715E64FF8A4E3239EBEB78E62">
+          <enum>(1)</enum>
+          <header>Amount; timing</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:7">Paragraph (7) of section 103(e)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+              15 U.S.C. 6701
+            </external-xref> note</cato:entity-ref>)</cato:entity> is amended—</text>
+					<subparagraph id="H1C24ED57FC0746F6A3E096953EA35FCD">
+            <enum>(A)</enum>
+            <text>by striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:7/sp:A">subparagraphs (A)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:7/sp:B">(B)</cato:entity-ref> and inserting the following new subparagraph:</text>
+						<quoted-block display-inline="no-display-inline" id="H643318F45B0341D4B87BC40FE991EE23" style="OLC">
+							<subparagraph id="H6EC67B53B1554D84899D558E932E1A51">
+                <enum>(A)</enum>
+                <header>Mandatory recoupment amount</header>
+                <text display-inline="yes-display-inline">For purposes of this paragraph, the mandatory recoupment amount for each of the periods referred to
+			 in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:6/sp:A..F" proposed="true">subparagraphs (A) through (F) of paragraph (6)</cato:entity-ref> shall be equal to the
+			 lesser of—</text>
+								<clause id="H4E477241212F4191AE311CFBE9DA6BE0">
+                  <enum>(i)</enum>
+                  <text>the aggregate amount, for all insurers, of insured losses during such period that are compensated
+			 by the Federal Government pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:1">paragraph (1)</cato:entity-ref>; or</text>
+								</clause>
+                <clause id="H313F8995C9B0415A9398A5888D06740F">
+                  <enum>(ii)</enum>
+                  <text>the insurance marketplace aggregate retention amount under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:6">paragraph (6)</cato:entity-ref> for such period.</text>
+								</clause>
+              </subparagraph>
+              <after-quoted-block>;</after-quoted-block>
+            </quoted-block>
+					</subparagraph>
+          <subparagraph id="H24F02E0E811643F49B7D8BB263FBAE7C">
+            <enum>(B)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:7/sp:E/cl:i/scl:III">subparagraph (E)(i)(III)</cato:entity-ref>, by striking <quote>after January 1, 2012</quote> and inserting <quote>before December 31, 2014</quote>; and</text>
+					</subparagraph>
+          <subparagraph id="H20CDA8E54A8347AF963280CFC152F6B9">
+            <enum>(C)</enum>
+            <text>by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:7/sp:C">subparagraphs (C)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:7/sp:D">(D)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:7/sp:E">(E)</cato:entity-ref> (as so amended), and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:7/sp:F">(F)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:7/sp:B" proposed="true">subparagraphs (B)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:7/sp:C" proposed="true">(C)</cato:entity-ref>,
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:7/sp:D" proposed="true">(D)</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:7/sp:E" proposed="true">(E)</cato:entity-ref>, respectively.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="HE444320220E24FA2977773A620B11853">
+          <enum>(2)</enum>
+          <header>Conforming amendments</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e">Section 103(e)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+              15 U.S.C. 6701
+            </external-xref> note</cato:entity-ref>)</cato:entity> is amended—</text>
+					<subparagraph id="HAFB654E6F0B64A2DABF376E28C82A828">
+            <enum>(A)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:7/sp:D/cl:i">paragraph (7)(D)(i)</cato:entity-ref>, as so redesignated by paragraph (1)(B) of this subsection, by striking <quote>subparagraph (C)</quote> and inserting <quote>subparagraph (B)</quote>; and</text>
+					</subparagraph>
+          <subparagraph id="H1BD94CAE757347F48FC3DE790E821E95">
+            <enum>(B)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:8">paragraph (8)</cato:entity-ref>—</text>
+						<clause id="H03A4816448694A5D9E409CE43217E842">
+              <enum>(i)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:8/sp:C">subparagraph (C)</cato:entity-ref>, by striking <quote>paragraph (7)(D)</quote> and inserting <quote>paragraph (7)(C)</quote>; and</text>
+						</clause>
+            <clause id="H134C188FEC2E4EDE801DA45844AFE50E">
+              <enum>(ii)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:8/sp:D/cl:ii">subparagraph (D)(ii)</cato:entity-ref>, by striking <quote>paragraph (7)(E)</quote> and inserting <quote>paragraph (7)(D)</quote>.</text>
+						</clause>
+          </subparagraph>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="H119ED8BF82C041BBB99CE57542F481D8">
+      <enum>9.</enum>
+      <header>Terrorism loss risk-spreading premium</header>
+			<subsection id="H1EA64DDAE2AC4706B7291F63E10BD6BD">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e">Section 103(e)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+            15 U.S.C. 6701
+          </external-xref> note</cato:entity-ref>)</cato:entity> is amended by striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:8">paragraph (8)</cato:entity-ref> and inserting the
+			 following new paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="H7DB59693E4434B7DB124D04DC4007C33" style="OLC">
+					<paragraph id="HAD1D0AFB05984765BCAF49673C4E9B5C">
+            <enum>(8)</enum>
+            <header>Terrorism loss risk-spreading premiums</header>
+						<subparagraph id="H13FBF6FC184341A0B9E5DD062EC78D16">
+              <enum>(A)</enum>
+              <header>Establishment</header>
+              <text display-inline="yes-display-inline">After an act of terrorism, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall, to the extent provided in sub<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:7/sp:C">paragraph (7)(C)</cato:entity-ref>, and
+			 may, to the extent provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:7/sp:D">subparagraph (7)(D)</cato:entity-ref>, establish terrorism
+			 loss risk-spreading premiums, which shall be imposed as a policyholder
+			 premium surcharge on property and casualty insurance policies for all
+			 participating insurers in force after the date of such establishment.</text>
+						</subparagraph>
+            <subparagraph id="HFB4810C3055043F6A09905D69FF7FF1F">
+              <enum>(B)</enum>
+              <header>Collection</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall provide for insurers to collect terrorism loss risk-spreading premiums and
+			 remit such amounts collected to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>.</text>
+						</subparagraph>
+            <subparagraph id="H09A5335DC17146E4B54FE4793A6CB79E">
+              <enum>(C)</enum>
+              <header>Determination of premiums</header>
+              <text>In determining the method and manner of imposing terrorism loss risk-spreading premiums, including
+			 the amount of such premiums, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall—</text>
+							<clause id="HBC439CD1A5CD4B3C9A8991020A5CAF98">
+                <enum>(i)</enum>
+                <text>impose such terrorism loss risk-spreading premiums beginning with such period of coverage during
+			 the year as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> determines appropriate, but shall commence
+			 imposition of such premiums not later than 18 months after the occurrence
+			 of the act of terrorism for which such premiums are imposed;</text>
+							</clause>
+              <clause id="H70269EC5C3B94BF0AF9DDBA3DAD83AD5">
+                <enum>(ii)</enum>
+                <text>base any terrorism loss risk-spreading premium on a percentage of the premium amount charged for
+			 property and casualty insurance coverage under the policy; and</text>
+							</clause>
+              <clause id="H027686A16AB048028A490B657325F77E">
+                <enum>(iii)</enum>
+                <text>take into consideration—</text>
+								<subclause id="H2B39168D15074EE08DD2D71959232B87">
+                  <enum>(I)</enum>
+                  <text>the economic impact on commercial centers of urban areas, including the effect on commercial rents
+			 and commercial insurance premiums, particularly rents and premiums charged
+			 to small businesses, and the availability of lease space and commercial
+			 insurance within urban areas;</text>
+								</subclause>
+                <subclause id="H3C19A50398D9439ABA70E84AD46AB4FD">
+                  <enum>(II)</enum>
+                  <text>the risk factors related to rural areas and smaller commercial centers, including the potential
+			 exposure to loss and the likely magnitude of such loss, as well as any
+			 resulting cross-subsidization that might result; and</text>
+								</subclause>
+                <subclause id="HBBEE251D20574C24A06EC8DCC2CAB7D6">
+                  <enum>(III)</enum>
+                  <text>the various exposures to terrorism risk for different lines of insurance.</text>
+								</subclause>
+              </clause>
+            </subparagraph>
+            <subparagraph id="H1E978AEE205F414A8C89FA728593D9E2">
+              <enum>(D)</enum>
+              <header>Percentage limitation</header>
+              <text>A terrorism loss risk-spreading premium collected on a discretionary basis pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:7/sp:D">paragraph
+			 (7)(D)</cato:entity-ref> shall not be less than, on an annual basis, the amount equal to 3
+			 percent of the premium charged for property and casualty insurance
+			 coverage under the policy.</text>
+						</subparagraph>
+            <subparagraph id="H3D9D2E6C639547AB9C7A59012221C81D">
+              <enum>(E)</enum>
+              <header>Timing of premiums</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> may adjust the timing of terrorism loss risk-spreading premiums to provide for
+			 equivalent application of the provisions of this title to policies that
+			 are not based on a calendar year, or to apply such provisions on a daily,
+			 monthly, or quarterly basis, as appropriate.</text>
+            </subparagraph>
+          </paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+      <subsection commented="no" id="HADA930A3D1A14B37882F7EE2FFFCCA52">
+        <enum>(b)</enum>
+        <header>Applicability</header>
+        <text>The amendment made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="TRIA Reform Act of 2014/s:9/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall apply to the Program Year for the Terrorism Insurance
+			 Program established by <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/t:I">title I of the Terrorism Risk Insurance Act of 2002</cato:entity-ref>
+			 (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+            15 U.S.C. 6701
+          </external-xref> note</cato:entity-ref>)</cato:entity> that begins on January 1, 2016, and Program Years
+			 thereafter.</text>
+			</subsection>
+    </section>
+    <section id="H2FD3E0ED4D28476885691FB9043ED4FE">
+      <enum>10.</enum>
+      <header>Risk-sharing mechanisms</header>
+			<subsection id="HEB7F244638584234B6756A6643FE092F">
+        <enum>(a)</enum>
+        <header>In General</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e">Section 103(e)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+            15 U.S.C. 6701
+          </external-xref> note</cato:entity-ref>)</cato:entity> is amended by adding at the end the following new paragraph:</text>
+				<quoted-block display-inline="no-display-inline" id="H2685FD9A9A62430D9005ED04C564811C" style="OLC">
+					<paragraph id="H79DBBF62110143D998F6DC44E8D98F03">
+            <enum>(9)</enum>
+            <header>Risk-sharing mechanisms</header>
+						<subparagraph id="HF93330FD43704E17A656DE60F3ED7150">
+              <enum>(A)</enum>
+              <header>Finding; rule of construction</header>
+              <text display-inline="yes-display-inline">The Congress finds that it is desirable to encourage the growth of nongovernmental, private market
+			 reinsurance capacity for protection against losses arising from acts of
+			 terrorism. Therefore, nothing in this title shall prohibit insurers from
+			 developing risk-sharing mechanisms (including mutual reinsurance
+			 facilities and agreements, use of the capital markets, and
+			 insurance-linked securities) to voluntarily reinsure terrorism losses
+			 between and among themselves that are not subject to reimbursement under
+			 this section.</text>
+						</subparagraph>
+            <subparagraph id="H32FB6AEC2F3B44F6B0F249A3DF9DA50A">
+              <enum>(B)</enum>
+              <header>Establishment of advisory committee</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall appoint an Advisory Committee to—</text>
+							<clause id="H1A65E625992C47D980DFB531EF217B52">
+                <enum>(i)</enum>
+                <text>encourage the creation and development of such risk-sharing mechanisms;</text>
+							</clause>
+              <clause id="HD426EAE107FD48A5AE256BDBCFD9C135">
+                <enum>(ii)</enum>
+                <text>assist the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> and be available to administer such risk-sharing mechanisms; and</text>
+							</clause>
+              <clause id="HF42552D6C6B14B049839553A26557AB3">
+                <enum>(iii)</enum>
+                <text>develop articles of incorporation, bylaws, and a plan of operation for any long-term reinsurance
+			 facility authorized or created in the future.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="HEE58203728D443758CC8A6EA6926D2C2">
+              <enum>(C)</enum>
+              <header>Membership</header>
+              <text>The Advisory Committee shall be composed of nine members who are directors, officers, or other
+			 employees of insurers, reinsurers, or capital market participants that are
+			 participating or that desire to participate in such mechanisms, and who
+			 are representative of the affected sectors of the insurance industry,
+			 including commercial property insurance, commercial casualty insurance,
+			 reinsurance, and alternative risk transfer industries.</text>
+            </subparagraph>
+          </paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+      <subsection commented="no" id="H847A9B39FD6A4B7499F3D2A32D6E4459">
+        <enum>(b)</enum>
+        <header>Applicability</header>
+        <text>The amendment made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="TRIA Reform Act of 2014/s:10/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall apply to the Program Year for the Terrorism Insurance
+			 Program established by <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/t:I">title I of the Terrorism Risk Insurance Act of 2002</cato:entity-ref>
+			 (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+            15 U.S.C. 6701
+          </external-xref> note</cato:entity-ref>)</cato:entity> that begins on January 1, 2015, and Program Years
+			 thereafter.</text>
+			</subsection>
+    </section>
+    <section id="HC253156EC9CE48F4A076E14964D16075">
+      <enum>11.</enum>
+      <header>Reporting of terrorism insurance data</header>
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:104">Section 104</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+            <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+          15 U.S.C. 6701
+        </external-xref> note</cato:entity-ref>)</cato:entity> is amended by adding at the end the following new subsection:</text>
+			<quoted-block display-inline="no-display-inline" id="H69DC8EF7417041298C67D3C83B3325CB" style="OLC">
+				<subsection id="H365F310440C240E496160F87878ACD47">
+          <enum>(h) </enum>
+          <header>Reporting of terrorism insurance data</header>
+					<paragraph id="H4A8C6378B6F848579C4FEB8CFC99DBF5">
+            <enum>(1)</enum>
+            <header>Authority</header>
+            <text display-inline="yes-display-inline">During the Program Year beginning on January 1, 2016, and in each Program Year thereafter, the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall require insurers participating in the Program to submit to
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> such information regarding insurance coverage for terrorism
+			 losses of such insurers as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> considers appropriate to analyze
+			 the effectiveness of the Program, which shall include information
+			 regarding—</text>
+						<subparagraph id="HF5E49F49FD21467D8FEF18D8CF6649CB">
+              <enum>(A)</enum>
+              <text>lines of insurance with exposure to such losses;</text>
+						</subparagraph>
+            <subparagraph id="H8FCF5999F8404CFBB2B822F338650ABF">
+              <enum>(B)</enum>
+              <text>premiums earned on such coverage;</text>
+						</subparagraph>
+            <subparagraph id="HF4440AB9546F4B70961C661E651D8E6F">
+              <enum>(C)</enum>
+              <text>geographical location of exposures;</text>
+						</subparagraph>
+            <subparagraph id="H109E90476B2A408394A27CD90CA85B47">
+              <enum>(D)</enum>
+              <text>pricing of such coverage;</text>
+						</subparagraph>
+            <subparagraph id="H12B569D064B242C0B5BEF8F722BDDB38">
+              <enum>(E)</enum>
+              <text>the take-up rate for such coverage;</text>
+						</subparagraph>
+            <subparagraph id="H392F9CD1DA504B8B90908EBA74DCBE23">
+              <enum>(F)</enum>
+              <text display-inline="yes-display-inline">the amount of private reinsurance for acts of terrorism purchased; and</text>
+						</subparagraph>
+            <subparagraph id="H49A5A447E2574ECA86FA9ABAE7E0DBE6">
+              <enum>(G)</enum>
+              <text>such other matters as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> considers appropriate.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="H6B881215B70545098FD97FE6724F2CB2">
+            <enum>(2)</enum>
+            <header>Reports</header>
+            <text display-inline="yes-display-inline">Not later than 6 months after the termination of the Program Year beginning on January 1, 2016, and
+			 not later than 6 months after the termination of each Program Year
+			 thereafter, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall submit a report to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HBA00" entity-type="committee">Committee on
+			 Financial Services of the House of Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSBK00" entity-type="committee">Committee on
+			 Banking, Housing, and Urban Affairs of the Senate</cato:entity-ref> that includes—</text>
+						<subparagraph id="H82A6585609E84EDDAC7E5BD35D4EAA8E">
+              <enum>(A)</enum>
+              <text>an analysis of the overall effectiveness of the Program;</text>
+						</subparagraph>
+            <subparagraph id="H134BDCB71E894E83AAE181787734414D">
+              <enum>(B)</enum>
+              <text>an evaluation of any changes or trends in the data collected under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:104/ss:h/p:1" proposed="true">paragraph (1)</cato:entity-ref>;</text>
+						</subparagraph>
+            <subparagraph id="HA5A022F9A4C848509EE4AFC41080CDC3">
+              <enum>(C)</enum>
+              <text display-inline="yes-display-inline">an evaluation of whether any aspects of the Program have the effect of discouraging or impeding
+			 insurers from providing commercial property casualty insurance coverage or
+			 coverage for acts of terrorism;</text>
+						</subparagraph>
+            <subparagraph id="H8E5DF178B4004A24A9268F4D91AA60F6">
+              <enum>(D)</enum>
+              <text>an evaluation of the impact of the Program on workers’ compensation insurers;</text>
+						</subparagraph>
+            <subparagraph id="H705229273CF040D0B93DDC137B5EA6C4">
+              <enum>(E)</enum>
+              <text>an evaluation of the impact on availability and affordability of terrorism insurance coverage and
+			 fiscal protection of the taxpayers of separate Federal treatment under the
+			 Program for nuclear, biological, chemical, and radiological terrorism; and</text>
+						</subparagraph>
+            <subparagraph id="HA05B95AE53154799967CE7D49F309232">
+              <enum>(F)</enum>
+              <text>in the case of the data reported in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:104/ss:h/p:1/sp:B" proposed="true">paragraph (1)(B)</cato:entity-ref>, an updated estimate of the total amount
+			 earned since the commencement of Program Year 1.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="H95D22D495CCD4061BDE56DDDA1F39FAB">
+            <enum>(3)</enum>
+            <header>Protection of data</header>
+            <text display-inline="yes-display-inline">To the extent possible, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall contract with an insurance statistical aggregator to
+			 collect the information described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:104/ss:h/p:1" proposed="true">paragraph (1)</cato:entity-ref>, which shall keep any
+			 nonpublic information confidential and provide it to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> in an
+			 aggregate form or in such other form or manner that does not permit
+			 identification of the insurer submitting such information.</text>
+					</paragraph>
+          <paragraph id="HBCFD4E0C39D14B1C87C954FDD72CDCEF">
+            <enum>(4)</enum>
+            <header>Advance coordination</header>
+            <text>Before collecting any data or information under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:104/ss:h/p:1" proposed="true">paragraph (1)</cato:entity-ref> from an insurer, or affiliate of an
+			 insurer, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall coordinate with the appropriate State
+			 insurance regulatory authorities or their representatives and any relevant
+			 government agency or publicly available sources to determine if the
+			 information to be collected is available from, and may be obtained in a
+			 timely manner by, individually or collectively, such entities. If the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> determines that such data or information is available, and may
+			 be obtained in a timely matter, from such entities, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall
+			 obtain the data or information from such entities. If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>
+			 determines that such data or information is not so available, the
+			 Secretary may collect such data or information from an insurer and
+			 affiliates.</text>
+					</paragraph>
+          <paragraph id="HC8991E2A41FD4224992665CB14D93E83">
+            <enum>(5)</enum>
+            <header>Confidentiality</header>
+						<subparagraph id="HEB33A419A5E442B2AF86DF06E1A1D262">
+              <enum>(A)</enum>
+              <header>Retention of privilege</header>
+              <text display-inline="yes-display-inline">The submission of any non-publicly available data and information to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> and the sharing
+			 of any non-publicly available data with or by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> among other
+			 Federal agencies, the State insurance regulatory authorities and their
+			 collective agents, or any other entities under this subsection shall not
+			 constitute a waiver of, or otherwise affect, any privilege arising under
+			 Federal or State law (including the rules of any Federal or State court)
+			 to which the data or information is otherwise subject.</text>
+						</subparagraph>
+            <subparagraph id="H6B90479F30E8441598BD6954E8E7015A">
+              <enum>(B)</enum>
+              <header>Continued application of prior confidentiality agreements</header>
+              <text>Any requirement under Federal or State law to the extent otherwise applicable, or any requirement
+			 pursuant to a written agreement in effect between the original source of
+			 any non-publicly available data or information and the source of such data
+			 or information to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>, regarding the privacy or confidentiality
+			 of any data or information in the possession of the source to the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>, shall continue to apply to such data or information after the
+			 data or information has been provided pursuant to this subsection.</text>
+						</subparagraph>
+            <subparagraph id="H1DD53B7D1A33427EA3CF23E4DC0A1AB9">
+              <enum>(C)</enum>
+              <header>Information-sharing agreement</header>
+              <text>Any data or information obtained by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> under this subsection may be made available to
+			 State insurance regulatory authorities, individually or collectively
+			 through an information-sharing agreement that—</text>
+							<clause id="H7573FB4696FF4B46AD0F88282B0B149B">
+                <enum>(i)</enum>
+                <text>shall comply with applicable Federal law; and</text>
+							</clause>
+              <clause id="H64624583759043A799BDDFC2E0E5BAE7">
+                <enum>(ii)</enum>
+                <text>shall not constitute a waiver of, or otherwise affect, any privilege under Federal or State law
+			 (including any privilege referred to in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:104/ss:h/p:5/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> and the rules of
+			 any Federal or State court) to which the data or information is otherwise
+			 subject.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="HB21DED08E94247B19948D174C3A13C81">
+              <enum>(D)</enum>
+              <header>Agency disclosure requirements</header>
+              <text>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/552">
+                  <external-xref legal-doc="usc" parsable-cite="usc/5/552">Section 552</external-xref> of title 5, United States Code</cato:entity-ref>, including any exceptions thereunder, shall apply to any
+			 data or information submitted under this subsection to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> by an
+			 insurer or affiliate of an insurer.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+        <after-quoted-block>.</after-quoted-block>
+      </quoted-block>
+		</section>
+    <section id="HA92B18B831A94DD9BC7F141F17018720">
+      <enum>12.</enum>
+      <header>Delivery of notices to policyholders</header>
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:b/p:2">Section 103(b)(2)</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+            <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+          15 U.S.C. 6701
+        </external-xref> note</cato:entity-ref>)</cato:entity> is amended—</text>
+			<paragraph id="HC10C0550F43A47CEA0A66CB17F1D0552">
+        <enum>(1)</enum>
+        <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:b/p:2/sp:B">subparagraph (B)</cato:entity-ref>, by striking <quote>, purchase,</quote>; and</text>
+			</paragraph>
+      <paragraph id="H43D02FFCB5054CE8AE146B87511E58C6">
+        <enum>(2)</enum>
+        <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:b/p:2/sp:C">subparagraph (C)</cato:entity-ref>, by striking <quote>, purchase,</quote>.</text>
+			</paragraph>
+    </section>
+    <section id="HC660B3F8F804438AA3693104FA3F1AB7">
+      <enum>13.</enum>
+      <header>Definition of control</header>
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:3">Paragraph (3) of section 102</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+            <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+          15 U.S.C. 6701
+        </external-xref> note</cato:entity-ref>)</cato:entity> is amended—</text>
+			<paragraph id="H34DE8F0D84554BBEB1E57A4E880FDDF1">
+        <enum>(1)</enum>
+        <text>by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:3/sp:A">subparagraphs (A)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:3/sp:B">(B)</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:3/sp:C">(C)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:3/sp:A/cl:i" proposed="true">clauses (i)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:3/sp:A/cl:ii" proposed="true">(ii)</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:3/sp:A/cl:iii" proposed="true">(iii)</cato:entity-ref>, respectively and
+			 realigning such clauses, as so redesignated, so as to be indented six ems
+			 from the left margin;</text>
+			</paragraph>
+      <paragraph id="H3743117D44764E289A344D290D31E2EE">
+        <enum>(2)</enum>
+        <text>in the matter preceding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:3/sp:A/cl:i" proposed="true">clause (i)</cato:entity-ref> (as so redesignated), by striking <quote>An entity has</quote> and inserting the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H9B7A67593A28478DBD888E4434E6B015" style="OLC">
+					<subparagraph id="H959C053CD0E24ED683DC851E26BF6F6F">
+            <enum>(A)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">An entity has</text>
+          </subparagraph>
+          <after-quoted-block>; and</after-quoted-block>
+        </quoted-block>
+			</paragraph>
+      <paragraph id="HCFFF2751D6B14CE3AC14EA4C47F3D39F">
+        <enum>(3)</enum>
+        <text>by adding at the end the following new subparagraph:</text>
+				<quoted-block display-inline="no-display-inline" id="H33CE0A12DF004D238838AC0224DF0090" style="OLC">
+					<subparagraph id="H07AEFEBB25C84CA9B18D127AC1496096">
+            <enum>(B)</enum>
+            <header>Rule of construction</header>
+            <text display-inline="yes-display-inline">An entity, including any affiliate thereof, does not have control over another entity if, as of the
+			 date of the enactment of the <short-title>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="TRIA Reform Act of 2014" proposed="true">TRIA Reform Act of 2014</cato:entity-ref>
+              </short-title>, the entity is acting as an attorney-in-fact, as defined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref>, for the other entity
+			 and such other entity is a reciprocal insurer, provided that the entity is
+			 not, for reasons other than the attorney-in-fact relationship, defined as
+			 having control under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:102/p:3/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>.</text>
+          </subparagraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</paragraph>
+    </section>
+    <section id="H4C851DC926F44898AEB1DB45BEB7A99E">
+      <enum>14.</enum>
+      <header>Annual study of small insurer market competitiveness</header>
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:108">Section 108</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+            <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+          15 U.S.C. 6701
+        </external-xref> note</cato:entity-ref>)</cato:entity> is amended by adding at the end the following new subsection:</text>
+			<quoted-block display-inline="no-display-inline" id="HC008CF4793084640ABFAFF884C4D28BC" style="OLC">
+				<subsection id="HF28E3E4146644FB79AEF62875416EF2C">
+          <enum>(h)</enum>
+          <header>Study of small insurer market competitiveness</header>
+					<paragraph id="H516A0542D40E4A28A512BD6125875356">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall conduct an annual study of small insurers participating in the Program, and
+			 identify any competitive challenges small insurers face in the terrorism
+			 risk insurance marketplace, including—</text>
+						<subparagraph id="HACB6C1E6725E4DE6BEC83F2A79DE50EE">
+              <enum>(A)</enum>
+              <text>changes to the market share, premium volume, and policyholder surplus of small insurers relative to
+			 large insurers;</text>
+						</subparagraph>
+            <subparagraph id="H371C1476C4C54CFCA80972717157A61A">
+              <enum>(B)</enum>
+              <text>how the property and casualty insurance market for terrorism risk differs between small and large
+			 insurers, and whether such a difference exists within other perils;</text>
+						</subparagraph>
+            <subparagraph id="H234E3A08A9D14878A5CDC934E44B9EBA">
+              <enum>(C)</enum>
+              <text>the impact of the Program’s mandatory availability requirement under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:c" proposed="true">section 103(c)</cato:entity-ref> and the
+			 voluntary opt-out for small insurers;</text>
+						</subparagraph>
+            <subparagraph id="H332D50B4EF25458895E8D62EFD70ECE3">
+              <enum>(D)</enum>
+              <text>the effect of increasing the trigger amount for the Program under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:103/ss:e/p:1/sp:B/cl:iii/scl:I" proposed="true">section 103(e)(1)(B)(iii)(I)</cato:entity-ref> on
+			 small insurers;</text>
+						</subparagraph>
+            <subparagraph id="HE92D8F272F044B0FB03FDC38E619252F">
+              <enum>(E)</enum>
+              <text>the availability and cost of private reinsurance for small insurers; and</text>
+						</subparagraph>
+            <subparagraph id="H0F8553AE133D4D1D9E9E5DE1DA2FF415">
+              <enum>(F)</enum>
+              <text>the impact that State workers compensation laws have on small insurers, particularly the impact of
+			 mandatory, non-excludable participation and unlimited financial liability.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="H8898DFA2C4424222AE180EAD753EFCAA">
+            <enum>(2)</enum>
+            <header>Timing and report</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2000">Secretary</cato:entity-ref> shall complete the first study under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:108/ss:h/p:1" proposed="true">paragraph (1)</cato:entity-ref> and submit a report to the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> setting forth the findings and conclusions of the study not later
+			 than June 30, 2016, and shall complete an annual study under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Terrorism Risk Insurance Act of 2002/s:108/ss:h/p:1" proposed="true">paragraph (1)</cato:entity-ref>
+			 and submit a report regarding such study to the Congress by June 1
+			 annually thereafter.</text>
+          </paragraph>
+        </subsection>
+        <after-quoted-block>.</after-quoted-block>
+      </quoted-block>
+		</section>
+    <section id="H800399E0ACF2425E9E414F54C3FA60A7">
+      <enum>15.</enum>
+      <header>CBO and OMB studies regarding budgeting for costs of Federal insurance programs</header>
+      <text display-inline="no-display-inline">Not later than the expiration of the 12-month period beginning on the date of the enactment of this
+			 Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0800" entity-type="federal-body">Director of the Congressional Budget Office</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1103" entity-type="federal-body">Director of
+			 the Office of Management and Budget</cato:entity-ref> shall each—</text>
+			<paragraph id="HB515F4F3D95346168ED5FED935E764A6">
+        <enum>(1)</enum>
+        <text>conduct a study to determine the feasibility of applying accrual accounting concepts to budgeting
+			 for the costs of the Terrorism Risk Insurance Program and for the costs of
+			 the other Federal insurance programs; and</text>
+			</paragraph>
+      <paragraph id="H85FD81FE9A374CAD9E9B3B11A59FEAA0">
+        <enum>(2)</enum>
+        <text>submit a report regarding such study to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HBU00" entity-type="committee">Committees on the Budget of the House of
+			 Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="committee" entity-id="SSBU00">Senate</cato:entity-ref>, which shall include a recommendation
+			 specifically addressing the feasibility of applying fair value concepts to
+			 budgeting for the costs of Federal insurance programs, including the
+			 Terrorism Risk Insurance Program.</text>
+			</paragraph>
+    </section>
+    <section id="HAF41E5AFAD2040BF99115DE92BEA8EBE">
+      <enum>16.</enum>
+      <header>GAO study on upfront premiums and capital reserve fund</header>
+			<subsection id="HB2DD415549DE427D8B9695E1FFEDE3F9">
+        <enum>(a)</enum>
+        <header>Study</header>
+        <text display-inline="yes-display-inline">Not later than 2 years after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0500" entity-type="federal-body">Comptroller General of the
+			 United States</cato:entity-ref> shall complete a study on the viability of the Federal
+			 Government—</text>
+				<paragraph id="H58B9D62B4E2A4282878F7AA19296A9F3">
+          <enum>(1)</enum>
+          <text>assessing and collecting upfront premiums on insurers that participate in the Terrorism Risk
+			 Insurance Program established under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Terrorism Risk Insurance Act of 2002">Terrorism Risk Insurance Act of
+			 2002</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/6701/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/15/6701">
+              15 U.S.C. 6701
+            </external-xref> note</cato:entity-ref>)</cato:entity> (in this section referred to as the <quote>Program</quote>), which shall include a comparison of practices in international markets to assess and collect
+			 premiums either before or after terrorism losses are incurred; and</text>
+				</paragraph>
+        <paragraph id="H8492C09A058C48F1A069810F8C3FA3DD">
+          <enum>(2)</enum>
+          <text display-inline="yes-display-inline">creating a capital reserve fund under the Program and requiring insurers participating in the
+			 Program to dedicate capital specifically for terrorism losses before such
+			 losses are incurred, which shall include a comparison of practices in
+			 international markets to establish reserve funds.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="HD949178F065442D38B12713FB3A23645">
+        <enum>(b)</enum>
+        <header>Required content</header>
+        <text>The study required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="TRIA Reform Act of 2014/s:16/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall examine, but shall not be limited to, the following
+			 issues:</text>
+				<paragraph id="H64D798D73E60418ABAF5E8917179CFC2">
+          <enum>(1)</enum>
+          <header>Upfront premiums</header>
+          <text display-inline="yes-display-inline">With respect to upfront premiums described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="TRIA Reform Act of 2014/s:16/ss:a/p:1" proposed="true">subsection (a)(1)</cato:entity-ref>—</text>
+					<subparagraph id="H299573ED2FF141E5A7A17F30139EDCC9">
+            <enum>(A)</enum>
+            <text>how the Federal Government could determine the price of such upfront premiums on insurers that
+			 participate in the Program;</text>
+					</subparagraph>
+          <subparagraph id="HEBDDC010A6D14126ACA941394FF1E061">
+            <enum>(B)</enum>
+            <text>how the Federal Government could collect such upfront premiums;</text>
+					</subparagraph>
+          <subparagraph id="HE1982A4FC1334BB4B3E314DE0619B797">
+            <enum>(C)</enum>
+            <text>how the Federal Government could ensure that such upfront premiums are not spent for purposes other
+			 than satisfying claims through the Program;</text>
+					</subparagraph>
+          <subparagraph id="H86AF5DBD471446F7AC969F05F596CC80">
+            <enum>(D)</enum>
+            <text>how the assessment and collection of such upfront premiums could affect take-up rates for terrorism
+			 risk coverage in different regions and industries;</text>
+					</subparagraph>
+          <subparagraph id="HE0D4BDC05B9F43749B13BA9847E4C9BC">
+            <enum>(E)</enum>
+            <text>the effect of collecting such upfront premiums on the private market for terrorism risk
+			 reinsurance; and</text>
+					</subparagraph>
+          <subparagraph id="H832C3F9C37D7468CA4F28776DBFC23E9">
+            <enum>(F)</enum>
+            <text>the size of the Federal Government subsidy insurers currently receive through their participation
+			 in the Program.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="H879A7395032E40B4874245D91A7FB5B2">
+          <enum>(2)</enum>
+          <header>Capital reserve fund</header>
+          <text>With respect to the capital reserve fund described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="TRIA Reform Act of 2014/s:16/ss:a/p:2" proposed="true">subsection (a)(2)</cato:entity-ref>—</text>
+					<subparagraph id="H4305D93D80EB4EF2B018F202AEEE3565">
+            <enum>(A)</enum>
+            <text display-inline="yes-display-inline">how the creation of a capital reserve fund would affect the Federal Government’s fiscal exposure
+			 under the Terrorism Risk Insurance Program and the ability of the Program
+			 to meet its statutory purposes;</text>
+					</subparagraph>
+          <subparagraph id="H537491C9DEDE47F68E4A38C6D84B2615">
+            <enum>(B)</enum>
+            <text>how a capital reserve fund would impact insurers and reinsurers, including liquidity, insurance
+			 pricing, and capacity to provide terrorism risk coverage;</text>
+					</subparagraph>
+          <subparagraph id="H6650B271E6374442BF676E94662A1F3C">
+            <enum>(C)</enum>
+            <text>the feasibility of segregating funds attributable to terrorism risk from funds attributable to
+			 other insurance lines;</text>
+					</subparagraph>
+          <subparagraph id="HB4EE7AA758ED4BCA849275DB080F4DC7">
+            <enum>(D)</enum>
+            <text>how a capital reserve fund would be viewed and treated under current Financial Accounting Standards
+			 Board accounting rules and the tax laws; and</text>
+					</subparagraph>
+          <subparagraph id="H4039E5897BE44CC5AFB8AD4CC5C31662">
+            <enum>(E)</enum>
+            <text>how a capital reserve fund would affect the States’ ability to regulate insurers participating in
+			 the Program.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="HE6AC34A90028405DAB844240D3F6C322">
+          <enum>(3)</enum>
+          <header>International practices</header>
+          <text display-inline="yes-display-inline">With respect to international markets referred to in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="TRIA Reform Act of 2014/s:16/ss:a/p:1" proposed="true">paragraphs (1)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="TRIA Reform Act of 2014/s:16/ss:a/p:2" proposed="true">(2) of subsection (A)</cato:entity-ref>, how
+			 other countries, if any—</text>
+					<subparagraph id="HCCCBBC595E9B4B2492029A05DA62EB0C">
+            <enum>(A)</enum>
+            <text>have established terrorism insurance structures;</text>
+					</subparagraph>
+          <subparagraph id="H0A05942661A24999AAF12E7C4CC65AC1">
+            <enum>(B)</enum>
+            <text>charge premiums or otherwise collect funds to pay for the costs of terrorism insurance structures,
+			 including risk and administrative costs; and</text>
+					</subparagraph>
+          <subparagraph id="H8D31707E597844E682CC678C570474B4">
+            <enum>(C)</enum>
+            <text>have established capital reserve funds to pay for the costs of terrorism insurance structures.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="H3A771A255B824CE3B9F14757D781D769">
+          <enum>(4)</enum>
+          <header>Duration</header>
+          <text display-inline="yes-display-inline">With respect to the capital reserve fund described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="TRIA Reform Act of 2014/s:16/ss:a/p:2" proposed="true">subsection (a)(2)</cato:entity-ref>, how the duration of the
+			 Program would affect the viability of such capital reserve fund.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="H9F3B0857E602464BB40B2570C0732830">
+        <enum>(c)</enum>
+        <header>Report</header>
+        <text>Upon completion of the study required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="TRIA Reform Act of 2014/s:16/ss:a" proposed="true">subsection (a)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0500" entity-type="federal-body">Comptroller General</cato:entity-ref> shall submit a
+			 report on the results of such study to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSBK00" entity-type="committee">Committee on Banking, Housing,
+			 and Urban Affairs of the Senate</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HBA00" entity-type="committee">Committee on Financial Services of
+			 the House of Representatives</cato:entity-ref>.</text>
+			</subsection>
+      <subsection id="HC8C7C236212546ABA4FA6223E81413D8">
+        <enum>(d)</enum>
+        <header>Public availability</header>
+        <text>The study and report required under this section shall be made available to the public in
+			 electronic form and shall be published on the website of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0500" entity-type="federal-body">Government
+			 Accountability Office</cato:entity-ref>.</text>
+			</subsection>
+    </section>
+  </legis-body>
+</bill>
+</doc>
