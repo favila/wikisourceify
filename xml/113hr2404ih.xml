@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113hr2404ih">
     <bill congress="113" type="hr" number="2404" version="ih"/>
-    <revision size="4597" annotations="0" status="complete" id="6" commit-time="2013-07-15T17:38:06Z" committer="mbohmer" doc="113hr2404ih/6.xml">
+    <revision size="4597" annotations="0" status="complete" id="7" commit-time="2014-07-28T21:13:24Z" committer="mbohmer" doc="113hr2404ih/7.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-House" dms-id="H6756C73668CB4B7C87F0D755943B5053" public-private="public" bill-type="olc"> 
-<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<metadata>
 <dublinCore>
-<dc:title>113 HR 2404 IH: Enhancing Nutrition Services to the Elderly and Disabled Act of 2013</dc:title>
-<dc:publisher>U.S. House of Representatives</dc:publisher>
-<dc:date>2013-06-17</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 2404 IH: Enhancing Nutrition Services to the Elderly and Disabled Act of 2013</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-06-17</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -36,7 +36,9 @@
       <enum>1.</enum>
       <header>Short title</header>
       <text display-inline="no-display-inline">This Act may be cited as the <quote>
-          <short-title>Enhancing Nutrition Services to the Elderly and Disabled Act of 2013</short-title>
+          <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Enhancing Nutrition Services to the Elderly and Disabled Act of 2013" proposed="true">Enhancing Nutrition Services to the Elderly and Disabled Act of 2013</cato:entity-ref>
+            </short-title>
         </quote>.</text>
     </section> 
 <section id="HF645D44479D247A381761CFB4B64C141">

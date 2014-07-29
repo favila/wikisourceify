@@ -1,7 +1,7 @@
 <doc>
   <docmeta id="113s1930is">
     <bill congress="113" type="s" number="1930" version="is"/>
-    <revision size="8834" annotations="0" status="complete" id="4" commit-time="2014-01-28T19:56:10Z" committer="mbohmer" doc="113s1930is/4.xml">
+    <revision size="8834" annotations="0" status="complete" id="5" commit-time="2014-07-28T21:25:15Z" committer="mbohmer" doc="113s1930is/5.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
@@ -36,7 +36,9 @@
       <enum>1.</enum>
       <header>Short title</header>
       <text display-inline="no-display-inline">This Act may be cited as the <quote>
-          <short-title>Uphold Our Promise to Veterans Act</short-title>
+          <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Uphold Our Promise to Veterans Act" proposed="true">Uphold Our Promise to Veterans Act</cato:entity-ref>
+            </short-title>
         </quote>.</text>
     </section>
     <section id="H942FE59C7C3147EBA2ABE159B23CFC33" section-type="subsequent-section">
@@ -55,7 +57,7 @@
           <enum>(1)</enum>
           <header>Restrictions on assistance under Section 7008</header>
           <text>In accordance with <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
-              <cato:entity-ref entity-type="act" value="Department of State, Foreign Operations, and Related Programs Act, 2012/s:7008">section 7008 of the Department of State, Foreign Operations, and Related Programs Act, 2012</cato:entity-ref> (<cato:entity-ref entity-type="public-law" value="public-law/112/74/d:">division I of <external-xref legal-doc="public-law" parsable-cite="pl/112/74">
+              <cato:entity-ref entity-type="act" value="Department of State, Foreign Operations, and Related Programs Act, 2012/s:7008">section 7008 of the Department of State, Foreign Operations, and Related Programs Act, 2012</cato:entity-ref> (<cato:entity-ref entity-type="public-law" value="public-law/112/74/d:I">division I of <external-xref legal-doc="public-law" parsable-cite="pl/112/74">
               Public Law 112–74
             </external-xref>;</cato:entity-ref> <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/125/1195">125 Stat. 1195</cato:entity-ref>)</cato:entity>, the United States Government, including the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1900">Department of State</cato:entity-ref>, shall refrain from providing to the Government of Egypt the assistance restricted under such section.</text>
         </paragraph>

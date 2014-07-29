@@ -1,0 +1,911 @@
+<doc>
+  <docmeta id="113s2559is">
+    <bill congress="113" type="s" number="2559" version="is"/>
+    <revision size="29647" annotations="0" status="complete" id="7" commit-time="2014-07-24T21:39:42Z" committer="mbohmer" doc="113s2559is/7.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S2559 IS: Motor Vehicle Safety Act of 2014</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-06-26</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>113th CONGRESS</congress>
+    <session>2d Session</session>
+		<legis-num>S. 2559</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20140626">June 26, 2014</action-date>
+			<action-desc>
+        <sponsor name-id="S176">Mr. Rockefeller</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and Transportation</committee-name>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide greater transparency, accountability, and safety authority to the National Highway
+			 Traffic Safety Administration, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="H0EA2D96C7C0A4230AF6C4902B7FD9AF5" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title; table of contents</header>
+			<subsection id="H693B623A4FB04500B3F9F04E6315A29B">
+        <enum>(a)</enum>
+        <header>Short title</header>
+        <text display-inline="yes-display-inline">This Act may be cited as the <quote>
+            <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Motor Vehicle Safety Act of 2014" proposed="true">Motor Vehicle Safety Act of 2014</cato:entity-ref>
+            </short-title>
+          </quote>.</text>
+			</subsection>
+      <subsection id="H43B710E04BA1477C93B0B322FAB811AC">
+        <enum>(b)</enum>
+        <header>Table of contents</header>
+        <text>The table of contents for this Act is as follows:</text>
+        <toc>
+          <toc-entry idref="H0EA2D96C7C0A4230AF6C4902B7FD9AF5" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="H25CF66C8B784479CB03797DF66B1A0F7" level="section">Sec. 2. Definition of Secretary.</toc-entry>
+					<toc-entry idref="HCCB21568FAB7478ABD37D0F241F86A5B" level="title">TITLE I—Transparency and accountability</toc-entry>
+					<toc-entry idref="H0FA7C765A723419A9DF7FEF62D28CD59" level="section">Sec. 101. Public availability of early warning data.</toc-entry>
+					<toc-entry idref="idfca22b70-5919-437d-bc2c-3c56c7f8e43c" level="section">Sec. 102. Improved NHTSA vehicle safety database.</toc-entry>
+					<toc-entry idref="H2B0101544466430B88003320E5EF9861" level="section">Sec. 103. Corporate responsibility for NHTSA reports.</toc-entry>
+					<toc-entry idref="HB3737AC3FF9B4C799C0DF51F4F34B7FD" level="section">Sec. 104. Reports to Congress.</toc-entry>
+					<toc-entry idref="id091c1f88-f32e-42a8-953c-c3f9a2ef7a87" level="section">Sec. 105. Anti-revolving door.</toc-entry>
+					<toc-entry idref="H8254F23A72674D1597E2A33E682CA85B" level="title">TITLE II—Funding</toc-entry>
+					<toc-entry idref="H56C50A1B2CD44AAF889A151149824A19" level="section">Sec. 201. Vehicle safety user fee.</toc-entry>
+					<toc-entry idref="H9B2A421B42D348949F883778ED5A9588" level="section">Sec. 202. Authorization of appropriations.</toc-entry>
+					<toc-entry idref="HABF9E46EF7D84188AFFB359641A44A9A" level="title">TITLE III—Enhanced safety authorities</toc-entry>
+					<toc-entry idref="H9C8D64CFBAA1486693D9D224A5F6A53F" level="section">Sec. 301. Civil penalties.</toc-entry>
+					<toc-entry idref="idF8FE5A2FC145453B8F0E9194FD72D336" level="section">Sec. 302. Imminent hazard authority.</toc-entry>
+					<toc-entry idref="id1ED727BE71EC48BABA25410FC16DBBE9" level="section">Sec. 303. Used passenger motor vehicle consumer protection.</toc-entry>
+				</toc>
+			</subsection>
+    </section>
+    <section id="H25CF66C8B784479CB03797DF66B1A0F7">
+      <enum>2.</enum>
+      <header>Definition of Secretary</header>
+      <text display-inline="no-display-inline">In this Act, the term <term>Secretary</term> means the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref>, acting through the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6940" entity-type="federal-body">Administrator of the National Highway
+			 Traffic Safety Administration</cato:entity-ref>.</text>
+		</section>
+    <title id="HCCB21568FAB7478ABD37D0F241F86A5B">
+      <enum>I</enum>
+      <header>Transparency and accountability</header>
+			<section id="H0FA7C765A723419A9DF7FEF62D28CD59">
+        <enum>101.</enum>
+        <header>Public availability of early warning data</header>
+        <subsection id="id372D96E8873F44FC83418FD6A2C77737">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30166/m">
+              <external-xref legal-doc="usc" parsable-cite="usc/49/30166">Section 30166(m)</external-xref> of title 49, United States Code</cato:entity-ref>, is amended—</text>
+          <paragraph id="id53E87A440F714209A7DF814114F8C9D8">
+            <enum>(1)</enum>
+            <text display-inline="yes-display-inline">by striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30166/m/3/A/ii">clause (ii) in paragraph (3)(A)</cato:entity-ref> and inserting the following:</text>
+            <quoted-block display-inline="no-display-inline" id="idAAECB290B3EA4D58924F53328B04E89B" style="OLC">
+              <clause id="id562F54B7968F43F69545CDF893E9CACE">
+                <enum>(ii)</enum>
+                <text display-inline="yes-display-inline">customer satisfaction campaigns, customer advisories, recalls, consumer complaints, warranty
+			 claims, field reports, technical service bulletins, or other activity
+			 involving the repair or replacement of motor vehicles or motor vehicle
+			 equipment.</text>
+              </clause>
+              <after-quoted-block>; and</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+          <paragraph id="id1713D741731E4D98B33C280EFE858768">
+            <enum>(2)</enum>
+            <text display-inline="yes-display-inline">by striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30166/m/4/C">subparagraph (C) of paragraph (4)</cato:entity-ref> and inserting the following:</text>
+            <quoted-block display-inline="no-display-inline" id="id941AB1437257480CBE3A278324D4E7E1" style="OLC">
+              <subparagraph id="id4F0CE9DB68C64CC9A9E07EE4E4CB6AC5">
+                <enum>(C)</enum>
+                <header>Disclosure</header>
+                <text display-inline="yes-display-inline">The information provided to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> pursuant to this subsection shall be disclosed publicly
+			 unless exempt from disclosure under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/552/b">
+                    <external-xref legal-doc="usc" parsable-cite="usc/5/552">section 552(b)</external-xref> of title 5</cato:entity-ref>.</text>
+              </subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+        </subsection>
+        <subsection id="id8EDD913EFD4B49639E7BB55A5FC230C4">
+          <enum>(b)</enum>
+          <header>Regulations</header>
+          <text display-inline="yes-display-inline">Not later than 2 years after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall issue
+			 regulations establishing categories of information provided to the
+			 Secretary pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30166/m">
+              <external-xref legal-doc="usc" parsable-cite="usc/49/30166">section 30166(m)</external-xref> of title 49, United States Code</cato:entity-ref>
+			 that must be made available to the public. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> may establish
+			 categories of information that are exempt from public disclosure under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/552/b">
+              <external-xref legal-doc="usc" parsable-cite="usc/5/552">section 552(b)</external-xref> of title 5, United States Code</cato:entity-ref>.</text>
+        </subsection>
+        <subsection id="id94FEA5A699AD455FB0FE0EA725E447FA">
+          <enum>(c)</enum>
+          <header>Consultation</header>
+          <text display-inline="yes-display-inline">In conducting the rulemaking required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Motor Vehicle Safety Act of 2014/s:101/ss:b" proposed="true">subsection (b)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall consult with the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-parent-id="8800" value="Office of Government Information Services">Director of the Office of Government Information Services
+			 within the National Archives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Information Policy" entity-parent-id="1500">Director of the Office of Information
+			 Policy of the Department of Justice</cato:entity-ref>.</text>
+        </subsection>
+        <subsection id="id4C18044161E44CBB8EF1C1845D685409">
+          <enum>(d)</enum>
+          <header>Presumption and limitation</header>
+          <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall issue the regulations with a presumption in favor of maximum public
+			 availability of information. In issuing regulations under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Motor Vehicle Safety Act of 2014/s:101/ss:b" proposed="true">subsection (b)</cato:entity-ref>,
+			 the following types of information shall presumptively not be eligible for
+			 protection under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/552/b">
+              <external-xref legal-doc="usc" parsable-cite="usc/5/552">section 552(b)</external-xref> of title 5, United States Code</cato:entity-ref>:</text>
+          <paragraph id="idC7D798C8D42F4950BD3882A118DBD8EE">
+            <enum>(1)</enum>
+            <text display-inline="yes-display-inline">Vehicle safety defect information related to incidents involving death or injury.</text>
+          </paragraph>
+          <paragraph id="id58AF6E893369443E965CF61FCF653FD6">
+            <enum>(2)</enum>
+            <text display-inline="yes-display-inline">Aggregated numbers of property damage claims.</text>
+          </paragraph>
+          <paragraph id="id5AA9647687744513A8984489E8A60471">
+            <enum>(3)</enum>
+            <text display-inline="yes-display-inline">Aggregated numbers of consumer complaints related to potential vehicle defects.</text>
+          </paragraph>
+        </subsection>
+        <subsection id="idDA23AD7D7AD742E88DFA500766DAEDC0">
+          <enum>(e)</enum>
+          <header>Nullification of prior regulations</header>
+          <text display-inline="yes-display-inline">Beginning 2 years after the date of enactment of this Act, the regulations establishing early
+			 warning reporting class determinations in Appendix C of part 512 of title
+			 49, Code of Federal Regulations, shall have no force or effect.</text>
+				</subsection>
+      </section>
+      <section commented="no" display-inline="no-display-inline" id="idfca22b70-5919-437d-bc2c-3c56c7f8e43c" section-type="subsequent-section">
+        <enum>102.</enum>
+        <header display-inline="yes-display-inline">Improved NHTSA vehicle safety database</header>
+				<text display-inline="no-display-inline">Not later than 2 years after the date of
+			 enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall improve public accessibility to
+			 information on the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6940" entity-type="federal-body">National Highway Traffic Safety Administration</cato:entity-ref>’s
+			 publicly
+			 accessible vehicle safety databases by—</text>
+        <paragraph commented="no" display-inline="no-display-inline" id="id6b149351-308b-493e-b7a7-a60cc52d344e">
+          <enum>(1)</enum>
+          <text display-inline="yes-display-inline">improving organization and functionality,
+			 including modern web design features, and allowing for data to be
+			 searched,
+			 aggregated, and down­load­ed;</text>
+				</paragraph>
+        <paragraph commented="no" display-inline="no-display-inline" id="id7df1c3c1-b7cb-44e1-a65a-022c4d03dab9">
+          <enum>(2)</enum>
+          <text display-inline="yes-display-inline">providing greater consistency in
+			 presentation of vehicle safety issues; and</text>
+				</paragraph>
+        <paragraph commented="no" display-inline="no-display-inline" id="id7762ed28-eb88-473e-b792-79498d5c753d">
+          <enum>(3)</enum>
+          <text display-inline="yes-display-inline">improving searchability about specific
+			 vehicles and issues through standardization of commonly used search
+			 terms.</text>
+				</paragraph>
+      </section>
+      <section commented="no" id="H2B0101544466430B88003320E5EF9861">
+        <enum>103.</enum>
+        <header>Corporate responsibility for NHTSA reports</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30166/o">
+            <external-xref legal-doc="usc" parsable-cite="usc/49/30166">Section 30166(o)</external-xref> of title 49, United States Code</cato:entity-ref>, is amended—</text>
+        <paragraph commented="no" id="id54129D7E43794A1DB0FC86D1FCE64F5C">
+          <enum>(1)</enum>
+          <text display-inline="yes-display-inline">in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30166/o/1">paragraph (1)</cato:entity-ref>, by striking <quote>may</quote> and inserting <quote>shall</quote>; and</text>
+        </paragraph>
+        <paragraph commented="no" id="id64FCB7C7535E4C00A3960B6D6935A2AE">
+          <enum>(2)</enum>
+          <text display-inline="yes-display-inline">by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id920845E5F3B14DF196C90288E050D001" style="OLC">
+            <paragraph commented="no" id="id17A2A7EAACDB4871BAB806BE1E96534E">
+              <enum>(3)</enum>
+              <header>Deadline</header>
+              <text>Not later than 1 year after the date of enactment of the <short-title>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Motor Vehicle Safety Act of 2014" proposed="true">Motor Vehicle Safety Act of 2014</cato:entity-ref>
+                </short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall issue a final rule under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30166/o/1">paragraph (1)</cato:entity-ref>.</text>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </section>
+      <section commented="no" id="HB3737AC3FF9B4C799C0DF51F4F34B7FD">
+        <enum>104.</enum>
+        <header>Reports to Congress</header>
+				<subsection commented="no" id="H4647B6427F44442EBC2C5BBAFBC8B267">
+          <enum>(a)</enum>
+          <header>Study on early warning data</header>
+          <text>Not later than 3 years after the date of enactment of
+			 this Act, and biennially thereafter for 6 years, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6904" entity-type="federal-body">Office of the
+			 Inspector General of the Department of Transportation</cato:entity-ref> shall complete a
+			 study of the utilization of early warning data by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6940" entity-type="federal-body">National Highway
+			 Traffic Safety Administration</cato:entity-ref> (referred to in this section as <quote>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6940" entity-type="federal-body">NHTSA</cato:entity-ref>
+            </quote>). Each study shall evaluate the
+			 following:</text>
+					<paragraph commented="no" id="H9C331D9FDBD44D40847731854673187A">
+            <enum>(1)</enum>
+            <text>The number and type of requests for information made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6940" entity-type="federal-body">NHTSA</cato:entity-ref> based on data received in the early
+			 warning reporting system.</text>
+					</paragraph>
+          <paragraph commented="no" id="HF8A591E000B945C1A1A75C3DEAD1E13E">
+            <enum>(2)</enum>
+            <text>The number of safety defect investigations opened by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6940" entity-type="federal-body">NHTSA</cato:entity-ref> using any information reported to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6940" entity-type="federal-body">NHTSA</cato:entity-ref>
+			 through the early warning reporting system.</text>
+					</paragraph>
+          <paragraph commented="no" id="H1CAC5C3301FF413EA28E5D4C4B75F0F4">
+            <enum>(3)</enum>
+            <text>The nature and vehicle defect category of each safety defect investigation described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Motor Vehicle Safety Act of 2014/s:104/ss:a/p:2" proposed="true">paragraph
+			 (2)</cato:entity-ref>.</text>
+					</paragraph>
+          <paragraph commented="no" id="H4AC1698AAE754974A281CA77BF206384">
+            <enum>(4)</enum>
+            <text>The number of safety defect investigations described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Motor Vehicle Safety Act of 2014/s:104/ss:a/p:2" proposed="true">paragraph (2)</cato:entity-ref> that are subsequently closed
+			 without
+			 further action.</text>
+					</paragraph>
+          <paragraph commented="no" id="H339AB413C3F448878AAD576F75F53BD2">
+            <enum>(5)</enum>
+            <text>The duration of each safety defect investigation described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Motor Vehicle Safety Act of 2014/s:104/ss:a/p:2" proposed="true">paragraph (2)</cato:entity-ref>.</text>
+					</paragraph>
+          <paragraph commented="no" id="H25878C9F5ACB42F49C4CDAA2E86BA3C6">
+            <enum>(6)</enum>
+            <text>The percentage of the safety defect investigations described in paragraph (2) that result in a
+			 finding of a safety defect or recall by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6940" entity-type="federal-body">NHTSA</cato:entity-ref>.</text>
+					</paragraph>
+          <paragraph commented="no" id="H5EE29BA55FD84EC2BFB75B59D740D2A1">
+            <enum>(7)</enum>
+            <text>Other information the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6904">Office of the Inspector General</cato:entity-ref> considers appropriate.</text>
+					</paragraph>
+        </subsection>
+        <subsection commented="no" id="H518FEFC12A714450933C8348832B298C">
+          <enum>(b)</enum>
+          <header>Report on operations of the Council for Vehicle Electronics, Vehicle Software, and Emerging
+			 Technologies</header>
+          <text display-inline="yes-display-inline">Not later than 6 months after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall prepare a
+			 report regarding the operations of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Council for Vehicle Electronics, Vehicle Software, and Emerging Technologies" entity-parent-id="6940">Council for Vehicle Electronics,
+			 Vehicle Software, and Emerging Technologies</cato:entity-ref>. The report shall include
+			 information about the accomplishments of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Council for Vehicle Electronics, Vehicle Software, and Emerging Technologies" entity-parent-id="6940">Council</cato:entity-ref>, the role the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Council for Vehicle Electronics, Vehicle Software, and Emerging Technologies" entity-parent-id="6940">Council</cato:entity-ref>
+			 plays in integrating and aggregating expertise across <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6940" entity-type="federal-body">NHTSA</cato:entity-ref>, and the
+			 priorities of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Council for Vehicle Electronics, Vehicle Software, and Emerging Technologies" entity-parent-id="6940">Council</cato:entity-ref> over the next 5 years.</text>
+				</subsection>
+        <subsection commented="no" id="HCF2ABEFB034B448993BA75F9B44BE2B3">
+          <enum>(c)</enum>
+          <header>Submission of reports</header>
+          <text>Each study described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Motor Vehicle Safety Act of 2014/s:104/ss:a" proposed="true">subsection (a)</cato:entity-ref> and the report described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Motor Vehicle Safety Act of 2014/s:104/ss:b" proposed="true">subsection (b)</cato:entity-ref> shall be
+			 submitted upon completion to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSCM00" entity-type="committee">Committee on Commerce, Science, and
+			 Transportation of the Senate</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HIF00" entity-type="committee">Committee on
+			 Energy and Commerce of the House of Representatives</cato:entity-ref>.</text>
+				</subsection>
+      </section>
+      <section commented="no" display-inline="no-display-inline" id="id091c1f88-f32e-42a8-953c-c3f9a2ef7a87" section-type="subsequent-section">
+        <enum>105.</enum>
+        <header display-inline="yes-display-inline">Anti-revolving door</header>
+				<subsection commented="no" display-inline="no-display-inline" id="id33363168-6585-4a5d-a53b-3c29143b556d">
+          <enum>(a)</enum>
+          <header display-inline="yes-display-inline">Amendment</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/301/I">Subchapter I of
+			 <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/301">chapter 301</external-xref> of title 49,
+			 United States Code</cato:entity-ref>, is amended by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="iddaa016eb-f3c2-4b3a-beb6-0490cfd89e50" style="USC">
+						<section commented="no" display-inline="no-display-inline" id="id4a11e6f7-7e04-48f0-acba-bf1519881920" section-type="subsequent-section">
+              <enum>30107.</enum>
+              <header display-inline="yes-display-inline">Restriction on covered vehicle safety
+				officials</header>
+							<subsection commented="no" display-inline="no-display-inline" id="id29fb9134-e82f-403e-ae0f-13bedaf5aad2">
+                <enum>(a)</enum>
+                <header display-inline="yes-display-inline">In general</header>
+                <text display-inline="yes-display-inline">During the 2-year period after the
+				termination of his or her service or employment, a covered vehicle
+			 safety
+				official may not knowingly make, with the intent to influence, any
+				communication to or appearance before any officer or employee of
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6940" entity-type="federal-body">National
+				Highway Traffic Safety Administration</cato:entity-ref> on behalf of any manufacturer
+			 subject to
+				regulation under this chapter in connection with any matter
+			 involving motor
+				vehicle safety on which such person seeks official action by any
+			 officer or
+				employee of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6940" entity-type="federal-body">National Highway Traffic Safety Administration</cato:entity-ref>.</text>
+							</subsection>
+              <subsection commented="no" display-inline="no-display-inline" id="id13e2738c-1414-4c90-a5ae-b4ab92600491">
+                <enum>(b)</enum>
+                <header display-inline="yes-display-inline">Manufacturers</header>
+                <text display-inline="yes-display-inline">It is unlawful for any manufacturer or
+				other person subject to regulation under this chapter to employ or
+			 contract for
+				the services of an individual to whom <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30107/a" proposed="true">subsection (a)</cato:entity-ref> applies during
+			 the 2-year
+				period commencing on the individual’s termination of employment
+			 with the
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6940" entity-type="federal-body">National Highway Traffic Safety Administration</cato:entity-ref> in a capacity in
+			 which the
+				individual is prohibited from serving during that period.</text>
+							</subsection>
+              <subsection commented="no" display-inline="no-display-inline" id="id8f9319ca-a0da-44dc-8343-1dafd64b6204">
+                <enum>(c)</enum>
+                <header display-inline="yes-display-inline">Special rule for detailees</header>
+                <text display-inline="yes-display-inline">For purposes of this section, a person who
+				is detailed from 1 department, agency, or other entity to another
+			 department,
+				agency, or other entity shall, during the period such person is
+			 detailed, be
+				deemed to be an officer or employee of both departments, agencies,
+			 or such entities.</text>
+							</subsection>
+              <subsection commented="no" display-inline="no-display-inline" id="idd62788e1-62ee-47e9-be39-0e05c515dfd0">
+                <enum>(d)</enum>
+                <header display-inline="yes-display-inline">Savings provision</header>
+                <text display-inline="yes-display-inline">Nothing in this section may be construed to
+				expand, contract, or otherwise affect the application of any waiver
+			 or criminal
+				penalties under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/207">
+                    <external-xref legal-doc="usc" parsable-cite="usc/18/207">section 207</external-xref> of title 18</cato:entity-ref>.</text>
+							</subsection>
+              <subsection commented="no" display-inline="no-display-inline" id="idf6c4a965-948e-4220-88a1-3422ec35bb65">
+                <enum>(e)</enum>
+                <header display-inline="yes-display-inline">Exception for testimony</header>
+                <text display-inline="yes-display-inline">Nothing in this section may be construed to
+				prevent an individual from giving testimony under oath, or from
+			 making
+				statements required to be made under penalty of perjury.</text>
+							</subsection>
+              <subsection commented="no" display-inline="no-display-inline" id="id7c562c8b-dcbb-4567-92d0-8cfbbdae83df">
+                <enum>(f)</enum>
+                <header display-inline="yes-display-inline">Defined term</header>
+                <text display-inline="yes-display-inline">In this section, the term <term>covered
+				vehicle safety official</term> means any officer or employee of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6940" entity-type="federal-body">National
+				Highway Traffic Safety Administration</cato:entity-ref>—</text>
+								<paragraph commented="no" display-inline="no-display-inline" id="id62994687-9ce9-4ee0-8aa0-7eeb76dc42c9">
+                  <enum>(1)</enum>
+                  <text display-inline="yes-display-inline">who, during the final 12 months of his or
+				her service or employment with the agency, serves or served in a
+			 technical or
+				legal capacity, and whose job responsibilities include or included
+			 vehicle
+				safety defect investigation, vehicle safety compliance, vehicle
+			 safety
+				rulemaking, or vehicle safety research; and</text>
+								</paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id0093a3a2-2b88-4ac9-8603-cc9bcd5da6c7">
+                  <enum>(2)</enum>
+                  <text display-inline="yes-display-inline">who serves in a supervisory or management
+				capacity over an officer or employee described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30107/f/1" proposed="true">paragraph (1)</cato:entity-ref>.</text>
+								</paragraph>
+              </subsection>
+              <subsection commented="no" display-inline="no-display-inline" id="idcb88c7da-2340-4331-a222-9401fde10574">
+                <enum>(g)</enum>
+                <header display-inline="yes-display-inline">Effective
+				date</header>
+                <text display-inline="yes-display-inline">This section shall apply
+				to covered vehicle safety officials who terminate service or
+			 employment with
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6940" entity-type="federal-body">National Highway Traffic Safety Administration</cato:entity-ref> after the date
+			 of enactment
+				of the <short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Motor Vehicle Safety Act of 2014" proposed="true">Motor Vehicle Safety Act of 2014</cato:entity-ref>
+                  </short-title>.</text>
+							</subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="id0f9cab51-b010-4678-be17-d575292395cb">
+          <enum>(b)</enum>
+          <header display-inline="yes-display-inline">Civil penalty</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30165/a">
+              <external-xref legal-doc="usc" parsable-cite="usc/49/30165">Section 30165(a)</external-xref> of title 49,
+			 United States Code</cato:entity-ref>, is amended by
+			 adding
+			 at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id544ca99f-3faa-4817-96ac-bf7d10d561e1" style="OLC">
+						<paragraph commented="no" display-inline="no-display-inline" id="ide5e0aebe-2d42-4327-8bea-576ba4fb2a3d">
+              <enum>(5)</enum>
+              <header display-inline="yes-display-inline">Improper influence</header>
+              <subparagraph commented="no" display-inline="no-display-inline" id="id2C24ECA374774E2191CC6F9BA421EDA5">
+                <enum>(A)</enum>
+                <header>In general</header>
+                <text display-inline="yes-display-inline">An individual who violates <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30107/a" proposed="true">section 30107(a)</cato:entity-ref>
+				is liable to the United States Government for a civil penalty, as
+			 determined
+				under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/216/b">section
+				216(b) of title 18</cato:entity-ref>, for an offense under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/207">section 207 of that
+				title</cato:entity-ref>.</text>
+              </subparagraph>
+              <subparagraph commented="no" display-inline="no-display-inline" id="id5FDFF1FC6CF4484F9D4533E1B6430B55">
+                <enum>(B)</enum>
+                <header>Manufacturers</header>
+                <text display-inline="yes-display-inline">A manufacturer or other person subject to regulation under
+			 this chapter
+				who violates <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30107/b" proposed="true">section 30107(b)</cato:entity-ref> is liable to the United States
+			 Government for a
+				civil penalty equal to the sum of—</text>
+								<clause commented="no" display-inline="no-display-inline" id="id5a1f229d-753b-4bcb-8318-7bb89793d66f">
+                  <enum>(i)</enum>
+                  <text display-inline="yes-display-inline">an amount equal to not less than $100,000;
+				and</text>
+								</clause>
+                <clause commented="no" display-inline="no-display-inline" id="id4440bcdd-f992-4a6f-b9aa-84af988f075c">
+                  <enum>(ii)</enum>
+                  <text display-inline="yes-display-inline">an amount equal to 90 percent of the annual
+				compensation or fee paid or payable to the individual with respect
+			 to whom the
+				violation
+				occurred.</text>
+								</clause>
+              </subparagraph>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection commented="no" display-inline="no-display-inline" id="id91331dc2-2bad-4f0e-a556-7d3f0315a7fb">
+          <enum>(c)</enum>
+          <header display-inline="yes-display-inline">Conforming amendment</header>
+          <text display-inline="yes-display-inline">The table of contents for
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/301">
+              <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/301">chapter 301</external-xref> of title 49,
+			 United States Code</cato:entity-ref>, is amended by inserting after the item relating to
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30106">section
+			 30106</cato:entity-ref> the following:</text>
+					<quoted-block display-inline="no-display-inline" id="ide93eb7e6-2587-49cb-8026-00595530e8cf" style="OLC">
+						<toc>
+							<toc-entry bold="off" level="section">30107. Restriction on covered vehicle safety
+				officials.</toc-entry>
+						</toc>
+						<after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+      </section>
+    </title>
+    <title id="H8254F23A72674D1597E2A33E682CA85B">
+      <enum>II</enum>
+      <header>Funding</header>
+			<section id="H56C50A1B2CD44AAF889A151149824A19">
+        <enum>201.</enum>
+        <header>Vehicle safety user fee</header>
+				<subsection id="HFBC255DE29024235AB0C7C4BDE05103E">
+          <enum>(a)</enum>
+          <header>Amendment</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/301/I">Subchapter I of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/301">chapter 301</external-xref> of title 49, United States Code</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Motor Vehicle Safety Act of 2014/s:105/ss:a" proposed="true">section 105(a)</cato:entity-ref>, is
+			 further amended by adding at the end the following:</text>
+					<quoted-block id="H22472332F00443EDBCEE6CEE4B1454EC" style="USC">
+						<section id="HCFFCB7C66E8549DC8730B9379D2974CD">
+              <enum>30108.</enum>
+              <header>Vehicle safety user fee</header>
+							<subsection id="H5460AAAEDDCA4310AB882D574C4C1940">
+                <enum>(a)</enum>
+                <header>Establishment of fund</header>
+                <text display-inline="yes-display-inline">There is established in the Treasury of the United States a separate account for the deposit of
+			 fees under this section to be known as the Vehicle Safety Fund.</text>
+							</subsection>
+              <subsection id="H0052DFBD20314427A6BC92EBD98CF1AC">
+                <enum>(b)</enum>
+                <header>Assessment and collection of vehicle safety fees</header>
+                <text display-inline="yes-display-inline">Beginning 1 year after the date of enactment of the <short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Motor Vehicle Safety Act of 2014" proposed="true">Motor Vehicle Safety Act of 2014</cato:entity-ref>
+                  </short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall assess and collect, in accordance with this section, a vehicle safety user
+			 fee from the manufacturer for each motor vehicle that is certified as
+			 compliant with applicable motor vehicle safety standards under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30115">section 30115</cato:entity-ref>.</text>
+							</subsection>
+              <subsection id="H446EC730F40149419AF44136CE74AD87">
+                <enum>(c)</enum>
+                <header>Deposit</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall deposit any fees collected under <internal-xref idref="H0052DFBD20314427A6BC92EBD98CF1AC" legis-path="30107.(b)">
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30108/b" proposed="true">subsection (b)</cato:entity-ref>
+                  </internal-xref> into the Vehicle Safety Fund established by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30108/a" proposed="true">
+                    <internal-xref idref="H5460AAAEDDCA4310AB882D574C4C1940" legis-path="30107.(a)">subsection (a)</internal-xref>
+                  </cato:entity-ref>.</text>
+							</subsection>
+              <subsection id="HB82BAEEDE49E48A7B7222CDD4063378B">
+                <enum>(d)</enum>
+                <header>Use</header>
+                <text display-inline="yes-display-inline">Amounts in the Vehicle Safety Fund shall be available to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref>, as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30108/i" proposed="true">subsection
+			 (i)</cato:entity-ref>, for making expenditures to meet the obligations of the United States
+			 to carry out vehicle safety programs of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6940" entity-type="federal-body">National Highway Traffic
+			 Safety Administration</cato:entity-ref>.</text>
+							</subsection>
+              <subsection id="H565256880D5A40B8B52A031D5B2C74EC">
+                <enum>(e)</enum>
+                <header>Vehicle safety user fee</header>
+								<paragraph id="H9E940E31FDF34D4CB9316470F4201D3B">
+                  <enum>(1)</enum>
+                  <header>First, second, and third year fees</header>
+                  <text display-inline="yes-display-inline">The fee assessed under this section for the first 3 years shall be as follows:</text>
+									<subparagraph id="H762C6C96199B421FB5745AB4D329CED9">
+                    <enum>(A)</enum>
+                    <text display-inline="yes-display-inline">$3 for each motor vehicle certified during the first year in which such fees are assessed.</text>
+									</subparagraph>
+                  <subparagraph id="H66BB0861BBE840B78CF8B05DEE24AAB4">
+                    <enum>(B)</enum>
+                    <text display-inline="yes-display-inline">$6 for each motor vehicle certified during the second year in which such fees are assessed.</text>
+									</subparagraph>
+                  <subparagraph id="H61BEDDDAEACF4E79B330FC3975777717">
+                    <enum>(C)</enum>
+                    <text display-inline="yes-display-inline">$9 for each motor vehicle certified during the third year in which such fees are assessed.</text>
+									</subparagraph>
+                </paragraph>
+                <paragraph id="H7ECE6301B5A9490789BE32093903A20F">
+                  <enum>(2)</enum>
+                  <header>Subsequent years</header>
+                  <text display-inline="yes-display-inline">The fee assessed under this section for each motor vehicle certified after the third year in which
+			 such
+			 fees are assessed shall be adjusted by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> by notice published
+			 in the Federal Register to reflect the total percentage change that
+			 occurred in the Consumer Price Index for all Urban Consumers for the
+			 12-month period ending June 30 preceding the fiscal year for which fees
+			 are
+			 being established.</text>
+								</paragraph>
+                <paragraph commented="no" id="H43ECD07154EE4E5E9643E9B9D449735C">
+                  <enum>(3)</enum>
+                  <header>Payment</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall require payment of fees under this section on a quarterly basis and not later
+			 than one quarter after the date on which the fee was assessed.</text>
+								</paragraph>
+              </subsection>
+              <subsection commented="no" id="H0080585D03D64894A263682669087D34">
+                <enum>(f)</enum>
+                <header>Rulemaking</header>
+                <text display-inline="yes-display-inline">Not later than 9 months after the date of enactment of the <short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Motor Vehicle Safety Act of 2014" proposed="true">Motor Vehicle Safety Act of 2014</cato:entity-ref>
+                  </short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall promulgate rules governing the collection and payment of fees under
+			 this section.</text>
+							</subsection>
+              <subsection id="H0F47E170B7A944859B2B45D364CDA155">
+                <enum>(g)</enum>
+                <header>Limitations</header>
+								<paragraph commented="no" id="HE5EF98BBC2DC4F6A867E4F3EFD291149">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>Fees under this section shall not be collected for a fiscal year unless appropriations for vehicle
+			 safety programs of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6940" entity-type="federal-body">National Highway Traffic Safety Administration</cato:entity-ref> for
+			 that fiscal year (excluding the amount of fees appropriated for that
+			 fiscal year) are equal to or greater than the amount of appropriations for
+			 vehicle safety programs of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6940" entity-type="federal-body">National Highway Traffic Safety
+			 Administration</cato:entity-ref> for fiscal year 2014.</text>
+								</paragraph>
+                <paragraph commented="no" id="HBBE9DFC3D8F54B0BA58F005171575CED">
+                  <enum>(2)</enum>
+                  <header>Authority</header>
+                  <text display-inline="yes-display-inline">If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> does not assess fees under this section during any portion of a fiscal year
+			 because of <internal-xref idref="HE5EF98BBC2DC4F6A867E4F3EFD291149" legis-path="30107.(f)(1)">
+                      <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30108/g/1" proposed="true">paragraph (1)</cato:entity-ref>
+                    </internal-xref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> may assess and collect the fees, without any modification in the rate, at a later
+			 date in that fiscal year notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30108/e/3" proposed="true">subsection (e)(3)</cato:entity-ref>.</text>
+								</paragraph>
+              </subsection>
+              <subsection commented="no" id="HD0913CE2DA0F4B30A8BA38467FE4E148">
+                <enum>(h)</enum>
+                <header>Collection of unpaid fees</header>
+                <text display-inline="yes-display-inline">If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> does not receive payment of a fee assessed under this section
+			 within 30 days after it is due, the fee shall be treated as a claim of
+			 the United States Government subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/31/37/II">subchapter II of chapter 37 of
+			 title 31</cato:entity-ref>.</text>
+							</subsection>
+              <subsection id="HA053E10F7E884F7FA5BE89E05DD076AE">
+                <enum>(i)</enum>
+                <header>Authorization of appropriations</header>
+                <text display-inline="yes-display-inline">
+                  <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">In addition to funds authorized to be appropriated under <cato:entity-ref entity-type="uscode" value="usc/49/30104">section 30104</cato:entity-ref>, there is authorized to be
+			 appropriated <cato:property name="funds-source">from the Vehicle Safety Fund</cato:property> to the <cato:entity-ref entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> for the
+			 <cato:entity-ref entity-id="6940" entity-type="federal-body">National Highway Traffic Safety Administration</cato:entity-ref> <cato:funds-and-year amount="indefinite">for each fiscal year in
+			 which fees are collected under <internal-xref idref="H0052DFBD20314427A6BC92EBD98CF1AC" legis-path="30107.(b)">
+                        <cato:entity-ref entity-type="uscode" value="usc/49/30108/b" proposed="true">subsection (b)</cato:entity-ref>
+                      </internal-xref> an amount equal to the total amount collected during the previous fiscal year from fees assessed
+			 under <cato:entity-ref entity-type="uscode" value="usc/49/30108" proposed="true">this section</cato:entity-ref>
+                    </cato:funds-and-year>. Such amounts are authorized to remain available
+			 until expended.</cato:entity>
+                </text>
+							</subsection>
+              <subsection id="H98EB0DF21B584416830627609F3DC0FE">
+                <enum>(j)</enum>
+                <header>Crediting and Availability of Fees</header>
+                <text display-inline="yes-display-inline">Fees authorized under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30108/b" proposed="true">subsection (b)</cato:entity-ref> shall be collected and available for obligation only to the
+			 extent and in the amount provided in advance in appropriations Acts.</text>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="H34CE9394D104421C84270BAA0F41E478">
+          <enum>(b)</enum>
+          <header>Clerical amendment</header>
+          <text>The table of contents for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/301">
+              <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/301">chapter 301</external-xref> of title 49, United States Code</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Motor Vehicle Safety Act of 2014/s:108/ss:e" proposed="true">section
+			 108(e)</cato:entity-ref>, is further amended by inserting after the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30107" proposed="true">section
+			 30107</cato:entity-ref> the following:</text>
+					<quoted-block display-inline="no-display-inline" id="HF7EAF615AE54427281AC3DA9BBA2B852" style="USC">
+						<toc regeneration="no-regeneration">
+							<toc-entry level="section">30108. Vehicle safety user fee.</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+      </section>
+      <section commented="no" id="H9B2A421B42D348949F883778ED5A9588">
+        <enum>202.</enum>
+        <header>Authorization of appropriations</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30104">
+            <external-xref legal-doc="usc" parsable-cite="usc/49/30104">Section 30104</external-xref> of title 49, United States Code</cato:entity-ref>, is amended—</text>
+				<paragraph commented="no" id="H6C32FA8BC96E4C63B0EF4CF72CC83551">
+          <enum>(1)</enum>
+          <text>by striking <quote>$98,313,500</quote>; and</text>
+				</paragraph>
+        <paragraph commented="no" id="H9C8564974D0249D2885AB3F0F417CD75">
+          <enum>(2)</enum>
+          <text display-inline="yes-display-inline">by striking <quote>in each fiscal year beginning in fiscal year 1999 and ending in fiscal year 2011.</quote> and inserting the following:</text>
+					<quoted-block display-inline="yes-display-inline" id="H1C12DCB1BCD44A9199579E45902FF127" style="USC">
+            <text>and 
+                to carry out the <short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Motor Vehicle Safety Act of 2014" proposed="true">Motor Vehicle Safety Act of 2014</cato:entity-ref>
+                  </short-title>
+                
+              —</text>
+            <paragraph commented="no" id="H4BEDB76EB61D4700BE033087E61B0C21">
+              <enum>(1)</enum>
+              <text display-inline="yes-display-inline">
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                  <cato:funds-and-year amount="200000000" year="2015">$200,000,000 for fiscal year 2015</cato:funds-and-year>
+                </cato:entity>;</text>
+						</paragraph>
+            <paragraph commented="no" id="HBB644A79AB644C93895779AEB43BD1D1">
+              <enum>(2)</enum>
+              <text>
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                  <cato:funds-and-year amount="240000000" year="2016">$240,000,000 for fiscal year 2016</cato:funds-and-year>
+                </cato:entity>; and</text>
+						</paragraph>
+            <paragraph commented="no" id="H7214180AE8C14E9884CA8C3F006B6878">
+              <enum>(3)</enum>
+              <text>
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                  <cato:funds-and-year amount="280000000" year="2017">$280,000,000 for fiscal year 2017</cato:funds-and-year>
+                </cato:entity>.</text>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </section>
+    </title>
+    <title id="HABF9E46EF7D84188AFFB359641A44A9A">
+      <enum>III</enum>
+      <header>Enhanced safety authorities</header>
+			<section id="H9C8D64CFBAA1486693D9D224A5F6A53F">
+        <enum>301.</enum>
+        <header>Civil penalties</header>
+        <subsection id="idFA1AC5D04227448D8CE626D7B770E83B">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30165">
+              <external-xref legal-doc="usc" parsable-cite="usc/49/30165">Section 30165</external-xref> of title 49, United States Code</cato:entity-ref>, is amended—</text>
+          <paragraph id="id8B32E92C02C548D0B46728E9F5C1DB1E">
+            <enum>(1)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30165/a/1">subsection (a)(1)</cato:entity-ref>—</text>
+            <subparagraph id="idDEE6B35353B14843A60592AC6848C6DB">
+              <enum>(A)</enum>
+              <text>in the first sentence by striking <quote>$5,000</quote> and inserting <quote>$25,000</quote>; and</text>
+            </subparagraph>
+            <subparagraph id="idA985179AEEE942B6972688E96ACD39C9">
+              <enum>(B)</enum>
+              <text>by striking the third sentence; and</text>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="idF93C772D7185448389E3EF55D0470D2A">
+            <enum>(2)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30165/a/3">subsection (a)(3)</cato:entity-ref>—</text>
+            <subparagraph id="id2832F4A29327409C9545EEF8A5323F19">
+              <enum>(A)</enum>
+              <text>in the second sentence by striking <quote>$5,000</quote> and inserting <quote>$25,000</quote>; and</text>
+            </subparagraph>
+            <subparagraph id="id7CD9081E6C0240929E53FF3BCD6D015A">
+              <enum>(B)</enum>
+              <text>by striking the third sentence.</text>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection commented="no" id="H2586220305DC4C72AF06EDF1472F3B68">
+          <enum>(b)</enum>
+          <header>Construction</header>
+          <text display-inline="yes-display-inline">Nothing in this section shall be construed as preventing the imposition of penalties under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30165">section
+			 30165 of title 49, United States Code</cato:entity-ref>, prior to the issuance of a final
+			 rule under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Moving Ahead for Progress in the 21st Century Act/s:31203/ss:b">section 31203(b) of the Moving Ahead for Progress in the
+			 21st Century Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/49/30165/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/49/30165">
+              49 U.S.C. 30165
+            </external-xref> note</cato:entity-ref>)</cato:entity>.</text>
+				</subsection>
+      </section>
+      <section commented="no" id="idF8FE5A2FC145453B8F0E9194FD72D336">
+        <enum>302.</enum>
+        <header>Imminent hazard authority</header>
+        <subsection commented="no" id="idB15D73BCBD7F416C901B462D1A6DFDFA">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30118">
+              <external-xref legal-doc="usc" parsable-cite="usc/49/30118">Section 30118</external-xref> of title 49, United States Code</cato:entity-ref>, is amended—</text>
+          <paragraph commented="no" id="idF55463916965491CA30A4545B996B49F">
+            <enum>(1)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30118/b">subsection (b)</cato:entity-ref>—</text>
+            <subparagraph commented="no" id="idB030E510C4EE43C2A747E1D77E208ED4">
+              <enum>(A)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30118/b/1">paragraph (1)</cato:entity-ref>, by striking <quote>(1) The Secretary may</quote> and inserting <quote>(1) <header-in-text level="paragraph" style="USC">In general</header-in-text>.—Except as provided under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30118/b/3" proposed="true">paragraph (3)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> may</quote>;</text>
+            </subparagraph>
+            <subparagraph commented="no" id="id783A5EB87CEC42DA881D9D0286A47D65">
+              <enum>(B)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30118/b/2">paragraph (2)</cato:entity-ref>, by inserting <quote>
+                  <header-in-text level="paragraph" style="OLC">Orders</header-in-text>.—</quote> before <quote>If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref>
+                </quote>; and</text>
+            </subparagraph>
+            <subparagraph commented="no" id="idFDD73925CC1D4392834E831E9D3120FE">
+              <enum>(C)</enum>
+              <text>by adding after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30118/b/2">paragraph (2)</cato:entity-ref> the following:</text>
+              <quoted-block display-inline="no-display-inline" id="idC2A08AE5EA9447E49CA0A3A1DA1C610B" style="OLC">
+                <paragraph commented="no" id="id1F6ACDB7EFEB4797A98FC320489BAA73">
+                  <enum>(3)</enum>
+                  <header>Imminent hazards</header>
+                  <subparagraph commented="no" id="id815F5697DEC04E919A4683EA96FD1657">
+                    <enum>(A)</enum>
+                    <header>Decisions and orders</header>
+                    <text>If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> decides that a defect or noncompliance, or combination of both, under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30118/a">subsection
+			 (a)</cato:entity-ref> presents an imminent hazard, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref>—</text>
+                    <clause commented="no" id="id8FFBD90BCE604CE0BD22A00E015EF422">
+                      <enum>(i)</enum>
+                      <text>shall notify the manufacturer of a motor vehicle or replacement equipment immediately under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30118/a">subsection (a)</cato:entity-ref>; and</text>
+                    </clause>
+                    <clause commented="no" id="id0A3075862C224606AB1718DC0D9FEB98">
+                      <enum>(ii)</enum>
+                      <text>shall order the manufacturer of the motor vehicle or replacement equipment to immediately—</text>
+                      <subclause commented="no" id="id5C937499E55D432E90409EB97868B935">
+                        <enum>(I)</enum>
+                        <text>give notification under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30119">section 30119 of this title</cato:entity-ref> to the owners, purchasers, and dealers of the
+			 vehicle or equipment of the imminent hazard; and</text>
+                      </subclause>
+                      <subclause commented="no" id="id8DB05460312F4B449CD20D17D18E5F7A">
+                        <enum>(II)</enum>
+                        <text>remedy the defect or noncompliance under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30120">section 30120</cato:entity-ref> of this title;</text>
+                      </subclause>
+                    </clause>
+                    <clause commented="no" id="idAAB9D36111BD41898C41BCF2FBC43573">
+                      <enum>(iii)</enum>
+                      <text>notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30119">section 30119</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30120">30120</cato:entity-ref>, may order the time for notification, means of providing
+			 notification, earliest remedy date, and time the owner or purchaser has to
+			 present the motor vehicle or equipment, including a tire, for remedy; and</text>
+                    </clause>
+                    <clause commented="no" id="id30C6B27074DB4976A36A0C67C45BBBCC">
+                      <enum>(iv)</enum>
+                      <text>may include in an order under this subparagraph any other terms or conditions that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref>
+			 determines necessary to abate the imminent hazard.</text>
+                    </clause>
+                  </subparagraph>
+                  <subparagraph commented="no" id="idA3E6753E65594BA4A9D9479C6FF8083A">
+                    <enum>(B)</enum>
+                    <header>Opportunity for administrative review</header>
+                    <text>Subsequent to the issuance of an order under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30118/b/3/A" proposed="true">subparagraph (A)</cato:entity-ref>, opportunity for administrative
+			 review shall be
+			 provided in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/554">
+                        <external-xref legal-doc="usc" parsable-cite="usc/5/554">section 554</external-xref> of title 5</cato:entity-ref>, except that such
+			 review shall occur not later than 10 days after issuance of such order.</text>
+                  </subparagraph>
+                  <subparagraph commented="no" id="idBC2D4BB4CACA4E15B3414561AF7575CF">
+                    <enum>(C)</enum>
+                    <header>Definition of imminent hazard</header>
+                    <text>In this paragraph, the term <term>imminent hazard</term> means any condition which substantially increases the likelihood of serious injury or death if not
+			 remedied immediately.</text>
+                  </subparagraph>
+                </paragraph>
+                <after-quoted-block>; and</after-quoted-block>
+              </quoted-block>
+            </subparagraph>
+          </paragraph>
+          <paragraph commented="no" id="idA25AF020BD3449FE82AFA43195D68610">
+            <enum>(2)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30118/c">subsection (c)</cato:entity-ref>, by inserting <quote>or electronic mail</quote> after <quote>certified mail</quote>.</text>
+					</paragraph>
+        </subsection>
+      </section>
+      <section id="id1ED727BE71EC48BABA25410FC16DBBE9">
+        <enum>303.</enum>
+        <header>Used passenger motor vehicle consumer protection</header>
+        <subsection id="idCF76FA51B1FE416FA9380EA4DE18B720">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30120">
+              <external-xref legal-doc="usc" parsable-cite="usc/49/30120">Section 30120</external-xref> of title 49, United States Code</cato:entity-ref>, is amended by adding at the end the following:</text>
+          <quoted-block display-inline="no-display-inline" id="id1515B0739DC8413CB9D297E3887FF58F" style="OLC">
+            <subsection id="id46AAB668C6424D39B7776979D2AE9D2B">
+              <enum>(k)</enum>
+              <header>Limitation on Sale or Lease of Used Passenger Motor Vehicles</header>
+              <paragraph id="id0ABD0F46FAAA412C9AAB2EEB3EAD63E6">
+                <enum>(1)</enum>
+                <text display-inline="yes-display-inline">A dealer may not sell or lease a used passenger motor vehicle until—</text>
+                <subparagraph id="id41C45717F0A444B485FCE7F3AE56A3C8">
+                  <enum>(A)</enum>
+                  <text display-inline="yes-display-inline">the dealer clearly and conspicuously notifies the purchaser or lessee, in writing, of any
+			 notifications of a defect or noncompliance under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30118/b">section 30118(b)</cato:entity-ref> or
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30118/c">section 30118(c) of this title</cato:entity-ref> with respect to the used passenger motor
+			 vehicle that have not been
+			 remedied; and</text>
+                </subparagraph>
+                <subparagraph id="idCB168A7FC09D47179E14B47E3F8E5993">
+                  <enum>(B)</enum>
+                  <text display-inline="yes-display-inline">the purchaser or lessee acknowledges, in writing, the receipt of the notification under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30120/k/1/A" proposed="true">subparagraph (A)</cato:entity-ref>.</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="idAB724464252A4C8CA29C1E19462E61C8">
+                <enum>(2)</enum>
+                <text display-inline="yes-display-inline">
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30120/k/1" proposed="true">Paragraph (1)</cato:entity-ref> shall not apply if—</text>
+                <subparagraph id="id9B07D258EB594E8B87E6B58A07BCDCB7">
+                  <enum>(A)</enum>
+                  <text display-inline="yes-display-inline">the defect or noncompliance is remedied under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30120">section 30120 of this title</cato:entity-ref> before delivery under the
+			 sale
+			 or lease; or</text>
+                </subparagraph>
+                <subparagraph id="id5DF235020EDE42AA9E3B096B458FE583">
+                  <enum>(B)</enum>
+                  <text display-inline="yes-display-inline">notification of the defect or noncompliance is required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30118/b">section 30118(b)</cato:entity-ref>, but enforcement of
+			 the order is set aside in a civil action to which <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30121/d">30121(d)</cato:entity-ref> applies.</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="idA367E7DBA0BA4C8F8A4D346253778104">
+                <enum>(3)</enum>
+                <text display-inline="yes-display-inline">This subsection shall not apply to a dealer if the recall information regarding a used passenger
+			 motor vehicle was not accessible at the time of sale or lease using the
+			 means established by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="Moving Ahead for Progress in the 21st Century Act/s:31301">section 31301 of the Moving Ahead
+			 for Progress in the 21st Century Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/49/30166">
+                    <cato:entity-ref entity-type="uscode" value="usc/49/30166/note">49 U.S.C. 30166</cato:entity-ref>
+                  </external-xref> note)</cato:entity>.</text>
+              </paragraph>
+              <paragraph id="id910C285EE0034820B136CD2263511496">
+                <enum>(4)</enum>
+                <text display-inline="yes-display-inline">In this subsection, notwithstanding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/30102/a/1">section 30102(a)(1) of this title</cato:entity-ref>—</text>
+                <subparagraph id="id95AB49F4428D480CB53D590B6F1ECAD1">
+                  <enum>(A)</enum>
+                  <text display-inline="yes-display-inline">the term <term>dealer</term> means a person that has sold at least 10 motor vehicles to 1 or
+			 more consumers during the prior 12 months; and</text>
+                </subparagraph>
+                <subparagraph id="id6B34F6F039EF42898BEA967C1678D161">
+                  <enum>(B)</enum>
+                  <text display-inline="yes-display-inline">the term <term>used passenger motor vehicle</term> means a motor vehicle that has previously been purchased other than for resale.</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="idF0738914F9F740C5B0C5D97FFA5D5E80">
+                <enum>(5)</enum>
+                <text display-inline="yes-display-inline">By rule, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> may exempt the auctioning of a used passenger motor vehicle from the
+			 requirements of
+			 this section to the extent that the exemption does not harm public safety.</text>
+              </paragraph>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+        <subsection id="id516D774C541048FA8416CC1AA7239496">
+          <enum>(b)</enum>
+          <header>Effective date</header>
+          <text display-inline="yes-display-inline">This section shall take effect 18 months after the date of enactment of this Act.</text>
+        </subsection>
+      </section>
+    </title>
+  </legis-body>
+</bill>
+</doc>

@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113s878is">
     <bill congress="113" type="s" number="878" version="is"/>
-    <revision size="10217" annotations="0" status="complete" id="5" commit-time="2013-07-05T19:07:00Z" committer="mbohmer" doc="113s878is/5.xml">
+    <revision size="10217" annotations="0" status="complete" id="6" commit-time="2014-07-28T21:22:57Z" committer="mbohmer" doc="113s878is/6.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-Senate" public-private="public">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata>
 <dublinCore>
-<dc:title>113 S878 IS: Arbitration Fairness Act of 2013</dc:title>
-<dc:publisher>U.S. Senate</dc:publisher>
-<dc:date>2013-05-07</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S878 IS: Arbitration Fairness Act of 2013</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-05-07</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -51,8 +51,10 @@
       <header>Short title</header>
       <text display-inline="no-display-inline">This Act may be cited as the
 			 <quote>
-          <short-title>Arbitration Fairness Act of
-			 2013</short-title>
+          <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Arbitration Fairness Act of 2013" proposed="true">Arbitration Fairness Act of
+			 2013</cato:entity-ref>
+            </short-title>
         </quote>.</text>
 		</section>
     <section id="HF755B88C0BF9483CB8A9048E714BB080">
@@ -189,7 +191,9 @@
 				relationship of employer and employee as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
                     <cato:entity-ref value="Fair Labor Standards Act of 1938/s:3" entity-type="act">section 3 of the Fair Labor
 				Standards Act of 1938</cato:entity-ref> (
-                      <external-xref legal-doc="usc" parsable-cite="usc/29/203">29 U.S.C. 203</external-xref>
+                      <external-xref legal-doc="usc" parsable-cite="usc/29/203">
+                        <cato:entity-ref entity-type="uscode" value="usc/29/203">29 U.S.C. 203</cato:entity-ref>
+                      </external-xref>
                     
                   </cato:entity>); and</text>
 							</paragraph>
@@ -267,16 +271,16 @@
 					</subparagraph>
           <subparagraph id="idCA9140F874254AC8B71D929253F16302">
             <enum>(B)</enum>
-            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc//2" entity-type="uscode">
-                <cato:entity-ref value="usc/9/2" entity-type="uscode">section 2</cato:entity-ref>
-              </cato:entity-ref>, by
+            <text>in 
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/9/2" entity-type="uscode">section 2</cato:entity-ref>
+              , by
 			 inserting <quote>or as otherwise provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc-chapter/9/4" entity-type="uscode">chapter 4</cato:entity-ref>
               </quote> before the
 			 period at the end;</text>
 					</subparagraph>
           <subparagraph id="id4BB9A7A190B7403B83482D501CEF759F">
             <enum>(C)</enum>
-            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode">section
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/9/208">section
 			 208</cato:entity-ref>—</text>
 						<clause id="idB462FBA021904AD68A499399802AB93D">
               <enum>(i)</enum>
@@ -298,7 +302,7 @@
           </subparagraph>
           <subparagraph id="idB2E0E663B174449D92F0998B6C6D8CDF">
             <enum>(D)</enum>
-            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc//307" entity-type="uscode">section
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/9/307" entity-type="uscode">section
 			 307</cato:entity-ref>—</text>
 						<clause id="id4419AE26868641C285AD71DC9E530A4F">
               <enum>(i)</enum>
@@ -315,7 +319,7 @@
               <enum>(ii)</enum>
               <text>by adding at the
 			 end the following: <quote>This chapter applies to the extent that this chapter
-			 is not in conflict with chapter 4.</quote>.</text>
+			 is not in conflict with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/9/4">chapter 4</cato:entity-ref>.</quote>.</text>
 						</clause>
           </subparagraph>
         </paragraph>

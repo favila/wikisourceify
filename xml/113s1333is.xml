@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113s1333is">
     <bill congress="113" type="s" number="1333" version="is"/>
-    <revision size="2629" annotations="0" status="complete" id="30" commit-time="2013-07-31T15:26:09Z" committer="mbohmer" doc="113s1333is/30.xml">
+    <revision size="2629" annotations="0" status="complete" id="31" commit-time="2014-07-28T21:24:35Z" committer="mbohmer" doc="113s1333is/31.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata>
 <dublinCore>
-<dc:title>113 S1333 IS: Increased Competition for Consumers Act</dc:title>
-<dc:publisher>U.S. Senate</dc:publisher>
-<dc:date>2013-07-18</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S1333 IS: Increased Competition for Consumers Act</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-07-18</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -44,8 +44,10 @@
 			 title</header>
       <text display-inline="no-display-inline">This Act may be cited as
 			 the <quote>
-          <short-title>Increased Competition for
-			 Consumers Act</short-title>
+          <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Increased Competition for Consumers Act" proposed="true">Increased Competition for
+			 Consumers Act</cato:entity-ref>
+            </short-title>
         </quote>.</text>
 		</section>
     <section id="id0E356C776F874FA39E0597516A696652">
@@ -63,7 +65,7 @@
               <cato:entity-ref entity-type="uscode" value="usc/42/18042">42 U.S.C. 18042</cato:entity-ref>
             </external-xref>
           </cato:entity> note) to the fund established
-			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="American Taxpayer Relief Act of 2012/s:644/ss:a/p:">subsection (a)</cato:entity-ref> of such section shall be transferred to the Consumer
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="American Taxpayer Relief Act of 2012/s:644/ss:a">subsection (a)</cato:entity-ref> of such section shall be transferred to the Consumer
 			 Operated and Oriented Plan program established under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
             <cato:entity-ref entity-type="act" value="Patient Protection and Affordable Care Act/s:1322">section 1322 of the
 			 Patient Protection and Affordable Care Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/18042">

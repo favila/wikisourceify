@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113s899is">
     <bill congress="113" type="s" number="899" version="is"/>
-    <revision size="6046" annotations="0" status="complete" id="6" commit-time="2013-07-03T21:21:35Z" committer="mbohmer" doc="113s899is/6.xml">
+    <revision size="6046" annotations="0" status="complete" id="7" commit-time="2014-07-28T21:23:30Z" committer="mbohmer" doc="113s899is/7.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-Senate" public-private="public">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata>
 <dublinCore>
-<dc:title>113 S899 IS: Science Laureates of the United States Act of 2013</dc:title>
-<dc:publisher>U.S. Senate</dc:publisher>
-<dc:date>2013-05-08</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S899 IS: Science Laureates of the United States Act of 2013</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-05-08</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -45,8 +45,10 @@
       <header>Short title</header>
       <text display-inline="no-display-inline">This Act may be cited as the
 			 <quote>
-          <short-title>Science Laureates of the United States
-			 Act of 2013</short-title>
+          <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="United States Act of 2013" proposed="true">Science Laureates of the United States
+			 Act of 2013</cato:entity-ref>
+            </short-title>
         </quote>.</text>
 		</section>
     <section id="HD07A8605E2F945A992C9DE7460C5516F" section-type="subsequent-section">
@@ -212,7 +214,7 @@
               
                 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/5703">
               <external-xref legal-doc="usc" parsable-cite="usc/5/5703">
-                  <cato:entity-ref value="usc//5703" entity-type="uscode">section 5703</cato:entity-ref>
+                  section 5703
                 </external-xref> of title 5, United States Code</cato:entity-ref>
             .</text>
 				</paragraph>

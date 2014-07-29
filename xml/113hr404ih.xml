@@ -1,7 +1,7 @@
 <doc>
   <docmeta id="113hr404ih">
     <bill congress="113" type="hr" number="404" version="ih"/>
-    <revision size="4020" annotations="0" id="10" commit-time="2013-03-11T23:39:58+00:00" committer="favila" doc="113hr404ih/10.xml" status="complete">
+    <revision size="4044" annotations="0" id="13" commit-time="2014-07-28T21:15:25Z" committer="mbohmer" doc="113hr404ih/13.xml" status="complete">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
@@ -40,8 +40,10 @@
       <header>Short title</header>
       <text display-inline="no-display-inline">This Act may be cited as the
 			 <quote>
-          <short-title>Straw Purchaser Penalty Enhancement
-			 Act</short-title>
+          <short-title>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Straw Purchaser Penalty Enhancement Act" proposed="true">Straw Purchaser Penalty Enhancement
+			 Act</cato:entity-ref>
+          </short-title>
         </quote>.</text>
 		</section>
     <section id="H5E47DC2F37CE4D4AA4AF8672C435DD1F">
@@ -96,9 +98,9 @@
               <clause commented="no" display-inline="yes-display-inline" id="HC89A8DAA1A2A4868A7BF27C5D191F6A1">
                 <enum>(i)</enum>
                 <text>Except as provided in
-				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc//////ii">
-                    <cato:entity-ref entity-type="uscode" value="usc/18/924/q/2/C/ii" proposed="true">clause (ii)</cato:entity-ref>
-                  </cato:entity-ref>, a term of imprisonment imposed on a person under this subsection
+				
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/924/q/2/C/ii" proposed="true">clause (ii)</cato:entity-ref>
+                  , a term of imprisonment imposed on a person under this subsection
 				shall not run concurrently with a term of imprisonment imposed on the person
 				under any other provision of law.</text>
 							</clause>
@@ -123,7 +125,7 @@
               <clause id="H35440A423EF74256865A38D705E58829" indent="up1">
                 <enum>(ii)</enum>
                 <text>Before imposing a sentence in
-				accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc//3553/a">section 3553(a)</cato:entity-ref>, the court shall give the parties reasonable
+				accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/3553/a">section 3553(a)</cato:entity-ref>, the court shall give the parties reasonable
 				notice of the intent of the court to do so and an opportunity to
 				respond.</text>
 							</clause>

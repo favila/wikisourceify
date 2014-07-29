@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113s1317is">
     <bill congress="113" type="s" number="1317" version="is"/>
-    <revision size="95168" annotations="0" status="complete" id="43" commit-time="2013-08-15T19:22:24Z" committer="mbohmer" doc="113s1317is/43.xml">
+    <revision size="95168" annotations="0" status="complete" id="44" commit-time="2014-07-28T21:19:26Z" committer="mbohmer" doc="113s1317is/44.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata>
 <dublinCore>
-<dc:title>113 S1317 IS: National Aeronautics and Space Administration Authorization Act of 2013</dc:title>
-<dc:publisher>U.S. Senate</dc:publisher>
-<dc:date>2013-07-17</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S1317 IS: National Aeronautics and Space Administration Authorization Act of 2013</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-07-17</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -48,8 +48,10 @@
 			 title</header>
         <text display-inline="yes-display-inline">This Act may be cited
 			 as the <quote>
-            <short-title>National Aeronautics and Space
-			 Administration Authorization Act of 2013</short-title>
+            <short-title>
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Aeronautics and Space Administration Authorization Act of 2013" proposed="true">National Aeronautics and Space
+			 Administration Authorization Act of 2013</cato:entity-ref>
+              </short-title>
           </quote>.</text>
 			</subsection>
       <subsection id="idD3BD34E16C904CC18C4EB3C674C5BB5E">
@@ -1858,7 +1860,7 @@
                   <enum>(h)</enum>
                   <header>Payments</header>
                   <text>Upon
-				the approval by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8000">Administrator</cato:entity-ref>, payments under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc///a">subsection (a)</cato:entity-ref> may be made,
+				the approval by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8000">Administrator</cato:entity-ref>, payments under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/51/20148/a" proposed="true">subsection (a)</cato:entity-ref> may be made,
 				at the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8000">Administrator</cato:entity-ref>'s election, either from—</text>
 									<paragraph id="id0ED04509202445C4B0DDB61225CB6C63">
                     <enum>(1)</enum>
@@ -1882,7 +1884,7 @@
 				other laws</header>
                   <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="8000">Administrator</cato:entity-ref> may not provide indemnification
 				under this section for an activity that requires a license or permit under
-				chapter 509.</text>
+				<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/51/509">chapter 509</cato:entity-ref>.</text>
 								</subsection>
                 <subsection id="idD10C1C5EAB134DC5BC52467757B6C11F">
                   <enum>(j)</enum>
@@ -1901,7 +1903,7 @@
                     <header>Launch
 				services</header>
                     <text>The term <term>launch services</term> has the meaning
-				given the term in section 50902.</text>
+				given the term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/51/50902">section 50902</cato:entity-ref>.</text>
 									</paragraph>
                   <paragraph id="idF06BCECC35524EA4B849901EBD525AF4">
                     <enum>(2)</enum>
@@ -1922,7 +1924,7 @@
 			 amendment</header>
             <text display-inline="yes-display-inline">The table of
 			 contents for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/51/201/III">subchapter III of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/51/201">chapter 201</external-xref> of title 51, United States Code</cato:entity-ref>, is
-			 amended by inserting after the item relating to section 20147 the
+			 amended by inserting after the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/51/20147">section 20147</cato:entity-ref> the
 			 following:</text>
 						<quoted-block display-inline="no-display-inline" id="idF37E084A35E046C1BCFDF07066BC595D" style="OLC">
 							<toc>

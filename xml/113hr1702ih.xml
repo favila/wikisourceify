@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113hr1702ih">
     <bill congress="113" type="hr" number="1702" version="ih"/>
-    <revision size="1269" annotations="0" id="4" commit-time="2013-05-09T21:38:11+00:00" committer="favila" doc="113hr1702ih/4.xml" status="complete">
-      <description/>
+    <revision size="1269" annotations="0" id="5" commit-time="2014-07-28T21:10:05Z" committer="mbohmer" doc="113hr1702ih/5.xml" status="complete">
+      <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-House" dms-id="HEACFBB091D91486694D7C1F5842CE399" public-private="public" bill-type="olc"> 
-<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<metadata>
 <dublinCore>
-<dc:title>113 HR 1702 IH: Veterans Transportation Service Act</dc:title>
-<dc:publisher>U.S. House of Representatives</dc:publisher>
-<dc:date>2013-04-24</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 1702 IH: Veterans Transportation Service Act</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-04-24</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -36,7 +36,9 @@
       <enum>1.</enum>
       <header>Short title</header>
       <text display-inline="no-display-inline">This Act may be cited as the <quote>
-          <short-title>Veterans Transportation Service Act</short-title>
+          <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Veterans Transportation Service Act" proposed="true">Veterans Transportation Service Act</cato:entity-ref>
+            </short-title>
         </quote>.</text>
     </section> 
 <section id="HA671BDE6DDE8436E91AFBE59D319B894" section-type="subsequent-section">
@@ -47,13 +49,13 @@
           <external-xref legal-doc="usc" parsable-cite="usc/38/111A">Section 111A(a)</external-xref> of title 38, United States Code</cato:entity-ref>, is amended—</text> 
 <paragraph id="HBD5DDA0728D1462090F7D29AFE812260">
         <enum>(1)</enum>
-        <text>by striking <quote>(1) The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref>
+        <text>by striking <quote>(1) The Secretary
           </quote> and inserting <quote>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="3600">Secretary</cato:entity-ref>
           </quote>; and</text>
       </paragraph> 
 <paragraph id="H5D04FBBE2A184DB7A2B0357AB8B3932A">
         <enum>(2)</enum>
-        <text>by striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc////2">paragraph (2)</cato:entity-ref>.</text> </paragraph>
+        <text>by striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/38/111A/a/2">paragraph (2)</cato:entity-ref>.</text> </paragraph>
     </section> 
 </legis-body> 
 </bill>

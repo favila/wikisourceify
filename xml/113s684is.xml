@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113s684is">
     <bill congress="113" type="s" number="684" version="is"/>
-    <revision size="15005" annotations="0" status="complete" id="9" commit-time="2013-06-24T18:19:52Z" committer="mbohmer" doc="113s684is/9.xml">
+    <revision size="15085" annotations="0" status="complete" id="13" commit-time="2014-07-24T20:19:30Z" committer="mbohmer" doc="113s684is/13.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-Senate" public-private="public">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata>
 <dublinCore>
-<dc:title>113 S684 IS: Mni Wiconi Project Act Amendments of 2013</dc:title>
-<dc:publisher>U.S. Senate</dc:publisher>
-<dc:date>2013-04-09</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S684 IS: Mni Wiconi Project Act Amendments of 2013</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-04-09</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -43,8 +43,10 @@
 			 title</header>
       <text display-inline="no-display-inline">This Act may be cited as
 			 the <quote>
-          <short-title>Mni Wiconi Project Act Amendments
-			 of 2013</short-title>
+          <short-title>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Mni Wiconi Project Act Amendments of 2013" proposed="true">Mni Wiconi Project Act Amendments
+			 of 2013</cato:entity-ref>
+          </short-title>
         </quote>.</text>
 		</section>
     <section id="id53f9cc7366f7461e8de332018dda6ab7">
@@ -340,9 +342,11 @@
         <text>
           <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
             <cato:entity-ref entity-type="act" value="Mni Wiconi Project Act of 1988/s:10/ss:a">Section 10(a) of the Mni Wiconi Project
-			 Act of 1988</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/100/516">Public Law 100–516</external-xref>; <cato:entity-ref entity-type="public-law" value="public-law//">
+			 Act of 1988</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/100/516">
+              <cato:entity-ref entity-type="public-law" value="public-law/100/516">Public Law 100–516</cato:entity-ref>
+            </external-xref>; 
               <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/102/2571">102 Stat. 2571</cato:entity-ref>
-            </cato:entity-ref>; <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/108/4545">108 Stat. 4545</cato:entity-ref>; <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/116/3033">116 Stat.
+            ; <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/108/4545">108 Stat. 4545</cato:entity-ref>; <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/116/3033">116 Stat.
 			 3033</cato:entity-ref>; <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/121/1954">121 Stat. 1954</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="id929d9e3ac5d74ecab74edf5f119cce1e">
           <enum>(1)</enum>
@@ -376,7 +380,9 @@
         <text>
           <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
             <cato:entity-ref entity-type="act" value="Mni Wiconi Project Act of 1988/s:10/ss:b">Section 10(b) of the Mni Wiconi Project Act of 1988</cato:entity-ref>
-			 (<external-xref legal-doc="public-law" parsable-cite="pl/100/516">Public Law 100–516</external-xref>; 
+			 (<external-xref legal-doc="public-law" parsable-cite="pl/100/516">
+              <cato:entity-ref entity-type="public-law" value="public-law/100/516">Public Law 100–516</cato:entity-ref>
+            </external-xref>; 
               <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/102/2571">102 Stat. 2571</cato:entity-ref>
             ; <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/108/4545">108 Stat. 4545</cato:entity-ref>)</cato:entity> is amended—</text>
 				<paragraph id="id7E2302539BF048FDA4245F7165F1D5AD">

@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113hr1262ih">
     <bill congress="113" type="hr" number="1262" version="ih"/>
-    <revision size="31046" annotations="0" id="7" commit-time="2013-04-09T14:57:28+00:00" committer="favila" doc="113hr1262ih/7.xml" status="complete">
-      <description/>
+    <revision size="31046" annotations="0" id="8" commit-time="2014-07-24T20:10:46Z" committer="mbohmer" doc="113hr1262ih/8.xml" status="complete">
+      <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H5D0311FABE3446D6B00F563BB5A19DF8" public-private="public">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata>
 <dublinCore>
-<dc:title>113 HR 1262 IH: Drone Aircraft Privacy and Transparency Act of 2013</dc:title>
-<dc:publisher>U.S. House of Representatives</dc:publisher>
-<dc:date>2013-03-19</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 1262 IH: Drone Aircraft Privacy and Transparency Act of 2013</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-03-19</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -57,7 +57,9 @@
         <enum>(1)</enum>
         <text display-inline="yes-display-inline">On February 14, 2012, President Obama
 			 signed the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
-            <cato:entity-ref entity-type="act" value="FAA Modernization and Reform Act of 2012">FAA Modernization and Reform Act of 2012</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/112/95">Public Law 112–95</external-xref>; <cato:entity-ref entity-type="uscode" value="usc/49/40101/note">49
+            <cato:entity-ref entity-type="act" value="FAA Modernization and Reform Act of 2012">FAA Modernization and Reform Act of 2012</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/112/95">
+                <cato:entity-ref entity-type="public-law" value="public-law/112/95">Public Law 112–95</cato:entity-ref>
+              </external-xref>; <cato:entity-ref entity-type="uscode" value="usc/49/40101/note">49
 			 U.S.C. 40101 note</cato:entity-ref>)</cato:entity> into law, and sections 331 through 336 of such Act require
 			 the Federal Aviation Administration to fully integrate government, commercial,
 			 and recreational unmanned aircraft systems, commonly known as
@@ -478,7 +480,7 @@
 				Criminal Procedure (or, in the case of a State court, issued using State
 				warrant procedures) by a court of competent jurisdiction, or as otherwise
 				provided in the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
-                <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978">Foreign Intelligence Surveillance Act of 1978</cato:entity-ref> (<cato:entity-ref entity-type="public-law" value="public-law//">50 U.S.C. 1801
+                <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978">Foreign Intelligence Surveillance Act of 1978</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/50/1801/etseq">50 U.S.C. 1801
 				et seq.</cato:entity-ref>)</cato:entity>.</text>
 					</subsection>
           <subsection id="H5869A5B8E3F142C6B75B522C44214856">
@@ -585,7 +587,8 @@
           <enum>(2)</enum>
           <header>Regulations</header>
           <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2900">Commission</cato:entity-ref> may promulgate regulations
-			 in accordance with <external-xref legal-doc="usc" parsable-cite="usc/5/553">section 553</external-xref> of title 5, United States Code, to carry out
+			 in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553">
+                <external-xref legal-doc="usc" parsable-cite="usc/5/553">section 553</external-xref> of title 5, United States Code</cato:entity-ref>, to carry out
 			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Drone Aircraft Privacy and Transparency Act of 2013/s:4/ss:a/p:1" proposed="true">paragraph (1)</cato:entity-ref> with respect to persons and entities described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Drone Aircraft Privacy and Transparency Act of 2013/s:4/ss:b/p:3" proposed="true">subsection
 			 (b)(3)</cato:entity-ref>.</text>
 				</paragraph>
@@ -620,7 +623,9 @@
                 <cato:entity-ref entity-type="uscode" value="usc/15/41/etseq">15 U.S.C. 41 et seq.</cato:entity-ref>
               </external-xref>)</cato:entity> were incorporated into and made a part of
 			 this Act, and any violator shall be subject to the penalties and entitled to
-			 the privileges and immunities provided in the <act-name parsable-cite="FTCA">Federal Trade Commission Act</act-name>.</text>
+			 the privileges and immunities provided in the <act-name parsable-cite="FTCA">
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Trade Commission Act">Federal Trade Commission Act</cato:entity-ref>
+              </act-name>.</text>
 				</paragraph>
         <paragraph id="HEC8A9B59D4334D86B8EFE167DDA7C625">
           <enum>(3)</enum>
@@ -832,7 +837,9 @@
 			 governmental entities</header>
         <text display-inline="yes-display-inline">Notwithstanding the
 			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
-            <act-name parsable-cite="FTCA">Federal Trade Commission Act</act-name> (<cato:entity-ref entity-type="uscode" value="usc/15/41/etseq">15
+            <act-name parsable-cite="FTCA">
+                <cato:entity-ref entity-type="act" value="Federal Trade Commission Act">Federal Trade Commission Act</cato:entity-ref>
+              </act-name> (<cato:entity-ref entity-type="uscode" value="usc/15/41/etseq">15
 			 U.S.C. 41 et seq.</cato:entity-ref>)</cato:entity>, a suit under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FAA Modernization and Reform Act of 2012/s:4/ss:c" proposed="true">subsection (c)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FAA Modernization and Reform Act of 2012/s:4/ss:d" proposed="true">subsection (d)</cato:entity-ref> may be
 			 maintained against a governmental entity.</text>
 			</subsection>
@@ -898,7 +905,7 @@
 			 enforcement</header>
           <text display-inline="yes-display-inline">The term
 			 <term>law enforcement</term> has the meaning given such term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FAA Modernization and Reform Act of 2012/s:337/ss:c/p:3">section
-			 337(c)(3) of the FAA Modernization and Reform Act of 2012</cato:entity-ref>, as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FAA Modernization and Reform Act of 2012/s:3">section
+			 337(c)(3) of the FAA Modernization and Reform Act of 2012</cato:entity-ref>, as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="FAA Modernization and Reform Act of 2012/s:3" proposed="true">section
 			 3 of this Act</cato:entity-ref>.</text>
 				</paragraph>
         <paragraph id="HE9A77B3B2A9D48B886F7A77C2C7FEB18">

@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113hr2069ih">
     <bill congress="113" type="hr" number="2069" version="ih"/>
-    <revision size="2334" annotations="0" status="complete" id="3" commit-time="2013-07-11T23:18:49Z" committer="mbohmer" doc="113hr2069ih/3.xml">
+    <revision size="2334" annotations="0" status="complete" id="4" commit-time="2014-07-28T21:12:46Z" committer="mbohmer" doc="113hr2069ih/4.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-House" dms-id="HC5D69EDA05834450AD44D6EFA829A91A" public-private="public" bill-type="olc"> 
-<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<metadata>
 <dublinCore>
-<dc:title>113 HR 2069 IH: Tribally Controlled Colleges and Universities Assistance Act of 1978</dc:title>
-<dc:publisher>U.S. House of Representatives</dc:publisher>
-<dc:date>2013-05-21</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 2069 IH: Tribally Controlled Colleges and Universities Assistance Act of 1978</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-05-21</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -38,7 +38,9 @@
       <text display-inline="no-display-inline">
         <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
           <cato:entity-ref entity-type="act" value="Tribally Controlled Colleges and Universities Assistance Act of 1978/s:103">Section 103 of the <short-title>Tribally Controlled Colleges and Universities Assistance Act of 1978</short-title>
-          </cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/25/1804">25 U.S.C. 1804</external-xref>)</cato:entity> is amended—</text> 
+          </cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/25/1804">
+              <cato:entity-ref entity-type="uscode" value="usc/25/1804">25 U.S.C. 1804</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended—</text> 
 <paragraph id="HE1E5D10382DF41929FCD4B6B12534EBD">
         <enum>(1)</enum>
         <text>by striking <quote>To be eligible</quote> and inserting <quote>
@@ -52,7 +54,7 @@
 <quoted-block style="traditional" id="HDD5830AAFC474ECB9983113D35EA654B" display-inline="no-display-inline"> 
 <subsection id="H75C2A09BF9874046B4E155D0F026BA3C">
             <enum>(b)</enum>
-            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref> may waive the eligibility requirements set forth in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Tribally Controlled Colleges and Universities Assistance Act of 1978/s:103/ss:a">subsection (a)</cato:entity-ref> for a period of not more than 7 years upon request by a tribally controlled college or university—</text> 
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1400">Secretary</cato:entity-ref> may waive the eligibility requirements set forth in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Tribally Controlled Colleges and Universities Assistance Act of 1978/s:103/ss:a" proposed="true">subsection (a)</cato:entity-ref> for a period of not more than 7 years upon request by a tribally controlled college or university—</text> 
 <paragraph id="H5ABF7474B398499FB346B4C3BAA240A3">
               <enum>(1)</enum>
               <text>that has received assistance under this title for 10 consecutive years;</text>
@@ -63,7 +65,7 @@
             </paragraph> 
 <paragraph id="H970702A4B0104691A77C59D5BB27C5C3">
               <enum>(3)</enum>
-              <text display-inline="yes-display-inline">that is located in a county that has an Indian population that did not decrease by more than one percent during the interval between the two most recent decennial censuses of population under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc//141">section 141 of the title 13, United States Code</cato:entity-ref>; and</text>
+              <text display-inline="yes-display-inline">that is located in a county that has an Indian population that did not decrease by more than one percent during the interval between the two most recent decennial censuses of population under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/13/141">section 141 of the title 13, United States Code</cato:entity-ref>; and</text>
             </paragraph> 
 <paragraph id="HEF11430D2784498A84620B4105D4D7CC">
               <enum>(4)</enum>

@@ -1,19 +1,19 @@
 <doc>
   <docmeta id="113s1046is">
     <bill congress="113" type="s" number="1046" version="is"/>
-    <revision size="2117" annotations="0" status="complete" id="5" commit-time="2013-07-19T21:46:18Z" committer="mbohmer" doc="113s1046is/5.xml">
+    <revision size="2117" annotations="0" status="complete" id="6" commit-time="2014-07-24T20:13:28Z" committer="mbohmer" doc="113s1046is/6.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
   <bill bill-stage="Introduced-in-Senate" public-private="public">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<metadata>
 <dublinCore>
-<dc:title>113 S1046 IS: Native American Veterans’ Memorial Amendments Act of 2013</dc:title>
-<dc:publisher>U.S. Senate</dc:publisher>
-<dc:date>2013-05-23</dc:date>
-<dc:format>text/xml</dc:format>
-<dc:language>EN</dc:language>
-<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S1046 IS: Native American Veterans’ Memorial Amendments Act of 2013</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-05-23</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
 </dublinCore>
 </metadata>
 <form>
@@ -43,8 +43,10 @@
 			 title</header>
       <text display-inline="no-display-inline">This Act may be cited as
 			 the <quote>
-          <short-title>Native American Veterans’ Memorial
-			 Amendments Act of 2013</short-title>
+          <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Native American Veterans’ Memorial Amendments Act of 2013" proposed="true">Native American Veterans’ Memorial
+			 Amendments Act of 2013</cato:entity-ref>
+            </short-title>
         </quote>.</text>
 		</section>
     <section id="idFC5DDD0E8CF04A6D8B37E3657EAF7ED4">
@@ -83,7 +85,7 @@
           <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
             <cato:entity-ref entity-type="act" value="Native American Veterans’ Memorial Establishment Act of 1994/s:4/ss:a">Section 4(a) of the Native American Veterans’ Memorial
 			 Establishment Act of 1994</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/20/80q–5/note">
-              <external-xref legal-doc="usc" parsable-cite="usc/20/80q-5">20 U.S.C. 80q–5</external-xref> note</cato:entity-ref>; <cato:entity-ref entity-type="public-law" value="public-law//">108 Stat. 4067</cato:entity-ref>)</cato:entity> is
+              <external-xref legal-doc="usc" parsable-cite="usc/20/80q-5">20 U.S.C. 80q–5</external-xref> note</cato:entity-ref>; <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/108/4067">108 Stat. 4067</cato:entity-ref>)</cato:entity> is
 			 amended—</text>
 				<paragraph id="idD4333EFAE35940E8A853B1D73C120184">
           <enum>(1)</enum>
