@@ -1,0 +1,386 @@
+<doc>
+  <docmeta id="113hr5125ih">
+    <bill congress="113" type="hr" number="5125" version="ih"/>
+    <revision size="13126" annotations="0" status="complete" id="6" commit-time="2014-07-29T17:28:09Z" committer="mbohmer" doc="113hr5125ih/6.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="H2D8EF0B347594BA1AE054EEE1CC521F0" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 5125 IH: Wi-Fi Innovation Act </dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-07-16</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>H. R. 5125</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20140716">July 16, 2014</action-date>
+			<action-desc>
+        <sponsor name-id="L000566">Mr. Latta</sponsor> (for himself, <cosponsor name-id="I000056">Mr. Issa</cosponsor>, <cosponsor name-id="E000215">Ms. Eshoo</cosponsor>, and <cosponsor name-id="M001163">Ms. Matsui</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HIF00">Committee on Energy and Commerce</committee-name>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To promote unlicensed spectrum use in the 5 GHz band, to maximize the use of the band for shared
+			 purposes in order to bolster innovation and economic development, and for
+			 other purposes.</official-title>
+	</form>
+	<legis-body id="H424C2D063D8F4148BDFF44D6644E0560" style="OLC">
+		<section id="H0B5A9EA8B93542D8B62ACF9CD5A8059D" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title</header>
+      <text display-inline="no-display-inline">This Act may be cited as the <quote>
+          <short-title>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Wi-Fi Innovation Act" proposed="true">Wi-Fi Innovation Act</cato:entity-ref> </short-title>
+        </quote>.</text>
+		</section>
+    <section id="H410956B11F3D416F9B248290D9B9A6BB">
+      <enum>2.</enum>
+      <header>Promoting unlicensed spectrum</header>
+			<subsection id="HA7D4A49DB00E452788A15A2C0EDC2AFB">
+        <enum>(a)</enum>
+        <header>Definitions</header>
+        <text>In this section:</text>
+				<paragraph id="H009336E2EB7D4D458DB256CD9B340E11">
+          <enum>(1)</enum>
+          <header>Commission</header>
+          <text>The term <term>Commission</term> means the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Federal Communications Commission</cato:entity-ref>.</text>
+				</paragraph>
+        <paragraph id="H5B2092FECE764ADB9A108A9244471C4F">
+          <enum>(2)</enum>
+          <header>Dedicated Short-Range Communications Services</header>
+          <text>The term <term>Dedicated Short-Range Communications Services</term> has the meaning given the term in <external-xref legal-doc="regulation" parsable-cite="cfr/47/90.7">section 90.7</external-xref> of title 47, Code of Federal Regulations.</text>
+				</paragraph>
+        <paragraph id="H8942E3E3230C427698ECC3467B888104">
+          <enum>(3)</enum>
+          <header>Dynamic Frequency Selection</header>
+          <text>The term <term>Dynamic Frequency Selection</term> has the meaning given the term in <external-xref legal-doc="regulation" parsable-cite="cfr/47/15.403">section 15.403</external-xref> of title 47, Code of Federal Regulations.</text>
+				</paragraph>
+        <paragraph id="H339DEE1FB80F490185BB12522B587F53">
+          <enum>(4)</enum>
+          <header>
+            <enum-in-header>5850–5925</enum-in-header> MHz band</header>
+          <text>The term <term>5850–5925 MHz band</term> has the meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Middle Class Tax Relief and Job Creation Act of 2012/s:6406/ss:c">section 6406(c) of the Middle Class Tax Relief and Job Creation
+			 Act of 2012</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/47/1453">
+              <cato:entity-ref entity-type="uscode" value="usc/47/1453/c">47 U.S.C. 1453(c)</cato:entity-ref>
+            </external-xref>)</cato:entity>.</text>
+				</paragraph>
+        <paragraph id="H6D5F71EB4A324003A91FEDC501FCE9B7">
+          <enum>(5)</enum>
+          <header>NTIA</header>
+          <text>The term <term>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1335" entity-type="federal-body">NTIA</cato:entity-ref>
+            </term> means the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1335" entity-type="federal-body">National Telecommunications and Information Administration</cato:entity-ref>.</text>
+				</paragraph>
+        <paragraph id="HF955B24EC4F3442CA98F7EA8ACCA2B4C">
+          <enum>(6)</enum>
+          <header>Technical rules suitable for the widespread commercial development of unlicensed operations</header>
+          <text>The term <term>technical rules suitable for the widespread commercial development of unlicensed operations</term> means technical rules that, to the maximum extent feasible—</text>
+					<subparagraph id="H1F92C5E4F6314F8A9609876A58DADF60">
+            <enum>(A)</enum>
+            <text>permit outdoor unlicensed operations;</text>
+					</subparagraph>
+          <subparagraph id="H5644508AA17744F38EFD8576DCB5A38F">
+            <enum>(B)</enum>
+            <text>permit unlicensed operations at a maximum conducted transmitter output power limit of not less than
+			 1 watt; and</text>
+					</subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="HB33B71F3A98445849B79EB7B3FDD79B5">
+            <enum>(C)</enum>
+            <text>do not require unlicensed devices to employ Dynamic Frequency Selection.</text>
+					</subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection id="H5E189DF555A0456E9E3966952102828F">
+        <enum>(b)</enum>
+        <header>Modification of regulations To promote unlicensed use in the 5 GHz band</header>
+				<paragraph id="H4905DDE65006433CBF94F226854BBA6B">
+          <enum>(1)</enum>
+          <header>In general</header>
+					<subparagraph id="H8AF8A9A91519400F945A0B53168B40F6">
+            <enum>(A)</enum>
+            <header>Provision of additional unlicensed spectrum</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref> shall modify title 47, Code of Federal Regulations, to provide additional unlicensed
+			 spectrum in the 5850–5925 MHz band under technical rules suitable for the
+			 widespread commercial development of unlicensed operations in the band, as
+			 specified under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Wi-Fi Innovation Act/s:2/ss:b/p:2" proposed="true">paragraph (2)</cato:entity-ref>.</text>
+					</subparagraph>
+          <subparagraph id="H7EF827E5ABB447989BBA18A7A2249BD2">
+            <enum>(B)</enum>
+            <header>NTIA cooperation</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1335" entity-type="federal-body">NTIA</cato:entity-ref> shall facilitate the modification described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Wi-Fi Innovation Act/s:2/ss:b/p:1/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> by cooperating with the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref> to identify the spectrum management actions necessary to
+			 accommodate the regulatory changes specified under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Wi-Fi Innovation Act/s:2/ss:b/p:2" proposed="true">paragraph (2)</cato:entity-ref>.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="H1FAC4F72C7444B179A5DA32219C7A485">
+          <enum>(2)</enum>
+          <header>Required actions and modifications</header>
+					<subparagraph id="H828329B65FBA4B34965238FC0F2D72D9">
+            <enum>(A)</enum>
+            <header>In general</header>
+						<clause id="H75F65750873F4F73A847E71F5F6D8B4C">
+              <enum>(i)</enum>
+              <header>Office of Engineering and Technology public notice</header>
+              <text>Not later than 3 months after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-parent-id="2700" value="Office of Engineering and Technology">Office of Engineering and
+			 Technology of the Commission</cato:entity-ref> shall issue a public notice seeking comment
+			 on proposals for—</text>
+							<subclause id="H2EE59B4972D14D99B8980E2B329941B5">
+                <enum>(I)</enum>
+                <text>interference-mitigation techniques and technologies, and potential rechannelization, that would
+			 accommodate both incumbent licensees, including Dedicated Short Range
+			 Communications Services licensees, and widespread commercial unlicensed
+			 operations in the 5850–5925 MHz band; and</text>
+							</subclause>
+              <subclause id="H1D9CB62A66514814BDA11F1FBD57E5B4">
+                <enum>(II)</enum>
+                <text>deployment timelines for the technologies described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Wi-Fi Innovation Act/s:2/ss:b/p:2/sp:A/cl:i/scl:I" proposed="true">subclause (I)</cato:entity-ref>.</text>
+							</subclause>
+            </clause>
+            <clause id="HF8EBCD64D66F4AC98F2A2EA4FF8E0572">
+              <enum>(ii)</enum>
+              <header>NTIA response</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1335" entity-type="federal-body">NTIA</cato:entity-ref>, in response to the public notice issued under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Wi-Fi Innovation Act/s:2/ss:b/p:2/sp:A/cl:i" proposed="true">clause (i)</cato:entity-ref>, shall publicly submit to the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Engineering and Technology" entity-parent-id="2700">Office of Engineering and Technology</cato:entity-ref> a description of any current and
+			 anticipated further Federal uses of the 5850–5925 MHz band.</text>
+						</clause>
+          </subparagraph>
+          <subparagraph id="HEB720DD09944459B842121458526EDAF">
+            <enum>(B)</enum>
+            <header>Test plan</header>
+						<clause id="H5706B3722CDB4AAA98C75C6673144BE6">
+              <enum>(i)</enum>
+              <header>In general</header>
+              <text>Not later than 6 months after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref> shall, in
+			 consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Department of Transportation</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1335" entity-type="federal-body">NTIA</cato:entity-ref>, develop
+			 and publish a test plan, including a timeline, for the use of unlicensed
+			 devices in the 5850–5925 MHz band.</text>
+						</clause>
+            <clause id="HF823F3DC3787469CAD875A899DFF7EF3">
+              <enum>(ii)</enum>
+              <header>Requirement</header>
+              <text>The test plan developed and published under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Wi-Fi Innovation Act/s:2/ss:b/p:2/sp:B/cl:i" proposed="true">clause (i)</cato:entity-ref> shall be designed to allow the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref> to
+			 evaluate technologies for allowing unlicensed devices to utilize the
+			 5850–5925 MHz band without causing harmful interference to incumbent
+			 licensees, including Dedicated Short Range Communications Services
+			 licensees.</text>
+						</clause>
+            <clause id="H292275CDC1F043FB9EBC0EB8E1C32715">
+              <enum>(iii)</enum>
+              <header>Testing multiple methods</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref> may choose to test multiple methods of sharing the 5850–5925 MHz band.</text>
+						</clause>
+            <clause id="HFC2EECD0E3084B61B726F316608BCC50">
+              <enum>(iv)</enum>
+              <header>Considerations</header>
+              <text>In developing the test plan under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Wi-Fi Innovation Act/s:2/ss:b/p:2/sp:B/cl:i" proposed="true">clause (i)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref> shall consider—</text>
+							<subclause id="HFB252A6204A749AA9AEDD434B65015E4">
+                <enum>(I)</enum>
+                <text>the comments filed in response to the public notice issued under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Wi-Fi Innovation Act/s:2/ss:b/p:2/sp:A/cl:i" proposed="true">subparagraph (A)(i)</cato:entity-ref>;</text>
+							</subclause>
+              <subclause id="HEF171098F5AD4016BE8FCCED66C8BEAA">
+                <enum>(II)</enum>
+                <text>the comments filed in response to ET Docket No. 13–49;</text>
+							</subclause>
+              <subclause id="H3840A6C388434AAB9D5388C4C75F8A87">
+                <enum>(III)</enum>
+                <text>the functions currently authorized under exclusive allocation that could be performed by unlicensed
+			 or shared spectrum;</text>
+							</subclause>
+              <subclause id="HFCB96B33A0404F43888BD4E4DC92D57B">
+                <enum>(IV)</enum>
+                <text>whether a system of priority access could substitute for exclusive licensing and, if so, whether
+			 the system of priority access should be confined to—</text>
+								<item id="H89D091572D8C4A43A4BB4BB9AE29DB8A">
+                  <enum>(aa)</enum>
+                  <text>particular portions of the 5850–5925 MHz band; and</text>
+								</item>
+                <item id="H7C915A615CE946FF80C45FBDBAF03183">
+                  <enum>(bb)</enum>
+                  <text>functions critical for dedicated short-range communications crash avoidance;</text>
+								</item>
+              </subclause>
+              <subclause id="HAC7B97091401423D9147BFF8BA1657A8">
+                <enum>(V)</enum>
+                <text>whether non-exclusive licensing or other forms of shared spectrum access could substitute for
+			 exclusive licensing;</text>
+							</subclause>
+              <subclause id="H664A67A188EC4246A8E068DB396C63A6">
+                <enum>(VI)</enum>
+                <text>whether the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref> could promulgate rules to migrate existing licensees to an alternative band;</text>
+							</subclause>
+              <subclause id="H1FD080859C1641F792991BC68DD00103">
+                <enum>(VII)</enum>
+                <text>whether, to protect critical public safety communications, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref> could allow sharing in
+			 only a portion of the 5850–5925 MHz spectrum; and</text>
+							</subclause>
+              <subclause id="H089688E329C74D74B2E57B2B462BD9B3">
+                <enum>(VIII)</enum>
+                <text>whether shared use or a system of priority access—</text>
+								<item id="H2EF4C5BBE6B34948B701CE3DCF0812E1">
+                  <enum>(aa)</enum>
+                  <text>causes harmful interference to incumbent licensees; or</text>
+								</item>
+                <item id="HB2B21F8937DD4700A14CA3C7BC286DA7">
+                  <enum>(bb)</enum>
+                  <text>compromises safety-of-life uses by incumbent licensees that are necessary for advancing motor
+			 vehicle safety.</text>
+								</item>
+              </subclause>
+            </clause>
+          </subparagraph>
+          <subparagraph id="H49EB29F0CA4A4373853FF2FD01CF82CF">
+            <enum>(C)</enum>
+            <header>Testing; results</header>
+            <text>Not later than 15 months after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref>, in consultation
+			 with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Department of Transportation</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1335" entity-type="federal-body">NTIA</cato:entity-ref>, shall—</text>
+						<clause id="H7BBAC221920F423DAC927441E944CAA7">
+              <enum>(i)</enum>
+              <text>conduct testing in accordance with the test plan developed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Wi-Fi Innovation Act/s:2/ss:b/p:2/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>;</text>
+						</clause>
+            <clause id="HBD2A0617CD78414486D519542F220612">
+              <enum>(ii)</enum>
+              <text>publish a summary of the results of the testing to the docket relating to the 5850–5925 MHz band;
+			 and</text>
+						</clause>
+            <clause id="HF071306335E048428B3DE865BD9B045A">
+              <enum>(iii)</enum>
+              <text>reference the results of the testing and the comments filed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Wi-Fi Innovation Act/s:2/ss:b/p:2/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> in determining
+			 unlicensed device use of the 5850–5925 MHz band.</text>
+						</clause>
+          </subparagraph>
+          <subparagraph id="H21863DA70DBD41A999A51824018AE573">
+            <enum>(D)</enum>
+            <header>Regulations</header>
+						<clause id="HA6D83C1D2DF64F92A2172F8DBD12B192">
+              <enum>(i)</enum>
+              <header>In general</header>
+              <text>Not later than 24 months after the date of enactment of this Act—</text>
+							<subclause id="HC42936E903574BE7B3D4450D70DD5677">
+                <enum>(I)</enum>
+                <text>if the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref> determines that a mitigation technology, rechannelization, or other approach
+			 would allow unlicensed operations in the 5850–5925 MHz band that will not
+			 cause harmful interference to existing licensees of that band, the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref> shall modify part 15 of title 47, Code of Federal Regulations,
+			 to adopt technical rules suitable for the widespread commercial deployment
+			 of unlicensed operations for the 5850–5925 MHz band; or</text>
+							</subclause>
+              <subclause id="H77B8F7098CBD4B67ABE0A54BE00DA2A6">
+                <enum>(II)</enum>
+                <text>if the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref> determines that no mitigation technology, rechannelization, or other sharing
+			 approach would prevent unlicensed operations in the 5850–5925 MHz band
+			 from causing harmful interference to existing licensees of that band, the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref>—</text>
+								<item id="HDDD6CACC8CBC4A13B30B27FCA5D63BAD">
+                  <enum>(aa)</enum>
+                  <text>shall provide notification of the determination to—</text>
+									<subitem id="HAC0165980BD14BD28E2B88BCF655C1C2">
+                    <enum>(AA)</enum>
+                    <text>
+                      <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>;</text>
+									</subitem>
+                  <subitem id="H2221F7FCDE1D407492C10E1626ABA3DD">
+                    <enum>(BB)</enum>
+                    <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Department of Transportation</cato:entity-ref>; and</text>
+									</subitem>
+                  <subitem id="H28668C5629D1480D8AD5DADD206557CD">
+                    <enum>(CC)</enum>
+                    <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1335" entity-type="federal-body">NTIA</cato:entity-ref>; and</text>
+									</subitem>
+                </item>
+                <item id="H6FA397330D134AF598F389D9CFB837BD">
+                  <enum>(bb)</enum>
+                  <text>may not modify part 15 of title 47, Code of Federal Regulations, to adopt technical rules suitable
+			 for the widespread commercial deployment of unlicensed operations for the
+			 5850–5925 MHz band until the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref> can ensure that such operations
+			 will not cause harmful interference to existing licensees of that band.</text>
+								</item>
+              </subclause>
+            </clause>
+            <clause id="HAB45C60373FD41BAAD398A0242719D78">
+              <enum>(ii)</enum>
+              <header>Intelligent transportation systems</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref> shall modify subpart M of part 90 of title 47, Code of Federal Regulations (relating
+			 to the Intelligent Transportation Systems radio service), and subpart L of
+			 part 95 of title 47, Code of Federal Regulations (relating to dedicated
+			 short-range communications service on-board units), if the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref>
+			 determines that such a modification would maximize the utility of the
+			 5850–5925 MHz band while protecting existing licensees from harmful
+			 interference.</text>
+						</clause>
+          </subparagraph>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="H7FE2AB3028B24462B8A2935155F8088A">
+      <enum>3.</enum>
+      <header>Assessing unlicensed spectrum and wi-fi use in low-income neighborhoods</header>
+			<subsection id="H590D0AFBF3964F84928999FBCEF7A276">
+        <enum>(a)</enum>
+        <header>Study</header>
+				<paragraph id="HFD24380AEC544D3AABA0E6287286E562">
+          <enum>(1)</enum>
+          <header>In general</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Federal Communications Commission</cato:entity-ref> (in this section referred to as the <quote>Commission</quote>) shall conduct a study to evaluate the availability of broadband Internet access using unlicensed
+			 spectrum and wireless networks in low-income neighborhoods.</text>
+				</paragraph>
+        <paragraph id="H216A677C0E2C41BCA190C91B255C0666">
+          <enum>(2)</enum>
+          <header>Requirements</header>
+          <text>In conducting the study under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Wi-Fi Innovation Act/s:3/ss:a/p:1" proposed="true">paragraph (1)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref> shall consider and evaluate—</text>
+					<subparagraph id="H0A50AE6C6FB94600B868ECA4E23439F2">
+            <enum>(A)</enum>
+            <text>any barriers preventing or limiting the deployment and use of wireless networks in low-income
+			 neighborhoods;</text>
+					</subparagraph>
+          <subparagraph id="H3BD78FF076FE46AB8683C1A15A89EB30">
+            <enum>(B)</enum>
+            <text>how to overcome the barriers described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Wi-Fi Innovation Act/s:3/ss:a/p:2/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> through incentives, policies, or
+			 requirements that would increase the availability of unlicensed spectrum
+			 and related technologies in low-income neighborhoods to increase broadband
+			 adoption by elementary and secondary school-age children in schools and at
+			 home in these communities;</text>
+					</subparagraph>
+          <subparagraph id="HE6F33E5085684908A39DFD07E5E9DB64">
+            <enum>(C)</enum>
+            <text>proposals that would encourage the home broadband adoption by not less than 50 percent of
+			 households with elementary and secondary school-age children that are in
+			 low-income neighborhoods; and</text>
+					</subparagraph>
+          <subparagraph id="H522AD505B8BC41ECB3E9E8875E80E792">
+            <enum>(D)</enum>
+            <text>the availability of wireless Internet hot spots and access to unlicensed spectrum for children
+			 described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Wi-Fi Innovation Act/s:3/ss:a/p:2/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>.</text>
+					</subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection id="HACBD649175AB4B12AEF02798C9313D46">
+        <enum>(b)</enum>
+        <header>Report</header>
+        <text>Not later than 1 year after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="2700">Commission</cato:entity-ref> shall submit to the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSCM00" entity-type="committee">Committee on Commerce, Science, and Transportation of the Senate</cato:entity-ref> and the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HIF00" entity-type="committee">Committee on Energy and Commerce of the House of Representatives</cato:entity-ref> a report
+			 that—</text>
+				<paragraph id="H0EF44C78BB65410485EDB1F6ED4D6672">
+          <enum>(1)</enum>
+          <text>summarizes the findings of the study conducted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Wi-Fi Innovation Act/s:3/ss:a" proposed="true">subsection (a)</cato:entity-ref>; and</text>
+				</paragraph>
+        <paragraph id="HD673415795CB458CAA315F253701E8EE">
+          <enum>(2)</enum>
+          <text>makes recommendations with respect to the potential incentives, policies, and requirements
+			 described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Wi-Fi Innovation Act/s:3/ss:a/p:2/sp:B" proposed="true">subsection (a)(2)(B)</cato:entity-ref>.</text>
+				</paragraph>
+      </subsection>
+    </section>
+  </legis-body>
+</bill>
+</doc>

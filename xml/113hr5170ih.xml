@@ -1,0 +1,565 @@
+<doc>
+  <docmeta id="113hr5170ih">
+    <bill congress="113" type="hr" number="5170" version="ih"/>
+    <revision size="19107" annotations="0" status="complete" id="6" commit-time="2014-07-31T19:50:44Z" committer="mbohmer" doc="113hr5170ih/6.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-House" bill-type="olc" dms-id="HECF80C73B9D944CC92E2FEDD59763C37" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 5170 IH: Federal Records Accountability Act of 2014</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-07-23</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">I</distribution-code>
+		<congress>113th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>H. R. 5170</legis-num>
+		<current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber>
+		<action>
+			<action-date date="20140723">July 23, 2014</action-date>
+			<action-desc>
+        <sponsor name-id="M001187">Mr. Meadows</sponsor> (for himself and <cosponsor name-id="I000056">Mr. Issa</cosponsor>) introduced the following bill; which was referred to the <committee-name committee-id="HGO00">Committee on Oversight and Government Reform</committee-name>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To improve Federal employee compliance with the Federal and Presidential recordkeeping
+			 requirements, and for other purposes.</official-title>
+	</form>
+	<legis-body id="HCA3F4918F5024C27BB6025FD7C66FAC1" style="OLC">
+		<section id="H819B545D2BCF47D5BAC94B3D75537D3C" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title; table of contents</header>
+			<subsection id="H81E34EBAC4F14845A284BAE073404E03">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text>This Act may be cited as the <quote>
+            <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Records Accountability Act of 2014" proposed="true">Federal Records Accountability Act of 2014</cato:entity-ref>
+            </short-title>
+          </quote>.</text>
+			</subsection>
+      <subsection id="HD9474B2A64524730B7A675796057EF6D">
+        <enum>(b)</enum>
+        <header>Table of contents</header>
+        <text display-inline="yes-display-inline">The table of contents for this Act is as follows:</text>
+				<toc container-level="legis-body-container" lowest-bolded-level="division-lowest-bolded" lowest-level="section" quoted-block="no-quoted-block" regeneration="yes-regeneration">
+					<toc-entry idref="H819B545D2BCF47D5BAC94B3D75537D3C" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="HD119C4276A474A98A5377D8DDDFBC6D8" level="section">Sec. 2. Removal for deliberate destruction of Federal records.</toc-entry>
+					<toc-entry idref="HE85F6B0BB0894DA984B330B8EEB6DA41" level="section">Sec. 3. Use of non-official electronic messaging accounts.</toc-entry>
+					<toc-entry idref="H00C72723678344D8AC71C3F53C3DA767" level="section">Sec. 4. Reporting of the loss or potential loss of records.</toc-entry>
+					<toc-entry idref="H044C5731FE6C4AFCBC915ED239C78385" level="section">Sec. 5. Senior Agency Official for Records Compliance.</toc-entry>
+				</toc>
+			</subsection>
+    </section>
+    <section commented="no" id="HD119C4276A474A98A5377D8DDDFBC6D8">
+      <enum>2.</enum>
+      <header>Removal for deliberate destruction of Federal records</header>
+			<subsection commented="no" id="HBBEF2F1B22E646D3A4F1E430A129E5E4">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/75">
+            <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/75">Chapter 75</external-xref> of title 5, United States Code</cato:entity-ref>, is amended by adding after subchapter V the following:</text>
+				<quoted-block display-inline="no-display-inline" id="H1138E27AF4FF4A6A89AFD8013C5CC78A" style="USC">
+					<subchapter commented="no" id="HC024F92E70AA4C88AB1C31EAAD7D6F4F">
+            <enum>VI</enum>
+            <header>Federal Records</header>
+						<section commented="no" id="HED6AD32E05AA476BA8653A19B9909A36">
+              <enum>7551.</enum>
+              <header>Definitions</header>
+              <text display-inline="no-display-inline">In this subchapter the following definitions apply:</text>
+							<paragraph id="H3380006A601B4538BEEDD530A418147D">
+                <enum>(1)</enum>
+                <header>Employee</header>
+                <text display-inline="yes-display-inline">The term <term>employee</term> means—</text>
+								<subparagraph id="H196C843EBE50496C850A21D7238663F2">
+                  <enum>(A)</enum>
+                  <text display-inline="yes-display-inline">an individual in the competitive service who is not serving a probationary or trial period under an
+			 initial appointment or who has completed 1 year of current continuous
+			 employment in the same or similar positions under other than a temporary
+			 appointment limited to 1 year or less; or</text>
+								</subparagraph>
+                <subparagraph id="HDF1396A4955A414A9D1C4444434911B3">
+                  <enum>(B)</enum>
+                  <text display-inline="yes-display-inline">a career appointee in the Senior Executive Service who—</text>
+									<clause id="H82C43E5E9468480881C50AAA42BB5276">
+                    <enum>(i)</enum>
+                    <text>has completed the probationary period prescribed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/3393/d">section 3393(d) of this title</cato:entity-ref>; or</text>
+									</clause>
+                  <clause id="H9731B7ED5D534D56B27FCFC0D04EEF34">
+                    <enum>(ii)</enum>
+                    <text>was covered by the provisions of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/75/II">subchapter II of this chapter</cato:entity-ref> immediately before appointment to
+			 the Senior Executive Service.</text>
+									</clause>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="H66F53E6F4B774F51B0EB68856C5F2608">
+                <enum>(2)</enum>
+                <header>Suspension</header>
+                <text>The term <term>suspension</term> has the meaning given that term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/7501">section 7501 of this title</cato:entity-ref>.</text>
+							</paragraph>
+            </section>
+            <section commented="no" id="H209997966AA64EF38A67F2017DE6D3FB">
+              <enum>7552.</enum>
+              <header>Suspension and removal</header>
+							<subsection id="H70936AA753D8486187F1668802CEDEB6">
+                <enum>(a)</enum>
+                <header>Inspector General finding</header>
+                <text display-inline="yes-display-inline">If the Inspector General of an agency determines an employee of the agency has willfully and
+			 unlawfully concealed, removed, mutilated, obliterated, falsified, or
+			 destroyed any record, proceeding, map, book, document, paper, or other
+			 thing in the custody of such employee, or verifies a violation under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/2208" proposed="true">section <external-xref legal-doc="usc" parsable-cite="usc/44/2208">2208</external-xref>
+                  </cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/2911" proposed="true">
+                    <external-xref legal-doc="usc" parsable-cite="usc/44/2911">2911</external-xref> of title 44</cato:entity-ref>, the Inspector General shall promptly
+			 inform the head of the agency of that determination in writing.</text>
+							</subsection>
+              <subsection commented="no" id="HAE35CCB117FE46C0A5C915695CEBB765">
+                <enum>(b)</enum>
+                <header>Suspension</header>
+                <text>Notwithstanding any other provision of law, the head of an agency shall suspend an employee of that
+			 agency who has been determined by the Inspector General under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/7552/a" proposed="true">subsection
+			 (a)</cato:entity-ref> to have willfully and unlawfully concealed, removed, mutilated,
+			 obliterated, falsified, or destroyed any record, proceeding, map, book,
+			 document, paper, or other thing in the custody of such employee, or who
+			 has been verified by the Inspector General to be in violation of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/2208" proposed="true">section
+			 2208</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/2911" proposed="true">2911 of title 44</cato:entity-ref>.</text>
+							</subsection>
+              <subsection commented="no" id="H57432A1FF4FF4B3FAAF229191A1A1E4F">
+                <enum>(c)</enum>
+                <header>Requirements after suspension</header>
+                <text display-inline="yes-display-inline">An employee suspended under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/7552/b" proposed="true">subsection (b)</cato:entity-ref> is entitled, after suspension and before removal, to—</text>
+								<paragraph id="H4B270B44E6BD41DB87DC0FCF057BC81E">
+                  <enum>(1)</enum>
+                  <text>be represented by an attorney or other representative;</text>
+								</paragraph>
+                <paragraph commented="no" id="H59C448588CC24C90A8437FBB241FA44E">
+                  <enum>(2)</enum>
+                  <text>a written statement of the charges against the employee within 15 days after suspension, which may
+			 be amended within 30 days thereafter;</text>
+								</paragraph>
+                <paragraph commented="no" id="HF23E561E51514F63856996642CD0FAD5">
+                  <enum>(3)</enum>
+                  <text>an opportunity within 15 days after the receipt of the written statement under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/7552/c/2" proposed="true">paragraph (2)</cato:entity-ref>, plus
+			 an additional 15 days if the charges are amended, to answer the charges
+			 and submit affidavits;</text>
+								</paragraph>
+                <paragraph commented="no" id="H161702864F68405BA2703B3ABA35A3AF">
+                  <enum>(4)</enum>
+                  <text>a hearing, at the request of the employee, by an agency authority duly constituted for this
+			 purpose;</text>
+								</paragraph>
+                <paragraph commented="no" id="H22BE08BF8CE749B5A3F83B8C972084CC">
+                  <enum>(5)</enum>
+                  <text>a review of the employee’s case by the head of the agency or a designee, before a decision adverse
+			 to the employee is made final; and</text>
+								</paragraph>
+                <paragraph commented="no" id="H71FC5ECF61A04A03A663CF7FCA50DDC9">
+                  <enum>(6)</enum>
+                  <text>a written statement of the decision of the head of the agency.</text>
+								</paragraph>
+              </subsection>
+              <subsection commented="no" id="HD3146F282CDB4E088F6C2D9E74C077B7">
+                <enum>(d)</enum>
+                <header>Removal</header>
+                <text display-inline="yes-display-inline">Subject to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/7552/c" proposed="true">subsection (c) of this section</cato:entity-ref> and after any investigation and review the head of the
+			 agency considers necessary, the head of an agency shall remove an employee
+			 suspended under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/7552/b" proposed="true">subsection (b)</cato:entity-ref> if such head determines that the employee
+			 willfully and unlawfully concealed, removed, mutilated, obliterated,
+			 falsified, or destroyed any record, proceeding, map, book, document,
+			 paper, or other thing in the custody of such employee.</text>
+							</subsection>
+              <subsection id="H4FB5B668244B44788F46FED3D964BD05">
+                <enum>(e)</enum>
+                <header>Appeal</header>
+                <text>An employee who is removed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/7552/d" proposed="true">subsection (d)</cato:entity-ref> is entitled to appeal to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4100" entity-type="federal-body">Merit Systems
+			 Protection Board</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/7701">section 7701 of this title</cato:entity-ref>.</text>
+							</subsection>
+            </section>
+          </subchapter>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+      <subsection commented="no" id="H2EB0FFE58658469E899199970925CFE0">
+        <enum>(b)</enum>
+        <header>Technical and conforming amendments</header>
+				<paragraph id="H405BE49046214BFEA8AB5B24CC21FDB1">
+          <enum>(1)</enum>
+          <header>Table of subchapters</header>
+          <text>The table of subchapters for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/75">
+              <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/75">chapter 75</external-xref> of title 5, United States Code</cato:entity-ref>, is amended by adding at the
+			 end the following new items:</text>
+					<quoted-block display-inline="no-display-inline" id="HBAFAD1A0179343659E8C01E50CD9B85F" style="USC">
+						<toc regeneration="no-regeneration">
+							<toc-entry level="subchapter">Subchapter VI—Federal Records</toc-entry>
+							<toc-entry level="section">7551. Definitions.</toc-entry>
+							<toc-entry level="section">7552. Suspension and removal.</toc-entry>
+            </toc>
+						<after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+        <paragraph id="H34402ED4E2A04CE6A7C647D729F4CD85">
+          <enum>(2)</enum>
+          <header>Subchapter II applicability</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/7512">Section 7512 of such title</cato:entity-ref> is amended—</text>
+					<subparagraph id="H56413CA34E5B49E2B7992FEADF4EE804">
+            <enum>(A)</enum>
+            <text display-inline="yes-display-inline">in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/7512//5/D">subparagraph (D)</cato:entity-ref>, by striking <quote>or</quote> at the end;</text>
+					</subparagraph>
+          <subparagraph id="H5AE1B3F83AB544639BF52F16386A5BD4">
+            <enum>(B)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/7512//5/E">subparagraph (E)</cato:entity-ref>, by striking the period at the end and inserting <quote>, or</quote>; and</text>
+					</subparagraph>
+          <subparagraph id="H4A09DC61152141059F59D1B09CE09185">
+            <enum>(C)</enum>
+            <text>by adding at the end the following:</text>
+						<quoted-block display-inline="no-display-inline" id="H0925E6C716D841589241CD7D307BEE2A" style="USC">
+							<subparagraph id="HA855B79BAE1046C984F89A3288776CC0">
+                <enum>(F)</enum>
+                <text display-inline="yes-display-inline">a suspension or removal under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/7552" proposed="true">section 7552 of this title</cato:entity-ref>.</text>
+              </subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</subparagraph>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="HE85F6B0BB0894DA984B330B8EEB6DA41">
+      <enum>3.</enum>
+      <header>Use of non-official electronic messaging accounts</header>
+			<subsection id="HAB2E808DC7F34239BF0F042E3F2AE558">
+        <enum>(a)</enum>
+        <header>Presidential records act</header>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/44/22">
+            <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/22">Chapter 22</external-xref> of title 44, United States Code</cato:entity-ref> is amended by adding at the end the following new
+			 section:</text>
+				<quoted-block display-inline="no-display-inline" id="H86CE1178D6424546A9D079B5A2B40CAF" style="USC">
+					<section id="HA210BC82BA1141B4855D32648D2A9D67">
+            <enum>2208.</enum>
+            <header>Disclosure requirement for official business conducted using non-official electronic messaging
+			 accounts</header>
+						<subsection id="HCF95E13C1F674D84BD71FABF3DE4B923">
+              <enum>(a)</enum>
+              <header>In general</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1160" entity-type="federal-body">Vice President</cato:entity-ref>, or covered employee may not create or send a Presidential or Vice
+			 Presidential record using a non-official electronic messaging account (in
+			 this section, referred to as <quote>applicable electronic message</quote>) unless the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1160" entity-type="federal-body">Vice President</cato:entity-ref>, or covered employee—</text>
+							<paragraph id="H36AF6744154A4D3D860AD665BA1CC0AF">
+                <enum>(1)</enum>
+                <text display-inline="yes-display-inline">includes an official electronic messaging account of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1160" entity-type="federal-body">Vice President</cato:entity-ref>, or covered
+			 employee, as applicable, as a recipient in the original creation or
+			 transmission of the applicable electronic message and identifies all
+			 recipients of the applicable electronic message in such message;</text>
+							</paragraph>
+              <paragraph id="H81F804DFF5004460A6E227ABA24B3EDA">
+                <enum>(2)</enum>
+                <text>forwards a complete copy of the applicable electronic message, including a complete list of the
+			 recipients of such message, to an official electronic messaging account of
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1160" entity-type="federal-body">Vice President</cato:entity-ref>, or covered employee, as applicable, within
+			 fifteen days after the original creation or transmission of the message;
+			 or</text>
+							</paragraph>
+              <paragraph id="H9A24C200C3F9495AAE836080B278BA3C">
+                <enum>(3)</enum>
+                <text>prints a complete copy of the applicable electronic message, including a complete list of the
+			 recipients of such message, and submits the message to the appropriate
+			 location or individual for appropriate archival storage by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1100" entity-type="federal-body">Executive
+			 Office of the President</cato:entity-ref> within fifteen days after the original creation or
+			 transmission of the message.</text>
+							</paragraph>
+            </subsection>
+            <subsection commented="no" id="H0E80B33B536C46BBA6DEF2DCB21B5651">
+              <enum>(b)</enum>
+              <header>Adverse actions</header>
+              <text display-inline="yes-display-inline">An intentional violation of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/2208/a" proposed="true">subsection (a)</cato:entity-ref> (including any rules, regulations, or other implementing
+			 guidelines) by a covered employee, as determined by the appropriate
+			 supervisor, shall be forwarded to the Inspector General of the agency for
+			 a verification of the violation, and upon verification, shall be subject
+			 to the suspension and removal provisions under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/7552" proposed="true">
+                  <external-xref legal-doc="usc" parsable-cite="usc/5/7552">section 7552</external-xref> of title 5</cato:entity-ref>.</text>
+						</subsection>
+            <subsection commented="no" id="HE62F4D224DCD4B75A7C56D2FA6EA7945">
+              <enum>(c)</enum>
+              <header>Definitions</header>
+              <text>In this section:</text>
+							<paragraph commented="no" id="H3171C52FA3B2460D85A5EC04116F10F5">
+                <enum>(1)</enum>
+                <header>Covered employee</header>
+                <text>The term <term>covered employee</term> means—</text>
+								<subparagraph commented="no" id="HD205B45260F14BDE8148C83DC35A1457">
+                  <enum>(A)</enum>
+                  <text>the immediate staff of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>;</text>
+								</subparagraph>
+                <subparagraph commented="no" id="H774422DFDB7D41FE855EA36CE62FC534">
+                  <enum>(B)</enum>
+                  <text>the immediate staff of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1160" entity-type="federal-body">Vice President</cato:entity-ref>;</text>
+								</subparagraph>
+                <subparagraph commented="no" id="HFFFC614B4A9E497297C34AB5D25FBCB6">
+                  <enum>(C)</enum>
+                  <text>an individual of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1100" entity-type="federal-body">Executive Office of the President</cato:entity-ref> whose function is to advise and assist the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>; or</text>
+								</subparagraph>
+                <subparagraph commented="no" id="HD864356D5A4141819CE991EB7470E7EA">
+                  <enum>(D)</enum>
+                  <text>an individual of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1160" entity-type="federal-body">Office of the Vice President</cato:entity-ref> whose function is to advise and assist the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1160" entity-type="federal-body">Vice
+			 President</cato:entity-ref>.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph commented="no" id="H619E9DC8DA2D4EEAA7589B4472C26368">
+                <enum>(2)</enum>
+                <header>Electronic message</header>
+                <text>The term <term>electronic message</term> means electronic mail and all other means by which individuals and groups may communicate with
+			 each other electronically.</text>
+							</paragraph>
+              <paragraph commented="no" id="HDCF23FB8D0584238AECDDD34A023A117">
+                <enum>(3)</enum>
+                <header>Electronic messaging account</header>
+                <text>The term <term>electronic messaging account</term> means any account that sends an electronic message.</text>
+							</paragraph>
+            </subsection>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+      <subsection id="H4C58CB3D86BC4ECAAA662844527FA79E">
+        <enum>(b)</enum>
+        <header>Federal records</header>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/44/29">
+            <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/29">Chapter 29</external-xref> of title 44, United States Code</cato:entity-ref> is amended by adding at the end the following new
+			 section:</text>
+				<quoted-block display-inline="no-display-inline" id="H224948A0577B48329464325B1201A94F" style="USC">
+					<section id="H24726EF5693B466B88FD8BFFCD4A805F">
+            <enum>2911.</enum>
+            <header>Disclosure requirement for official business conducted using non-official electronic messaging
+			 accounts</header>
+						<subsection id="H0F08141F51FA4C54A012015277706A3A">
+              <enum>(a)</enum>
+              <header>In general</header>
+              <text display-inline="yes-display-inline">An officer or employee of a Federal agency may not create or send a record using a non-official
+			 electronic messaging account (in this section, referred to as <quote>applicable electronic message</quote>) unless such officer or employee—</text>
+							<paragraph id="H3C417AD4705B49C79BFAC8CEDEFFA80D">
+                <enum>(1)</enum>
+                <text display-inline="yes-display-inline">includes an official electronic messaging account of the officer or employee as a recipient in the
+			 original creation or transmission of the applicable electronic message and
+			 identifies all recipients of the applicable electronic message in such
+			 message;</text>
+							</paragraph>
+              <paragraph id="HA16A7197C8504D49B1C1C42453ABD19D">
+                <enum>(2)</enum>
+                <text>forwards a complete copy of the applicable electronic message, including a complete list of the
+			 recipients of such message, to an official electronic messaging account of
+			 the officer or employee within fifteen days after the original creation or
+			 transmission of the record; or</text>
+							</paragraph>
+              <paragraph id="H68A2D1D3462045E086EB5CB48428C682">
+                <enum>(3)</enum>
+                <text display-inline="yes-display-inline">prints a complete copy of the applicable electronic message, including a complete list of the
+			 recipients of such message, and submits it to the appropriate location or
+			 individual for appropriate archival storage by the Federal agency within
+			 fifteen days after the original creation or transmission of the message.</text>
+							</paragraph>
+            </subsection>
+            <subsection commented="no" id="H537F153288354C8AB1034C9F433A8E2B">
+              <enum>(b)</enum>
+              <header>Adverse actions</header>
+              <text display-inline="yes-display-inline">An intentional violation of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/2911/a" proposed="true">subsection (a)</cato:entity-ref> (including any rules, regulations, or other implementing
+			 guidelines) by an officer or employee of a Federal agency, as determined
+			 by the appropriate supervisor, shall be forwarded to the Inspector General
+			 of the agency for a verification of the violation, and upon verification,
+			 shall be subject to the suspension and removal provisions under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/7552" proposed="true">section
+			 7552 of title 5</cato:entity-ref>.</text>
+						</subsection>
+            <subsection id="HB76FD93E6019469F98797F075A1D4F24">
+              <enum>(c)</enum>
+              <header>Definitions</header>
+              <text>In this section:</text>
+							<paragraph id="H2BE94DC3C7D14D52985F56F4900FCEE0">
+                <enum>(1)</enum>
+                <header>Electronic message</header>
+                <text>The term <term>electronic message</term> means electronic mail and all other means by which individuals and groups may communicate with
+			 each other electronically.</text>
+							</paragraph>
+              <paragraph id="H51DD546CBA32485DB4BA34181619D946">
+                <enum>(2)</enum>
+                <header>Electronic messaging account</header>
+                <text>The term <term>electronic messaging account</term> means any account that sends an electronic message.</text>
+							</paragraph>
+            </subsection>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+      <subsection id="HBD98F081B2BE4D3D95E3B6D1E20936A8">
+        <enum>(c)</enum>
+        <header>Technical and conforming amendments</header>
+				<paragraph id="HC5F5EFB47F3C432F9A8502E24EB91371">
+          <enum>(1)</enum>
+          <header>Chapter 22</header>
+          <text>The table of sections at the beginning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/44/22">
+              <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/22">chapter 22</external-xref> of title 44, United States Code</cato:entity-ref>, is amended by
+			 adding at the end the following new item:</text>
+					<quoted-block display-inline="no-display-inline" id="H5CA1D2E7B1364DD19534959021DF83AC" style="USC">
+						<toc regeneration="no-regeneration">
+							<toc-entry level="section">2208. Disclosure requirement for official business conducted using non-official electronic
+			 messaging accounts.</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+        <paragraph id="H28C627BA348D4737ACA9D63674D59000">
+          <enum>(2)</enum>
+          <header>Chapter 29</header>
+          <text>The table of sections at the beginning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/44/29">
+              <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/29">chapter 29</external-xref> of title 44, United States Code</cato:entity-ref>, is amended by
+			 adding at the end the following new item:</text>
+					<quoted-block display-inline="no-display-inline" id="H8F80A44CD5554C58955BDAB18B328030" style="USC">
+						<toc regeneration="no-regeneration">
+							<toc-entry level="section">2911. Disclosure requirement for official business conducted using non-official electronic
+			 messaging accounts.</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </subsection>
+    </section>
+    <section id="H00C72723678344D8AC71C3F53C3DA767">
+      <enum>4.</enum>
+      <header>Reporting of the loss or potential loss of records</header>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3106">
+          <external-xref legal-doc="usc" parsable-cite="usc/44/3106">Section 3106</external-xref> of title 44, United States Code</cato:entity-ref>, is amended to read as follows:</text>
+			<quoted-block display-inline="no-display-inline" id="H67D459057D054F6DA1A9CABD99123F95" style="USC">
+				<section id="H2EF591B39A9A41B79ECF0A0DEA8A2BF2">
+          <enum>3106.</enum>
+          <header>Unlawful removal, destruction of records</header>
+					<subsection id="HA8EC6D515E9145D0A3B8E01ED2C79C50">
+            <enum>(a)</enum>
+            <header>Notification</header>
+						<paragraph id="H66E9FCAC979545E88244197DD01BFA15">
+              <enum>(1)</enum>
+              <header>Archivist and public notification</header>
+              <text display-inline="yes-display-inline">Whenever the actual, impending, or threatened unlawful concealment, removal, mutilation,
+			 obliteration, falsification, or destruction of any record, proceeding,
+			 map, book, document, paper, or other thing in the custody of an agency
+			 comes to the attention of the head of the Federal agency, the head of the
+			 agency shall—</text>
+							<subparagraph id="H1CDC777FFD5C458493232D5E1FA2B7BD">
+                <enum>(A)</enum>
+                <text>notify the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="8800" entity-type="federal-body">Archivist</cato:entity-ref>; and</text>
+							</subparagraph>
+              <subparagraph id="H0D32D6B310A649BE958A49C55174978B">
+                <enum>(B)</enum>
+                <text>publish a general description of the records at risk or that have been lost on the website of the
+			 agency.</text>
+							</subparagraph>
+            </paragraph>
+            <paragraph commented="no" id="HB9F50516653A429DA3F828A3F9129C72">
+              <enum>(2)</enum>
+              <header>Agency notification</header>
+              <text display-inline="yes-display-inline">Whenever the actual, impending, or threatened unlawful concealment, removal, mutilation,
+			 obliteration, falsification, or destruction of any record, proceeding,
+			 map, book, document, paper, or other thing in the custody of an agency
+			 comes to the attention of a Senior Agency Official for Records Management,
+			 such official shall immediately notify the head of the agency.</text>
+						</paragraph>
+          </subsection>
+          <subsection id="HDD118E1304B24323A94B8BB890831306">
+            <enum>(b)</enum>
+            <header>Reclamation of records</header>
+            <text display-inline="yes-display-inline">With the assistance of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="8800" entity-type="federal-body">Archivist</cato:entity-ref>, the head of a Federal agency shall initiate action through
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref> for the recovery of records the head knows or has
+			 reason to believe have been unlawfully removed from the agency, or from
+			 another Federal agency whose records have been transferred to the legal
+			 custody of such head.</text>
+					</subsection>
+          <subsection id="H02B27549DB88406680B6383643C8263B">
+            <enum>(c)</enum>
+            <header>Action by the Archivist</header>
+            <text>In any case in which the head of the agency does not initiate an action for the recovery of records
+			 described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3106" proposed="true">subsection (b)</cato:entity-ref> or other redress within a reasonable period of
+			 time after being notified of any such unlawful removal, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="8800" entity-type="federal-body">Archivist</cato:entity-ref>
+			 shall request the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref> to initiate an action described in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3106/b" proposed="true">subsection (b)</cato:entity-ref>, and shall notify the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> not later than 5 days after
+			 the date on which such a request has been submitted to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney
+			 General</cato:entity-ref>.</text>
+          </subsection>
+        </section>
+        <after-quoted-block>.</after-quoted-block>
+      </quoted-block>
+		</section>
+    <section commented="no" id="H044C5731FE6C4AFCBC915ED239C78385">
+      <enum>5.</enum>
+      <header>Senior Agency Official for Records Compliance</header>
+			<subsection commented="no" id="H1B04306398FC40D98D3D3B10ACF9C258">
+        <enum>(a)</enum>
+        <header>Senior agency official</header>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/44/31">
+            <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/31">Chapter 31</external-xref> of title 44, United States Code</cato:entity-ref>, is amended by adding at the end the following new
+			 section:</text>
+				<quoted-block display-inline="no-display-inline" id="HA98091D14B814CF19731A811F930C790" style="USC">
+					<section commented="no" id="H5BB46D1C0C1F4B11817756015E89A002">
+            <enum>3108.</enum>
+            <header>Senior Agency Official for Records Compliance</header>
+						<subsection commented="no" id="H51A880BBB19D45DABA756CA54B788851">
+              <enum>(a)</enum>
+              <header>Designation</header>
+              <text>Not later than November 15, 2014, the head of each Federal agency shall designate a Senior Agency
+			 Official for Records Management, and not later than November 15 of each
+			 year thereafter the head of each Federal agency shall reaffirm or
+			 designate a new Senior Agency Official for Records Management.</text>
+						</subsection>
+            <subsection commented="no" id="H4AA0D204BFAA44A3BF02C4D677E916F3">
+              <enum>(b)</enum>
+              <header>Authorities and responsibilities</header>
+              <text>The Senior Agency Official for Records Management shall—</text>
+							<paragraph commented="no" id="HE93DDE63099C4C4C97E7136E6E45E0BA">
+                <enum>(1)</enum>
+                <text>be at least at the level of an Assistant Secretary or the equivalent; and</text>
+							</paragraph>
+              <paragraph commented="no" id="HD30D1401611C4F29A55BC16CC26D7D3B">
+                <enum>(2)</enum>
+                <text>be responsible for coordinating with the appropriate Agency Records Officer and appropriate
+			 agency officials to ensure compliance with all applicable records
+			 management statutes, regulations, and any guidance issued by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="8800" entity-type="federal-body">Archivist</cato:entity-ref>.</text>
+							</paragraph>
+            </subsection>
+            <subsection commented="no" id="H20346B7EF5484FA783E47129FEF9C090">
+              <enum>(c)</enum>
+              <header>Federal agency coordination</header>
+              <text>In addition to the designation made pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3108/a" proposed="true">subsection (a)</cato:entity-ref>, the head of a Federal agency may
+			 designate additional Senior Agency Officials for Records Management as the
+			 head of the agency determines to be necessary.</text>
+						</subsection>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+      <subsection commented="no" id="HE1E53E714D4846BC95F7091C39DCB9DC">
+        <enum>(b)</enum>
+        <header>Technical and conforming amendment</header>
+        <text>The table of sections at the beginning of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/44/31">
+            <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/44/31">chapter 31</external-xref> of title 44, United States Code</cato:entity-ref>, is amended by
+			 adding at the end the following new item:</text>
+				<quoted-block display-inline="no-display-inline" id="HA6A39F681B964F2E933D278D1261569C" style="USC">
+					<toc regeneration="no-regeneration">
+						<toc-entry level="section">3108. Senior Agency Official for Records Compliance.</toc-entry>
+          </toc>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</subsection>
+    </section>
+  </legis-body>
+</bill>
+</doc>
