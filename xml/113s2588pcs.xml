@@ -1,0 +1,1608 @@
+<doc>
+  <docmeta id="113s2588pcs">
+    <bill congress="113" type="s" number="2588" version="pcs"/>
+    <revision size="53605" annotations="0" status="complete" id="5" commit-time="2014-08-01T22:08:42Z" committer="mbohmer" doc="113s2588pcs/5.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Placed-on-Calendar-Senate" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S2588 PCS: Cybersecurity Information Sharing Act of 2014</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-07-10</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<calendar>Calendar No. 462</calendar>
+		<congress>113th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 2588</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20140710">July 10, 2014</action-date>
+			<action-desc>
+        <sponsor name-id="S221">Mrs. Feinstein</sponsor>, from the <committee-name committee-id="SLIN00">Select Committee on Intelligence</committee-name>, reported the following original bill; which was read twice and placed on the calendar</action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To improve cybersecurity in the United States through enhanced sharing of information about
+			 cybersecurity threats, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one">
+			<enum>1.</enum>
+			<header>Short title; table of contents</header>
+			<subsection id="id3C8B63FB728A48D3AC39E76FFB1ECD27">
+				<enum>(a)</enum>
+				<header>Short title</header>
+				<text display-inline="yes-display-inline">This Act may be cited as the
+		  <quote>
+            <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014" proposed="true">Cybersecurity Information Sharing Act of 2014</cato:entity-ref>
+            </short-title>
+          </quote>.</text>
+			</subsection>
+      <subsection id="id1fed1a87ac6f4a33bfae973e45ef5432">
+				<enum>(b)</enum>
+				<header>Table of contents</header>
+				<text>The table of contents of this Act is as follows:</text>
+        <toc>
+          <toc-entry idref="S1" level="section">Sec. 1. Short title; table of contents.</toc-entry>
+					<toc-entry idref="id9ad6c373f3fd44b3819b45b5a8b19688" level="section">Sec. 2. Definitions.</toc-entry>
+					<toc-entry idref="ide272b572449646ad8add7175c744bf49" level="section">Sec. 3. Sharing of information by the Federal Government.</toc-entry>
+					<toc-entry idref="idc220a261d0c34c7ea5df4103764ca4a6" level="section">Sec. 4. Authorizations for preventing, detecting, analyzing, and mitigating cybersecurity threats.</toc-entry>
+					<toc-entry idref="id7aa014d8219640b0be5ba8486e0f5776" level="section">Sec. 5. Sharing of cyber threat indicators and countermeasures with the Federal Government.</toc-entry>
+					<toc-entry idref="idc6842ed051194cfda77e2d250867c1f7" level="section">Sec. 6. Protection from liability.</toc-entry>
+					<toc-entry idref="id17447f6b123447758c2de795a3e321f1" level="section">Sec. 7. Oversight of Government activities.</toc-entry>
+					<toc-entry idref="id898778e8394a4fe4ad6887b0a43e323a" level="section">Sec. 8. Construction and preemption.</toc-entry>
+					<toc-entry idref="HC8808302347C" level="section">Sec. 9. Report on cybersecurity threats.</toc-entry>
+					<toc-entry idref="idd1aad41644974051a07957b0cab75563" level="section">Sec. 10. Conforming amendments.</toc-entry>
+				</toc>
+			</subsection>
+    </section>
+    <section id="id9ad6c373f3fd44b3819b45b5a8b19688">
+			<enum>2.</enum>
+			<header>Definitions</header>
+			<text display-inline="no-display-inline">In this Act:</text>
+			<paragraph id="id7911fd65ce084ae385699ee0c08f6980">
+				<enum>(1)</enum>
+				<header>Agency</header>
+				<text>The term <term>agency</term> has the meaning given the term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3502">
+            <external-xref legal-doc="usc" parsable-cite="usc/44/3502">section 3502</external-xref> of title 44, United States Code</cato:entity-ref>.</text>
+			</paragraph>
+      <paragraph id="id9b1a48cd17ba422f98aa745056575a58">
+				<enum>(2)</enum>
+				<header>Antitrust laws</header>
+				<text>The term <term>antitrust laws</term>—</text>
+				<subparagraph id="idc3da4df80b934190b5ee9de137e98984">
+					<enum>(A)</enum>
+					<text>has the meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Clayton Act/s:1/ss:a">section 1(a) of the Clayton Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/12">
+              <cato:entity-ref entity-type="uscode" value="usc/15/12/a">15 U.S.C. 12(a)</cato:entity-ref>
+            </external-xref>)</cato:entity>;</text>
+				</subparagraph>
+        <subparagraph id="id4fa842a0015f461fb591330c423aac91">
+					<enum>(B)</enum>
+					<text>includes <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Federal Trade Commission Act/s:5">section 5 of the Federal Trade Commission Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/45">
+              <cato:entity-ref entity-type="uscode" value="usc/15/45">15 U.S.C. 45</cato:entity-ref>
+            </external-xref>)</cato:entity> to the extent that <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Trade Commission Act/s:5">section 5
+			 of that Act</cato:entity-ref> applies to unfair methods of competition; and</text>
+				</subparagraph>
+        <subparagraph id="id25203abac7d0401389183dac69df376d">
+					<enum>(C)</enum>
+					<text>includes any State law that has the same intent and effect as the laws under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:2/p:2/sp:A" proposed="true">subparagraphs (A)</cato:entity-ref> and
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:2/p:2/sp:B" proposed="true">(B)</cato:entity-ref>.</text>
+				</subparagraph>
+      </paragraph>
+      <paragraph id="id73d59805f1de41f2983959af41913db8">
+				<enum>(3)</enum>
+				<header>Appropriate Federal entities</header>
+				<text>The term <term>appropriate Federal entities</term> means the following:</text>
+				<subparagraph id="idF2B782B5CA5444B18DB0BA1AA1D5EF0B">
+					<enum>(A)</enum>
+					<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1300" entity-type="federal-body">Department of Commerce</cato:entity-ref>.</text>
+				</subparagraph>
+        <subparagraph id="id168A3396E35C401388D0E7DC6120A196">
+					<enum>(B)</enum>
+					<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Department of Defense</cato:entity-ref>.</text>
+				</subparagraph>
+        <subparagraph id="idB18405C9B6E64BEAB6C544ADCC279E57">
+					<enum>(C)</enum>
+					<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="8900" entity-type="federal-body">Department of Energy</cato:entity-ref>.</text>
+				</subparagraph>
+        <subparagraph id="id722BF882414B4583B6C3936BB661A0FB">
+					<enum>(D)</enum>
+					<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland Security</cato:entity-ref>.</text>
+				</subparagraph>
+        <subparagraph id="id63DD26950DE34A82A15FD96C6256EE19">
+					<enum>(E)</enum>
+					<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Department of Justice</cato:entity-ref>.</text>
+				</subparagraph>
+        <subparagraph id="id638639FC6F944B4AB1E96A2856B3826B">
+					<enum>(F)</enum>
+					<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2000" entity-type="federal-body">Department of the Treasury</cato:entity-ref>.</text>
+				</subparagraph>
+        <subparagraph commented="no" display-inline="no-display-inline" id="id8905AE36D3BB4022B7C5D89803ED5818">
+					<enum>(G)</enum>
+					<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Director of National Intelligence">Office of the Director of National Intelligence</cato:entity-ref>.</text>
+				</subparagraph>
+      </paragraph>
+      <paragraph id="id1203198c8bc0424f800e4e47f0a91512">
+				<enum>(4)</enum>
+				<header>Countermeasure</header>
+				<text>The term <term>countermeasure</term> means an action, device, procedure, technique, or other measure applied to an information system
+			 or information that is stored on, processed by, or transiting an
+			 information system that prevents or mitigates a known or suspected
+			 cybersecurity threat or
+			 security vulnerability.</text>
+			</paragraph>
+      <paragraph id="id6f2156fd7ef24e388e053ee6abb27400">
+				<enum>(5)</enum>
+				<header>Cybersecurity purpose</header>
+				<text>The term <term>cybersecurity purpose</term> means the purpose of protecting an information system or information that is stored on, processed
+			 by, or transiting an information system from a cybersecurity threat or
+			 security vulnerability.</text>
+			</paragraph>
+      <paragraph id="id49e2ceedee2b406085fd7419f68b9911">
+				<enum>(6)</enum>
+				<header>Cybersecurity threat</header>
+				<text>The term <term>cybersecurity threat</term> means an action, not protected by the First Amendment to the Constitution of the United States, on
+			 or through an information system that may result in an unauthorized effort
+			 to adversely impact the
+			 security, availability, confidentiality, or integrity of an information
+			 system or information that is stored on, processed by, or transiting an
+			 information system.</text>
+			</paragraph>
+      <paragraph id="id0d3983bb450040588baa2b4c13f3f224">
+				<enum>(7)</enum>
+				<header>Cyber threat indicator</header>
+				<text>The term <term>cyber threat indicator</term> means information that is necessary to indicate, describe, or identify—</text>
+				<subparagraph id="id9839151608aa4fcbb91b2080ae58c5b9">
+					<enum>(A)</enum>
+					<text>malicious reconnaissance, including anomalous patterns of communications that appear to be
+			 transmitted for the purpose of gathering technical information related to
+			 a cybersecurity threat or security vulnerability;</text>
+				</subparagraph>
+        <subparagraph id="idde6f1ae882a8414ca47c746997e96427">
+					<enum>(B)</enum>
+					<text>a method of defeating a security control or exploitation of a security vulnerability;</text>
+				</subparagraph>
+        <subparagraph id="id41f50ebb0ec048f3baef7497bd877901">
+					<enum>(C)</enum>
+					<text>a security vulnerability;</text>
+				</subparagraph>
+        <subparagraph id="idc20c1bf328d84bf59b11c9c820f5152e">
+					<enum>(D)</enum>
+					<text>a method of causing a user with legitimate access to an information system or information that is
+			 stored on, processed by, or transiting an information system to
+			 unwittingly enable the defeat of a security control or exploitation of a
+			 security vulnerability;</text>
+				</subparagraph>
+        <subparagraph id="idbde7ef0cbdf94756ac82b859bdb91c6f">
+					<enum>(E)</enum>
+					<text>malicious cyber command and control;</text>
+				</subparagraph>
+        <subparagraph id="idfb338fdbf73540cb8e7ae602c8886422">
+					<enum>(F)</enum>
+					<text>the actual or potential harm caused by an incident, including information exfiltrated when it is
+			 necessary in order to describe a cybersecurity threat;</text>
+				</subparagraph>
+        <subparagraph id="idbc7c214c9a5f4630a5de4a6a7cca5814">
+					<enum>(G)</enum>
+					<text>any other attribute of a cybersecurity threat, if disclosure of such attribute is not otherwise
+			 prohibited by law; or</text>
+				</subparagraph>
+        <subparagraph id="id29bfdc551bc543d5a4fd4c47dc352ed9">
+					<enum>(H)</enum>
+					<text>any combination thereof.</text>
+				</subparagraph>
+      </paragraph>
+      <paragraph id="idEEDE5F7747954499A2D5B06C38E6A0EE">
+				<enum>(8)</enum>
+				<header>Electronic format</header>
+				<subparagraph id="id3AB0B499653C48F3BB716D102D828109">
+					<enum>(A)</enum>
+					<header>In general</header>
+					<text>Except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:2/p:8/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>, the term <term>electronic format</term> means information that is shared through electronic mail, an interactive form on an Internet
+			 website, or a real time, automated process between information systems.</text>
+				</subparagraph>
+        <subparagraph id="id8359918B0C8F4A15AED1C6DD24271BA7">
+					<enum>(B)</enum>
+					<header>Exclusion</header>
+					<text>The term <term>electronic format</term> does not include voice or video communication.</text>
+				</subparagraph>
+      </paragraph>
+      <paragraph id="id34eb4bd570ed4bb3ac5d3bdae53a5fdf">
+				<enum>(9)</enum>
+				<header>Entity</header>
+				<subparagraph id="id2866E0CAD376460D9A88810630760C50">
+					<enum>(A)</enum>
+					<header>In general</header>
+					<text>The term <term>entity</term> means any private entity, non-Federal government agency or department, or State, tribal, or local
+			 government agency or department (including a political subdivision,
+			 officer, employee, or agent
+			 thereof).</text>
+				</subparagraph>
+        <subparagraph id="id3987878577f047da89256c30cd3d81a6">
+					<enum>(B)</enum>
+					<header>Inclusions</header>
+					<text>The term <term>entity</term> includes a government agency or department (including an officer, employee, or agent thereof) of
+			 the District of Columbia, the Commonwealth of Puerto Rico, the Virgin
+			 Islands, Guam, American Samoa, the Northern Mariana Islands, and any other
+			 territory or possession of the United States.</text>
+				</subparagraph>
+        <subparagraph id="idd52d556a0f2e44bb88afcc81bd90ce0f">
+					<enum>(C)</enum>
+					<header>Exclusion</header>
+					<text>The term <term>entity</term> does not include a foreign power as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:101/ss:a">section 101(a) of the Foreign Intelligence
+			 Surveillance Act of 1978</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/50/1801">
+              <cato:entity-ref entity-type="uscode" value="usc/50/1801">50 U.S.C. 1801</cato:entity-ref>
+            </external-xref>)</cato:entity>.</text>
+				</subparagraph>
+      </paragraph>
+      <paragraph id="id275198b1338644fba3e7f3e1315f2f27">
+				<enum>(10)</enum>
+				<header>Federal entity</header>
+				<text>The term <term>Federal entity</term> means a department or agency of the United States, or any component, officer, employee, or agent
+			 of such a department or agency.</text>
+			</paragraph>
+      <paragraph id="id867ca89f79d444b69cbe8153a1a85ecc">
+				<enum>(11)</enum>
+				<header>Information system</header>
+				<text>The term <term>information system</term>—</text>
+				<subparagraph id="id06DF2B5CFAA54295B55238E4DA6EAB3B">
+					<enum>(A)</enum>
+					<text>has the meaning given the term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3502">
+              <external-xref legal-doc="usc" parsable-cite="usc/44/3502">section 3502</external-xref> of title 44, United States Code</cato:entity-ref>; and</text>
+				</subparagraph>
+        <subparagraph id="id2D111ECF60B745F282D232B4C6986E74">
+					<enum>(B)</enum>
+					<text>includes industrial control systems, such as supervisory control and data acquisition systems,
+			 distributed control systems, and programmable logic controllers.</text>
+				</subparagraph>
+      </paragraph>
+      <paragraph id="iddf9a16b5e40e463ca138fd546ab928cb">
+				<enum>(12)</enum>
+				<header>Local government</header>
+				<text>The term <term>local government</term> means any borough, city, county, parish, town, township, village, or other political subdivision
+			 of a State.</text>
+			</paragraph>
+      <paragraph id="id255d0e47cba3478d89fee5757d0bb58d">
+				<enum>(13)</enum>
+				<header>Malicious cyber command and control</header>
+				<text>The term <term>malicious cyber command and control</term> means a method for unauthorized remote identification of, access to, or use of, an information
+			 system or information that is stored on, processed by, or transiting an
+			 information system.</text>
+			</paragraph>
+      <paragraph id="id11ed2a58b56446b09f35ecb40ca47bfb">
+				<enum>(14)</enum>
+				<header>Malicious reconnaissance</header>
+				<text>The term <term>malicious reconnaissance</term> means a method for actively probing or passively monitoring an information system for the purpose
+			 of discerning security vulnerabilities of the information system, if such
+			 method is associated with a known or suspected cybersecurity threat.</text>
+			</paragraph>
+      <paragraph id="idf67bb949fcb445aca2a003c831f0ce13">
+				<enum>(15)</enum>
+				<header>Monitor</header>
+				<text>The term <term>monitor</term> means to obtain, identify, or otherwise possess information that is stored on, processed by,
+			 or transiting an information system.</text>
+			</paragraph>
+      <paragraph id="id1c568a5fa8834920b74beda78edcf77f">
+				<enum>(16)</enum>
+				<header>Private entity</header>
+				<subparagraph id="id0E7F7023274F4BE9AD0AD2B964AEE9DC">
+					<enum>(A)</enum>
+					<header>In general</header>
+					<text>The term <term>private entity</term> means any individual or private group, organization, proprietorship, partnership, trust,
+			 cooperative, corporation, or other commercial or nonprofit entity,
+			 including
+			 an officer, employee, or agent thereof.</text>
+				</subparagraph>
+        <subparagraph id="id0f1fb3365c6241c59b4d531682c565f0">
+					<enum>(B)</enum>
+					<header>Exclusion</header>
+					<text>The term <term>private entity</term> does not include a foreign power as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Foreign Intelligence Surveillance Act of 1978/s:101/ss:a">section 101(a) of the Foreign Intelligence
+			 Surveillance Act of 1978</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/50/1801">
+              <cato:entity-ref entity-type="uscode" value="usc/50/1801">50 U.S.C. 1801</cato:entity-ref>
+            </external-xref>)</cato:entity>.</text>
+				</subparagraph>
+      </paragraph>
+      <paragraph id="id9fc26e5c0fdb47dca1959b170081bf59">
+				<enum>(17)</enum>
+				<header>Security control</header>
+				<text>The term <term>security control</term> means the management, operational, and technical controls used to
+			 protect the confidentiality, integrity, and availability of an information
+			 system or
+			 its information.</text>
+			</paragraph>
+      <paragraph id="id95985de5ebd54d19a6dc01958ff098fa">
+				<enum>(18)</enum>
+				<header>Security vulnerability</header>
+				<text>The term <term>security vulnerability</term> means any attribute of hardware, software, process, or procedure that could enable or facilitate
+			 the defeat of a security control.</text>
+			</paragraph>
+      <paragraph id="id1ff0154c145d47d898d82584e5b887a0">
+				<enum>(19)</enum>
+				<header>Tribal</header>
+				<text>The term <term>tribal</term> has the meaning given the term <term>Indian tribe</term> in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Indian Self-Determination and Education Assistance Act/s:4">section 4 of the Indian Self-Determination and Education Assistance Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/25/450b">
+            <cato:entity-ref entity-type="uscode" value="usc/25/450b">25 U.S.C. 450b</cato:entity-ref>
+          </external-xref>)</cato:entity>.</text>
+			</paragraph>
+    </section>
+    <section id="ide272b572449646ad8add7175c744bf49">
+			<enum>3.</enum>
+			<header>Sharing of information by the Federal Government</header>
+			<subsection id="id60DEB92652994092B3BD9A557EBF9C00">
+				<enum>(a)</enum>
+				<header>In general</header>
+				<text display-inline="yes-display-inline">Consistent with the protection of intelligence sources and methods and the protection of privacy
+			 and civil liberties, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Director of National Intelligence">Director of National Intelligence</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary
+			 of Homeland Security</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Secretary of Defense</cato:entity-ref>, and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref>,
+			 in consultation with the
+			 heads of the appropriate Federal entities, shall develop and promulgate
+			 procedures to facilitate and promote—</text>
+				<paragraph id="id17178d7f14d5447ba2cf74d8d0754f8d">
+					<enum>(1)</enum>
+					<text>the timely sharing of classified cyber threat indicators in the possession of the Federal
+			 Government with cleared representatives of appropriate entities;</text>
+				</paragraph>
+        <paragraph id="idaa37297793944613b57d44e7ef4a28ba">
+					<enum>(2)</enum>
+					<text>the timely sharing with appropriate entities of cyber threat indicators or information in the
+			 possession of the
+			 Federal Government that may be declassified and shared at an unclassified
+			 level; and</text>
+				</paragraph>
+        <paragraph id="id587c88ae4a724f7486685d3cb9d2d393">
+					<enum>(3)</enum>
+					<text>the sharing with appropriate entities, or, if appropriate, public availability, of unclassified,
+			 including
+			 controlled unclassified, cyber threat indicators in the possession of the
+			 Federal Government.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="id922aa5c9ab7642759ccea3085ddfaef9">
+				<enum>(b)</enum>
+				<header>Development of procedures</header>
+				<paragraph id="idf200c18b8c8d46d59fcd156a08154542">
+					<enum>(1)</enum>
+					<header>In general</header>
+					<text>The procedures developed and promulgated under subsection (a) shall—</text>
+					<subparagraph id="id8af1c5fbcf7b4b17a1b8602c5488a029">
+						<enum>(A)</enum>
+						<text>ensure the Federal Government has and maintains the capability to share cyber threat indicators in
+			 real time
+			 consistent with the protection of classified information; and</text>
+					</subparagraph>
+          <subparagraph id="ide44e737d03e74500a0988f66f4f15a0c">
+						<enum>(B)</enum>
+						<text>incorporate, to the greatest extent possible, existing processes and existing roles and
+			 responsibilities of Federal and non-Federal entities for information
+			 sharing by the Federal Government, including sector specific information
+			 sharing and analysis centers.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="id88f37ed9ddcf415c91085b6d0cf60d5d">
+					<enum>(2)</enum>
+					<header>Coordination</header>
+					<text>In developing the procedures required under this section, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Director of National Intelligence">Director of National Intelligence</cato:entity-ref>,
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref>, and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref> shall
+			 coordinate with appropriate Federal entities, including the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="89NE" entity-type="federal-body">National
+			 Laboratories</cato:entity-ref> (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Energy Policy Act of 2005/s:2">section 2 of the Energy Policy Act of 2005</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/15801">42
+			 U.S.C. 15801</cato:entity-ref>)</cato:entity>), to ensure that effective
+			 protocols
+			 are implemented that will facilitate and promote the sharing of cyber
+			 threat indicators by the Federal Government in a timely manner.</text>
+				</paragraph>
+      </subsection>
+      <subsection commented="no" display-inline="no-display-inline" id="id01034de7deaa45c1a3883845c6a94e5f">
+				<enum>(c)</enum>
+				<header>Submittal to Congress</header>
+				<text>Not later than 60 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Director of National Intelligence">Director of National
+			 Intelligence</cato:entity-ref>, in
+			 consultation with the heads of the appropriate Federal entities, shall
+			 submit to Congress the procedures required by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:3/ss:a" proposed="true">subsection (a)</cato:entity-ref>.</text>
+			</subsection>
+    </section>
+    <section id="idc220a261d0c34c7ea5df4103764ca4a6">
+			<enum>4.</enum>
+			<header>Authorizations for preventing, detecting, analyzing, and mitigating cybersecurity threats</header>
+			<subsection id="idd550b0c82d524ff9a8d38985eb37851e">
+				<enum>(a)</enum>
+				<header>Authorization for monitoring</header>
+				<paragraph id="idDB27390EFA5F41FF97FDAA4AEF62CD72">
+					<enum>(1)</enum>
+					<header>In general</header>
+					<text>Notwithstanding any other provision of law, a private entity may, for cybersecurity purposes,
+			 monitor—</text>
+					<subparagraph id="id74adfb4028e94cc29bdf57ae9d35de27">
+						<enum>(A)</enum>
+						<text>the information systems of such private entity;</text>
+					</subparagraph>
+          <subparagraph id="id045a1dc05ec34ea7b419984c9b3b5ba0">
+						<enum>(B)</enum>
+						<text>the information systems of another entity, upon written consent of such other entity;</text>
+					</subparagraph>
+          <subparagraph id="id94d8a7d84c304e979aa66f69894ec07e">
+						<enum>(C)</enum>
+						<text>the information systems of a Federal entity, upon written consent of an authorized representative
+			 of the Federal entity; and</text>
+					</subparagraph>
+          <subparagraph id="idd1537e93404445dba2655931b805c747">
+						<enum>(D)</enum>
+						<text>information that is stored on, processed by, or transiting the information systems monitored by the
+			 private entity under this paragraph.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="id9450ca4516e84034a89ab975eb457ebe">
+					<enum>(2)</enum>
+					<header>Construction</header>
+					<text>Nothing in this subsection shall be construed to authorize the monitoring of information systems
+			 other than as provided in this subsection or to limit otherwise lawful
+			 activity.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="id5024fba425fd40c6a8c34e8139619def">
+				<enum>(b)</enum>
+				<header>Authorization for operation of countermeasures</header>
+				<paragraph id="idD6133CA490934BC59B9909539483DDAB">
+					<enum>(1)</enum>
+					<header>In general</header>
+					<text>Notwithstanding any other provision of law, a private entity may, for cybersecurity purposes,
+			 operate countermeasures that are applied to—</text>
+					<subparagraph id="id1b1394c2ffe242f8b323473c77cc80a9">
+						<enum>(A)</enum>
+						<text>the information systems of such private entity in order to protect the rights or property of the
+			 private entity;</text>
+					</subparagraph>
+          <subparagraph id="id75de45e29dc94653ae72747204a7338e">
+						<enum>(B)</enum>
+						<text>the information systems of another entity upon written consent of such entity to protect the
+			 rights or property of such entity; and</text>
+					</subparagraph>
+          <subparagraph id="idd819986e1f004dbb9b7d9673cb573516">
+						<enum>(C)</enum>
+						<text>the information systems of a Federal entity upon written consent of an authorized representative
+			 of such Federal entity to protect the rights or property of the Federal
+			 Government.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="id710EC71FC0D64DE3AD3F53AB74EEE36D">
+					<enum>(2)</enum>
+					<header>Construction</header>
+					<text>Nothing in this subsection shall be construed to authorize the use of countermeasures other than as
+			 provided in this subsection or to limit otherwise lawful activity.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="id15b2286059ea465fa50995c1c53ac62d">
+				<enum>(c)</enum>
+				<header>Authorization for sharing or receiving cyber threat indicators or countermeasures</header>
+				<paragraph id="idC45ACCCE3F664AF69548C7905E7D17BC">
+					<enum>(1)</enum>
+					<header>In general</header>
+					<text>Notwithstanding any other provision of law, and for the purposes permitted under this Act, an
+			 entity may, consistent with the protection of classified
+			 information, share with, or receive from, any other entity or the Federal
+			 Government cyber threat indicators and countermeasures.</text>
+				</paragraph>
+        <paragraph id="id06E7B35EA8F44AA58B27CFDCDADC64A3">
+					<enum>(2)</enum>
+					<header>Construction</header>
+					<text>Nothing in this subsection shall be construed to authorize the sharing or receiving of cyber threat
+			 indicators or countermeasures other than as provided in this subsection or
+			 to limit otherwise lawful activity.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="id587f30812c154c47b7a72dbcec9a83bd">
+				<enum>(d)</enum>
+				<header>Protection and use of information</header>
+				<paragraph id="ida6094e1f362e4307a556581d7abffd60">
+					<enum>(1)</enum>
+					<header>Security of information</header>
+					<text>An entity or Federal entity monitoring information systems, operating countermeasures, or providing
+			 or receiving
+			 cyber
+			 threat indicators or countermeasures under this section shall implement
+			 and utilize security
+			 controls to protect against unauthorized
+			 access to or acquisition of  such cyber threat indicators or
+			 countermeasures.</text>
+				</paragraph>
+        <paragraph id="ida331bc57ccbf4bffa8e657c0f8299c41">
+					<enum>(2)</enum>
+					<header>Removal of certain personal information</header>
+					<text>An entity or Federal entity sharing cyber threat indicators pursuant to this Act shall, prior to
+			 such sharing, remove
+			 any information contained within such indicators that the entity or
+			 Federal entity knows at the time of sharing to be
+			 personal information of or identifying a specific person not
+			 directly
+			 related to a cybersecurity threat.</text>
+				</paragraph>
+        <paragraph id="id542108e23505448ebfa58823faea2ec2">
+					<enum>(3)</enum>
+					<header>Use of cyber threat indicators and countermeasures by entities</header>
+					<subparagraph id="id09F209BD772541E796D9836514D9D478">
+						<enum>(A)</enum>
+						<header>In general</header>
+						<text>Consistent with this Act, cyber threat indicators or
+			 countermeasures shared or
+			 received under this section may, for cybersecurity purposes—</text>
+						<clause id="idc7c7d3fbd4f0412e8c4e336a500ae1f6">
+							<enum>(i)</enum>
+							<text>be used by an entity to monitor or operate countermeasures on its information systems, or
+			 the information systems of another entity or a Federal entity upon the
+			 written
+			 consent of that other entity or that Federal entity; and</text>
+						</clause>
+            <clause id="ida926c3ac486045348f9ca3330247567c">
+							<enum>(ii)</enum>
+							<text>be otherwise used, retained, and further shared by an entity.</text>
+						</clause>
+          </subparagraph>
+          <subparagraph id="id2D4D0386EC12402AA790E18E135BDFBA">
+						<enum>(B)</enum>
+						<header>Construction</header>
+						<text>Nothing in this paragraph shall be construed to authorize the use of cyber threat indicators or
+			 countermeasures other than as provided in this section.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="ide531a9590589423083371385be37d52b">
+					<enum>(4)</enum>
+					<header>Use of cyber threat indicators by  State, tribal, or local departments or agencies</header>
+					<subparagraph id="idf28a4ddfd8d94413afa3ff626be9263a">
+						<enum>(A)</enum>
+						<header>Law enforcement use</header>
+						<clause id="id4B21ADA28A5D4F6F962ECD3A88A5D785">
+							<enum>(i)</enum>
+							<header>Prior written consent</header>
+							<text>Except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:4/ss:a/p:4/sp:A/cl:ii" proposed="true">clause (ii)</cato:entity-ref>, cyber threat indicators shared with a State, tribal, or local
+			 department or agency under this section may, with the prior written
+			 consent of the entity sharing such indicators, be used by a State, tribal,
+			 or local department or agency for the purpose of preventing,
+			 investigating, or prosecuting a computer crime.</text>
+						</clause>
+            <clause id="idA1B35615DC7E4F378B4A5F70BC410325">
+							<enum>(ii)</enum>
+							<header>Oral consent</header>
+							<text>If the need for immediate use prevents obtaining written consent, such consent may be provided
+			 orally with subsequent documentation of the consent.</text>
+						</clause>
+          </subparagraph>
+          <subparagraph id="id85179ad1c3184c86b2d5ab0249a086e0">
+						<enum>(B)</enum>
+						<header>Exemption from disclosure</header>
+						<text>Cyber threat indicators shared with a State, tribal, or local department or agency under this
+			 section shall be—</text>
+						<clause id="idEFD5B8F6BCBD4719892C94B7EE07DEF3">
+							<enum>(i)</enum>
+							<text>deemed voluntarily shared information; and</text>
+						</clause>
+            <clause id="id01453FCD88A94F66B47EEC1C78660123">
+							<enum>(ii)</enum>
+							<text>exempt from disclosure under any State, tribal, or local law requiring disclosure of information or
+			 records.</text>
+						</clause>
+          </subparagraph>
+          <subparagraph id="id689e729395e8448fbcdbac024ac4c65f">
+						<enum>(C)</enum>
+						<header>State, tribal, and local regulatory authority</header>
+						<clause id="idE1E9599BB8FA412AA192E4BFE06206D1">
+							<enum>(i)</enum>
+							<header>Authorization</header>
+							<text>Cyber threat indicators shared with a State, tribal, or local department or agency under this
+			 section may, consistent with State regulatory authority specifically
+			 relating to the prevention or mitigation of cybersecurity threats to
+			 information systems, inform the development or implementation of
+			 regulations relating to such information systems.</text>
+						</clause>
+            <clause id="id36BEAB0733754ED6B7B573E703AC45CC">
+							<enum>(ii)</enum>
+							<header>Limitation</header>
+							<text>Such cyber threat indicators shall not otherwise be directly used by any State, tribal, or local
+			 department or agency to regulate the lawful activities of an entity.</text>
+						</clause>
+          </subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection id="idca6ef7800a0749e3846b9957943213ef">
+				<enum>(e)</enum>
+				<header>Antitrust exemption</header>
+				<paragraph id="idBB17B5D2F92B400194DE548260A909BA">
+					<enum>(1)</enum>
+					<header>In general</header>
+					<text>Except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:8/ss:e" proposed="true">section 8(e)</cato:entity-ref>, it shall not be considered a violation of any provision of
+			 antitrust laws for two or more private
+			 entities to exchange or provide cyber threat indicators, or assistance
+			 relating to the prevention, investigation, or mitigation of cybersecurity
+			 threats, for cybersecurity purposes under this Act.</text>
+				</paragraph>
+        <paragraph id="idF128322AFA864B8997221B30E09358C6">
+					<enum>(2)</enum>
+					<header>Applicability</header>
+					<text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:4/ss:e/p:1" proposed="true">Paragraph (1)</cato:entity-ref> shall apply only to information that is exchanged or assistance provided in order to
+			 assist with—</text>
+					<subparagraph id="id0d54aaad820143f08a40e5483d25bc97">
+						<enum>(A)</enum>
+						<text>facilitating the prevention, investigation, or mitigation of cybersecurity threats to information
+			 systems or information that is stored on, processed by, or transiting an
+			 information system; or</text>
+					</subparagraph>
+          <subparagraph id="id61ba9e5953bd4c018f2f39fbf1110345">
+						<enum>(B)</enum>
+						<text>communicating or disclosing cyber threat indicators to help prevent, investigate, or mitigate the
+			 effects of cybersecurity threats to information systems or information
+			 that is stored on, processed by, or transiting an information system.</text>
+					</subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection id="id544c084bb95644d484d2f897c79da9cd">
+				<enum>(f)</enum>
+				<header>No right or benefit</header>
+				<text>The sharing of cyber threat indicators with an entity under this Act shall not create a right or
+			 benefit to similar information by such entity or any other entity.</text>
+			</subsection>
+    </section>
+    <section id="id7aa014d8219640b0be5ba8486e0f5776">
+			<enum>5.</enum>
+			<header>Sharing of cyber threat indicators and countermeasures with the Federal Government</header>
+			<subsection id="idF4A427F16FBF41B48FE2A9275581CB4B">
+				<enum>(a)</enum>
+				<header>Requirement for policies and procedures</header>
+				<paragraph id="id562B6AE8A3424E2B8264ED2FBB5D083E">
+					<enum>(1)</enum>
+					<header>Interim policies and procedures</header>
+					<text>Not later than 60 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref>, in
+			 coordination with the
+			 heads of the appropriate Federal entities, shall develop, and submit to
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>, interim policies and
+			 procedures relating to the receipt of cyber threat indicators and
+			 countermeasures by the Federal Government.</text>
+				</paragraph>
+        <paragraph id="id2A7F0128D1154A88A3A6245172D0B6C6">
+					<enum>(2)</enum>
+					<header>Final policies and procedures</header>
+					<text>Not later than 180 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref>, in
+			 coordination with the
+			 heads of the appropriate Federal entities, shall promulgate final policies
+			 and procedures relating to the receipt of cyber threat indicators and
+			 countermeasures by the Federal Government.</text>
+				</paragraph>
+        <paragraph id="id9B662B7751CE4C79BFACB082FD05A044">
+					<enum>(3)</enum>
+					<header>Requirements concerning policies and procedures</header>
+					<text>The policies and procedures developed and promulgated under this subsection shall—</text>
+					<subparagraph id="id46848b1ab370433983dc66be06250f83">
+						<enum>(A)</enum>
+						<text>ensure that cyber threat indicators shared with the Federal Government
+			 by any entity pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:4" proposed="true">section 4</cato:entity-ref>, and that are received through the
+			 process described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:5/ss:c" proposed="true">subsection (c)</cato:entity-ref>—</text>
+						<clause id="id83525bef716841da9ec642a5ee837ab0">
+							<enum>(i)</enum>
+							<text>are shared in real time and simultaneous with such receipt with all of the appropriate Federal
+			 entities;</text>
+						</clause>
+            <clause id="idBF4B7E7F9DF8408DA2E16EA1CE55EDFD">
+							<enum>(ii)</enum>
+							<text>are not subject to any delay, interference, or any other action that could impede real-time receipt
+			 by all of the appropriate Federal entities; and</text>
+						</clause>
+            <clause id="idd29644ade3514e2b997145512e9572af">
+							<enum>(iii)</enum>
+							<text>may be provided to other Federal entities;</text>
+						</clause>
+          </subparagraph>
+          <subparagraph id="id20fee7f3d5e14cefac3d26ea24bbb426">
+						<enum>(B)</enum>
+						<text>ensure that cyber threat indicators shared with the Federal Government
+			 by any entity pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:4" proposed="true">section 4</cato:entity-ref> in a manner other than the process
+			 described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:5/ss:c" proposed="true">subsection (c)</cato:entity-ref>—</text>
+						<clause id="idE55D02C30F6B449CA568E5E566248803">
+							<enum>(i)</enum>
+							<text>are shared immediately with all of the appropriate Federal entities;</text>
+						</clause>
+            <clause id="id2A18CB52D7D7440EA25D33E62AEB9118">
+							<enum>(ii)</enum>
+							<text>are not subject to any unreasonable delay, interference, or any other action that could impede
+			 receipt by all of the appropriate Federal entities; and</text>
+						</clause>
+            <clause id="id9105D63B7406406293D11A9F56C1B975">
+							<enum>(iii)</enum>
+							<text>may be provided to other Federal entities;</text>
+						</clause>
+          </subparagraph>
+          <subparagraph id="idd90508deb253401085cf9a53076dca5f">
+						<enum>(C)</enum>
+						<text>govern, consistent with this Act, any other applicable laws, and the fair information practice
+			 principles set forth in appendix A of the document entitled <quote>National Strategy for Trusted Identities in Cyberspace</quote> and published by the President in April, 2011, the retention, use, and dissemination by the
+			 Federal Government of cyber
+			 threat indicators shared with the Federal Government under this Act,
+			 including the extent, if any, to which such cyber threat indicators may be
+			 used by the Federal Government; and</text>
+					</subparagraph>
+          <subparagraph id="id390c6fb37dbe4361b3c04bc619ea9b51">
+						<enum>(D)</enum>
+						<text>ensure there is an audit capability and appropriate sanctions in place
+			 for officers, employees, or agents of a Federal entity who knowingly and
+			 willfully conduct activities under this Act in an unauthorized manner.</text>
+					</subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection id="idc4e88348b4f741e6b631cee57276b7e3">
+				<enum>(b)</enum>
+				<header>Privacy and civil liberties</header>
+				<paragraph id="id4130195824b143649c122d21640d1374">
+					<enum>(1)</enum>
+					<header>Guidelines of Attorney General</header>
+					<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref> shall, in coordination with the
+			 heads of the appropriate Federal agencies and in consultation with
+			 officers designated under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="National Security Intelligence Reform Act of 2004/s:1062">section 1062 of the National Security
+			 Intelligence Reform Act of 2004</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/2000ee-1">
+              <cato:entity-ref entity-type="uscode" value="usc/42/2000ee-1">42 U.S.C. 2000ee-1</cato:entity-ref>
+            </external-xref>)</cato:entity>, develop and
+			 periodically review
+			 guidelines relating to privacy and civil liberties which shall govern the
+			 receipt, retention, use, and
+			 dissemination of cyber threat indicators by a Federal entity obtained in
+			 connection with activities authorized in this Act.</text>
+				</paragraph>
+        <paragraph id="idd38b114fb48e4ed286601bc98d9b5b46">
+					<enum>(2)</enum>
+					<header>Content</header>
+					<text>The guidelines developed and reviewed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:5/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref> shall, consistent with the need to
+			 protect information
+			 systems from cybersecurity threats and mitigate cybersecurity threats—</text>
+					<subparagraph id="idF48AF86D46C14BB39F9797A98D64B1CB">
+						<enum>(A)</enum>
+						<text>limit the impact on privacy and civil liberties of activities by the Federal Government under this
+			 Act;</text>
+          </subparagraph>
+          <subparagraph id="id53B7C21C00D340ED97D9CA6E1C0E483E">
+            <enum>(B)</enum>
+            <text>limit the receipt, retention, use, and dissemination of cyber threat indicators containing personal
+			 information of or identifying
+			 specific persons, including establishing—</text>
+            <clause id="id09B4555D69A24398BAA6734C3628DB34">
+              <enum>(i)</enum>
+              <text>a process for the timely destruction of information that is known not to be directly related to
+			 uses authorized under this Act; and</text>
+            </clause>
+            <clause id="id4F35A6A92ECE45BD890898FC67DE3EAA">
+              <enum>(ii)</enum>
+              <text>specific limitations on the length of any period in which a cyber threat indicator may be retained;</text>
+            </clause>
+          </subparagraph>
+          <subparagraph id="id29f3959c54434f549d88de486a12cb6e">
+						<enum>(C)</enum>
+						<text>include requirements to safeguard cyber threat indicators containing personal information of or
+			 identifying
+			 specific persons from unauthorized access or acquisition, including
+			 appropriate sanctions for activities by officers, employees, or agents of
+			 the Federal Government in contravention of such guidelines;</text>
+					</subparagraph>
+          <subparagraph id="id8aaff28200b0440ca7a02c65394da273">
+						<enum>(D)</enum>
+						<text>include procedures for notifying entities if information received pursuant to this section is known
+			 by a Federal entity receiving the information not to constitute a
+			 cyber threat indicator; and</text>
+					</subparagraph>
+          <subparagraph id="idc07b89ca741e4f2281bc8787da22148c">
+						<enum>(E)</enum>
+						<text>protect the confidentiality of cyber threat indicators containing personal information of or
+			 identifying specific persons to the
+			 greatest extent practicable and require recipients to be informed that
+			 such indicators may only be used for purposes authorized under this Act.</text>
+					</subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection id="iddb705fe5b65947b59c9bbda071afefb5">
+				<enum>(c)</enum>
+				<header>Capability and process within the Department of Homeland Security</header>
+				<paragraph id="id2ab86b40a5f14172826c12a273f89e21">
+					<enum>(1)</enum>
+					<header>In general</header>
+					<text>Not later than 90 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland
+			 Security</cato:entity-ref>, in
+			 coordination with the heads of the appropriate Federal entities, shall
+			 develop and implement a
+			 capability and process within the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland Security</cato:entity-ref> that—</text>
+					<subparagraph id="id44ee3aafbad94167bb404d110a404054">
+						<enum>(A)</enum>
+						<text>shall accept from any entity in real time  cyber threat indicators and countermeasures in an
+			 electronic format, pursuant to this
+			 section;</text>
+					</subparagraph>
+          <subparagraph id="idaf6edbc862e14bceaba148302772d046">
+						<enum>(B)</enum>
+						<text>shall, upon submittal of the certification under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:5/ss:c/p:2" proposed="true">paragraph (2)</cato:entity-ref> that such capability and process
+			 fully and
+			 effectively operates as described in such paragraph, be the process
+			 by which the Federal
+			 Government receives cyber threat indicators and countermeasures under this
+			 Act in
+			 an electronic format that are shared by a private entity with the Federal
+			 Government except—</text>
+						<clause commented="no" id="ida4a6d3b6de884ddab47f2822a897566d">
+							<enum>(i)</enum>
+							<text>communications between a Federal entity and a private entity regarding a previously shared cyber
+			 threat indicator;</text>
+						</clause>
+            <clause commented="no" id="id0119ea3e16e84ed5b102b04094911666">
+							<enum>(ii)</enum>
+							<text>voluntary or legally compelled participation in an open Federal investigation;</text>
+            </clause>
+            <clause id="id5205F6E8136A4E929EAFC5090F2CA75E">
+              <enum>(iii)</enum>
+              <text>information received through an automated malware analysis capability operated by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1549" entity-type="federal-body">Federal
+			 Bureau of Investigation</cato:entity-ref> that is designed to ensure that information
+			 received through and analysis produced by such
+			 capability is also immediately shared through the capability and process
+			 developed by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> under this
+			 paragraph;</text>
+            </clause>
+            <clause commented="no" id="idb2889f4a630c4f3b9835f013a90cc94a">
+							<enum>(iv)</enum>
+							<text>communications with a Federal regulatory authority by regulated entities regarding a cybersecurity
+			 threat; and</text>
+						</clause>
+            <clause commented="no" id="id34a4fe9b711a44ff8877316c64f5afcc">
+							<enum>(v)</enum>
+							<text>cyber threat indicators or countermeasures shared with a Federal entity as part of a contractual or
+			 statutory
+			 requirement;</text>
+						</clause>
+          </subparagraph>
+          <subparagraph commented="no" id="id74228c1b10af4e2f9a04458781c9c40b">
+						<enum>(C)</enum>
+						<text>ensures that all of the appropriate Federal entities receive such cyber threat indicators in real
+			 time and simultaneous with receipt through the process within the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland Security</cato:entity-ref>; and</text>
+					</subparagraph>
+          <subparagraph commented="no" id="id4658dd957f3a451396385a71f177d8ef">
+						<enum>(D)</enum>
+						<text>is in compliance with the policies, procedures, and guidelines required by this section.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="idAFB54A8154BE419DA4A0CAD5731005AD">
+					<enum>(2)</enum>
+					<header>Certification</header>
+					<text>Not later than 10 days prior to the implementation of the capability and process required by
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:5/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> shall, in consultation
+			 with the heads of the appropriate Federal entities, certify to Congress
+			 whether such capability and process fully and effectively operates—</text>
+					<subparagraph commented="no" id="idE28D93148B224B7EB6FBD70BD45B5EFE">
+						<enum>(A)</enum>
+						<text>as the process by which the Federal Government receives from any
+			 entity cyber threat indicators and countermeasures in an electronic
+			 format under this Act; and</text>
+					</subparagraph>
+          <subparagraph commented="no" id="id106A6D13128D42E7A712537DB02031CD">
+						<enum>(B)</enum>
+						<text>in accordance with the policies, procedures, and guidelines developed under this section.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="idbbd76c0a3411466f8f187c461899c97a">
+					<enum>(3)</enum>
+					<header>Public notice and access</header>
+					<text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> shall ensure there is public notice of, and access to, the
+			 capability and process developed and implemented under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:5/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref> so
+			 that any entity may share cyber threat indicators and countermeasures
+			 through such process
+			 with the Federal Government and that all of the appropriate Federal
+			 entities receive such cyber threat indicators and countermeasures in real
+			 time and
+			 simultaneous with receipt through the process within the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of
+			 Homeland Security</cato:entity-ref>.</text>
+				</paragraph>
+        <paragraph id="ida17d6de9ed734287a44a64a020d061c6">
+					<enum>(4)</enum>
+					<header>Other Federal entities</header>
+					<text>The process developed and implemented under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:5/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref> shall ensure that other Federal entities
+			 receive in a timely manner any cyber threat indicators and countermeasures
+			 shared with the
+			 Federal Government through the process created in this subsection.</text>
+				</paragraph>
+        <paragraph id="id19906EC1CF3E4CCF92559B6E9D9B7D9B">
+					<enum>(5)</enum>
+					<header>Reports</header>
+					<subparagraph id="id17557069211545e79a2c9620f921f153">
+						<enum>(A)</enum>
+						<header> Report on development and implementation</header>
+						<clause id="id000B97E78A814FE9B0A3212896692326">
+              <enum>(i)</enum>
+              <header>In general</header>
+              <text>Not later than 60 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland
+			 Security</cato:entity-ref> shall submit
+			 to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a report on the development and implementation of the
+			 capability and process required by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:5/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref>, including a description
+			 of such capability and process and the
+			 public notice of, and access to, such process.</text>
+						</clause>
+            <clause id="id7161E1CA5F5C4E928692BCC57B3EF178">
+							<enum>(ii)</enum>
+							<header>Classified annex</header>
+							<text>The report required by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:5/ss:c/p:5/sp:A/cl:i" proposed="true">clause (i)</cato:entity-ref> shall be submitted in unclassified form, but may include a
+			 classified annex.</text>
+            </clause>
+          </subparagraph>
+          <subparagraph id="id252b403002484d2199b2f1af81c6aab1">
+            <enum>(B)</enum>
+            <header>Report on automated malware analysis capability</header>
+            <text>Not later than 1 year after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1549" entity-type="federal-body">Director of the Federal
+			 Bureau of Investigation</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> shall
+			 submit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a report on the implementation of the automated malware
+			 analysis capability described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:5/ss:c/p:1/sp:B/cl:iii" proposed="true">paragraph (1)(B)(iii)</cato:entity-ref>, including an
+			 assessment of	the feasibility and advisability of transferring the
+			 administration and operation of such capability to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of
+			 Homeland Security</cato:entity-ref>.</text>
+          </subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection id="iddae8dc75074c4b98a7e132d8a744a408">
+				<enum>(d)</enum>
+				<header>Information shared with or provided to the Federal Government</header>
+				<paragraph id="id9065ee798e41498595da5b9d27c8ae9a">
+					<enum>(1)</enum>
+					<header>No waiver of privilege or protection</header>
+					<text>The provision of cyber threat indicators and countermeasures to the Federal Government under this
+			 Act shall
+			 not constitute a waiver of any applicable privilege or protection provided
+			 by law, including trade secret protection.</text>
+				</paragraph>
+        <paragraph id="id3C35A115EA704CA284C8019913B6B668">
+					<enum>(2)</enum>
+					<header>Proprietary information</header>
+					<text>A cyber threat indicator or countermeasure provided by an entity to the Federal Government under
+			 this Act shall
+			 be considered the commercial, financial, and proprietary information of
+			 such entity when so designated by such entity.</text>
+				</paragraph>
+        <paragraph id="id7fca19fc3add4e38a5ca2ffccfbd3920">
+					<enum>(3)</enum>
+					<header>Exemption from disclosure</header>
+					<text>Cyber threat indicators and countermeasures provided to the Federal Government under this Act shall
+			 be—</text>
+					<subparagraph id="id49C6040B9979451B9B6B4D7CF55200C4">
+						<enum>(A)</enum>
+						<text>deemed voluntarily shared information and exempt from disclosure under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/552">
+                <external-xref legal-doc="usc" parsable-cite="usc/5/552">section 552</external-xref> of title 5,
+			 United States Code</cato:entity-ref>, and any State, tribal, or local law requiring
+			 disclosure of information or records; and</text>
+					</subparagraph>
+          <subparagraph id="id1DC432B22621405FB766EA876DBB4E21">
+						<enum>(B)</enum>
+						<text>withheld, without discretion, from the public under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/552/b/3/B">
+                <external-xref legal-doc="usc" parsable-cite="usc/5/552">section 552(b)(3)(B)</external-xref> of title 5, United States
+			 Code</cato:entity-ref>, and any State, tribal, or local provision of law requiring
+			 disclosure of information or records.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="id30c7cf5b0901423dbc881bbf1162920d">
+					<enum>(4)</enum>
+					<header>Ex parte communications</header>
+					<text>The provision of cyber threat indicators and countermeasures to the Federal Government under this
+			 Act shall
+			 not be subject to the rules of any Federal agency or department or any
+			 judicial doctrine regarding ex parte communications with a decisionmaking
+			 official.</text>
+				</paragraph>
+        <paragraph id="id59233618d29b4833b1ac319f6f6d7d44">
+					<enum>(5)</enum>
+					<header>Disclosure, retention, and use</header>
+					<subparagraph id="id7E37CEEA30DD42F1825FC17937D572A2">
+						<enum>(A)</enum>
+						<header>Authorized activities</header>
+						<text>Cyber threat indicators and countermeasures provided to the Federal Government under this Act may
+			 be disclosed to, retained by, and used by, consistent with otherwise
+			 applicable Federal law, any Federal agency or department, component,
+			 officer, employee, or agent of the Federal Government solely for—</text>
+						<clause id="idaf06042c50e74e5b8ec0b1f7075b3287">
+							<enum>(i)</enum>
+							<text>a cybersecurity purpose;</text>
+						</clause>
+            <clause id="id54ee3cb88baf42a59f100f8506f4deda">
+							<enum>(ii)</enum>
+							<text>the purpose of responding to, or otherwise preventing or mitigating, an imminent threat of death or
+			 serious bodily harm;</text>
+            </clause>
+            <clause id="idFCF9D140F9974FF9BA081A55CA28CB3D">
+              <enum>(iii)</enum>
+              <text>the purpose of responding to, or otherwise preventing or mitigating, a serious threat to a minor,
+			 including sexual exploitation and threats to physical safety; or</text>
+            </clause>
+            <clause commented="no" id="idb506d03ef20e4285a387fe03f8dfa7a2">
+							<enum>(iv)</enum>
+							<text>the purpose of preventing, investigating, or
+			 prosecuting an offense arising out of a threat described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:5/ss:d/p:5/sp:A/cl:ii" proposed="true">clause (ii)</cato:entity-ref> or
+			 any of the offenses listed in—</text>
+							<subclause commented="no" id="id6FFDC2406B074668BFC89C52F09F4ACA">
+								<enum>(I)</enum>
+								<text>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1028..1030">sections 1028 through 1030 of
+			 title 18, United States Code</cato:entity-ref> (relating to fraud and identity theft);</text>
+							</subclause>
+              <subclause commented="no" id="id91767279A0FA4C4E8CCB83722B6335F0">
+								<enum>(II)</enum>
+								<text>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/18/37">chapter 37 of such title</cato:entity-ref> (relating to espionage and censorship); and</text>
+							</subclause>
+              <subclause commented="no" display-inline="no-display-inline" id="id65F3C175E2CA45BFABDD54FF80033130">
+								<enum>(III)</enum>
+								<text>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/18/90">chapter 90 of such title</cato:entity-ref> (relating to protection of trade secrets).</text>
+							</subclause>
+            </clause>
+          </subparagraph>
+          <subparagraph commented="no" id="id0eac03d62bf34dd5a15a96712a4cc176">
+						<enum>(B)</enum>
+						<header>Prohibited activities</header>
+						<text>Cyber threat indicators and countermeasures provided to the Federal Government under this Act shall
+			 not be disclosed to, retained by, or used by any Federal agency or
+			 department for any use not permitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:5/ss:d/p:5/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>.</text>
+					</subparagraph>
+          <subparagraph id="id0bbc2ab9a8ea4195be0389994d9b23de">
+						<enum>(C)</enum>
+						<header>Privacy and civil liberties</header>
+						<text>Cyber threat indicators and countermeasures provided to the Federal Government under this Act shall
+			 be retained, used, and disseminated by the Federal Government—</text>
+						<clause id="id1089c9a8162f46c2be9642433e38162a">
+							<enum>(i)</enum>
+							<text>in accordance with the policies, procedures, and guidelines required by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:5/ss:a" proposed="true">subsections (a)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:5/ss:b" proposed="true">(b)</cato:entity-ref>;</text>
+						</clause>
+            <clause id="id962b067ce7d74e71a0d4f63b58879412">
+							<enum>(ii)</enum>
+							<text>in a manner that protects from unauthorized use or disclosure any cyber threat indicators that
+			 may contain personal information of or  identifying specific persons; and</text>
+						</clause>
+            <clause commented="no" display-inline="no-display-inline" id="id2307b2e7658a4d15994b310064ebb505">
+							<enum>(iii)</enum>
+							<text>in a manner that protects the confidentiality of cyber threat indicators containing
+			 information of, or that identifies, a specific person.</text>
+						</clause>
+          </subparagraph>
+          <subparagraph id="id2f06afa647834a7886338b680abe67b2">
+						<enum>(D)</enum>
+						<header>Federal regulatory authority</header>
+						<clause id="idAA84E14692C74F77AAAB3CFFE3DAF905">
+							<enum>(i)</enum>
+							<header>In general</header>
+							<text>Cyber threat indicators and countermeasures provided to the Federal Government under this Act may,
+			 consistent with Federal or State regulatory authority
+			 specifically relating to the prevention or mitigation of cybersecurity
+			 threats to information systems, inform the development or implementation
+			 of regulations relating to such information systems.</text>
+						</clause>
+            <clause id="id37BF70F1514F4095B4361A5242714B27">
+							<enum>(ii)</enum>
+							<header>Limitation</header>
+							<text>Cyber threat indicators  and countermeasures provided to the Federal Government under this Act
+			 shall not be directly used by any
+			 Federal, State, tribal, or local government department or agency to
+			 regulate the lawful activities of an entity, including
+			 activities relating to monitoring, operation of countermeasures, or
+			 sharing of cyber threat indicators.</text>
+						</clause>
+            <clause id="id07E20EBBCF3F4F5AA36A56400049B089">
+							<enum>(iii)</enum>
+							<header>Exception</header>
+							<text>Procedures developed and implemented under this Act shall not be considered
+			 regulations within the meaning of this subparagraph.</text>
+						</clause>
+          </subparagraph>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="idc6842ed051194cfda77e2d250867c1f7">
+			<enum>6.</enum>
+			<header>Protection from liability</header>
+			<subsection id="idA56F9B9D8920425C821356A66C4BB593">
+				<enum>(a)</enum>
+				<header>Monitoring of information systems</header>
+				<text display-inline="yes-display-inline">No cause of action shall lie or be maintained in any court against any private entity, and such
+			 action shall be promptly dismissed, for the monitoring of information
+			 systems and information under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:4/ss:a" proposed="true">subsection (a) of section 4</cato:entity-ref> that is
+			 conducted in accordance with this Act.</text>
+			</subsection>
+      <subsection id="id97dc00b638b84749a0fd175d94c3925e">
+				<enum>(b)</enum>
+				<header>Sharing or receipt of cyber threat indicators</header>
+				<text>No cause of action shall lie or be maintained in any court against any entity, and such action
+			 shall be promptly dismissed, for the sharing or receipt of cyber threat
+			 indicators or countermeasures under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:4/ss:c" proposed="true">subsection (c) of section 4</cato:entity-ref> if—</text>
+				<paragraph id="idFBE18C0605034B43A0780EBF456D16AC">
+					<enum>(1)</enum>
+					<text>such sharing or receipt is
+			 conducted in accordance with this Act; and</text>
+				</paragraph>
+        <paragraph id="idD00052E10DEB45819D6E7C56172B0F99">
+					<enum>(2)</enum>
+					<text>in a case in which a cyber threat indicator or countermeasure is shared with the Federal Government
+			 in an electronic format, the cyber threat indicator or countermeasure is
+			 shared in a manner that is consistent with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:5/ss:c" proposed="true">section 5(c)</cato:entity-ref>.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="id007f07efdcc04889a5000ac9686ff094">
+				<enum>(c)</enum>
+				<header>Good faith defense in certain causes of action</header>
+				<text>If a cause of action is not otherwise dismissed or precluded under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:6/ss:a" proposed="true">subsection (a)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:6/ss:b" proposed="true">(b)</cato:entity-ref>, a good
+			 faith reliance by an entity that the conduct complained of was permitted
+			 under this Act shall be a complete defense against any action brought in
+			 any court against such entity.</text>
+			</subsection>
+      <subsection id="id1a00df004fff47cfabd2fc8e4aeb6824">
+				<enum>(d)</enum>
+				<header>Construction</header>
+				<text>Nothing in this section shall be construed to require dismissal of a cause of action against an
+			 entity that has engaged in—</text>
+				<paragraph id="idFA4F6FAA3F5140BE94F6C74BE0A259AD">
+					<enum>(1)</enum>
+					<text>gross negligence or wilful misconduct in the course of conducting activities authorized by this
+			 Act; or</text>
+				</paragraph>
+        <paragraph id="id35E92FB4FEFC403BBF909950A67987A4">
+					<enum>(2)</enum>
+					<text>conduct that is otherwise not in compliance with the requirements of this Act.</text>
+				</paragraph>
+      </subsection>
+    </section>
+    <section id="id17447f6b123447758c2de795a3e321f1">
+			<enum>7.</enum>
+			<header>Oversight of Government activities</header>
+			<subsection id="idE4EF5DD3988D413E95B568BCE925A888">
+				<enum>(a)</enum>
+				<header>Biennial report on implementation</header>
+				<paragraph id="idF7792866F1EF4DBEB79FFDEB07596A81">
+					<enum>(1)</enum>
+					<header>In general</header>
+					<text display-inline="yes-display-inline">Not later than 1 year after the date of the enactment of this Act, and not less frequently than
+			 once every 2 years thereafter, the heads of the appropriate Federal
+			 entities shall jointly submit to Congress a detailed report concerning the
+			 implementation of this Act.</text>
+				</paragraph>
+        <paragraph id="id4AE32785598848C698AD7EF79DA8CE26">
+					<enum>(2)</enum>
+					<header>Contents</header>
+					<text display-inline="yes-display-inline">Each report submitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:7/ss:a/p:1" proposed="true">paragraph (1)</cato:entity-ref> shall include the following:</text>
+					<subparagraph id="id3852b6f274374eb1b3ab4dbe0f227301">
+						<enum>(A)</enum>
+						<text>An assessment of the sufficiency of the policies, procedures, and guidelines required by section 5
+			 in ensuring that cyber threat indicators are shared effectively and
+			 responsibly within the Federal Government.</text>
+					</subparagraph>
+          <subparagraph id="idf97d8842dde7429ab273a8a72d7d6be6">
+						<enum>(B)</enum>
+						<text>An evaluation of the effectiveness of real-time information sharing through the capability and
+			 process developed
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:5/ss:c" proposed="true">section 5(c)</cato:entity-ref>, including any impediments to such real-time sharing.</text>
+					</subparagraph>
+          <subparagraph id="idef4a7c10103c4ba1ba2f4f5827eb90e6">
+						<enum>(C)</enum>
+						<text>An assessment of the sufficiency of the procedures developed under section 3 in ensuring that cyber
+			 threat indicators in the possession of the Federal Government are shared
+			 in a timely and adequate manner with appropriate entities, or, if
+			 appropriate, are made publicly available.</text>
+					</subparagraph>
+          <subparagraph id="id3ef99b7506ed4725b88bcf3b26878353">
+						<enum>(D)</enum>
+						<text>An assessment of whether cyber threat indicators have been properly classified and an accounting of
+			 the number of security clearances authorized by the Federal Government for
+			 the purposes of this Act.</text>
+					</subparagraph>
+          <subparagraph id="id9e05ebad3c344f0b892ecf0f0e47085b">
+						<enum>(E)</enum>
+						<text>A review of the type of cyber threat indicators shared with the Federal Government under this Act,
+			 including—</text>
+						<clause id="id2B4083E2628F425192F0F93F9BE56929">
+							<enum>(i)</enum>
+							<text>the degree to which such information may impact the privacy and civil liberties of specific
+			 persons;</text>
+						</clause>
+            <clause id="idD7E07621B03342FC8520747A004FD6AD">
+							<enum>(ii)</enum>
+							<text>a quantitative and qualitative assessment of the impact of the sharing of such cyber threat
+			 indicators with
+			 the Federal Government on privacy and civil liberties of specific persons;
+			 and</text>
+						</clause>
+            <clause id="id5FF176C4EBD94EBC9CEF41B2EA547A0A">
+							<enum>(iii)</enum>
+							<text>the adequacy of any steps taken by the Federal Government to reduce such impact.</text>
+						</clause>
+          </subparagraph>
+          <subparagraph id="id08fc3a9133104c3baf7a38569b754d58">
+						<enum>(F)</enum>
+						<text>A review of actions taken by the Federal Government based on cyber threat indicators shared with
+			 the Federal Government under this Act, including the appropriateness of
+			 any subsequent use or dissemination of such cyber threat indicators by a
+			 Federal entity under section 5.</text>
+					</subparagraph>
+          <subparagraph id="idb5b648c83f0d43b287b7d668eaef001c">
+						<enum>(G)</enum>
+						<text>A description of any significant violations of the requirements of this Act by the Federal
+			 Government.</text>
+					</subparagraph>
+          <subparagraph id="id8b2f1d8433814428ade548d97c87f735">
+						<enum>(H)</enum>
+						<text>A classified summary of the number and type of entities that received classified cyber threat
+			 indicators from the Federal
+			 Government under this Act and an evaluation of the risks and benefits of
+			 sharing such
+			 cyber threat indicators.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="idd9554f38981740998167f6db541366b4">
+					<enum>(3)</enum>
+					<header>Recommendations</header>
+					<text>Each report submitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:7/ss:a/p:1" proposed="true">paragraph (1)</cato:entity-ref> may include such recommendations as the heads of the
+			 appropriate Federal entities may have for improvements or
+			 modifications to the authorities and processes under this Act.</text>
+				</paragraph>
+        <paragraph id="id8b279b70a56247d7850d2652285cfd28">
+					<enum>(4)</enum>
+					<header>Form of report</header>
+					<text>Each report required by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:7/ss:a/p:1" proposed="true">paragraph (1)</cato:entity-ref> shall be submitted in unclassified form, but shall include a
+			 classified annex.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="id55db35d3c60146b0a1634ae21599f03f">
+				<enum>(b)</enum>
+				<header>Reports on privacy and civil liberties</header>
+				<paragraph id="idad3dfb9c95a84fe59cb725fad2904849">
+					<enum>(1)</enum>
+					<header>Biennial report from Privacy and Civil Liberties Oversight Board</header>
+					<text>Not later than 2 years after the date of the enactment of this Act and not less frequently than
+			 once
+			 every 2 years thereafter, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Privacy and Civil Liberties Oversight Board" entity-parent-id="1100">Privacy and Civil Liberties Oversight Board</cato:entity-ref>
+			 shall submit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> a report providing—</text>
+					<subparagraph id="idaa62163796c9482b8d7ab37fd5499661">
+						<enum>(A)</enum>
+						<text>an assessment of the privacy and civil liberties impact of the type of activities carried out under
+			 this Act; and</text>
+					</subparagraph>
+          <subparagraph id="id4fa6087e051045f88990a26df97743ed">
+						<enum>(B)</enum>
+						<text>an assessment of the sufficiency of the policies, procedures, and guidelines
+			 established pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:5" proposed="true">section 5</cato:entity-ref> in addressing privacy and civil
+			 liberties concerns.</text>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="iddf317d62d98b45e69576eac9305b0ae9">
+					<enum>(2)</enum>
+					<header>Biennial report of Inspectors general</header>
+					<subparagraph id="id138051056BAB4C1FBC824C06F277BF28">
+						<enum>(A)</enum>
+						<header>In general</header>
+						<text>Not later than 2 years after the date of the enactment of this Act and not less frequently than
+			 once every 2 years thereafter, the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7004">Inspector General of the Department of Homeland Security</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Inspector General of the Intelligence Community">Inspector
+			 General of the Intelligence Community</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1504">Inspector General of the
+			 Department of Justice</cato:entity-ref>, and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="97EX" entity-type="federal-body">Inspector General of the Department of
+			 Defense</cato:entity-ref> shall jointly submit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a report on the receipt, use, and
+			 dissemination of cyber threat indicators and countermeasures that have
+			 been shared with
+			 Federal entities under this Act.</text>
+					</subparagraph>
+          <subparagraph id="id1DE9148571C74CC188D42FB66C2AA983">
+						<enum>(B)</enum>
+						<header>Contents</header>
+						<text>Each report submitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:7/ss:b/p:2/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> shall include the following:</text>
+						<clause id="id86dcdbef4fe841e4b4b3d4d0443f316b">
+							<enum>(i)</enum>
+							<text>A review of the types of cyber threat indicators shared with Federal entities.</text>
+						</clause>
+            <clause id="id1bfef3fef3304ab4956bd39b515c6b8a">
+							<enum>(ii)</enum>
+							<text>A review of the actions taken by Federal entities as a result of  the receipt of such cyber threat
+			 indicators.</text>
+						</clause>
+            <clause id="id0ce37ba80e424fbe86b4ffc95a320f43">
+							<enum>(iii)</enum>
+							<text>A list of Federal entities receiving such cyber threat indicators.</text>
+						</clause>
+            <clause id="id04c26c1c89424bc094682760a4d80fea">
+							<enum>(iv)</enum>
+							<text>A review of the sharing of such cyber threat indicators among Federal entities to identify
+			 inappropriate barriers to sharing information.</text>
+						</clause>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="id2f4b2fd399fc4ae3a2aa5d7a721809f4">
+					<enum>(3)</enum>
+					<header>Recommendations</header>
+					<text>Each report submitted under this subsection may include such recommendations as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Privacy and Civil Liberties Oversight Board">Privacy and
+			 Civil Liberties Oversight Board</cato:entity-ref>, with respect to a report submitted under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:7/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>, or the	Inspectors General referred to in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:7/ss:b/p:2/sp:A" proposed="true">paragraph (2)(A)</cato:entity-ref>,
+			 with respect to a report submitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:7/ss:b/p:2" proposed="true">paragraph (2)</cato:entity-ref>, may have for
+			 improvements or modifications to the
+			 authorities under this Act.</text>
+				</paragraph>
+        <paragraph id="id20850f3c5d8943dbaf14895d0e9d513e">
+					<enum>(4)</enum>
+					<header>Form</header>
+					<text>Each report required under this subsection shall be submitted in unclassified form, but may include
+			 a classified annex.</text>
+				</paragraph>
+      </subsection>
+    </section>
+    <section id="id898778e8394a4fe4ad6887b0a43e323a">
+			<enum>8.</enum>
+			<header>Construction and preemption</header>
+			<subsection id="id01094e3d32d84751adb549236c55ae3c">
+				<enum>(a)</enum>
+				<header>Otherwise lawful disclosures</header>
+				<text>Nothing in this Act shall be construed to limit or prohibit otherwise lawful disclosures of
+			 communications, records, or other information, including reporting of
+			 known or suspected criminal activity, by an entity to any other
+			 entity or the Federal Government under this Act.</text>
+			</subsection>
+      <subsection id="id3b0460af5e864c82b35f384a55e46052">
+				<enum>(b)</enum>
+				<header>Whistleblower protections</header>
+				<text>Nothing in this Act shall be construed to preempt any employee from exercising rights currently
+			 provided under any whistleblower law, rule, or regulation.</text>
+			</subsection>
+      <subsection id="id0428049fd23d498f8726928467ba72c4">
+				<enum>(c)</enum>
+				<header>Protection of sources and methods</header>
+				<text>Nothing in this Act shall be construed—</text>
+				<paragraph id="id1e77f6c5be6d4bc498e4f3d0b548e80a">
+					<enum>(1)</enum>
+					<text>as creating any immunity against, or otherwise affecting, any action brought by the Federal
+			 Government, or any agency or department thereof, to enforce any law,
+			 executive order, or procedure governing the appropriate handling,
+			 disclosure, or use of classified information;</text>
+				</paragraph>
+        <paragraph id="id5a648a7f478445af8fae3a8818867252">
+					<enum>(2)</enum>
+					<text>to impact the conduct of authorized law enforcement or intelligence activities; or</text>
+				</paragraph>
+        <paragraph id="id831996503a3b455fa9d4ea31cca7b6ea">
+					<enum>(3)</enum>
+					<text>to modify the authority of a department or agency of the Federal Government to protect sources and
+			 methods and the national security of the United States.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="id52d5f3a83ecc471f90bd1edf09a99d23">
+				<enum>(d)</enum>
+				<header>Relationship to other laws</header>
+				<text>Nothing in this Act shall be construed to affect any requirement under any other provision of law
+			 for an entity to provide information to the Federal Government.</text>
+			</subsection>
+      <subsection id="id09bd6b0d51e1459c9e5ec1a3f437a4b7">
+				<enum>(e)</enum>
+				<header>Prohibited conduct</header>
+				<text>Nothing in this Act shall be construed to permit price-fixing, allocating a market between
+			 competitors, monopolizing or attempting to monopolize a market,
+			 boycotting, or exchanges of price or cost information, customer lists, or
+			 information regarding future competitive planning.</text>
+			</subsection>
+      <subsection id="id0368eef2178849c7aefb212bd9af543b">
+				<enum>(f)</enum>
+				<header>Information sharing relationships</header>
+				<text>Nothing in this Act shall be construed—</text>
+				<paragraph id="id9e1f9b73e5644e58ab28bb21ae4bc802">
+					<enum>(1)</enum>
+					<text>to limit or modify an existing information sharing relationship;</text>
+				</paragraph>
+        <paragraph id="id9a330e2010a04e84b09fc175f1b6e19a">
+					<enum>(2)</enum>
+					<text>to prohibit a new information sharing relationship;</text>
+				</paragraph>
+        <paragraph id="id66bcf9a068a140b99eb5fcb43fc1756e">
+					<enum>(3)</enum>
+					<text>to require a new information sharing relationship between any entity and the Federal Government;</text>
+				</paragraph>
+        <paragraph commented="no" id="id9d383d9defeb4873879900d9607d47ed">
+					<enum>(4)</enum>
+					<text>to require the use of the capability and process within the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland Security</cato:entity-ref>
+			 developed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:5/ss:c" proposed="true">section 5(c)</cato:entity-ref>; or</text>
+				</paragraph>
+        <paragraph id="id1971448dd2694a959980eee0f37b4fa7">
+					<enum>(5)</enum>
+					<text>to amend, repeal, or supersede any current or future contractual agreement, terms of service
+			 agreement, or other contractual relationship between any entities, or
+			 between any entity and the Federal Government.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="idfc76defb0e374ca2af80fae94395eab1">
+				<enum>(g)</enum>
+				<header>Anti-tasking restriction</header>
+				<text>Nothing in this Act shall be construed to permit the Federal Government—</text>
+				<paragraph id="id9799dd6d733545b8893b4b08126ca85c">
+					<enum>(1)</enum>
+					<text>to require an entity to provide information to the Federal Government; or</text>
+				</paragraph>
+        <paragraph id="id707a8c0eeb50482fa43ad91ebae21779">
+					<enum>(2)</enum>
+					<text>to condition the sharing of cyber threat indicators with an entity on such entity’s provision of
+			 cyber threat indicators to the Federal Government.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="id166289c7280b426692f84d11fc89245f">
+				<enum>(h)</enum>
+				<header>No liability for non-participation</header>
+				<text>Nothing in this Act shall be construed to subject any entity to liability for choosing not to
+			 engage in the voluntary activities authorized in this Act.</text>
+			</subsection>
+      <subsection id="id8f83fea1bb424982a443ed0a45348031">
+				<enum>(i)</enum>
+				<header>Use and retention of information</header>
+				<text>Nothing in this Act shall be construed to authorize, or to modify any existing authority of, a
+			 department or agency of the Federal Government to retain or use any
+			 information shared under this Act for any use other than permitted in this
+			 Act.</text>
+			</subsection>
+      <subsection id="id0ebbc5ec18b344fc9a62946d240cd1aa">
+				<enum>(j)</enum>
+				<header>Federal preemption</header>
+				<paragraph id="id1b518304a8e341f297ae1fd88a7016b5">
+					<enum>(1)</enum>
+					<header>In general</header>
+					<text>This Act supersedes any statute or other law of a State or political subdivision of a State that
+			 restricts or otherwise expressly regulates an activity authorized under
+			 this Act.</text>
+				</paragraph>
+        <paragraph id="idd735561560c94aac89a78e67e5d83c14">
+					<enum>(2)</enum>
+					<header>State law enforcement</header>
+					<text>Nothing in this Act shall be construed to supersede any statute or other law of a State or
+			 political subdivision of a State concerning the use of authorized law
+			 enforcement practices and procedures.</text>
+				</paragraph>
+      </subsection>
+      <subsection id="idC2B69684B97946DB95AE520587D3BC3A">
+				<enum>(k)</enum>
+				<header>Regulatory authority</header>
+				<text>Nothing in this Act shall be construed—</text>
+				<paragraph id="id3554DA6E85034573813908982840758B">
+					<enum>(1)</enum>
+					<text>to authorize the promulgation of any regulations not specifically authorized by this Act;</text>
+				</paragraph>
+        <paragraph id="id86067F7520B4499B866349D8F1DF6E0E">
+					<enum>(2)</enum>
+					<text>to establish any regulatory authority not specifically established under Act; or</text>
+				</paragraph>
+        <paragraph id="id64A7E6012A344CA385F6955A5BDB056E">
+					<enum>(3)</enum>
+					<text>to authorize regulatory actions that would duplicate or conflict with regulatory requirements,
+			 mandatory standards, or related processes under Federal law.</text>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="HC8808302347C" section-type="subsequent-section">
+      <enum>9.</enum>
+      <header>Report on cybersecurity threats</header>
+      <subsection id="id319c98d8c890488ea2b4da1fc36a1a28">
+        <enum>(a)</enum>
+        <header>Requirement for report</header>
+        <text>Not later than 180 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Director of National Intelligence">Director of National
+			 Intelligence</cato:entity-ref>, in coordination with the heads of other appropriate elements
+			 of the intelligence community, shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SLIN00" entity-type="committee">Select Committee on
+			 Intelligence of
+			 the Senate</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HIG00" entity-type="committee">Permanent Select Committee on Intelligence of the House
+			 of Representatives</cato:entity-ref> a report on cybersecurity threats, including cyber
+			 attacks, theft, and data breaches.  Such report shall include the
+			 following:</text>
+        <paragraph id="id9b1e0e0223d344a2bcc1f35ff5ca139d">
+          <enum>(1)</enum>
+          <text>An assessment of the current intelligence sharing and cooperation relationships of the United
+			 States with
+			 other countries regarding cybersecurity threats, including cyber attacks,
+			 theft, and data breaches, directed against the United States and which
+			 threaten the United States national security interests and economy and
+			 intellectual property, specifically identifying the relative utility of
+			 such relationships, which elements of the intelligence community
+			 participate in such relationships, and whether and how
+			 such relationships could be improved.</text>
+        </paragraph>
+        <paragraph id="id28a5353763b44f3eb432e2cb164ced1f">
+          <enum>(2)</enum>
+          <text>A list and an assessment of the countries and non-state actors that are the primary threats of
+			 carrying out a cybersecurity threat, including a cyber attack, theft, or
+			 data breach, against the United
+			 States and which threaten the United States national security,
+			 economy, and intellectual property.</text>
+        </paragraph>
+        <paragraph id="id828caee5365c4b249cbfed9a1266ffc5">
+          <enum>(3)</enum>
+          <text>A description of the extent to which the capabilities of the United States Government to respond to
+			 or
+			 prevent cybersecurity threats, including cyber attacks, theft, or data
+			 breaches, directed against the United States private sector are degraded
+			 by a delay in the prompt notification by private entities of such threats
+			 or cyber
+			 attacks, theft, and breaches.</text>
+        </paragraph>
+        <paragraph id="idb66f1fd645c04a44857613c169a72508">
+          <enum>(4)</enum>
+          <text>An assessment of additional technologies or capabilities that would enhance the ability of the
+			 United States to prevent and to respond to  cybersecurity threats,
+			 including
+			 cyber
+			 attacks, theft, and data breaches.</text>
+        </paragraph>
+        <paragraph id="ide21f74c3df7a4c5094f37035251cb41e">
+          <enum>(5)</enum>
+          <text>An assessment of any technologies or practices utilized by the private sector that could be rapidly
+			 fielded
+			 to assist the intelligence community in preventing and responding to
+			 cybersecurity threats.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="idA121043EDE794607B8B50F6A369A0B95">
+        <enum>(b)</enum>
+        <header>Intelligence community defined</header>
+        <text>In this section, the term <quote>intelligence community</quote> has the meaning given that term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="National Security Act of 1947/s:3/p:4">section 3(4) of the National Security Act of 1947</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/50/3003//4">50 U.S.C.
+			 3003(4)</cato:entity-ref>)</cato:entity>.</text>
+      </subsection>
+      <subsection id="id902c7f7e1ff04b75acd854275f832d2e">
+        <enum>(c)</enum>
+        <header>Form of report</header>
+        <text>The  report required by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:9/ss:a" proposed="true">subsection (a)</cato:entity-ref> shall be made available in classified and unclassified
+			 forms.</text>
+      </subsection>
+    </section>
+    <section id="idd1aad41644974051a07957b0cab75563">
+			<enum>10.</enum>
+			<header>Conforming amendments</header>
+			<subsection id="id964DC277775F4B2EAEAA5EA6B1DC7EDE">
+        <enum>(a)</enum>
+        <header>Public information</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/552/b">
+            <external-xref legal-doc="usc" parsable-cite="usc/5/552">Section 552(b)</external-xref> of title 5, United States Code</cato:entity-ref>, is amended—</text>
+				<paragraph id="id5e7a54adfd35440a809e95a822a52968">
+					<enum>(1)</enum>
+					<text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/552/b/8">paragraph (8)</cato:entity-ref>, by striking <quote>or</quote> at the end;</text>
+				</paragraph>
+        <paragraph id="id45f29de37e68439798f7fa661d0006d7">
+					<enum>(2)</enum>
+					<text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/552/b/9">paragraph (9)</cato:entity-ref>, by striking <quote>wells.</quote> and inserting <quote>wells; or</quote>; and</text>
+				</paragraph>
+        <paragraph id="idc82d94b0b0dd43f2b290d8359a570730">
+					<enum>(3)</enum>
+					<text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="id398794d4f8b945acbc48dcf6c37505a8" style="OLC">
+						<paragraph id="id36843ef1abce4195826ae1e8f6655503">
+							<enum>(10)</enum>
+							<text>information shared with or provided to the Federal Government pursuant to the <short-title>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014" proposed="true">Cybersecurity Information Sharing Act of 2014</cato:entity-ref>
+                </short-title>.</text>
+						</paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </subsection>
+      <subsection id="id13968010FB134B62A2117E58BACDD4C9">
+        <enum>(b)</enum>
+        <header>Modification of limitation on dissemination of certain information concerning penetrations of
+			 defense contractor networks</header>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="National Defense Authorization Act for Fiscal Year 2013/s:941/ss:c/p:3">Section 941(c)(3) of the National Defense Authorization Act for Fiscal Year 2013</cato:entity-ref> (<cato:entity-ref entity-type="public-law" value="public-law/112/239">Public Law
+			 112–239</cato:entity-ref>)</cato:entity> is amended by inserting at the end the following: <quote>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9700">Secretary</cato:entity-ref> may share such information with other Federal entities if such information consists
+			 of cyber threat indicators and countermeasures and such information is
+			 shared consistent with the policies and procedures promulgated by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Information Sharing Act of 2014/s:5" proposed="true">section 5 of the <short-title>Cybersecurity Information Sharing Act of 2014</short-title>
+            </cato:entity-ref>.</quote>.</text>
+			</subsection>
+    </section>
+  </legis-body>
+	<endorsement>
+    <action-date>July 10, 2014</action-date>
+    <action-desc>Read twice and placed on the calendar</action-desc>
+  </endorsement>
+</bill>
+</doc>
