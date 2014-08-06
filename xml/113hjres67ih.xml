@@ -1,7 +1,7 @@
 <doc>
   <docmeta id="113hjres67ih">
     <bill congress="113" type="hjres" number="67" version="ih"/>
-    <revision size="22754" annotations="0" status="complete" id="4" commit-time="2013-11-13T19:54:31Z" committer="mbohmer" doc="113hjres67ih/4.xml">
+    <revision size="22754" annotations="0" status="complete" id="7" commit-time="2014-08-05T18:07:19Z" committer="mbohmer" doc="113hjres67ih/7.xml">
       <description>Edited via AKN</description>
     </revision>
   </docmeta>
@@ -39,7 +39,10 @@
       <enum>101.</enum>
       <subsection commented="no" display-inline="yes-display-inline" id="H3E11130FB87040EBB6CE786C9E65E7BB">
         <enum>(a)</enum>
-        <text display-inline="yes-display-inline">Such amounts as may be necessary, at a rate for operations as provided in the applicable appropriations Acts for fiscal year 2013 and under the authority and conditions provided in such Acts, for continuing projects or activities (including the costs of direct loans and loan guarantees) that are not otherwise specifically provided for in this joint resolution, that were conducted in fiscal year 2013, and for which appropriations, funds, or other authority were made available in the following appropriations Acts:</text>
+        <text display-inline="yes-display-inline">
+            <cato:entity entity-type="auth-approp">
+              <cato:funds-and-year amount="indefinite" year="2014">Such amounts as may be necessary</cato:funds-and-year>, at a rate for operations as provided in the applicable appropriations Acts for fiscal year 2013 and under the authority and conditions provided in such Acts, <cato:property name="purpose">for continuing projects or activities (including the costs of direct loans and loan guarantees) that are not otherwise specifically provided for in this joint resolution, that were conducted in fiscal year 2013, and for which appropriations, funds, or other authority were made available in the following appropriations Acts</cato:property>
+            </cato:entity>:</text>
         <paragraph commented="no" id="H2280FC5D0AE74050878AB71F99532405">
           <enum>(1)</enum>
           <text display-inline="yes-display-inline">The <cato:entity entity-type="law-citation">
@@ -204,7 +207,7 @@
       </subsection>
       <subsection commented="no" id="HC24A9276F13E40E6BA37C121ECDFEA76" indent="up1">
         <enum>(b)</enum>
-        <text display-inline="yes-display-inline">Of the amount made available by <cato:entity-ref entity-type="act" value="Continuing Appropriations Resolution, 2014/s:101" proposed="true">section 101</cato:entity-ref> for <quote>Social Security Administration—Limitation on Administrative Expenses</quote>, $470,638,000 is additional new budget authority specified for purposes of <cato:entity-ref entity-type="act" value="Balanced Budget and Emergency Deficit Control Act of 1985/s:/ss:251/p:b/sp:2/cl:B">subsection 251(b)(2)(B) of the Balanced Budget and Emergency Deficit Control Act of 1985</cato:entity-ref>.</text>
+        <text display-inline="yes-display-inline">Of the amount made available by <cato:entity-ref entity-type="act" value="Continuing Appropriations Resolution, 2014/s:101" proposed="true">section 101</cato:entity-ref> for <quote>Social Security Administration—Limitation on Administrative Expenses</quote>, $470,638,000 is additional new budget authority specified for purposes of sub<cato:entity-ref entity-type="act" value="Balanced Budget and Emergency Deficit Control Act of 1985/s:251/ss:b/p:2/sp:B">section 251(b)(2)(B) of the Balanced Budget and Emergency Deficit Control Act of 1985</cato:entity-ref>.</text>
       </subsection>
       <subsection id="H379AE020F26E4906AD2C9584270C0F99" indent="up1">
         <enum>(c)</enum>
@@ -297,12 +300,20 @@
       </subsection>
     </section>
     <section id="HDE9F40A9EFB7424C93E825DD519D526C">
-      <enum>126.</enum>
-      <text display-inline="yes-display-inline">In addition to the amount otherwise provided by <cato:entity-ref entity-type="act" value="Continuing Appropriations Resolution, 2014/s:101" proposed="true">section 101</cato:entity-ref> for <quote>Department of the Interior—Department-wide Programs—Wildland Fire Management</quote>, there is appropriated $36,000,000 for an additional amount for fiscal year 2014, to remain available until expended, for urgent wildland fire suppression activities: <italic>Provided</italic>, That of the funds provided, $15,000,000 is for burned area rehabilitation: <italic>Provided further</italic>, That such funds shall only become available if funds previously provided for wildland fire suppression will be exhausted imminently and the <cato:entity-ref entity-type="federal-body" entity-id="1400">Secretary of the Interior</cato:entity-ref> notifies the <cato:entity-ref entity-type="committee" entity-id="HAP00">Committees on Appropriations of the House of Representatives</cato:entity-ref> and the <cato:entity-ref entity-type="committee" entity-id="SSAP00">Senate</cato:entity-ref> in writing of the need for these additional funds: <italic>Provided further</italic>, That such funds are also available for transfer to other appropriations accounts to repay amounts previously transferred for wildfire suppression.</text>
+      <cato:entity entity-type="auth-approp">
+          <enum>126.</enum>
+      <text display-inline="yes-display-inline">
+            <cato:property name="purpose">In addition to the amount otherwise provided by <cato:entity-ref entity-type="act" value="Continuing Appropriations Resolution, 2014/s:101" proposed="true">section 101</cato:entity-ref> for <quote>Department of the Interior—Department-wide Programs—Wildland Fire Management</quote>
+            </cato:property>, there is appropriated <cato:funds-and-year amount="36000000" year="2014..">$36,000,000 for an additional amount for fiscal year 2014, to remain available until expended</cato:funds-and-year>, for urgent wildland fire suppression activities: <italic>Provided</italic>, That of the funds provided, $15,000,000 is for burned area rehabilitation: <italic>Provided further</italic>, That such funds shall only become available if funds previously provided for wildland fire suppression will be exhausted imminently and the <cato:entity-ref entity-type="federal-body" entity-id="1400">Secretary of the Interior</cato:entity-ref> notifies the <cato:entity-ref entity-type="committee" entity-id="HAP00">Committees on Appropriations of the House of Representatives</cato:entity-ref> and the <cato:entity-ref entity-type="committee" entity-id="SSAP00">Senate</cato:entity-ref> in writing of the need for these additional funds: <italic>Provided further</italic>, That such funds are also available for transfer to other appropriations accounts to repay amounts previously transferred for wildfire suppression.</text>
+        </cato:entity>
     </section>
     <section id="H9A27A5E869EF41A1AC76A6818564BFE4">
-      <enum>127.</enum>
-      <text display-inline="yes-display-inline">In addition to the amount otherwise provided by <cato:entity-ref entity-type="act" value="Continuing Appropriations Resolution, 2014/s:101" proposed="true">section 101</cato:entity-ref> for <quote>Department of Agriculture—Forest Service—Wildland Fire Management</quote>, there is appropriated $600,000,000 for an additional amount for fiscal year 2014, to remain available until expended, for urgent wildland fire suppression activities: <italic>Provided</italic>, That such funds shall only become available if funds previously provided for wildland fire suppression will be exhausted imminently and the <cato:entity-ref entity-type="federal-body" entity-id="1200">Secretary of Agriculture</cato:entity-ref> notifies the <cato:entity-ref entity-type="committee" entity-id="HAP00">Committees on Appropriations of the House of Representatives</cato:entity-ref> and the <cato:entity-ref entity-type="committee" entity-id="SSAP00">Senate</cato:entity-ref> in writing of the need for these additional funds: <italic>Provided further</italic>, That such funds are also available for transfer to other appropriations accounts to repay amounts previously transferred for wildfire suppression.</text>
+      <cato:entity entity-type="auth-approp">
+          <enum>127.</enum>
+      <text display-inline="yes-display-inline">
+            <cato:property name="purpose">In addition to the amount otherwise provided by <cato:entity-ref entity-type="act" value="Continuing Appropriations Resolution, 2014/s:101" proposed="true">section 101</cato:entity-ref> for <quote>Department of Agriculture—Forest Service—Wildland Fire Management</quote>
+            </cato:property>, there is appropriated <cato:funds-and-year amount="600000000" year="2014..">$600,000,000 for an additional amount for fiscal year 2014, to remain available until expended</cato:funds-and-year>, for urgent wildland fire suppression activities: <italic>Provided</italic>, That such funds shall only become available if funds previously provided for wildland fire suppression will be exhausted imminently and the <cato:entity-ref entity-type="federal-body" entity-id="1200">Secretary of Agriculture</cato:entity-ref> notifies the <cato:entity-ref entity-type="committee" entity-id="HAP00">Committees on Appropriations of the House of Representatives</cato:entity-ref> and the <cato:entity-ref entity-type="committee" entity-id="SSAP00">Senate</cato:entity-ref> in writing of the need for these additional funds: <italic>Provided further</italic>, That such funds are also available for transfer to other appropriations accounts to repay amounts previously transferred for wildfire suppression.</text>
+        </cato:entity>
     </section>
     <section id="H6DBA544DBABC4B71B009E6456C113595">
       <enum>128.</enum>
@@ -312,8 +323,11 @@
             <external-xref legal-doc="usc" parsable-cite="usc/16/2104">16 U.S.C. 2104</external-xref> note</cato:entity-ref>)</cato:entity> shall continue in effect through the date specified in <cato:entity-ref entity-type="act" value="Continuing Appropriations Resolution, 2014/s:106/p:3" proposed="true">section 106(3) of this joint resolution</cato:entity-ref>.</text>
     </section>
     <section id="H18E611543C5547A9B506F433FDD698F9">
-      <enum>129.</enum>
-      <text display-inline="yes-display-inline">Activities authorized under <cato:entity-ref entity-type="act" value="Social Security Act/t:IVandsection1108/st:b/pt:A">part A of title IV and section 1108(b) of the Social Security Act</cato:entity-ref> (except for activities authorized in <cato:entity-ref entity-type="act" value="Social Security Act/s:403/ss:b">sections 403(b)</cato:entity-ref> and <cato:entity-ref entity-type="act" value="Social Security Act/s:413/ss:h">413(h)</cato:entity-ref>) shall continue through the date specified in <cato:entity-ref entity-type="act" value="Continuing Appropriations Resolution, 2014/s:106/p:3" proposed="true">section 106(3) of this joint resolution</cato:entity-ref> in the manner authorized for fiscal year 2013, and out of any money in the Treasury of the United States not otherwise appropriated, there are hereby appropriated such sums as may be necessary for such purpose.</text>
+      <cato:entity entity-type="auth-approp">
+          <enum>129.</enum>
+      <text display-inline="yes-display-inline">
+            <cato:property name="purpose">Activities authorized under <cato:entity-ref entity-type="act" value="Social Security Act/t:IVandsection1108/st:b/pt:A">part A of title IV and section 1108(b) of the Social Security Act</cato:entity-ref> (except for activities authorized in <cato:entity-ref entity-type="act" value="Social Security Act/s:403/ss:b">sections 403(b)</cato:entity-ref> and <cato:entity-ref entity-type="act" value="Social Security Act/s:413/ss:h">413(h)</cato:entity-ref>) shall continue through the date specified in <cato:entity-ref entity-type="act" value="Continuing Appropriations Resolution, 2014/s:106/p:3" proposed="true">section 106(3) of this joint resolution</cato:entity-ref> in the manner authorized for fiscal year 2013</cato:property>, and out of any money in the Treasury of the United States not otherwise appropriated, there are hereby appropriated <cato:funds-and-year amount="indefinite" year="2014">such sums as may be necessary</cato:funds-and-year> for such purpose.</text>
+        </cato:entity>
     </section>
     <section id="H1A0C56DC8A7C4F32A29617BB3BB81CE6">
       <enum>130.</enum>
