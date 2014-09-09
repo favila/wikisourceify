@@ -1,0 +1,1738 @@
+<doc>
+  <docmeta id="113s2683is">
+    <bill congress="113" type="s" number="2683" version="is"/>
+    <revision size="69189" annotations="0" status="complete" id="9" commit-time="2014-09-05T19:44:21Z" committer="mbohmer" doc="113s2683is/9.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-Senate" public-private="public">
+  <metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S2683 IS: Clearance and Over-Classification Reform and Reduction Act</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-07-29</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code>
+    <congress>113th CONGRESS</congress>
+    <session>2d Session</session>
+    <legis-num>S. 2683</legis-num>
+    <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+    <action>
+      <action-date date="20140729">July 29, 2014</action-date>
+      <action-desc>
+        <sponsor name-id="S247">Mr. Wyden</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental Affairs</committee-name>
+      </action-desc>
+    </action>
+    <legis-type>A BILL</legis-type>
+    <official-title>To reform classification and security clearance processes throughout the Federal Government and,
+			 within the Department of Homeland Security, to establish an effective and
+			 transparent process for the designation, investigation, adjudication,
+			 denial, suspension, and revocation of security clearances, and for other
+			 purposes.</official-title>
+  </form>
+  <legis-body id="HB7D134B54FAD47BF8CF0BF697C6EF9AF" style="OLC">
+    <section id="H3D5BD796A3C8494D8A99A3D0A8AA488C" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short titles; table of contents</header>
+      <subsection id="H725C1964EB8E49F69F6821C3B0E4DCD4">
+        <enum>(a)</enum>
+        <header>Short title</header>
+        <text display-inline="yes-display-inline">This Act may be cited as the <quote>
+            <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Clearance and Over-Classification Reform and Reduction Act" proposed="true">Clearance and Over-Classification Reform and Reduction Act</cato:entity-ref>
+            </short-title>
+          </quote> or the <quote>
+            <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="CORRECT Act" proposed="true">CORRECT Act</cato:entity-ref>
+            </short-title>
+          </quote>.</text>
+      </subsection>
+      <subsection id="HB6545D38D3B749B3855991BE5EC63250">
+        <enum>(b)</enum>
+        <header>Table of contents</header>
+        <text>The table of contents for this Act is as follows:</text>
+        <toc>
+          <toc-entry idref="H3D5BD796A3C8494D8A99A3D0A8AA488C" level="section">Sec. 1. Short titles; table of contents.</toc-entry>
+					<toc-entry idref="H4D87D4CBFD914E7DA870E21AD56FBB5A" level="section">Sec. 2. Definitions.</toc-entry>
+					<toc-entry idref="H0905FD0AFFD54A7CBAD56B889EDB553F" level="title">TITLE I—Reforms to Classification and Clearance Processes</toc-entry>
+					<toc-entry idref="HE00957DC9C27466F806B552813697B42" level="subtitle">Subtitle A—Reducing Over-Classification</toc-entry>
+					<toc-entry idref="HA96353A065E546359572327AC5D525B0" level="section">Sec. 101. Trend information on classified information and third evaluations.</toc-entry>
+					<toc-entry idref="HC8929ECD14B64D75A44485A9DACDB6FA" level="section">Sec. 102. Uniformity in sampling.</toc-entry>
+					<toc-entry idref="H908844183C8749D698E6F8223319A30A" level="section">Sec. 103. Ten percent reduction in holdings of classified information.</toc-entry>
+					<toc-entry idref="H2E604C2A2F7D4847B87F1645511732D3" level="section">Sec. 104. Status update on efforts at reducing holdings of classified information.</toc-entry>
+					<toc-entry idref="HF5F754A3BA0D42A78A9F7F65758C36D9" level="section">Sec. 105. Report.</toc-entry>
+					<toc-entry idref="H8272F678041A4D65B0E454CDD5ACAF26" level="section">Sec. 106. Public Interest Declassification Board enhancements.</toc-entry>
+					<toc-entry idref="H1EBCE6C02F0245B9816516F3AB03AB17" level="section">Sec. 107. Classification designation training.</toc-entry>
+					<toc-entry idref="H4E25056413414065BAA246DB222C7871" level="section">Sec. 108. Reducing over-classification guidance.</toc-entry>
+					<toc-entry idref="H57844BB8BE73457CBB3839661A0DD376" level="subtitle">Subtitle B—Governmentwide Reforms</toc-entry>
+					<toc-entry idref="H19F7EF7AEE6541B28698DED03928ABA4" level="section">Sec. 111. Sense of Congress.</toc-entry>
+					<toc-entry idref="H18C3677EC9D6441DAE0D97B70D68F11D" level="section">Sec. 112. Report on certain designations.</toc-entry>
+					<toc-entry idref="HD2AEC940CE854F04BAAA5498E0CDCD79" level="section">Sec. 113. Transparency and accountability in personnel security investigations.</toc-entry>
+					<toc-entry idref="H1143007C59A34B98B1C6BF0E411017B0" level="section">Sec. 114. Continuous evaluation programs and insider threat programs.</toc-entry>
+					<toc-entry idref="HB6CC8FC880D5424FB3F004C859DFF927" level="section">Sec. 115. Mitigating factors in the context of a continuous evaluation program or insider threat
+			 program.</toc-entry>
+					<toc-entry idref="HF14480CD12ED4FC592664E7D2129469C" level="section">Sec. 116. Appeal to the Merit Systems Protection Board.</toc-entry>
+					<toc-entry idref="H2E27E7DBD1A544BEA0FBB19092662612" level="section">Sec. 117. Automated or nongovernmental adjudication prohibited.</toc-entry>
+					<toc-entry idref="H25ECB1F12CEA412C9C2FE6F4B3B8132A" level="section">Sec. 118. Report on media contacts policy for intelligence personnel.</toc-entry>
+					<toc-entry idref="HC75212C02FF048D88944990BA26933B8" level="title">TITLE II—Department of Homeland Security Clearance Process Reforms</toc-entry>
+					<toc-entry idref="H8F4C9C9412534A5EA86EA047B6D0D175" level="subtitle">Subtitle A—Designation</toc-entry>
+					<toc-entry idref="H55356DEE563E446D9E92D870C432E17A" level="section">Sec. 201. Designation of national security sensitive and public trust positions.</toc-entry>
+					<toc-entry idref="H01F09EB0C0A249DFAAB7061411679F42" level="section">Sec. 202. Audits.</toc-entry>
+					<toc-entry idref="H436A954372A34F96902A57B406CED040" level="section">Sec. 203. Review of position designations.</toc-entry>
+					<toc-entry idref="HA62E7F9B44404437804C97B74EE878ED" level="subtitle">Subtitle B—Investigation</toc-entry>
+					<toc-entry idref="HD6DAF29E2C8D41669B501F7D774096D8" level="section">Sec. 211. Investigation services provider performance.</toc-entry>
+					<toc-entry idref="H99C423797EFD48AEAF94C2C6E8B07FB6" level="section">Sec. 212. Metrics.</toc-entry>
+					<toc-entry idref="H1C8BBA0163BB44CA894BE781640E9232" level="subtitle">Subtitle C—Adjudication</toc-entry>
+					<toc-entry idref="H5552D18CC7FC4ECD94C4D98887FECC0A" level="section">Sec. 221. Uniform adjudication standards.</toc-entry>
+					<toc-entry idref="H1553E277143E4470BAD47554582E6263" level="subtitle">Subtitle D—Denial, Suspension, Revocation, and Appeal</toc-entry>
+					<toc-entry idref="H55F6525D01E441C0A25852FCF9ED6906" level="section">Sec. 231. Uniform revocation criteria and procedures.</toc-entry>
+					<toc-entry idref="H04DAF1EDA6144EE692A34BFEE642182B" level="section">Sec. 232. Annual reporting.</toc-entry>
+					<toc-entry idref="H4215853D0F0D4E88902EC1A386500AC7" level="section">Sec. 233. Final appeals panel.</toc-entry>
+					<toc-entry idref="H66DDEFCEDD1440758B749A98E59F94A8" level="subtitle">Subtitle E—Miscellaneous Provisions</toc-entry>
+					<toc-entry idref="HF97DC4C7163D40849B77ABA22BD8B013" level="section">Sec. 241. Intelligence Reform and Terrorism Prevention Act of 2004 review and security clearance
+			 reciprocity.</toc-entry>
+					<toc-entry idref="H57F83E68FA4E4FF1B5F9FFE91E81E6F1" level="section">Sec. 242. Office of Inspector General report.</toc-entry>
+					<toc-entry idref="HDEB5D081751946BA86199ED7584E534E" level="section">Sec. 243. Penalties for falsification relating to an investigation file.</toc-entry>
+				</toc>
+      </subsection>
+    </section>
+    <section id="H4D87D4CBFD914E7DA870E21AD56FBB5A">
+      <enum>2.</enum>
+      <header>Definitions</header>
+      <text display-inline="no-display-inline">In this Act:</text>
+      <paragraph id="H2F61A6C8056F48229B49042FB593D125">
+        <enum>(1)</enum>
+        <header>In general</header>
+        <text display-inline="yes-display-inline">The terms <quote>agency</quote>, <quote>authorized investigative agency</quote>, <quote>authorized adjudicative agency</quote>, <quote>current investigation file</quote>, <quote>periodic reinvestigations</quote>, and <quote>personnel security investigation</quote> have the meanings given those terms in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Intelligence Reform and Terrorism Prevention Act of 2004/s:3001/ss:a">section 3001(a) of the Intelligence Reform and Terrorism
+			 Prevention Act of 2004</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/50/3341">
+            <cato:entity-ref entity-type="uscode" value="usc/50/3341/a">50 U.S.C. 3341(a)</cato:entity-ref>
+          </external-xref>)</cato:entity>.</text>
+      </paragraph>
+      <paragraph commented="no" id="H4EADBAE0F1444C88A5A42B157A9A4DD1">
+        <enum>(2)</enum>
+        <header>Other terms</header>
+        <subparagraph commented="no" id="id0F7EFBC56ECB4A1C983F38FF151DCF77">
+          <enum>(A)</enum>
+          <header>Chief Security Officer of the Department of
+			 Homeland Security</header>
+          <text>The term <quote>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Security Officer" entity-parent-id="7000">Chief Security Officer of the Department of
+			 Homeland Security</cato:entity-ref>
+            </quote> means the Classified Information Advisory Officer of the Department of Homeland Security
+			 identified and designated pursuant to <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Homeland Security Act of 2002/s:210F">section 210F of the Homeland
+			 Security Act of 2002</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/6/124m">
+              <cato:entity-ref entity-type="uscode" value="usc/6/124m">6 U.S.C. 124m</cato:entity-ref>
+            </external-xref>)</cato:entity>.</text>
+        </subparagraph>
+        <subparagraph commented="no" id="H8C77C206FFE7464FBECFC17D505A80D5">
+          <enum>(B)</enum>
+          <header>Investigation service provider</header>
+          <text display-inline="yes-display-inline">The term <quote>investigation service provider</quote> means the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2400" entity-type="federal-body">Office of Personnel Management</cato:entity-ref> and any other entity that undertakes investigative
+			 services, including criminal record checks, financial record checks, field
+			 interviews, employment review, and education verifications, for an
+			 investigation file for a national security position.</text>
+        </subparagraph>
+        <subparagraph id="HCECAB93D900646EA84F9CDD46F9008AE">
+          <enum>(C)</enum>
+          <header>National security position</header>
+          <text>The term <quote>national security position</quote> has the meaning given that term in <external-xref legal-doc="regulation" parsable-cite="cfr/5/732.102">section 732.102</external-xref> of title 5, Code of Federal Regulations or
+			 similar successor regulation.</text>
+        </subparagraph>
+      </paragraph>
+    </section>
+    <title id="H0905FD0AFFD54A7CBAD56B889EDB553F">
+      <enum>I</enum>
+      <header>Reforms to Classification and Clearance Processes</header>
+      <subtitle id="HE00957DC9C27466F806B552813697B42">
+        <enum>A</enum>
+        <header>Reducing Over-Classification</header>
+        <section id="HA96353A065E546359572327AC5D525B0">
+          <enum>101.</enum>
+          <header>Trend information on classified information and third evaluations</header>
+          <text display-inline="no-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Reducing Over-Classification Act/s:6/ss:b">Subsection (b) of section 6 of the Reducing Over-Classification Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/50/3161/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/50/3161">
+              50 U.S.C. 3161
+            </external-xref> note</cato:entity-ref>; <cato:entity-ref entity-type="public-law" value="public-law/111/258">Public
+			 Law 111–258</cato:entity-ref>)</cato:entity> is amended—</text>
+          <paragraph id="H194A120761CD41C5A87B727F0E35A3E8">
+            <enum>(1)</enum>
+            <text>in paragraph (1)—</text>
+            <subparagraph id="H51D4F49E50E444D6B0AAFCCCCB3EDC7A">
+              <enum>(A)</enum>
+              <text>in the matter preceding subparagraph (A)—</text>
+              <clause id="HAE4C11F5246E4DAFA9B7786676C8C09B">
+                <enum>(i)</enum>
+                <text>by striking <quote>2016,</quote> and inserting <quote>2019,</quote>; and</text>
+              </clause>
+              <clause id="HC30ED000D0B342008FE8A58CAD1CE57C">
+                <enum>(ii)</enum>
+                <text>by striking <quote>no less than two</quote> and inserting <quote>not fewer than three</quote>;</text>
+              </clause>
+            </subparagraph>
+            <subparagraph id="H35BF74982B72492C82B9D2B7B1292FA4">
+              <enum>(B)</enum>
+              <text>in subparagraph (A), by striking <quote>and</quote> at the end;</text>
+            </subparagraph>
+            <subparagraph id="H34BAED4CBF3C42679A862B5A1023F04A">
+              <enum>(C)</enum>
+              <text>in subparagraph (B), by striking the period at the end and inserting <quote>; and</quote>; and</text>
+            </subparagraph>
+            <subparagraph id="H57108A5252174857850C972872739E0A">
+              <enum>(D)</enum>
+              <text>by adding after subparagraph (B) the following new subparagraph:</text>
+              <quoted-block display-inline="no-display-inline" id="H54A95BE17FA148F3AE22EB87B45D32F9" style="OLC">
+                <subparagraph id="HD6FC72015DDE4D75ACEB283EAC30B615">
+                  <enum>(C)</enum>
+                  <text display-inline="yes-display-inline">beginning with the second evaluation under paragraph (2)(B), to assess, with respect to
+			 subparagraph (A) of this paragraph, the degree to which the incentives for
+			 accurate classification decisions referred to in subsection (a) have been
+			 utilized, and the extent to which the use of such incentives, including
+			 cash incentives or other alternative, non-cash awards, has improved the
+			 accuracy of original classification decisions or derivative classification
+			 decisions and a reduction in classified information.</text>
+                </subparagraph>
+                <after-quoted-block>;</after-quoted-block>
+              </quoted-block>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="H352AF76AB46E4576ACF5DDB2F8494C1B">
+            <enum>(2)</enum>
+            <text>in paragraph (2), by adding at the end the following new subparagraph:</text>
+            <quoted-block display-inline="no-display-inline" id="H57F6E86B88AB4D01B97974558D49E74C" style="OLC">
+              <subparagraph commented="no" id="H11BC868ACF08471C883A37F294211C74">
+                <enum>(C)</enum>
+                <header>Third evaluations</header>
+                <text display-inline="yes-display-inline">Each third evaluation required by paragraph (1) shall review progress made since the second
+			 evaluation and the adequacy of the records to support each self-inspection
+			 program determination in accordance with subsection (c), and assess such
+			 department or agency’s procedures and activities regarding classification
+			 challenges. Specifically, each third evaluation shall—</text>
+                <clause commented="no" id="H59F1C7383C544EE991D691A090D92A79">
+                  <enum>(i)</enum>
+                  <subclause commented="no" display-inline="yes-display-inline" id="H827B7528C4A24ECC9880D6A3EEBA9447">
+                    <enum>(I)</enum>
+                    <text>assess implementation of procedures by such department or agency to encourage authorized holders of
+			 classified information, including authorized holders outside the
+			 classifying agency, to challenge the classification of information that
+			 they believe is improperly classified or unclassified, as required by
+			 section 1.8 of Executive Order 13526 (<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/50/3161/note">
+                        <external-xref legal-doc="usc" parsable-cite="usc/50/3161">
+                        50 U.S.C. 3161
+                      </external-xref> note</cato:entity-ref>) or successor
+			 order, and the degree to which such department or agency makes each
+			 authorized holder of classified information aware of the procedures and
+			 encourages such holders to challenge the classification of information
+			 that they believe is improperly classified or unclassified; and</text>
+                  </subclause>
+                  <subclause commented="no" id="HA1343EC0863E48EAAAA9119BF01FCDCC" indent="up1">
+                    <enum>(II)</enum>
+                    <text>to the extent practicable, review data reflecting the disposition of challenges received by such
+			 department or agency, including how often such challenges resulted in a
+			 change in classification;</text>
+                  </subclause>
+                </clause>
+                <clause commented="no" id="HA9E6933749F245BBA6FD33413D71A840">
+                  <enum>(ii)</enum>
+                  <text>review the degree to which information that was declassified was determined by the agency to be of
+			 extraordinary public interest that does not undermine the national
+			 security of the United States, including information on the number of
+			 national security positions (pursuant to part 732 of title 5, Code of
+			 Federal Regulations, or similar successor regulation), by classification
+			 level, that are designated within
+			 the agency during that period; and</text>
+                </clause>
+                <clause id="HE11C239A5C9D42F88A443D2A650AB0EE">
+                  <enum>(iii)</enum>
+                  <text>shall be completed not later than September 30, 2019.</text>
+                </clause>
+              </subparagraph>
+              <after-quoted-block>; and</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+          <paragraph id="HB58857251C2544A2868AFF208769EA64">
+            <enum>(3)</enum>
+            <text>in paragraph (3)(B)—</text>
+            <subparagraph id="H610FB15E36704B1BB2DD99349B34D78B">
+              <enum>(A)</enum>
+              <text>in clause (i), by striking <quote>and</quote> at the end;</text>
+            </subparagraph>
+            <subparagraph id="HCF42F85D0E25430AA767AA8B8AD4ADAF">
+              <enum>(B)</enum>
+              <text>in clause (ii), by striking the period at the end and inserting <quote>; and</quote>; and</text>
+            </subparagraph>
+            <subparagraph id="HF9FD9D0F6B554966B001B11406B617E4">
+              <enum>(C)</enum>
+              <text>by adding after clause (ii) the following new clause:</text>
+              <quoted-block display-inline="no-display-inline" id="H947C954EC2C64DEA9C747BDBED79367A" style="OLC">
+                <clause id="H26FDA7B4EB204E57BDD1429C9DB6A1ED">
+                  <enum>(iii)</enum>
+                  <text display-inline="yes-display-inline">information relating to the assessment required under paragraph (1)(C).</text>
+                </clause>
+                <after-quoted-block>.</after-quoted-block>
+              </quoted-block>
+            </subparagraph>
+          </paragraph>
+        </section>
+        <section id="HC8929ECD14B64D75A44485A9DACDB6FA">
+          <enum>102.</enum>
+          <header>Uniformity in sampling</header>
+          <text display-inline="no-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Reducing Over-Classification Act/s:6">Section 6 of the Reducing Over-Classification Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/50/3161/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/50/3161">
+              50 U.S.C. 3161
+            </external-xref> note</cato:entity-ref>; <external-xref legal-doc="public-law" parsable-cite="pl/111/258">
+              <cato:entity-ref entity-type="public-law" value="public-law/111/258">Public Law 111–258</cato:entity-ref>
+            </external-xref>)</cato:entity> is
+			 amended by adding at the end the following new subsection:</text>
+          <quoted-block display-inline="no-display-inline" id="H511EEC538ACB4188924DFC5287BBDB15" style="OLC">
+            <subsection id="H13CFC88936204295B50632F64274C38B">
+              <enum>(c)</enum>
+              <header>Uniformity in sampling</header>
+              <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>, acting through the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Information Security Oversight Office" entity-parent-id="8800">Director of the Information Security Oversight Office</cato:entity-ref>, shall
+			 issue a standardized sampling technique for department and agency
+			 self-inspection programs as required pursuant to Executive Order 13526 (<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/50/3161/note">50
+			 U.S.C. 3161 note</cato:entity-ref>) or successor
+			 order in order to address any vulnerabilities in such
+			 programs.</text>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </section>
+        <section id="H908844183C8749D698E6F8223319A30A">
+          <enum>103.</enum>
+          <header>Ten percent reduction in holdings of classified information</header>
+          <text display-inline="no-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Reducing Over-Classification Act/s:6">Section 6 of the Reducing Over-Classification Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/50/3161/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/50/3161">
+              50 U.S.C. 3161
+            </external-xref> note</cato:entity-ref>; <external-xref legal-doc="public-law" parsable-cite="pl/111/258">
+              <cato:entity-ref entity-type="public-law" value="public-law/111/258">Public Law 111–258</cato:entity-ref>
+            </external-xref>)</cato:entity>, as
+			 amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Clearance and Over-Classification Reform and Reduction Act/s:102" proposed="true">section 102</cato:entity-ref> of this Act, is further amended by adding at the
+			 end the following new subsection:</text>
+          <quoted-block display-inline="no-display-inline" id="H8BC3D70067C74953A483520A97BDEBD7" style="OLC">
+            <subsection commented="no" id="H8624D9BDE9F0465AAB0EF266D09CF3E7">
+              <enum>(d)</enum>
+              <header>Ten percent reduction in holding of classified information</header>
+              <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> shall establish goals for reducing, by the date that is not later than five years
+			 after the date of the enactment of this subsection, classified
+			 information, through declassification and improved original and derivative
+			 classification decisionmaking, by not less than ten percent as compared
+			 to the amount of such information as of the day before such date. For
+			 purposes of this subsection, classified information that would otherwise
+			 be declassified pursuant to Executive Order 13526 (<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/50/3161/note">
+                  <external-xref legal-doc="usc" parsable-cite="usc/50/3161">
+                  50 U.S.C. 3161
+                </external-xref> note</cato:entity-ref>)
+			 or successor order shall not count towards such ten percent requirement.</text>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </section>
+        <section commented="no" id="H2E604C2A2F7D4847B87F1645511732D3">
+          <enum>104.</enum>
+          <header>Status update on efforts at reducing holdings of classified information</header>
+          <text display-inline="no-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Public Interest Declassification Act of 2000/s:704/ss:d/p:1">Section 704(d)(1) of the Public Interest Declassification Act of 2000</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/50/3161/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/50/3161">
+              50 U.S.C. 3161
+            </external-xref> note</cato:entity-ref>; <cato:entity-ref entity-type="public-law" value="public-law/106/567">Public
+			 Law 106–567</cato:entity-ref>)</cato:entity> is amended by striking the period and inserting <quote>and information on the status of efforts, to the extent practicable on an agency-by-agency basis,
+			 at reducing the holding of classified information pursuant to <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Reducing Over-Classification Act/s:6/ss:d" proposed="true">section 6(d)
+			 of the Reducing Over-Classification Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/50/3161/note">
+                  <external-xref legal-doc="usc" parsable-cite="usc/50/3161">
+                50 U.S.C. 3161
+              </external-xref> note</cato:entity-ref>; <cato:entity-ref entity-type="public-law" value="public-law/111/258">Public Law
+			 111–258</cato:entity-ref>)</cato:entity>.</quote>.</text>
+        </section>
+        <section id="HF5F754A3BA0D42A78A9F7F65758C36D9">
+          <enum>105.</enum>
+          <header>Report</header>
+          <text display-inline="no-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Reducing Over-Classification Act/s:6">Section 6 of the Reducing Over-Classification Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/50/3161/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/50/3161">
+              50 U.S.C. 3161
+            </external-xref> note</cato:entity-ref>; <external-xref legal-doc="public-law" parsable-cite="pl/111/258">
+              <cato:entity-ref entity-type="public-law" value="public-law/111/258">Public Law 111–258</cato:entity-ref>
+            </external-xref>)</cato:entity>, as
+			 amended by sections 102 and 103 of this Act, is further amended by adding
+			 at the end the following new subsection:</text>
+          <quoted-block display-inline="no-display-inline" id="H23E123434F2149C08DBB231C0AC1D39F" style="OLC">
+            <subsection id="HC5C3AD05036C42719A8489AA77BE76B6">
+              <enum>(e)</enum>
+              <header>Report</header>
+              <text display-inline="yes-display-inline">The Inspector General of each department or agency of the United States with an officer or employee
+			 who is authorized to make original and derivative classification decisions
+			 shall submit to the appropriate entities (as such term is defined in
+			 subsection (b)(4)) a report relating to progress accomplished under
+			 subsections (c) and (d).</text>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </section>
+        <section commented="no" id="H8272F678041A4D65B0E454CDD5ACAF26">
+          <enum>106.</enum>
+          <header>Public Interest Declassification Board enhancements</header>
+          <subsection commented="no" id="H6E0830DDC9884D5CAF33FE94BCC837BA">
+            <enum>(a)</enum>
+            <header>Reviews of classification guidance</header>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Public Interest Declassification Act of 2000/s:704/ss:a">Subsections (a)</cato:entity-ref> and <cato:entity-ref entity-type="act" value="Public Interest Declassification Act of 2000/s:704/ss:b">(b) of section 704 of the Public Interest Declassification Act of 2000</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/50/3161/note">50
+			 U.S.C. 3161 note</cato:entity-ref>; <external-xref legal-doc="public-law" parsable-cite="pl/106/567">
+                <cato:entity-ref entity-type="public-law" value="public-law/106/567">Public Law 106–567</cato:entity-ref>
+              </external-xref>)</cato:entity> are amended to read as follows:</text>
+            <quoted-block display-inline="no-display-inline" id="H1DB19F4A549943DB9F04AAFCB182000A" style="OLC">
+              <subsection commented="no" id="HCE68B45D48B241E9A4662DCB077C9ABC">
+                <enum>(a)</enum>
+                <header>Agency declassification programs and classification guidance</header>
+                <paragraph commented="no" id="H8B012B42B15749B883AB10FA8F19F9BD">
+                  <enum>(1)</enum>
+                  <header>Declassification programs</header>
+                  <subparagraph commented="no" id="H66B38EF3CDF140D9BD73D34323A0F0B4">
+                    <enum>(A)</enum>
+                    <header>Report</header>
+                    <text>The head of any agency with the authority under an Executive order to classify information shall
+			 annually provide to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Interest Declassification Board">Board</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SLIN00" entity-type="committee">Select Committee on Intelligence of the
+			 Senate</cato:entity-ref>, and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HIG00" entity-type="committee">Permanent Select Committee on Intelligence of the House of
+			 Representatives</cato:entity-ref> a summary briefing and report on the progress and plans of
+			 such agency in the declassification of national security information.</text>
+                  </subparagraph>
+                  <subparagraph commented="no" id="HD21F97BBC0FB446C86BFB98E2A9F223B">
+                    <enum>(B)</enum>
+                    <header>Contents</header>
+                    <text>Each briefing and report required under subparagraph (A) shall—</text>
+                    <clause commented="no" id="H67D90293F9C441C0B9251C1B70C8E686">
+                      <enum>(i)</enum>
+                      <text>cover the declassification goals set by statute, regulation, or policy, the progress of the agency
+			 towards completing such goals, and the planned goals and priorities of the
+			 agency for its declassification activities over the 2 fiscal years
+			 following the report;</text>
+                    </clause>
+                    <clause commented="no" id="H61AB3DDE8DBA4FF48D6FA7F7E2BE753F">
+                      <enum>(ii)</enum>
+                      <text>give particular attention to progress on the declassification of records and materials that are of
+			 extraordinary public interest to the people of the United States; and</text>
+                    </clause>
+                    <clause commented="no" id="HAABF9AD266C744AEAC2AB0A9081B3EEA">
+                      <enum>(iii)</enum>
+                      <text>include information on the disposition of recommendations regarding special searches for records of
+			 extraordinary public interest submitted pursuant to subsection (c).</text>
+                    </clause>
+                  </subparagraph>
+                  <subparagraph commented="no" id="H48B17AD082EA402C83CE8ACB73CE4606">
+                    <enum>(C)</enum>
+                    <header>Consolidated report</header>
+                    <text>The annual briefing and report under subparagraph (A) for agencies within the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Department of
+			 Defense</cato:entity-ref>,
+			 including the military departments and the elements of the intelligence
+			 community (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                        <cato:entity-ref entity-type="act" value="National Security Act of 1947/s:3/p:4">section 3(4) of the National Security Act of 1947</cato:entity-ref>
+			 (<external-xref legal-doc="usc" parsable-cite="usc/50/3003">
+                        <cato:entity-ref entity-type="uscode" value="usc/50/3003//4">50 U.S.C. 3003(4)</cato:entity-ref>
+                      </external-xref>)</cato:entity>), shall be provided on a consolidated basis.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph commented="no" id="H5E1960F6BBC6411ABB1FDCDA182CEB7A">
+                  <enum>(2)</enum>
+                  <header>Review of classification guidance</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Interest Declassification Board">Board</cato:entity-ref> shall, on an ongoing basis, review classification guidance required pursuant to Executive
+			 Order 13526 (<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/50/3161/note">
+                      <external-xref legal-doc="usc" parsable-cite="usc/50/3161">
+                      50 U.S.C. 3161
+                    </external-xref> note</cato:entity-ref>) or successor order utilized within
+			 each agency to assess—</text>
+                  <subparagraph commented="no" id="H20A6453C8BA64311BD22A6EEC8BC68DA">
+                    <enum>(A)</enum>
+                    <text>the validity of the national security basis for each instruction in the classification guidance;</text>
+                  </subparagraph>
+                  <subparagraph commented="no" id="H4A87FCF5C54E4B1AB68AD1AC2D82A7A1">
+                    <enum>(B)</enum>
+                    <text>the clarity of each instruction within the classification guidance to ensure that only the minimum
+			 necessary information is classified; and</text>
+                  </subparagraph>
+                  <subparagraph commented="no" id="H54E705430C484A82A39D7AEEAD5CF294">
+                    <enum>(C)</enum>
+                    <text>the feasibility of narrowing or eliminating any classification guidance that is unnecessary or
+			 obsolete.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph commented="no" id="H2946B8416B624F2B86FAC1BA1E7DEE00">
+                  <enum>(3)</enum>
+                  <header>Plan for reviewing classification guidance</header>
+                  <text>Not later than 90 days after the date of the enactment of the <short-title>
+                      <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Clearance and Over-Classification Reform and Reduction Act" proposed="true">Clearance and Over-Classification Reform and Reduction Act</cato:entity-ref>
+                    </short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Interest Declassification Board">Chairperson of the Board</cato:entity-ref> shall submit a
+			 multi-year plan for reviewing classification guidance utilized within each
+			 agency, with benchmarks for when and, to the extent practicable, which
+			 classification guidance will be reviewed and how the findings will be
+			 shared with the head of each agency and the inspector general of each
+			 agency.</text>
+                </paragraph>
+                <paragraph commented="no" id="HD5E4B8BC3A4E43868DCB7CC1D9B5FF12">
+                  <enum>(4)</enum>
+                  <header>Recommendations for harmonizing and reducing classification guidance</header>
+                  <text>Not later than one year after the date of the enactment of the <short-title>
+                      <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Clearance and Over-Classification Reform and Reduction Act" proposed="true">Clearance and Over-Classification Reform and Reduction Act</cato:entity-ref>
+                    </short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Interest Declassification Board">Chairperson of the Board</cato:entity-ref>
+			 shall submit recommendations for harmonizing and reducing classification
+			 guidance across the Federal Government to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref>.</text>
+                </paragraph>
+              </subsection>
+              <subsection commented="no" id="HC35CD5856CA5411B8220B50AF32C8038">
+                <enum>(b)</enum>
+                <header>Recommendations on agency declassification programs and classification guidance</header>
+                <paragraph commented="no" id="H05626FDDD8004297813D215B6F3345EA">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text display-inline="yes-display-inline">Upon reviewing classification guidance and discussing declassification plans and progress with an
+			 agency, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Interest Declassification Board">Board</cato:entity-ref> shall provide to the head of that agency, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1103" entity-type="federal-body">Director
+			 of the Office of Management and Budget</cato:entity-ref>, and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body">Assistant to the President
+			 for National Security Affairs</cato:entity-ref> the written recommendations of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Interest Declassification Board">Board</cato:entity-ref> as
+			 to how the classification guidance and declassification program of the
+			 agency could be improved.</text>
+                </paragraph>
+                <paragraph commented="no" id="H69C28AE080174897908A7D75072799A7">
+                  <enum>(2)</enum>
+                  <header>Public availability</header>
+                  <text>Not later than 60 days after the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Interest Declassification Board">Board</cato:entity-ref> provides written recommendations to the head of an agency in
+			 accordance with paragraph (1), the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Interest Declassification Board">Board</cato:entity-ref> shall make such recommendations
+			 public in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Interest Declassification Act of 2000/s:703/ss:k">section 703(k)</cato:entity-ref>.</text>
+                </paragraph>
+              </subsection>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </subsection>
+          <subsection commented="no" id="H640E000560DD44AD858D977B4F9DD182">
+            <enum>(b)</enum>
+            <header>Staff and detailees</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Interest Declassification Act of 2000/s:703/ss:f">Subsection (f) of section 703 of such Act</cato:entity-ref> is amended to read as follows:</text>
+            <quoted-block display-inline="no-display-inline" id="H946B6FABB75B4915BC27AF2C159DB71C" style="OLC">
+              <subsection commented="no" id="HCEF15A8BC1824F888442D8EE66D6A944">
+                <enum>(f)</enum>
+                <header>Director and Staff</header>
+                <paragraph id="H104ED51F1D5E44919B8556124CB22086">
+                  <enum>(1)</enum>
+                  <header>Director</header>
+                  <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Interest Declassification Board">Chairperson of the Board</cato:entity-ref>, in accordance with rules agreed upon by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Interest Declassification Board">Board</cato:entity-ref>, shall appoint and
+			 fix the compensation of a Director, except that no rate of pay fixed
+			 under this paragraph may exceed the equivalent of that payable for a
+			 position at level V of the Executive Schedule under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/5316">section 5316 of title
+			 5, United States Code</cato:entity-ref>.</text>
+                </paragraph>
+                <paragraph id="H973E3E8CDCD8414FAB2046923722EF15">
+                  <enum>(2)</enum>
+                  <header>Staff</header>
+                  <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Interest Declassification Board">Chairperson of the Board</cato:entity-ref>, in accordance with rules agreed upon by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Interest Declassification Board">Board</cato:entity-ref>, may appoint and
+			 fix the pay of personnel as may be necessary to enable the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Interest Declassification Board">Board</cato:entity-ref> to carry
+			 out its functions.</text>
+                </paragraph>
+                <paragraph commented="no" id="H2E333F12C6294A54862679DF58A002EA">
+                  <enum>(3)</enum>
+                  <header>Applicability of certain civil service laws</header>
+                  <text>The Director and staff may be appointed without regard to the provisions of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5">title 5, United States
+			 Code</cato:entity-ref>, governing appointments in the competitive service, and may be paid
+			 without regard to the provisions of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/51">chapter 51</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/53/III">subchapter III of
+			 chapter 53</cato:entity-ref> of such title relating to classification and General Schedule
+			 pay rates.</text>
+                </paragraph>
+                <paragraph commented="no" id="HD0ABAD252A7042D2B074C56AC002797D">
+                  <enum>(4)</enum>
+                  <header>Detailees</header>
+                  <text>Any employee of the Federal Government may be detailed to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Interest Declassification Board">Board</cato:entity-ref> with the agreement of, and
+			 without reimbursement to, the detailing agency, and such detail shall be
+			 without interruption or loss of civil, military, or foreign service status
+			 or privilege.</text>
+                </paragraph>
+              </subsection>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </subsection>
+          <subsection commented="no" id="H0123912900134B138EDB33AE40C2BBB2">
+            <enum>(c)</enum>
+            <header>Compensation and travel expenses</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Interest Declassification Act of 2000/s:703/ss:h">Subsection (h) of section 703 of such Act</cato:entity-ref> is amended to read as follows:</text>
+            <quoted-block display-inline="no-display-inline" id="HA184DA3E06ED4BCEBE2028B7E78897BE" style="OLC">
+              <subsection commented="no" id="H439909A6F9EA4FE490B2C2FD78A6F3A5">
+                <enum>(h)</enum>
+                <header>Compensation and travel expenses</header>
+                <paragraph commented="no" id="H90892A4B9D7B4223AC5F4935506A26D2">
+                  <enum>(1)</enum>
+                  <header>Compensation</header>
+                  <subparagraph commented="no" id="H9944A3FD22904CDDB6396F99741D5515">
+                    <enum>(A)</enum>
+                    <header>Chairperson</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Interest Declassification Board">Chairperson of the Board</cato:entity-ref> shall be compensated at the rate of pay payable for a position at
+			 level III of the Executive Schedule under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/5314">
+                        <external-xref legal-doc="usc" parsable-cite="usc/5/5314">section 5314</external-xref> of title 5, United
+			 States Code</cato:entity-ref>.</text>
+                  </subparagraph>
+                  <subparagraph commented="no" id="HB2B88F84E7A1473B9CBF3FCBBA2DC479">
+                    <enum>(B)</enum>
+                    <header>Members</header>
+                    <text>Each member of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Interest Declassification Board">Board</cato:entity-ref> shall be compensated at a rate of pay payable for a position at level IV
+			 of the Executive Schedule under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/5315">section 5315 of such title</cato:entity-ref>, for each day
+			 during which that member is engaged in the actual performance of the
+			 duties of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Interest Declassification Board">Board</cato:entity-ref>.</text>
+                  </subparagraph>
+                </paragraph>
+                <paragraph commented="no" id="H3F1CE29C0B7846DF828B21DE8ED9AB14">
+                  <enum>(2)</enum>
+                  <header>Travel expenses</header>
+                  <text>Members of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Interest Declassification Board">Board</cato:entity-ref> shall receive travel expenses, including per diem in lieu of subsistence, in
+			 accordance with applicable provisions under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/57/I">subchapter I of chapter 57 of
+			 title 5, United States Code</cato:entity-ref>.</text>
+                </paragraph>
+              </subsection>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </subsection>
+          <subsection commented="no" id="HC5F4E7771B024A0F8769B1383EC13100">
+            <enum>(d)</enum>
+            <header>Public meetings</header>
+            <text>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Interest Declassification Act of 2000/s:704/ss:c">Section 704(c) of such Act</cato:entity-ref> is amended by adding at the end the following new paragraph:</text>
+            <quoted-block display-inline="no-display-inline" id="HF0D7AFC5CDB046989BFA8305D5DE8A16" style="traditional">
+              <paragraph id="H798934B4CFFE41D8A0004DA3D22BA86B" indent="up1">
+                <enum>(3)</enum>
+                <text>In carrying out this subsection, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Public Interest Declassification Board">Board</cato:entity-ref> shall conduct public meetings on at least a semiannual
+			 basis and publish in the Federal Register notice of such meetings.</text>
+              </paragraph>
+              <after-quoted-block>. </after-quoted-block>
+            </quoted-block>
+          </subsection>
+          <subsection commented="no" id="HDEEEDD54F18544AC9B1DA1B54FC32748">
+            <enum>(e)</enum>
+            <header>Extension of sunset</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Interest Declassification Act of 2000/s:710/ss:b">Subsection (b) of section 710 of such Act</cato:entity-ref> is amended by striking <quote>2018.</quote> and inserting <quote>2024.</quote>.</text>
+          </subsection>
+        </section>
+        <section id="H1EBCE6C02F0245B9816516F3AB03AB17">
+          <enum>107.</enum>
+          <header>Classification designation training</header>
+          <text display-inline="no-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Reducing Over-Classification Act/s:7">Section 7 of the Reducing Over-Classification Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/50/3344">
+              <cato:entity-ref entity-type="uscode" value="usc/50/3344">50 U.S.C. 3344</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended—</text>
+          <paragraph commented="no" id="HA527AD2126AA47D09A9022F77B828F88">
+            <enum>(1)</enum>
+            <text>in subsection (a), in the matter preceding paragraph (1)—</text>
+            <subparagraph commented="no" id="H7A02F1CC5A37476E9640BD52F669ED81">
+              <enum>(A)</enum>
+              <text>in the first sentence, by inserting <quote>, including computer-based training,</quote> after <quote>annual training</quote>; and</text>
+            </subparagraph>
+            <subparagraph commented="no" id="HBFA2FE422A8D4057B137DE3C8B3B8FBA">
+              <enum>(B)</enum>
+              <text>in the second sentence, by inserting <quote>such</quote> before <quote>training</quote>; and</text>
+            </subparagraph>
+          </paragraph>
+          <paragraph commented="no" id="HF0AEF821E12B421B98A2F14D23364C49">
+            <enum>(2)</enum>
+            <text>by adding at the end the following new subsection:</text>
+            <quoted-block display-inline="no-display-inline" id="H1CE5514BADA249CB8686C3BE2146D156" style="OLC">
+              <subsection commented="no" id="H62662DB16CE745FAB49F81F74EFDB0C7">
+                <enum>(c)</enum>
+                <header>Recordkeeping</header>
+                <text display-inline="yes-display-inline">The head of each Executive agency shall maintain records and make such records available to the
+			 inspector general of each such agency of the extent to which training
+			 required under this section is completed by each employee subject to such
+			 training.</text>
+              </subsection>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+        </section>
+        <section id="H4E25056413414065BAA246DB222C7871">
+          <enum>108.</enum>
+          <header>Reducing over-classification guidance</header>
+          <text display-inline="no-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> shall develop and disseminate to components of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of
+			 Homeland Security</cato:entity-ref> and make available to other agencies guidance on best
+			 practices and strategies to implement the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Reducing Over-Classification Act">Reducing Over-Classification Act</cato:entity-ref>
+			 (<external-xref legal-doc="public-law" parsable-cite="pl/111/258">
+              <cato:entity-ref entity-type="public-law" value="public-law/111/258">Public Law 111–258</cato:entity-ref>
+            </external-xref>; <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/124/2648">124 Stat. 2648</cato:entity-ref>)</cato:entity>, as amended by this Act. Such
+			 guidance shall include
+			 information on the following:</text>
+          <paragraph id="H74141ACC40B4459E857B54AC7B9CA94B">
+            <enum>(1)</enum>
+            <text>Administrative approaches, including the establishment of internal quarterly meetings and working
+			 groups to carry out the requirements of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Reducing Over-Classification Act">Reducing Over-Classification
+			 Act</cato:entity-ref>.</text>
+          </paragraph>
+          <paragraph id="H56DD5B65AC7549A28F70E75B083E435E">
+            <enum>(2)</enum>
+            <text>Consolidation of information security policies throughout an agency.</text>
+          </paragraph>
+          <paragraph id="H1C221745A0974ECC9748A4D7385A314D">
+            <enum>(3)</enum>
+            <text>Provision of training, including in-person initial training and computer-based recurrent training,
+			 in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Reducing Over-Classification Act/s:7" proposed="true">section 7 of the Reducing Over-Classification Act</cato:entity-ref>, as
+			 amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Clearance and Over-Classification Reform and Reduction Act/s:107" proposed="true">section 107 of this Act</cato:entity-ref>.</text>
+          </paragraph>
+          <paragraph id="H949FB5DD52D146E8B9D0FD5822575A4C">
+            <enum>(4)</enum>
+            <text>Adoption of uniform formats for the preparation, production, or publication of classified
+			 information.</text>
+          </paragraph>
+          <paragraph commented="no" id="HB1E515BCE3BB44AD9BCADD80147EBC44">
+            <enum>(5)</enum>
+            <text>Ways to encourage an authorized holder of classified information to challenge the classification of
+			 information that such holder believes is improperly classified or
+			 unclassified, as required by section 1.8 of Executive Order 13526 (<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/50/3161/note">50
+			 U.S.C. 3161 note</cato:entity-ref>) or successor order.</text>
+          </paragraph>
+        </section>
+      </subtitle>
+      <subtitle id="H57844BB8BE73457CBB3839661A0DD376">
+        <enum>B</enum>
+        <header>Governmentwide Reforms</header>
+        <section id="H19F7EF7AEE6541B28698DED03928ABA4">
+          <enum>111.</enum>
+          <header>Sense of Congress</header>
+          <text display-inline="no-display-inline">It is the sense of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> that a position shall only be designated as a national security
+			 position if access to classified information is required or if that
+			 position—</text>
+          <paragraph id="HDFA4156F9C2642EA89636871E47D01D9">
+            <enum>(1)</enum>
+            <text>presents a risk of a material adverse effect on the national security (as described in section
+			 732.201 of title 5, Code of Federal Regulations, or similar successor
+			 regulation); and</text>
+          </paragraph>
+          <paragraph id="HE470E0A82AA34EEC82048D329CF30524">
+            <enum>(2)</enum>
+            <text display-inline="yes-display-inline">is determined to be a public trust position (as described in <external-xref legal-doc="usc" parsable-cite="usc/5/731">section 731.106</external-xref> of title 5, Code of
+			 Federal Regulations, or similar successor regulation).</text>
+          </paragraph>
+        </section>
+        <section id="H18C3677EC9D6441DAE0D97B70D68F11D">
+          <enum>112.</enum>
+          <header>Report on certain designations</header>
+          <subsection commented="no" id="H9B34F884115F47B39571983D9E62D47F">
+            <enum>(a)</enum>
+            <header>Report</header>
+            <text>Not later than 6 months after the date of the enactment of this Act and biannually thereafter, the
+			 head
+			 of each agency with the authority to designate a national security
+			 position shall submit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a report that provides information
+			 regarding any national security position for which access to classified
+			 materials is not required and the position is not determined to be a
+			 public trust position (as described in <external-xref legal-doc="usc" parsable-cite="usc/5/731">section 731.106</external-xref> of title 5, Code of
+			 Federal Regulations, or similar successor regulation).</text>
+          </subsection>
+          <subsection commented="no" id="H9C8C129D56354A5B920B7A989A14EEAC">
+            <enum>(b)</enum>
+            <header>Contents</header>
+            <text>The report required under subsection (a) shall include—</text>
+            <paragraph commented="no" id="H69EFCD113F1F4B3FA35A47303F6EE58B">
+              <enum>(1)</enum>
+              <text display-inline="yes-display-inline">a description for the position, including specific information on duties and day-to-day operations;</text>
+            </paragraph>
+            <paragraph commented="no" id="H290D69B55B104933820E20DA3AF7D000">
+              <enum>(2)</enum>
+              <text>the history of the position’s national security position designation, including whether the
+			 position is newly created or was transferred from another department,
+			 division, or program;</text>
+            </paragraph>
+            <paragraph commented="no" id="H920C96AFB8034530AACB94E27D260452">
+              <enum>(3)</enum>
+              <text>an explanation of the position’s national security position designation and whether
+			 responsibilities have been added to the position to explain the
+			 designation;</text>
+            </paragraph>
+            <paragraph commented="no" id="H112CDC3E54B844988AB7F150CFD4DB06">
+              <enum>(4)</enum>
+              <text>an explanation of the national security implications of the position;</text>
+            </paragraph>
+            <paragraph commented="no" id="H677C60F5CFAC446498C85FBA604BE949">
+              <enum>(5)</enum>
+              <text>the advertising and recruitment mechanisms used to fill the position;</text>
+            </paragraph>
+            <paragraph commented="no" id="H57399F30F4A94D3DB03054CF3C19D803">
+              <enum>(6)</enum>
+              <text>information on the individual who holds the position, including as appropriate, information on
+			 periods when the individual had previously held a national security
+			 position; and</text>
+            </paragraph>
+            <paragraph commented="no" id="HD40B5E7936D245F7A55E089F2672EB74">
+              <enum>(7)</enum>
+              <text display-inline="yes-display-inline">demographic information on the individual who holds the position, including age, gender, race,
+			 ethnicity, employment status, and geographic location.</text>
+            </paragraph>
+          </subsection>
+          <subsection commented="no" id="H1E609BB46478456A865612EAE9CC669F">
+            <enum>(c)</enum>
+            <header>Public report</header>
+            <text>The report required under subsection (a) shall be submitted in unclassified form and be made
+			 publicly available, but may include a classified annex for any sensitive
+			 or classified information if necessary.</text>
+          </subsection>
+        </section>
+        <section id="HD2AEC940CE854F04BAAA5498E0CDCD79">
+          <enum>113.</enum>
+          <header>Transparency and accountability in personnel security investigations</header>
+          <subsection id="H79FB7269D2FC466998658BC57473D585">
+            <enum>(a)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">Not later than 120 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Director of National Intelligence">Director of National
+			 Intelligence</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2400" entity-type="federal-body">Director of the Office of Personnel Management</cato:entity-ref> shall
+			 establish requirements for a uniform markings process to identify the
+			 investigation service provider that originated each piece of information
+			 in a current investigation file.</text>
+          </subsection>
+          <subsection id="HE140B7D928934156B073CDB2C936869C">
+            <enum>(b)</enum>
+            <header>Utilization</header>
+            <paragraph commented="no" id="H6BC032072B5A4431851419609DC5E450">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text display-inline="yes-display-inline">Not later than 90 days after the establishment of the uniform markings process pursuant to
+			 subsection (a), investigation service providers shall utilize such uniform
+			 markings process and make available, upon request by the authorized
+			 adjudicative agency, all documents in a current investigation file.</text>
+            </paragraph>
+            <paragraph id="HB966B0304C6B435794107CCDF6944F64">
+              <enum>(2)</enum>
+              <header>Exception</header>
+              <text>This subsection shall not apply to a personnel security investigation that an agency conducts using
+			 its own personnel, under delegated or statutory authority.</text>
+            </paragraph>
+          </subsection>
+        </section>
+        <section commented="no" id="H1143007C59A34B98B1C6BF0E411017B0">
+          <enum>114.</enum>
+          <header>Continuous evaluation programs and insider threat programs</header>
+          <subsection id="H99781144EF0D4F2F9FAE4F626CF97E30">
+            <enum>(a)</enum>
+            <header>Findings</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> finds the following:</text>
+            <paragraph id="H90FDC0005E0A4D76B677D75524010DE6">
+              <enum>(1)</enum>
+              <text>The term <quote>continuous evaluation</quote>, as defined in Executive Order 13467 (<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/50/3161/note">
+                  <external-xref legal-doc="usc" parsable-cite="usc/50/3161">
+                  50 U.S.C. 3161
+                </external-xref> note</cato:entity-ref>), means reviewing the background of an
+			 individual who has been
+			 determined to be eligible for access to classified information at any time
+			 during the period of eligibility.</text>
+            </paragraph>
+            <paragraph id="HCFDBAC0FD6C94D088374BEBEA7649DBA">
+              <enum>(2)</enum>
+              <text>Since 1998, at least 10 continuous evaluation pilot studies have been carried out by Federal
+			 agencies to monitor the individuals with security clearances on an ongoing
+			 basis.</text>
+            </paragraph>
+            <paragraph id="HCD5784EAB26540A7AF9A38FFB3CC5D4A">
+              <enum>(3)</enum>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Department of Defense</cato:entity-ref> has conducted multiple continuous evaluation pilots since early 2002 and
+			 has more than one pilot that is ongoing as of July 1, 2014. By October
+			 2014, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="9700">Department</cato:entity-ref> anticipates 100,000 people to be subject to
+			 continuous evaluation with the population steadily rising to 1,000,000 by
+			 2017.</text>
+            </paragraph>
+            <paragraph id="HFF01387661274772887B3690D96C496B">
+              <enum>(4)</enum>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Director of National Intelligence">Office of the Director of National Intelligence</cato:entity-ref> plans for all individuals with Top Secret
+			 clearances or higher to be subject to continuous evaluation by 2016.</text>
+            </paragraph>
+            <paragraph id="H067739B479ED4A0192C60FDE84723622">
+              <enum>(5)</enum>
+              <text>Since 2010, applicants submitting an application for a security clearance, the Standard Form 86,
+			 are required to consent to being monitored through continuous evaluation.</text>
+            </paragraph>
+            <paragraph id="HA9E6364032DD41BEADD49C1FBC5862E6">
+              <enum>(6)</enum>
+              <text>In February 2014, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1103" entity-type="federal-body">Office of Management and Budget</cato:entity-ref> issued a 120-day review of Federal employee
+			 suitability and contractor fitness determinations as well as security
+			 clearance procedures and recommended an accelerated timetable for an
+			 integrated solution or continuous evaluation program across all Federal
+			 agencies and security levels.</text>
+            </paragraph>
+            <paragraph id="HA5DB91AD696D4BE5B5457223E1FADE21">
+              <enum>(7)</enum>
+              <text>In addition to continuous evaluation, some Federal agencies are establishing insider threat
+			 programs pursuant to Executive Order 13587 (<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/50/3161/note">
+                  <external-xref legal-doc="usc" parsable-cite="usc/50/3161">
+                  50 U.S.C. 3161
+                </external-xref> note</cato:entity-ref>), which
+			 authorized the
+			 establishment of insider threat programs to, among other things, identify
+			 any Government or contracted employee that may have compromised national
+			 security through such employee’s work capacity.</text>
+            </paragraph>
+            <paragraph id="HB5832323098E465D992A8A5B3ED32FD5">
+              <enum>(8)</enum>
+              <text>Continuous evaluation and insider threat programs are proliferating throughout the Federal
+			 government without requirements for protections to ensure that such
+			 programs be designed and implemented in a manner that not only protects
+			 national security but also promotes fairness, transparency, and employee
+			 protections, including whistleblower protections.</text>
+            </paragraph>
+          </subsection>
+          <subsection commented="no" id="H3A954A77EEE84811A746153AAF8F566A">
+            <enum>(b)</enum>
+            <header>Requirements</header>
+            <text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Privacy and Civil Liberties Oversight Board" entity-parent-id="1100">Privacy and Civil
+			 Liberties
+			 Oversight Board</cato:entity-ref>, established under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Intelligence Reform and Terrorism Prevention Act of 2004/s:1061">section 1061 of the Intelligence Reform
+			 and Terrorism Prevention Act of 2004</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/2000ee">
+                <cato:entity-ref entity-type="uscode" value="usc/42/2000ee">42 U.S.C. 2000ee</cato:entity-ref>
+              </external-xref>)</cato:entity>, shall publish in
+			 the Federal Register standards for the protection of national security and
+			 promotion of fairness, transparency, and employee protections, including
+			 safeguards to preserve the rights and confidentiality of whistleblowers
+			 with respect to the operation of a continuous evaluation program and the
+			 operation of an insider threat program by a Federal agency.</text>
+          </subsection>
+          <subsection commented="no" id="HB9604F558CF44FC89F3DB5EE28D72887">
+            <enum>(c)</enum>
+            <header>Certification</header>
+            <paragraph commented="no" id="HE0DADA97A1C141AD9DD3D95119CEF919">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text display-inline="yes-display-inline">Not later than 90 days after the date of publication of the standards under subsection (b), the
+			 head of any agency that is operating a continuous evaluation program or
+			 insider threat program as of the date of the enactment of this Act shall—</text>
+              <subparagraph commented="no" id="H978561D632F3421E9D358273634EE484">
+                <enum>(A)</enum>
+                <text>certify whether such program is in compliance with the standards established under subsection (b);
+			 and</text>
+              </subparagraph>
+              <subparagraph commented="no" id="H518D32F5475B49598577D5E7CCFCAB22">
+                <enum>(B)</enum>
+                <text>publish such certification in the Federal Register.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph commented="no" id="H4B35A2261E5945D9A7D3AF952C864BC6">
+              <enum>(2)</enum>
+              <header>Suspension or program</header>
+              <text display-inline="yes-display-inline">Any such head who certifies that a continuous evaluation program or insider threat program does not
+			 meet such standards or who fails to publish a certification of compliance
+			 pursuant to paragraph (1) shall suspend the program until such program is
+			 compliant and certification of compliance is published in the Federal
+			 Register.</text>
+            </paragraph>
+          </subsection>
+          <subsection commented="no" id="H05C1AE45B88E43E8942F54216C979963">
+            <enum>(d)</enum>
+            <header>Report</header>
+            <text display-inline="yes-display-inline">The head of any agency that is operating a continuous evaluation program or insider threat program
+			 as of the date of the enactment of this Act shall annually submit to
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>
+			 a report that includes the following information:</text>
+            <paragraph commented="no" id="H9CCCB8B4A5FB48F8ACBD6629D24A36FA">
+              <enum>(1)</enum>
+              <text display-inline="yes-display-inline">The number of individuals in the agency subject to the continuous evaluation program or insider
+			 threat program.</text>
+            </paragraph>
+            <paragraph commented="no" id="HF46C4173C31F495B8ECE3ABBF87A7D52">
+              <enum>(2)</enum>
+              <text display-inline="yes-display-inline">The number of individuals in the agency whose eligibility for access to classified information was
+			 suspended or revoked as a result of information acquired through the
+			 continuous evaluation program or insider threat program.</text>
+            </paragraph>
+            <paragraph commented="no" id="H5758FA01B359495D83302455FEFCA8E7">
+              <enum>(3)</enum>
+              <text display-inline="yes-display-inline">The total number of individuals in the agency who are eligible to access classified information.</text>
+            </paragraph>
+            <paragraph commented="no" id="H9DD4D531E319487092AD1D970763FDDA">
+              <enum>(4)</enum>
+              <text display-inline="yes-display-inline">Demographic information on each individual whose eligibility for access to classified information
+			 was changed as a result of information collected through the continuous
+			 evaluation program or insider threat program, including age, race, gender,
+			 and ethnicity.</text>
+            </paragraph>
+            <paragraph commented="no" id="H7B2051A381CE425E8B6F84E487131BD6">
+              <enum>(5)</enum>
+              <text>A description of the mechanisms used to conduct the evaluations, including how individuals were
+			 selected, whether the evaluations were randomized, and if so, the nature
+			 of the randomization, including the degree to which it was temporally
+			 randomized and the degree to which the selection of individuals subject to
+			 the program was randomized.</text>
+            </paragraph>
+            <paragraph commented="no" id="HBB38CF4495E6470A92DC673360CD3271">
+              <enum>(6)</enum>
+              <text display-inline="yes-display-inline">A description of the types of information that were captured through the continuous evaluation
+			 program or insider threat program and were the basis for further
+			 investigation.</text>
+            </paragraph>
+            <paragraph commented="no" id="HA2E16E5FDAFC479989E6551C641EA24B">
+              <enum>(7)</enum>
+              <text display-inline="yes-display-inline">The frequency that information captured through the continuous evaluation program or insider threat
+			 program was the basis for further investigation.</text>
+            </paragraph>
+            <paragraph commented="no" id="H0F4054455CEA4B6FAF833073DC450EE6">
+              <enum>(8)</enum>
+              <text display-inline="yes-display-inline">Information on any individual whose eligibility for access to classified information was changed as
+			 a result of information collected through the continuous evaluation
+			 program or insider threat program, including the clearance level of each
+			 impacted individual and what position, if any, the individual holds within
+			 the agency, number of years the individual has been eligible to access
+			 classified information at the level held at the time that the individual
+			 was subject to the continuous evaluation program or insider threat program
+			 and, if available, the frequency that classified information was accessed
+			 by each such individual.</text>
+            </paragraph>
+            <paragraph commented="no" id="H28154A69956044DBA27CF3BB119B532B">
+              <enum>(9)</enum>
+              <text>Identification of each database that was accessed.</text>
+            </paragraph>
+            <paragraph commented="no" id="H591900AB8F95456093A91E0401621FDD">
+              <enum>(10)</enum>
+              <text display-inline="yes-display-inline">Protocols for resolution of information captured through the continuous evaluation program or
+			 insider threat program that was the basis for further investigation,
+			 including the provision of notification to the impacted individual’s
+			 supervisor and the impacted individual.</text>
+            </paragraph>
+            <paragraph commented="no" id="H92A69D90DA474B1EBCE12DC05E5341DE">
+              <enum>(11)</enum>
+              <text display-inline="yes-display-inline">Information on any specific instance in which the continuous evaluation program or insider threat
+			 program resulted in the protection of classified information and national
+			 security.</text>
+            </paragraph>
+            <paragraph commented="no" id="H760469FA565D485AA6B110AC3C2B4627">
+              <enum>(12)</enum>
+              <text display-inline="yes-display-inline">Information on the annual and life-cycle costs of the continuous investigation or insider threat
+			 program and, in the event that the head of the agency intends to expand
+			 the program, information on the anticipated costs of expansion.</text>
+            </paragraph>
+          </subsection>
+          <subsection commented="no" id="H0206FD7E216F48FF987DF756D62033AE">
+            <enum>(e)</enum>
+            <header>Pilot program</header>
+            <text>The head of any agency that establishes a continuous evaluation program after the date of the
+			 enactment of this Act shall be subject to the following requirements:</text>
+            <paragraph commented="no" id="HCFC2D93056A54AA5A18173A78B814D1C">
+              <enum>(1)</enum>
+              <text display-inline="yes-display-inline">Before initiating a continuous evaluation program or insider threat program, such head shall
+			 conduct a pilot continuous evaluation program or pilot insider threat
+			 program that is not shorter than 120 days in duration and uses a
+			 representative sample of individuals eligible for access to classified
+			 information, including individuals employed by contractors. Participants
+			 in the program shall receive notification and, in the event that
+			 derogatory information is identified through the program that results in
+			 changes to such participant’s eligibility for access to classified
+			 information, shall be provided access to the redress process described
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Clearance and Over-Classification Reform and Reduction Act/s:116" proposed="true">section 116</cato:entity-ref>.</text>
+            </paragraph>
+            <paragraph commented="no" id="HA0587322BCC941378D8EA3AA3F508E6C">
+              <enum>(2)</enum>
+              <text display-inline="yes-display-inline">Before conducting a pilot continuous evaluation program or pilot insider threat program under
+			 paragraph (1), such head shall publish, in the Federal Register, a notice
+			 of the program that provides information on the provisions of the program,
+			 metrics for evaluating its efficacy, and a privacy impact assessment.</text>
+            </paragraph>
+            <paragraph commented="no" id="H19511892218D448EB3EB3B2B66D99121">
+              <enum>(3)</enum>
+              <text display-inline="yes-display-inline">Not later than 90 days after the initiation of a pilot continuous evaluation program or pilot
+			 insider threat program pursuant to paragraph (1), such head shall submit
+			 to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a preliminary report that includes—</text>
+              <subparagraph commented="no" id="H007E61862A9A453DB3606B08C6C38CCC">
+                <enum>(A)</enum>
+                <text>the number of individuals evaluated under the program;</text>
+              </subparagraph>
+              <subparagraph commented="no" id="H0E628A74209B4C9395A6B8A7AB6FB037">
+                <enum>(B)</enum>
+                <text>the total number of individuals in the agency who are eligible to access classified information;</text>
+              </subparagraph>
+              <subparagraph commented="no" id="H9FE1C7232B9A4B5A80AD7736798DC02A">
+                <enum>(C)</enum>
+                <text display-inline="yes-display-inline">demographics of the individuals evaluated under the program, including age, race, gender,
+			 ethnicity, employer, clearance level, and the number of years the
+			 individual has been eligible to access classified information;</text>
+              </subparagraph>
+              <subparagraph commented="no" id="H3CCCBAA868E84D3994C9DA42DB562E7A">
+                <enum>(D)</enum>
+                <text display-inline="yes-display-inline">a position description for each individual evaluated under the program;</text>
+              </subparagraph>
+              <subparagraph commented="no" id="HF289736A81B84941A78950F2CE7B2755">
+                <enum>(E)</enum>
+                <text display-inline="yes-display-inline">a description of the mechanisms used to conduct the evaluations, including how individuals were
+			 selected, whether the evaluations were randomized, and if so, the nature
+			 of the randomization, including the degree to which it was temporally
+			 randomized and the degree to which the selection of individuals subject to
+			 the program was randomized;</text>
+              </subparagraph>
+              <subparagraph commented="no" id="H760F9B99AFFA4247B3B6E3B6D9F4E969">
+                <enum>(F)</enum>
+                <text display-inline="yes-display-inline">a description of the types of information that were captured through the program and were the basis
+			 for further investigation;</text>
+              </subparagraph>
+              <subparagraph commented="no" id="H305A0E58413A498AA7844A89477B69A2">
+                <enum>(G)</enum>
+                <text display-inline="yes-display-inline">the frequency that information captured through the program was the basis for further
+			 investigation; and</text>
+              </subparagraph>
+              <subparagraph commented="no" id="H26AA8606A2AE43BF82BE4A172B164830">
+                <enum>(H)</enum>
+                <text>information on the number of individuals whose eligibility for access to classified information was
+			 changed as a result of information collected through the program.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph commented="no" id="H46F5B7F91F9445F5A921F8E4A9A29A42">
+              <enum>(4)</enum>
+              <text display-inline="yes-display-inline">Not later than 180 days after the conclusion of a pilot continuous evaluation program or pilot
+			 insider threat program pursuant to paragraph (1) or expansion of a pilot
+			 continuous evaluation program or pilot insider threat program, such head
+			 shall submit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a final report that updates the information
+			 required in the preliminary report under paragraph (3). The report shall
+			 include—</text>
+              <subparagraph commented="no" id="H20C939B8BE8146D2B2F4C6AEAC5FD7A5">
+                <enum>(A)</enum>
+                <text>an identification of each database that was accessed;</text>
+              </subparagraph>
+              <subparagraph commented="no" id="H8EF311AD792C4EC396B85596514C54A7">
+                <enum>(B)</enum>
+                <text>protocols for resolution of information captured through the program that was the basis for further
+			 investigation, including the provision of notification to the impacted
+			 individual’s supervisor and the impacted individual;</text>
+              </subparagraph>
+              <subparagraph commented="no" id="H197591AFA09D4C3095D86C47FA1CA193">
+                <enum>(C)</enum>
+                <text display-inline="yes-display-inline">information on any specific instance in which continuous evaluation resulted in the protection of
+			 classified information and national security; and</text>
+              </subparagraph>
+              <subparagraph commented="no" id="H1B7DEAA224C3479FBE4E5C946ABA6A5B">
+                <enum>(D)</enum>
+                <text display-inline="yes-display-inline">information regarding the annual and life-cycle costs of the program and, in the event that such
+			 head intends to expand the program or initiate a continuous evaluation
+			 program or insider threat program, information on the anticipated costs of
+			 an expansion or initiation.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph commented="no" id="HE0F7CF0F263A462C93D7918F7BAA442A">
+              <enum>(5)</enum>
+              <text display-inline="yes-display-inline">Prior to expanding a pilot continuous evaluation program or insider threat program or initiating a
+			 continuous evaluation program or insider threat program, such head shall
+			 secure a privacy impact assessment from the top privacy and civil
+			 liberties officials at such agency.</text>
+            </paragraph>
+          </subsection>
+          <subsection commented="no" id="HECF6DB6E2ADE41E597B547D923FF93A4">
+            <enum>(f)</enum>
+            <header>Unclassified reports</header>
+            <text display-inline="yes-display-inline">All reports required under this section shall be submitted in unclassified form and be made
+			 publicly available, but may include a classified annex if necessary.</text>
+          </subsection>
+          <subsection id="H92C98BB8BAF846E79758BB90CF8C758F">
+            <enum>(g)</enum>
+            <header>Limitation on data collection</header>
+            <text display-inline="yes-display-inline">Not later than 180 days after the date of the enactment of this Act, the head of an agency that
+			 operates a continuous evaluation program shall ensure that data collection
+			 under the program is limited to databases and other sources of information
+			 accessed for a periodic reinvestigation as of the date of the enactment of
+			 this Act.</text>
+          </subsection>
+          <subsection id="H4BA5A09D15B448729981EC04FB737A30">
+            <enum>(h)</enum>
+            <header>Definitions</header>
+            <text display-inline="yes-display-inline">In this section:</text>
+            <paragraph id="H2B5B391F4E9342B3B7166E30BC451385">
+              <enum>(1)</enum>
+              <header>Continuous evaluation program</header>
+              <text>The term <quote>continuous evaluation program</quote> means any program continually reviewing the background of an individual who has been determined to
+			 be eligible for access to classified information pursuant to Executive
+			 Order 12968 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/50/3161/note">(<external-xref legal-doc="usc" parsable-cite="usc/50/3161">
+                  50 U.S.C. 3161
+                </external-xref> note</cato:entity-ref>) (as amended by Executive Order 13467 (<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/50/3161/note">50
+			 U.S.C. 3161 note</cato:entity-ref>)) or
+			 any other similar authority.</text>
+            </paragraph>
+            <paragraph id="H7A913582185A48F8A554DCF4366B4117">
+              <enum>(2)</enum>
+              <header>Insider threat program</header>
+              <text display-inline="yes-display-inline">The term <quote>insider threat program</quote> means any program monitoring the activity of an individual who has been determined to be eligible
+			 for access to classified information to improve insider threat detection
+			 and prevention pursuant to Executive Order 13587 (<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/50/3161/note">
+                  <external-xref legal-doc="usc" parsable-cite="usc/50/3161">
+                  50 U.S.C. 3161
+                </external-xref> note</cato:entity-ref>) or
+			 successor order.</text>
+            </paragraph>
+          </subsection>
+        </section>
+        <section commented="no" id="HB6CC8FC880D5424FB3F004C859DFF927">
+          <enum>115.</enum>
+          <header>Mitigating factors in the context of a continuous evaluation program or insider threat program</header>
+          <subsection commented="no" id="HBC2C8FD0B11D441C9F62786A7C96FFFD">
+            <enum>(a)</enum>
+            <header>Continuous evaluation</header>
+            <text display-inline="yes-display-inline">Not later than 120 days after the date of the enactment of this Act, for each adjudicative
+			 guideline
+			 for individuals with access to classified information (as described in
+			 part 147 of title 32, Code of Federal Regulations, or similar successor
+			 regulation) the President shall
+			 update and tailor the conditions that mitigate security concerns to
+			 address continuous evaluation of such individuals performed pursuant to
+			 Executive Order 12968 (<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/50/3161/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/50/3161">
+                50 U.S.C. 3161
+              </external-xref> note</cato:entity-ref>) (as amended by Executive Order
+			 13467 (<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/50/3161/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/50/3161">
+                50 U.S.C. 3161
+              </external-xref> note</cato:entity-ref>)) or any other authority, including the
+			 implications of recency on
+			 the availability of mitigation.</text>
+          </subsection>
+          <subsection commented="no" id="H63B8A3B992384D42AE9D382BF6F083BE">
+            <enum>(b)</enum>
+            <header>Insider threat program</header>
+            <text>Not later than 240 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> shall establish
+			 adjudicative guidelines, including conditions that mitigate security
+			 concerns that consider the implications of recency on the availability of
+			 mitigation, for an individual who is subject to an adverse decision based
+			 on an insider threat program established pursuant to Executive Order 13587
+			 (<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/50/3161/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/50/3161">
+                50 U.S.C. 3161
+              </external-xref> note</cato:entity-ref>) or successor order.</text>
+          </subsection>
+        </section>
+        <section id="HF14480CD12ED4FC592664E7D2129469C">
+          <enum>116.</enum>
+          <header>Appeal to the Merit Systems Protection Board</header>
+          <text display-inline="no-display-inline">An employee for whom a final determination of ineligibility for a national security position has
+			 been made is entitled to appeal to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4100" entity-type="federal-body">Merit Systems Protection Board</cato:entity-ref>
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/7701">
+              <external-xref legal-doc="usc" parsable-cite="usc/5/7701">section 7701</external-xref> of title 5, United States Code</cato:entity-ref>.</text>
+        </section>
+        <section id="H2E27E7DBD1A544BEA0FBB19092662612">
+          <enum>117.</enum>
+          <header>Automated or nongovernmental adjudication prohibited</header>
+          <subsection id="H082E12B5DA2A4E69B33834C600C06104">
+            <enum>(a)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">An adjudication by an agency that an individual may not have access to classified information may
+			 only be made by a Federal employee and may not be rendered by an
+			 automated, electronic, or computer system.</text>
+          </subsection>
+          <subsection id="H4DAB22D2851B46E38A76E607793FD6BA">
+            <enum>(b)</enum>
+            <header>Federal employee defined</header>
+            <text display-inline="yes-display-inline">In this section, the term <quote>Federal employee</quote> has the meaning given the term <quote>employee</quote> in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/2105">
+                <external-xref legal-doc="usc" parsable-cite="usc/5/2105">section 2105</external-xref> of title 5, United States Code</cato:entity-ref>, and includes any member of the uniformed services.</text>
+          </subsection>
+        </section>
+        <section id="H25ECB1F12CEA412C9C2FE6F4B3B8132A">
+          <enum>118.</enum>
+          <header>Report on media contacts policy for intelligence personnel</header>
+          <text display-inline="no-display-inline">Not later than 90 days after the date of the enactment of this Act, the head of each element of the
+			 intelligence community (as such term is defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="National Security Act of 1947/s:3/p:4">section 3(4) of the
+			 National Security Act of 1947</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/50/3003">
+              <cato:entity-ref entity-type="uscode" value="usc/50/3003//4">50 U.S.C. 3003(4)</cato:entity-ref>
+            </external-xref>)</cato:entity>) shall submit to
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a report on each such element’s implementation of policy
+			 directives regarding contacts with news media by intelligence community
+			 personnel. Such report shall describe how each such element’s
+			 implementation of such directives protects the free speech rights of
+			 intelligence community personnel, including intelligence community
+			 personnel who choose to discuss unclassified public policy issues with
+			 friends or family members who may use new media technologies.</text>
+        </section>
+      </subtitle>
+    </title>
+    <title id="HC75212C02FF048D88944990BA26933B8">
+      <enum>II</enum>
+      <header>Department of Homeland Security Clearance Process Reforms</header>
+      <subtitle id="H8F4C9C9412534A5EA86EA047B6D0D175">
+        <enum>A</enum>
+        <header>Designation</header>
+        <section id="H55356DEE563E446D9E92D870C432E17A">
+          <enum>201.</enum>
+          <header>Designation of national security sensitive and public trust positions</header>
+          <subsection id="H7F8E1BCC17D248B688E1DD97C25334A4">
+            <enum>(a)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> shall require the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland Security</cato:entity-ref>, including all
+			 components of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>, to designate the sensitivity level of
+			 national security positions (pursuant to part 732 of title 5, Code of
+			 Federal Regulations, or similar successor regulation) in an accurate and
+			 consistent manner within the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>, including all such components.</text>
+          </subsection>
+          <subsection id="H9DFF6D2CCC034F698E0F0149AA2B930F">
+            <enum>(b)</enum>
+            <header>Implementation</header>
+            <text display-inline="yes-display-inline">In carrying out subsection (a), the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> shall require the utilization of
+			 uniform designation tools throughout the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland Security</cato:entity-ref>,
+			 including all components of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>, and provide training to
+			 appropriate staff of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>, including staff of all such
+			 components, on such utilization. Such training shall include guidance on
+			 factors for determining eligibility for access to classified information
+			 and facilities with classified information.</text>
+          </subsection>
+        </section>
+        <section id="H01F09EB0C0A249DFAAB7061411679F42">
+          <enum>202.</enum>
+          <header>Audits</header>
+          <text display-inline="no-display-inline">Not later than 180 days after the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Director of National Intelligence">Director of National Intelligence</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2400" entity-type="federal-body">Director of the Office of
+			 Personnel Management</cato:entity-ref> issue a rule for designation of national security
+			 positions (pursuant to part 732 of title 5, Code of Federal
+			 Regulations, or similar successor regulation), the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7004" entity-type="federal-body">Inspector General of
+			 the Department of Homeland Security</cato:entity-ref>
+			 shall conduct regular audits of compliance of the Department with such
+			 rule.</text>
+        </section>
+        <section id="H436A954372A34F96902A57B406CED040">
+          <enum>203.</enum>
+          <header>Review of position designations</header>
+          <subsection id="HCD6912277EF1498B85EB9B68F4F4ECF9">
+            <enum>(a)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref>, acting through the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Security Officer" entity-parent-id="7000">Chief Security Officer of the Department of
+			 Homeland Security</cato:entity-ref>, shall biennially conduct a review of all sensitivity
+			 level designations of national security positions (pursuant to part 732
+			 of title 5, Code of Federal Regulations, or similar successor regulation)
+			 at the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>.</text>
+          </subsection>
+          <subsection id="H61E734637BAD427C94ADCA2FECBA08C7">
+            <enum>(b)</enum>
+            <header>Determination</header>
+            <text display-inline="yes-display-inline">If during the course of a review required under subsection (a) the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref>
+			 determines that a change in the sensitivity level of a position that
+			 affects the need for an individual to obtain access to classified
+			 information is warranted, such access shall be administratively adjusted
+			 or periodic reinvestigation completed, as necessary.</text>
+          </subsection>
+          <subsection commented="no" id="H41AA5C279FFD47AD8ABA1B4727EC69EF">
+            <enum>(c)</enum>
+            <header>Report</header>
+            <paragraph commented="no" id="H9D14C9B463BE4982BDA0A212BAF290B9">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text display-inline="yes-display-inline">Upon completion of each review required under subsection (a), the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref>
+			 shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSGA00" entity-type="committee">Committee on Homeland Security and Governmental
+			 Affairs of the Senate</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HHM00" entity-type="committee">Committee on Homeland Security of the House
+			 of
+			 Representatives</cato:entity-ref> a report on the number of positions by
+			 classification level and by component of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland
+			 Security</cato:entity-ref> that are to be redesignated in accordance with subsection (b) to—</text>
+              <subparagraph commented="no" id="H5974A6C1EB384DAEBA272AFD7F3CB2C0">
+                <enum>(A)</enum>
+                <text display-inline="yes-display-inline">require access to classified information;</text>
+              </subparagraph>
+              <subparagraph commented="no" id="HD6A306065DFF490FA894B7EB4C91F65C">
+                <enum>(B)</enum>
+                <text display-inline="yes-display-inline">no longer require access to classified information; or</text>
+              </subparagraph>
+              <subparagraph commented="no" id="H13B639000D9743F88370C9F6EB36EACB">
+                <enum>(C)</enum>
+                <text display-inline="yes-display-inline">otherwise require a different level of access to classified information.</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph commented="no" id="H3860CE427F5E4D4487EA586B0A44C0DD">
+              <enum>(2)</enum>
+              <header>Form</header>
+              <text>The report required under paragraph (1) shall be submitted in unclassified form and be made
+			 publicly available, but may include a classified annex for any sensitive
+			 or classified information if necessary.</text>
+            </paragraph>
+          </subsection>
+        </section>
+      </subtitle>
+      <subtitle id="HA62E7F9B44404437804C97B74EE878ED">
+        <enum>B</enum>
+        <header>Investigation</header>
+        <section id="HD6DAF29E2C8D41669B501F7D774096D8">
+          <enum>211.</enum>
+          <header>Investigation services provider performance</header>
+          <subsection id="H16BB4B0A46E54BECA8C1DFEC63207A3C">
+            <enum>(a)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref>, acting through the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Security Officer" entity-parent-id="7000">Chief Security Officer of the Department of
+			 Homeland Security</cato:entity-ref>, shall annually survey the head of each component or
+			 office of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> with the authority to adjudicate a current
+			 investigation file for a national security position to help determine
+			 whether—</text>
+            <paragraph id="HDB3833EC14DE4AB79107BBD523802CEB">
+              <enum>(1)</enum>
+              <text>investigation service providers are adhering to Federal requirements, including requirements under
+			 the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Intelligence Reform and Terrorism Prevention Act of 2004">Intelligence Reform and Terrorism Prevention Act of 2004</cato:entity-ref> (<cato:entity-ref entity-type="public-law" value="public-law/108/458">Public Law
+			 108–458</cato:entity-ref>; <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/118/3628">118 Stat. 3628</cato:entity-ref>)</cato:entity> and requirements promulgated by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2400" entity-type="federal-body">Office of
+			 Personnel
+			 Management</cato:entity-ref>; and</text>
+            </paragraph>
+            <paragraph id="H94D7B276453643458C85635264AE0E11">
+              <enum>(2)</enum>
+              <text>records provided are adequate to conduct adjudications.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="H7F852715622B47CF82C17C3291D591AD">
+            <enum>(b)</enum>
+            <header>Contents</header>
+            <text display-inline="yes-display-inline">Each survey under subsection (a) shall consider the following:</text>
+            <paragraph id="H9E41B799CE2D4F22B978289B53F23C76">
+              <enum>(1)</enum>
+              <text display-inline="yes-display-inline">Punctuality of completed personnel security investigations, including adherence to timelines
+			 required under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Intelligence Reform and Terrorism Prevention Act of 2004/s:3001">section 3001 of the Intelligence Reform and Terrorism
+			 Prevention Act of 2004</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/50/3341">
+                  <cato:entity-ref entity-type="uscode" value="usc/50/3341">50 U.S.C. 3341</cato:entity-ref>
+                </external-xref>)</cato:entity>.</text>
+            </paragraph>
+            <paragraph id="H0F60E844B6814FFE8F3C54013B5859D3">
+              <enum>(2)</enum>
+              <text>Frequency that the adjudicator must seek clarifying or additional information from the
+			 investigation service provider.</text>
+            </paragraph>
+            <paragraph id="H2BF39A57674F456297161D8C815A9FA5">
+              <enum>(3)</enum>
+              <text display-inline="yes-display-inline">Frequency that the adjudicator orders a full or partial reinvestigation.</text>
+            </paragraph>
+            <paragraph id="HCB82B93CCBD84824999CA0151FD713D4">
+              <enum>(4)</enum>
+              <text display-inline="yes-display-inline">Frequency that the adjudicator finds adverse information after the completed background
+			 investigation is submitted by the investigation service provider.</text>
+            </paragraph>
+            <paragraph id="H3E0ADD95C1654E8D925610660322AC0E">
+              <enum>(5)</enum>
+              <text display-inline="yes-display-inline">Frequency that the complete investigation file, including investigative notes, is provided.</text>
+            </paragraph>
+            <paragraph id="H67E5D2879F8F4A00BC411B8001046289">
+              <enum>(6)</enum>
+              <text>Overall performance of the investigation service provider.</text>
+            </paragraph>
+            <paragraph id="H207CABDF00884CD6928129F62ABE3C6C">
+              <enum>(7)</enum>
+              <text>Satisfaction with the overall performance of the investigation service provider.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="H7BE7E9F3B2F3469E95B9587707583C0D">
+            <enum>(c)</enum>
+            <header>Corrective action</header>
+            <text display-inline="yes-display-inline">If information provided under subsection (a) identifies a pattern of performance problems with a
+			 particular investigation service provider, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Security Officer" entity-parent-id="7000">Chief Security Officer of
+			 the Department of Homeland Security</cato:entity-ref> shall make a recommendation to the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> and, where appropriate, to the head of each
+			 component or office of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> that uses the particular
+			 investigation service provider regarding corrective action, including
+			 suspension or cancellation of services.</text>
+          </subsection>
+          <subsection id="H3E614F0686AE4488AC0F1B915F3D36FA">
+            <enum>(d)</enum>
+            <header>Availability</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> shall publish the results of each survey under subsection (a)
+			 and make each such publication publicly available on the website of the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland Security</cato:entity-ref>.</text>
+          </subsection>
+        </section>
+        <section id="H99C423797EFD48AEAF94C2C6E8B07FB6">
+          <enum>212.</enum>
+          <header>Metrics</header>
+          <text display-inline="no-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> shall utilize metrics, including, to the extent practicable, any
+			 metrics in use by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2400" entity-type="federal-body">Office of Personnel Management</cato:entity-ref> as of the date of the
+			 enactment of this Act, to assess the timeliness, completeness, and overall
+			 quality of the provision of investigative services by investigation
+			 service providers.</text>
+        </section>
+      </subtitle>
+      <subtitle id="H1C8BBA0163BB44CA894BE781640E9232">
+        <enum>C</enum>
+        <header>Adjudication</header>
+        <section id="H5552D18CC7FC4ECD94C4D98887FECC0A">
+          <enum>221.</enum>
+          <header>Uniform adjudication standards</header>
+          <subsection commented="no" id="HF456809CDA21432BBD968E5FD26EA1D3">
+            <enum>(a)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref>, acting through the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Security Officer" entity-parent-id="7000">Chief Security Officer of the Department of
+			 Homeland Security</cato:entity-ref>, shall issue uniform adjudication standards, consistent
+			 with part 147 of title 32, Code of Federal Regulations, or similar
+			 successor regulation to be utilized
+			 by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> adjudicators with respect to adjudicating the eligibility of
+			 an individual for access to classified information.</text>
+          </subsection>
+          <subsection id="H87CB523292A94ACD830F92BC38804BDE">
+            <enum>(b)</enum>
+            <header>Certification</header>
+            <text display-inline="yes-display-inline">Not later than one year after the issuance of the uniform adjudication standards under subsection
+			 (a), the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref>, acting through the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Security Officer" entity-parent-id="7000">Chief Security
+			 Officer of the Department of Homeland Security</cato:entity-ref>, shall require the head of
+			 each component and office of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> with the authority to
+			 adjudicate access to classified information of an individual to certify
+			 compliance with the uniform adjudication standards under subsection (a).</text>
+          </subsection>
+          <subsection id="H2FE79451E392456AA1B5FECBB1D8BCA2">
+            <enum>(c)</enum>
+            <header>Audit</header>
+            <text display-inline="yes-display-inline">Not later than two years after the last head of a component of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland Security</cato:entity-ref>
+			 certifies compliance under subsection (b) with the uniform adjudication
+			 standards under subsection (a), the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7004">Inspector General of the Department</cato:entity-ref>
+			 shall audit all such components to verify such compliance.</text>
+          </subsection>
+        </section>
+      </subtitle>
+      <subtitle id="H1553E277143E4470BAD47554582E6263">
+        <enum>D</enum>
+        <header>Denial, Suspension, Revocation, and Appeal</header>
+        <section id="H55F6525D01E441C0A25852FCF9ED6906">
+          <enum>231.</enum>
+          <header>Uniform revocation criteria and procedures</header>
+          <subsection id="H11C94928D44D47ADA34D1F359ABEE98B">
+            <enum>(a)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref>, acting through the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Security Officer" entity-parent-id="7000">Chief Security Officer of the Department of
+			 Homeland Security</cato:entity-ref>, shall issue a Departmentwide directive that sets forth
+			 uniform criteria and procedures, consistent with any appropriate Federal
+			 Governmentwide standards, including notice requirements, for the
+			 suspension, denial, and revocation of eligibility for access to classified
+			 information of an individual issued by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>.</text>
+          </subsection>
+          <subsection id="HA1DCFE400AAB4A5D8BECFB8AA3E6704A">
+            <enum>(b)</enum>
+            <header>Certification</header>
+            <text display-inline="yes-display-inline">Not later than one year after issuance of the uniform criteria and procedures under subsection (a),
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref>, acting through the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Security Officer" entity-parent-id="7000">Chief Security
+			 Officer of the Department of Homeland Security</cato:entity-ref>, shall require the head of
+			 each component and office of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> with the authority to
+			 adjudicate eligibility for access to classified information of an
+			 individual to certify compliance with such uniform criteria and
+			 procedures.</text>
+          </subsection>
+        </section>
+        <section id="H04DAF1EDA6144EE692A34BFEE642182B">
+          <enum>232.</enum>
+          <header>Annual reporting</header>
+          <subsection id="H3D5BC102DDD44A7EB22B07AF6A708D04">
+            <enum>(a)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref>, acting through the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Security Officer" entity-parent-id="7000">Chief Security Officer of the Department of
+			 Homeland Security</cato:entity-ref>, shall annually submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSGA00" entity-type="committee">Committee on Homeland
+			 Security and Governmental Affairs of the Senate</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HHM00" entity-type="committee">Committee on
+			 Homeland
+			 Security of the House of Representatives</cato:entity-ref> a report on the following:</text>
+            <paragraph id="H9E45AEBABB40494089C16952D35CCE2C">
+              <enum>(1)</enum>
+              <text display-inline="yes-display-inline">The number of denials, suspensions, revocations, and appeals of the eligibility for access to
+			 classified information of an individual throughout the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>.</text>
+            </paragraph>
+            <paragraph id="H6862158B900D48F793D19B4DBEC7DA60">
+              <enum>(2)</enum>
+              <text>The date and status or disposition of each reported action under paragraph (1).</text>
+            </paragraph>
+            <paragraph id="H76E6B8BB0A424F21BDFE3A926F118E18">
+              <enum>(3)</enum>
+              <text>The identification of the originator, whether by a component or headquarters, of each adverse
+			 action under paragraph (1), and description of the grounds for each such
+			 action.</text>
+            </paragraph>
+            <paragraph id="HBBC2BAF3360146F7B9B0BDD56622F915">
+              <enum>(4)</enum>
+              <text display-inline="yes-display-inline">Demographic data, including data relating to race, sex, national origin, and disability, of each
+			 individual for whom eligibility for access to classified information was
+			 denied, suspended, revoked, or appealed, and the number of years that each
+			 such individual was eligible for access to such information.</text>
+            </paragraph>
+            <paragraph commented="no" id="H6BB140218A3C4495B9A93539CD6A21BE">
+              <enum>(5)</enum>
+              <text display-inline="yes-display-inline">In the case of a suspension in excess of 180 days, an explanation for the such timeframe.</text>
+            </paragraph>
+          </subsection>
+          <subsection commented="no" id="H58970F553D704843BCD017B6C836D736">
+            <enum>(b)</enum>
+            <header>Form</header>
+            <text>The report required under subsection (a) shall be submitted in unclassified form and be made
+			 publicly available, but may include a classified annex for any sensitive
+			 or classified information if necessary.</text>
+          </subsection>
+        </section>
+        <section id="H4215853D0F0D4E88902EC1A386500AC7">
+          <enum>233.</enum>
+          <header>Final appeals panel</header>
+          <subsection id="H7AAD06FAD9434544806BDEEC1FE5CF71">
+            <enum>(a)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> shall establish an internal appeals 5-person panel for final
+			 national security clearance denial and revocation determinations that is
+			 comprised of designees who are career, supervisory employees from
+			 departmental components and headquarters.</text>
+          </subsection>
+          <subsection id="H0ECA97292BFB44EDA828A5D78362BA79">
+            <enum>(b)</enum>
+            <header>Chair</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Chief Security Officer" entity-parent-id="7000">Chief Security Officer of the Department of Homeland Security</cato:entity-ref> shall serve as the chair of the
+			 panel established pursuant to subsection (a).</text>
+          </subsection>
+          <subsection id="H20428F7E7697425991D8C92C374358D7">
+            <enum>(c)</enum>
+            <header>Positions</header>
+            <text>At least two of the positions on the panel shall be held by non-security related supervisory
+			 employees for not more than two consecutive years, and at least one
+			 position shall held by a security related supervisory employee for not
+			 more than three consecutive years.</text>
+          </subsection>
+          <subsection id="H0D978A1DDB0244B5AA09C4549E9BBEA2">
+            <enum>(d)</enum>
+            <header>Subpanels</header>
+            <paragraph id="H8A54FA739124497586E8BD541EACB50C">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text display-inline="yes-display-inline">For each matter before the panel, a 3-person subpanel shall be convened by the chair, and may
+			 include the chairman.</text>
+            </paragraph>
+            <paragraph id="H2581E6763DDA4E01AAB6477BCB663E88">
+              <enum>(2)</enum>
+              <header>Prohibition</header>
+              <text>The chair may not select a panelist to serve on a 3-person subpanel referred to in paragraph (1)
+			 from the same component or office of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland Security</cato:entity-ref>
+			 as from which the matter before such subpanel originated or who has a
+			 prior relationship with any of the individuals involved in such matter.</text>
+            </paragraph>
+          </subsection>
+          <subsection id="HA543DC3D93F045D0B3A6362762354AB2">
+            <enum>(e)</enum>
+            <header>Procedures</header>
+            <paragraph id="H59B36DC9B7B14F4AA3F3F62B10D84EA5">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text display-inline="yes-display-inline">Each individual issued access to classified information by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland Security</cato:entity-ref>
+			 whose access is denied or revoked after a decision from a first-line
+			 deciding authority and a supervisor of such first-line deciding authority
+			 may appeal, in writing, to the 5-person appeals panel and appear, with a
+			 representative, before such panel to make a statement.</text>
+            </paragraph>
+            <paragraph id="HF338084B85A54797A146EE8F2185C110">
+              <enum>(2)</enum>
+              <header>Rulings</header>
+              <text>A simple majority of the appeals panel is required to uphold or overturn a denial or revocation.</text>
+            </paragraph>
+            <paragraph id="H60D6C6AD1C10442C85333BF3A54EBAAF">
+              <enum>(3)</enum>
+              <header>Timing</header>
+              <text>All determinations of the appeals panel shall be rendered within 90 days of receipt of an appeal
+			 under this section.</text>
+            </paragraph>
+            <paragraph id="H687CF5548A72487184A1E5007E784037">
+              <enum>(4)</enum>
+              <header>Finality</header>
+              <text>All determinations of the appeals panel shall be final, and no further administrative review shall
+			 be permitted.</text>
+            </paragraph>
+          </subsection>
+        </section>
+      </subtitle>
+      <subtitle id="H66DDEFCEDD1440758B749A98E59F94A8">
+        <enum>E</enum>
+        <header>Miscellaneous Provisions</header>
+        <section commented="no" id="HF97DC4C7163D40849B77ABA22BD8B013">
+          <enum>241.</enum>
+          <header>Intelligence Reform and Terrorism Prevention Act of 2004 review and security clearance reciprocity</header>
+          <subsection commented="no" id="HE7C19DE904F44018B518113794787802">
+            <enum>(a)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">Not later than two years after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0500" entity-type="federal-body">Comptroller General of
+			 the United States</cato:entity-ref> shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSGA00" entity-type="committee">Committee on Homeland Security and
+			 Governmental Affairs of the Senate</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HHM00" entity-type="committee">Committee on Homeland Security
+			 of
+			 the House of Representatives</cato:entity-ref> a report on—</text>
+            <paragraph commented="no" id="H221FA6E21F85430EB9B5FA2D6AFA8B34">
+              <enum>(1)</enum>
+              <text display-inline="yes-display-inline">the impact of the implementation of <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Intelligence Reform and Terrorism Prevention Act of 2004/s:3001">section 3001 of the Intelligence Reform and Terrorism
+			 Prevention Act of 2004</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/50/3341">
+                  <cato:entity-ref entity-type="uscode" value="usc/50/3341">50 U.S.C. 3341</cato:entity-ref>
+                </external-xref>)</cato:entity> on security
+			 clearance processes, including—</text>
+              <subparagraph commented="no" id="H2D762B1C020D41B1B839761CF1550BD1">
+                <enum>(A)</enum>
+                <text>with respect to the quality of personnel security investigations and adjudications; and</text>
+              </subparagraph>
+              <subparagraph commented="no" id="H69FD4874C3CF416397BF5494568FCCC4">
+                <enum>(B)</enum>
+                <text>the extent to which the timelines specified in such section have impacted security clearance
+			 backlogs, and include recommendations for areas for reform; and</text>
+              </subparagraph>
+            </paragraph>
+            <paragraph commented="no" id="H6E21E2BE4F0B4B0BA0272216F22AB86A">
+              <enum>(2)</enum>
+              <text display-inline="yes-display-inline">the extent to which individuals with eligibility for access to classified information, adjudicated
+			 by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> or the head of a component or office
+			 of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland Security</cato:entity-ref>, are granted reciprocity within the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> and by other agencies, in accordance with <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Intelligence Reform and Terrorism Prevention Act of 2004/s:3001/ss:d">subsection (d) of
+			 section 3001 of the Intelligence Reform and Terrorism Prevention Act of
+			 2004</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/50/3341">
+                  <cato:entity-ref entity-type="uscode" value="usc/50/3341">50 U.S.C. 3341</cato:entity-ref>
+                </external-xref>)</cato:entity>, including—</text>
+              <subparagraph commented="no" id="H6777D8E786AB4F04976D5DB4AA12FDAA">
+                <enum>(A)</enum>
+                <text>the extent to which the lack of harmonization of suitability standards is a barrier to such
+			 reciprocity; and</text>
+              </subparagraph>
+              <subparagraph commented="no" id="HE85AF3CB1FE24C75845BAB28EF550D80">
+                <enum>(B)</enum>
+                <text>recommendations on whether such standards should be included in interagency reciprocity agreements.</text>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection commented="no" id="H4D17CBCCC04E4A45A0BFD1882CDB37C0">
+            <enum>(b)</enum>
+            <header>Form</header>
+            <text>The report required under subsection (a) shall be submitted in unclassified form and be made
+			 publicly available, but may include a classified annex for any sensitive
+			 or classified information if necessary.</text>
+          </subsection>
+        </section>
+        <section commented="no" id="H57F83E68FA4E4FF1B5F9FFE91E81E6F1">
+          <enum>242.</enum>
+          <header>Office of Inspector General report</header>
+          <subsection commented="no" id="id8A6E945A1A6140929CC8C238290FE6CC">
+            <enum>(a)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">Not later than two years after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7004" entity-type="federal-body">Inspector General of the
+			 Department of Homeland Security</cato:entity-ref> shall submit to the  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSGA00" entity-type="committee">Committee on Homeland
+			 Security and Governmental Affairs of the Senate</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HHM00" entity-type="committee">Committee on
+			 Homeland
+			 Security of the House of Representatives</cato:entity-ref> a report on the
+			 implementation of responsibilities and mandates of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> under
+			 this Act, and the amendments made by this Act.</text>
+          </subsection>
+          <subsection commented="no" id="id897A6CC70EF3469B949D8CF46EC5BF90">
+            <enum>(b)</enum>
+            <header>Form</header>
+            <text display-inline="yes-display-inline">The report required under
+			 subsection (a) shall be submitted in unclassified form and be made
+			 publicly
+			 available, but may include a classified annex for any sensitive or
+			 classified information if necessary.</text>
+          </subsection>
+        </section>
+        <section id="HDEB5D081751946BA86199ED7584E534E">
+          <enum>243.</enum>
+          <header>Penalties for falsification relating to an investigation file</header>
+          <text display-inline="no-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/1001/a">
+              <external-xref legal-doc="usc" parsable-cite="usc/18/1001">Section 1001(a)</external-xref> of title 18, United States Code</cato:entity-ref>, is amended by inserting at the end the following: <quote>If the offense involves an investigation file for a national security position (as such term is
+			 defined in <external-xref legal-doc="regulation" parsable-cite="cfr/5/732.102">section 732.102</external-xref> of title 5, Code of Federal Regulations, or
+			 similar successor regulation), then
+			 the maximum term of imprisonment otherwise authorized under this section
+			 may be increased by one year.</quote>.</text>
+        </section>
+      </subtitle>
+    </title>
+  </legis-body>
+</bill>
+</doc>

@@ -1,0 +1,1689 @@
+<doc>
+  <docmeta id="113hr3696eh">
+    <bill congress="113" type="hr" number="3696" version="eh"/>
+    <revision size="87681" annotations="0" status="complete" id="7" commit-time="2014-08-13T21:39:41Z" committer="mbohmer" doc="113hr3696eh/7.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Engrossed-in-House" bill-type="olc" dms-id="H49BFFB0591034B5798066E8F6E091CEE" public-private="public" stage-count="1"> 
+<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 HR 3696 EH: National Cybersecurity and Critical Infrastructure Protection Act of 2014</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. House of Representatives</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="no">I</distribution-code> 
+<congress>113th CONGRESS</congress>
+    <session>2d Session</session> 
+<legis-num>H. R. 3696</legis-num> 
+<current-chamber display="no">IN THE HOUSE OF REPRESENTATIVES</current-chamber> 
+<legis-type>AN ACT</legis-type> 
+<official-title display="yes">To amend the Homeland Security Act of 2002 to make certain improvements regarding cybersecurity and critical infrastructure protection, and for other purposes.</official-title> 
+</form> 
+<legis-body id="H1D96C2FC6FB94E08A35422D63B7BB658" style="OLC"> 
+<section id="HD42D2D8DCFAD4AD28A2BCF82683ACFD6" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title</header>
+      <text display-inline="no-display-inline">This Act may be cited as the <quote>
+          <short-title>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014" proposed="true">National Cybersecurity and Critical Infrastructure Protection Act of 2014</cato:entity-ref>
+          </short-title>
+        </quote>.</text>
+    </section> 
+<section id="H4F1EBCF66BFF4C95822387FDD499900A">
+      <enum>2.</enum>
+      <header>Table of contents</header>
+      <text display-inline="no-display-inline">The table of contents for this Act is as follows:</text> 
+<toc container-level="legis-body-container" quoted-block="no-quoted-block" lowest-level="section" regeneration="yes-regeneration" lowest-bolded-level="division-lowest-bolded"> 
+<toc-entry idref="HD42D2D8DCFAD4AD28A2BCF82683ACFD6" level="section">Sec. 1. Short title.</toc-entry> 
+<toc-entry idref="H4F1EBCF66BFF4C95822387FDD499900A" level="section">Sec. 2. Table of contents.</toc-entry> 
+<toc-entry idref="H483FFDFD378C4C2F83BDC192290CE47D" level="title">Title I—Securing the Nation Against Cyber Attack</toc-entry> 
+<toc-entry idref="HF8C38CD0CC7F4784AF6CB186A6485F55" level="section">Sec. 101. Homeland Security Act of 2002 definitions.</toc-entry> 
+<toc-entry idref="H1CC21AC82C6B46B4862001AF6D759C19" level="section">Sec. 102. Enhancement of cybersecurity.</toc-entry> 
+<toc-entry idref="H33B99979AF934B88A9D334F5E3BCB3C8" level="section">Sec. 103. Protection of critical infrastructure and information sharing.</toc-entry> 
+<toc-entry idref="H8674368E8F7547A4986C43638092B8F6" level="section">Sec. 104. National Cybersecurity and Communications Integration Center.</toc-entry> 
+<toc-entry idref="H1FED84AE3BC34E7EA2C08589E5F528D4" level="section">Sec. 105. Cyber incident response and technical assistance.</toc-entry> 
+<toc-entry idref="HE012BBB8BC9440E9816073B553AAEB03" level="section">Sec. 106. Streamlining of Department cybersecurity organization.</toc-entry> 
+<toc-entry idref="H35E43C486A7845C18D45DDE10CD0E968" level="title">Title II—Public-Private Collaboration on Cybersecurity</toc-entry> 
+<toc-entry idref="H76D48AC973BB42A9AFFEA5C158C674B0" level="section">Sec. 201. Public-private collaboration on cybersecurity.</toc-entry> 
+<toc-entry idref="H2A700D13691A4367A615A9E561A44F6B" level="section">Sec. 202. SAFETY Act and qualifying cyber incidents.</toc-entry> 
+<toc-entry idref="HC84FCF081D0245A1A887E3DBB539A77D" level="section">Sec. 203. Prohibition on new regulatory authority.</toc-entry> 
+<toc-entry idref="H3A9F452A57A44FC4AA25F670BE12AAA0" level="section">Sec. 204. Prohibition on additional authorization of appropriations.</toc-entry> 
+<toc-entry idref="H0C80761DBF18499F8DAC065AB8636AD7" level="section">Sec. 205. Prohibition on collection activities to track individuals’ personally identifiable information.</toc-entry> 
+<toc-entry idref="H9598BAF751744EAB8CF7742479524FF9" level="section">Sec. 206. Cybersecurity scholars.</toc-entry> 
+<toc-entry idref="H0762BDE305134196A41A71E604B1CAAC" level="section">Sec. 207. National Research Council study on the resilience and reliability of the Nation’s power grid.</toc-entry> 
+<toc-entry idref="H6E7985D3B96D4207AF4E5D44BE96B3F6" level="title">Title III—Homeland Security Cybersecurity Workforce</toc-entry> 
+<toc-entry idref="H79CEBA923E2C40FDBCBAA7110BCF7210" level="section">Sec. 301. Homeland security cybersecurity workforce.</toc-entry> 
+<toc-entry idref="H632DB6F6C6D74B8487C4982E53D50714" level="section">Sec. 302. Personnel authorities.</toc-entry>
+      </toc>
+    </section> 
+<title id="H483FFDFD378C4C2F83BDC192290CE47D">
+      <enum>I</enum>
+      <header>Securing the Nation Against Cyber Attack</header> 
+<section id="HF8C38CD0CC7F4784AF6CB186A6485F55">
+        <enum>101.</enum>
+        <header>Homeland Security Act of 2002 definitions</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Homeland Security Act of 2002/s:2">Section 2 of the Homeland Security Act of 2002</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/6/101">
+            <cato:entity-ref entity-type="uscode" value="usc/6/101">6 U.S.C. 101</cato:entity-ref>
+          </external-xref>)</cato:entity> is amended by adding at the end the following new paragraphs:</text> 
+<quoted-block display-inline="no-display-inline" id="HF190DE75E82B49F4B04201EBEEDD4CEF" style="OLC"> 
+<paragraph id="H4FDF832CF78E43E0ACBA12AD4F3F0317">
+            <enum>(19)</enum>
+            <text>The term <term>critical infrastructure</term> has the meaning given that term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="USA Patriot Act/s:1016/ss:e">section 1016(e) of the USA Patriot Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/5195c">
+                <cato:entity-ref entity-type="uscode" value="usc/42/5195c/e">42 U.S.C. 5195c(e)</cato:entity-ref>
+              </external-xref>)</cato:entity>.</text>
+          </paragraph> 
+<paragraph id="H07F20B5E21A843DCB331E6E7CF523104">
+            <enum>(20)</enum>
+            <text display-inline="yes-display-inline">The term <term>critical infrastructure owner</term> means a person that owns critical infrastructure.</text>
+          </paragraph> 
+<paragraph id="H345470E23DF04F92AF83D13E213F8410">
+            <enum>(21)</enum>
+            <text display-inline="yes-display-inline">The term <term>critical infrastructure operator</term> means a critical infrastructure owner or other person that manages, runs, or operates, in whole or in part, the day-to-day operations of critical infrastructure.</text>
+          </paragraph> 
+<paragraph id="H175B1CBE514A44DBB2B440D7AEAE79F0">
+            <enum>(22)</enum>
+            <text>The term <term>cyber incident</term> means an incident, or an attempt to cause an incident, that, if successful, would—</text> 
+<subparagraph id="H07E06FC9DE0F4339B38A36617F78F8B0">
+              <enum>(A)</enum>
+              <text display-inline="yes-display-inline">jeopardize or imminently jeopardize, without lawful authority, the security, integrity, confidentiality, or availability of an information system or network of information systems or any information stored on, processed on, or transiting such a system or network;</text>
+            </subparagraph> 
+<subparagraph id="H136745AA2E4045098E3C59F30945C472">
+              <enum>(B)</enum>
+              <text>constitute a violation or imminent threat of violation of law, security policies, security procedures, or acceptable use policies related to such a system or network, or an act of terrorism against such a system or network; or</text>
+            </subparagraph> 
+<subparagraph id="H560B45E0CC914C2BA9BC9BC5D0F6E932">
+              <enum>(C)</enum>
+              <text>result in the denial of access to or degradation, disruption, or destruction of such a system or network, or the defeat of an operations control or technical control essential to the security or operation of such a system or network.</text>
+            </subparagraph>
+          </paragraph> 
+<paragraph id="H4AC2803FE9114A99ABEBB05CB601DA6C">
+            <enum>(23)</enum>
+            <text display-inline="yes-display-inline">The term <quote>cybersecurity mission</quote> means activities that encompass the full range of threat reduction, vulnerability reduction, deterrence, incident response, resiliency, and recovery activities to foster the security and stability of cyberspace.</text>
+          </paragraph> 
+<paragraph id="H6BAB6C4ED0284470B7F0F37892153B08">
+            <enum>(24)</enum>
+            <text display-inline="yes-display-inline">The term <term>cybersecurity purpose</term> means the purpose of ensuring the security, integrity, confidentiality, or availability of, or safeguarding, an information system or network of information systems, including protecting such a system or network, or data residing on such a system or network, including protection of such a system or network, from—</text> 
+<subparagraph id="H082C72017D7944F7927A7B01315705BF">
+              <enum>(A)</enum>
+              <text display-inline="yes-display-inline">a vulnerability of such a system or network;</text>
+            </subparagraph> 
+<subparagraph id="HD6A159B89E9948EDAE233C4A440A501C">
+              <enum>(B)</enum>
+              <text>a threat to the security, integrity, confidentiality, or availability of such a system or network, or any information stored on, processed on, or transiting such a system or network;</text>
+            </subparagraph> 
+<subparagraph id="HAB8CC53786A343118046250E6DB6A448">
+              <enum>(C)</enum>
+              <text>efforts to deny access to or degrade, disrupt, or destroy such a system or network; or</text>
+            </subparagraph> 
+<subparagraph id="HA7B4346131C148D6A4331464E2708E93">
+              <enum>(D)</enum>
+              <text>efforts to gain unauthorized access to such a system or network, including to gain such unauthorized access for the purpose of exfiltrating information stored on, processed on, or transiting such a system or network.</text>
+            </subparagraph>
+          </paragraph> 
+<paragraph id="H214DD447E12C4088A6278A7C9489E1EE">
+            <enum>(25)</enum>
+            <text display-inline="yes-display-inline">The term <term>cyber threat</term> means any action that may result in unauthorized access to, exfiltration of, manipulation of, harm of, or impairment to the security, integrity, confidentiality, or availability of an information system or network of information systems, or information that is stored on, processed by, or transiting such a system or network.</text>
+          </paragraph> 
+<paragraph id="HBE7EC5BD9DE440EA985980A8B57CB05A">
+            <enum>(26)</enum>
+            <text display-inline="yes-display-inline">The term <term>cyber threat information</term> means information directly pertaining to—</text> 
+<subparagraph id="HFE47380CE64B4EB8A432757A784DD93D">
+              <enum>(A)</enum>
+              <text>a vulnerability of an information system or network of information systems of a government or private entity;</text>
+            </subparagraph> 
+<subparagraph id="H50EBC920CDD1439CBC00338942B0995C">
+              <enum>(B)</enum>
+              <text display-inline="yes-display-inline">a threat to the security, integrity, confidentiality, or availability of such a system or network of a government or private entity, or any information stored on, processed on, or transiting such a system or network;</text>
+            </subparagraph> 
+<subparagraph id="HD71C7196534748FFBCF5CBCCCEE6160D">
+              <enum>(C)</enum>
+              <text display-inline="yes-display-inline">efforts to deny access to or degrade, disrupt, or destroy such a system or network of a government or private entity;</text>
+            </subparagraph> 
+<subparagraph id="HDAFF7E614D834E7D8CFE4AA92A7EB481">
+              <enum>(D)</enum>
+              <text display-inline="yes-display-inline">efforts to gain unauthorized access to such a system or network, including to gain such unauthorized access for the purpose of exfiltrating information stored on, processed on, or transiting such a system or network; or</text>
+            </subparagraph> 
+<subparagraph id="H3AE4484E94FA4F94A89F3FD9429A4E15">
+              <enum>(E)</enum>
+              <text>an act of terrorism against an information system or network of information systems.</text>
+            </subparagraph>
+          </paragraph> 
+<paragraph id="HDBA2833DFB674760B0E128E1AFC28177">
+            <enum>(27)</enum>
+            <text display-inline="yes-display-inline">The term <term>Federal civilian information systems</term>—</text> 
+<subparagraph id="HBC60EEA203814A17B9C06938566C4F7B">
+              <enum>(A)</enum>
+              <text>means information, information systems, and networks of information systems that are owned, operated, controlled, or licensed for use by, or on behalf of, any Federal agency, including such systems or networks used or operated by another entity on behalf of a Federal agency; but</text>
+            </subparagraph> 
+<subparagraph id="H4D035A9FF2FD41F39CC7EF74F31E2415">
+              <enum>(B)</enum>
+              <text>does not include—</text> 
+<clause id="HBB2B83E7210241D68D7189D6D9A5B2C9">
+                <enum>(i)</enum>
+                <text>a national security system; or</text>
+              </clause> 
+<clause id="H9A2094482EA64D26A5BA903FB35C6B08">
+                <enum>(ii)</enum>
+                <text>information, information systems, and networks of information systems that are owned, operated, controlled, or licensed solely for use by, or on behalf of, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Department of Defense</cato:entity-ref>, a military department, or an element of the intelligence community.</text>
+              </clause>
+            </subparagraph>
+          </paragraph> 
+<paragraph id="H0D02CFD2D69149FEA473E587B4FF12ED">
+            <enum>(28)</enum>
+            <text display-inline="yes-display-inline">The term <term>information security</term> means the protection of information, information systems, and networks of information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide—</text> 
+<subparagraph id="HF485CC9444954023829EE34529C947AC">
+              <enum>(A)</enum>
+              <text>integrity, including guarding against improper information modification or destruction, including ensuring nonrepudiation and authenticity;</text>
+            </subparagraph> 
+<subparagraph id="H02118A75BE114EA2B1953FB1425E37FD">
+              <enum>(B)</enum>
+              <text>confidentiality, including preserving authorized restrictions on access and disclosure, including means for protecting personal privacy and proprietary information; and</text>
+            </subparagraph> 
+<subparagraph id="H3E1B2184741B4F2E97C5E8CA33A74F0C">
+              <enum>(C)</enum>
+              <text>availability, including ensuring timely and reliable access to and use of information.</text>
+            </subparagraph>
+          </paragraph> 
+<paragraph id="HEB542A0E64774AD9A2631745F35D433D">
+            <enum>(29)</enum>
+            <text display-inline="yes-display-inline">The term <term>information system</term> means the underlying framework and functions used to process, transmit, receive, or store information electronically, including programmable electronic devices, communications networks, and industrial or supervisory control systems and any associated hardware, software, or data.</text>
+          </paragraph> 
+<paragraph id="H784FF3A084994EF9B784EBE0F867F64F">
+            <enum>(30)</enum>
+            <text display-inline="yes-display-inline">The term <term>private entity</term> means any individual or any private or publically-traded company, public or private utility (including a utility that is a unit of a State or local government, or a political subdivision of a State government), organization, or corporation, including an officer, employee, or agent thereof.</text>
+          </paragraph> 
+<paragraph id="HCE36D8A24F4A49989EA2A4D4EB765BBC">
+            <enum>(31)</enum>
+            <text>The term <term>shared situational awareness</term> means an environment in which cyber threat information is shared in real time between all designated Federal cyber operations centers to provide actionable information about all known cyber threats.</text>
+          </paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </section> 
+<section id="H1CC21AC82C6B46B4862001AF6D759C19">
+        <enum>102.</enum>
+        <header>Enhancement of cybersecurity</header> 
+<subsection id="H8B5376DD180D4B72BF876FF45D4A0D13">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/t:II/st:C">Subtitle C of title II of the Homeland Security Act of 2002</cato:entity-ref> is amended by adding at the end the following new section:</text> 
+<quoted-block display-inline="no-display-inline" id="H4FE97146EA1545D28FE94A159074198D" style="OLC"> 
+<section id="H0FF01587D79744C296B8CADE24A2CF76">
+              <enum>226.</enum>
+              <header>Enhancement of cybersecurity</header>
+              <text display-inline="no-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref>, in collaboration with the heads of other appropriate Federal Government entities, shall conduct activities for cybersecurity purposes, including the provision of shared situational awareness to each other to enable real-time, integrated, and operational actions to protect from, prevent, mitigate, respond to, and recover from cyber incidents.</text>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection> 
+<subsection id="H881D2AEAB8104DF488FE4BCB203F2F7F">
+          <enum>(b)</enum>
+          <header>Clerical amendments</header> 
+<paragraph id="HBD6257663A3F4842998517146A74FBEF">
+            <enum>(1)</enum>
+            <header>Subtitle heading</header>
+            <text>The heading for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/t:II/st:C">subtitle C of title II of such Act</cato:entity-ref> is amended to read as follows:</text> 
+<quoted-block display-inline="no-display-inline" id="H5B064B5F6C71458591A55B7D6700EF3D" style="OLC"> 
+<subtitle id="HF4DBF194A8AA4E0283A2F8C90B834EEE">
+                <enum>C</enum>
+                <header>Cybersecurity and Information Sharing</header>
+              </subtitle>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph> 
+<paragraph id="HF4BF7E82847F4775A812E41D7B2CEDA3">
+            <enum>(2)</enum>
+            <header>Table of contents</header>
+            <text display-inline="yes-display-inline">The table of contents in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:1/ss:b">section 1(b) of such Act</cato:entity-ref> is amended—</text> 
+<subparagraph commented="no" id="H693F4590A76F468885E5F1E44C85159E">
+              <enum>(A)</enum>
+              <text>by adding after the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:225">section 225</cato:entity-ref> the following new item:</text> 
+<quoted-block display-inline="no-display-inline" id="H6DC5940982F34B0997E2F96D91255BD4" style="OLC"> 
+<toc regeneration="no-regeneration"> 
+<toc-entry level="section">Sec. 226. Enhancement of cybersecurity.</toc-entry>
+                </toc>
+                <after-quoted-block>;</after-quoted-block>
+              </quoted-block>
+              <continuation-text continuation-text-level="subparagraph">and</continuation-text>
+            </subparagraph> 
+<subparagraph id="HF8FB63C9D4414045A26F0561A66F5ECD">
+              <enum>(B)</enum>
+              <text>by striking the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/t:II/st:C">subtitle C of title II</cato:entity-ref> and inserting the following new item:</text> 
+<quoted-block display-inline="no-display-inline" id="H26A5E59197274B10917A72FF1B2B446D" style="OLC"> 
+<toc regeneration="no-regeneration"> 
+<toc-entry level="subtitle">Subtitle C—Cybersecurity and Information Sharing</toc-entry>
+                </toc>
+                <after-quoted-block>.</after-quoted-block>
+              </quoted-block>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+      </section> 
+<section id="H33B99979AF934B88A9D334F5E3BCB3C8">
+        <enum>103.</enum>
+        <header>Protection of critical infrastructure and information sharing</header> 
+<subsection id="HD29304C4323E404CB93E1C7207EA187D">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/t:II/st:C">Subtitle C of title II of the Homeland Security Act of 2002</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:102" proposed="true">section 102</cato:entity-ref>, is further amended by adding at the end the following new section:</text> 
+<quoted-block display-inline="no-display-inline" id="H25E610D8B6534BA79D4C126368FF3496" style="OLC"> 
+<section id="HB7E79B982E1A4C33A1AD3FF168FA826B">
+              <enum>227.</enum>
+              <header>Protection of critical infrastructure and information sharing</header> 
+<subsection id="H6CEB8436F7F54B66A118C4C864D9C7F4">
+                <enum>(a)</enum>
+                <header>Protection of critical infrastructure</header> 
+<paragraph id="H87C6921B461944DC9BE2A8B1825DBD7B">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall coordinate, on an ongoing basis, with Federal, State, and local governments, national laboratories, critical infrastructure owners, critical infrastructure operators, and other cross sector coordinating entities to—</text> 
+<subparagraph id="H74361D7B6B1C40F5AACFDBB5EA8168BF">
+                    <enum>(A)</enum>
+                    <text>facilitate a national effort to strengthen and maintain secure, functioning, and resilient critical infrastructure from cyber threats;</text>
+                  </subparagraph> 
+<subparagraph id="HF202CA622C3140CDB536FDD227E930D1">
+                    <enum>(B)</enum>
+                    <text>ensure that <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> policies and procedures enable critical infrastructure owners and critical infrastructure operators to receive real-time, actionable, and relevant cyber threat information;</text>
+                  </subparagraph> 
+<subparagraph id="H536666F36D274945AF65F5E29F35F719">
+                    <enum>(C)</enum>
+                    <text>seek industry sector-specific expertise to—</text> 
+<clause id="HC1D66536E3C34D409407320C1BA6B5DF">
+                      <enum>(i)</enum>
+                      <text>assist in the development of voluntary security and resiliency strategies; and</text>
+                    </clause> 
+<clause id="H638CCA5B2B9B43E0B778532C1F2FFF50">
+                      <enum>(ii)</enum>
+                      <text>ensure that the allocation of Federal resources are cost effective and reduce any burden on critical infrastructure owners and critical infrastructure operators;</text>
+                    </clause>
+                  </subparagraph> 
+<subparagraph id="H66D20792F3F74C62BDCC85A40985EEB7">
+                    <enum>(D)</enum>
+                    <text>upon request of entities, facilitate and assist risk management efforts of such entities to reduce vulnerabilities, identify and disrupt threats, and minimize consequences to their critical infrastructure;</text>
+                  </subparagraph> 
+<subparagraph id="H1053EA673E644E0DA41B69CFE961A284">
+                    <enum>(E)</enum>
+                    <text>upon request of critical infrastructure owners or critical infrastructure operators, provide education and assistance to such owners and operators on how they may use protective measures and countermeasures to strengthen the security and resilience of the Nation’s critical infrastructure; and</text>
+                  </subparagraph> 
+<subparagraph id="H894458E8485D47E69B0FCB143E574B35">
+                    <enum>(F)</enum>
+                    <text display-inline="yes-display-inline">coordinate a research and development strategy to facilitate and promote advancements and innovation in cybersecurity technologies to protect critical infrastructure.</text>
+                  </subparagraph>
+                </paragraph> 
+<paragraph id="HEC81847B6ABC48D5BA9F6535A33CBC25">
+                  <enum>(2)</enum>
+                  <header>Additional responsibilities</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall—</text> 
+<subparagraph display-inline="no-display-inline" id="HB2A87416AC414170B51586E8D7C2793C">
+                    <enum>(A)</enum>
+                    <text>manage Federal efforts to secure, protect, and ensure the resiliency of Federal civilian information systems using a risk-based and performance-based approach, and, upon request of critical infrastructure owners or critical infrastructure operators, support such owners’ and operators’ efforts to secure, protect, and ensure the resiliency of critical infrastructure from cyber threats;</text>
+                  </subparagraph> 
+<subparagraph id="HBC51D58FB7F94466A92DA52A8F788480">
+                    <enum>(B)</enum>
+                    <text>direct an entity within the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> to serve as a Federal civilian entity by and among Federal, State, and local governments, private entities, and critical infrastructure sectors to provide multi-directional sharing of real-time, actionable, and relevant cyber threat information;</text>
+                  </subparagraph> 
+<subparagraph id="HD8DFBF66F340415BA26110E56D340DAA">
+                    <enum>(C)</enum>
+                    <text>build upon existing mechanisms to promote a national awareness effort to educate the general public on the importance of securing information systems;</text>
+                  </subparagraph> 
+<subparagraph id="H98A0C63EEFB94CC2BDBFF2AE114712BC">
+                    <enum>(D)</enum>
+                    <text>upon request of Federal, State, and local government entities and private entities, facilitate expeditious cyber incident response and recovery assistance, and provide analysis and warnings related to threats to and vulnerabilities of critical information systems, crisis and consequence management support, and other remote or on-site technical assistance with the heads of other appropriate Federal agencies to Federal, State, and local government entities and private entities for cyber incidents affecting critical infrastructure;</text>
+                  </subparagraph> 
+<subparagraph id="H41E6D9C4791F4FB89590DBEEEBB037BF">
+                    <enum>(E)</enum>
+                    <text>engage with international partners to strengthen the security and resilience of domestic critical infrastructure and critical infrastructure located outside of the United States upon which the United States depends; and</text>
+                  </subparagraph> 
+<subparagraph id="H4712781227044097ABDB4DD09870D0EC">
+                    <enum>(F)</enum>
+                    <text>conduct outreach to educational institutions, including historically black colleges and universities, Hispanic serving institutions, Native American colleges, and institutions serving persons with disabilities, to encourage such institutions to promote cybersecurity awareness.</text>
+                  </subparagraph>
+                </paragraph> 
+<paragraph id="HD3EDEC9D5279483093E0B59DF8A29B4A">
+                  <enum>(3)</enum>
+                  <header>Rule of construction</header>
+                  <text display-inline="yes-display-inline">Nothing in this section may be construed to require any private entity to request assistance from the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref>, or require any private entity requesting such assistance to implement any measure or recommendation suggested by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref>.</text>
+                </paragraph>
+              </subsection> 
+<subsection id="HD0EE541AF68B41B4AFE7F4BB5BC05B3C">
+                <enum>(b)</enum>
+                <header>Critical infrastructure sectors</header>
+                <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref>, in collaboration with the heads of other appropriate Federal agencies, shall designate critical infrastructure sectors (that may include subdivisions of sectors within a sector as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> may determine appropriate). The critical infrastructure sectors designated under this subsection may include the following:</text> 
+<paragraph id="HB1E614002BB64F86BBC2C9F7FD5DD19D">
+                  <enum>(1)</enum>
+                  <text display-inline="yes-display-inline">Chemical.</text>
+                </paragraph> 
+<paragraph id="HB652B774D8154EA6BF74D225E5A2BC38">
+                  <enum>(2)</enum>
+                  <text>Commercial facilities.</text>
+                </paragraph> 
+<paragraph id="H1386CD0E7925497ABF7CF7BE4C71E571">
+                  <enum>(3)</enum>
+                  <text>Communications.</text>
+                </paragraph> 
+<paragraph id="HA42BF1DF09CE4A90AC89E07CE8607CB0">
+                  <enum>(4)</enum>
+                  <text>Critical manufacturing.</text>
+                </paragraph> 
+<paragraph id="HAAA2FE79B9E64EDF8FF8D8CBA0FE7465">
+                  <enum>(5)</enum>
+                  <text>Dams.</text>
+                </paragraph> 
+<paragraph id="HFA1512B4655A4254AD3B5746EA02D5BA">
+                  <enum>(6)</enum>
+                  <text>Defense Industrial Base.</text>
+                </paragraph> 
+<paragraph id="HB58D1ABA315F49CEB34E4A2AA5C40EE7">
+                  <enum>(7)</enum>
+                  <text>Emergency services.</text>
+                </paragraph> 
+<paragraph id="H31CD36292A9244CA992BAE51C8B41D87">
+                  <enum>(8)</enum>
+                  <text>Energy.</text>
+                </paragraph> 
+<paragraph id="H0992B898257449A2B8CE12E7B4B56EC7">
+                  <enum>(9)</enum>
+                  <text>Financial services.</text>
+                </paragraph> 
+<paragraph id="H2005B0FD09EF47EBB27BBEFDE63765DC">
+                  <enum>(10)</enum>
+                  <text>Food and agriculture.</text>
+                </paragraph> 
+<paragraph id="H3BE333ECED7E4827AF2B61DD4EF3C080">
+                  <enum>(11)</enum>
+                  <text>Government facilities.</text>
+                </paragraph> 
+<paragraph id="HE67E7BD1F0FE45D687E5F8DE9EA670C4">
+                  <enum>(12)</enum>
+                  <text>Healthcare and public health.</text>
+                </paragraph> 
+<paragraph id="HA60822769E5B45A3BE3D59D69142B169">
+                  <enum>(13)</enum>
+                  <text>Information technology.</text>
+                </paragraph> 
+<paragraph id="HA3470860C5104744BFA963ECD8BCBDF0">
+                  <enum>(14)</enum>
+                  <text>Nuclear reactors, materials, and waste.</text>
+                </paragraph> 
+<paragraph id="H7EA88647B13F4ABC802E897F045506EA">
+                  <enum>(15)</enum>
+                  <text>Transportation systems.</text>
+                </paragraph> 
+<paragraph id="HA35E8C5901174812AAC6AEBA58FDFC98">
+                  <enum>(16)</enum>
+                  <text>Water and wastewater systems.</text>
+                </paragraph> 
+<paragraph id="HDC97D21C194E439DB0D283428D9B6F37">
+                  <enum>(17)</enum>
+                  <text>Such other sectors as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> determines appropriate.</text>
+                </paragraph>
+              </subsection> 
+<subsection commented="no" id="HBE2AE80C94DB426C9EBD34FDF901ABE0">
+                <enum>(c)</enum>
+                <header>Sector specific agencies</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref>, in collaboration with the relevant critical infrastructure sector and the heads of other appropriate Federal agencies, shall recognize the Federal agency designated as of November 1, 2013, as the <term>Sector Specific Agency</term> for each critical infrastructure sector designated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227/ss:b" proposed="true">subsection (b)</cato:entity-ref>. If the designated Sector Specific Agency for a particular critical infrastructure sector is the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>, for the purposes of this section, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall carry out this section. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref>, in coordination with the heads of each such Sector Specific Agency shall—</text> 
+<paragraph commented="no" id="HAEB0A7F390D24321B6B57CEFBE987E7C">
+                  <enum>(1)</enum>
+                  <text>support the security and resilience activities of the relevant critical infrastructure sector in accordance with this subtitle; and</text>
+                </paragraph> 
+<paragraph commented="no" id="HC3F216CD03C14183A0D1629CB1101BC7">
+                  <enum>(2)</enum>
+                  <text>provide institutional knowledge and specialized expertise to the relevant critical infrastructure sector.</text>
+                </paragraph>
+              </subsection> 
+<subsection id="HB69343A507224A48985F368E5FC8B2A6">
+                <enum>(d)</enum>
+                <header>Sector coordinating councils</header> 
+<paragraph commented="no" id="HB7291B4938424AFC951D4DA7EC58DFBB">
+                  <enum>(1)</enum>
+                  <header>Recognition</header>
+                  <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref>, in collaboration with each critical infrastructure sector and the relevant Sector Specific Agency, shall recognize and partner with the Sector Coordinating Council for each critical infrastructure sector designated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227/ss:b" proposed="true">subsection (b)</cato:entity-ref> to coordinate with each such sector on security and resilience activities and emergency response and recovery efforts.</text>
+                </paragraph> 
+<paragraph id="H0B156F171CD449228091542CCAEC686C">
+                  <enum>(2)</enum>
+                  <header>Membership</header> 
+<subparagraph id="H0CE8791EFCAA46B088BA23AD11304125">
+                    <enum>(A)</enum>
+                    <header>In general</header>
+                    <text display-inline="yes-display-inline">The Sector Coordinating Council for a critical infrastructure sector designated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227/ss:b" proposed="true">subsection (b)</cato:entity-ref> shall—</text> 
+<clause id="H5AF749FC559B4752B25202D016522602">
+                      <enum>(i)</enum>
+                      <text>be comprised exclusively of relevant critical infrastructure owners, critical infrastructure operators, private entities, and representative trade associations for the sector;</text>
+                    </clause> 
+<clause id="H4C93E07C39DD4DC39447605646DD58FE">
+                      <enum>(ii)</enum>
+                      <text>reflect the unique composition of each sector; and</text>
+                    </clause> 
+<clause id="H75E3B7104D8A425A93D80DE1C9EE16E8">
+                      <enum>(iii)</enum>
+                      <text>as appropriate, include relevant small, medium, and large critical infrastructure owners, critical infrastructure operators, private entities, and representative trade associations for the sector.</text>
+                    </clause>
+                  </subparagraph> 
+<subparagraph id="H65D08F1AC2C24D34B2B60B18DE30482D">
+                    <enum>(B)</enum>
+                    <header>Prohibition</header>
+                    <text>No government entity with regulating authority shall be a member of the Sector Coordinating Council.</text>
+                  </subparagraph> 
+<subparagraph id="H6CF8B74262E142A99D7B3F89C53BCABD">
+                    <enum>(C)</enum>
+                    <header>Limitation</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall have no role in the determination of the membership of a Sector Coordinating Council.</text>
+                  </subparagraph>
+                </paragraph> 
+<paragraph id="H4FFBCA51A39E469BA26857BD1BB276FD">
+                  <enum>(3)</enum>
+                  <header>Roles and responsibilities</header>
+                  <text>The Sector Coordinating Council for a critical infrastructure sector shall—</text> 
+<subparagraph id="H4876983B8E0F4A8CB12F2383CC0E9D22">
+                    <enum>(A)</enum>
+                    <text>serve as a self-governing, self-organized primary policy, planning, and strategic communications entity for coordinating with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>, the relevant Sector-Specific Agency designated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227/ss:c" proposed="true">subsection (c)</cato:entity-ref>, and the relevant Information Sharing and Analysis Centers under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227/ss:e" proposed="true">subsection (e)</cato:entity-ref> on security and resilience activities and emergency response and recovery efforts;</text>
+                  </subparagraph> 
+<subparagraph id="HBDF5E16B840C4659905F78E85796B148">
+                    <enum>(B)</enum>
+                    <text>establish governance and operating procedures, and designate a chairperson for the sector to carry out the activities described in this subsection;</text>
+                  </subparagraph> 
+<subparagraph id="H14BEAF7147104D388705B2E7130959DC">
+                    <enum>(C)</enum>
+                    <text>coordinate with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>, the relevant Information Sharing and Analysis Centers under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227/ss:e" proposed="true">subsection (e)</cato:entity-ref>, and other Sector Coordinating Councils to update, maintain, and exercise the National Cybersecurity Incident Response Plan in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:229/ss:b" proposed="true">section 229(b)</cato:entity-ref>; and</text>
+                  </subparagraph> 
+<subparagraph id="H637D65081EA947C4855FB092A0A67FF6">
+                    <enum>(D)</enum>
+                    <text>provide any recommendations to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> on infrastructure protection technology gaps to help inform research and development efforts at the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>.</text>
+                  </subparagraph>
+                </paragraph>
+              </subsection> 
+<subsection commented="no" id="HAE50C033F5B54854A8B8BE59D04DD15F">
+                <enum>(e)</enum>
+                <header>Sector information sharing and analysis centers</header> 
+<paragraph commented="no" id="HAA122A45D90B4F7B84FD65F62DB8F367">
+                  <enum>(1)</enum>
+                  <header>Recognition</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref>, in collaboration with the relevant Sector Coordinating Council and the critical infrastructure sector represented by such Council, and in coordination with the relevant Sector Specific Agency, shall recognize at least one Information Sharing and Analysis Center for each critical infrastructure sector designated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227/ss:b" proposed="true">subsection (b)</cato:entity-ref> for purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227/ss:e/p:3" proposed="true">paragraph (3)</cato:entity-ref>. No other Information Sharing and Analysis Organizations, including Information Sharing and Analysis Centers, may be precluded from having an information sharing relationship within the National Cybersecurity and Communications Integration Center established pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:228" proposed="true">section 228</cato:entity-ref>. Nothing in this subsection or any other provision of this subtitle may be construed to limit, restrict, or condition any private entity or activity utilized by, among, or between private entities.</text>
+                </paragraph> 
+<paragraph commented="no" id="HEC6D09E9E66F44A5838BB48FBC3D1B54">
+                  <enum>(2)</enum>
+                  <header>Roles and responsibilities</header>
+                  <text>In addition to such other activities as may be authorized by law, at least one Information Sharing and Analysis Center for a critical infrastructure sector shall—</text> 
+<subparagraph commented="no" id="H78C4284EE3644D81BC7DD4EDF1F12B62">
+                    <enum>(A)</enum>
+                    <text>serve as an information sharing resource for such sector and promote ongoing multi-directional sharing of real-time, relevant, and actionable cyber threat information and analysis by and among such sector, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>, the relevant Sector Specific Agency, and other critical infrastructure sector Information Sharing and Analysis Centers;</text>
+                  </subparagraph> 
+<subparagraph commented="no" id="H3CE1634105124CBFB39AE9DDC545C84C">
+                    <enum>(B)</enum>
+                    <text>establish governance and operating procedures to carry out the activities conducted under this subsection;</text>
+                  </subparagraph> 
+<subparagraph commented="no" id="HF3780B031F3A479D812A78F0CDDABE20">
+                    <enum>(C)</enum>
+                    <text display-inline="yes-display-inline">serve as an emergency response and recovery operations coordination point for such sector, and upon request, facilitate cyber incident response capabilities in coordination with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>, the relevant Sector Specific Agency and the relevant Sector Coordinating Council;</text>
+                  </subparagraph> 
+<subparagraph id="H746AB85341F446F2BE1413C6CA679A20">
+                    <enum>(D)</enum>
+                    <text display-inline="yes-display-inline">facilitate cross-sector coordination and sharing of cyber threat information to prevent related or consequential impacts to other critical infrastructure sectors;</text>
+                  </subparagraph> 
+<subparagraph commented="no" id="HB7709A0B11AE4ED2B890C728E16D002D">
+                    <enum>(E)</enum>
+                    <text>coordinate with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>, the relevant Sector Coordinating Council, the relevant Sector Specific Agency, and other critical infrastructure sector Information Sharing and Analysis Centers on the development, integration, and implementation of procedures to support technology neutral, real-time information sharing capabilities and mechanisms within the National Cybersecurity and Communications Integration Center established pursuant to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:228" proposed="true">section 228</cato:entity-ref>, including—</text> 
+<clause commented="no" id="H1692C79A20384E589DB18A79573F0B74">
+                      <enum>(i)</enum>
+                      <text display-inline="yes-display-inline">the establishment of a mechanism to voluntarily report identified vulnerabilities and opportunities for improvement;</text>
+                    </clause> 
+<clause commented="no" id="HAFD5119721ED42D5A5B2A51E6EF1A9AD">
+                      <enum>(ii)</enum>
+                      <text display-inline="yes-display-inline">the establishment of metrics to assess the effectiveness and timeliness of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department’s</cato:entity-ref> and Information Sharing and Analysis Centers’ information sharing capabilities; and</text>
+                    </clause> 
+<clause commented="no" id="H7409E34820FB4953AFF0800ACA64FE44">
+                      <enum>(iii)</enum>
+                      <text display-inline="yes-display-inline">the establishment of a mechanism for anonymous suggestions and comments;</text>
+                    </clause>
+                  </subparagraph> 
+<subparagraph id="H288504E6F7C1408BAA4299FCCC15EBBE">
+                    <enum>(F)</enum>
+                    <text display-inline="yes-display-inline">implement an integration and analysis function to inform sector planning, risk mitigation, and operational activities regarding the protection of each critical infrastructure sector from cyber incidents;</text>
+                  </subparagraph> 
+<subparagraph commented="no" id="H64DB5B5C64994C11AC1F585DF2ABF14F">
+                    <enum>(G)</enum>
+                    <text>combine consequence, vulnerability, and threat information to share actionable assessments of critical infrastructure sector risks from cyber incidents;</text>
+                  </subparagraph> 
+<subparagraph commented="no" id="H2B2818687FC0466EADBBDD576E4B4B9B">
+                    <enum>(H)</enum>
+                    <text display-inline="yes-display-inline">coordinate with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>, the relevant Sector Specific Agency, and the relevant Sector Coordinating Council to update, maintain, and exercise the National Cybersecurity Incident Response Plan in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:229/ss:b" proposed="true">section 229(b)</cato:entity-ref>; and</text>
+                  </subparagraph> 
+<subparagraph commented="no" id="H94C0D27505B64A9293673BA5E9F5B873">
+                    <enum>(I)</enum>
+                    <text>safeguard cyber threat information from unauthorized disclosure.</text>
+                  </subparagraph>
+                </paragraph> 
+<paragraph commented="no" display-inline="no-display-inline" id="H54B3FFF9FF734797A61B5ED3D4F6992C">
+                  <enum>(3)</enum>
+                  <header>Funding</header>
+                  <text display-inline="yes-display-inline">Of the amounts authorized to be appropriated for each of fiscal years 2014, 2015, and 2016 for the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Cybersecurity and Communications Office" entity-parent-id="7000">Cybersecurity and Communications Office of the Department</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> is authorized to use not less than $25,000,000 for any such year for operations support at the National Cybersecurity and Communications Integration Center established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:228/ss:a" proposed="true">section 228(a)</cato:entity-ref> of all recognized Information Sharing and Analysis Centers under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227/ss:e/p:1" proposed="true">paragraph (1) of this subsection</cato:entity-ref>.</text>
+                </paragraph>
+              </subsection> 
+<subsection id="H75C83EC66CBB409CB27C9740D534D262">
+                <enum>(f)</enum>
+                <header>Clearances</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref>—</text> 
+<paragraph id="H965B42D8DE0046B48A4EE5F829254E6F">
+                  <enum>(1)</enum>
+                  <text>shall expedite the process of security clearances under Executive Order No. 13549 or successor orders for appropriate representatives of Sector Coordinating Councils and the critical infrastructure sector Information Sharing and Analysis Centers; and</text>
+                </paragraph> 
+<paragraph id="HE92665D0DE9145149DD68368612D6516">
+                  <enum>(2)</enum>
+                  <text>may so expedite such processing to—</text> 
+<subparagraph id="HC4C331A2D0EA4105A90D09AD27CFA6A2">
+                    <enum>(A)</enum>
+                    <text>appropriate personnel of critical infrastructure owners and critical infrastructure operators; and</text>
+                  </subparagraph> 
+<subparagraph id="H72969C345E794484BAF52B44A1265894">
+                    <enum>(B)</enum>
+                    <text>any other person as determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref>.</text>
+                  </subparagraph>
+                </paragraph>
+              </subsection> 
+<subsection id="H0056017562424D0CB7CDA97218512DB0">
+                <enum>(g)</enum>
+                <header>Public-Private collaboration</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref>, in collaboration with the critical infrastructure sectors designated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227/ss:b" proposed="true">subsection (b)</cato:entity-ref>, such sectors’ Sector Specific Agencies recognized under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227/ss:c" proposed="true">subsection (c)</cato:entity-ref>, and the Sector Coordinating Councils recognized under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227/ss:d" proposed="true">subsection (d)</cato:entity-ref>, shall—</text> 
+<paragraph id="H37330F8179384D5483AD4B2455D1C100">
+                  <enum>(1)</enum>
+                  <text>conduct an analysis and review of the existing public-private partnership model and evaluate how the model between the Department and critical infrastructure owners and critical infrastructure operators can be improved to ensure the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>, critical infrastructure owners, and critical infrastructure operators are equal partners and regularly collaborate on all programs and activities of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> to protect critical infrastructure;</text>
+                </paragraph> 
+<paragraph id="HC1866B6EED044AFD9902DDE79F18F171">
+                  <enum>(2)</enum>
+                  <text>develop and implement procedures to ensure continuous, collaborative, and effective interactions between the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>, critical infrastructure owners, and critical infrastructure operators; and</text>
+                </paragraph> 
+<paragraph id="H2FA98182A1114F439C81C62468467803">
+                  <enum>(3)</enum>
+                  <text>ensure critical infrastructure sectors have a reasonable period for review and comment of all jointly produced materials with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>.</text>
+                </paragraph>
+              </subsection> 
+<subsection id="HAC1AE256BF7F4B7BB4DD5A4A620DB5DE">
+                <enum>(h)</enum>
+                <header>Recommendations regarding new agreements</header>
+                <text>Not later than 180 days after the date of the enactment of this section, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall submit to the appropriate congressional committees recommendations on how to expedite the implementation of information sharing agreements for cybersecurity purposes between the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> and critical information owners and critical infrastructure operators and other private entities. Such recommendations shall address the development and utilization of a scalable form that retains all privacy and other protections in such agreements in existence as of such date, including Cooperative and Research Development Agreements. Such recommendations should also include any additional authorities or resources that may be needed to carry out the implementation of any such new agreements.</text>
+              </subsection> 
+<subsection id="HABC6BAB487F4452193C0CA6FB9CDEDD9">
+                <enum>(i)</enum>
+                <header>Rule of construction</header>
+                <text>No provision of this title may be construed as modifying, limiting, or otherwise affecting the authority of any other Federal agency under any other provision of law.</text>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection> 
+<subsection id="H27311E4404E143D9B00CAD1574F7E382">
+          <enum>(b)</enum>
+          <header>Clerical amendment</header>
+          <text>The table of contents in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:1/ss:b">section 1(b) of such Act</cato:entity-ref> is amended by adding after the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:226" proposed="true">section 226</cato:entity-ref> (as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:102" proposed="true">section 102</cato:entity-ref>) the following new item:</text> 
+<quoted-block display-inline="no-display-inline" id="H330740CD657B4C5C8E37CA7B44075F08" style="OLC"> 
+<toc regeneration="no-regeneration"> 
+<toc-entry level="section">Sec. 227. Protection of critical infrastructure and information sharing.</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+      </section> 
+<section id="H8674368E8F7547A4986C43638092B8F6">
+        <enum>104.</enum>
+        <header>National Cybersecurity and Communications Integration Center</header> 
+<subsection id="HF18D3ECDDE294199BE646A74AEABFD82">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/t:II/st:C">Subtitle C of title II of the Homeland Security Act of 2002</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:102" proposed="true">sections 102</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:103" proposed="true">103</cato:entity-ref>, is further amended by adding at the end the following new section:</text> 
+<quoted-block display-inline="no-display-inline" id="H351C22042AAA47CC92A8D079C9B7865C" style="OLC"> 
+<section id="H26969F768BD9477FB0FAE7D89736A778">
+              <enum>228.</enum>
+              <header>National Cybersecurity and Communications Integration Center</header> 
+<subsection id="H1E4AE69395494D10A374BADC2E30146A">
+                <enum>(a)</enum>
+                <header>Establishment</header>
+                <text display-inline="yes-display-inline">There is established in the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="National Cybersecurity and Communications Integration Center" entity-parent-id="7000" proposed="true">National Cybersecurity and Communications Integration Center</cato:entity-ref> (referred to in this section as the <term>Center</term>), which shall be a Federal civilian information sharing interface that provides shared situational awareness to enable real-time, integrated, and operational actions across the Federal Government, and share cyber threat information by and among Federal, State, and local government entities, Information Sharing and Analysis Centers, private entities, and critical infrastructure owners and critical infrastructure operators that have an information sharing relationship with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="National Cybersecurity and Communications Integration Center" entity-parent-id="7000" proposed="true">Center</cato:entity-ref>.</text>
+              </subsection> 
+<subsection id="H40CE71DDC31B47129EFFAB4C61DF993A">
+                <enum>(b)</enum>
+                <header>Composition</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="National Cybersecurity and Communications Integration Center" entity-parent-id="7000" proposed="true">Center</cato:entity-ref> shall include each of the following entities:</text> 
+<paragraph id="HFD3F89B733134C8F84CF4A4C0EC5482F">
+                  <enum>(1)</enum>
+                  <text display-inline="yes-display-inline">At least one Information Sharing and Analysis Center established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227/ss:e" proposed="true">section 227(e)</cato:entity-ref> for each critical infrastructure sector.</text>
+                </paragraph> 
+<paragraph commented="no" id="HDEC6BE91DF4C4AF0A4ADF109A244F5E9">
+                  <enum>(2)</enum>
+                  <text>The Multi-State Information Sharing and Analysis Center to collaborate with State and local governments.</text>
+                </paragraph> 
+<paragraph id="H277ECC2AFDEB4B5B9394E918FBE061D8">
+                  <enum>(3)</enum>
+                  <text>The United States Computer Emergency Readiness Team to coordinate cyber threat information sharing, proactively manage cyber risks to the United States, collaboratively respond to cyber incidents, provide technical assistance to information system owners and operators, and disseminate timely notifications regarding current and potential cyber threats and vulnerabilities.</text>
+                </paragraph> 
+<paragraph id="H541341A567D84D789F7203ABE5D0430C">
+                  <enum>(4)</enum>
+                  <text>The Industrial Control System Cyber Emergency Response Team to coordinate with industrial control systems owners and operators and share industrial control systems-related security incidents and mitigation measures.</text>
+                </paragraph> 
+<paragraph id="H78B0DD813DC54A83AA69346C24DBF310">
+                  <enum>(5)</enum>
+                  <text>The National Coordinating Center for Telecommunications to coordinate the protection, response, and recovery of national security emergency communications.</text>
+                </paragraph> 
+<paragraph id="H358C5C0C99DB41939801EC0746315DE4">
+                  <enum>(6)</enum>
+                  <text>Such other Federal, State, and local government entities, private entities, organizations, or individuals as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> may consider appropriate that agree to be included.</text>
+                </paragraph>
+              </subsection> 
+<subsection commented="no" id="HBE1A631B65DA4461B7AF6B9FF37CD7F4">
+                <enum>(c)</enum>
+                <header>Cyber incident</header>
+                <text>In the event of a cyber incident, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> may grant the entities referred to in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:228/ss:a" proposed="true">subsection (a)</cato:entity-ref> immediate temporary access to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="National Cybersecurity and Communications Integration Center" entity-parent-id="7000" proposed="true">Center</cato:entity-ref> as a situation may warrant.</text>
+              </subsection> 
+<subsection id="H69396EB155ED49639CC510B42C53A98F">
+                <enum>(d)</enum>
+                <header>Roles and responsibilities</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="National Cybersecurity and Communications Integration Center" entity-parent-id="7000" proposed="true">Center</cato:entity-ref> shall—</text> 
+<paragraph id="HD71E5C26FAF94E65B46AE9E6C73B788D">
+                  <enum>(1)</enum>
+                  <text display-inline="yes-display-inline">promote ongoing multi-directional sharing by and among the entities referred to in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:228/ss:a" proposed="true">subsection (a)</cato:entity-ref> of timely and actionable cyber threat information and analysis on a real-time basis that includes emerging trends, evolving threats, incident reports, intelligence information, risk assessments, and best practices;</text>
+                </paragraph> 
+<paragraph id="H444281481750493D80EA46DFECF7738B">
+                  <enum>(2)</enum>
+                  <text>coordinate with other Federal agencies to streamline and reduce redundant reporting of cyber threat information;</text>
+                </paragraph> 
+<paragraph id="H18C88B6AD6C74A959B9A4524DD6BCB1A">
+                  <enum>(3)</enum>
+                  <text>provide, upon request, timely technical assistance and crisis management support to Federal, State, and local government entities and private entities that own or operate information systems or networks of information systems to protect from, prevent, mitigate, respond to, and recover from cyber incidents;</text>
+                </paragraph> 
+<paragraph id="H303D10C011C14F9A9F097BEE548F5D1D">
+                  <enum>(4)</enum>
+                  <text>facilitate cross-sector coordination and sharing of cyber threat information to prevent related or consequential impacts to other critical infrastructure sectors;</text>
+                </paragraph> 
+<paragraph id="HCE07BF65A6F648BDBB1D958A842C5811">
+                  <enum>(5)</enum>
+                  <text>collaborate and facilitate discussions with Sector Coordinating Councils, Information Sharing and Analysis Centers, Sector Specific Agencies, and relevant critical infrastructure sectors on the development of prioritized Federal response efforts, if necessary, to support the defense and recovery of critical infrastructure from cyber incidents;</text>
+                </paragraph> 
+<paragraph id="H54C2B9059CD340F0BB5B224D6F758D50">
+                  <enum>(6)</enum>
+                  <text>collaborate with the Sector Coordinating Councils, Information Sharing and Analysis Centers, Sector Specific Agencies, and the relevant critical infrastructure sectors on the development and implementation of procedures to support technology neutral real-time information sharing capabilities and mechanisms;</text>
+                </paragraph> 
+<paragraph id="HB007EB775E0F42F29398B53FC65D1A6E">
+                  <enum>(7)</enum>
+                  <text>collaborate with the Sector Coordinating Councils, Information Sharing and Analysis Centers, Sector Specific Agencies, and the relevant critical infrastructure sectors to identify requirements for data and information formats and accessibility, system interoperability, and redundant systems and alternative capabilities in the event of a disruption in the primary information sharing capabilities and mechanisms at the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="National Cybersecurity and Communications Integration Center" entity-parent-id="7000" proposed="true">Center</cato:entity-ref>;</text>
+                </paragraph> 
+<paragraph id="HDB65D69781EC4693858014534E5ED81C">
+                  <enum>(8)</enum>
+                  <text>within the scope of relevant treaties, cooperate with international partners to share information and respond to cyber incidents;</text>
+                </paragraph> 
+<paragraph id="H45FF05258AD746AB979892625A110BCB">
+                  <enum>(9)</enum>
+                  <text>safeguard sensitive cyber threat information from unauthorized disclosure;</text>
+                </paragraph> 
+<paragraph id="H5F2CE157AAD846E0BB2B6B3547AE9411">
+                  <enum>(10)</enum>
+                  <text>require other Federal civilian agencies to—</text> 
+<subparagraph commented="no" id="HEB311165FA4141CFAA187B950323A783">
+                    <enum>(A)</enum>
+                    <text>send reports and information to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="National Cybersecurity and Communications Integration Center" entity-parent-id="7000" proposed="true">Center</cato:entity-ref> about cyber incidents, threats, and vulnerabilities affecting Federal civilian information systems and critical infrastructure systems and, in the event a private vendor product or service of such an agency is so implicated, the Center shall first notify such private vendor of the vulnerability before further disclosing such information;</text>
+                  </subparagraph> 
+<subparagraph commented="no" id="H6D5618B902E64D6595053928494EE3C9">
+                    <enum>(B)</enum>
+                    <text>provide to the Center cyber incident detection, analysis, mitigation, and response information; and</text>
+                  </subparagraph> 
+<subparagraph commented="no" id="HD657D56D405A458D9E4C3D9E8D7EBADB">
+                    <enum>(C)</enum>
+                    <text display-inline="yes-display-inline">immediately send and disclose to the Center cyber threat information received by such agencies; </text>
+                  </subparagraph>
+                </paragraph> 
+<paragraph id="H2709C247B5E04AC1AA99C6FF87562381">
+                  <enum>(11)</enum>
+                  <text>perform such other duties as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> may require to facilitate a national effort to strengthen and maintain secure, functioning, and resilient critical infrastructure from cyber threats;</text>
+                </paragraph> 
+<paragraph id="H91E099C743274A60B132590CB70F192B">
+                  <enum>(12)</enum>
+                  <text>implement policies and procedures to—</text> 
+<subparagraph id="H0AC4E27E37B74C3BA36CBF95EB8B33BA">
+                    <enum>(A)</enum>
+                    <text>provide technical assistance to Federal civilian agencies to prevent and respond to data breaches involving unauthorized acquisition or access of personally identifiable information that occur on Federal civilian information systems;</text>
+                  </subparagraph> 
+<subparagraph id="HAA02BEF77CCB43B3892087BAC700A689">
+                    <enum>(B)</enum>
+                    <text>require Federal civilian agencies to notify the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="National Cybersecurity and Communications Integration Center" entity-parent-id="7000" proposed="true">Center</cato:entity-ref> about data breaches involving unauthorized acquisition or access of personally identifiable information that occur on Federal civilian information systems without unreasonable delay after the discovery of such a breach; and</text>
+                  </subparagraph> 
+<subparagraph id="H3B7FB08C8A85409F8846EC8CDBEBACF1">
+                    <enum>(C)</enum>
+                    <text>require Federal civilian agencies to notify all potential victims of a data breach involving unauthorized acquisition or access of personally identifiable information that occur on Federal civilian information systems without unreasonable delay, based on a reasonable determination of the level of risk of harm and consistent with the needs of law enforcement; and</text>
+                  </subparagraph>
+                </paragraph> 
+<paragraph id="H2ADC047ECCB44090BF53B00622EC8E44">
+                  <enum>(13)</enum>
+                  <text>participate in exercises run by the Department’s National Exercise Program, where appropriate.</text>
+                </paragraph>
+              </subsection> 
+<subsection id="HB443A21FF472448996474CCF7F98D3CF">
+                <enum>(e)</enum>
+                <header>Integration and analysis</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="National Cybersecurity and Communications Integration Center" entity-parent-id="7000" proposed="true">Center</cato:entity-ref>, in coordination with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Office of Intelligence and Analysis</cato:entity-ref> of the Department, shall maintain an integration and analysis function, which shall —</text> 
+<paragraph id="H3AB15439D30C4061B5B3632BF6D27575">
+                  <enum>(1)</enum>
+                  <text display-inline="yes-display-inline">integrate and analyze all cyber threat information received from other Federal agencies, State and local governments, Information Sharing and Analysis Centers, private entities, critical infrastructure owners, and critical infrastructure operators, and share relevant information in near real-time;</text>
+                </paragraph> 
+<paragraph id="H412E5E77DF994C6CA2D8A4C27EA9F91D">
+                  <enum>(2)</enum>
+                  <text display-inline="yes-display-inline">on an ongoing basis, assess and evaluate consequence, vulnerability, and threat information to share with the entities referred to in subsection (a) actionable assessments of critical infrastructure sector risks from cyber incidents and to assist critical infrastructure owners and critical infrastructure operators by making recommendations to facilitate continuous improvements to the security and resiliency of the critical infrastructure of the United States;</text>
+                </paragraph> 
+<paragraph id="H6FC2236D87D4443AAF55778EBDE08096">
+                  <enum>(3)</enum>
+                  <text>facilitate cross-sector integration, identification, and analysis of key interdependencies to prevent related or consequential impacts to other critical infrastructure sectors;</text>
+                </paragraph> 
+<paragraph id="H53023C292B684CEE97E348B8B5969392">
+                  <enum>(4)</enum>
+                  <text>collaborate with the Information Sharing and Analysis Centers to tailor the analysis of information to the specific characteristics and risk to a relevant critical infrastructure sector; and</text>
+                </paragraph> 
+<paragraph id="H155FB154DFD9450EB1EDC7B65CC4A0E7">
+                  <enum>(5)</enum>
+                  <text>assess and evaluate consequence, vulnerability, and threat information regarding cyber incidents in coordination with the Office of Emergency Communications of the Department to help facilitate continuous improvements to the security and resiliency of public safety communications networks.</text>
+                </paragraph>
+              </subsection> 
+<subsection id="HF47BDABA84664B06B73C53DACBEC004B">
+                <enum>(f)</enum>
+                <header>Report of cyber attacks against Federal Government networks</header>
+                <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HHM00" entity-type="committee">Committee on Homeland Security of the House of Representatives</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSGA00" entity-type="committee">Committee on Homeland Security and Governmental Affairs of the Senate</cato:entity-ref>, and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0500" entity-type="federal-body">Comptroller General of the United States</cato:entity-ref> an annual report that summarizes major cyber incidents involving Federal civilian agency information systems and provides aggregate statistics on the number of breaches, the extent of any personally identifiable information that was involved, the volume of data exfiltrated, the consequential impact, and the estimated cost of remedying such breaches.</text>
+              </subsection> 
+<subsection id="HEDD69BE5507146F7A2795DFD220E516F">
+                <enum>(g)</enum>
+                <header>Report on the operations of the Center</header>
+                <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref>, in consultation with the Sector Coordinating Councils and appropriate Federal Government entities, shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HHM00" entity-type="committee">Committee on Homeland Security of the House of Representatives</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSGA00" entity-type="committee">Committee on Homeland Security and Governmental Affairs of the Senate</cato:entity-ref>, and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0500" entity-type="federal-body">Comptroller General of the United States</cato:entity-ref> an annual report on—</text> 
+<paragraph id="H14A8BE80DE6B4C4BB43DF3E1700DD6BB">
+                  <enum>(1)</enum>
+                  <text>the capability and capacity of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="National Cybersecurity and Communications Integration Center" entity-parent-id="7000" proposed="true">Center</cato:entity-ref> to carry out its cybersecurity mission in accordance with this section, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:226" proposed="true">sections 226</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227" proposed="true">227</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:229" proposed="true">229</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230" proposed="true">230</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230A" proposed="true">230A</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230B" proposed="true">230B</cato:entity-ref>;</text>
+                </paragraph> 
+<paragraph id="HEC8EF2C591784E09B7C428DBEB7476FB">
+                  <enum>(2)</enum>
+                  <text display-inline="yes-display-inline">the extent to which the Department is engaged in information sharing with each critical infrastructure sector designated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227/ss:b" proposed="true">section 227(b)</cato:entity-ref>, including—</text> 
+<subparagraph id="HE9A98949666D4712934F89B7C8DD0446">
+                    <enum>(A)</enum>
+                    <text>the extent to which each such sector has representatives at the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="National Cybersecurity and Communications Integration Center" entity-parent-id="7000" proposed="true">Center</cato:entity-ref>; and</text>
+                  </subparagraph> 
+<subparagraph id="H8AB931A6B01341C7979C4312E62FB369">
+                    <enum>(B)</enum>
+                    <text>the extent to which critical infrastructure owners and critical infrastructure operators of each critical infrastructure sector participate in information sharing at the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="National Cybersecurity and Communications Integration Center" entity-parent-id="7000" proposed="true">Center</cato:entity-ref>;</text>
+                  </subparagraph>
+                </paragraph> 
+<paragraph id="HDEE3EA50DB76414C8520E326D2001719">
+                  <enum>(3)</enum>
+                  <text>the volume and range of activities with respect to which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> collaborated with the Sector Coordinating Councils and the Sector-Specific Agencies to promote greater engagement with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="National Cybersecurity and Communications Integration Center" entity-parent-id="7000" proposed="true">Center</cato:entity-ref>; and</text>
+                </paragraph> 
+<paragraph id="H14817730195A418BB879C32F101B0F4A">
+                  <enum>(4)</enum>
+                  <text>the volume and range of voluntary technical assistance sought and provided by the Department to each critical infrastructure owner and critical infrastructure operator.</text>
+                </paragraph>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection> 
+<subsection id="H9AEB009395E54A51AB29DF5FF593E987">
+          <enum>(b)</enum>
+          <header>Clerical amendment</header>
+          <text display-inline="yes-display-inline">The table of contents in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:1/ss:b">section 1(b) of such Act</cato:entity-ref> is amended by adding after the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227" proposed="true">section 227</cato:entity-ref> (as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:103" proposed="true">section 103</cato:entity-ref>) the following new item:</text> 
+<quoted-block display-inline="no-display-inline" id="HFE0C7545336748559CC8AC83742E1C12" style="OLC"> 
+<toc regeneration="no-regeneration"> 
+<toc-entry level="section">Sec. 228. National Cybersecurity and Communications Integration Center.</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection> 
+<subsection id="H47A1E34C93644479B938D898F1AC4949" commented="no">
+          <enum>(c)</enum>
+          <header>GAO report</header>
+          <text display-inline="yes-display-inline">Not later than one year after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0500" entity-type="federal-body">Comptroller General of the United States</cato:entity-ref> shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HHM00" entity-type="committee">Committee on Homeland Security of the House of Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSGA00" entity-type="committee">Committee on Homeland Security and Governmental Affairs of the Senate</cato:entity-ref> a report on the effectiveness of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="National Cybersecurity and Communications Integration Center" entity-parent-id="7000" proposed="true">National Cybersecurity and Communications Integration Center</cato:entity-ref> established under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:228" proposed="true">section 228 of the Homeland Security Act of 2002</cato:entity-ref>, as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:104/ss:a" proposed="true">subsection (a) of this section</cato:entity-ref>, in carrying out its cybersecurity mission (as such term is defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:2">section 2 of the Homeland Security Act of 2002</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:101" proposed="true">section 101</cato:entity-ref>) in accordance with this Act and such <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:228" proposed="true">section 228</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:226" proposed="true">sections 226</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227" proposed="true">227</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:229" proposed="true">229</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230" proposed="true">230</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230A" proposed="true">230A</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230B" proposed="true">230B of the Homeland Security Act of 2002</cato:entity-ref>, as added by this Act.</text>
+        </subsection>
+      </section> 
+<section id="H1FED84AE3BC34E7EA2C08589E5F528D4">
+        <enum>105.</enum>
+        <header>Cyber incident response and technical assistance</header> 
+<subsection id="H265FF36264054D2593FE3E61915AE731">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/t:II/st:C">Subtitle C of title II of the Homeland Security Act of 2002</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:102" proposed="true">sections 102</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:103" proposed="true">103</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:104" proposed="true">104</cato:entity-ref>, is further amended by adding at the end the following new section:</text> 
+<quoted-block display-inline="no-display-inline" id="H5CFFFBC3016F4055BA9F93F812E83D90" style="OLC"> 
+<section id="H9C338AC4C87A4440A9E4307A6CB8A347">
+              <enum>229.</enum>
+              <header>Cyber incident response and technical assistance</header> 
+<subsection id="HF24C54F96C64483A841C89D1FC7D6B6D">
+                <enum>(a)</enum>
+                <header>In general</header>
+                <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall establish Cyber Incident Response Teams to—</text> 
+<paragraph id="HA6E64F97132945E8856F8F4BD07BE0D0">
+                  <enum>(1)</enum>
+                  <text>upon request, provide timely technical assistance and crisis management support to Federal, State, and local government entities, private entities, and critical infrastructure owners and critical infrastructure operators involving cyber incidents affecting critical infrastructure; and</text>
+                </paragraph> 
+<paragraph id="HF8B176FE405D4B3BBC5D3FD13525FD00">
+                  <enum>(2)</enum>
+                  <text>upon request, provide actionable recommendations on security and resilience measures and countermeasures to Federal, State, and local government entities, private entities, and critical infrastructure owners and critical infrastructure operators prior to, during, and after cyber incidents.</text>
+                </paragraph>
+              </subsection> 
+<subsection id="HDDAFCBA17E404A5C9A3FD08C9475F146">
+                <enum>(b)</enum>
+                <header>Coordination</header>
+                <text>In carrying out <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:229/ss:a" proposed="true">subsection (a)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall coordinate with the relevant Sector Specific Agencies, if applicable.</text>
+              </subsection> 
+<subsection id="HC9C858E2E69A4DB58BFC7E4BB9FDB18C">
+                <enum>(c)</enum>
+                <header>Cyber incident response plan</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref>, in coordination with the Sector Coordinating Councils, Information Sharing and Analysis Centers, and Federal, State, and local governments, shall develop, regularly update, maintain, and exercise a National Cybersecurity Incident Response Plan which shall—</text> 
+<paragraph id="H0B5E3C87EAC14F9BAF4146952C283F58">
+                  <enum>(1)</enum>
+                  <text display-inline="yes-display-inline">include effective emergency response plans associated with cyber threats to critical infrastructure, information systems, or networks of information systems;</text>
+                </paragraph> 
+<paragraph id="HABB77871DAB44701A21E7CCF7621A291">
+                  <enum>(2)</enum>
+                  <text>ensure that such National Cybersecurity Incident Response Plan can adapt to and reflect a changing cyber threat environment, and incorporate best practices and lessons learned from regular exercises, training, and after-action reports; and</text>
+                </paragraph> 
+<paragraph id="HECB6E563C4B64F7BA60579AC4096DDF7">
+                  <enum>(3)</enum>
+                  <text>facilitate discussions on the best methods for developing innovative and useful cybersecurity exercises for coordinating between the Department and each of the critical infrastructure sectors designated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227/ss:b" proposed="true">section 227(b)</cato:entity-ref>.</text>
+                </paragraph>
+              </subsection> 
+<subsection id="H5F14A99F8E854957950BB9031F97C9EE">
+                <enum>(d)</enum>
+                <header>Update to Cyber Incident Annex to the National Response Framework</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref>, in coordination with the heads of other Federal agencies and in accordance with the National Cybersecurity Incident Response Plan under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:229/ss:c" proposed="true">subsection (c)</cato:entity-ref>, shall regularly update, maintain, and exercise the Cyber Incident Annex to the National Response Framework of the Department.</text>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection> 
+<subsection id="H1DE39B88F5544375B600C9A7A71547AE">
+          <enum>(b)</enum>
+          <header>Clerical amendment</header>
+          <text display-inline="yes-display-inline">The table of contents in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:1/ss:b">section 1(b) of such Act</cato:entity-ref> is amended by adding after the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:228" proposed="true">section 228</cato:entity-ref> (as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:104" proposed="true">section 104</cato:entity-ref>) the following new item:</text> 
+<quoted-block display-inline="no-display-inline" id="H666D95FA49B5497AAFE6FD587A8E6781" style="OLC"> 
+<toc regeneration="no-regeneration"> 
+<toc-entry level="section">Sec. 229. Cyber incident response and technical assistance.</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+      </section> 
+<section id="HE012BBB8BC9440E9816073B553AAEB03">
+        <enum>106.</enum>
+        <header>Streamlining of Department cybersecurity organization</header> 
+<subsection id="H04844B3880254BF78359C6CA04133BE5">
+          <enum>(a)</enum>
+          <header>Cybersecurity and infrastructure protection directorate</header>
+          <text display-inline="yes-display-inline">The National Protection and Programs Directorate of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland Security</cato:entity-ref> shall, after the date of the enactment of this Act, be known and designated as the <term>Cybersecurity and Infrastructure Protection Directorate</term>. Any reference to the National Protection and Programs Directorate of the Department in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Cybersecurity and Infrastructure Protection Directorate of the Department.</text>
+        </subsection> 
+<subsection id="HA59BED7D9A2D46F58248726310920F95">
+          <enum>(b)</enum>
+          <header>Senior leadership of the Cybersecurity and Infrastructure Protection Directorate</header> 
+<paragraph id="H46134F9694E3453DBE2156469B57E659">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Homeland Security Act of 2002/s:103/ss:a/p:1">Paragraph (1) of section 103(a) of the Homeland Security Act of 2002</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/6/113">
+                <cato:entity-ref entity-type="uscode" value="usc/6/113/a">6 U.S.C. 113(a)</cato:entity-ref>
+              </external-xref>)</cato:entity> is amended by adding at the end the following new subparagraphs:</text> 
+<quoted-block display-inline="no-display-inline" id="H99A7B6131C704D86BC372C7EC48CE149" style="OLC"> 
+<subparagraph id="H3C2A1A79164A4D0A9328D8387CC6FF2D">
+                <enum>(K)</enum>
+                <text display-inline="yes-display-inline">Under Secretary for Cybersecurity and Infrastructure Protection.</text>
+              </subparagraph> 
+<subparagraph id="HC213FDDDF9964BBCACA2EE0CAAA0E90C">
+                <enum>(L)</enum>
+                <text>Deputy Under Secretary for Cybersecurity.</text>
+              </subparagraph> 
+<subparagraph id="H4ED38C4072644F99971435C010EAEE82">
+                <enum>(M)</enum>
+                <text>Deputy Under Secretary for Infrastructure Protection.</text>
+              </subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph> 
+<paragraph id="H09ED425E5E324AB3B0BEF200E1CC2184">
+            <enum>(2)</enum>
+            <header>Continuation in office</header>
+            <text>The individuals who hold the positions referred to in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:103/ss:a/p:1/sp:K" proposed="true">subparagraphs (K)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:103/ss:a/p:1/sp:L" proposed="true">(L)</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:103/ss:a/p:1/sp:M" proposed="true">(M) of subsection (a) of section 103 of the Homeland Security Act of 2002</cato:entity-ref> (as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:106/ss:b/p:1" proposed="true">paragraph (1) of this subsection</cato:entity-ref>) as of the date of the enactment of this Act may continue to hold such positions.</text>
+          </paragraph>
+        </subsection> 
+<subsection id="H369617636FE344DFB06410FA820EAA2A" commented="no">
+          <enum>(c)</enum>
+          <header>Report on improving the capability and effectiveness of the Cybersecurity and Communications Office</header>
+          <text display-inline="yes-display-inline">To improve the operational capability and effectiveness in carrying out the cybersecurity mission (as such term is defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:2">section 2 of the Homeland Security Act of 2002</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:101" proposed="true">section 101</cato:entity-ref>) of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland Security</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HHM00" entity-type="committee">Committee on Homeland Security of the House of Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSGA00" entity-type="committee">Committee on Homeland Security and Governmental Affairs of the Senate</cato:entity-ref> a report on—</text> 
+<paragraph id="HE995D70374BA41CCB12F7B3A978E3BD6" commented="no">
+            <enum>(1)</enum>
+            <text>the feasibility of making the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Cybersecurity and Communications Office" entity-parent-id="7000">Cybersecurity and Communications Office of the Department</cato:entity-ref> an operational component of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>;</text>
+          </paragraph> 
+<paragraph id="HDD3D85DCE7024753BAFFD4A45DD819F1" commented="no">
+            <enum>(2)</enum>
+            <text display-inline="yes-display-inline">recommendations for restructuring the SAFETY Act Office within the Department to protect and maintain operations in accordance with the Office’s mission to provide incentives for the development and deployment of anti-terrorism technologies while elevating the profile and mission of the Office, including the feasibility of utilizing third-party registrars for improving the throughput and effectiveness of the certification process.</text>
+          </paragraph>
+        </subsection> 
+<subsection id="H75A5F385C7544BCD8CAC74F34BFE95E1" commented="no">
+          <enum>(d)</enum>
+          <header>Report on cybersecurity acquisition capabilities</header>
+          <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> shall assess the effectiveness of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland Security</cato:entity-ref>’s acquisition processes and the use of existing authorities for acquiring cybersecurity technologies to ensure that such processes and authorities are capable of meeting the needs and demands of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department’s</cato:entity-ref> cybersecurity mission (as such term is defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:2">section 2 of the Homeland Security Act of 2002</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:101" proposed="true">section 101</cato:entity-ref>). Not later than 180 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HHM00" entity-type="committee">Committee on Homeland Security of the House of Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSGA00" entity-type="committee">Committee on Homeland Security and Governmental Affairs of the Senate</cato:entity-ref> a report on the effectiveness of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Cybersecurity and Communications Office" entity-parent-id="7000">Department’s</cato:entity-ref> acquisition processes for cybersecurity technologies.</text>
+        </subsection> 
+<subsection id="H671594E1FC72475985C8216E723E3AEC">
+          <enum>(e)</enum>
+          <header>Resource information</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> shall make available <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland Security</cato:entity-ref> contact information to serve as a resource for Sector Coordinating Councils and critical infrastructure owners and critical infrastructure operators to better coordinate cybersecurity efforts with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> relating to emergency response and recovery efforts for cyber incidents.</text>
+        </subsection>
+      </section>
+    </title> 
+<title id="H35E43C486A7845C18D45DDE10CD0E968">
+      <enum>II</enum>
+      <header>Public-Private Collaboration on Cybersecurity</header> 
+<section id="H76D48AC973BB42A9AFFEA5C158C674B0">
+        <enum>201.</enum>
+        <header>Public-private collaboration on cybersecurity</header> 
+<subsection id="H6E0968E401D64CF0AADA439C6378D330" display-inline="no-display-inline">
+          <enum>(a)</enum>
+          <header>National Institute of Standards and Technology</header> 
+<paragraph id="H8E3B9164D1084E8680443C8F49D3F62A">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1341" entity-type="federal-body">Director of the National Institute of Standards and Technology</cato:entity-ref>, in coordination with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref>, shall, on an ongoing basis, facilitate and support the development of a voluntary, industry-led set of standards, guidelines, best practices, methodologies, procedures, and processes to reduce cyber risks to critical infrastructure. The Director, in coordination with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref>—</text> 
+<subparagraph id="H4F46237CC33647B38BC8DEF12B644A90">
+              <enum>(A)</enum>
+              <text>shall—</text> 
+<clause id="H8767E8DD40774E3B87D467658F2CDA05">
+                <enum>(i)</enum>
+                <text>coordinate closely and continuously with relevant private entities, critical infrastructure owners and critical infrastructure operators, Sector Coordinating Councils, Information Sharing and Analysis Centers, and other relevant industry organizations, and incorporate industry expertise to the fullest extent possible;</text>
+              </clause> 
+<clause id="H56C8468070204DAAB380FA4769D1DFCC">
+                <enum>(ii)</enum>
+                <text>consult with the Sector Specific Agencies, Federal, State and local governments, the governments of other countries, and international organizations;</text>
+              </clause> 
+<clause id="H7502C50F59CA460C9A722BDCCA9A74D2">
+                <enum>(iii)</enum>
+                <text>utilize a prioritized, flexible, repeatable, performance-based, and cost-effective approach, including information security measures and controls, that may be voluntarily adopted by critical infrastructure owners and critical infrastructure operators to help them identify, assess, and manage cyber risks;</text>
+              </clause> 
+<clause id="H2E9672B92C68482E8AB4CEA718E09701">
+                <enum>(iv)</enum>
+                <text>include methodologies to—</text> 
+<subclause id="H2CE1B2042F89433A85D974199078ADC2">
+                  <enum>(I)</enum>
+                  <text>identify and mitigate impacts of the cybersecurity measures or controls on business confidentiality; and</text>
+                </subclause> 
+<subclause id="H98352F3E6922422D87C80F2E9C44DAFF">
+                  <enum>(II)</enum>
+                  <text>protect individual privacy and civil liberties;</text>
+                </subclause>
+              </clause> 
+<clause id="H37775DB0317A48CEA73E1F0EFBDFD7EE">
+                <enum>(v)</enum>
+                <text>incorporate voluntary consensus standards and industry best practices, and align with voluntary international standards to the fullest extent possible;</text>
+              </clause> 
+<clause id="HE120D206B00C48C48A9E84A282304573">
+                <enum>(vi)</enum>
+                <text>prevent duplication of regulatory processes and prevent conflict with or superseding of regulatory requirements, mandatory standards, and processes; and</text>
+              </clause> 
+<clause id="H887227B4D55040A997EB4270BD6712B3">
+                <enum>(vii)</enum>
+                <text>include such other similar and consistent elements as determined necessary; and</text>
+              </clause>
+            </subparagraph> 
+<subparagraph id="H344AEFAF30554E0C93B16FABB9D225A1">
+              <enum>(B)</enum>
+              <text>shall not prescribe or otherwise require—</text> 
+<clause id="HB5BC53B0C04B48308C1CB398EE461532">
+                <enum>(i)</enum>
+                <text>the use of specific solutions;</text>
+              </clause> 
+<clause id="H4CCB73F5480D4CDF9DAC67F4215F5ED2">
+                <enum>(ii)</enum>
+                <text>the use of specific information technology products or services; or</text>
+              </clause> 
+<clause id="H7A1B7F192FBD4522ACC945FC36EDFBF1">
+                <enum>(iii)</enum>
+                <text>that information technology products or services be designed, developed, or manufactured in a particular manner.</text>
+              </clause>
+            </subparagraph>
+          </paragraph> 
+<paragraph id="H48B2DCF6BC27488785703F083A3F912C">
+            <enum>(2)</enum>
+            <header>Limitation</header>
+            <text>Information shared with or provided to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1341" entity-type="federal-body">Director of the National Institute of Standards and Technology</cato:entity-ref> or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> for the purpose of the activities under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:201/ss:a/p:1" proposed="true">paragraph (1)</cato:entity-ref> may not be used by any Federal, State, or local government department or agency to regulate the activity of any private entity.</text>
+          </paragraph>
+        </subsection> 
+<subsection id="H70FAB789632349929479BF00F7B6D824">
+          <enum>(b)</enum>
+          <header>Amendment</header> 
+<paragraph id="H9147EB76135F474A88812E9B035F8CD6">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/t:II/st:C">Subtitle C of title II of the Homeland Security Act of 2002</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:102" proposed="true">sections 102</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:103" proposed="true">103</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:104" proposed="true">104</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:105" proposed="true">105</cato:entity-ref>, is further amended by adding at the end the following new section:</text> 
+<quoted-block display-inline="no-display-inline" id="HB49312ECB4E04A91B65F71DFB8DC3969" style="OLC"> 
+<section display-inline="no-display-inline" id="HEE581872052F4FC3B8926A7F949C44D0" section-type="subsequent-section">
+                <enum>230.</enum>
+                <header>Public-private collaboration on cybersecurity</header> 
+<subsection commented="no" id="H2E200339D97A4E41AAB9AA9ED75C31E1">
+                  <enum>(a)</enum>
+                  <header>Meetings</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall meet with the Sector Coordinating Council for each critical infrastructure sector designated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227/ss:b" proposed="true">section 227(b)</cato:entity-ref> on a biannual basis to discuss the cybersecurity threat to critical infrastructure, voluntary activities to address cybersecurity, and ideas to improve the public-private partnership to enhance cybersecurity, in which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall—</text> 
+<paragraph commented="no" id="H5C5ABCB344C742A099CFDE2490417E8A">
+                    <enum>(1)</enum>
+                    <text display-inline="yes-display-inline">provide each Sector Coordinating Council an assessment of the cybersecurity threat to each critical infrastructure sector designated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227/ss:b" proposed="true">section 227(b)</cato:entity-ref>, including information relating to—</text> 
+<subparagraph commented="no" id="HFF6653BBAF9F49FA86BCAB0F752DF4CC">
+                      <enum>(A)</enum>
+                      <text>any actual or assessed cyber threat, including a consideration of adversary capability and intent, preparedness, target attractiveness, and deterrence capabilities;</text>
+                    </subparagraph> 
+<subparagraph commented="no" id="H8BC5D890D3B64BB495E3CEF431C9817D">
+                      <enum>(B)</enum>
+                      <text>the extent and likelihood of death, injury, or serious adverse effects to human health and safety caused by an act of terrorism or other disruption, destruction, or unauthorized use of critical infrastructure;</text>
+                    </subparagraph> 
+<subparagraph commented="no" id="HA6F04DF7AE70499B941D043C01755CBD">
+                      <enum>(C)</enum>
+                      <text>the threat to national security caused by an act of terrorism or other disruption, destruction, or unauthorized use of critical infrastructure; and</text>
+                    </subparagraph> 
+<subparagraph commented="no" id="H480E3528E64E44F7AD20EE22A958F3C0">
+                      <enum>(D)</enum>
+                      <text>the harm to the economy that would result from an act of terrorism or other disruption, destruction, or unauthorized use of critical infrastructure; and</text>
+                    </subparagraph>
+                  </paragraph> 
+<paragraph commented="no" id="HEEBEFD7EBA4C41E8B76227175C2781F6">
+                    <enum>(2)</enum>
+                    <text>provide recommendations, which may be voluntarily adopted, on ways to improve cybersecurity of critical infrastructure.</text>
+                  </paragraph>
+                </subsection> 
+<subsection id="HB4A412C7D1F94B98967D8A48A5E301AA">
+                  <enum>(b)</enum>
+                  <header>Report</header> 
+<paragraph id="H9C51513927194B8D852040210E46BA23">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+                    <text>Starting 30 days after the end of the fiscal year in which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2013" proposed="true">National Cybersecurity and Critical Infrastructure Protection Act of 2013</cato:entity-ref> is enacted and annually thereafter, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall submit to the appropriate congressional committees a report on the state of cybersecurity for each critical infrastructure sector designated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:227/ss:b" proposed="true">section 227(b)</cato:entity-ref> based on discussions between the Department and the Sector Coordinating Council in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230/ss:a" proposed="true">subsection (a)</cato:entity-ref> of this section. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall maintain a public copy of each report, and each report may include a non-public annex for proprietary, business-sensitive information, or other sensitive information. Each report shall include, at a minimum information relating to—</text> 
+<subparagraph id="H932B736AA48E4E63BE55FA9FCA2DD00E">
+                      <enum>(A)</enum>
+                      <text>the risk to each critical infrastructure sector, including known cyber threats, vulnerabilities, and potential consequences;</text>
+                    </subparagraph> 
+<subparagraph id="H6EB7D2F192BA4723B2195237ACB7CCBC">
+                      <enum>(B)</enum>
+                      <text>the extent and nature of any cybersecurity incidents during the previous year, including the extent to which cyber incidents jeopardized or imminently jeopardized information systems;</text>
+                    </subparagraph> 
+<subparagraph id="HCA2DCCA9788F4A5E902E674421A936BA">
+                      <enum>(C)</enum>
+                      <text>the current status of the voluntary, industry-led set of standards, guidelines, best practices, methodologies, procedures, and processes to reduce cyber risks within each critical infrastructure sector; and</text>
+                    </subparagraph> 
+<subparagraph id="H3543BE65556E407BAEDC5FF717F0C7FA">
+                      <enum>(D)</enum>
+                      <text>the volume and range of voluntary technical assistance sought and provided by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> to each critical infrastructure sector.</text>
+                    </subparagraph>
+                  </paragraph> 
+<paragraph id="H4DC3008D3BCA4F959151BE98641BA4FC">
+                    <enum>(2)</enum>
+                    <header>Sector Coordinating Council response</header>
+                    <text>Before making public and submitting each report required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall provide a draft of each report to the Sector Coordinating Council for the critical infrastructure sector covered by each such report. The Sector Coordinating Council at issue may provide to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> a written response to such report within 45 days of receiving the draft. If such Sector Coordinating Council provides a written response, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall include such written response in the final version of each report required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>.</text>
+                  </paragraph>
+                </subsection> 
+<subsection id="H5CAC172DA5174D198872AB27EAE4B7E8">
+                  <enum>(c)</enum>
+                  <header>Limitation</header>
+                  <text>Information shared with or provided to a Sector Coordinating Council, a critical infrastructure sector, or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> for the purpose of the activities under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230/ss:a" proposed="true">subsections (a)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230/ss:b" proposed="true">(b)</cato:entity-ref> may not be used by any Federal, State, or local government department or agency to regulate the activity of any private entity.</text>
+                </subsection>
+              </section>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph> 
+<paragraph id="H48C8854209064C139419A468AE7D19CC">
+            <enum>(2)</enum>
+            <header>Clerical amendment</header>
+            <text>The table of contents in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:1/ss:b">section 1(b) of such Act</cato:entity-ref> is amended by adding after the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:229" proposed="true">section 229</cato:entity-ref> (as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:105" proposed="true">section 105</cato:entity-ref>) the following new item:</text> 
+<quoted-block style="OLC" id="HEFC90C51F01C493197F8F4EF2F100427" display-inline="no-display-inline"> 
+<toc regeneration="no-regeneration"> 
+<toc-entry level="section">Sec. 230. Public-private collaboration on cybersecurity.</toc-entry>
+              </toc>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+        </subsection>
+      </section> 
+<section id="H2A700D13691A4367A615A9E561A44F6B">
+        <enum>202.</enum>
+        <header>SAFETY Act and qualifying cyber incidents</header> 
+<subsection id="HA5AAC4A7AF3249F6A5374DD21634E8FE">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">The <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Support Anti-Terrorism By Fostering Effective Technologies Act of 2002">Support Anti-Terrorism By Fostering Effective Technologies Act of 2002</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/6/441">
+              <cato:entity-ref entity-type="uscode" value="usc/6/441/etseq">6 U.S.C. 441 et seq.</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended—</text> 
+<paragraph id="HD4C0E5304DDC44F788957C791D6E02F6">
+            <enum>(1)</enum>
+            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Support Anti-Terrorism By Fostering Effective Technologies Act of 2002/s:862/ss:b">section 862(b)</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/6/441">
+                <cato:entity-ref entity-type="uscode" value="usc/6/441/b">6 U.S.C. 441(b)</cato:entity-ref>
+              </external-xref>)</cato:entity>—</text> 
+<subparagraph id="HDB300F53103E4B65B6AD9CDB215E8A11">
+              <enum>(A)</enum>
+              <text>in the heading, by striking <quote>
+                  <header-in-text level="subsection" style="OLC">Designation of Qualified Anti-Terrorism Technologies</header-in-text>
+                </quote> and inserting <quote>
+                  <header-in-text level="subsection" style="OLC">Designation of Anti-Terrorism and Cybersecurity Technologies</header-in-text>
+                </quote>;</text>
+            </subparagraph> 
+<subparagraph commented="no" id="HB072C6F217D649488DD8053461848627">
+              <enum>(B)</enum>
+              <text>in the matter preceding <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Support Anti-Terrorism By Fostering Effective Technologies Act of 2002/s:862/ss:b/p:1">paragraph (1)</cato:entity-ref>, by inserting <quote>and cybersecurity</quote> after <quote>anti-terrorism</quote>;</text>
+            </subparagraph> 
+<subparagraph id="HA7D7AF5B640B4C98ADBBFC1E99A99E58">
+              <enum>(C)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Support Anti-Terrorism By Fostering Effective Technologies Act of 2002/s:862/ss:b/p:3">paragraphs (3)</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Support Anti-Terrorism By Fostering Effective Technologies Act of 2002/s:862/ss:b/p:4">(4)</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Support Anti-Terrorism By Fostering Effective Technologies Act of 2002/s:862/ss:b/p:5">(5)</cato:entity-ref>, by inserting <quote>or cybersecurity</quote> after <quote>anti-terrorism</quote> each place it appears; and</text>
+            </subparagraph> 
+<subparagraph id="HCED9EA34F63445658843E54512BB54DC">
+              <enum>(D)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Support Anti-Terrorism By Fostering Effective Technologies Act of 2002/s:862/ss:b/p:7">paragraph (7)</cato:entity-ref>—</text> 
+<clause id="HACCDBF3E03DA4215B2D0C5C7325DE241">
+                <enum>(i)</enum>
+                <text>by inserting <quote>or cybersecurity technology</quote> after <quote>Anti-terrorism technology</quote>; and</text>
+              </clause> 
+<clause id="H8F40F51F828C4F519ACAC76EC43485FC">
+                <enum>(ii)</enum>
+                <text>by inserting <quote>or qualifying cyber incidents</quote> after <quote>acts of terrorism</quote>;</text>
+              </clause>
+            </subparagraph>
+          </paragraph> 
+<paragraph id="H389DA74EB34940AA992E7126509D989A">
+            <enum>(2)</enum>
+            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Support Anti-Terrorism By Fostering Effective Technologies Act of 2002/s:863">section 863</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/6/442">
+                <cato:entity-ref entity-type="uscode" value="usc/6/442">6 U.S.C. 442</cato:entity-ref>
+              </external-xref>)</cato:entity>—</text> 
+<subparagraph id="HCF1366AA365A4094A2F4B70BBCA58E46">
+              <enum>(A)</enum>
+              <text>by inserting <quote>or cybersecurity</quote> after <quote>anti-terrorism</quote> each place it appears;</text>
+            </subparagraph> 
+<subparagraph id="H4DE46CCEB94E4C38A5A8F0C79D9FC4FF">
+              <enum>(B)</enum>
+              <text>by inserting <quote>or qualifying cyber incident</quote> after <quote>act of terrorism</quote> each place it appears; and</text>
+            </subparagraph> 
+<subparagraph id="H340B61D425114FB2AE7162AB44FFC1D0">
+              <enum>(C)</enum>
+              <text>by inserting <quote>or qualifying cyber incidents</quote> after <quote>acts of terrorism</quote> each place it appears;</text>
+            </subparagraph>
+          </paragraph> 
+<paragraph id="H85C8AB31780B48DC86A51EA9D01CCD8A">
+            <enum>(3)</enum>
+            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Support Anti-Terrorism By Fostering Effective Technologies Act of 2002/s:864">section 864</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/6/443">
+                <cato:entity-ref entity-type="uscode" value="usc/6/443">6 U.S.C. 443</cato:entity-ref>
+              </external-xref>)</cato:entity>—</text> 
+<subparagraph id="HD423833668804CEE96F33AB466116F55">
+              <enum>(A)</enum>
+              <text>by inserting <quote>or cybersecurity</quote> after <quote>anti-terrorism</quote> each place it appears; and</text>
+            </subparagraph> 
+<subparagraph id="H7B6CC3B6A743449EA0842408AFDEA881">
+              <enum>(B)</enum>
+              <text>by inserting <quote>or qualifying cyber incident</quote> after <quote>act of terrorism</quote> each place it appears; and</text>
+            </subparagraph>
+          </paragraph> 
+<paragraph id="HE5A1A3351EFE4CD4BB94485961A1182B">
+            <enum>(4)</enum>
+            <text>in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Support Anti-Terrorism By Fostering Effective Technologies Act of 2002/s:865">section 865</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/6/444">
+                <cato:entity-ref entity-type="uscode" value="usc/6/444">6 U.S.C. 444</cato:entity-ref>
+              </external-xref>)</cato:entity>—</text> 
+<subparagraph id="H0FC53E9F4B624E63961DFF739A6E3BF4">
+              <enum>(A)</enum>
+              <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Support Anti-Terrorism By Fostering Effective Technologies Act of 2002/s:865/p:1">paragraph (1)</cato:entity-ref>—</text> 
+<clause id="H9594C1C90B554F788D9BC7199E6D465D">
+                <enum>(i)</enum>
+                <text>in the heading, by inserting <quote>
+                    <header-in-text level="paragraph" style="OLC">or cybersecurity</header-in-text>
+                  </quote> after <quote>
+                    <header-in-text level="paragraph" style="OLC">anti-terrorism</header-in-text>
+                  </quote>;</text>
+              </clause> 
+<clause id="HA25CB6BC186B4A3197FE96222FA0368B">
+                <enum>(ii)</enum>
+                <text>by inserting <quote>or cybersecurity</quote> after <quote>anti-terrorism</quote>;</text>
+              </clause> 
+<clause id="H950EAED120DC4FC09DA9B4B2C3D06F6C">
+                <enum>(iii)</enum>
+                <text>by inserting <quote>or qualifying cyber incidents</quote> after <quote>acts of terrorism</quote>; and</text>
+              </clause> 
+<clause id="H27D254994059482D96F83AA8166A043C">
+                <enum>(iv)</enum>
+                <text>by inserting <quote>or incidents</quote> after <quote>such acts</quote>; and</text>
+              </clause>
+            </subparagraph> 
+<subparagraph id="H2B2AB016C2CE41BCA8BA9D7C5058A5F1">
+              <enum>(B)</enum>
+              <text>by adding at the end the following new paragraph:</text> 
+<quoted-block id="H68041A2A618A46A2BF246FFBCDEB43B5" style="OLC"> 
+<paragraph id="H5B873B6DA7EE4E08880D7914560B6A97">
+                  <enum>(7)</enum>
+                  <header>Qualifying cyber incident</header> 
+<subparagraph id="HE5F8F6ECF462483B9FF2395A13CA17C4">
+                    <enum>(A)</enum>
+                    <header>In general</header>
+                    <text>The term <term>qualifying cyber incident</term> means any act that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> determines meets the requirements under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Support Anti-Terrorism By Fostering Effective Technologies Act of 2002/s:865/p:7/sp:B" proposed="true">subparagraph (B)</cato:entity-ref>, as such requirements are further defined and specified by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref>.</text>
+                  </subparagraph> 
+<subparagraph id="H86026B5C12E54FFAA9E9550E7E023B23">
+                    <enum>(B)</enum>
+                    <header>Requirements</header>
+                    <text>A qualifying cyber incident meets the requirements of this subparagraph if—</text> 
+<clause id="HA83A9580E96843EDAF9C61948659DF01">
+                      <enum>(i)</enum>
+                      <text>the incident is unlawful or otherwise exceeds authorized access authority;</text>
+                    </clause> 
+<clause display-inline="no-display-inline" id="HE15A23A43A9544D397288EB3AEC6C61B">
+                      <enum>(ii)</enum>
+                      <text>the incident disrupts or imminently jeopardizes the integrity, operation, confidentiality, or availability of programmable electronic devices, communication networks, including hardware, software and data that are essential to their reliable operation, electronic storage devices, or any other information system, or the information that system controls, processes, stores, or transmits;</text>
+                    </clause> 
+<clause display-inline="no-display-inline" id="H244DB83F29C74155BAD06B3F3062613D">
+                      <enum>(iii)</enum>
+                      <text>the perpetrator of the incident gains access to an information system or a network of information systems resulting in—</text> 
+<subclause id="H80D3CC37F9D34E5CBD26E4B0C79162B2">
+                        <enum>(I)</enum>
+                        <text>misappropriation or theft of data, assets, information, or intellectual property;</text>
+                      </subclause> 
+<subclause id="H1221D3567F72431CA2958A99C04FA0C2">
+                        <enum>(II)</enum>
+                        <text>corruption of data, assets, information, or intellectual property;</text>
+                      </subclause> 
+<subclause id="HC06887319D134B2EB00FAE04B2601305">
+                        <enum>(III)</enum>
+                        <text>operational disruption; or</text>
+                      </subclause> 
+<subclause id="HA847F14597CE4ECC9DDE453F99C0194A">
+                        <enum>(IV)</enum>
+                        <text>an adverse effect on such system or network, or the data, assets, information, or intellectual property contained therein; and</text>
+                      </subclause>
+                    </clause> 
+<clause id="HA09BB56243EB48CF817DC5F5A3908850">
+                      <enum>(iv)</enum>
+                      <text>the incident causes harm inside or outside the United States that results in material levels of damage, disruption, or casualties severely affecting the United States population, infrastructure, economy, or national morale, or Federal, State, local, or tribal government functions.</text>
+                    </clause>
+                  </subparagraph> 
+<subparagraph id="HE13D43CCD9484F84A2207C18278DDFA6" commented="no">
+                    <enum>(C)</enum>
+                    <header>Rule of construction</header>
+                    <text>For purposes of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Support Anti-Terrorism By Fostering Effective Technologies Act of 2002/s:865/p:7/sp:B/cl:iv" proposed="true">clause (iv) of subparagraph (B)</cato:entity-ref>, the term <quote>severely</quote> includes any qualifying cyber incident, whether at a local, regional, state, national, international, or tribal level, that affects—</text> 
+<clause id="H07A26DD6003841A9B6A45A6394FE422F" commented="no">
+                      <enum>(i)</enum>
+                      <text>the United States population, infrastructure, economy, or national morale, or </text>
+                    </clause> 
+<clause id="HA0F748FCF54046F6921807D853821346" commented="no">
+                      <enum>(ii)</enum>
+                      <text>Federal, State, local, or tribal government functions.</text>
+                    </clause>
+                  </subparagraph>
+                </paragraph>
+                <after-quoted-block>.</after-quoted-block>
+              </quoted-block>
+            </subparagraph>
+          </paragraph>
+        </subsection> 
+<subsection id="HB1A5FA149C07461189E2A7E89B6F550E">
+          <enum>(b)</enum>
+          <header>Funding</header>
+          <text>Of the amounts authorized to be appropriated for each of fiscal years 2014, 2015, and 2016 for the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland Security</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> is authorized to use not less than $20,000,000 for any such year for the Department’s SAFETY Act Office.</text>
+        </subsection>
+      </section> 
+<section id="HC84FCF081D0245A1A887E3DBB539A77D">
+        <enum>203.</enum>
+        <header>Prohibition on new regulatory authority</header>
+        <text display-inline="no-display-inline">This Act and the amendments made by this Act (except that this section shall not apply in the case of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:202" proposed="true">section 202 of this Act</cato:entity-ref> and the amendments made by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:202" proposed="true">such section 202</cato:entity-ref>) do not—</text> 
+<paragraph id="HAF919D7AAC434987A4940DF0DD999D91">
+          <enum>(1)</enum>
+          <text>create or authorize the issuance of any new regulations or additional Federal Government regulatory authority; or</text>
+        </paragraph> 
+<paragraph commented="no" id="H0696032AAA78436A8B990755DBE3AFEE">
+          <enum>(2)</enum>
+          <text>permit regulatory actions that would duplicate, conflict with, or supercede regulatory requirements, mandatory standards, or related processes.</text>
+        </paragraph>
+      </section> 
+<section id="H3A9F452A57A44FC4AA25F670BE12AAA0">
+        <enum>204.</enum>
+        <header>Prohibition on additional authorization of appropriations</header>
+        <text display-inline="no-display-inline">No additional funds are authorized to be appropriated to carry out this Act and the amendments made by this Act. This Act and such amendments shall be carried out using amounts otherwise available for such purposes.</text>
+      </section> 
+<section id="H0C80761DBF18499F8DAC065AB8636AD7">
+        <enum>205.</enum>
+        <header>Prohibition on collection activities to track individuals’ personally identifiable information</header>
+        <text display-inline="no-display-inline">Nothing in this Act shall permit the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland Security</cato:entity-ref> to engage in the monitoring, surveillance, exfiltration, or other collection activities for the purpose of tracking an individual’s personally identifiable information.</text>
+      </section> 
+<section id="H9598BAF751744EAB8CF7742479524FF9">
+        <enum>206.</enum>
+        <header>Cybersecurity scholars</header>
+        <text display-inline="no-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> shall determine the feasibility and potential benefit of developing a visiting security researchers program from academia, including cybersecurity scholars at the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland Security</cato:entity-ref>’s Centers of Excellence, as designated by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref>, to enhance knowledge with respect to the unique challenges of addressing cyber threats to critical infrastructure. Eligible candidates shall possess necessary security clearances and have a history of working with Federal agencies in matters of national or domestic security.</text>
+      </section> 
+<section id="H0762BDE305134196A41A71E604B1CAAC">
+        <enum>207.</enum>
+        <header>National Research Council study on the resilience and reliability of the Nation’s power grid</header> 
+<subsection id="H489F07069B1447169816A250779DD4E3">
+          <enum>(a)</enum>
+          <header>Independent study</header>
+          <text display-inline="yes-display-inline">Not later than 60 days after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref>, in coordination with the heads of other departments and agencies, as necessary, shall enter into an agreement with the National Research Council to conduct research of the future resilience and reliability of the Nation’s electric power transmission and distribution system. The research under this subsection shall be known as the <term>Saving More American Resources Today Study</term> or the <term>SMART Study</term>. In conducting such research, the National Research Council shall—</text> 
+<paragraph id="H4C7C1F11692F4AC99D496107A5AAFB3D">
+            <enum>(1)</enum>
+            <text>research the options for improving the Nation’s ability to expand and strengthen the capabilities of the Nation’s power grid, including estimation of the cost, time scale for implementation, and identification of the scale and scope of any potential significant health and environmental impacts;</text>
+          </paragraph> 
+<paragraph id="H6B06C6621D734070BD4D49292CD82B0F">
+            <enum>(2)</enum>
+            <text>consider the forces affecting the grid, including technical, economic, regulatory, environmental, and geopolitical factors, and how such forces are likely to affect—</text> 
+<subparagraph id="H8DA2EEB328C04B5A93CA28B9BBF09F05">
+              <enum>(A)</enum>
+              <text>the efficiency, control, reliability and robustness of operation;</text>
+            </subparagraph> 
+<subparagraph id="H4BA058B85FCD49CBA428556277BAA214">
+              <enum>(B)</enum>
+              <text>the ability of the grid to recover from disruptions, including natural disasters and terrorist attacks;</text>
+            </subparagraph> 
+<subparagraph id="H353AB2F01E7844C5BCBE79B177CF4D7B">
+              <enum>(C)</enum>
+              <text>the ability of the grid to incorporate greater reliance on distributed and intermittent power generation and electricity storage;</text>
+            </subparagraph> 
+<subparagraph id="H62E215421D704DF28031557EAB40E625">
+              <enum>(D)</enum>
+              <text>the ability of the grid to adapt to changing patterns of demand for electricity; and</text>
+            </subparagraph> 
+<subparagraph id="HFFC793F65DC94822A4784C19CE3A02FF">
+              <enum>(E)</enum>
+              <text>the economic and regulatory factors affecting the evolution of the grid;</text>
+            </subparagraph>
+          </paragraph> 
+<paragraph id="H030A6D7DC3F44309A95724A66589AB02">
+            <enum>(3)</enum>
+            <text>review Federal, State, industry, and academic research and development programs and identify technological options that could improve the future grid;</text>
+          </paragraph> 
+<paragraph id="H23491731CF43409ABE54F4CD24AAE834">
+            <enum>(4)</enum>
+            <text>review studies and analyses prepared by the North American Electric Reliability Corporation (NERC) regarding the future resilience and reliability of the grid;</text>
+          </paragraph> 
+<paragraph id="H98888B63B7F8410E902215F8F253DC16">
+            <enum>(5)</enum>
+            <text>review the implications of increased reliance on digital information and control of the power grid for improving reliability, resilience, and congestion and for potentially increasing vulnerability to cyber attack;</text>
+          </paragraph> 
+<paragraph id="HEDE85EA145D5468EB49E3681BAE23141">
+            <enum>(6)</enum>
+            <text>review regulatory, industry, and institutional factors and programs affecting the future of the grid;</text>
+          </paragraph> 
+<paragraph id="H2186B5CA21234CB89479BDFD92816F39">
+            <enum>(7)</enum>
+            <text>research the costs and benefits, as well as the strengths and weaknesses, of the options identified under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:207/ss:a/p:1" proposed="true">paragraph (1)</cato:entity-ref> to address the emerging forces described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:207/ss:a/p:2" proposed="true">paragraph (2)</cato:entity-ref> that are shaping the grid;</text>
+          </paragraph> 
+<paragraph id="H082515CDBD5E4F3C817FED815803282D">
+            <enum>(8)</enum>
+            <text>identify the barriers to realizing the options identified and suggest strategies for overcoming those barriers including suggested actions, priorities, incentives, and possible legislative and executive actions; and</text>
+          </paragraph> 
+<paragraph id="HBB5FD12E55A444E3B1908C94717BE40F">
+            <enum>(9)</enum>
+            <text>research the ability of the grid to integrate existing and future infrastructure, including utilities, telecommunications lines, highways, and other critical infrastructure.</text>
+          </paragraph>
+        </subsection> 
+<subsection id="HB8FA029D555740B1B7033EED80FE25FF">
+          <enum>(b)</enum>
+          <header>Cooperation and access to information and personnel</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall ensure that the National Research Council receives full and timely cooperation, including full access to information and personnel, from the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland Security</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="8900" entity-type="federal-body">Department of Energy</cato:entity-ref>, including the management and operating components of the Departments, and other Federal departments and agencies, as necessary, for the purposes of conducting the study described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:207/ss:a" proposed="true">subsection (a)</cato:entity-ref>.</text>
+        </subsection> 
+<subsection id="HBC9F75EEF56A4DB48232B11CA5BDAF99">
+          <enum>(c)</enum>
+          <header>Report</header> 
+<paragraph id="HC99FE4234B68406988ADD49B88D3D32E">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text>Not later than 18 months from the date on which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> enters into the agreement with the National Research Council described in subsection (a), the National Research Council shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> and the Committee on <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Homeland Security</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HIF00" entity-type="committee">Committee on Energy and Commerce of the House of Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSGA00" entity-type="committee">Committee on Homeland Security and Governmental Affairs</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSEG00" entity-type="committee">Committee on Energy and Natural Resources of the Senate</cato:entity-ref> a report containing the findings of the research required by that subsection.</text>
+          </paragraph> 
+<paragraph id="H8FF9ADE20B484A2A9EE5F4DB3E6396EC">
+            <enum>(2)</enum>
+            <header>Form of report</header>
+            <text>The report under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:207/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref> shall be submitted in unclassified form, but may include a classified annex.</text>
+          </paragraph>
+        </subsection> 
+<subsection id="HECDC64C7BB8F44F6ABA153A5068684AB">
+          <enum>(d)</enum>
+          <header>Funding</header>
+          <text display-inline="yes-display-inline">Of the amounts authorized to be appropriated for 2014 for the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of Homeland Security</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> is authorized to obligate and expend not more than $2,000,000 for the National Research Council report.</text>
+        </subsection>
+      </section>
+    </title> 
+<title id="H6E7985D3B96D4207AF4E5D44BE96B3F6">
+      <enum>III</enum>
+      <header>Homeland Security Cybersecurity Workforce</header> 
+<section id="H79CEBA923E2C40FDBCBAA7110BCF7210" section-type="subsequent-section">
+        <enum>301.</enum>
+        <header>Homeland security cybersecurity workforce</header> 
+<subsection id="H3A38E8F43FE54F60942385DEF43DEC24">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/t:II/st:C">Subtitle C of title II of the Homeland Security Act of 2002</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:101" proposed="true">sections 101</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:102" proposed="true">102</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:103" proposed="true">103</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:104" proposed="true">104</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:105" proposed="true">105</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:201" proposed="true">201</cato:entity-ref>, is further amended by adding at the end the following new section:</text> 
+<quoted-block id="HEAFC47C29F2B4A99B1DC84CF48F6101E"> 
+<section id="H2810ED29543343728F2AA99AB368AEEC">
+              <enum>230A.</enum>
+              <header>Cybersecurity occupation categories, workforce assessment, and strategy</header> 
+<subsection id="HD3FC9471C5BF443E9925DD65BD62A704">
+                <enum>(a)</enum>
+                <header>Short title</header>
+                <text display-inline="yes-display-inline">This section may be cited as the <quote>
+                    Homeland Security Cybersecurity Boots-on-the-Ground Act</quote>.</text>
+              </subsection> 
+<subsection id="H0149374C34984F22826F75209880E105">
+                <enum>(b)</enum>
+                <header>Cybersecurity occupation categories</header> 
+<paragraph id="H90EAE6E7D1D24110AD33FC09A181C479">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>Not later than 90 days after the date of the enactment of this section, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall develop and issue comprehensive occupation categories for individuals performing activities in furtherance of the cybersecurity mission of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>.</text>
+                </paragraph> 
+<paragraph id="HE370A7972D004D389659C87B85E6FF21">
+                  <enum>(2)</enum>
+                  <header>Applicability</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall ensure that the comprehensive occupation categories issued under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230A/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref> are used throughout the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> and are made available to other Federal agencies.</text>
+                </paragraph>
+              </subsection> 
+<subsection id="HE6F53F986E9B4E008B0ECA5953B4CD1D">
+                <enum>(c)</enum>
+                <header>Cybersecurity workforce assessment</header> 
+<paragraph id="HBBE4757EC9EB471D81BD24C4E4DFE509">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>Not later than 180 days after the date of the enactment of this section and annually thereafter, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall assess the readiness and capacity of the workforce of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> to meet its cybersecurity mission.</text>
+                </paragraph> 
+<paragraph id="H4B43423E86854BE49FE6AE31538F4560">
+                  <enum>(2)</enum>
+                  <header>Contents</header>
+                  <text>The assessment required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230A/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref> shall, at a minimum, include the following:</text> 
+<subparagraph id="HD13144088678448487DFE017A35E69FC">
+                    <enum>(A)</enum>
+                    <text>Information where cybersecurity positions are located within the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>, specified in accordance with the cybersecurity occupation categories issued under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230A/ss:b" proposed="true">subsection (b)</cato:entity-ref>.</text>
+                  </subparagraph> 
+<subparagraph id="HA79E4044858C424CAD991BE6FF367812">
+                    <enum>(B)</enum>
+                    <text>Information on which cybersecurity positions are—</text> 
+<clause id="H6BA7755456C9414C97EA6BB313156844">
+                      <enum>(i)</enum>
+                      <text>performed by—</text> 
+<subclause id="H7957F1815CC543FC83CA55C8A0C1D0C2">
+                        <enum>(I)</enum>
+                        <text>permanent full time departmental employees, together with demographic information about such employees’ race, ethnicity, gender, disability status, and veterans status;</text>
+                      </subclause> 
+<subclause id="H820343FD19E04AE595581AAA267065B8">
+                        <enum>(II)</enum>
+                        <text>individuals employed by independent contractors; and</text>
+                      </subclause> 
+<subclause id="H80146231EFFA41FEB6D12C297E528A71">
+                        <enum>(III)</enum>
+                        <text>individuals employed by other Federal agencies, including the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="97CG" entity-type="federal-body">National Security Agency</cato:entity-ref>; and</text>
+                      </subclause>
+                    </clause> 
+<clause id="H1A17DECADBD2483DAE60A7C77FBC3024">
+                      <enum>(ii)</enum>
+                      <text>vacant.</text>
+                    </clause>
+                  </subparagraph> 
+<subparagraph id="H97FF0599A42646279A14ECE39A070010">
+                    <enum>(C)</enum>
+                    <text>The number of individuals hired by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> pursuant to the authority granted to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> in 2009 to permit the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> to fill 1,000 cybersecurity positions across the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> over a three year period, and information on what challenges, if any, were encountered with respect to the implementation of such authority.</text>
+                  </subparagraph> 
+<subparagraph id="H52333960EDCE44DFB437C5D792F475F6">
+                    <enum>(D)</enum>
+                    <text>Information on vacancies within the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department’s</cato:entity-ref> cybersecurity supervisory workforce, from first line supervisory positions through senior departmental cybersecurity positions.</text>
+                  </subparagraph> 
+<subparagraph id="H18DCA8BC699A44F4822DADA058ABC83C">
+                    <enum>(E)</enum>
+                    <text>Information on the percentage of individuals within each cybersecurity occupation category who received essential training to perform their jobs, and in cases in which such training is not received, information on what challenges, if any, were encountered with respect to the provision of such training.</text>
+                  </subparagraph> 
+<subparagraph id="H0C28F8560C6E410BB53D466ACE2D875F">
+                    <enum>(F)</enum>
+                    <text>Information on recruiting costs incurred with respect to efforts to fill cybersecurity positions across the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> in a manner that allows for tracking of overall recruiting and identifying areas for better coordination and leveraging of resources within the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>.</text>
+                  </subparagraph>
+                </paragraph>
+              </subsection> 
+<subsection id="HB0C4975A3CDD448689EE7835D6A46CE0">
+                <enum>(d)</enum>
+                <header>Workforce strategy</header> 
+<paragraph id="H6F44CCA69117479395B4BBB4A94057BB">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>Not later than 180 days after the date of the enactment of this section, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall develop, maintain, and, as necessary, update, a comprehensive workforce strategy that enhances the readiness, capacity, training, recruitment, and retention of the cybersecurity workforce of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>.</text>
+                </paragraph> 
+<paragraph id="H3447C18CDBB642CC9DEF80BC782438B5">
+                  <enum>(2)</enum>
+                  <header>Contents</header>
+                  <text>The comprehensive workforce strategy developed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230A/ss:d/p:1" proposed="true">paragraph (1)</cato:entity-ref> shall include—</text> 
+<subparagraph id="H7FA790B16B4D44E5BA413993411342E3">
+                    <enum>(A)</enum>
+                    <text display-inline="yes-display-inline">a multiphased recruitment plan, including relating to experienced professionals, members of disadvantaged or underserved communities, the unemployed, and veterans;</text>
+                  </subparagraph> 
+<subparagraph id="HA160BBEDF1EF4816B52061FC5B86EA64">
+                    <enum>(B)</enum>
+                    <text>a 5-year implementation plan;</text>
+                  </subparagraph> 
+<subparagraph id="H4863DCDD0B2D42F299052A60D03C46F1">
+                    <enum>(C)</enum>
+                    <text>a 10-year projection of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department’s</cato:entity-ref> cybersecurity workforce needs; and</text>
+                  </subparagraph> 
+<subparagraph id="HC9BBB8616764411CB9F4B3C4E4038D58">
+                    <enum>(D)</enum>
+                    <text>obstacles impeding the hiring and development of a cybersecurity workforce at the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref>.</text>
+                  </subparagraph>
+                </paragraph>
+              </subsection> 
+<subsection id="H6AB3A45FD45049B6BCAD643D48DBEF53">
+                <enum>(e)</enum>
+                <header>Information security training</header>
+                <text display-inline="yes-display-inline">Not later than 270 days after the date of the enactment of this section, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall establish and maintain a process to verify on an ongoing basis that individuals employed by independent contractors who serve in cybersecurity positions at the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> receive initial and recurrent information security training comprised of general security awareness training necessary to perform their job functions, and role-based security training that is commensurate with assigned responsibilities. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall maintain documentation to ensure that training provided to an individual under this subsection meets or exceeds requirements for such individual’s job function.</text>
+              </subsection> 
+<subsection id="HE9953E4BB1C34EDBBB4230A85E038DAC" commented="no">
+                <enum>(f)</enum>
+                <header>Updates</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall submit to the appropriate congressional committees annual updates regarding the cybersecurity workforce assessment required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230A/ss:c" proposed="true">subsection (c)</cato:entity-ref>, information on the progress of carrying out the comprehensive workforce strategy developed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230A/ss:d" proposed="true">subsection (d)</cato:entity-ref>, and information on the status of the implementation of the information security training required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230A/ss:e" proposed="true">subsection (e)</cato:entity-ref>.</text>
+              </subsection> 
+<subsection id="HB85834E67E0A4499990966DF6F86CBB8">
+                <enum>(g)</enum>
+                <header>GAO study</header>
+                <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall provide the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0500" entity-type="federal-body">Comptroller General of the United States</cato:entity-ref> with information on the cybersecurity workforce assessment required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230A/ss:c" proposed="true">subsection (c)</cato:entity-ref> and progress on carrying out the comprehensive workforce strategy developed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230A/ss:d" proposed="true">subsection (d)</cato:entity-ref>. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0500" entity-type="federal-body">Comptroller General</cato:entity-ref> shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> and the appropriate congressional committees a study on such assessment and strategy.</text>
+              </subsection> 
+<subsection id="H7FE8A39556E64473A0BE971F595F84E6">
+                <enum>(h)</enum>
+                <header>Cybersecurity Fellowship Program</header>
+                <text>Not later than 120 days after the date of the enactment of this section, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall submit to the appropriate congressional committees a report on the feasibility of establishing a Cybersecurity Fellowship Program to offer a tuition payment plan for undergraduate and doctoral candidates who agree to work for the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> for an agreed-upon period of time.</text>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection> 
+<subsection id="H5B01510449E740BBAEBD42AEFCF7ABB6">
+          <enum>(b)</enum>
+          <header>Clerical amendment</header>
+          <text display-inline="yes-display-inline">The table of contents in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:1/ss:b">section 1(b) of such Act</cato:entity-ref> is amended by adding after the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230" proposed="true">section 230</cato:entity-ref> (as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:201" proposed="true">section 201</cato:entity-ref>) the following new item:</text> 
+<quoted-block style="OLC" id="HEF4156E16824428EA2C1F4216082C611" display-inline="no-display-inline"> 
+<toc regeneration="no-regeneration"> 
+<toc-entry level="section">Sec. 230A. Cybersecurity occupation categories, workforce assessment, and strategy.</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+      </section> 
+<section id="H632DB6F6C6D74B8487C4982E53D50714">
+        <enum>302.</enum>
+        <header>Personnel authorities</header> 
+<subsection id="H49A22371E5DB4567B61C8A05F0E874D7">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/t:II/st:C">Subtitle C of title II of the Homeland Security Act of 2002</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:101" proposed="true">sections 101</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:102" proposed="true">102</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:103" proposed="true">103</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:104" proposed="true">104</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:105" proposed="true">105</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:106" proposed="true">106</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:201" proposed="true">201</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:301" proposed="true">301</cato:entity-ref> is further amended by adding at the end the following new section:</text> 
+<quoted-block display-inline="no-display-inline" id="H04E30AC9DDC5466C939E510FBD9FFAE3" style="OLC"> 
+<section id="H0D4A31CBD1524638B8696EE528FF1F92">
+              <enum>230B.</enum>
+              <header>Personnel authorities</header> 
+<subsection id="H81A6C38E0BB445E6AFB85E0A19486B68">
+                <enum>(a)</enum>
+                <header>In general</header> 
+<paragraph id="H820AD17490184202878C7E01D29C1FF3">
+                  <enum>(1)</enum>
+                  <header>Personnel authorities</header>
+                  <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> may exercise with respect to qualified employees of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Department</cato:entity-ref> the same authority that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Secretary of Defense</cato:entity-ref> has with respect to civilian intelligence personnel and the scholarship program under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/1601">sections 1601</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/1602">1602</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/1603">1603</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/10/2200a">2200a of title 10, United States Code</cato:entity-ref>, to establish as positions in the excepted service, appoint individuals to such positions, fix pay, and pay a retention bonus to any employee appointed under this section if the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> determines that such is needed to retain essential personnel. Before announcing the payment of a bonus under this paragraph, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HHM00" entity-type="committee">Committee on Homeland Security of the House of Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSGA00" entity-type="committee">Committee on Homeland Security and Governmental Affairs of the Senate</cato:entity-ref> a written explanation of such determination. Such authority shall be exercised—</text> 
+<subparagraph id="H432B4007C5374CCDA8E641B47360DAD6">
+                    <enum>(A)</enum>
+                    <text display-inline="yes-display-inline">to the same extent and subject to the same conditions and limitations that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Secretary of Defense</cato:entity-ref> may exercise such authority with respect to civilian intelligence personnel of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Department of Defense</cato:entity-ref>; and</text>
+                  </subparagraph> 
+<subparagraph id="HDE0BEFA43B7B45AC95E01F05BD487048">
+                    <enum>(B)</enum>
+                    <text display-inline="yes-display-inline">in a manner consistent with the merit system principles set forth in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/2301">
+                        <external-xref legal-doc="usc" parsable-cite="usc/5/2301">section 2301</external-xref> of title 5, United States Code</cato:entity-ref>.</text>
+                  </subparagraph>
+                </paragraph> 
+<paragraph id="H38CBF43AECCE4B358281BE9BFA58BD99">
+                  <enum>(2)</enum>
+                  <header>Civil service protections</header>
+                  <text display-inline="yes-display-inline">
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/1221">Sections 1221</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/2302">2302</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/75">
+                      <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/75">chapter 75</external-xref> of title 5, United States Code</cato:entity-ref>, shall apply to the positions established pursuant to the authorities provided under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230B/ss:a/p:1" proposed="true">paragraph (1)</cato:entity-ref>.</text>
+                </paragraph> 
+<paragraph id="H8110225D89DB4E0388E9E9848D9B4D8F">
+                  <enum>(3)</enum>
+                  <header>Plan for execution of authorities</header>
+                  <text display-inline="yes-display-inline">Not later than 120 days after the date of the enactment of this section, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HHM00" entity-type="committee">Committee on Homeland Security of the House of Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSGA00" entity-type="committee">Committee on Homeland Security and Governmental Affairs of the Senate</cato:entity-ref> a report that contains a plan for the use of the authorities provided under this subsection.</text>
+                </paragraph>
+              </subsection> 
+<subsection id="H90849FFE19714BF899C155C57C7C944B">
+                <enum>(b)</enum>
+                <header>Annual report</header>
+                <text display-inline="yes-display-inline">Not later than one year after the date of the enactment of this section and annually thereafter for four years, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HHM00" entity-type="committee">Committee on Homeland Security of the House of Representatives</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSGA00" entity-type="committee">Committee on Homeland Security and Governmental Affairs of the Senate</cato:entity-ref> a detailed report (including appropriate metrics on actions occurring during the reporting period) that discusses the processes used by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7000">Secretary</cato:entity-ref> in implementing this section and accepting applications, assessing candidates, ensuring adherence to veterans’ preference, and selecting applicants for vacancies to be filled by a qualified employee.</text>
+              </subsection> 
+<subsection id="H3DF0A65309964DDD9CB62FDC8BC26956">
+                <enum>(c)</enum>
+                <header>Definition of qualified employee</header>
+                <text display-inline="yes-display-inline">In this section, the term <term>qualified employee</term> means an employee who performs functions relating to the security of Federal civilian information systems, critical infrastructure information systems, or networks of either of such systems.</text>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection> 
+<subsection id="H8A9033CC2FB840F48A6D224E49192D40">
+          <enum>(b)</enum>
+          <header>Clerical amendment</header>
+          <text display-inline="yes-display-inline">The table of contents in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:1/ss:b">section 1(b) of such Act</cato:entity-ref> is amended by adding after the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Homeland Security Act of 2002/s:230A" proposed="true">section 230A</cato:entity-ref> (as added by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Cybersecurity and Critical Infrastructure Protection Act of 2014/s:301" proposed="true">section 301</cato:entity-ref>) the following new item:</text> 
+<quoted-block display-inline="no-display-inline" id="H847B1BEE6E16423DB8BAA957F8959C89" style="OLC"> 
+<toc regeneration="no-regeneration"> 
+<toc-entry level="section">Sec. 230B. Personnel authorities.</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+      </section>
+    </title> 
+</legis-body> <attestation>
+    <attestation-group>
+      <attestation-date date="20140728" chamber="House">Passed the House of Representatives July 28, 2014.</attestation-date>
+      <attestor display="no">Karen L. Haas,</attestor>
+      <role>Clerk.</role>
+    </attestation-group>
+  </attestation>
+<endorsement display="yes"/>
+</bill>
+</doc>

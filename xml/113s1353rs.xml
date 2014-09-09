@@ -1,0 +1,2983 @@
+<doc>
+  <docmeta id="113s1353rs">
+    <bill congress="113" type="s" number="1353" version="rs"/>
+    <revision size="82574" annotations="0" status="complete" id="6" commit-time="2014-09-04T19:59:58Z" committer="mbohmer" doc="113s1353rs/6.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Reported-in-Senate" dms-id="A1" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S1353 RS: Cybersecurity Act of 2013</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2013-07-24</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<calendar>Calendar No. 490</calendar>
+		<congress>113th CONGRESS</congress>
+		<session>2d Session</session>
+		<legis-num>S. 1353</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20130724">July 24, 2013</action-date>
+			<action-desc>
+        <sponsor name-id="S176">Mr. Rockefeller</sponsor> (for
+			 himself and <cosponsor name-id="S303">Mr. Thune</cosponsor>) introduced the
+			 following bill; which was read twice and referred to the
+			 <committee-name added-display-style="italic" committee-id="SSCM00" deleted-display-style="strikethrough">Committee on Commerce, Science, and
+			 Transportation</committee-name>
+      </action-desc>
+		</action>
+		<action stage="Reported-in-Senate">
+			<action-date>July 24, 2014</action-date>
+			<action-desc>Reported by <sponsor name-id="S176">Mr.
+			 Rockefeller</sponsor>, with an amendment</action-desc>
+			<action-instruction>Strike out all after the enacting clause and insert
+			 the part printed in italic</action-instruction>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To provide for an ongoing, voluntary public-private
+		  partnership to improve cybersecurity, and to strengthen cybersecurity research
+		  and development, workforce development and education, and public awareness and
+		  preparedness, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section changed="deleted" committee-id="SSCM00" id="S1" reported-display-style="strikethrough" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title; table of
+			 contents</header>
+			<subsection id="id238A5A30E31F4F27A4E326E504F5A6F7">
+        <enum>(a)</enum>
+        <header>Short
+			 title</header>
+        <text display-inline="yes-display-inline">This Act may be cited
+			 as the <quote>
+            <short-title>Cybersecurity Act of
+			 2013</short-title>
+          </quote>.</text>
+			</subsection>
+      <subsection id="idE98BC202F9094679BC8EB1A707009F24">
+        <enum>(b)</enum>
+        <header>Table of
+			 contents</header>
+        <text display-inline="yes-display-inline">The table of
+			 contents of this Act is as follows:</text>
+				<toc changed="deleted" committee-id="SSCM00" reported-display-style="strikethrough">
+					<toc-entry idref="S1" level="section">Sec. 1. Short title;
+				table of contents.</toc-entry>
+					<toc-entry idref="id2D5D4CA256A347E7B403F9BE1143C1FC" level="section">Sec. 2. Definitions.</toc-entry>
+					<toc-entry idref="id322A7E3D0D8A4804A0A46804CBA84964" level="section">Sec. 3. No regulatory
+				authority.</toc-entry>
+					<toc-entry idref="id338D61CFCB3148F38A04FB98C20BB71B" level="title">TITLE I—Public-private
+				collaboration on cybersecurity</toc-entry>
+					<toc-entry idref="id391C7C63FC5C4859BE13D4BBB2D9C959" level="section">Sec. 101. Public-private collaboration
+				on cybersecurity.</toc-entry>
+					<toc-entry idref="id86A7BC9B94844B549A74A7A17EB0FB1F" level="title">TITLE II—Cybersecurity
+				research and development</toc-entry>
+					<toc-entry idref="id629565BEB8AE4C93BF65E01059148E00" level="section">Sec. 201. Federal cybersecurity research
+				and development.</toc-entry>
+					<toc-entry idref="id7429B7201ECF49AC8EE4C8C0CB0AAB1F" level="section">Sec. 202. Computer and network security
+				research centers.</toc-entry>
+					<toc-entry idref="idCDF3768C40704698AA2A5B8782C7BA59" level="title">TITLE III—Education and
+				Workforce Development</toc-entry>
+					<toc-entry idref="idEF53002043F744BFA83C5F143465171F" level="section">Sec. 301. Cybersecurity competitions and
+				challenges.</toc-entry>
+					<toc-entry idref="id7591C67A97344807BA28AD584C48E08C" level="section">Sec. 302. Federal cyber
+				scholarship-for-service program.</toc-entry>
+					<toc-entry idref="idd04708016d3c4934bf8b136992e5a094" level="section">Sec. 303. Study and analysis of
+				education, accreditation, training, and certification of
+			 information
+				infrastructure and cybersecurity professionals.</toc-entry>
+					<toc-entry idref="id4EC632D44A394CFBB5C1659916447D61" level="title">TITLE IV—Cybersecurity
+				Awareness and Preparedness</toc-entry>
+					<toc-entry idref="id38F17EAB9FEC4C2E961AD081B1E20975" level="section">Sec. 401. National cybersecurity
+				awareness and preparedness campaign.</toc-entry>
+				</toc>
+			</subsection>
+    </section>
+    <section changed="deleted" commented="no" committee-id="SSCM00" id="id2D5D4CA256A347E7B403F9BE1143C1FC" reported-display-style="strikethrough">
+      <enum>2.</enum>
+      <header>Definitions</header>
+      <text display-inline="no-display-inline">In this Act:</text>
+			<paragraph commented="no" id="id2FA8E0D8AC53455CAC07A73818F206B1">
+        <enum>(1)</enum>
+        <header>Cybersecurity
+			 mission</header>
+        <text>The term <term>cybersecurity mission</term> means
+			 activities that encompass the full range of threat reduction,
+			 vulnerability
+			 reduction, deterrence, international engagement, incident response,
+			 resiliency,
+			 and recovery policies and activities, including computer network
+			 operations,
+			 information assurance, law enforcement, diplomacy, military, and
+			 intelligence
+			 missions as such activities relate to the security and stability of
+			 cyberspace.</text>
+			</paragraph>
+      <paragraph commented="no" id="id473D2FDAA64A44BB8D3DBD4B099E77FD">
+        <enum>(2)</enum>
+        <header>Information
+			 infrastructure</header>
+        <text>The term <term>information infrastructure</term>
+			 means the underlying framework that information systems and assets rely on
+			 to
+			 process, transmit, receive, or store information electronically, including
+			 programmable electronic devices, communications networks, and industrial
+			 or
+			 supervisory control systems and any associated hardware, software, or
+			 data.</text>
+			</paragraph>
+      <paragraph commented="no" id="id6C13F82696584DCFB90AE69FE2302A07">
+        <enum>(3)</enum>
+        <header>Information
+			 system</header>
+        <text>The term <term>information system</term> has the meaning
+			 given that term in <external-xref legal-doc="usc" parsable-cite="usc/44/3502">section 3502</external-xref> of title 44, United States Code.</text>
+			</paragraph>
+    </section>
+    <section changed="deleted" commented="no" committee-id="SSCM00" id="id322A7E3D0D8A4804A0A46804CBA84964" reported-display-style="strikethrough">
+      <enum>3.</enum>
+      <header>No regulatory
+			 authority</header>
+      <text display-inline="no-display-inline">Nothing in this Act
+			 shall be construed to confer any regulatory authority on any Federal,
+			 State,
+			 tribal, or local department or agency.</text>
+		</section>
+    <title changed="deleted" committee-id="SSCM00" id="id338D61CFCB3148F38A04FB98C20BB71B" reported-display-style="strikethrough">
+      <enum>I</enum>
+      <header>Public-private
+			 collaboration on cybersecurity</header>
+			<section id="id391C7C63FC5C4859BE13D4BBB2D9C959">
+        <enum>101.</enum>
+        <header>Public-private
+			 collaboration on cybersecurity</header>
+				<subsection id="idF53AEE26E48C4517AC8D93766A0ABF3F">
+          <enum>(a)</enum>
+          <header>Cybersecurity</header>
+          <text>Section
+			 2(c) of the National Institute of Standards and Technology Act (15 U.S.C.
+			 272(c)) is amended—</text>
+					<paragraph id="id8319F775DBA1459EA606FC814AD62AB5">
+            <enum>(1)</enum>
+            <text>by redesignating
+			 paragraphs (15) through (22) as paragraphs (16) through (23),
+			 respectively;
+			 and</text>
+					</paragraph>
+          <paragraph id="id1541E63E2D89476992A2EEF2109A718F">
+            <enum>(2)</enum>
+            <text>by inserting after
+			 paragraph (14) the following:</text>
+						<quoted-block changed="deleted" committee-id="SSCM00" display-inline="no-display-inline" id="idDFDB0D457AFE4DA8A7C967DF03CD776D" reported-display-style="strikethrough" style="OLC">
+							<paragraph id="idEF03F3B6407448A6ABD91DC35E17AC13">
+                <enum>(15)</enum>
+                <text>on an ongoing
+				basis, facilitate and support the development of a voluntary,
+			 industry-led set
+				of standards, guidelines, best practices, methodologies,
+			 procedures, and
+				processes to reduce cyber risks to critical infrastructure (as
+			 defined under
+				subsection
+				(e));</text>
+							</paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="id2DA960DC33B841A8965D95E1ACC49C37">
+          <enum>(b)</enum>
+          <header>Scope and
+			 limitations</header>
+          <text>Section 2 of the National Institute of Standards and
+			 Technology Act (<external-xref legal-doc="usc" parsable-cite="usc/15/272">15 U.S.C. 272</external-xref>) is amended by adding at the end the
+			 following:</text>
+					<quoted-block changed="deleted" committee-id="SSCM00" display-inline="no-display-inline" id="idF05DA6F4CDF94A929B483875D0352BA4" reported-display-style="strikethrough" style="OLC">
+						<subsection id="id361B8E9835F24DE595DCC44351CC7E62">
+              <enum>(e)</enum>
+              <header>Cyber
+				risks</header>
+							<paragraph id="idC946AF1C6D8C4E4BA3A6B4EFAD131C20">
+                <enum>(1)</enum>
+                <header>In
+				general</header>
+                <text>In carrying out the activities under subsection (c)(15),
+				the Director—</text>
+								<subparagraph id="id7410F78D37444B019FA1B661DE5A32F5">
+                  <enum>(A)</enum>
+                  <text>shall—</text>
+									<clause id="idE32EDB7A55C64D9EBDDB30947DA50453">
+                    <enum>(i)</enum>
+                    <text>coordinate closely
+				and continuously with relevant private sector personnel and
+			 entities, critical
+				infrastructure owners and operators, sector coordinating councils,
+			 Information
+				Sharing and Analysis Centers, and other relevant industry
+			 organizations, and
+				incorporate industry expertise;</text>
+									</clause>
+                  <clause id="id4E1FDDFE4B9F467F96077ADED354197B">
+                    <enum>(ii)</enum>
+                    <text>consult with the
+				heads of agencies with national security responsibilities,
+			 sector-specific
+				agencies, State and local governments, the governments of other
+			 nations, and
+				international organizations;</text>
+									</clause>
+                  <clause id="idFF45137A026D4B09A8A76D7E2629002A">
+                    <enum>(iii)</enum>
+                    <text>identify a
+				prioritized, flexible, repeatable, performance-based, and
+			 cost-effective
+				approach, including information security measures and controls,
+			 that may be
+				voluntarily adopted by owners and operators of critical
+			 infrastructure to help
+				them identify, assess, and manage cyber risks;</text>
+									</clause>
+                  <clause id="id497ED64C0EA24E768BBA19F40309BD67">
+                    <enum>(iv)</enum>
+                    <text>include
+				methodologies—</text>
+										<subclause id="id0FE40C8165064433A6C38D7A37CF2F03">
+                      <enum>(I)</enum>
+                      <text>to identify and
+				mitigate impacts of the cybersecurity measures or controls on
+			 business
+				confidentiality; and</text>
+										</subclause>
+                    <subclause id="id126BAE9C5EB64E0C952B02B1BC687ACB">
+                      <enum>(II)</enum>
+                      <text>to protect
+				individual privacy and civil liberties;</text>
+										</subclause>
+                  </clause>
+                  <clause id="idA1E6B68370BD4D89AC50409DF65E3798">
+                    <enum>(v)</enum>
+                    <text>incorporate
+				voluntary consensus standards and industry best practices;</text>
+									</clause>
+                  <clause id="id3030371AC204451F845DA9FBD4F7D486">
+                    <enum>(vi)</enum>
+                    <text>align with
+				voluntary international standards to the fullest extent possible;</text>
+									</clause>
+                  <clause id="idAA368A06374149018C72136D261FF7D5">
+                    <enum>(vii)</enum>
+                    <text>prevent
+				duplication of regulatory processes and prevent conflict with or
+			 superseding of
+				regulatory requirements, mandatory standards, and related
+			 processes; and</text>
+									</clause>
+                  <clause id="idF0ABD36655B540F683266D0F22DA386E">
+                    <enum>(viii)</enum>
+                    <text>include such
+				other similar and consistent elements as the Director considers
+			 necessary;
+				and</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="idCA267527B5304F60A4FA16605DC45B4B">
+                  <enum>(B)</enum>
+                  <text>shall not
+				prescribe or otherwise require—</text>
+									<clause id="id0583CC4F96C34F04802EC14222B7498F">
+                    <enum>(i)</enum>
+                    <text>the use of
+				specific solutions;</text>
+									</clause>
+                  <clause id="id56043921E95B442BA22A2C7F73EDB486">
+                    <enum>(ii)</enum>
+                    <text>the use of
+				specific information or communications technology products or
+			 services;
+				or</text>
+									</clause>
+                  <clause id="id58685D9456CA4ECA8CF3E672AC088469">
+                    <enum>(iii)</enum>
+                    <text>that information
+				or communications technology products or services be designed,
+			 developed, or
+				manufactured in a particular manner.</text>
+									</clause>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="idEFC1F016C58F42A8A267E078F1F10C61">
+                <enum>(2)</enum>
+                <header>Limitation</header>
+                <text>Information
+				shared with or provided to the Institute for the purpose of the
+			 activities
+				described under subsection (c)(15) shall not be used by any
+			 Federal, State,
+				tribal, or local department or agency to regulate the activity of
+			 any
+				entity.</text>
+							</paragraph>
+              <paragraph id="idB6AFFB413ED74F83B62429B59376C3CF">
+                <enum>(3)</enum>
+                <header>Definitions</header>
+                <text>In
+				this subsection:</text>
+								<subparagraph commented="no" id="idBEB5E5D269794572A10786BE358F59C2">
+                  <enum>(A)</enum>
+                  <header>Critical
+				infrastructure</header>
+                  <text>The term <term>critical infrastructure</term> has
+				the meaning given the term in section 1016(e) of the USA PATRIOT
+			 Act of 2001
+				(<external-xref legal-doc="usc" parsable-cite="usc/42/5195c">42 U.S.C. 5195c(e)</external-xref>).</text>
+								</subparagraph>
+                <subparagraph commented="no" id="idB296311F06474FA4ACD30B9EFE5674E9">
+                  <enum>(B)</enum>
+                  <header>Sector-specific
+				agency</header>
+                  <text>The term <term>sector-specific agency</term> means the
+				Federal department or agency responsible for providing
+			 institutional knowledge
+				and specialized expertise as well as leading, facilitating, or
+			 supporting the
+				security and resilience programs and associated activities of its
+			 designated
+				critical infrastructure sector in the all-hazards
+				environment.</text>
+								</subparagraph>
+              </paragraph>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+      </section>
+    </title>
+    <title changed="deleted" committee-id="SSCM00" id="id86A7BC9B94844B549A74A7A17EB0FB1F" reported-display-style="strikethrough">
+      <enum>II</enum>
+      <header>Cybersecurity
+			 research and development</header>
+			<section id="id629565BEB8AE4C93BF65E01059148E00">
+        <enum>201.</enum>
+        <header>Federal
+			 cybersecurity research and development</header>
+				<subsection id="id1F5E5A10FE3545F7953E0E6B54637746">
+          <enum>(a)</enum>
+          <header>Fundamental
+			 cybersecurity research</header>
+					<paragraph id="idC83B48987B4A48BF95035CCE1F0C9C38">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>The Director of the Office of Science and Technology
+			 Policy, in coordination with the head of any relevant Federal agency,
+			 shall
+			 build upon programs and plans in effect as of the date of enactment of
+			 this Act
+			 to develop a Federal cybersecurity research and development plan to meet
+			 objectives in cybersecurity, such as—</text>
+						<subparagraph id="id5cf983476d534c6ba0b14dc7a801130d">
+              <enum>(A)</enum>
+              <text>how to design and
+			 build complex software-intensive systems that are secure and reliable when
+			 first deployed;</text>
+						</subparagraph>
+            <subparagraph id="id72F6EE4CDBF74AB6B99429D1C2B7C024">
+              <enum>(B)</enum>
+              <text>how to test and
+			 verify that software and hardware, whether developed locally or obtained
+			 from a
+			 third party, is free of significant known security flaws;</text>
+						</subparagraph>
+            <subparagraph id="idE87102463B804BA5B8A8B055194F718A">
+              <enum>(C)</enum>
+              <text>how to test and
+			 verify that software and hardware obtained from a third party correctly
+			 implements stated functionality, and only that functionality;</text>
+						</subparagraph>
+            <subparagraph id="idC3702BF29F7D485193B57868C71CD455">
+              <enum>(D)</enum>
+              <text>how to guarantee
+			 the privacy of an individual, including that individual's identity,
+			 information, and lawful transactions when stored in distributed systems or
+			 transmitted over networks;</text>
+						</subparagraph>
+            <subparagraph id="idCEBA6ED5BD3748CD91E2C75C780ABB32">
+              <enum>(E)</enum>
+              <text>how to build new
+			 protocols to enable the Internet to have robust security as one of the key
+			 capabilities of the Internet;</text>
+						</subparagraph>
+            <subparagraph id="id681D6FCDE7EE44CC8C068BD6C6450B38">
+              <enum>(F)</enum>
+              <text>how to determine
+			 the origin of a message transmitted over the Internet;</text>
+						</subparagraph>
+            <subparagraph id="idEC292FC9A4484CB59A7968F26848BF34">
+              <enum>(G)</enum>
+              <text>how to support
+			 privacy in conjunction with improved security;</text>
+						</subparagraph>
+            <subparagraph id="id1024CF81D0344D0490278E768374C4F9">
+              <enum>(H)</enum>
+              <text>how to address the
+			 growing problem of insider threats;</text>
+						</subparagraph>
+            <subparagraph id="idA4D300F46DE04567A40817EBF3C4D092">
+              <enum>(I)</enum>
+              <text>how improved
+			 consumer education and digital literacy initiatives can address human
+			 factors
+			 that contribute to cybersecurity;</text>
+						</subparagraph>
+            <subparagraph id="id04A2A10393B24D12BCE9F28494E7564B">
+              <enum>(J)</enum>
+              <text>how to protect
+			 information processed, transmitted, or stored using cloud computing or
+			 transmitted through wireless services; and</text>
+						</subparagraph>
+            <subparagraph id="id7613E38F77734F2EBA9229345A31E353">
+              <enum>(K)</enum>
+              <text>any additional
+			 objectives the Director of the Office of Science and Technology Policy, in
+			 coordination with the head of any relevant Federal agency and with input
+			 from
+			 stakeholders, including industry and academia, determines appropriate.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="id27B9A6582E0F4EF2952819E0B2316CAD">
+            <enum>(2)</enum>
+            <header>Requirements</header>
+						<subparagraph id="id8AA4F3989D9B4AFB92FBDE527E8C257A">
+              <enum>(A)</enum>
+              <header>In
+			 general</header>
+              <text>The Federal cybersecurity research and development plan
+			 shall identify and prioritize near-term, mid-term, and long-term research
+			 in
+			 computer and information science and engineering to meet the objectives
+			 under
+			 paragraph (1), including research in the areas described in section
+			 4(a)(1) of
+			 the Cyber Security Research and Development Act (<external-xref legal-doc="usc" parsable-cite="usc/15/7403">15 U.S.C. 7403(a)(1)</external-xref>).</text>
+						</subparagraph>
+            <subparagraph id="idB8E465E435834E1DA434E0C81BA687A9">
+              <enum>(B)</enum>
+              <header>Private sector
+			 efforts</header>
+              <text>In developing, implementing, and updating the Federal
+			 cybersecurity research and development plan, the Director of the Office of
+			 Science and Technology Policy shall work in close cooperation with
+			 industry,
+			 academia, and other interested stakeholders to ensure, to the extent
+			 possible,
+			 that Federal cybersecurity research and development is not duplicative of
+			 private sector efforts.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="id44B0A9AB5CB24F81BDEFFE2F52167DA1">
+            <enum>(3)</enum>
+            <header>Triennial
+			 updates</header>
+						<subparagraph id="idC112B1036F5447CEA200AF03098CC44D">
+              <enum>(A)</enum>
+              <header>In
+			 general</header>
+              <text>The Federal cybersecurity research and development plan
+			 shall be updated triennially.</text>
+						</subparagraph>
+            <subparagraph commented="no" id="idC4F8E5DBE0F841F19543077C5B2C3DE5">
+              <enum>(B)</enum>
+              <header>Report to
+			 Congress</header>
+              <text>The Director of the Office of Science and Technology
+			 Policy shall submit the plan, not later than 1 year after the date of
+			 enactment
+			 of this Act, and each updated plan under this section to the Committee on
+			 Commerce, Science, and Transportation of the Senate and the Committee on
+			 Science, Space, and Technology of the House of Representatives.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection id="idE003C15844C549E7A5A448036395259C">
+          <enum>(b)</enum>
+          <header>Cybersecurity
+			 practices research</header>
+          <text>The Director of the National Science
+			 Foundation shall support research that—</text>
+					<paragraph id="id362D21080C0C41569680CFA80C226666">
+            <enum>(1)</enum>
+            <text>develops,
+			 evaluates, disseminates, and integrates new cybersecurity practices and
+			 concepts into the core curriculum of computer science programs and of
+			 other
+			 programs where graduates of such programs have a substantial probability
+			 of
+			 developing software after graduation, including new practices and concepts
+			 relating to secure coding education and improvement programs; and</text>
+					</paragraph>
+          <paragraph id="id322D65C1BB7D4D0095714220FFA1EDBE">
+            <enum>(2)</enum>
+            <text>develops new
+			 models for professional development of faculty in cybersecurity education,
+			 including secure coding development.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="id8267FCFDCCD84916AB60A2986D7F8E26">
+          <enum>(c)</enum>
+          <header>Cybersecurity
+			 modeling and test beds</header>
+					<paragraph id="id1CCA1D49745042E3A178B5F6AC6EF9E9">
+            <enum>(1)</enum>
+            <header>Review</header>
+            <text>Not
+			 later than 1 year after the date of enactment of this Act, the Director
+			 the
+			 National Science Foundation, in coordination with the Director of the
+			 Office of
+			 Science and Technology Policy, shall conduct a review of cybersecurity
+			 test
+			 beds in existence on the date of enactment of this Act to inform the
+			 grants
+			 under paragraph (2). The review shall include an assessment of whether a
+			 sufficient number of cybersecurity test beds are available to meet the
+			 research
+			 needs under the Federal cybersecurity research and development plan.</text>
+					</paragraph>
+          <paragraph id="idB70CBCD6C93C46BEADF5BBC5A588FC16">
+            <enum>(2)</enum>
+            <header>Additional
+			 cybersecurity modeling and test beds</header>
+						<subparagraph id="id87CF5CCD8B6B4C718810362DAF4CAD0B">
+              <enum>(A)</enum>
+              <header>In
+			 general</header>
+              <text>If the Director of the National Science Foundation, after
+			 the review under paragraph (1), determines that the research needs under
+			 the
+			 Federal cybersecurity research and development plan require the
+			 establishment
+			 of additional cybersecurity test beds, the Director of the National
+			 Science
+			 Foundation, in coordination with the Secretary of Commerce and the
+			 Secretary of
+			 Homeland Security, may award grants to institutions of higher education or
+			 research and development non-profit institutions to establish
+			 cybersecurity
+			 test beds.</text>
+						</subparagraph>
+            <subparagraph id="id006CD88A8A0341A3BC6784332376E3F4">
+              <enum>(B)</enum>
+              <header>Requirement</header>
+              <text>The
+			 cybersecurity test beds under subparagraph (A) shall be sufficiently large
+			 in
+			 order to model the scale and complexity of real-time cyber attacks and
+			 defenses
+			 on real world networks and environments.</text>
+						</subparagraph>
+            <subparagraph commented="no" id="id4703AFA7E794449584A387C5813D028F">
+              <enum>(C)</enum>
+              <header>Assessment
+			 required</header>
+              <text>The Director of the National Science Foundation, in
+			 coordination with the Secretary of Commerce and the Secretary of Homeland
+			 Security, shall evaluate the effectiveness of any grants awarded under
+			 this
+			 subsection in meeting the objectives of the Federal cybersecurity research
+			 and
+			 development plan under subsection (a) no later than 2 years after the
+			 review
+			 under paragraph (1) of this subsection, and periodically thereafter.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection commented="no" id="id9CC33EED7BEE4E258680D96F8261A182">
+          <enum>(d)</enum>
+          <header>Coordination
+			 With Other Research Initiatives</header>
+          <text>In accordance with the
+			 responsibilities under section 101 of the High-Performance Computing Act
+			 of
+			 1991 (<external-xref legal-doc="usc" parsable-cite="usc/15/5511">15 U.S.C. 5511</external-xref>), the Director the Office of Science and Technology
+			 Policy
+			 shall coordinate, to the extent practicable, Federal research and
+			 development
+			 activities under this section with other ongoing research and development
+			 security-related initiatives, including research being conducted by—</text>
+					<paragraph commented="no" id="id3588EDB16FFD4E50AE022D230359E72D">
+            <enum>(1)</enum>
+            <text>the National
+			 Science Foundation;</text>
+					</paragraph>
+          <paragraph commented="no" id="id24f87f5710e1477b87ef9d297ba0cedd">
+            <enum>(2)</enum>
+            <text>the National
+			 Institute of Standards and Technology;</text>
+					</paragraph>
+          <paragraph commented="no" id="idF4E9E953865E49FA9AE9DA6994E8D0D7">
+            <enum>(3)</enum>
+            <text>the Department of
+			 Homeland Security;</text>
+					</paragraph>
+          <paragraph commented="no" id="id8B3A4353D50448A5A27CAC5DDDEC631D">
+            <enum>(4)</enum>
+            <text>other Federal
+			 agencies;</text>
+					</paragraph>
+          <paragraph commented="no" id="id1D9D15FC55D945398A96339ACF057CAB">
+            <enum>(5)</enum>
+            <text>other Federal and
+			 private research laboratories, research entities, and universities;</text>
+					</paragraph>
+          <paragraph commented="no" id="id6BA6856EF1BD44AC99EE366B2893E494">
+            <enum>(6)</enum>
+            <text>institutions of
+			 higher education;</text>
+					</paragraph>
+          <paragraph commented="no" id="id29ABE63963BC433484FC61BEC12F2A2F">
+            <enum>(7)</enum>
+            <text>relevant nonprofit
+			 organizations; and</text>
+					</paragraph>
+          <paragraph commented="no" id="id3F7A5E371E92407AB6EF1C6D2DEE74FB">
+            <enum>(8)</enum>
+            <text>international
+			 partners of the United States.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="idBA136C9AA45B459A847B7D197887E9F2">
+          <enum>(e)</enum>
+          <header>National Science
+			 Foundation Computer and Network Security Research Grant
+			 Areas</header>
+          <text>Section 4(a)(1) of the Cyber Security Research and
+			 Development Act (<external-xref legal-doc="usc" parsable-cite="usc/15/7403">15 U.S.C. 7403(a)(1)</external-xref>) is amended—</text>
+					<paragraph id="id17F042FE326646368F3ED202DD05A260">
+            <enum>(1)</enum>
+            <text>in subparagraph
+			 (H), by striking <quote>and</quote> at the end;</text>
+					</paragraph>
+          <paragraph id="id6A5ECBBC807C40AFABA9385EDEF03026">
+            <enum>(2)</enum>
+            <text>in subparagraph
+			 (I), by striking the period at the end and inserting a semicolon; and</text>
+					</paragraph>
+          <paragraph id="id7B46B5E41F8746E9B8BE7DDAD4B63E42">
+            <enum>(3)</enum>
+            <text>by adding at the
+			 end the following:</text>
+						<quoted-block changed="deleted" committee-id="SSCM00" display-inline="no-display-inline" id="id280F082120AB4EFF9DB4196BCAE5BB18" reported-display-style="strikethrough" style="OLC">
+							<subparagraph id="idA236CC745DC94F2DA0D75284C5776C20">
+                <enum>(J)</enum>
+                <text>secure fundamental
+				protocols that are integral to inter-network communications and
+			 data
+				exchange;</text>
+							</subparagraph>
+              <subparagraph id="id4464394EDC7C49D69759996185300C37">
+                <enum>(K)</enum>
+                <text>secure software
+				engineering and software assurance, including—</text>
+								<clause id="id52E435B083654A42A6391E2B2DAC26D5">
+                  <enum>(i)</enum>
+                  <text>programming
+				languages and systems that include fundamental security features;</text>
+								</clause>
+                <clause id="idD1A2B949F88B441A8D02A5C734F19AA9">
+                  <enum>(ii)</enum>
+                  <text>portable or
+				reusable code that remains secure when deployed in various
+			 environments;</text>
+								</clause>
+                <clause id="idE719605EC7234A379779C93FAABB778C">
+                  <enum>(iii)</enum>
+                  <text>verification and
+				validation technologies to ensure that requirements and
+			 specifications have
+				been implemented; and</text>
+								</clause>
+                <clause id="id4A5C42B65B644AC888E6F40B268B5947">
+                  <enum>(iv)</enum>
+                  <text>models for
+				comparison and metrics to assure that required standards have been
+			 met;</text>
+								</clause>
+              </subparagraph>
+              <subparagraph id="id414ABA8BAA9C4EEDB005F8186022AD00">
+                <enum>(L)</enum>
+                <text>holistic system
+				security that—</text>
+								<clause id="idC56CE9E10F354A539EFE0F20BEF19C79">
+                  <enum>(i)</enum>
+                  <text>addresses the
+				building of secure systems from trusted and untrusted components;</text>
+								</clause>
+                <clause id="id3287329D22EA44AD88E154C2928C4B8C">
+                  <enum>(ii)</enum>
+                  <text>proactively
+				reduces vulnerabilities;</text>
+								</clause>
+                <clause id="idCD71232E2D244D9EB8D66FE3D5FF6F19">
+                  <enum>(iii)</enum>
+                  <text>addresses
+				insider threats; and</text>
+								</clause>
+                <clause id="idB61F0DC07D034494A588EF7A632C9EC5">
+                  <enum>(iv)</enum>
+                  <text>supports privacy
+				in conjunction with improved security;</text>
+								</clause>
+              </subparagraph>
+              <subparagraph id="id7BC543917E4546CDA34142BD95F0B706">
+                <enum>(M)</enum>
+                <text>monitoring and
+				detection;</text>
+							</subparagraph>
+              <subparagraph id="id172EEA96BC37458D81003EE41C602109">
+                <enum>(N)</enum>
+                <text>mitigation and
+				rapid recovery methods;</text>
+							</subparagraph>
+              <subparagraph id="id9A04BA33CBE9460BB2AA192583F72803">
+                <enum>(O)</enum>
+                <text>security of
+				wireless networks and mobile devices; and</text>
+							</subparagraph>
+              <subparagraph id="id508E6A2E5CD84DB79984454895E88E2C">
+                <enum>(P)</enum>
+                <text>security of cloud
+				infrastructure and
+				services.</text>
+							</subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="id6FB589F776D24CBDAE22FE38BBC28842">
+          <enum>(f)</enum>
+          <header>Research on the
+			 science of cybersecurity</header>
+          <text>The head of each agency and department
+			 identified under section 101(a)(3)(B) of the High-Performance Computing
+			 Act of
+			 1991 (<external-xref legal-doc="usc" parsable-cite="usc/15/5511">15 U.S.C. 5511(a)(3)(B)</external-xref>), through existing programs and activities,
+			 shall
+			 support research that will lead to the development of a scientific
+			 foundation
+			 for the field of cybersecurity, including research that increases
+			 understanding
+			 of the underlying principles of securing complex networked systems,
+			 enables
+			 repeatable experimentation, and creates quantifiable security metrics.</text>
+				</subsection>
+      </section>
+      <section commented="no" id="id7429B7201ECF49AC8EE4C8C0CB0AAB1F">
+        <enum>202.</enum>
+        <header>Computer and
+			 network security research centers</header>
+        <text display-inline="no-display-inline">Section 4(b) of the Cyber Security Research
+			 and Development Act (<external-xref legal-doc="usc" parsable-cite="usc/15/7403">15 U.S.C. 7403(b)</external-xref>) is amended—</text>
+				<paragraph commented="no" id="idA132B50742904482BA36B0BA83CB39A4">
+          <enum>(1)</enum>
+          <text>by striking
+			 <quote>the center</quote> in paragraph (4)(D) and inserting <quote>the
+			 Center</quote>; and</text>
+				</paragraph>
+        <paragraph commented="no" id="idD1AC160F92EA4F399655B3465D74690A">
+          <enum>(2)</enum>
+          <text>in paragraph
+			 (5)—</text>
+					<subparagraph commented="no" id="id1B28865139114008965FD0AA2F6CBD50">
+            <enum>(A)</enum>
+            <text>by striking
+			 <quote>and</quote> at the end of subparagraph (C);</text>
+					</subparagraph>
+          <subparagraph commented="no" id="id005FCDA854B948D2AE3D578B9E83B891">
+            <enum>(B)</enum>
+            <text>by striking the
+			 period at the end of subparagraph (D) and inserting a semicolon; and</text>
+					</subparagraph>
+          <subparagraph commented="no" id="idBBC7D778520F4B06B958C7AE1A1A36FC">
+            <enum>(C)</enum>
+            <text>by adding at the
+			 end the following:</text>
+						<quoted-block changed="deleted" committee-id="SSCM00" display-inline="no-display-inline" id="id421E9BB6B6C14BA0BE9A5A1C70EB5093" reported-display-style="strikethrough" style="OLC">
+							<subparagraph commented="no" id="idEEC57CFD1B9445E4A1F0FF0D7C184AFF">
+                <enum>(E)</enum>
+                <text>the demonstrated
+				capability of the applicant to conduct high performance computation
+			 integral to
+				complex computer and network security research, through on-site or
+			 off-site
+				computing;</text>
+							</subparagraph>
+              <subparagraph commented="no" id="id6939D2BFE4DF45E585C952C23D48134B">
+                <enum>(F)</enum>
+                <text>the applicant's
+				affiliation with private sector entities involved with industrial
+			 research
+				described in subsection (a)(1);</text>
+							</subparagraph>
+              <subparagraph commented="no" id="id0A528D33A8B548F79A09A7DED8EDE24A">
+                <enum>(G)</enum>
+                <text>the capability of
+				the applicant to conduct research in a secure environment;</text>
+							</subparagraph>
+              <subparagraph commented="no" id="id937223E9991947669B0AFFE46781B7DF">
+                <enum>(H)</enum>
+                <text>the applicant's
+				affiliation with existing research programs of the Federal
+			 Government;</text>
+							</subparagraph>
+              <subparagraph commented="no" id="id40E09F99A5774B41A4A0C274ABC8EBF6">
+                <enum>(I)</enum>
+                <text>the applicant's
+				experience managing public-private partnerships to transition new
+			 technologies
+				into a commercial setting or the government user community; and</text>
+							</subparagraph>
+              <subparagraph commented="no" id="idED5CBF2F5C5242A5BC865643075FADF7">
+                <enum>(J)</enum>
+                <text>the capability of
+				the applicant to conduct interdisciplinary cybersecurity research,
+			 such as in
+				law, economics, or behavioral
+				sciences.</text>
+							</subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</subparagraph>
+        </paragraph>
+      </section>
+    </title>
+    <title changed="deleted" committee-id="SSCM00" id="idCDF3768C40704698AA2A5B8782C7BA59" reported-display-style="strikethrough">
+      <enum>III</enum>
+      <header>Education and
+			 Workforce Development</header>
+			<section id="idEF53002043F744BFA83C5F143465171F">
+        <enum>301.</enum>
+        <header> Cybersecurity
+			 competitions and challenges</header>
+				<subsection id="id40359E75C70347459853DFAB52CBF3B3">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>The Secretary of Commerce, Director of the National
+			 Science Foundation, and Secretary of Homeland Security shall—</text>
+					<paragraph id="id47BF7A3592174F2D8E121035D31C25F5">
+            <enum>(1)</enum>
+            <text>support
+			 competitions and challenges under section 105 of the America COMPETES
+			 Reauthorization Act of 2010 (124 Stat. 3989) or any other provision of
+			 law, as
+			 appropriate—</text>
+						<subparagraph id="idA71026E0C65C48A2B8594E0A091FB031">
+              <enum>(A)</enum>
+              <text>to identify,
+			 develop, and recruit talented individuals to perform duties relating to
+			 the
+			 security of information infrastructure in Federal, State, and local
+			 government
+			 agencies, and the private sector; or</text>
+						</subparagraph>
+            <subparagraph id="id0B0512684C054107995DE200A2C200C7">
+              <enum>(B)</enum>
+              <text>to stimulate
+			 innovation in basic and applied cybersecurity research, technology
+			 development,
+			 and prototype demonstration that has the potential for application to the
+			 information technology activities of the Federal Government; and</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="idE533ECCA5ADF400D8C5724AD11321A38">
+            <enum>(2)</enum>
+            <text>ensure the
+			 effective operation of the competitions and challenges under this
+			 section.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="idB673E463FC0B4AC5BF77A40405FA0D54">
+          <enum>(b)</enum>
+          <header>Participation</header>
+          <text>Participants
+			 in the competitions and challenges under subsection (a)(1) may include—</text>
+					<paragraph id="id6873d81c969f4b20abc05cb1c8a31860">
+            <enum>(1)</enum>
+            <text>students enrolled
+			 in grades 9 through 12;</text>
+					</paragraph>
+          <paragraph id="id2f1bd479bb4d490ebf81abadf1dba5a8">
+            <enum>(2)</enum>
+            <text>students enrolled
+			 in a postsecondary program of study leading to a baccalaureate degree at
+			 an
+			 institution of higher education;</text>
+					</paragraph>
+          <paragraph id="id043dafcf1f94419bb62f10e213d576ac">
+            <enum>(3)</enum>
+            <text>students enrolled
+			 in a postbaccalaureate program of study at an institution of higher
+			 education;</text>
+					</paragraph>
+          <paragraph id="id95e5701236e34a43883775f9235a358d">
+            <enum>(4)</enum>
+            <text>institutions of
+			 higher education and research institutions;</text>
+					</paragraph>
+          <paragraph id="id3d7b08a39bd14bfa9d0490bbeb8497c2">
+            <enum>(5)</enum>
+            <text>veterans;
+			 and</text>
+					</paragraph>
+          <paragraph id="id096c36bc0db1450b83888cb799a56b7c">
+            <enum>(6)</enum>
+            <text>other groups or
+			 individuals that the Secretary of Commerce, Director of the National
+			 Science
+			 Foundation, and Secretary of Homeland Security determine appropriate.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="id6B75AC7222FB4A24B667AA6D8686302D">
+          <enum>(c)</enum>
+          <header>Affiliation and
+			 cooperative agreements</header>
+          <text>Competitions and challenges under this
+			 section may be carried out through affiliation and cooperative agreements
+			 with—</text>
+					<paragraph id="id8A8F788176AA4637AB628052907A993D">
+            <enum>(1)</enum>
+            <text>Federal
+			 agencies;</text>
+					</paragraph>
+          <paragraph id="id2496e3327d594242ab8354a6ed81027a">
+            <enum>(2)</enum>
+            <text>regional, State,
+			 or school programs supporting the development of cyber professionals;</text>
+					</paragraph>
+          <paragraph id="id6dfbd3917e7a4211ab70c8a92147f007">
+            <enum>(3)</enum>
+            <text>State, local, and
+			 tribal governments; or</text>
+					</paragraph>
+          <paragraph id="idc0d5dafed37d4f54a9fac7aa02b9a4c1">
+            <enum>(4)</enum>
+            <text>other private
+			 sector organizations.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="idAAFD697146CF426F85E74542B454448A">
+          <enum>(d)</enum>
+          <header>Areas of
+			 skill</header>
+          <text>Competitions and challenges under subsection (a)(1)(A)
+			 shall be designed to identify, develop, and recruit exceptional talent
+			 relating
+			 to—</text>
+					<paragraph id="id819633fb2122430ba84492611b4950da">
+            <enum>(1)</enum>
+            <text>ethical
+			 hacking;</text>
+					</paragraph>
+          <paragraph id="id59ed89eb21244b93b4c0306230ae67fa">
+            <enum>(2)</enum>
+            <text>penetration
+			 testing;</text>
+					</paragraph>
+          <paragraph id="id65410be16b454a33b64f52e210fc5ae5">
+            <enum>(3)</enum>
+            <text>vulnerability
+			 assessment;</text>
+					</paragraph>
+          <paragraph id="id2fa6a1cd9f234f4580abfe3c2bc7e16b">
+            <enum>(4)</enum>
+            <text>continuity of
+			 system operations;</text>
+					</paragraph>
+          <paragraph id="id93FCC7756B9445D3AA27900D26616A3E">
+            <enum>(5)</enum>
+            <text>security in
+			 design;</text>
+					</paragraph>
+          <paragraph id="ide844560f02db4b4584120aab15c976ef">
+            <enum>(6)</enum>
+            <text>cyber
+			 forensics;</text>
+					</paragraph>
+          <paragraph id="id71e44bdc1f7e415dbfd9a82ba83893eb">
+            <enum>(7)</enum>
+            <text>offensive and
+			 defensive cyber operations; and</text>
+					</paragraph>
+          <paragraph id="iddf8503af0c534ef8bd504daa72a7327c">
+            <enum>(8)</enum>
+            <text>other areas the
+			 Secretary of Commerce, Director of the National Science Foundation, and
+			 Secretary of Homeland Security consider necessary to fulfill the
+			 cybersecurity
+			 mission.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="id5408E793565D4D83B3A25070E22001D7">
+          <enum>(e)</enum>
+          <header>Topics</header>
+          <text>In
+			 selecting topics for competitions and challenges under subsection (a)(1),
+			 the
+			 Secretary of Commerce, Director of the National Science Foundation, and
+			 Secretary of Homeland Security—</text>
+					<paragraph id="id2a089922e34d431fb9dadc69a0264e54">
+            <enum>(1)</enum>
+            <text>shall consult
+			 widely both within and outside the Federal Government; and</text>
+					</paragraph>
+          <paragraph id="id53bc07f6d98947adba034c119372fc1a">
+            <enum>(2)</enum>
+            <text>may empanel
+			 advisory committees.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="idC6D80A48295A417BB5A510AB96470930">
+          <enum>(f)</enum>
+          <header>Internships</header>
+          <text>The
+			 Director of the Office of Personnel Management may support, as
+			 appropriate,
+			 internships or other work experience in the Federal Government to the
+			 winners
+			 of the competitions and challenges under this section.</text>
+				</subsection>
+      </section>
+      <section id="id7591C67A97344807BA28AD584C48E08C">
+        <enum>302.</enum>
+        <header>Federal cyber
+			 scholarship-for-service program</header>
+				<subsection id="idC69D3B684658409EB55C691371FEF43A">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>The Director of the National Science Foundation, in
+			 coordination with the Director of the Office of Personnel Management and
+			 Secretary of Homeland Security, shall continue a Federal Cyber
+			 Scholarship-for-Service program to recruit and train the next generation
+			 of
+			 information technology professionals, industrial control system security
+			 professionals, and security managers to meet the needs of the
+			 cybersecurity
+			 mission for Federal, State, local, and tribal governments.</text>
+				</subsection>
+        <subsection id="id847AC04AA1D44941B3C30ED842D17792">
+          <enum>(b)</enum>
+          <header>Program
+			 description and components</header>
+          <text>The Federal Cyber
+			 Scholarship-for-Service program shall—</text>
+					<paragraph id="id10eec4303b3942be9fbe5897d51ea7aa">
+            <enum>(1)</enum>
+            <text>provide
+			 scholarships to students who are enrolled in programs of study at
+			 institutions
+			 of higher education leading to degrees or specialized program
+			 certifications in
+			 the cybersecurity field;</text>
+					</paragraph>
+          <paragraph id="id894A4785B18740118086832F457CD075">
+            <enum>(2)</enum>
+            <text>provide the
+			 scholarship recipients with summer internship opportunities or other
+			 meaningful
+			 temporary appointments in the Federal information technology workforce;
+			 and</text>
+					</paragraph>
+          <paragraph id="id3b658391c3354017a359de3968f81458">
+            <enum>(3)</enum>
+            <text>provide a
+			 procedure by which the National Science Foundation or a Federal agency,
+			 consistent with regulations of the Office of Personnel Management, may
+			 request
+			 and fund security clearances for scholarship recipients, including
+			 providing
+			 for clearances during internships or other temporary appointments and
+			 after
+			 receipt of their degrees.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="id1A1415B0DE6549EA866CBAF20A7E441C">
+          <enum>(c)</enum>
+          <header>Scholarship
+			 amounts</header>
+          <text>Each scholarship under subsection (b) shall be in an
+			 amount that covers the student's tuition and fees at the institution under
+			 subsection (b)(1) and provides the student with an additional stipend.</text>
+				</subsection>
+        <subsection id="id727ebc9ee84f44bcb8084adba414bace">
+          <enum>(d)</enum>
+          <header>Scholarship
+			 Conditions</header>
+          <text>Each scholarship recipient, as a condition of
+			 receiving a scholarship under the program, shall enter into an agreement
+			 under
+			 which the recipient agrees to work in the cybersecurity mission of a
+			 Federal,
+			 State, local, or tribal agency for a period equal to the length of the
+			 scholarship following receipt of the student's degree.</text>
+				</subsection>
+        <subsection id="id6A11BE3CB7774E8F8FDBCBEB91BA7894">
+          <enum>(e)</enum>
+          <header>Hiring
+			 authority</header>
+					<paragraph id="idA738E1A26D734E1EB7F9384F62820A4D">
+            <enum>(1)</enum>
+            <header>Appointment in
+			 excepted service</header>
+            <text>Notwithstanding any provision of chapter 33 of
+			 title 5, United States Code, governing appointments in the competitive
+			 service,
+			 an agency shall appoint in the excepted service an individual who has
+			 completed
+			 the academic program for which a scholarship was awarded.</text>
+					</paragraph>
+          <paragraph id="id491E000BBF554B84AAFFE9CDBEC2A3E5">
+            <enum>(2)</enum>
+            <header>Noncompetitive
+			 conversion</header>
+            <text>Except as provided in paragraph (4), upon fulfillment
+			 of the service term, an employee appointed under paragraph (1) may be
+			 converted
+			 noncompetitively to term, career-conditional or career appointment.</text>
+					</paragraph>
+          <paragraph id="id87743DADD1C94618BCE264760A4A2121">
+            <enum>(3)</enum>
+            <header>Timing of
+			 conversion</header>
+            <text>An agency may noncompetitively convert a term employee
+			 appointed under paragraph (2) to a career-conditional or career
+			 appointment
+			 before the term appointment expires.</text>
+					</paragraph>
+          <paragraph id="id51CD5D3A77D74A50B54BB0894247753F">
+            <enum>(4)</enum>
+            <header>Authority to
+			 decline conversion</header>
+            <text>An agency may decline to make the
+			 noncompetitive conversion or appointment under paragraph (2) for cause.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="idBE723A6B2D0B41C4AB75FEF5B6DD08FC">
+          <enum>(f)</enum>
+          <header>Eligibility</header>
+          <text>To
+			 be eligible to receive a scholarship under this section, an individual
+			 shall—</text>
+					<paragraph id="id974707df81d84c9a8f9a093fffa783d3">
+            <enum>(1)</enum>
+            <text>be a citizen or
+			 lawful permanent resident of the United States;</text>
+					</paragraph>
+          <paragraph id="id5d7f86ce9e5c43359b2a43c5d6764c56">
+            <enum>(2)</enum>
+            <text>demonstrate a
+			 commitment to a career in improving the security of information
+			 infrastructure;
+			 and</text>
+					</paragraph>
+          <paragraph id="id016d0dae9f3e410eb48ebce04899dc66">
+            <enum>(3)</enum>
+            <text>have demonstrated
+			 a high level of proficiency in mathematics, engineering, or computer
+			 sciences.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="id9fffd7a3251a4025a4f0f894fe68b017">
+          <enum>(g)</enum>
+          <header>Repayment</header>
+          <text>If
+			 a scholarship recipient does not meet the terms of the program under this
+			 section, the recipient shall refund the scholarship payments in accordance
+			 with
+			 rules established by the Director of the National Science Foundation, in
+			 coordination with the Director of the Office of Personnel Management and
+			 Secretary of Homeland Security.</text>
+				</subsection>
+        <subsection id="id5189d68ad66c4c62a2acaa399dbf2410">
+          <enum>(h)</enum>
+          <header>Evaluation and
+			 report</header>
+          <text>The Director of the National Science Foundation shall
+			 evaluate and report periodically to Congress on the success of recruiting
+			 individuals for scholarships under this section and on hiring and
+			 retaining
+			 those individuals in the public sector workforce.</text>
+				</subsection>
+      </section>
+      <section id="idd04708016d3c4934bf8b136992e5a094">
+        <enum>303.</enum>
+        <header>Study and
+			 analysis of education, accreditation, training, and certification of
+			 information infrastructure and cybersecurity professionals</header>
+				<subsection id="id07048975f87448fd88dd80e8d3ad804b">
+          <enum>(a)</enum>
+          <header>Study</header>
+          <text>The
+			 Director of the National Science Foundation and the Secretary of Homeland
+			 Security shall undertake to enter into appropriate arrangements with the
+			 National Academy of Sciences to conduct a comprehensive study of
+			 government,
+			 academic, and private-sector education, accreditation, training, and
+			 certification programs for the development of professionals in information
+			 infrastructure and cybersecurity. The agreement shall require the National
+			 Academy of Sciences to consult with sector coordinating councils and
+			 relevant
+			 governmental agencies, regulatory entities, and nongovernmental
+			 organizations
+			 in the course of the study.</text>
+				</subsection>
+        <subsection id="id629063992dc2408c978bfb52b382f8ab">
+          <enum>(b)</enum>
+          <header>Scope</header>
+          <text>The
+			 study shall include—</text>
+					<paragraph id="id37399b43dea94b53a8367227eac56d0e">
+            <enum>(1)</enum>
+            <text>an evaluation of
+			 the body of knowledge and various skills that specific categories of
+			 professionals in information infrastructure and cybersecurity should
+			 possess in
+			 order to secure information systems;</text>
+					</paragraph>
+          <paragraph id="ida3d07a9d64d14471b4a555e7f466bc84">
+            <enum>(2)</enum>
+            <text>an assessment of
+			 whether existing government, academic, and private-sector education,
+			 accreditation, training, and certification programs provide the body of
+			 knowledge and various skills described in paragraph (1);</text>
+					</paragraph>
+          <paragraph id="id3FF40224F0D24355B672AF0AE9CA8F33">
+            <enum>(3)</enum>
+            <text>an evaluation
+			 of—</text>
+						<subparagraph id="idB343AF260FEF4551AA5416D292BEB747">
+              <enum>(A)</enum>
+              <text>the state of
+			 cybersecurity education at institutions of higher education in the United
+			 States;</text>
+						</subparagraph>
+            <subparagraph id="idC32300EA9F5A461EAF3971A07C7ED6EC">
+              <enum>(B)</enum>
+              <text>the extent of
+			 professional development opportunities for faculty in cybersecurity
+			 principles
+			 and practices;</text>
+						</subparagraph>
+            <subparagraph id="idD64FB7124E3648AB801791BE0D7950EA">
+              <enum>(C)</enum>
+              <text>the extent of the
+			 partnerships and collaborative cybersecurity curriculum development
+			 activities
+			 that leverage industry and government needs, resources, and tools;</text>
+						</subparagraph>
+            <subparagraph id="id6AA785ECAFD54BC49A9CFF38324DE1FB">
+              <enum>(D)</enum>
+              <text>the proposed
+			 metrics to assess progress toward improving cybersecurity education; and</text>
+						</subparagraph>
+            <subparagraph id="id54CF8DC463DE4F2FBBC2077FFE6781CF">
+              <enum>(E)</enum>
+              <text>the descriptions
+			 of the content of cybersecurity courses in undergraduate computer science
+			 curriculum;</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="id03F4F1E9FB1448059447DD2E30884C7E">
+            <enum>(4)</enum>
+            <text>an analysis of any
+			 barriers to the Federal Government recruiting and hiring cybersecurity
+			 talent,
+			 including barriers relating to compensation, the hiring process, job
+			 classification, and hiring flexibility; and</text>
+					</paragraph>
+          <paragraph id="id272C9EA3EC20422BBA093DB5FE40B10D">
+            <enum>(5)</enum>
+            <text>an analysis of the
+			 sources and availability of cybersecurity talent, a comparison of the
+			 skills
+			 and expertise sought by the Federal Government and the private sector, an
+			 examination of the current and future capacity of United States
+			 institutions of
+			 higher education, including community colleges, to provide current and
+			 future
+			 cybersecurity professionals, through education and training activities,
+			 with
+			 those skills sought by the Federal Government, State and local entities,
+			 and
+			 the private sector.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="idf28787e9ec9142bcbcf98b54715423f9">
+          <enum>(c)</enum>
+          <header>Report</header>
+          <text>Not
+			 later than 1 year after the date of enactment of this Act, the National
+			 Academy
+			 of Sciences shall submit to the President and Congress a report on the
+			 results
+			 of the study. The report shall include—</text>
+					<paragraph id="id407fd63b975247598f7b0bb68316a25a">
+            <enum>(1)</enum>
+            <text>findings regarding
+			 the state of information infrastructure and cybersecurity education,
+			 accreditation, training, and certification programs, including specific
+			 areas
+			 of deficiency and demonstrable progress; and</text>
+					</paragraph>
+          <paragraph id="id491985fdfa56466a9e3a0b702c926fa4">
+            <enum>(2)</enum>
+            <text>recommendations
+			 for further research and the improvement of information infrastructure and
+			 cybersecurity education, accreditation, training, and certification
+			 programs.</text>
+					</paragraph>
+        </subsection>
+      </section>
+    </title>
+    <title changed="deleted" committee-id="SSCM00" id="id4EC632D44A394CFBB5C1659916447D61" reported-display-style="strikethrough">
+      <enum>IV</enum>
+      <header>Cybersecurity
+			 Awareness and Preparedness</header>
+			<section id="id38F17EAB9FEC4C2E961AD081B1E20975">
+        <enum>401.</enum>
+        <header>National
+			 cybersecurity awareness and preparedness campaign</header>
+				<subsection id="idF423240D14844BC18EE7003A95478689">
+          <enum>(a)</enum>
+          <header>National
+			 cybersecurity awareness and preparedness campaign</header>
+          <text>The Director of
+			 the National Institute of Standards and Technology (referred to in this
+			 section
+			 as the <quote>Director</quote>), in consultation with appropriate Federal
+			 agencies, shall continue to coordinate a national cybersecurity awareness
+			 and
+			 preparedness campaign, such as—</text>
+					<paragraph id="id510f89cc4fac4fe6aaaa310ba6bae41a">
+            <enum>(1)</enum>
+            <text>a campaign to
+			 increase public awareness of cybersecurity, cyber safety, and cyber
+			 ethics,
+			 including the use of the Internet, social media, entertainment, and other
+			 media
+			 to reach the public;</text>
+					</paragraph>
+          <paragraph id="id14b3e188fee84bf0836b40ff2e863ade">
+            <enum>(2)</enum>
+            <text>a campaign to
+			 increase the understanding of State and local governments and private
+			 sector
+			 entities of—</text>
+						<subparagraph id="idF294AFDB2CB4472CAFD92A8EB1AA5BBB">
+              <enum>(A)</enum>
+              <text>the benefits of
+			 ensuring effective risk management of the information infrastructure
+			 versus the
+			 costs of failure to do so; and</text>
+						</subparagraph>
+            <subparagraph id="id07446AF9F4084B17A4CACED7D5B60783">
+              <enum>(B)</enum>
+              <text>the methods to
+			 mitigate and remediate vulnerabilities;</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="id227cc8d7cd8b4f62ba4983c0bfb46c52">
+            <enum>(3)</enum>
+            <text>support for formal
+			 cybersecurity education programs at all education levels to prepare
+			 skilled
+			 cybersecurity and computer science workers for the private sector and
+			 Federal,
+			 State, and local government; and</text>
+					</paragraph>
+          <paragraph id="idEBC2CE7DB02340AB9B333CD420D66524">
+            <enum>(4)</enum>
+            <text>initiatives to
+			 evaluate and forecast future cybersecurity workforce needs of the Federal
+			 government and develop strategies for recruitment, training, and
+			 retention.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="id07225858788E4D36856DF2A46FD22569">
+          <enum>(b)</enum>
+          <header>Considerations</header>
+          <text>In
+			 carrying out the authority described in subsection (a), the Director, in
+			 consultation with appropriate Federal agencies, shall leverage existing
+			 programs designed to inform the public of safety and security of products
+			 or
+			 services, including self-certifications and independently verified
+			 assessments
+			 regarding the quantification and valuation of information security risk.</text>
+				</subsection>
+        <subsection id="id7C0BE781D4AD4B0C9CB94D039F0D99F2">
+          <enum>(c)</enum>
+          <header>Strategic
+			 plan</header>
+          <text>The Director, in cooperation with relevant Federal agencies
+			 and other stakeholders, shall build upon programs and plans in effect as
+			 of the
+			 date of enactment of this Act to develop and implement a strategic plan to
+			 guide Federal programs and activities in support of the national
+			 cybersecurity
+			 awareness and preparedness campaign under subsection (a).</text>
+				</subsection>
+        <subsection id="idAEBB9E55BEF944AD8E8E8B659A03D614">
+          <enum>(d)</enum>
+          <header>Report</header>
+          <text>Not
+			 later than 1 year after the date of enactment of this Act, and every 5
+			 years
+			 thereafter, the Director shall transmit the strategic plan under
+			 subsection (c)
+			 to the Committee on Commerce, Science, and Transportation of the Senate
+			 and the
+			 Committee on Science, Space, and Technology of the House of
+			 Representatives.</text>
+				</subsection>
+      </section>
+    </title>
+  </legis-body>
+	<legis-body display-enacting-clause="no-display-enacting-clause">
+		<section changed="added" committee-id="SSCM00" id="id2476abcb-e921-4bba-985a-cd61a821cf85" reported-display-style="italic" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title; table of
+			 contents</header>
+			<subsection id="id10571f53-8761-41bd-b052-1616a4b06e3a">
+        <enum>(a)</enum>
+        <header>Short
+			 title</header>
+        <text display-inline="yes-display-inline">This Act may be cited
+			 as the <quote>
+            <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013" proposed="true">Cybersecurity Act of
+			 2013</cato:entity-ref>
+            </short-title>
+          </quote>.</text>
+			</subsection>
+      <subsection id="id4c11e64b-2d66-4eea-b8ec-fc446a49831c">
+        <enum>(b)</enum>
+        <header>Table of
+			 contents</header>
+        <text display-inline="yes-display-inline">The table of
+			 contents of this Act is as follows:</text>
+				<toc changed="added" committee-id="SSCM00" reported-display-style="italic">
+					<toc-entry idref="S1" level="section">Sec. 1. Short title; table of
+				contents.</toc-entry>
+					<toc-entry idref="id2D5D4CA256A347E7B403F9BE1143C1FC" level="section">Sec. 2. Definitions.</toc-entry>
+					<toc-entry idref="id322A7E3D0D8A4804A0A46804CBA84964" level="section">Sec. 3. No regulatory authority.</toc-entry>
+					<toc-entry idref="id338D61CFCB3148F38A04FB98C20BB71B" level="title">TITLE I—Public-private
+				collaboration on cybersecurity</toc-entry>
+					<toc-entry idref="id391C7C63FC5C4859BE13D4BBB2D9C959" level="section">Sec. 101. Public-private collaboration on
+				cybersecurity.</toc-entry>
+					<toc-entry idref="id86A7BC9B94844B549A74A7A17EB0FB1F" level="title">TITLE II—Cybersecurity research
+				and development</toc-entry>
+					<toc-entry idref="id629565BEB8AE4C93BF65E01059148E00" level="section">Sec. 201. Federal cybersecurity research and
+				development.</toc-entry>
+					<toc-entry idref="id7429B7201ECF49AC8EE4C8C0CB0AAB1F" level="section">Sec. 202. Computer and network security
+				research centers.</toc-entry>
+					<toc-entry idref="idCDF3768C40704698AA2A5B8782C7BA59" level="title">TITLE III—Education and Workforce
+				Development</toc-entry>
+					<toc-entry idref="idEF53002043F744BFA83C5F143465171F" level="section">Sec. 301. Cybersecurity competitions and
+				challenges.</toc-entry>
+					<toc-entry idref="id7591C67A97344807BA28AD584C48E08C" level="section">Sec. 302. Federal cyber scholarship-for-service
+				program.</toc-entry>
+					<toc-entry idref="idd04708016d3c4934bf8b136992e5a094" level="section">Sec. 303. Study and analysis of education,
+				accreditation, training, and certification of information
+			 infrastructure and
+				cybersecurity professionals.</toc-entry>
+					<toc-entry idref="id4EC632D44A394CFBB5C1659916447D61" level="title">TITLE IV—Cybersecurity Awareness
+				and Preparedness</toc-entry>
+					<toc-entry idref="id38F17EAB9FEC4C2E961AD081B1E20975" level="section">Sec. 401. National cybersecurity awareness and
+				preparedness campaign.</toc-entry>
+				</toc>
+			</subsection>
+    </section>
+    <section changed="added" commented="no" committee-id="SSCM00" id="idd4dbf354-7acb-4255-85ea-20ea7089f73a" reported-display-style="italic">
+      <enum>2.</enum>
+      <header>Definitions</header>
+      <text display-inline="no-display-inline">In this Act:</text>
+			<paragraph commented="no" id="idd72d1ecd-6329-4690-87f6-5a99ab50ded5">
+        <enum>(1)</enum>
+        <header>Cybersecurity
+			 mission</header>
+        <text>The term <term>cybersecurity mission</term> means
+			 activities that encompass the full range of threat reduction,
+			 vulnerability
+			 reduction, deterrence, international engagement, incident response,
+			 resiliency,
+			 and recovery policies and activities, including computer network
+			 operations,
+			 information assurance, law enforcement, diplomacy, military, and
+			 intelligence
+			 missions as such activities relate to the security and stability of
+			 cyberspace.</text>
+			</paragraph>
+      <paragraph commented="no" id="id53b17c1a-8bfa-4715-8270-4c6e649b8373">
+        <enum>(2)</enum>
+        <header>Information
+			 infrastructure</header>
+        <text>The term <term>information infrastructure</term>
+			 means the underlying framework that information systems and assets rely on
+			 to
+			 process, transmit, receive, or store information electronically, including
+			 programmable electronic devices, communications networks, and industrial
+			 or
+			 supervisory control systems and any associated hardware, software, or
+			 data.</text>
+			</paragraph>
+      <paragraph commented="no" id="idde200bca-df31-4035-a8ea-201e95f52c3f">
+        <enum>(3)</enum>
+        <header>Information
+			 system</header>
+        <text>The term <term>information system</term> has the meaning
+			 given that term in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3502">
+            <external-xref legal-doc="usc" parsable-cite="usc/44/3502">section 3502</external-xref> of title 44, United States Code</cato:entity-ref>.</text>
+			</paragraph>
+    </section>
+    <section changed="added" commented="no" committee-id="SSCM00" id="ide97fae50-d0e5-45e8-a252-e0e83c1d6894" reported-display-style="italic">
+      <enum>3.</enum>
+      <header>No regulatory
+			 authority</header>
+      <text display-inline="no-display-inline">Nothing in this Act
+			 shall be construed to confer any regulatory authority on any Federal,
+			 State,
+			 tribal, or local department or agency.</text>
+		</section>
+    <title changed="added" committee-id="SSCM00" id="iddb78a6b7-5b48-4581-9bc3-59f57297509b" reported-display-style="italic">
+      <enum>I</enum>
+      <header>Public-private
+			 collaboration on cybersecurity</header>
+			<section id="id9f26089b-43da-426b-9ce3-5978047ae9c1">
+        <enum>101.</enum>
+        <header>Public-private
+			 collaboration on cybersecurity</header>
+				<subsection id="ide25c2653-22f3-4021-b976-277fbdb5392d">
+          <enum>(a)</enum>
+          <header>Cybersecurity</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="National Institute of Standards and Technology Act/s:2/ss:c">Section
+			 2(c) of the National Institute of Standards and Technology Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/272/c">15 U.S.C.
+			 272(c)</cato:entity-ref>)</cato:entity> is amended—</text>
+					<paragraph id="id42fa62f2-0876-4ccf-8c6b-a3b7be1653b4">
+            <enum>(1)</enum>
+            <text>by redesignating
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Institute of Standards and Technology Act/s:2/ss:c/p:15..22">paragraphs (15) through (22)</cato:entity-ref> as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Institute of Standards and Technology Act/s:2/ss:c/p:16..23" proposed="true">paragraphs (16) through (23)</cato:entity-ref>,
+			 respectively;
+			 and</text>
+					</paragraph>
+          <paragraph id="idaba5db2b-b9a7-4990-98f0-b55ac8a1f7cf">
+            <enum>(2)</enum>
+            <text>by inserting after
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Institute of Standards and Technology Act/s:2/ss:c/p:14">paragraph (14)</cato:entity-ref> the following:</text>
+						<quoted-block changed="added" committee-id="SSCM00" display-inline="no-display-inline" id="idb34de4be-a74f-43a2-ae17-0286ad8b4e21" reported-display-style="italic" style="OLC">
+							<paragraph id="idc65d7c94-0806-4ff8-b5db-a89672a6322c">
+                <enum>(15)</enum>
+                <text>on an ongoing basis,
+				facilitate and support the development of a voluntary, industry-led
+			 set of
+				standards, guidelines, best practices, methodologies, procedures,
+			 and processes
+				to reduce cyber risks to critical infrastructure (as defined under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Institute of Standards and Technology Act/s:2/ss:e" proposed="true">subsection
+				(e)</cato:entity-ref>);</text>
+							</paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="id900f98ae-3dd4-4c23-badf-d1ae7d8c6f0f">
+          <enum>(b)</enum>
+          <header>Scope and
+			 limitations</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="National Institute of Standards and Technology Act/s:2">Section 2 of the National Institute of Standards and
+			 Technology Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/272">
+              <cato:entity-ref entity-type="uscode" value="usc/15/272">15 U.S.C. 272</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended by adding at the end the
+			 following:</text>
+					<quoted-block changed="added" committee-id="SSCM00" display-inline="no-display-inline" id="idb2509bce-9ca6-4e13-8f43-243942cf8daf" reported-display-style="italic" style="OLC">
+						<subsection id="id44632d79-ea68-4b32-baa3-615e142d8345">
+              <enum>(e)</enum>
+              <header>Cyber risks</header>
+							<paragraph id="id7671f216-1b28-4a20-a251-dde45ba9aeb3">
+                <enum>(1)</enum>
+                <header>In
+				general</header>
+                <text>In carrying out the activities under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Institute of Standards and Technology Act/s:2/ss:c/p:15" proposed="true">subsection (c)(15)</cato:entity-ref>,
+				the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1341">Director</cato:entity-ref>—</text>
+								<subparagraph id="idd2b87fe5-9e08-4a3e-8b9c-5e12d172c7db">
+                  <enum>(A)</enum>
+                  <text>shall—</text>
+									<clause id="id22fc08ae-30c3-460f-9cdd-44d5cdf91ec5">
+                    <enum>(i)</enum>
+                    <text>coordinate closely and
+				continuously with relevant private sector personnel and entities,
+			 critical
+				infrastructure owners and operators, sector coordinating councils,
+			 Information
+				Sharing and Analysis Centers, and other relevant industry
+			 organizations, and
+				incorporate industry expertise;</text>
+									</clause>
+                  <clause id="ide7b3b809-ef8d-4953-8d98-5a72fb8dc30f">
+                    <enum>(ii)</enum>
+                    <text>consult with the heads
+				of agencies with national security responsibilities,
+			 sector-specific agencies,
+				State and local governments, the governments of other nations, and
+				international organizations;</text>
+									</clause>
+                  <clause id="idd0fa607f-cd82-4903-8bf3-7674502610d6">
+                    <enum>(iii)</enum>
+                    <text>identify a prioritized,
+				flexible, repeatable, performance-based, and cost-effective
+			 approach, including
+				information security measures and controls, that may be voluntarily
+			 adopted by
+				owners and operators of critical infrastructure to help them
+			 identify, assess,
+				and manage cyber risks;</text>
+									</clause>
+                  <clause id="ide80be39d-ef00-48f4-b1be-b986cd16e2bf">
+                    <enum>(iv)</enum>
+                    <text>include
+				methodologies—</text>
+										<subclause id="id799df944-0ef5-4644-bfb1-6482de21dd04">
+                      <enum>(I)</enum>
+                      <text>to identify and mitigate
+				impacts of the cybersecurity measures or controls on business
+			 confidentiality;
+				and</text>
+										</subclause>
+                    <subclause id="id9ec52daf-6b54-460d-aa10-df5d370729a4">
+                      <enum>(II)</enum>
+                      <text>to protect individual
+				privacy and civil liberties;</text>
+										</subclause>
+                  </clause>
+                  <clause id="id329966de-9d2b-4cf9-ae2c-90b723dd13c3">
+                    <enum>(v)</enum>
+                    <text>incorporate voluntary
+				consensus standards and industry best practices;</text>
+									</clause>
+                  <clause id="id2ae674fb-5e91-41a7-98e0-3a3d355cdb9e">
+                    <enum>(vi)</enum>
+                    <text>align with voluntary
+				international standards to the fullest extent possible;</text>
+									</clause>
+                  <clause id="id24b44200-25b2-4d5e-9f3d-8967adb35c11">
+                    <enum>(vii)</enum>
+                    <text>prevent duplication of
+				regulatory processes and prevent conflict with or superseding of
+			 regulatory
+				requirements, mandatory standards, and related processes; and</text>
+									</clause>
+                  <clause id="id2978dd80-a6ec-4b9a-a50a-e93d5a592f52">
+                    <enum>(viii)</enum>
+                    <text>include such other
+				similar and consistent elements as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1341">Director</cato:entity-ref> considers
+			 necessary; and</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="id6ed77c71-2d4c-40d4-b609-b6cefdcd0003">
+                  <enum>(B)</enum>
+                  <text>shall not prescribe or
+				otherwise require—</text>
+									<clause id="ide6732d0d-a0c8-42bf-8055-71bc20d4c432">
+                    <enum>(i)</enum>
+                    <text>the use of specific
+				solutions;</text>
+									</clause>
+                  <clause id="idc5ab9164-c0d0-4ab5-ae15-86e7fb04aa28">
+                    <enum>(ii)</enum>
+                    <text>the use of specific
+				information or communications technology products or services; or</text>
+									</clause>
+                  <clause id="idb8fa428a-88bc-432b-801f-62e4871a2c86">
+                    <enum>(iii)</enum>
+                    <text>that information or
+				communications technology products or services be designed,
+			 developed, or
+				manufactured in a particular manner.</text>
+									</clause>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="idd2cb1e6e-b427-432f-804b-cd55477ab380">
+                <enum>(2)</enum>
+                <header>Limitation</header>
+                <text>Information
+				shared with or provided to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1341">Institute</cato:entity-ref> for the purpose of the
+			 activities
+				described under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Institute of Standards and Technology Act/s:2/ss:c/p:15" proposed="true">subsection (c)(15)</cato:entity-ref> shall not be used by any
+			 Federal, State,
+				tribal, or local department or agency to regulate the activity of
+			 any
+				entity.</text>
+							</paragraph>
+              <paragraph id="idc1eaf5c4-2c51-4c2f-8810-d76e73ef1fda">
+                <enum>(3)</enum>
+                <header>Definitions</header>
+                <text>In
+				this subsection:</text>
+								<subparagraph commented="no" id="id5486aa1d-1e51-4dfa-9df6-74ccfe1a272c">
+                  <enum>(A)</enum>
+                  <header>Critical
+				infrastructure</header>
+                  <text>The term <term>critical infrastructure</term> has
+				the meaning given the term in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="USA PATRIOT Act of 2001/s:1016/ss:e">section 1016(e) of the USA PATRIOT
+			 Act of 2001</cato:entity-ref>
+				(<external-xref legal-doc="usc" parsable-cite="usc/42/5195c">
+                      <cato:entity-ref entity-type="uscode" value="usc/42/5195c/e">42 U.S.C. 5195c(e)</cato:entity-ref>
+                    </external-xref>)</cato:entity>.</text>
+								</subparagraph>
+                <subparagraph commented="no" id="id5d182b1d-863c-4d88-abf5-c44f853bf5af">
+                  <enum>(B)</enum>
+                  <header>Sector-specific
+				agency</header>
+                  <text>The term <term>sector-specific agency</term> means the
+				Federal department or agency responsible for providing
+			 institutional knowledge
+				and specialized expertise as well as leading, facilitating, or
+			 supporting the
+				security and resilience programs and associated activities of its
+			 designated
+				critical infrastructure sector in the all-hazards
+				environment.</text>
+								</subparagraph>
+              </paragraph>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="id1BEB3A182E3A4ECA9036C4A1B3271FFC">
+          <enum>(c)</enum>
+          <header>Study and
+			 report</header>
+					<paragraph changed="added" id="idE9B378749A26423EBEFDC93B0F63849C" reported-display-style="italic">
+            <enum>
+              <added-phrase reported-display-style="italic">(1)</added-phrase>
+            </enum>
+            <header>Study</header>
+            <text>The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0500" entity-type="federal-body">Comptroller General of the United States</cato:entity-ref> shall conduct a study that
+			 assesses—</text>
+						<subparagraph id="id8EE36E5B03E8499993C8333D320BB818">
+              <enum>(A)</enum>
+              <text>the progress made by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1341" entity-type="federal-body">Director of the National Institute of Standards and Technology</cato:entity-ref> in
+			 facilitating
+			 the development of standards and procedures to reduce cyber risks to
+			 critical
+			 infrastructure in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Institute of Standards and Technology Act/s:2/ss:c/p:15" proposed="true">section 2(c)(15) of the National
+			 Institute of
+			 Standards and Technology Act</cato:entity-ref>, as added by this section;</text>
+						</subparagraph>
+            <subparagraph id="id4C453660C27A4588B932B813F72E18AA">
+              <enum>(B)</enum>
+              <text>the extent to which the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1341">Director's</cato:entity-ref> facilitation efforts are consistent with the directive in such
+			 section that the development of such standards and procedures be voluntary
+			 and
+			 led by industry representatives;</text>
+						</subparagraph>
+            <subparagraph id="idd4acd824cead48da9d7c68ec523bf1fd">
+              <enum>(C)</enum>
+              <text>the extent to which
+			 sectors of critical infrastructure (as defined in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="USA PATRIOT Act of 2001/s:1016/ss:e">section 1016(e) of the
+			 USA
+			 PATRIOT Act of 2001</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/5195c">
+                  <cato:entity-ref entity-type="uscode" value="usc/42/5195c/e">42 U.S.C. 5195c(e)</cato:entity-ref>
+                </external-xref>)</cato:entity>) have adopted a voluntary,
+			 industry-led set of standards, guidelines, best practices, methodologies,
+			 procedures, and processes to reduce cyber risks to critical infrastructure
+			 in
+			 accordance with such <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="National Institute of Standards and Technology Act/s:2/ss:c/p:15" proposed="true">section 2(c)(15)</cato:entity-ref>;</text>
+						</subparagraph>
+            <subparagraph id="ide4b0796bf4184688a8079168502cb57e">
+              <enum>(D)</enum>
+              <text>the reasons behind the
+			 decisions of sectors of critical infrastructure (as defined in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:101/ss:c/p:1/sp:C" proposed="true">subparagraph
+			 (C)</cato:entity-ref>) to adopt or to not adopt the voluntary standards described in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:101/ss:c/p:1/sp:C" proposed="true">subparagraph
+			 (C)</cato:entity-ref>; and</text>
+						</subparagraph>
+            <subparagraph id="id94b88d4de6694cf3961823f815b4cebd">
+              <enum>(E)</enum>
+              <text>the extent to which such
+			 voluntary standards have proved successful in protecting critical
+			 infrastructure from cyber threats.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph changed="added" id="idD24CA89C12B34C1790DAE3FCD96911E3" reported-display-style="italic">
+            <enum>(2)</enum>
+            <header>Reports</header>
+            <text>Not
+			 later than 1 year after the date of the enactment of this Act, and every 2
+			 years thereafter for the following 6 years, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0500" entity-type="federal-body">Comptroller General</cato:entity-ref> shall
+			 submit a report, which summarizes the findings of the study conducted
+			 under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:101/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref>, to—</text>
+						<subparagraph id="id122841873F52442189B21BAA26C4FE3A">
+              <enum>(A)</enum>
+              <text>the
+			 <committee-name committee-id="SSCM00">
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSCM00" entity-type="committee">Committee on Commerce, Science, and
+			 Transportation of the Senate</cato:entity-ref>
+                </committee-name>;</text>
+						</subparagraph>
+            <subparagraph id="id406491DC956D4811B8881CBC063B58CB">
+              <enum>(B)</enum>
+              <text>the
+			 <committee-name committee-id="">
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HIF00" entity-type="committee">Committee on Energy and Commerce of the House
+			 of Representatives</cato:entity-ref>
+                </committee-name>; and</text>
+						</subparagraph>
+            <subparagraph id="idA4DD31F2169F47BAB7EA0876BDF40A83">
+              <enum>(C)</enum>
+              <text>the
+			 <committee-name committee-id="">
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HSY00" entity-type="committee">Committee on Science, Space, and Technology of
+			 the House of Representatives</cato:entity-ref>
+                </committee-name>.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+      </section>
+    </title>
+    <title changed="added" committee-id="SSCM00" id="id41a1f326-64c5-4585-8f13-1cbb9af141ec" reported-display-style="italic">
+      <enum>II</enum>
+      <header>Cybersecurity research
+			 and development</header>
+			<section id="id9752f956-c3f7-4328-97ca-1e858d7974ef">
+        <enum>201.</enum>
+        <header>Federal cybersecurity
+			 research and development</header>
+				<subsection id="id038b57f5-e122-4ce7-8081-0f5158127c28">
+          <enum>(a)</enum>
+          <header>Fundamental
+			 cybersecurity research</header>
+					<paragraph id="idacea143b-545e-4a23-ae01-2ba4653b129d">
+            <enum>(1)</enum>
+            <header>In
+			 general</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1112" entity-type="federal-body">Director of the Office of Science and Technology
+			 Policy</cato:entity-ref>, in coordination with the head of any relevant Federal agency,
+			 shall
+			 build upon programs and plans in effect as of the date of enactment of
+			 this Act
+			 to develop a Federal cybersecurity research and development plan to meet
+			 objectives in cybersecurity, such as—</text>
+						<subparagraph id="idd5f8a6bd-eda7-406a-a001-7c7f0e5fcaad">
+              <enum>(A)</enum>
+              <text>how to design and build
+			 complex software-intensive systems that are secure and reliable when first
+			 deployed;</text>
+						</subparagraph>
+            <subparagraph id="id7d676ef8-cd7f-4a07-8731-658d6b67c2d1">
+              <enum>(B)</enum>
+              <text>how to test and verify
+			 that software and hardware, whether developed locally or obtained from a
+			 third
+			 party, is free of significant known security flaws;</text>
+						</subparagraph>
+            <subparagraph id="idcb642cbb-adea-441d-b3f6-7889c36d9557">
+              <enum>(C)</enum>
+              <text>how to test and verify
+			 that software and hardware obtained from a third party correctly
+			 implements
+			 stated functionality, and only that functionality;</text>
+						</subparagraph>
+            <subparagraph id="id64b0755a-9ac3-4501-8824-b879779ad29f">
+              <enum>(D)</enum>
+              <text>how to guarantee the
+			 privacy of an individual, including that individual's identity,
+			 information,
+			 and lawful transactions when stored in distributed systems or transmitted
+			 over
+			 networks;</text>
+						</subparagraph>
+            <subparagraph id="ida14e1b47-784e-4ee4-af35-168b3e15bf1f">
+              <enum>(E)</enum>
+              <text>how to build new
+			 protocols to enable the Internet to have robust security as one of the key
+			 capabilities of the Internet;</text>
+						</subparagraph>
+            <subparagraph id="id90c4e69e-32e2-478c-97e8-f41f4fae5a07">
+              <enum>(F)</enum>
+              <text>how to determine the
+			 origin of a message transmitted over the Internet;</text>
+						</subparagraph>
+            <subparagraph id="id0c9f7e7c-c213-4094-a3b7-71565a82ddd5">
+              <enum>(G)</enum>
+              <text>how to support privacy in
+			 conjunction with improved security;</text>
+						</subparagraph>
+            <subparagraph id="idcfd8386e-f03a-49c7-bb39-826783ab14a8">
+              <enum>(H)</enum>
+              <text>how to address the
+			 growing problem of insider threats;</text>
+						</subparagraph>
+            <subparagraph id="ided46a0a0-678d-4957-b69a-55122001f103">
+              <enum>(I)</enum>
+              <text>how improved consumer
+			 education and digital literacy initiatives can address human factors that
+			 contribute to cybersecurity;</text>
+						</subparagraph>
+            <subparagraph id="id6c6f06c3-2857-4070-9290-8879cff66ce6">
+              <enum>(J)</enum>
+              <text>how to protect
+			 information processed, transmitted, or stored using cloud computing or
+			 transmitted through wireless services; and</text>
+						</subparagraph>
+            <subparagraph id="id75ee5091-fc0a-40c3-b04a-507002ce0ae1">
+              <enum>(K)</enum>
+              <text>any additional objectives
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1112" entity-type="federal-body">Director of the Office of Science and Technology Policy</cato:entity-ref>, in
+			 coordination
+			 with the head of any relevant Federal agency and with input from
+			 stakeholders,
+			 including appropriate national laboratories, industry, and academia,
+			 determines
+			 appropriate.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="id0cb84ebe-50c1-4bc8-8334-234675c6994c">
+            <enum>(2)</enum>
+            <header>Requirements</header>
+						<subparagraph id="id8f2c2a71-8051-41e0-a06f-68781643dc37">
+              <enum>(A)</enum>
+              <header>In
+			 general</header>
+              <text>The Federal cybersecurity research and development plan
+			 shall identify and prioritize near-term, mid-term, and long-term research
+			 in
+			 computer and information science and engineering to meet the objectives
+			 under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:201/ss:a/p:1" proposed="true">paragraph (1)</cato:entity-ref>, including research in the areas described in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act" value="Cyber Security Research and Development Act/s:4/ss:a/p:1">section
+			 4(a)(1) of
+			 the Cyber Security Research and Development Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/7403">
+                  <cato:entity-ref entity-type="uscode" value="usc/15/7403/a/1">15 U.S.C. 7403(a)(1)</cato:entity-ref>
+                </external-xref>)</cato:entity>.</text>
+						</subparagraph>
+            <subparagraph id="id95d436a6-b158-4864-bb3a-337a538bcbda">
+              <enum>(B)</enum>
+              <header>Private sector
+			 efforts</header>
+              <text>In developing, implementing, and updating the Federal
+			 cybersecurity research and development plan, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1112" entity-type="federal-body">Director of the Office of
+			 Science and Technology Policy</cato:entity-ref> shall work in close cooperation with
+			 industry,
+			 academia, and other interested stakeholders to ensure, to the extent
+			 possible,
+			 that Federal cybersecurity research and development is not duplicative of
+			 private sector efforts.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="iddef86d95-4011-4d83-a7ac-20decb784df3">
+            <enum>(3)</enum>
+            <header>Triennial
+			 updates</header>
+						<subparagraph id="ida457e44e-43f8-4dbb-9179-dbaadce12c9b">
+              <enum>(A)</enum>
+              <header>In
+			 general</header>
+              <text>The Federal cybersecurity research and development plan
+			 shall be updated triennially.</text>
+						</subparagraph>
+            <subparagraph commented="no" id="id101cf3ea-f967-44f7-9488-e8bd311a0845">
+              <enum>(B)</enum>
+              <header>Report to
+			 Congress</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1112" entity-type="federal-body">Director of the Office of Science and Technology
+			 Policy</cato:entity-ref> shall submit the plan, not later than 1 year after the date of
+			 enactment
+			 of this Act, and each updated plan under this section to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSCM00" entity-type="committee">Committee on
+			 Commerce, Science, and Transportation of the Senate</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HSY00" entity-type="committee">Committee on
+			 Science, Space, and Technology of the House of Representatives</cato:entity-ref>.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection id="id914976b6-0218-4094-acfa-6f0f139b758e">
+          <enum>(b)</enum>
+          <header>Cybersecurity practices
+			 research</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4900" entity-type="federal-body">Director of the National Science Foundation</cato:entity-ref> shall
+			 support research that—</text>
+					<paragraph id="idd2d331a2-c485-488c-8ec0-0a0f93116a8a">
+            <enum>(1)</enum>
+            <text>develops, evaluates,
+			 disseminates, and integrates new cybersecurity practices and concepts into
+			 the
+			 core curriculum of computer science programs and of other programs where
+			 graduates of such programs have a substantial probability of developing
+			 software after graduation, including new practices and concepts relating
+			 to
+			 secure coding education and improvement programs; and</text>
+					</paragraph>
+          <paragraph id="id81d303e3-84fb-42df-bb32-74395210a275">
+            <enum>(2)</enum>
+            <text>develops new models for
+			 professional development of faculty in cybersecurity education, including
+			 secure coding development.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="id0664672f-2223-4032-8b88-2294fb5ed5ee">
+          <enum>(c)</enum>
+          <header>Cybersecurity modeling
+			 and test beds</header>
+					<paragraph id="id2f715961-7d3b-4f9e-8659-727c801c8a3b">
+            <enum>(1)</enum>
+            <header>Review</header>
+            <text>Not
+			 later than 1 year after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4900" entity-type="federal-body">Director
+			 the
+			 National Science Foundation</cato:entity-ref>, in coordination with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1112" entity-type="federal-body">Director of the
+			 Office of
+			 Science and Technology Policy</cato:entity-ref>, shall conduct a review of cybersecurity
+			 test
+			 beds in existence on the date of enactment of this Act to inform the
+			 grants
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:201/ss:c/p:2" proposed="true">paragraph (2)</cato:entity-ref>. The review shall include an assessment of whether a
+			 sufficient number of cybersecurity test beds are available to meet the
+			 research
+			 needs under the Federal cybersecurity research and development plan.</text>
+					</paragraph>
+          <paragraph id="id3d718ebb-0882-480a-980f-63ea8de200cb">
+            <enum>(2)</enum>
+            <header>Additional
+			 cybersecurity modeling and test beds</header>
+						<subparagraph id="id4fd42826-b84a-4c3c-9a51-164e7c09e160">
+              <enum>(A)</enum>
+              <header>In
+			 general</header>
+              <text>If the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4900" entity-type="federal-body">Director of the National Science Foundation</cato:entity-ref>, after
+			 the review under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:201/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref>, determines that the research needs under
+			 the
+			 Federal cybersecurity research and development plan require the
+			 establishment
+			 of additional cybersecurity test beds, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4900" entity-type="federal-body">Director of the National
+			 Science
+			 Foundation</cato:entity-ref>, in coordination with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1300" entity-type="federal-body">Secretary of Commerce</cato:entity-ref> and the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of
+			 Homeland Security</cato:entity-ref>, may award grants to institutions of higher education or
+			 research and development non-profit institutions to establish
+			 cybersecurity
+			 test beds.</text>
+						</subparagraph>
+            <subparagraph id="idd808d3ad-6042-4473-b9f8-7e8233916119">
+              <enum>(B)</enum>
+              <header>Requirement</header>
+              <text>The
+			 cybersecurity test beds under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:201/ss:c/p:2/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> shall be sufficiently large
+			 in
+			 order to model the scale and complexity of real-time cyber attacks and
+			 defenses
+			 on real world networks and environments.</text>
+						</subparagraph>
+            <subparagraph commented="no" id="id7a794473-5d55-44aa-9857-26f86709d63e">
+              <enum>(C)</enum>
+              <header>Assessment
+			 required</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4900" entity-type="federal-body">Director of the National Science Foundation</cato:entity-ref>, in
+			 coordination with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1300" entity-type="federal-body">Secretary of Commerce</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland
+			 Security</cato:entity-ref>, shall evaluate the effectiveness of any grants awarded under
+			 this
+			 subsection in meeting the objectives of the Federal cybersecurity research
+			 and
+			 development plan under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:201/ss:a" proposed="true">subsection (a)</cato:entity-ref> no later than 2 years after the
+			 review
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:201/ss:c/p:1" proposed="true">paragraph (1)</cato:entity-ref> of this subsection, and periodically thereafter.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection commented="no" id="ideb57e5b2-26d0-4fe2-adb0-3eb2c77d43a1">
+          <enum>(d)</enum>
+          <header>Coordination With Other
+			 Research Initiatives</header>
+          <text>In accordance with the responsibilities
+			 under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:101">section 101 of the High-Performance Computing Act of 1991</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/15/5511">15 U.S.C.
+			 5511</cato:entity-ref>)</cato:entity>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1112" entity-type="federal-body">Director the Office of Science and Technology Policy</cato:entity-ref> shall
+			 coordinate, to the extent practicable, Federal research and development
+			 activities under this section with other ongoing research and development
+			 security-related initiatives, including research being conducted by—</text>
+					<paragraph commented="no" id="idd5a105b0-8782-44a7-84f6-91e49c88f492">
+            <enum>(1)</enum>
+            <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4900" entity-type="federal-body">National Science
+			 Foundation</cato:entity-ref>;</text>
+					</paragraph>
+          <paragraph commented="no" id="id60fb31f9-4a37-423c-bf1a-48f079c6bd78">
+            <enum>(2)</enum>
+            <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1341" entity-type="federal-body">National Institute of
+			 Standards and Technology</cato:entity-ref>;</text>
+					</paragraph>
+          <paragraph commented="no" id="id38ba754a-dd00-404a-a84f-c8a7b777d6ba">
+            <enum>(3)</enum>
+            <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of
+			 Homeland Security</cato:entity-ref>;</text>
+					</paragraph>
+          <paragraph commented="no" id="id44298192-9c4f-46ed-8b27-e5f90c1eefe7">
+            <enum>(4)</enum>
+            <text>other Federal
+			 agencies;</text>
+					</paragraph>
+          <paragraph commented="no" id="id1ce39aa4-eea9-4c0a-b746-74746b0bc596">
+            <enum>(5)</enum>
+            <text>other Federal and private
+			 research laboratories, research entities, and universities;</text>
+					</paragraph>
+          <paragraph commented="no" id="id77f406f5-77d2-48f9-98b1-4036d853fc92">
+            <enum>(6)</enum>
+            <text>institutions of higher
+			 education;</text>
+					</paragraph>
+          <paragraph commented="no" id="id4cbf65c9-75a0-4e29-8d46-dd9c486c8d54">
+            <enum>(7)</enum>
+            <text>relevant nonprofit
+			 organizations; and</text>
+					</paragraph>
+          <paragraph commented="no" id="id055299c6-05a2-4986-9174-1752b07226a9">
+            <enum>(8)</enum>
+            <text>international partners of
+			 the United States.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="id5927279d-53b5-4dc5-94b4-534d9d9c068e">
+          <enum>(e)</enum>
+          <header>National Science
+			 Foundation Computer and Network Security Research Grant
+			 Areas</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Cyber Security Research and Development Act/s:4/ss:a/p:1">Section 4(a)(1) of the Cyber Security Research and
+			 Development Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/7403">
+              <cato:entity-ref entity-type="uscode" value="usc/15/7403/a/1">15 U.S.C. 7403(a)(1)</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended—</text>
+					<paragraph id="idecd86481-58a2-4235-b2d1-d87eb9ecfcb9">
+            <enum>(1)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cyber Security Research and Development Act/s:4/ss:a/p:1/sp:H">subparagraph (H)</cato:entity-ref>, by
+			 striking <quote>and</quote> at the end;</text>
+					</paragraph>
+          <paragraph id="idb370e754-df27-4eec-a130-119a1f5afd78">
+            <enum>(2)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cyber Security Research and Development Act/s:4/ss:a/p:1/sp:I">subparagraph (I)</cato:entity-ref>, by
+			 striking the period at the end and inserting a semicolon; and</text>
+					</paragraph>
+          <paragraph id="id2dd0df8f-d718-45e9-b88a-eb38670d7fb5">
+            <enum>(3)</enum>
+            <text>by adding at the end the
+			 following:</text>
+						<quoted-block changed="added" committee-id="SSCM00" display-inline="no-display-inline" id="id148fd838-63ee-4b36-921d-ab0aa30efb93" reported-display-style="italic" style="OLC">
+							<subparagraph id="idcaaf4525-e12b-46ae-82ec-0a6ad148f2db">
+                <enum>(J)</enum>
+                <text>secure fundamental
+				protocols that are integral to inter-network communications and
+			 data
+				exchange;</text>
+							</subparagraph>
+              <subparagraph id="idb92da513-c2be-4632-b37e-8d91d9a6414c">
+                <enum>(K)</enum>
+                <text>secure software
+				engineering and software assurance, including—</text>
+								<clause id="id0063a42d-c2f1-485b-be54-704bd6f24b0a">
+                  <enum>(i)</enum>
+                  <text>programming languages and
+				systems that include fundamental security features;</text>
+								</clause>
+                <clause id="id5913b700-a4cd-43dd-b949-d2561a0ec43b">
+                  <enum>(ii)</enum>
+                  <text>portable or reusable
+				code that remains secure when deployed in various environments;</text>
+								</clause>
+                <clause id="id753d6f98-e3e5-49c3-95eb-72a1f5ca9b8a">
+                  <enum>(iii)</enum>
+                  <text>verification and
+				validation technologies to ensure that requirements and
+			 specifications have
+				been implemented; and</text>
+								</clause>
+                <clause id="id50ccddf4-a414-44e6-bca9-d0a38c8b27b7">
+                  <enum>(iv)</enum>
+                  <text>models for comparison
+				and metrics to assure that required standards have been met;</text>
+								</clause>
+              </subparagraph>
+              <subparagraph id="id2d9d68ab-b65a-484a-8500-ff56d32eb9fb">
+                <enum>(L)</enum>
+                <text>holistic system security
+				that—</text>
+								<clause id="id451a2b46-97e4-4679-975f-05342e639308">
+                  <enum>(i)</enum>
+                  <text>addresses the building of
+				secure systems from trusted and untrusted components;</text>
+								</clause>
+                <clause id="idaafbe4d8-ceda-4b41-8526-1134e2140329">
+                  <enum>(ii)</enum>
+                  <text>proactively reduces
+				vulnerabilities;</text>
+								</clause>
+                <clause id="id524a376a-d9b8-44fb-a572-02587183fecd">
+                  <enum>(iii)</enum>
+                  <text>addresses insider
+				threats; and</text>
+								</clause>
+                <clause id="idcd232550-de7e-4d6e-8f64-593eb77fff24">
+                  <enum>(iv)</enum>
+                  <text>supports privacy in
+				conjunction with improved security;</text>
+								</clause>
+              </subparagraph>
+              <subparagraph id="id11778980-740a-4dad-abd6-17ca179634a8">
+                <enum>(M)</enum>
+                <text>monitoring and
+				detection;</text>
+							</subparagraph>
+              <subparagraph id="id85fadbae-8158-4b64-81ca-f35b97953a2c">
+                <enum>(N)</enum>
+                <text>mitigation and rapid
+				recovery methods;</text>
+							</subparagraph>
+              <subparagraph id="idf5253d67-7103-4891-ab40-dc88b59c9839">
+                <enum>(O)</enum>
+                <text>security of wireless
+				networks and mobile devices; and</text>
+							</subparagraph>
+              <subparagraph id="idb0abe4e3-607d-4861-93d5-2d388a41f6f7">
+                <enum>(P)</enum>
+                <text>security of cloud
+				infrastructure and
+				services.</text>
+							</subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="idc00712df-9f11-4539-bca8-c60504cc5b7e">
+          <enum>(f)</enum>
+          <header>Research on the science
+			 of cybersecurity</header>
+          <text>The head of each agency and department
+			 identified under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="High-Performance Computing Act of 1991/s:101/ss:a/p:3/sp:B">section 101(a)(3)(B) of the High-Performance Computing
+			 Act of
+			 1991</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/5511">
+              <cato:entity-ref entity-type="uscode" value="usc/15/5511/a/3/B">15 U.S.C. 5511(a)(3)(B)</cato:entity-ref>
+            </external-xref>)</cato:entity>, through existing programs and activities,
+			 shall
+			 support research that will lead to the development of a scientific
+			 foundation
+			 for the field of cybersecurity, including research that increases
+			 understanding
+			 of the underlying principles of securing complex networked systems,
+			 enables
+			 repeatable experimentation, and creates quantifiable security metrics.</text>
+				</subsection>
+      </section>
+      <section commented="no" id="idd5c74d86-baee-4975-89eb-daef0435349c">
+        <enum>202.</enum>
+        <header>Computer and network
+			 security research centers</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Cyber Security Research and Development Act/s:4/ss:b">Section 4(b) of the Cyber Security Research
+			 and Development Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/15/7403">
+            <cato:entity-ref entity-type="uscode" value="usc/15/7403/b">15 U.S.C. 7403(b)</cato:entity-ref>
+          </external-xref>)</cato:entity> is amended—</text>
+				<paragraph changed="added" id="id1E5DD0ACB8A9485DB1E20198E0004EE4" reported-display-style="italic">
+          <enum>(1)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cyber Security Research and Development Act/s:4/ss:b/p:3">paragraph (3)</cato:entity-ref>, by
+			 striking <quote>the research areas</quote> and inserting the following:
+			 <quote>improving the security and resiliency of information infrastructure,
+			 reducing cyber vulnerabilities, and anticipating and mitigating
+			 consequences of
+			 cyber attacks on critical infrastructure, by conducting research in the
+			 areas</quote>;</text>
+				</paragraph>
+        <paragraph changed="added" id="idA4F2A951B50F447D88B4812A8E73D5AB" reported-display-style="italic">
+          <enum>(2)</enum>
+          <text>by striking <quote>the
+			 center</quote> in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cyber Security Research and Development Act/s:4/ss:b/p:4/sp:D">paragraph (4)(D)</cato:entity-ref> and inserting <quote>the Center
+            </quote>;
+			 and</text>
+				</paragraph>
+        <paragraph changed="added" id="id3CA8DB88F3E440F586F83F0298F6A4EB" reported-display-style="italic">
+          <enum>(3)</enum>
+          <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cyber Security Research and Development Act/s:4/ss:b/p:5">paragraph (5)</cato:entity-ref>—</text>
+					<subparagraph changed="added" commented="no" committee-id="SSCM00" id="iddcc83de1-6b84-4e49-a1e8-bea47caf498f" reported-display-style="italic">
+            <enum>(A)</enum>
+            <text>by striking
+			 <quote>and</quote> at the end of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cyber Security Research and Development Act/s:4/ss:b/p:5/sp:C">subparagraph (C)</cato:entity-ref>;</text>
+					</subparagraph>
+          <subparagraph changed="added" commented="no" committee-id="SSCM00" id="idaa02a122-69a0-45f0-b7ee-3e1ff4819227" reported-display-style="italic">
+            <enum>(B)</enum>
+            <text>by striking the period at
+			 the end of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cyber Security Research and Development Act/s:4/ss:b/p:5/sp:D">subparagraph (D)</cato:entity-ref> and inserting a semicolon; and</text>
+					</subparagraph>
+          <subparagraph changed="added" commented="no" committee-id="SSCM00" id="id0be7a80f-dfc1-4389-bc4a-1015e34a69d4" reported-display-style="italic">
+            <enum>(C)</enum>
+            <text>by adding at the end the
+			 following:</text>
+						<quoted-block changed="added" committee-id="SSCM00" display-inline="no-display-inline" id="id4DE24E285CF74C0A8325A956200A99C1" reported-display-style="italic" style="OLC">
+							<subparagraph changed="added" commented="no" committee-id="SSCM00" id="id93ccf816-ff06-464a-8e69-cb01235d7e98" reported-display-style="italic">
+                <enum>(E)</enum>
+                <text>the demonstrated
+				capability of the applicant to conduct high performance computation
+			 integral to
+				complex computer and network security research, through on-site or
+			 off-site
+				computing;</text>
+							</subparagraph>
+              <subparagraph changed="added" commented="no" committee-id="SSCM00" id="id3bb9f000-f809-430e-a499-d83825ac7fae" reported-display-style="italic">
+                <enum>(F)</enum>
+                <text>the applicant's
+				affiliation with private sector entities involved with industrial
+			 research
+				described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cyber Security Research and Development Act/s:4/ss:a/p:1">subsection (a)(1)</cato:entity-ref>;</text>
+							</subparagraph>
+              <subparagraph changed="added" commented="no" committee-id="SSCM00" id="ide174f673-c943-425b-93da-69cfadd378f4" reported-display-style="italic">
+                <enum>(G)</enum>
+                <text>the capability of the
+				applicant to conduct research in a secure environment;</text>
+							</subparagraph>
+              <subparagraph changed="added" commented="no" committee-id="SSCM00" id="ide3f3ce61-193c-4212-81e6-3f7cfea4968a" reported-display-style="italic">
+                <enum>(H)</enum>
+                <text>the applicant's
+				affiliation with existing research programs of the Federal
+			 Government;</text>
+							</subparagraph>
+              <subparagraph changed="added" commented="no" committee-id="SSCM00" id="id8dde5e6e-385c-4a3a-9a34-c6d621396d46" reported-display-style="italic">
+                <enum>(I)</enum>
+                <text>the applicant's
+				experience managing public-private partnerships to transition new
+			 technologies
+				into a commercial setting or the government user community;</text>
+							</subparagraph>
+              <subparagraph changed="added" id="idC8CE05598AF44C9290CC9CE447F73056" reported-display-style="italic">
+                <enum>(J)</enum>
+                <text>the capability of the
+				applicant to conduct interdisciplinary cybersecurity research,
+			 basic and
+				applied, such as in law, economics, or behavioral sciences; and</text>
+							</subparagraph>
+              <subparagraph changed="added" id="id6CFD03E49ED74626977E6FF134F34DC5" reported-display-style="italic">
+                <enum>(K)</enum>
+                <text>the capability of the
+				applicant to conduct research in areas such as systems security,
+			 wireless
+				security, networking and protocols, formal methods and
+			 high-performance
+				computing, nanotechnology, or industrial control
+				systems.</text>
+							</subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</subparagraph>
+        </paragraph>
+      </section>
+    </title>
+    <title changed="added" committee-id="SSCM00" id="idcde72672-24d3-4ce8-bfeb-fe8ec46dd19d" reported-display-style="italic">
+      <enum>III</enum>
+      <header>Education and Workforce
+			 Development</header>
+			<section id="id903fd649-950b-4aa9-9afc-35d2ae804318">
+        <enum>301.</enum>
+        <header> Cybersecurity
+			 competitions and challenges</header>
+				<subsection id="id067acd21-a3ee-4e60-8f30-93de47876e50">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1300" entity-type="federal-body">Secretary of Commerce</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4900" entity-type="federal-body">Director of the National
+			 Science Foundation</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref>, in consultation
+			 with
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2400" entity-type="federal-body">Director of the Office of Personnel Management</cato:entity-ref>, shall—</text>
+					<paragraph id="id88e4f562-02f3-4086-90d3-e1ee021a7c10">
+            <enum>(1)</enum>
+            <text>support competitions and
+			 challenges under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="America COMPETES Reauthorization Act of 2010/s:105">section 105 of the America COMPETES Reauthorization Act
+			 of
+			 2010</cato:entity-ref> (<cato:entity-ref entity-type="statute-at-large" value="statute-at-large/124/3989">124 Stat. 3989</cato:entity-ref>)</cato:entity> or any other provision of law, as appropriate—</text>
+						<subparagraph id="id0f3964aa-e308-4437-8d57-4da654b0bb3f">
+              <enum>(A)</enum>
+              <text>to identify, develop, and
+			 recruit talented individuals to perform duties relating to the security of
+			 information infrastructure in Federal, State, and local government
+			 agencies,
+			 and the private sector; or</text>
+						</subparagraph>
+            <subparagraph id="id5875ee86-84c7-4e84-ab50-3f03a5ef9f26">
+              <enum>(B)</enum>
+              <text>to stimulate innovation
+			 in basic and applied cybersecurity research, technology development, and
+			 prototype demonstration that has the potential for application to the
+			 information technology activities of the Federal Government; and</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="ida7a00f15-2763-43cb-ac35-cc344d645948">
+            <enum>(2)</enum>
+            <text>ensure the effective
+			 operation of the competitions and challenges under this section.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="idff1719dc-2369-4cf9-8068-a946012a19a6">
+          <enum>(b)</enum>
+          <header>Participation</header>
+          <text>Participants
+			 in the competitions and challenges under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:301/ss:a/p:1" proposed="true">subsection (a)(1)</cato:entity-ref> may include—</text>
+					<paragraph id="id1aee8955-47da-452b-bb63-745ce46fbd7a">
+            <enum>(1)</enum>
+            <text>students enrolled in
+			 grades 9 through 12;</text>
+					</paragraph>
+          <paragraph id="id1a51b06b-fcc1-4c62-8eb8-e8beb2e42085">
+            <enum>(2)</enum>
+            <text>students enrolled in a
+			 postsecondary program of study leading to a baccalaureate degree at an
+			 institution of higher education;</text>
+					</paragraph>
+          <paragraph id="id91c1b541-aeb6-4231-824a-8589962cc962">
+            <enum>(3)</enum>
+            <text>students enrolled in a
+			 postbaccalaureate program of study at an institution of higher
+			 education;</text>
+					</paragraph>
+          <paragraph id="id49de017f-94ae-4e66-bf8f-f0cbb50f5459">
+            <enum>(4)</enum>
+            <text>institutions of higher
+			 education and research institutions;</text>
+					</paragraph>
+          <paragraph id="id259dd04f-9456-4652-9954-e02400351fd8">
+            <enum>(5)</enum>
+            <text>veterans; and</text>
+					</paragraph>
+          <paragraph id="idb5210d03-8c7b-4c1c-b424-1e626cbe930e">
+            <enum>(6)</enum>
+            <text>other groups or
+			 individuals that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1300" entity-type="federal-body">Secretary of Commerce</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4900" entity-type="federal-body">Director of the National
+			 Science
+			 Foundation</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> determine appropriate.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="id95239c71-e79d-49cb-a9b8-10a56539de48">
+          <enum>(c)</enum>
+          <header>Affiliation and
+			 cooperative agreements</header>
+          <text>Competitions and challenges under this
+			 section may be carried out through affiliation and cooperative agreements
+			 with—</text>
+					<paragraph id="idbae23af8-4aa7-4f9b-95a2-f12fbef7be97">
+            <enum>(1)</enum>
+            <text>Federal agencies;</text>
+					</paragraph>
+          <paragraph id="ida6c4cc47-79cd-4537-bc2b-97542018698e">
+            <enum>(2)</enum>
+            <text>regional, State, or
+			 school programs supporting the development of cyber professionals;</text>
+					</paragraph>
+          <paragraph id="idb5e670b1-ff8f-41bc-9dbb-37493ecddc69">
+            <enum>(3)</enum>
+            <text>State, local, and tribal
+			 governments; or</text>
+					</paragraph>
+          <paragraph id="id20a01513-72f6-4200-8eb6-93e98789db53">
+            <enum>(4)</enum>
+            <text>other private sector
+			 organizations.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="id1bca636b-4a42-4270-9147-1d9aaff050c6">
+          <enum>(d)</enum>
+          <header>Areas of
+			 skill</header>
+          <text>Competitions and challenges under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:301/ss:a/p:1/sp:A" proposed="true">subsection (a)(1)(A)</cato:entity-ref>
+			 shall be designed to identify, develop, and recruit exceptional talent
+			 relating
+			 to—</text>
+					<paragraph id="id6efbab11-1f16-4c5e-884f-bde39a9c5dda">
+            <enum>(1)</enum>
+            <text>ethical hacking;</text>
+					</paragraph>
+          <paragraph id="id6926225c-40fe-4c04-985c-3dc2a454bf0b">
+            <enum>(2)</enum>
+            <text>penetration
+			 testing;</text>
+					</paragraph>
+          <paragraph id="idaf24dda6-ec07-46e2-aacd-9a65deec0b13">
+            <enum>(3)</enum>
+            <text>vulnerability
+			 assessment;</text>
+					</paragraph>
+          <paragraph id="idcdba0e51-1ef6-4103-93b2-f01a366b548b">
+            <enum>(4)</enum>
+            <text>continuity of system
+			 operations;</text>
+					</paragraph>
+          <paragraph id="id21378cf1-0045-4e55-a8b2-6ad32f599656">
+            <enum>(5)</enum>
+            <text>security in
+			 design;</text>
+					</paragraph>
+          <paragraph id="id0129966f-005a-4ffa-a48a-9291d24806c8">
+            <enum>(6)</enum>
+            <text>cyber forensics;</text>
+					</paragraph>
+          <paragraph id="id92306664-9c62-45c1-9934-09f3ec1d0787">
+            <enum>(7)</enum>
+            <text>offensive and defensive
+			 cyber operations; and</text>
+					</paragraph>
+          <paragraph id="id093fd900-a959-44bc-8a78-b1a539a8390b">
+            <enum>(8)</enum>
+            <text>other areas the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1300" entity-type="federal-body">Secretary
+			 of Commerce</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4900" entity-type="federal-body">Director of the National Science Foundation</cato:entity-ref>, and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of
+			 Homeland Security</cato:entity-ref> consider necessary to fulfill the cybersecurity
+			 mission.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="id116329b0-eb08-454a-83e3-627e5744e6b6">
+          <enum>(e)</enum>
+          <header>Topics</header>
+          <text>In
+			 selecting topics for competitions and challenges under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:301/ss:a/p:1" proposed="true">subsection (a)(1)</cato:entity-ref>,
+			 the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1300" entity-type="federal-body">Secretary of Commerce</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4900" entity-type="federal-body">Director of the National Science Foundation</cato:entity-ref>, and
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref>—</text>
+					<paragraph id="id3db23b3b-4c84-48cb-b7dc-9eb608ba3b4b">
+            <enum>(1)</enum>
+            <text>shall consult widely both
+			 within and outside the Federal Government; and</text>
+					</paragraph>
+          <paragraph id="id8c9a94b6-46cb-4934-880a-2407c4228598">
+            <enum>(2)</enum>
+            <text>may empanel advisory
+			 committees.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="idbb5d0dd5-5c9d-453b-b583-bcc38be8b612">
+          <enum>(f)</enum>
+          <header>Internships</header>
+          <text>The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2400" entity-type="federal-body">Director of the Office of Personnel Management</cato:entity-ref> may support, as
+			 appropriate,
+			 internships or other work experience in the Federal Government to the
+			 winners
+			 of the competitions and challenges under this section.</text>
+				</subsection>
+      </section>
+      <section id="idb36aedb6-92d2-4753-811f-ae7c5825f473">
+        <enum>302.</enum>
+        <header>Federal cyber
+			 scholarship-for-service program</header>
+				<subsection id="idab86d04b-6ecb-4964-a07d-c600ff05e16f">
+          <enum>(a)</enum>
+          <header>In
+			 general</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4900" entity-type="federal-body">Director of the National Science Foundation</cato:entity-ref>, in
+			 coordination with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2400" entity-type="federal-body">Director of the Office of Personnel Management</cato:entity-ref> and
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref>, shall continue a Federal Cyber
+			 Scholarship-for-Service program to recruit and train the next generation
+			 of
+			 information technology professionals, industrial control system security
+			 professionals, and security managers to meet the needs of the
+			 cybersecurity
+			 mission for Federal, State, local, and tribal governments.</text>
+				</subsection>
+        <subsection id="id940f95af-be2a-40a5-a1d7-adcece269070">
+          <enum>(b)</enum>
+          <header>Program description and
+			 components</header>
+          <text>The Federal Cyber Scholarship-for-Service program
+			 shall—</text>
+					<paragraph id="id83cfb53f-7f87-4167-bd43-bb6cabca8920">
+            <enum>(1)</enum>
+            <text>provide scholarships to
+			 students who are enrolled in programs of study at institutions of higher
+			 education leading to degrees or specialized program certifications in the
+			 cybersecurity field;</text>
+					</paragraph>
+          <paragraph id="idf82ca9c9-8784-449d-ba1b-9b1b6f1a9641">
+            <enum>(2)</enum>
+            <text>provide the scholarship
+			 recipients with summer internship opportunities or other meaningful
+			 temporary
+			 appointments in the Federal information technology workforce; and</text>
+					</paragraph>
+          <paragraph id="idf8eea3a8-1f46-466d-a2cb-3b37aee71cda">
+            <enum>(3)</enum>
+            <text>provide a procedure by
+			 which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4900" entity-type="federal-body">National Science Foundation</cato:entity-ref> or a Federal agency, consistent with
+			 regulations of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2400" entity-type="federal-body">Office of Personnel Management</cato:entity-ref>, may request and fund
+			 security clearances for scholarship recipients, including providing for
+			 clearances during internships or other temporary appointments and after
+			 receipt
+			 of their degrees.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="idb7db691a-672e-4a86-b096-b772e2e60155">
+          <enum>(c)</enum>
+          <header>Scholarship
+			 amounts</header>
+          <text>Each scholarship under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:302/ss:b" proposed="true">subsection (b)</cato:entity-ref> shall be in an
+			 amount that covers the student's tuition and fees at the institution under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:302/ss:b/p:1" proposed="true">subsection (b)(1)</cato:entity-ref> and provides the student with an additional stipend.</text>
+				</subsection>
+        <subsection id="idc55c4c88-14ca-4900-a9b5-cfd129d3474e">
+          <enum>(d)</enum>
+          <header>Scholarship
+			 Conditions</header>
+          <text>Each scholarship recipient, as a condition of
+			 receiving a scholarship under the program, shall enter into an agreement
+			 under
+			 which the recipient agrees to work in the cybersecurity mission of a
+			 Federal,
+			 State, local, or tribal agency for a period equal to the length of the
+			 scholarship following receipt of the student's degree.</text>
+				</subsection>
+        <subsection id="id1f153832-f830-4069-8c4a-c9c5c4d1b6ff">
+          <enum>(e)</enum>
+          <header>Hiring
+			 authority</header>
+					<paragraph id="id3c043b60-0ca7-4ba2-8b87-d434f026c1bb">
+            <enum>(1)</enum>
+            <header>Appointment in excepted
+			 service</header>
+            <text>Notwithstanding any provision of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/5/33">
+                <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/5/33">chapter 33</external-xref> of title 5,
+			 United States Code</cato:entity-ref>, governing appointments in the competitive service, an
+			 agency shall appoint in the excepted service an individual who has
+			 completed
+			 the academic program for which a scholarship was awarded.</text>
+					</paragraph>
+          <paragraph id="id9951860b-974f-4bfe-9b44-ea8e7fcf2408">
+            <enum>(2)</enum>
+            <header>Noncompetitive
+			 conversion</header>
+            <text>Except as provided in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:302/ss:e/p:4" proposed="true">paragraph (4)</cato:entity-ref>, upon fulfillment
+			 of the service term, an employee appointed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:302/ss:e/p:1" proposed="true">paragraph (1)</cato:entity-ref> may be
+			 converted
+			 noncompetitively to term, career-conditional or career appointment.</text>
+					</paragraph>
+          <paragraph id="id71b148e6-2f9b-440c-bc47-19f539adde5f">
+            <enum>(3)</enum>
+            <header>Timing of
+			 conversion</header>
+            <text>An agency may noncompetitively convert a term employee
+			 appointed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:302/ss:e/p:2" proposed="true">paragraph (2)</cato:entity-ref> to a career-conditional or career
+			 appointment
+			 before the term appointment expires.</text>
+					</paragraph>
+          <paragraph id="id3f9691a5-4497-41c1-8216-e015f136f3ed">
+            <enum>(4)</enum>
+            <header>Authority to decline
+			 conversion</header>
+            <text>An agency may decline to make the noncompetitive
+			 conversion or appointment under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:302/ss:e/p:2" proposed="true">paragraph (2)</cato:entity-ref> for cause.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="id65de700f-379c-48a8-838a-edf383c5671c">
+          <enum>(f)</enum>
+          <header>Eligibility</header>
+          <text>To
+			 be eligible to receive a scholarship under this section, an individual
+			 shall—</text>
+					<paragraph id="ida5db3f63-2fbc-4d34-808c-61eb10e7c66a">
+            <enum>(1)</enum>
+            <text>be a citizen or lawful
+			 permanent resident of the United States;</text>
+					</paragraph>
+          <paragraph id="id684f7698-8ac6-4280-908f-30ba571d0e77">
+            <enum>(2)</enum>
+            <text>demonstrate a commitment
+			 to a career in improving the security of information infrastructure; and</text>
+					</paragraph>
+          <paragraph id="idfd5843ef-b895-4c7e-86e9-5a3822ab7642">
+            <enum>(3)</enum>
+            <text>have demonstrated a high
+			 level of proficiency in mathematics, engineering, or computer sciences.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="id5429178e-d5c9-49c5-9817-2e51aa6aa81f">
+          <enum>(g)</enum>
+          <header>Repayment</header>
+          <text>If
+			 a scholarship recipient does not meet the terms of the program under this
+			 section, the recipient shall refund the scholarship payments in accordance
+			 with
+			 rules established by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4900" entity-type="federal-body">Director of the National Science Foundation</cato:entity-ref>, in
+			 coordination with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2400" entity-type="federal-body">Director of the Office of Personnel Management</cato:entity-ref> and
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref>.</text>
+				</subsection>
+        <subsection id="id5b0eafb9-eb19-430b-9020-93877ab2dcc0">
+          <enum>(h)</enum>
+          <header>Evaluation and
+			 report</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4900" entity-type="federal-body">Director of the National Science Foundation</cato:entity-ref> shall
+			 evaluate and report periodically to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> on the success of recruiting
+			 individuals for scholarships under this section and on hiring and
+			 retaining
+			 those individuals in the public sector workforce.</text>
+				</subsection>
+      </section>
+      <section id="id1434e316-c446-4936-a6a7-6a9bf2fc2a74">
+        <enum>303.</enum>
+        <header>Study and analysis of
+			 education, accreditation, training, and certification of information
+			 infrastructure and cybersecurity professionals</header>
+				<subsection id="id13c09a61-f21e-4747-8644-5aab32a6478a">
+          <enum>(a)</enum>
+          <header>Study</header>
+          <text>The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4900" entity-type="federal-body">Director of the National Science Foundation</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2400" entity-type="federal-body">Director of the Office of
+			 Personnel Management</cato:entity-ref>, and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Secretary of Homeland Security</cato:entity-ref> shall
+			 undertake to
+			 enter into appropriate arrangements with the National Academy of Sciences
+			 to
+			 conduct a comprehensive study of government, academic, and private-sector
+			 education, accreditation, training, and certification programs for the
+			 development of professionals in information infrastructure and
+			 cybersecurity.
+			 The agreement shall require the National Academy of Sciences to consult
+			 with
+			 sector coordinating councils and relevant governmental agencies,
+			 regulatory
+			 entities, and nongovernmental organizations in the course of the study.</text>
+				</subsection>
+        <subsection id="idca7c5a89-5e86-413e-8613-9ffd9a86232a">
+          <enum>(b)</enum>
+          <header>Scope</header>
+          <text>The
+			 study shall include—</text>
+					<paragraph id="idfb2a4baa-6344-4ca9-8946-7d85f536741a">
+            <enum>(1)</enum>
+            <text>an evaluation of the body
+			 of knowledge and various skills that specific categories of professionals
+			 in
+			 information infrastructure and cybersecurity should possess in order to
+			 secure
+			 information systems;</text>
+					</paragraph>
+          <paragraph id="id05e25111-050b-409d-80f8-921a6efb5ed8">
+            <enum>(2)</enum>
+            <text>an assessment of whether
+			 existing government, academic, and private-sector education,
+			 accreditation,
+			 training, and certification programs provide the body of knowledge and
+			 various
+			 skills described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:303/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>;</text>
+					</paragraph>
+          <paragraph id="id5abcbe54-36a3-40cc-948a-1fb60ea001db">
+            <enum>(3)</enum>
+            <text>an evaluation of—</text>
+						<subparagraph id="id6c73bd9c-7564-46dc-90d1-80e3159e82c0">
+              <enum>(A)</enum>
+              <text>the state of
+			 cybersecurity education at institutions of higher education in the United
+			 States;</text>
+						</subparagraph>
+            <subparagraph id="id83a7d7ca-86c0-401a-99d2-9b35df174756">
+              <enum>(B)</enum>
+              <text>the extent of
+			 professional development opportunities for faculty in cybersecurity
+			 principles
+			 and practices;</text>
+						</subparagraph>
+            <subparagraph id="id4e83f63e-9d08-46b5-80df-708a20415909">
+              <enum>(C)</enum>
+              <text>the extent of the
+			 partnerships and collaborative cybersecurity curriculum development
+			 activities
+			 that leverage industry and government needs, resources, and tools;</text>
+						</subparagraph>
+            <subparagraph id="idce9ec786-c4e0-4093-83da-f3827b5b0b3e">
+              <enum>(D)</enum>
+              <text>the proposed metrics to
+			 assess progress toward improving cybersecurity education; and</text>
+						</subparagraph>
+            <subparagraph id="idd945f2ad-c50a-4125-a31f-f641c0d0524d">
+              <enum>(E)</enum>
+              <text>the descriptions of the
+			 content of cybersecurity courses in undergraduate computer science
+			 curriculum;</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="id33d542e0-56f1-4d10-ab7f-8a259dba8ba3">
+            <enum>(4)</enum>
+            <text>an analysis of any
+			 barriers to the Federal Government recruiting and hiring cybersecurity
+			 talent,
+			 including barriers relating to compensation, the hiring process, job
+			 classification, and hiring flexibility; and</text>
+					</paragraph>
+          <paragraph id="id7265a6c2-1d5d-4aa1-b460-950609f45321">
+            <enum>(5)</enum>
+            <text>an analysis of the
+			 sources and availability of cybersecurity talent, a comparison of the
+			 skills
+			 and expertise sought by the Federal Government and the private sector, an
+			 examination of the current and future capacity of United States
+			 institutions of
+			 higher education, including community colleges, to provide current and
+			 future
+			 cybersecurity professionals, through education and training activities,
+			 with
+			 those skills sought by the Federal Government, State and local entities,
+			 and
+			 the private sector.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="id73a09b88-ee63-419a-a479-73aafcd23126">
+          <enum>(c)</enum>
+          <header>Report</header>
+          <text>Not
+			 later than 1 year after the date of enactment of this Act, the National
+			 Academy
+			 of Sciences shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1100">President</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a report on the
+			 results
+			 of the study. The report shall include—</text>
+					<paragraph id="id042dfa67-bcae-4ebe-8ff4-abd694b7f94c">
+            <enum>(1)</enum>
+            <text>findings regarding the
+			 state of information infrastructure and cybersecurity education,
+			 accreditation,
+			 training, and certification programs, including specific areas of
+			 deficiency
+			 and demonstrable progress; and</text>
+					</paragraph>
+          <paragraph id="id0c9fccb1-384e-42b7-b310-ccaf74151d3b">
+            <enum>(2)</enum>
+            <text>recommendations for
+			 further research and the improvement of information infrastructure and
+			 cybersecurity education, accreditation, training, and certification
+			 programs.</text>
+					</paragraph>
+        </subsection>
+      </section>
+    </title>
+    <title changed="added" committee-id="SSCM00" id="idc415051a-8d78-48d9-a19d-6c44d0aa9347" reported-display-style="italic">
+      <enum>IV</enum>
+      <header>Cybersecurity Awareness
+			 and Preparedness</header>
+			<section id="idf4a02230-50b0-4996-858e-b1d8f2f3b714">
+        <enum>401.</enum>
+        <header>National cybersecurity
+			 awareness and preparedness campaign</header>
+				<subsection id="id21f9c915-aff3-4cd6-90cc-bb51b734dac1">
+          <enum>(a)</enum>
+          <header>National cybersecurity
+			 awareness and preparedness campaign</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1341" entity-type="federal-body">Director of the National
+			 Institute of Standards and Technology</cato:entity-ref> (referred to in this section as the
+			 <quote>Director</quote>), in consultation with appropriate Federal agencies,
+			 shall continue to coordinate a national cybersecurity awareness and
+			 preparedness campaign, such as—</text>
+					<paragraph id="idbe3e5684-e43c-4f14-bef7-1bf21c34eeb3">
+            <enum>(1)</enum>
+            <text>a campaign to increase
+			 public awareness of cybersecurity, cyber safety, and cyber ethics,
+			 including
+			 the use of the Internet, social media, entertainment, and other media to
+			 reach
+			 the public;</text>
+					</paragraph>
+          <paragraph id="id3cdf3215-7803-4fbd-89d7-06c18224bb5b">
+            <enum>(2)</enum>
+            <text>a campaign to increase
+			 the understanding of State and local governments, institutions of higher
+			 education, and private sector entities of—</text>
+						<subparagraph id="id778e5597-6cfa-4771-820a-9592a77d4167">
+              <enum>(A)</enum>
+              <text>the benefits of ensuring
+			 effective risk management of the information infrastructure versus the
+			 costs of
+			 failure to do so; and</text>
+						</subparagraph>
+            <subparagraph id="id99395195-7861-4dac-85ac-a0389999979d">
+              <enum>(B)</enum>
+              <text>the methods to mitigate
+			 and remediate vulnerabilities;</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="idb4d0b32b-72ce-40b5-8d14-e97a84964fbf">
+            <enum>(3)</enum>
+            <text>support for formal
+			 cybersecurity education programs at all education levels to prepare
+			 skilled
+			 cybersecurity and computer science workers for the private sector and
+			 Federal,
+			 State, and local government; and</text>
+					</paragraph>
+          <paragraph id="idb45140ba-28a0-4f9f-8777-e64c4b9d1473">
+            <enum>(4)</enum>
+            <text>initiatives to evaluate
+			 and forecast future cybersecurity workforce needs of the Federal
+			 government and
+			 develop strategies for recruitment, training, and retention.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="id525fcfad-2f9e-4110-81a0-29d67e2970a8">
+          <enum>(b)</enum>
+          <header>Considerations</header>
+          <text>In
+			 carrying out the authority described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:401/ss:a" proposed="true">subsection (a)</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1341">Director</cato:entity-ref>, in
+			 consultation with appropriate Federal agencies, shall leverage existing
+			 programs designed to inform the public of safety and security of products
+			 or
+			 services, including self-certifications and independently verified
+			 assessments
+			 regarding the quantification and valuation of information security risk.</text>
+				</subsection>
+        <subsection id="id79e063a1-4f80-4aef-98de-f78e423ac9fb">
+          <enum>(c)</enum>
+          <header>Strategic
+			 plan</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1341">Director</cato:entity-ref>, in cooperation with relevant Federal agencies
+			 and other stakeholders, shall build upon programs and plans in effect as
+			 of the
+			 date of enactment of this Act to develop and implement a strategic plan to
+			 guide Federal programs and activities in support of the national
+			 cybersecurity
+			 awareness and preparedness campaign under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:401/ss:a" proposed="true">subsection (a)</cato:entity-ref>.</text>
+				</subsection>
+        <subsection id="id8a106b8c-ac97-4781-87a8-6773261fe4d2">
+          <enum>(d)</enum>
+          <header>Report</header>
+          <text>Not
+			 later than 1 year after the date of enactment of this Act, and every 5
+			 years
+			 thereafter, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="1341">Director</cato:entity-ref> shall transmit the strategic plan under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Cybersecurity Act of 2013/s:401/ss:c" proposed="true">subsection (c)</cato:entity-ref>
+			 to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSCM00" entity-type="committee">Committee on Commerce, Science, and Transportation of the Senate</cato:entity-ref>
+			 and the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HSY00" entity-type="committee">Committee on Science, Space, and Technology of the House of
+			 Representatives</cato:entity-ref>.</text>
+				</subsection>
+      </section>
+    </title>
+  </legis-body>
+	<endorsement>
+    <action-date>July 24, 2014</action-date>
+    <action-desc>Reported with an amendment</action-desc>
+  </endorsement>
+</bill>
+</doc>
