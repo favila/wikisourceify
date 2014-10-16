@@ -1,0 +1,404 @@
+<doc>
+  <docmeta id="113s2890is">
+    <bill congress="113" type="s" number="2890" version="is"/>
+    <revision size="12745" annotations="0" status="complete" id="7" commit-time="2014-10-10T21:37:08Z" committer="mbohmer" doc="113s2890is/7.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S2890 IS: Digital Coast Act of 2014</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-09-18</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>113th CONGRESS</congress>
+    <session>2d Session</session>
+		<legis-num>S. 2890</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20140918">September 18, 2014</action-date>
+			<action-desc>
+        <sponsor name-id="S354">Ms. Baldwin</sponsor> (for herself, <cosponsor name-id="S182">Ms. Mikulski</cosponsor>, <cosponsor name-id="S275">Ms. Cantwell</cosponsor>, <cosponsor name-id="S363">Mr. King</cosponsor>, <cosponsor name-id="S316">Mr. Whitehouse</cosponsor>, <cosponsor name-id="S324">Mrs. Shaheen</cosponsor>, <cosponsor name-id="S319">Mr. Begich</cosponsor>, <cosponsor name-id="S361">Ms. Hirono</cosponsor>, and <cosponsor name-id="S259">Mr. Reed</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and Transportation</committee-name>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To authorize the Secretary of Commerce, through the National Oceanic and Atmospheric
+			 Administration, to establish a constituent-driven program that develops an
+			 information platform capable of efficiently integrating coastal data with
+			 decision-support tools, training, and best practices, and coordinates the
+			 collection of priority coastal geospatial data to inform and improve
+			 local, State, regional, and Federal capacities to manage the coastal
+			 region, and for other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title</header>
+			<text display-inline="no-display-inline">This Act may be cited as the
+		  <quote>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Digital Coast Act of 2014" entity-type="act">
+            <short-title>Digital Coast Act of 2014</short-title>
+          </cato:entity-ref>
+        </quote>.</text>
+    </section>
+    <section id="ida0172c73d80f4288992ac6bb2283e183">
+      <enum>2.</enum>
+      <header>Findings</header>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0001" entity-type="federal-body">Congress</cato:entity-ref> makes the following findings:</text>
+      <paragraph id="id7690516cdc7d49688947575457c13e4d">
+        <enum>(1)</enum>
+        <text>The Digital Coast is a model approach for effective Federal partnerships with State and local
+			 government, nongovernmental organizations, and the private sector.</text>
+      </paragraph>
+      <paragraph id="id6be26d27dca545e987469f8b2c6b2ba7">
+        <enum>(2)</enum>
+        <text>Access to current, accurate, uniform, and standards-based geospatial information,
+			 tools, and training to characterize the United States coastal region
+			 is critical for public safety and for the
+			 environment, infrastructure, and economy of the United
+			 States.</text>
+      </paragraph>
+      <paragraph id="idd1ea93668dd84434b250b0305243a07b">
+        <enum>(3)</enum>
+        <text>More than half of all people of the United States (153,000,000) currently live on or near a coast
+			 and an additional 12,000,000 are expected in the next decade.</text>
+      </paragraph>
+      <paragraph id="ida793adf107974c939ce878cb1e01b16c">
+        <enum>(4)</enum>
+        <text>Coastal counties in the United States average 300 persons per square mile, compared with the
+			 national average of 98.</text>
+      </paragraph>
+      <paragraph id="id0ccd2ee7235a450581dbee465a897d5c">
+        <enum>(5)</enum>
+        <text>On a typical day, more than 1,540 permits for construction of single-family homes are issued in
+			 coastal counties, combined with other commercial, retail, and
+			 institutional construction to support this population.</text>
+      </paragraph>
+      <paragraph id="idd242f453322e4feeb8066c9ea675e05d">
+        <enum>(6)</enum>
+        <text>Over half of the economic productivity of the United States is located within coastal regions.</text>
+      </paragraph>
+      <paragraph id="idca6848b7303b4d4e989aea68601777f9">
+        <enum>(7)</enum>
+        <text>Highly accurate, high-resolution remote sensing and other geospatial data play an important role in
+			 management of the coastal zone and economy, including for—</text>
+        <subparagraph id="id2A6610337883444EA555B1B4319ED21A">
+          <enum>(A)</enum>
+          <text>flood and
+			 coastal storm surge prediction;</text>
+        </subparagraph>
+        <subparagraph id="id3EBA10149AC447F9A6EA75652FB6C141">
+          <enum>(B)</enum>
+          <text>hazard risk and vulnerability assessment;</text>
+        </subparagraph>
+        <subparagraph id="idC12869AE35A543FABEA4931B5833CC1C">
+          <enum>(C)</enum>
+          <text>emergency response and recovery planning;</text>
+        </subparagraph>
+        <subparagraph id="id0F6686EB4B6041E4BA593B89906C345B">
+          <enum>(D)</enum>
+          <text>community resilience to longer
+			 range climate change impacts;</text>
+        </subparagraph>
+        <subparagraph id="id2AC5C283509A4F90A2B0DDABA50E3631">
+          <enum>(E)</enum>
+          <text>permitting and zoning decisionmaking;</text>
+        </subparagraph>
+        <subparagraph id="idB96FEB06D8B546C383887C800F106463">
+          <enum>(F)</enum>
+          <text>habitat and ecosystem health assessments; and</text>
+        </subparagraph>
+        <subparagraph id="id35DE2F85CF1144DDB75D598D7FB4BBD1">
+          <enum>(G)</enum>
+          <text>landscape change detection.</text>
+        </subparagraph>
+      </paragraph>
+    </section>
+    <section id="id3cb561379082427a8cfb8351a129672a">
+      <enum>3.</enum>
+      <header>Definitions</header>
+      <text display-inline="no-display-inline">In this Act:</text>
+      <paragraph id="idda2c82aed50944c993b122aaad9924c0">
+        <enum>(1)</enum>
+        <header>Coastal region</header>
+        <text>The term <term>coastal region</term> means the area of United States waters extending inland from the shoreline to include coastal
+			 watersheds and seaward to the territorial sea.</text>
+      </paragraph>
+      <paragraph id="id967a6f79f43943808b78108aa9f799e5">
+        <enum>(2)</enum>
+        <header>Coastal State</header>
+        <text>The term <term>coastal State</term>—</text>
+        <subparagraph id="idd29d81dadc2040b6a041c9ee4864b9be">
+          <enum>(A)</enum>
+          <text>means a State of the United States in, or bordering on, the Atlantic, Pacific, or Arctic Ocean, the
+			 Chesapeake Bay, the Gulf of Mexico, Long Island Sound, or one or more of
+			 the Great Lakes; and</text>
+        </subparagraph>
+        <subparagraph commented="no" display-inline="no-display-inline" id="id7172fb7a65e241beb8178ef6169a817a">
+          <enum>(B)</enum>
+          <text>includes Puerto Rico, the United States Virgin Islands, Guam, the Commonwealth of the Northern
+			 Mariana Islands, the Trust Territories of the Pacific Islands, American
+			 Samoa, and any portion of a State that is located within the designated
+			 coastal zone of the Atlantic or Pacific Ocean, the Chesapeake Bay, the
+			 Gulf of Mexico, or the Great Lakes.</text>
+        </subparagraph>
+      </paragraph>
+      <paragraph id="id82A3076721B840588CBE378A21335EEE">
+        <enum>(3)</enum>
+        <header>Digital Coast</header>
+        <text>The term <term>Digital Coast</term> means a constituent-driven effort led by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1300" entity-type="federal-body">Secretary</cato:entity-ref> to provide an enabling platform that
+			 integrates geospatial data, decision-support tools, training, and best
+			 practices to address coastal management issues and needs. The Digital
+			 Coast strives to enhance resilient communities, ecosystem values, and
+			 coastal economic growth and development by helping communities address
+			 their issues, needs, and challenges through cost-effective and
+			 participatory solutions.</text>
+      </paragraph>
+      <paragraph id="ide52f442640f344ea82b48d0238ba0269">
+        <enum>(4)</enum>
+        <header>Federal Geographic Data Committee</header>
+        <text>The term <term>Federal Geographic Data Committee</term> means the interagency committee that promotes the coordinated development, use, sharing, and
+			 dissemination of geospatial data on a national basis.</text>
+      </paragraph>
+      <paragraph id="id7af265595be6403095353ca7fcdda493">
+        <enum>(5)</enum>
+        <header>Remote sensing and other geospatial</header>
+        <text>The term <term>remote sensing and other geospatial</term> means collecting, storing, retrieving, or disseminating graphical or digital data depicting
+			 natural or manmade physical features, phenomena, or boundaries of the
+			 Earth and any information related thereto, including surveys, maps,
+			 charts, satellite and airborne remote sensing data, images, LiDAR, and
+			 services performed by professionals such as surveyors, photogrammetrists,
+			 hydrographers, geodesists, cartographers, and other such services.</text>
+      </paragraph>
+      <paragraph id="id8ebd1d9c52be486e9ee87b5f06fdac63">
+        <enum>(6)</enum>
+        <header>Secretary</header>
+        <text>The term <term>Secretary</term> means the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1300" entity-type="federal-body">Secretary of Commerce</cato:entity-ref>, acting through the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1330" entity-type="federal-body">Administrator of the National Oceanic and
+			 Atmospheric Administration</cato:entity-ref>.</text>
+      </paragraph>
+    </section>
+    <section id="id00d36fe4a2ca4053b3378ffbcc970282">
+      <enum>4.</enum>
+      <header>Building the digital coast</header>
+      <subsection id="id589a3c46b6f84b0ca0fe5d06202f099a">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1300" entity-type="federal-body">Secretary</cato:entity-ref> shall establish Digital Coast as a program that provides data integration, tool
+			 development, training, documentation, dissemination, and archive by—</text>
+        <paragraph id="ida3e57b2fd8134c0cb7a8ccba944848c2">
+          <enum>(1)</enum>
+          <text>making data and resulting integrated products developed under this section readily accessible via
+			 the Digital Coast Internet website of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1330" entity-type="federal-body">National Oceanic and Atmospheric
+			 Administration</cato:entity-ref>, the GeoPlatform.gov and data.gov Internet websites, and
+			 such other Internet
+			 technologies as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1300" entity-type="federal-body">Secretary</cato:entity-ref> considers appropriate;</text>
+        </paragraph>
+        <paragraph id="id4d2752fcdc7046099ab74bca1d0e6700">
+          <enum>(2)</enum>
+          <text>developing decision-support tools that use and display resulting integrated data and provide
+			 training on use of such tools;</text>
+        </paragraph>
+        <paragraph id="id6a7fdd6cb68c4111b9486f2cb83f2b08">
+          <enum>(3)</enum>
+          <text>documenting such data to Federal Geographic Data Committee standards; and</text>
+        </paragraph>
+        <paragraph commented="no" display-inline="no-display-inline" id="idd9b9e649505040e98f2c8b772bcb4dca">
+          <enum>(4)</enum>
+          <text>archiving all raw data acquired under this Act at the appropriate <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1330" entity-type="federal-body">National Oceanic and Atmospheric
+			 Administration</cato:entity-ref> data center or such other Federal data center as the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1300" entity-type="federal-body">Secretary</cato:entity-ref> considers appropriate.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="idddaaf3a6a8ba4353885c6a13b0e0b17c">
+        <enum>(b)</enum>
+        <header>Coordination</header>
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1300" entity-type="federal-body">Secretary</cato:entity-ref> shall coordinate the activities carried out pursuant to this Act to maximize data
+			 collection, sharing and integration, and to minimize duplication by—</text>
+        <paragraph id="id47053fb9a91d411f98707120114fe14e">
+          <enum>(1)</enum>
+          <text>consulting with coastal managers and decisionmakers concerning coastal issues,
+			 and
+			 sharing information and best practices, as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1300" entity-type="federal-body">Secretary</cato:entity-ref> considers
+			 appropriate, with—</text>
+          <subparagraph id="iddfef97fefbd046d9bb59498138e31ee9">
+            <enum>(A)</enum>
+            <text>coastal States;</text>
+          </subparagraph>
+          <subparagraph id="id9e6bc776471f4895be071708a6226d40">
+            <enum>(B)</enum>
+            <text>local governments; and</text>
+          </subparagraph>
+          <subparagraph id="id61fb307fa16d4b3cae88ac866412bd31">
+            <enum>(C)</enum>
+            <text>representatives of nongovernmental entities;</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="idb0ddbad6e86e45d488902e12d922534a">
+          <enum>(2)</enum>
+          <text>consulting with other Federal agencies on relevant Federal activities, including activities carried
+			 out under the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Ocean and Coastal Mapping Integration Act">Ocean and Coastal Mapping Integration Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/33/3501/etseq">33
+			 U.S.C. 3501 et seq.</cato:entity-ref>)</cato:entity>, the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref value="Coastal Zone Management Act of 1972" entity-type="act">Coastal Zone Management Act of 1972</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/16/1451/etseq">16 U.S.C.
+			 1451 et seq.</cato:entity-ref>)</cato:entity>, the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Integrated Coastal and Ocean Observation System Act of 2009">Integrated Coastal and Ocean Observation System Act of
+			 2009</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/33/3601">
+              <cato:entity-ref entity-type="uscode" value="usc/33/3601/etseq">33 U.S.C. 3601 et seq.</cato:entity-ref>
+            </external-xref>)</cato:entity>, and the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Hydrographic Services Improvement Act of 1998">Hydrographic Services Improvement
+			 Act of 1998</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/33/892/etseq">33
+			 U.S.C. 892 et seq.</cato:entity-ref>)</cato:entity>;</text>
+        </paragraph>
+        <paragraph id="id5731113ea19a4503a4692db37099ba09">
+          <enum>(3)</enum>
+          <text>participating, pursuant to <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="E-Government Act of 2002/s:216">section 216 of the E-Government Act of 2002</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/107/347">
+              <cato:entity-ref entity-type="public-law" value="public-law/107/347">Public Law 107–347</cato:entity-ref>
+            </external-xref>; <cato:entity-ref entity-type="uscode" value="usc/44/3501/note">44
+			 U.S.C. 3501 note</cato:entity-ref>)</cato:entity>, in the
+			 establishment of such standards and common protocols as the Secretary
+			 considers necessary to
+			 assure the interoperability of remote sensing and other geospatial data
+			 with all users of such information within—</text>
+          <subparagraph id="idd0de9d443b0b446fb3e7554278c9b4f8">
+            <enum>(A)</enum>
+            <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1330" entity-type="federal-body">National Oceanic and Atmospheric Administration</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph id="id1758c1f27cb94e0289d4333af2d3137a">
+            <enum>(B)</enum>
+            <text>other Federal agencies;</text>
+          </subparagraph>
+          <subparagraph id="id05317d615fe3460b8eb34c76c3ab570f">
+            <enum>(C)</enum>
+            <text>State and local government; and</text>
+          </subparagraph>
+          <subparagraph id="id1e378528b884476bae747ddb7b8c94e9">
+            <enum>(D)</enum>
+            <text>the private sector; and</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="ide75626e630694663a5166706cdc7bcca">
+          <enum>(4)</enum>
+          <text>coordinating with, seeking assistance and cooperation of, and providing liaison to the Federal
+			 Geographic Data Committee pursuant to Office of Management and Budget
+			 Circular A–16 and Executive Order 12906 of April 14, 1994 (59 Fed. Reg.
+			 17671), as amended by Executive Order 13286 of March 5, 2003 (68 Fed. Reg.
+			 10619).</text>
+        </paragraph>
+      </subsection>
+      <subsection id="idcb2b0656fc884c9b8b0ab330c3989b5c">
+        <enum>(c)</enum>
+        <header>Filling needs and gaps</header>
+        <text>In carrying out this section, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1300" entity-type="federal-body">Secretary</cato:entity-ref> shall—</text>
+        <paragraph id="id4d521385e2b94f2fa79d6b941c3e935f">
+          <enum>(1)</enum>
+          <text>recognize that remote sensing and other geospatial data acquisition for navigational and
+			 positioning purposes is carried out through other authorities and
+			 programs;</text>
+        </paragraph>
+        <paragraph id="idfbc78f95f5b946068ff9d77070e4b2a2">
+          <enum>(2)</enum>
+          <text>focus on filling data needs and gaps for critical coastal management issues;</text>
+        </paragraph>
+        <paragraph id="idC31E0B1718804A70809B9E80E0228D87">
+          <enum>(3)</enum>
+          <text>pursuant to the <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Ocean and Coastal Mapping Integration Act">Ocean and Coastal Mapping Integration Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/33/3501">
+              <cato:entity-ref entity-type="uscode" value="usc/33/3501/etseq">33 U.S.C. 3501 et seq.</cato:entity-ref>
+            </external-xref>)</cato:entity>, support
+			 continue improvement in existing efforts to coordinate the acquisition and
+			 integration of key data sets needed for coastal management and other
+			 purposes, including—</text>
+          <subparagraph id="idbbb1ae4e385344b785cf5b6cf978fb69">
+            <enum>(A)</enum>
+            <text>coastal elevation data;</text>
+          </subparagraph>
+          <subparagraph id="id2138d46dfbae4cc98e2a792be01fa820">
+            <enum>(B)</enum>
+            <text>land use and land cover data;</text>
+          </subparagraph>
+          <subparagraph id="id07963f4ca366411ba3cd89df34bf66a0">
+            <enum>(C)</enum>
+            <text>socioeconomic and human use data;</text>
+          </subparagraph>
+          <subparagraph id="id1780d2408062464b8e5b6c66cde15eda">
+            <enum>(D)</enum>
+            <text>critical infrastructure data;</text>
+          </subparagraph>
+          <subparagraph id="id9cc4ba263cf64ac3a382d03fe34373aa">
+            <enum>(E)</enum>
+            <text>structures data;</text>
+          </subparagraph>
+          <subparagraph id="id02bcaaa8a95d4540906f0c93ed9ea1e4">
+            <enum>(F)</enum>
+            <text>living resources and habitat data;</text>
+          </subparagraph>
+          <subparagraph id="idc6c8ee29fa6f41bc954f06620d53e789">
+            <enum>(G)</enum>
+            <text>cadastral data; and</text>
+          </subparagraph>
+          <subparagraph id="id3917de1fd2854743baa3a3b7d315f0cf">
+            <enum>(H)</enum>
+            <text>aerial imagery;</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="idBBCB03D483504EEB940DD5C62571DA7B">
+          <enum>(4)</enum>
+          <text>integrate the priority supporting data set forth under paragraph (3) with other available data for
+			 the benefit of the broadest measure of
+			 coastal resource management constituents and applications;</text>
+        </paragraph>
+        <paragraph id="id3530bab8967d4544940478f18e99d674">
+          <enum>(5)</enum>
+          <text>enter into financial agreements to carry out this Act, including—</text>
+          <subparagraph id="id0293207191C3494AB901AE2E676FD026">
+            <enum>(A)</enum>
+            <text>program support to non-Federal
+			 entities that participate in implementing this Act;</text>
+          </subparagraph>
+          <subparagraph id="iddce9c0ff7c124b0685cb1a7833ccc1a1">
+            <enum>(B)</enum>
+            <text>financial agreements, including grants, cooperative agreements, interagency agreements, and
+			 contracts, or any other agreement on a reimbursable or non-reimbursable
+			 basis, with other Federal, tribal, State, and local governmental and
+			 nongovernmental entities; and</text>
+          </subparagraph>
+          <subparagraph id="idb8c548efafc140b5b3b075fb96033fc5">
+            <enum>(C)</enum>
+            <text>registration fees in support of training, workshops, and conferences that advance the purposes of
+			 this Act; and</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="id88410E227B974174BE807E296753556E">
+          <enum>(6)</enum>
+          <text>enter into such contracts with private sector entities for such products and services as the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1300" entity-type="federal-body">Secretary</cato:entity-ref> determines may be necessary to collect remote sensing and  other
+			 geospatial
+			 data, which contracts shall be considered <quote>surveying and mapping</quote> services as such term is used in and as such contracts are awarded by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1300" entity-type="federal-body">Secretary</cato:entity-ref> in accordance
+			 with the selection procedures in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc-chapter/40/11" entity-type="uscode">
+              <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/40/11">chapter 11</external-xref> of title 40, United States
+			 Code</cato:entity-ref>.</text>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="id2cf747e45e59408d8c6be27780b64565">
+      <enum>5.</enum>
+      <header>Authorization of appropriations</header>
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be appropriated to the <cato:entity-ref entity-id="1300" entity-type="federal-body">Secretary</cato:entity-ref> <cato:funds-and-year year="2015, 2016, 2017, 2018, 2019, 2020" amount="indefinite">such sums as may be necessary <cato:property name="purpose">to carry out
+			 <cato:entity-ref entity-type="act" value="Digital Coast Act of 2014/s:5" proposed="true">this section</cato:entity-ref>
+            </cato:property> in
+			 each of fiscal years 2015 through 2020</cato:funds-and-year>.</cato:entity>
+      </text>
+		</section>
+  </legis-body>
+</bill>
+</doc>

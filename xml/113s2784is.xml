@@ -1,0 +1,2190 @@
+<doc>
+  <docmeta id="113s2784is">
+    <bill congress="113" type="s" number="2784" version="is"/>
+    <revision size="75046" annotations="0" status="complete" id="9" commit-time="2014-09-29T17:28:26Z" committer="mbohmer" doc="113s2784is/9.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S2784 IS: Rail Safety Improvement Act of 2014</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-09-10</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>113th CONGRESS</congress>
+    <session>2d Session</session>
+		<legis-num>S. 2784</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20140910">September 10, 2014</action-date>
+			<action-desc>
+        <sponsor name-id="S341">Mr. Blumenthal</sponsor> (for himself, <cosponsor name-id="S270">Mr. Schumer</cosponsor>, <cosponsor name-id="S331">Mrs. Gillibrand</cosponsor>, and <cosponsor name-id="S364">Mr. Murphy</cosponsor>) introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSCM00">Committee on Commerce, Science, and Transportation</committee-name>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To direct the Secretary of Transportation to carry out activities to improve rail safety, and for
+			 other purposes.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title; table of contents; references to title 49, United States Code</header>
+      <subsection id="id5BC61EAA1F944647855C0FF7D3832F62">
+        <enum>(a)</enum>
+        <header>Short title</header>
+				<text display-inline="yes-display-inline">This Act may be cited as the
+		  <quote>
+            <short-title>
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" proposed="true" value="Rail Safety Improvement Act of 2014" entity-type="act">Rail Safety Improvement Act of 2014</cato:entity-ref>
+            </short-title>
+          </quote>.</text>
+			</subsection>
+      <subsection id="id9C516DE1ECD74B33B9B083D4BB007FB0">
+        <enum>(b)</enum>
+        <header>Table of contents</header>
+        <text>The table of contents of this Act is as follows:</text>
+        <toc>
+          <toc-entry idref="S1" level="section">Sec. 1. Short title; table of contents; references to title 49, United States Code.</toc-entry>
+					<toc-entry idref="idAEDE04F96A7D47279934089B89FEBF98" level="section">Sec. 2. Authorization of appropriations.</toc-entry>
+					<toc-entry idref="idBF0F4E2BD9A848B192D0CDBBC0486612" level="section">Sec. 3. Requirement for uniform operating rules.</toc-entry>
+					<toc-entry idref="id3CE6789BE6234183B339A3F70B5BD86C" level="section">Sec. 4. Rail safety technology.</toc-entry>
+					<toc-entry idref="idBCEFC87A5DBE467FB1184682D3EA85AF" level="section">Sec. 5. Fatigue mitigation.</toc-entry>
+					<toc-entry idref="id274E46E390544FACAD4EDA3FFEBD2E2B" level="section">Sec. 6. Transportation of flammable liquids by rail.</toc-entry>
+					<toc-entry idref="id19FEC100936A4F62BD2BBB78D02F6243" level="section">Sec. 7. Amendments to the Safety Appliance Law.</toc-entry>
+					<toc-entry idref="id7FBD222C23C6470DB290BA0BA268160B" level="section">Sec. 8. Amendments to the Locomotive Inspection Law.</toc-entry>
+					<toc-entry idref="id2A0A71DEF04D4477A6826262A0C5A5CA" level="section">Sec. 9. Repair and replacement of damaged track inspection equipment.</toc-entry>
+					<toc-entry idref="id667BF198D68D46C68B66F078D17C3612" level="section">Sec. 10. Commuter rail track inspections.</toc-entry>
+					<toc-entry idref="id96D1BB2797CD4411BC5CD75F6B363D82" level="section">Sec. 11. Automated track geometry inspections.</toc-entry>
+					<toc-entry idref="id89E78F61E6A84D3BBB8B6D63CED628A8" level="section">Sec. 12. Speed enforcement.</toc-entry>
+					<toc-entry idref="id4269898997584F0E8C218A1437D02B3E" level="section">Sec. 13. Unintentional movement.</toc-entry>
+					<toc-entry idref="id3AB386A6447247B8B20E0173E1D8C1F7" level="section">Sec. 14. Rail safety oversight improvements.</toc-entry>
+					<toc-entry idref="id3F44FAC545DC4F0194AEC85004DC530E" level="section">Sec. 15. Reports on statutory mandates and recommendations.</toc-entry>
+					<toc-entry idref="id1AE41542409E40FBA776FDFF63D5D059" level="section">Sec. 16. Operation deep dive; report.</toc-entry>
+					<toc-entry idref="id318A8045DBB74C03A130E88D7A5F1C09" level="section">Sec. 17. Use of certain reports and surveys.</toc-entry>
+					<toc-entry idref="idD1ECCF5A7D614671BBDB84ED0C4D06DF" level="section">Sec. 18. Authorization of appropriations; miscellaneous.</toc-entry>
+					<toc-entry idref="id245EC95D2C024BAC9301EC3052182D6E" level="section">Sec. 19. Enforcement.</toc-entry>
+					<toc-entry idref="id47333C4C113046F19F9968873D814DD7" level="section">Sec. 20. Confidential close call reporting systems.</toc-entry>
+					<toc-entry idref="idE7DCE0EA098E462F80E3D186C188259F" level="section">Sec. 21. Freight train crew size.</toc-entry>
+				</toc>
+      </subsection>
+      <subsection id="id97AC4645A21D419D8834B1254D81BB57">
+        <enum>(c)</enum>
+        <header>References to title 49, United States Code</header>
+        <text>Except as otherwise expressly provided, wherever in this Act an amendment or repeal is expressed in
+			 terms of an amendment to, or repeal of, a section or other provision, the
+			 reference shall be considered to be made to a section or other provision
+			 of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/49" entity-type="uscode">title 49, United States Code</cato:entity-ref>.</text>
+      </subsection>
+    </section>
+    <section id="idAEDE04F96A7D47279934089B89FEBF98">
+      <enum>2.</enum>
+      <header>Authorization of appropriations</header>
+      <text display-inline="no-display-inline">
+        <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/49/20117/a" entity-type="uscode">Section 20117(a)</cato:entity-ref>  is amended to read as follows:</text>
+      <quoted-block display-inline="no-display-inline" id="idA5842D7ECF93470694C0A9B2CF594156" style="OLC">
+        <subsection id="id04381303E1F6492AA8C05A040388A1AA">
+          <enum>(a)</enum>
+          <header>Authorization of appropriations</header>
+          <paragraph id="id5C58849330F24BC6A064B560A5320773">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">
+              There are authorized to be appropriated to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref> to carry out this part
+			 and to carry out responsibilities under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc-chapter/49/51" entity-type="uscode">chapter 51</cato:entity-ref> as delegated or
+			 authorized by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary</cato:entity-ref>
+                —
+            </text>
+            <subparagraph id="idC6C4FB46C9174D58B9665E7F5948E4E1">
+              <enum>(A)</enum>
+              <text display-inline="yes-display-inline">
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                  <cato:funds-and-year year="2015" amount="225000000">$225,000,000 for fiscal year 2015</cato:funds-and-year>;</cato:entity>
+              </text>
+            </subparagraph>
+            <subparagraph id="id7F2FB5CB929C401D8BF8AD09E52A3EE9">
+              <enum>(B)</enum>
+              <text display-inline="yes-display-inline">
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                  <cato:funds-and-year year="2016" amount="245000000">$245,000,000 for fiscal year 2016</cato:funds-and-year>;</cato:entity>
+              </text>
+            </subparagraph>
+            <subparagraph id="id5154E9F92F2F406C901F96AAA614CD0A">
+              <enum>(C)</enum>
+              <text display-inline="yes-display-inline">
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                  <cato:funds-and-year year="2017" amount="266000000">$266,000,000 for fiscal year 2017</cato:funds-and-year>;</cato:entity>
+              </text>
+            </subparagraph>
+            <subparagraph id="id9A9B53EE9C6545D29ACEECC88A42C487">
+              <enum>(D)</enum>
+              <text display-inline="yes-display-inline">
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                  <cato:funds-and-year year="2018" amount="289000000">$289,000,000 for fiscal year 2018</cato:funds-and-year>;</cato:entity>
+              </text>
+            </subparagraph>
+            <subparagraph id="id459C98D4FB3D4F7090B8CFE56A7DBAFC">
+              <enum>(E)</enum>
+              <text display-inline="yes-display-inline">
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                  <cato:funds-and-year year="2019" amount="293000000">$293,000,000 for fiscal year 2019</cato:funds-and-year>; and</cato:entity>
+              </text>
+            </subparagraph>
+            <subparagraph id="idFE94451A55164313A7F48C409CFE2819">
+              <enum>(F)</enum>
+              <text>
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                  <cato:funds-and-year year="2020" amount="300000000">$300,000,000 for fiscal year 2020</cato:funds-and-year>.</cato:entity>
+              </text>
+            </subparagraph>
+          </paragraph>
+          <paragraph commented="no" id="idEC06301BA5014DE68A916AA83FC851BF">
+            <enum>(2)</enum>
+            <header>Inspection vehicles</header>
+            <text display-inline="yes-display-inline">With amounts appropriated pursuant to paragraph (1), the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary</cato:entity-ref>, in addition to providing
+			 further funding for previously purchased automated inspection vehicles as
+			 needed, shall purchase or lease automated rail integrity inspection
+			 vehicles, Gage
+			 Restraint
+			 Measurement System vehicles, and automated track geometry vehicles or
+			 other
+			 comparable technology as needed, including technology that may be added
+			 onto an existing railcar or vehicle, to assess rail and track safety.</text>
+          </paragraph>
+          <paragraph commented="no" id="idAA6FB5B5949340B49532E0BEAFA1EA17">
+            <enum>(3)</enum>
+            <header>Facility for underground rail station and tunnel</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated to the <cato:entity-ref entity-id="6900" entity-type="federal-body">Secretary</cato:entity-ref> <cato:funds-and-year year="2015..2020" amount="indefinite">such sums as may be necessary for the
+			 period encompassing
+			 fiscal years 2015 through 2020</cato:funds-and-year> <cato:property name="purpose">to design, develop, and construct the
+			 Facility for Underground Rail Stations and Tunnels at the Transportation
+			 Technology Center in Pueblo, Colorado</cato:property>. The facility shall be used to test
+			 and evaluate the vulnerabilities of above-ground and underground rail
+			 tunnels to prevent accidents and incidents in such tunnels, to mitigate
+			 and remediate the consequences of any such accidents or incidents, and to
+			 provide a realistic scenario for training emergency responders.</cato:entity>
+            </text>
+          </paragraph>
+          <paragraph commented="no" id="id709F7C2C60A94C9FABA8626397B0F209">
+            <enum>(4)</enum>
+            <header>Rail security</header>
+            <text display-inline="yes-display-inline">
+              
+                Such sums as may be necessary from the amount appropriated pursuant to paragraph (1) for each of
+			 the fiscal years 2015 through 2020 shall be made available to the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary</cato:entity-ref> for personnel in regional offices and in Washington,
+			 D.C., whose duties primarily involve rail security.
+            </text>
+          </paragraph>
+        </subsection>
+        <after-quoted-block>. </after-quoted-block>
+      </quoted-block>
+    </section>
+    <section id="idBF0F4E2BD9A848B192D0CDBBC0486612">
+      <enum>3.</enum>
+      <header>Requirement for uniform operating rules</header>
+      <subsection id="idD1B19C6D4DD54FFF9EB80A1E22FB7F27">
+        <enum>(a)</enum>
+        <header>Amendment</header>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc-chapter/49/201/II" entity-type="uscode">Subchapter II of chapter 201</cato:entity-ref> is amended by
+adding after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/49/20167" entity-type="uscode">section 20167</cato:entity-ref> the following:</text>
+        <quoted-block act-name="" id="id4EED131A3C764A5799B1448EEF9C329C" style="USC">
+          <section id="id6741C41AC8144A43A4C9DD4A95F81D8E">
+            <enum>20168.</enum>
+            <header>Uniform operating rules</header>
+            <subsection id="id6F358D430652485096AA408DF759AC35">
+              <enum>(a)</enum>
+              <header>In general</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref> may promulgate regulations or issue orders to require  in small
+			 geographic areas, as defined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary</cato:entity-ref>, where 2
+			 or more railroads serve as host railroads for joint operations that occur
+			 within a
+			 small geographic area, all such host
+			 railroads in the small
+			 geographic area to develop uniform operating rules governing all
+			 operations within the small geographic area with respect to—</text>
+              <paragraph id="idB6199F22414B414785E92FB03C28D3A0">
+                <enum>(1)</enum>
+                <text>signal aspects and indications, such that no aspect represents multiple indications for any
+			 operations within the small geographic area;</text>
+              </paragraph>
+              <paragraph id="id272B0CCD4E0C4CF9B00CAD83779D1178">
+                <enum>(2)</enum>
+                <text>after-arrival mandatory directives, such that the use of an after-arrival mandatory directive is
+			 prohibited for any operations in non
+signaled territory within the small geographic area; and</text>
+              </paragraph>
+              <paragraph id="id8E5D700C68AC445BB21656B3A9700F2D">
+                <enum>(3)</enum>
+                <text>forms used to convey track authority, such that track authority for any operations within the small
+			 geographic area is conveyed using an identical set of forms.</text>
+              </paragraph>
+            </subsection>
+            <subsection id="id74F738836B8846FF880F6CFF337F8411">
+              <enum>(b)</enum>
+              <header>Construction</header>
+              <text>Nothing in this section shall be construed to limit the authority of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary</cato:entity-ref> to promulgate
+			 regulations or issue orders under other law.</text>
+            </subsection>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+      <subsection id="idFC50A83E573241C681E95C3BE11E46B7">
+        <enum>(b)</enum>
+        <header>Conforming amendment</header>
+        <text>The table of contents for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc-chapter/49/201/II" entity-type="uscode">subchapter II chapter 201</cato:entity-ref> is
+amended by adding after the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="usc/49/20167" entity-type="uscode">section 20167</cato:entity-ref> the following:</text>
+        <quoted-block display-inline="no-display-inline" id="idA9F60FEAD94D4F6291047CFFB5850BE4" style="OLC">
+          <toc>
+            <toc-entry bold="off" level="section">20168. Uniform operating rules.</toc-entry>
+          </toc>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+    </section>
+    <section id="id3CE6789BE6234183B339A3F70B5BD86C">
+      <enum>4.</enum>
+      <header>Rail safety technology</header>
+      <subsection id="id07703B055E6B4C1FBFDA1AB422E20F8D">
+        <enum>(a)</enum>
+        <header>Railroad safety technology grants</header>
+        <paragraph id="idD51BA2E63BF442DE993FFD7FEC9950C7">
+          <enum>(1)</enum>
+          <header>Authorization of appropriations</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20158/c">Section 20158(c)</cato:entity-ref> is amended to read as follows:</text>
+          <quoted-block display-inline="no-display-inline" id="id25FF88910A4B45DF81D8BBC3816575DB" style="OLC">
+            <subsection id="id3DEBA14EB48846918CF7800BEB04E7C9">
+              <enum>(c)</enum>
+              <header>
+                Authorization of appropriations
+              </header>
+              <text>There are authorized to be appropriated to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref> the following amounts to
+			 carry out this section, to remain available until expended:</text>
+              <paragraph id="idD801ED6EE1854CDA84D3F0EA4E6FC876">
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                  <enum>(1)</enum>
+                <text>
+                    <cato:funds-and-year amount="1000000000" year="2015">For fiscal year 2015, $1,000,000,000</cato:funds-and-year>.</text>
+                </cato:entity>
+              </paragraph>
+              <paragraph id="idD44B8C828CE641D18A0BC8924C133B94">
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                  <enum>(2)</enum>
+                <text>
+                    <cato:funds-and-year amount="1000000000" year="2016">For fiscal year 2016, $1,000,000,000</cato:funds-and-year>.</text>
+                </cato:entity>
+              </paragraph>
+              <paragraph id="id5440CD99D39544BBA9B69B45948F1550">
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                  <enum>(3)</enum>
+                <text>
+                    <cato:funds-and-year amount="250000000" year="2017, 2018, 2019, 2020">For each of fiscal years 2017 through 2020, $250,000,000</cato:funds-and-year>.</text>
+                </cato:entity>
+              </paragraph>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="idDC6CAF80BF9443DDA4E5C9DFB6628600">
+          <enum>(2)</enum>
+          <header>Matching requirements</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20158/b/4">Section 20158(b)(4)</cato:entity-ref> is amended by striking the period at the end and inserting <quote>, except that Federal funds for an eligible project for the primary benefit of intercity rail
+			 passenger transportation or commuter rail passenger transportation may
+			 equal 100 percent of the
+			 total
+			 cost of that project.</quote>.</text>
+        </paragraph>
+        <paragraph id="idAB24C9851DD54425A05CA0183966897F">
+          <enum>(3)</enum>
+          <header>Grant criteria; considerations</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20158/b/2">Section 20158(b)(2)</cato:entity-ref> is amended—</text>
+          <subparagraph id="idBDFBBC0B908F4E7ABFB895803880F2E1">
+            <enum>(A)</enum>
+            <text>in subparagraph (B), by striking <quote>; or</quote> and inserting a semicolon;</text>
+          </subparagraph>
+          <subparagraph id="id9AA5112B678448D1AA35CA7C0F667B52">
+            <enum>(B)</enum>
+            <text>in subparagraph (C), by striking the period at the end and inserting a semicolon; and</text>
+          </subparagraph>
+          <subparagraph id="id092E090C87814B5A8F7B4AEBDEF09B2A">
+            <enum>(C)</enum>
+            <text>by adding at the end the following:</text>
+            <quoted-block act-name="" id="id7EA6E3B79F014AADADBB975D570C4936" style="OLC">
+              <subparagraph id="id5D69EF0A97324E9894D7C8DED798792C">
+                <enum>(D)</enum>
+                <text>are submitted by applicants that demonstrate a history of making expenditures for capital projects
+			 related to railroad safety technology.</text>
+              </subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection id="id0B8F4493C26941E99E5795E68DE1A454">
+        <enum>(b)</enum>
+        <header>Positive train control systems</header>
+        <paragraph id="id1ED4B9A74F8C4EF0AE6FC31B37E40463">
+          <enum>(1)</enum>
+          <header>Spectrum</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/201/II">Subchapter II of chapter 201</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Rail Safety Improvement Act of 2014/s:3" proposed="true">section 3</cato:entity-ref> of this Act, is further amended by adding
+			 at the end the following:</text>
+          <quoted-block display-inline="no-display-inline" id="id6213972187C74364B82E0F182C60B224" style="USC">
+            <section id="id3DB4B2909F614D6B8A8461C85E55688D">
+              <enum>20169.</enum>
+              <header>Electromagnetic spectrum</header>
+              <subsection id="id817BBBB603074C6CB8B8A0F2B9394EAC">
+                <enum/>
+                <text display-inline="yes-display-inline">Not later than 120 days after the date of enactment of the <short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Rail Safety Improvement Act of 2014" proposed="true">Rail Safety Improvement Act of 2014</cato:entity-ref>
+                  </short-title>,
+the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2700" entity-type="federal-body">Chairman of the Federal Communications
+Commission</cato:entity-ref> shall coordinate to assess  spectrum needs and availability for implementing positive
+			 train control systems (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20157">section 20157</cato:entity-ref>). Such
+			 coordination
+may include conversations with external stakeholders.</text>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="id86497DDBFD074D1993F5020D7FD9C82D">
+          <enum>(2)</enum>
+          <header>Conforming amendment</header>
+          <text>The table of contents for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/201/II">subchapter II of chapter 201</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Rail Safety Improvement Act of 2014/s:3" proposed="true">section 3</cato:entity-ref> of this Act, is
+			 further amended by adding at the end  the following:</text>
+          <quoted-block display-inline="no-display-inline" id="id8746A26CE3A2486686D857E4BE773846" style="OLC">
+            <toc>
+              <toc-entry bold="off" level="section">20169. Electromagnetic spectrum.</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="idEDA5643D5E824D75A2CB84FF685F2406">
+          <enum>(3)</enum>
+          <header>Reports</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20157/a">Section 20157(a)</cato:entity-ref> is amended by adding at the end the following:</text>
+          <quoted-block display-inline="no-display-inline" id="idD86D808C37614C41B3165A4B8B7778CE" style="OLC">
+            <paragraph id="idF943F3217E4F4B7FB54E6A7BF0523629">
+              <enum>(3)</enum>
+              <header>Progress reports</header>
+              <subparagraph id="idFEADAC7F2CCE4E3488D99E2017F81F79">
+                <enum>(A)</enum>
+                <header>In general</header>
+                <text>Beginning 6 months after the date of enactment of the <short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Rail Safety Improvement Act of 2014" proposed="true">Rail Safety Improvement Act of 2014</cato:entity-ref>
+                  </short-title>, and every 6 months thereafter until its positive train control system is certified by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> under subsection (h), each railroad carrier
+			 and entity required to submit
+			 a plan under paragraph (1) of this subsection shall provide a progress
+			 report to the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> on the status of the plan.</text>
+              </subparagraph>
+              <subparagraph id="idB00C8820A23A485E856D0107B954FD05">
+                <enum>(B)</enum>
+                <header>Contents</header>
+                <text>A progress report under subparagraph (A) shall include—</text>
+                <clause id="id6BCAF5E19D8E4293A7302FF8F0448BC0">
+                  <enum>(i)</enum>
+                  <text>a section describing the total number of positive train components required, the number of
+			 components that have been completed as of the date of the progress report,
+			 the
+			 number of components that remain to be completed or implemented, an
+			 estimated completion date for each component that remains to be completed
+			 or implemented, and the overall completion percentage; and</text>
+                </clause>
+                <clause id="id76C4516B11B348A5A750DEF91FC42873">
+                  <enum>(ii)</enum>
+                  <text>a section describing—</text>
+                  <subclause id="idAB82D5ECF786477CBF4FD6D2D7E75998">
+                    <enum>(I)</enum>
+                    <text>the total number of safety-related employees and equivalent railroad carrier contractors and
+			 subcontractors required to be trained, by class and craft;</text>
+                  </subclause>
+                  <subclause id="id549B21D3E8F44017A5C798809CE5F5CF">
+                    <enum>(II)</enum>
+                    <text>the minimum training standards for the employees, contractors, and subcontractors under subclause
+			 (I);</text>
+                  </subclause>
+                  <subclause id="id00D9EEC0CD1842DA8F224CEDB8989759">
+                    <enum>(III)</enum>
+                    <text>the percentage of employees, contractors, and subcontractors under subclause (I) that have
+			 completed training as of the date of the progress report;</text>
+                  </subclause>
+                  <subclause id="idF1596DAC705849A7A39D45AA63CA698E">
+                    <enum>(IV)</enum>
+                    <text>the percentage of employees, contractors, and subcontractors under subclause (I) that remain to be
+			 trained; and</text>
+                  </subclause>
+                  <subclause id="id6E2120045B0E4BB7BCBADF5DC51E811F">
+                    <enum>(V)</enum>
+                    <text>the estimated completion date for the training under
+			 subclause (IV).</text>
+                  </subclause>
+                </clause>
+              </subparagraph>
+              <subparagraph id="id001391C5CD8A4E43B7EFFFE8ADB60568">
+                <enum>(C)</enum>
+                <header>Definitions</header>
+                <text>In this paragraph:</text>
+                <clause id="idC8DE1F95D4C7413699EC8FCFB7EE1E14">
+                  <enum>(i)</enum>
+                  <header>Component</header>
+                  <text>The term <term>component</term> means a locomotive apparatus, wayside interface unit, switch, base station radio, wayside radio,
+			 locomotive radio, and any new and novel technology that is part of a
+			 positive train control system.</text>
+                </clause>
+                <clause id="id8FF1113A7B03498B9B83F875B9D938B9">
+                  <enum>(ii)</enum>
+                  <header>Minimum training standards</header>
+                  <text>The term <term>minimum training standards</term> means the knowledge of, and ability to comply with, Federal railroad safety laws and regulations
+			 and carrier rules and procedures necessary to implement positive train
+			 control.</text>
+                </clause>
+              </subparagraph>
+              <subparagraph id="id56C62000F15948C39D86C0F056CAD9F0">
+                <enum>(D)</enum>
+                <header>Website</header>
+                <text>Not later than 30 days after receiving a progress report under this paragraph, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall
+			 make the report available on the website of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6930" entity-type="federal-body">Federal Railroad
+			 Administration</cato:entity-ref>.</text>
+              </subparagraph>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </subsection>
+      <subsection id="id271A285A69A248688DD49418C6E27B2C">
+        <enum>(c)</enum>
+        <header>Alerters</header>
+        <paragraph id="id4F37E30E7DBF448F8460642CA06FE4FA">
+          <enum>(1)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/201/II">Subchapter II of chapter 201</cato:entity-ref>, as amended by subsection (b) of this section, is further amended by
+			 adding at the end the following:</text>
+          <quoted-block display-inline="no-display-inline" id="idD303E87891384E4FA556AE2EAB2B2080" style="USC">
+            <section id="id0F15B83D1B144A6EACC8800F7EC13315">
+              <enum>20170.</enum>
+              <header>Alerters</header>
+              <subsection id="id94186811752A4CA798A00AA4D0C19B98">
+                <enum>(a)</enum>
+                <header>In general</header>
+                <text>Beginning 1 year after the date of enactment of the <short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Rail Safety Improvement Act of 2014" proposed="true">Rail Safety Improvement Act of 2014</cato:entity-ref>
+                  </short-title>, a working alerter  shall be required in the controlling locomotive of each passenger train in
+			 intercity rail passenger transportation (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/24102">section 24102</cato:entity-ref>) or
+			 commuter rail passenger
+			 transportation (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/24102">section 24102</cato:entity-ref>).</text>
+              </subsection>
+              <subsection id="id955D5519E88F41B0BD9B664D28AA8F1C">
+                <enum>(b)</enum>
+                <header>Regulations</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> may promulgate or revise existing regulations to specify the appropriate technical
+			 detail and essential functionalities of a working alerter, including the
+			 manner in which the alerter can be reset.</text>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="id2F5CA1A057DA4846A810A238037642D2">
+          <enum>(2)</enum>
+          <header>Conforming amendment</header>
+          <text>The table of contents for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/201/II">subchapter II of chapter 201</cato:entity-ref>, as amended by subsection (b) of this
+			 section, is
+			 further amended by adding at the end  the following:</text>
+          <quoted-block display-inline="no-display-inline" id="id29736EBD9104488CA64D0F003257DF60" style="OLC">
+            <toc>
+              <toc-entry bold="off" level="section">20170. Alerters.</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </subsection>
+      <subsection id="id8828A4987FA64D7EB803C39458DBF326">
+        <enum>(d)</enum>
+        <header>Redundant signal protection</header>
+        <text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref>
+			 shall promulgate
+such regulations as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> considers necessary to require that on-track safety programs, as
+			 described in subpart
+			 C of part 214 of title 49, Code of Federal Regulations, whenever
+			 practicable and consistent with other safety requirements and operational
+			 considerations, include requiring
+			 implementation of redundant signal protection, such as shunting, for
+			 maintenance-of-way work crews who depend on a train dispatcher to provide
+			 signal protection.</text>
+      </subsection>
+      <subsection id="id6005FBBA3DC34AB38AE775A468A8E799">
+        <enum>(e)</enum>
+        <header>Installation of audio and image recording devices</header>
+        <paragraph id="idCBA8AD0A31C344D793E6FF352B6507BF">
+          <enum>(1)</enum>
+          <header>In general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/201/II">Subchapter II of chapter 201</cato:entity-ref>, as amended by subsection (c) of this section, is further amended by
+			 adding at the end the following:</text>
+          <quoted-block display-inline="no-display-inline" id="idF727C0EBF84442D39F6D26B4A51904AA" style="USC">
+            <section id="idE45BA89753884A9C8B7FBC7344ED1B39">
+              <enum>20171.</enum>
+              <header>Installation of audio and image recording devices</header>
+              <subsection id="idA3DB4EFEDC0446ACB65127D3B7DC88C2">
+                <enum>(a)</enum>
+                <header>In general</header>
+                <text display-inline="yes-display-inline">Not later than 2 years after the date of enactment of the <short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Rail Safety Improvement Act of 2014" proposed="true">Rail Safety Improvement Act of 2014</cato:entity-ref>
+                  </short-title>, each railroad carrier that is a Class I railroad and each railroad carrier that provides
+			 intercity
+			 rail passenger or
+			 commuter rail passenger transportation shall install inward- and
+			 outward-facing audio and image recording devices in all controlling
+			 locomotive cabs and cab car operating compartments.</text>
+              </subsection>
+              <subsection id="idFC10C217033646DD9E931D030A349692">
+                <enum>(b)</enum>
+                <header>Regulations</header>
+                <text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of the <short-title>
+                    <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Rail Safety Improvement Act of 2014" proposed="true">Rail Safety Improvement Act of 2014</cato:entity-ref>
+                  </short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref>
+			 shall promulgate such regulations as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> considers necessary to
+			 implement this section.  The regulations,
+			 at a minimum, shall require—</text>
+                <paragraph id="id7EBDD29726434CB29BDFCC8E3B7CA4F0">
+                  <enum>(1)</enum>
+                  <text display-inline="yes-display-inline">a railroad carrier described in subsection (a) to establish a program for the review and
+			 use of in-cab audio and image recordings;</text>
+                </paragraph>
+                <paragraph id="id6FD029D8F56342FDBCE6908EA23EF2F2">
+                  <enum>(2)</enum>
+                  <text display-inline="yes-display-inline">the program under paragraph (1) to be submitted to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> for review and approval; and</text>
+                </paragraph>
+                <paragraph id="id35E83AE342114479B06FD8D7CBB34D10">
+                  <enum>(3)</enum>
+                  <text display-inline="yes-display-inline">privacy protections as determined
+			 appropriate by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref>, including limitations on
+			 the public release of the recordings under subsection (f).</text>
+                </paragraph>
+              </subsection>
+              <subsection id="id28E0ACD659964AEA88369959B60A0412">
+                <enum>(c)</enum>
+                <header>Programs</header>
+                <paragraph id="id4D0BDCF210DD49668E015CB966BEF078">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text>Each program established under subsection (b)(1) shall be limited to the purposes under paragraph
+			 (2) of this subsection.  A railroad carrier may not use in-cab audio or
+			 image recordings or
+			 structure the program to retaliate
+			 against an employee, or for selective enforcement.</text>
+                </paragraph>
+                <paragraph id="idAD589DFFA1214634B8888652954E052D">
+                  <enum>(2)</enum>
+                  <header>Purposes</header>
+                  <text>A program established under subsection (b)(1) shall limit the use of in-cab audio and image
+			 recordings to the following purposes:</text>
+                  <subparagraph id="idC34B3E7B5CCD4EFAA91E2490AEB21DD0">
+                    <enum>(A)</enum>
+                    <text>Assisting in an investigation into the causation of a reportable accident.</text>
+                  </subparagraph>
+                  <subparagraph id="id11A96BAEECCD46008C283DBD7553780A">
+                    <enum>(B)</enum>
+                    <text>Verifying that a train crew member's actions
+			 are in accordance with applicable safety laws.</text>
+                  </subparagraph>
+                  <subparagraph id="idF5FE8A3DBE634C97815F73B4A385C86C">
+                    <enum>(C)</enum>
+                    <text>Counseling a
+			 train crew member if the member's actions are not in accordance with
+			 applicable safety laws.</text>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+              <subsection id="id10E92B8BAE55433F9FA4D981899BD747">
+                <enum>(d)</enum>
+                <header>Detail and features</header>
+                <text display-inline="yes-display-inline">In promulgating the regulations under this section, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall specify
+			 the appropriate technical detail and essential features of the inward- and
+			 outward-facing audio and image recording devices to provide for—</text>
+                <paragraph id="idF015D47F45214D9985CD5B1005E8CAA0">
+                  <enum>(1)</enum>
+                  <text display-inline="yes-display-inline">protection in the event of a crash or fire;</text>
+                </paragraph>
+                <paragraph id="idBB70796D724449289EC644E4D126E898">
+                  <enum>(2)</enum>
+                  <text display-inline="yes-display-inline">a minimum 12-hour continuous recording capability;</text>
+                </paragraph>
+                <paragraph id="idA85CCBD292CA40A2B4D452F5CFBCBEC1">
+                  <enum>(3)</enum>
+                  <text display-inline="yes-display-inline">recordings that are easily accessible for review during an accident investigation; and</text>
+                </paragraph>
+                <paragraph id="idF64741FC915D49D786CCB01387A8CE52">
+                  <enum>(4)</enum>
+                  <text>information captured by recording devices to be recorded in a location remote from the
+			 controlling locomotive to maximize
+			 the likelihood of recovering the information after an accident.</text>
+                </paragraph>
+              </subsection>
+              <subsection id="id73AAA014E4F34E6BB0C5565A8F3D58F3">
+                <enum>(e)</enum>
+                <header>Other railroad carriers</header>
+                <paragraph id="idF7BA06D2226145F4A177DBCE1C4D6494">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text display-inline="yes-display-inline">Nothing in this section restricts the discretion of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> to require railroad carriers
+			 other than those described in subsection (a) to install inward- and
+			 outward-facing audio and image recording devices in all controlling
+			 locomotive cabs and cab car operating compartments. In exercising such
+			 discretion, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall consider, at a minimum, the safety
+			 performance
+			 of the railroad carrier.</text>
+                </paragraph>
+                <paragraph commented="no" id="id00D27AB27151453EBC789ECBF11A5252">
+                  <enum>(2)</enum>
+                  <header>Voluntary program establishment</header>
+                  <text display-inline="yes-display-inline">Any railroad carrier other than a railroad carrier described in subsection (a) may voluntarily
+			 establish a program under this
+			 section.  This section, and any regulations promulgated under this
+			 section, shall apply to a program that is voluntarily established.</text>
+                </paragraph>
+              </subsection>
+              <subsection commented="no" id="id10ACCC76186A46888A279077ABA4E13D">
+                <enum>(f)</enum>
+                <header>Confidentiality of recordings</header>
+                <text display-inline="yes-display-inline">In accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/552/b/3">
+                    <external-xref legal-doc="usc" parsable-cite="usc/5/552">section 552(b)(3)</external-xref> of title 5</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> may not disclose publicly any part
+			 of an in-cab audio or image recording that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> obtains as part
+			 of an accident or other investigation.</text>
+							</subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="idE8855144EA024528BBA0165ABAC21E14">
+          <enum>(2)</enum>
+          <header>Conforming amendment</header>
+          <text>The table of contents for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/201/II">subchapter II of chapter 201</cato:entity-ref>, as amended by subsection (c) of this
+			 section, is
+			 further amended by adding at the end  the following:</text>
+          <quoted-block display-inline="no-display-inline" id="idB46B0081EA904E4DA957ECE8619313A4" style="OLC">
+            <toc>
+              <toc-entry bold="off" level="section">20171. Installation of audio and image recording devices.</toc-entry>
+            </toc>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="idBCEFC87A5DBE467FB1184682D3EA85AF">
+      <enum>5.</enum>
+      <header>Fatigue mitigation</header>
+      <subsection id="idCF468DA572744831A075865242D5101A">
+        <enum>(a)</enum>
+        <header>Regulation on fatigue management plans</header>
+        <text>Not later than 180 days after the promulgation of the final regulation implementing the requirement
+			 for risk reduction plans under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20156/a">
+            <external-xref legal-doc="usc" parsable-cite="usc/49/20156">section 20156(a)</external-xref> of title 49, United States
+			 Code</cato:entity-ref>, or for 10-year technology implementation plans under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20156/e">section
+			 20156(e)</cato:entity-ref> of that
+			 title, whichever is later, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref> shall
+			 promulgate such regulations as are necessary to implement the requirement
+			 for fatigue management plans under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20156/f">section 20156(f)</cato:entity-ref>
+			 of that title.</text>
+      </subsection>
+      <subsection commented="no" id="idB425CB4217F147B9969FD6658D899C18">
+        <enum>(b)</enum>
+        <header>Cost-Benefit analysis</header>
+        <paragraph commented="no" id="idDACCEF0D0F8E4F4C8AA65D10B50F5390">
+          <enum>(1)</enum>
+          <header>In general</header>
+          <text>Not later than 1 year after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref>
+			 shall conduct a
+			 comprehensive cost-benefit analysis to evaluate the development of hours
+			 of service requirements for all train, signal, and
+			 dispatching service employees based on fatigue sciences.</text>
+        </paragraph>
+        <paragraph commented="no" id="idCF7091341F234E0DBBBA7605F371CF50">
+          <enum>(2)</enum>
+          <header>Assumptions</header>
+          <text>In performing the cost-benefit analysis, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref> may—</text>
+          <subparagraph commented="no" id="id193EBD8791BF43F49F1A6F01A3FE51E6">
+            <enum>(A)</enum>
+            <text>contemplate hours of service requirements for the employees described in paragraph (1) that are
+			 based on sound, up-to-date scientific information regarding fatigue
+			 measurement, employee
+			 work and sleep, and accident risk; and</text>
+          </subparagraph>
+          <subparagraph commented="no" id="idD022D33BB19441BF84A5770C6E758A26">
+            <enum>(B)</enum>
+            <text>contemplate requirements that differ from the requirements <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/211">under <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/211">
+                chapter 211</external-xref> of title 49, United
+			 States Code</cato:entity-ref>.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph commented="no" id="id5C68ACE156F84FFCA5B4846F5A7FCDA6">
+          <enum>(3)</enum>
+          <header>Considerations</header>
+          <text>In performing the cost-benefit analysis, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref> shall consider the costs,
+			 benefits, and
+			 other effects associated with the requirements contemplated in paragraph
+			 (2), including—</text>
+          <subparagraph commented="no" id="idDF1A33229A534BA19D66CBB61A21FD4A">
+            <enum>(A)</enum>
+            <text>the impact on train accidents, including fatalities, injuries, and property damage;</text>
+          </subparagraph>
+          <subparagraph commented="no" id="idFC49BA53B21E4ABDB272C6D7036ED75D">
+            <enum>(B)</enum>
+            <text>the impact on staffing, schedules, and other railroad operations;</text>
+          </subparagraph>
+          <subparagraph commented="no" id="idBF18A47549F743E0801F8CAA708FEF99">
+            <enum>(C)</enum>
+            <text>the impact on employees' salaries, earning opportunities,  and other compensation;</text>
+          </subparagraph>
+          <subparagraph commented="no" id="id1651F82451B14C67BEEE15307702476E">
+            <enum>(D)</enum>
+            <text>the impact on customer needs, such as predictability of service;</text>
+          </subparagraph>
+          <subparagraph commented="no" id="idB4E6A21325B245D19DE58BF72A974017">
+            <enum>(E)</enum>
+            <text>the impact on productivity and competitiveness;</text>
+          </subparagraph>
+          <subparagraph commented="no" id="idF21DB957B907404888B442D42D43EE48">
+            <enum>(F)</enum>
+            <text>the impact on recordkeeping and other railroad administration;</text>
+          </subparagraph>
+          <subparagraph commented="no" id="idA0404E6B0A6F4EE483FC337F061C4906">
+            <enum>(G)</enum>
+            <text>the impact of consecutive days worked and work performed during night hours on the potential for
+			 fatigue and risk of accidents;</text>
+          </subparagraph>
+          <subparagraph commented="no" id="idD1C288BCFA884A75A3A83F20E3292A2F">
+            <enum>(H)</enum>
+            <text>one-time versus reoccurring costs;</text>
+          </subparagraph>
+          <subparagraph commented="no" id="idB100AA1C75B64EAE8DD8F80CD7B9FC67">
+            <enum>(I)</enum>
+            <text>whether an effect disproportionately impacts a class of railroad;</text>
+          </subparagraph>
+          <subparagraph commented="no" id="id1C4B1DD323444510B2EB24163A19F5E0">
+            <enum>(J)</enum>
+            <text>the cost-effectiveness of existing railroad fatigue management initiatives;</text>
+          </subparagraph>
+          <subparagraph commented="no" id="id5F67600FE1F14FBB897E90AB89D806E7">
+            <enum>(K)</enum>
+            <text>the extent to which the application of modern fatigue science to hours of service requirements is
+			 consistent with the railroad operating environment; and</text>
+          </subparagraph>
+          <subparagraph commented="no" id="idC58A675934264D50B7018502882D5E91">
+            <enum>(L)</enum>
+            <text>such other effects as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref> considers appropriate.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph commented="no" id="id098FDEB489B84C3B81E0263568E3F950">
+          <enum>(4)</enum>
+          <header>Report</header>
+          <text>Not later than 60 days after the cost-benefit analysis is complete, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6930" entity-type="federal-body">Federal Railroad
+			 Administration</cato:entity-ref>
+			 shall post a
+			 report on its website that summarizes the results of the cost-benefit
+			 analysis, describes any disproportionate costs or benefits to a particular
+			 class of railroad, and recommends any changes to the
+			 current hours of service law.</text>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="id274E46E390544FACAD4EDA3FFEBD2E2B">
+      <enum>6.</enum>
+      <header>Transportation of flammable liquids by rail</header>
+      <subsection id="id22AEBFAB5EAA4F7BBE2ADD4EC6074FB3">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/51">Chapter 51</cato:entity-ref> is amended by inserting after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/5110">section 5110</cato:entity-ref> the following:</text>
+				<quoted-block display-inline="no-display-inline" id="id16A27E87F01346EB98F193BBBC35C721" style="USC">
+          <section id="idE9E947941CFF42D6A7D4766181CCB2B7">
+            <enum>5111.</enum>
+            <header>Requirements for the operation of high-hazard flammable trains</header>
+            <subsection id="id2FCDDEFF45244019A3279F634481A297">
+              <enum>(a)</enum>
+              <text>In this section:</text>
+              <paragraph id="idEFD6CD7F0C2F4C5B85A0A79D54F17A7B">
+                <enum>(1)</enum>
+                <header>Class 3 flammable liquid</header>
+                <text>The term <term>Class 3 flammable liquid</term> has the meaning given the term in <external-xref legal-doc="regulation" parsable-cite="cfr/49/173.120">section 173.120(a)</external-xref> of title 49, Code of Federal Regulations.</text>
+              </paragraph>
+              <paragraph id="id25A300699A984E62AD8577A62920D867">
+                <enum>(2)</enum>
+                <header>Distributed power system</header>
+                <text>The term <term>distributed power system</term> has the meaning given the term in <external-xref legal-doc="regulation" parsable-cite="cfr/49/229.5">section 229.5</external-xref> of title 49, Code of Federal Regulations.</text>
+              </paragraph>
+              <paragraph id="id4238087008324D048FC2C0171BB73499">
+                <enum>(3)</enum>
+                <header>DOT specification 111 tank car</header>
+                <text>The term <term>DOT specification 111 tank car</term> means a tank car that meets Department of Transportation Specification 111 standards but does not
+			 meet the requirements of Association of American
+			 Railroads Casualty Prevention Circular 1232.</text>
+              </paragraph>
+              <paragraph id="idFE1747481E69466792F6BF644AC19286">
+                <enum>(4)</enum>
+                <header>High-hazard flammable train</header>
+                <text>The term <term>high-hazard flammable train</term> means a single train transporting 20 or more tank cars loaded with a Class 3 flammable liquid.</text>
+              </paragraph>
+              <paragraph id="id39FD8121E41A4B02B99CAA9FB5C15446">
+                <enum>(5)</enum>
+                <header>Maximum extent practicable</header>
+                <text>The term <term>maximum extent practicable</term> has the meaning given the term in <external-xref legal-doc="regulation" parsable-cite="cfr/49/130.5">section 130.5</external-xref> of title 49, Code of Federal Regulations.</text>
+              </paragraph>
+              <paragraph id="idA0F2A807B22B4C1E8735F2AA3742FBA7">
+                <enum>(6)</enum>
+                <header>State</header>
+                <text>The term <term>State</term> means a State of the United States or the District of Columbia.</text>
+              </paragraph>
+              <paragraph id="idE0AA0639CFC14B85ACDED482E4FB86BB">
+                <enum>(7)</enum>
+                <header>Two-way end-of-train device</header>
+                <text>The term <term>two-way end-of-train device</term> has the meaning given the term in <external-xref legal-doc="regulation" parsable-cite="cfr/49/232.5">section 232.5</external-xref> of title 49, Code of Federal Regulations.</text>
+              </paragraph>
+              <paragraph id="id35355CE5981B4B7388E1100A3E79AC25">
+                <enum>(8)</enum>
+                <header>Worst-case discharge</header>
+                <text>The term <term>worst-case discharge</term> has the meaning given the term in <external-xref legal-doc="regulation" parsable-cite="cfr/49/130.5">section 130.5</external-xref> of title 49, Code of Federal Regulations.</text>
+              </paragraph>
+            </subsection>
+            <subsection id="id59184EF0982249ECA506AC62B6F50DBF">
+              <enum>(b)</enum>
+              <header>Notification requirements</header>
+              <paragraph id="id102755CBC6C7446581B4E4E30A236CBC">
+                <enum>(1)</enum>
+                <header>In general</header>
+                <text>A railroad carrier may not operate a high-hazard flammable train in a State until the railroad
+			 carrier has
+			 provided the State Emergency Response Commission for the State or other
+			 appropriate State delegated entity, the Tribal Emergency Response
+			 Commission, as appropriate, and the County Emergency Management
+			 Commissioner or other appropriate county emergency response coordinator
+			 with—</text>
+                <subparagraph id="idC5ECBE67979344E4A37629C5B94F0028">
+                  <enum>(A)</enum>
+                  <text>a reasonable estimate of the number of high-hazard flammable trains that are expected to travel,
+			 per week,
+			 through each county within the State;</text>
+                </subparagraph>
+                <subparagraph id="id8DBA9C09F3EB481CB8B5133CA47E49A7">
+                  <enum>(B)</enum>
+                  <text>each route that the high-hazard
+			 flammable train will take within the State;</text>
+                </subparagraph>
+                <subparagraph id="idCF50B4CA934045E4BC41E5DCC106EC1B">
+                  <enum>(C)</enum>
+                  <text>a description of the Class 3 flammable liquid being transported through the State;</text>
+                </subparagraph>
+                <subparagraph id="id7D3E699F021D48459BC758470E779010">
+                  <enum>(D)</enum>
+                  <text>all applicable emergency response information required under subparts C and G of part 172 of title
+			 49,
+			 Code of Federal
+			 Regulations; and</text>
+                </subparagraph>
+                <subparagraph id="id18D411DD7FA3473A880020B4AA705AED">
+                  <enum>(E)</enum>
+                  <text>the contact information, including name, title, telephone number, and address, for at least 1
+			 individual at the railroad carrier responsible for serving
+			 as the point of contact for the State Emergency Response Commission or
+			 other appropriate State delegated entity, the Tribal Emergency Response
+			 Commission, if appropriate,  the County Emergency Management
+			 Commissioner or other
+			 appropriate county emergency response coordinator, and any other relevant
+			 emergency responders related to the railroad carrier's
+			 transportation of high-hazard flammable trains.</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="id74A44B34CA0F4E0082806793C8B15818">
+                <enum>(2)</enum>
+                <header>Updates</header>
+                <text>A railroad carrier shall update a notification under paragraph (1) prior to making any material
+			 change in the estimated number of high-hazard flammable trains
+			 that are expected to travel, per week, through a county within the State.
+			 For purposes of this paragraph, a <term>material change</term> means an increase or decrease of 25 percent or more in the estimate of the
+			 number of high-hazard flammable trains from the number provided under
+			 paragraph (1)(A).</text>
+              </paragraph>
+              <paragraph commented="no" id="idD55C71F9FFA4498A8089255C309E4237">
+                <enum>(3)</enum>
+                <header>Copies to Department of Transportation</header>
+                <text>A railroad carrier shall provide the
+			 information required under paragraph (1) to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Department of
+			 Transportation</cato:entity-ref> concurrently with the State Emergency Response Commission
+			 or other appropriate State delegated entity, as applicable.</text>
+              </paragraph>
+              <paragraph commented="no" id="id740CE2E7F6B149B591E25489E2727610">
+                <enum>(4)</enum>
+                <header>FOIA</header>
+                <text>The information provided to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Department of Transportation</cato:entity-ref> under paragraph (3) shall be
+			 considered a record and available to the public in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/552">section
+			 552 of title 5, United States Code</cato:entity-ref>.</text>
+              </paragraph>
+              <paragraph id="id71F05FD9BA104202BE4689EF8DE19941">
+                <enum>(5)</enum>
+                <header>Penalties</header>
+                <text>A railroad carrier violating this subsection or a regulation
+			 promulgated under this subsection is liable to the United States
+			 Government
+			 for a civil penalty. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref> may impose a civil
+			 penalty of up to $175,000 for each violation or for each day the violation
+			 continues.</text>
+              </paragraph>
+            </subsection>
+            <subsection id="idBBB69E5D41D54F44953A146E686285B4">
+              <enum>(c)</enum>
+              <header>Speed restrictions</header>
+              <text>A railroad carrier operating a high-hazard flammable train shall—</text>
+              <paragraph id="id35D0FBB571C54E4992B519D8CAB85582">
+                <enum>(1)</enum>
+                <text>except as provided under paragraph (2), adhere to a speed restriction of 50 miles per hour; and</text>
+              </paragraph>
+              <paragraph id="id1790ABB85E0D47ABBEE06A346ECA4EBF">
+                <enum>(2)</enum>
+                <text>adhere to a speed restriction of 40 miles per hour for each high-hazard flammable train—</text>
+                <subparagraph id="idB15615075E0044899963740D8DE5AE3D">
+                  <enum>(A)</enum>
+                  <text>with at least 1 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">DOT</cato:entity-ref> specification 111 tank car while the train operates in an area that has a
+			 population of more than 100,000 people, as determined by census population
+			 data; or</text>
+                </subparagraph>
+                <subparagraph id="id83180AE4E6784C42B93D52E98EFA86A2">
+                  <enum>(B)</enum>
+                  <text>with at least 1 non-DOT specification tank car while the train operates in an area that has a
+			 population of more than 100,000 people, as determined by census population
+			 data.</text>
+                </subparagraph>
+              </paragraph>
+            </subsection>
+            <subsection id="id8762BAE016694C09ADF41C8526C9E6C2">
+              <enum>(d)</enum>
+              <header>Required equipment</header>
+              <paragraph id="id07565A141EA241C1A46B0CFB30C8AD83">
+                <enum>(1)</enum>
+                <header>In general</header>
+                <text>A railroad carrier shall equip each high-hazard flammable train it operates with—</text>
+                <subparagraph id="idB8BA3AE766394480A7ADB7FFEED849CA">
+                  <enum>(A)</enum>
+                  <text>a two-way end-of-train device (as defined in <external-xref legal-doc="usc" parsable-cite="usc/49/232">section 232.5</external-xref> of title 49, Code of Federal
+			 Regulations);</text>
+                </subparagraph>
+                <subparagraph id="id3A97CA0282984C2FAB8072DA1224D1D6">
+                  <enum>(B)</enum>
+                  <text>a distributed power system (as defined in <external-xref legal-doc="regulation" parsable-cite="cfr/49/229.5">section 229.5</external-xref> of title 49, Code of Federal Regulations);
+			 or</text>
+                </subparagraph>
+                <subparagraph id="id2A15579CED0A42A7B701949198F9AECE">
+                  <enum>(C)</enum>
+                  <text>an electronically controlled pneumatic brake system (as defined in <external-xref legal-doc="usc" parsable-cite="usc/49/232">section 232.5</external-xref> of title 49, Code
+			 of Federal Regulations).</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="idF560F3EE7A63402DA6F9403B95C7613C">
+                <enum>(2)</enum>
+                <header>Exception</header>
+                <text>Paragraph (1) shall not apply to the operation of a high-hazard flammable train that is limited to
+			 a maximum speed of 30 miles per hour.</text>
+              </paragraph>
+              <paragraph id="id6B4BACA99CFE4DCDA456F96AED62566F">
+                <enum>(3)</enum>
+                <header>Construction</header>
+                <text>Nothing in this subsection shall be construed to limit the authority of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> to promulgate
+			 regulations or issue orders under other law.</text>
+              </paragraph>
+            </subsection>
+            <subsection id="id32DFD66E492643EDBF4D0A5EB4DE20F1">
+              <enum>(e)</enum>
+              <header>Installation of wayside defective bearing detectors</header>
+              <paragraph id="idD82A318B9C914432B58A52E4281612E2">
+                <enum>(1)</enum>
+                <header>In general</header>
+                <text>Subject to paragraph (2), each railroad carrier shall install wayside defective bearing detectors
+			 at least every 40 miles along main line track—</text>
+                <subparagraph id="id7EEAD1F3B32D489DA307D35B97191161">
+                  <enum>(A)</enum>
+                  <text>that the railroad carrier owns or has been
+			 assigned maintenance responsibility under <external-xref legal-doc="usc" parsable-cite="usc/49/213">section 213.5</external-xref> of title 49,
+			 Code of Federal Regulations; and</text>
+                </subparagraph>
+                <subparagraph id="idCEF69CC0CDDE492D931F256E5FE26356">
+                  <enum>(B)</enum>
+                  <text>over which 1 or more high-hazard flammable trains are operated.</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="idDBBFB17244844B8CA1ACA3AAD859B06B">
+                <enum>(2)</enum>
+                <header>Completion</header>
+                <subparagraph id="idAB518C728F0C41DFA9CEFB570DE6ED7A">
+                  <enum>(A)</enum>
+                  <header>Progress report</header>
+                  <text>Not later than 180 days after the date of enactment of the <short-title>
+                      <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Rail Safety Improvement Act of 2014" proposed="true">Rail Safety Improvement Act of 2014</cato:entity-ref>
+                    </short-title>, a railroad carrier shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> a report describing the progress the railroad
+			 carrier has made toward completion of the installation of wayside
+			 defective bearing detectors under paragraph (1).</text>
+                </subparagraph>
+                <subparagraph id="id76D7C4E100DB41A6956485C3E7FFCA2A">
+                  <enum>(B)</enum>
+                  <header>Completion date</header>
+                  <text>After reviewing the report submitted under subparagraph (A), the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall establish a date
+			 by which the railroad carrier must complete the installation of wayside
+			 defective bearing detectors under paragraph (1).</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="id928E19B1352E4D1881620E9DD3650E58">
+                <enum>(3)</enum>
+                <header>Exception</header>
+                <text>Paragraph (1) shall not apply to any situation in which the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> determines that track
+			 configuration or other safety considerations dictate otherwise.</text>
+              </paragraph>
+            </subsection>
+            <subsection id="idBCC246C102D94F5D9D66F19AC35752D7">
+              <enum>(f)</enum>
+              <header>Inspections</header>
+              <text>A railroad carrier shall—</text>
+              <paragraph id="idBDA4484F767B4E5F91AF2DAD14A51ED2">
+                <enum>(1)</enum>
+                <text>conduct at least 2 automated track geometry inspections each calendar year on main line track—</text>
+                <subparagraph id="idE2975BF4A7A249DEB1DA047B9A500F70">
+                  <enum>(A)</enum>
+                  <text>that the railroad carrier owns or has been assigned maintenance responsibility under section 213.5
+			 of title 49, Code of Federal Regulations; and</text>
+                </subparagraph>
+                <subparagraph id="id6F9F0FB88474470D997A2ABD90E3056A">
+                  <enum>(B)</enum>
+                  <text>over which a high-hazard flammable train is operated;</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="id3C7A0160232B4A47BD539309D5F41237">
+                <enum>(2)</enum>
+                <text>perform at least 1 additional internal rail inspection each calendar year than is required under
+			 <external-xref legal-doc="regulation" parsable-cite="cfr/49/213.237">section 213.237(c)</external-xref> of title 49, Code of Federal Regulations on main line
+			 track—</text>
+                <subparagraph id="id301A9F264C4147CAB0AD716F775E4440">
+                  <enum>(A)</enum>
+                  <text>that the railroad carrier owns or has been assigned maintenance responsibility under section 213.5
+			 of title 49, Code of Federal Regulations; and</text>
+                </subparagraph>
+                <subparagraph id="idAFEBF27545154136BB2EB1213F976092">
+                  <enum>(B)</enum>
+                  <text>over which a high-hazard flammable train is operated; and</text>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="id4E20EF7A9ADF4379946FAD4BA010D7C2">
+                <enum>(3)</enum>
+                <text>perform at least 1 additional track inspection per week than is required under section 213.233(c)
+			 of title 49, Code of Federal Regulations, on each main line track—</text>
+                <subparagraph id="id1E7FC4EDB6A049C6A68D8E4F39F64323">
+                  <enum>(A)</enum>
+                  <text>that the railroad carrier owns or has been assigned maintenance responsibility under section 213.5
+			 of title 49, Code of Federal Regulations; and</text>
+                </subparagraph>
+                <subparagraph id="id3797641E689C4D83A076F4F94DAD6C48">
+                  <enum>(B)</enum>
+                  <text>over which a high-hazard flammable train is operated.</text>
+                </subparagraph>
+              </paragraph>
+            </subsection>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+      <subsection id="idD053BFFEE94140EDA850B55E8410EC8A">
+        <enum>(b)</enum>
+        <header>Conforming amendment</header>
+        <text>The table of contents for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/51">chapter 51</cato:entity-ref> is amended by adding after the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/5110">section 5110</cato:entity-ref>
+			 the
+			 following:</text>
+        <quoted-block display-inline="no-display-inline" id="idE2F576CE3AC049038FAB061A3B4F6C22" style="OLC">
+          <toc>
+            <toc-entry bold="off" level="section">5111. Requirements for the operation of high-hazard flammable trains.</toc-entry>
+          </toc>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+      <subsection id="id7FFDDE94B77549EC94DA0EC59E74577C">
+        <enum>(c)</enum>
+        <header>Oil spill prevention and response plans</header>
+        <paragraph id="idFDAC9746E0C5485A8032C3BFDA2DD492">
+          <enum>(1)</enum>
+          <header>Submission and approval procedures</header>
+          <text>Not later than 180 days after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref>
+			 shall promulgate regulations to require approval of each oil spill
+			 prevention and response plan submitted or resubmitted to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6930">Federal
+			 Railroad Administrator</cato:entity-ref> (for tank cars) to ensure it meets all the
+			 requirements of part 130 of title 49, Code of Federal Regulations, as
+			 revised under paragraph (2) of this subsection.  The
+			 regulations shall include notice of, and an opportunity to respond to,
+			 including the opportunity for an informal conference, any alleged plan
+			 deficiencies or proposed plan revisions and an opportunity to correct any
+			 plan deficiencies.</text>
+        </paragraph>
+        <paragraph id="idC9C0A9C823D14E65BEB0274AE844A995">
+          <enum>(2)</enum>
+          <header>Regulations</header>
+          <text>Not later than 180 days after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref>
+			 shall revise the regulations under part 130 of the Code of Federal
+			 Regulations (relating to oil spill prevention and response plans) to
+			 modify the 1,000 barrels (42,000 gallons) threshold for a comprehensive
+			 oil spill prevention and
+			 response plan to account for worst-case discharges resulting from 
+			 accidents involving unit trains or blocks of 20 or more tank cars.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="id0517851ACB364E409ED391D6170BFA19">
+        <enum>(d)</enum>
+        <header>Positive train control</header>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20157/a/1">Section 20157(a)(1)</cato:entity-ref> is amended—</text>
+        <paragraph commented="no" id="idB7489756BE1D4C0CB9BB1109604627BA">
+          <enum>(1)</enum>
+          <text>by striking <quote>Not later than 18 months after the date of enactment of the Rail Safety Improvement Act of 2008,
+			 each</quote> and inserting <quote>Each</quote>;</text>
+        </paragraph>
+        <paragraph id="id5D3F39CF67784A03A9F837B26334B5AC">
+          <enum>(2)</enum>
+          <text>in subparagraph (B), by striking <quote>; and</quote> and inserting a semicolon;</text>
+        </paragraph>
+        <paragraph id="id251D8C3580C441668F3C27B7FEDF0D2F">
+          <enum>(3)</enum>
+          <text>by redesignating subparagraph (C) as subparagraph (D); and</text>
+        </paragraph>
+        <paragraph id="id5766BE3D1EA84B958E5831E2D092B8D7">
+          <enum>(4)</enum>
+          <text>by inserting after subparagraph (B), the following:</text>
+          <quoted-block display-inline="no-display-inline" id="id16A1D8F8BC5049EE8641DFBDFD7234FC" style="OLC">
+            <subparagraph id="idB7129E08AE3248E4A02F63584FDDFFB0">
+              <enum>(C)</enum>
+              <text>its main line over which 20 or more tank cars loaded with petroleum crude oil, Class 3 (as
+			 described in <external-xref legal-doc="usc" parsable-cite="usc/49/172">section 172.101</external-xref> of title 49, Code of
+			 Federal Regulations) are transported;
+			 and</text>
+            </subparagraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </subsection>
+      <subsection id="idF62487CEAC35438A87A36995577571CF">
+        <enum>(e)</enum>
+        <header>Short line and regional railroad safety grants</header>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20108">Section 20108</cato:entity-ref> is amended by adding at the end the following:</text>
+        <quoted-block display-inline="no-display-inline" id="id14F4687D78634FFEB55BB57F54AE92E5" style="OLC">
+          <subsection id="idC5DE3E4B7C844FB684321A40C8206EC2">
+            <enum>(d)</enum>
+            <header>Short line and regional railroad safety initiative</header>
+            <paragraph id="id194DC28B264A4A85B8D54DD5D3FD9D5B">
+              <enum>(1)</enum>
+              <header>Grants authorized</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> may award grants to private or nonprofit organizations involved in, or affiliated
+			 with, transportation by Class II or Class III railroads.</text>
+            </paragraph>
+            <paragraph id="id8EBB07507FE7412484956C74D6CF548B">
+              <enum>(2)</enum>
+              <header>Use of funds</header>
+              <text>Grant funds awarded under this subsection shall be used for research, development, testing,
+			 evaluation, and
+			 training efforts that are designed to enhance rail safety practices and
+			 safety culture.</text>
+            </paragraph>
+            <paragraph id="idA320E7D541364E90B6A9E16292A162C6">
+              <enum>(3)</enum>
+              <header>Authorization of appropriations</header>
+              <subparagraph id="id3951FC9EEDD0420D962CBAD35718E43C">
+                <enum>(A)</enum>
+                <header>Fiscal year 2015</header>
+                <text>
+                  <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be appropriated to the <cato:entity-ref entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> <cato:funds-and-year amount="2000000" year="2015">$2,000,000 for fiscal year 2015</cato:funds-and-year> <cato:property name="purpose">for grants
+			 under <cato:entity-ref entity-type="uscode" value="usc/49/20108/d" proposed="true">this subsection</cato:entity-ref>
+                    </cato:property>.</cato:entity>
+                </text>
+              </subparagraph>
+              <subparagraph id="id25E3B2168AFB403C9024F5415301244E">
+                <enum>(B)</enum>
+                <header>Fiscal years 2016 through 2019</header>
+                <text>
+                  <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be appropriated to the <cato:entity-ref entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> <cato:funds-and-year amount="indefinite" year="2016, 2017, 2018, 2019">such sums as may be necessary for each of
+			 the fiscal years 2016 through 2019</cato:funds-and-year> <cato:property name="purpose">for grants under <cato:entity-ref entity-type="uscode" value="usc/49/20108/d" proposed="true">this subsection</cato:entity-ref>
+                    </cato:property>.</cato:entity>
+                </text>
+              </subparagraph>
+              <subparagraph id="id735B91C98F844B84A143FEB97F4E2743">
+                <enum>(C)</enum>
+                <header>Availability</header>
+                <text>Amounts appropriated under this paragraph shall remain available until expended.</text>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+      <subsection id="id5F6CB1C549C94069BA60E827B2A37075">
+        <enum>(f)</enum>
+        <header>Accident analysis and mitigation</header>
+        <text>With amounts appropriated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20117/a">
+            <external-xref legal-doc="usc" parsable-cite="usc/49/20117">section 20117(a)</external-xref> of title 49, United States Code</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of
+			 Transportation</cato:entity-ref> shall conduct accident analysis and
+			 mitigation research to examine—</text>
+        <paragraph id="id233F35E9ABF7411CAF7F4023374DFD30">
+          <enum>(1)</enum>
+          <text>how the safety risks of transporting energy products by rail changes from source to destination;</text>
+        </paragraph>
+        <paragraph id="idE3BC93F915924CB8B71D559B15F8F91F">
+          <enum>(2)</enum>
+          <text>the likelihood and consequences of accidents during pre-treatment, classification, loading,
+			 transit, and unloading;</text>
+        </paragraph>
+        <paragraph id="idE9DD51A0D6A74E7FB13E98CD56DF23C2">
+          <enum>(3)</enum>
+          <text>mitigation strategies to reduce identified risks throughout the supply chain, including—</text>
+          <subparagraph id="idC9B5B6DAEBDF45BC98693A1B01779073">
+            <enum>(A)</enum>
+            <text>regulation and enforcement;</text>
+          </subparagraph>
+          <subparagraph id="id77433FB3951F4CAEA6C6210140B5A979">
+            <enum>(B)</enum>
+            <text>more accurate classification methods;</text>
+          </subparagraph>
+          <subparagraph id="id5F2F176FDC8F42AFBABA7DB46459163D">
+            <enum>(C)</enum>
+            <text>alternative routing;</text>
+          </subparagraph>
+          <subparagraph id="id98D1D5CD0D4E436A808C6020FBFE915F">
+            <enum>(D)</enum>
+            <text>reduced speeds;</text>
+          </subparagraph>
+          <subparagraph id="idCD9A02BB5A7C435886749886ED6AFB9A">
+            <enum>(E)</enum>
+            <text>improved braking;</text>
+          </subparagraph>
+          <subparagraph id="idC05FB721B24B4DBFB7F54446D0C96FC3">
+            <enum>(F)</enum>
+            <text>improved tank car crashworthiness; and</text>
+          </subparagraph>
+          <subparagraph id="id765A31635CF14B8185582016C246968A">
+            <enum>(G)</enum>
+            <text>better informed emergency responders.</text>
+          </subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection id="idF6CAE1096D344EFEBD911481A90EF884">
+        <enum>(g)</enum>
+        <header>Research on tank car safety</header>
+        <text>With amounts appropriated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20117/a">
+            <external-xref legal-doc="usc" parsable-cite="usc/49/20117">section 20117(a)</external-xref> of title 49, United States Code</cato:entity-ref>, the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref> shall supplement research
+			 conducted by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6957" entity-type="federal-body">Pipeline and Hazardous Materials Safety Administration</cato:entity-ref> on
+			 the development of a Liquefied Natural Gas bulk tank car and locomotive
+			 tender designs by conducting full-scale impact tests to assess
+			 performance, puncture resistance, and validate computer simulations.</text>
+      </subsection>
+    </section>
+    <section id="id19FEC100936A4F62BD2BBB78D02F6243">
+      <enum>7.</enum>
+      <header>Amendments to the Safety Appliance Law</header>
+      <subsection id="id5F90BDA018F04480AB75F8E3E428CCC0">
+        <enum>(a)</enum>
+        <header>Moving defective and insecure vehicles needing repairs</header>
+        <paragraph id="id20473FBE1F7F4C169AB57B0426016219">
+          <enum>(1)</enum>
+          <header>In general</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20303">Section 20303</cato:entity-ref> is amended by adding at the end the following:</text>
+          <quoted-block act-name="" id="id9CDC1354A5454CF08EE8608629BDC551" style="OLC">
+            <subsection id="idC7F285EAE10241F8AA768145D6B8E0A5">
+              <enum>(d)</enum>
+              <header>Definition of nearest</header>
+              <text>The term <term>nearest</term> means the closest in the forward direction of travel for the defective or insecure vehicle.</text>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph commented="no" id="idADEBC8B8CC8847508AF86925CC00DDA4">
+          <enum>(2)</enum>
+          <header>Technical amendments</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20303/a/2">Section 20303(a)(2)</cato:entity-ref> is amended by striking <quote>clause (1) of this subsection</quote> and inserting <quote>paragraph (1)</quote>.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="id243FB78177844E888DF99E5F34943913">
+        <enum>(b)</enum>
+        <header>Exemption for technological improvements</header>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20306">Section 20306</cato:entity-ref> is amended—</text>
+        <paragraph id="id68A6507D430146F5AB3FDF6B937CADB2">
+          <enum>(1)</enum>
+          <text>in subsection (b)(1), by striking <quote>; or</quote> and inserting a semicolon;</text>
+        </paragraph>
+        <paragraph id="id45225566784A4785B3716F87705CC9E8">
+          <enum>(2)</enum>
+          <text>in subsection (b)(2), by striking the period at the end and inserting <quote>; or</quote>; and</text>
+        </paragraph>
+        <paragraph id="idF1DB9AE4D2574B89B7F489913DE108C4">
+          <enum>(3)</enum>
+          <text>by adding at the end the following:</text>
+          <quoted-block act-name="" id="id6EC73EF0BE5A4D9D8687C2FC7F211794" style="OLC">
+            <paragraph id="idA17D0ED300F246628D60E7AA55F96D6D">
+              <enum>(3)</enum>
+              <text>a regulation promulgated under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/5/553">
+                  <external-xref legal-doc="usc" parsable-cite="usc/5/553">section 553</external-xref> of title 5, United States
+Code</cato:entity-ref>.</text>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="id7FBD222C23C6470DB290BA0BA268160B">
+      <enum>8.</enum>
+      <header>Amendments to the Locomotive Inspection Law</header>
+      <subsection id="id7B5CFB8AFB9F4BC5B6034C333300D399">
+        <enum>(a)</enum>
+        <header> Requirements for use</header>
+        <text>
+          <external-xref legal-doc="usc" parsable-cite="usc/5/20701">
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20701">Section 20701</cato:entity-ref>
+          </external-xref> is amended—</text>
+        <paragraph id="id18224D4506F644C29239E87396874B63">
+          <enum>(1)</enum>
+          <text>by inserting <quote>(a) <header-in-text level="subsection" style="USC">In general</header-in-text>.—</quote> before <quote>A railroad carrier</quote> and indenting appropriately;</text>
+        </paragraph>
+        <paragraph id="id6B331AE4D24F41BB8B00B80D2D3A8CFC">
+          <enum>(2)</enum>
+          <text>in subsection (a)(2), as redesignated, by striking <quote>; and</quote> and inserting a semicolon;</text>
+        </paragraph>
+        <paragraph id="id33390929ADE846008F40781456DB4202">
+          <enum>(3)</enum>
+          <text>in subsection (a)(3), as redesignated, by striking the period and inserting <quote>; and</quote>;</text>
+        </paragraph>
+        <paragraph id="id376BC7F808AA40F6A9C260CF29C1D726">
+          <enum>(4)</enum>
+          <text>in subsection (a), as redesignated, by adding at the end the following:</text>
+          <quoted-block act-name="" id="idB8EF05A1A0184ABABE0A7F5CE8EB5543" style="OLC">
+            <paragraph id="idF9EBCFDF78D941C08E33AF005E85395F">
+              <enum>(4)</enum>
+              <text>are of a unique design or utilize a new power source technology that has been approved in advance
+			 by
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref>.</text>
+            </paragraph>
+            <after-quoted-block>; and</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="idE83EFB3D305C4E69BDEB2D65ED290198">
+          <enum>(5)</enum>
+          <text>by adding at the end the following:</text>
+          <quoted-block act-name="" id="id7C0079ABEB5649E69356CE77E2C1B93D" style="OLC">
+            <subsection id="id93695437005F4E3993CE386175140838">
+              <enum>(b)</enum>
+              <header>Definition of new power source technology</header>
+              <text>For the purposes of subsection (a)(4), the term <term>new power
+source technology</term> means a technology that employs a source of motive power other than
+diesel fuel, electricity, or steam.</text>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="id2A0A71DEF04D4477A6826262A0C5A5CA">
+      <enum>9.</enum>
+      <header>Repair and replacement of damaged track inspection equipment</header>
+      <subsection id="id57ED41A9D82643A69DDE84394B3A271B">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/201/I">Subchapter I of chapter 201</cato:entity-ref> is amended by adding after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20120">section 20120</cato:entity-ref> the following:</text>
+        <quoted-block act-name="" id="idCA23FEE400154759B74AD3C0BD4109C6" style="USC">
+          <section id="idC692AAF6FBEF4B98B8C6AA787753FF80">
+            <enum>20121.</enum>
+            <header>Repair and replacement of damaged track inspection equipment</header>
+            <text display-inline="no-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref> may receive and expend cash, or receive and
+utilize spare parts and similar items, from non-United States Government sources to
+repair damages to or replace United States Government owned automated track inspection cars and
+			 equipment as a result of third-party liability for such damages, and any
+			 amounts collected under this section shall be credited directly to the
+			 Railroad Safety and Operations account of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6930" entity-type="federal-body">Federal Railroad
+			 Administration</cato:entity-ref>, and shall remain
+available until expended for the repair, operation, and maintenance of automated track
+inspection cars and equipment in connection with the automated track inspection program.</text>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+      <subsection id="id795121A9DBF54027857E36FBF9B0FB81">
+        <enum>(b)</enum>
+        <header>Conforming amendment</header>
+        <text>The table of contents for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/201/I">subchapter I of chapter 201</cato:entity-ref> is amended by adding after <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/21020">section 21020</cato:entity-ref> the
+			 following:</text>
+        <quoted-block display-inline="no-display-inline" id="id1899CD86AB054B328D16CE023C80E1E7" style="OLC">
+          <toc>
+            <toc-entry bold="off" level="section">20121. Repair and replacement of damaged track inspection equipment.</toc-entry>
+          </toc>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+    </section>
+    <section id="id667BF198D68D46C68B66F078D17C3612">
+      <enum>10.</enum>
+      <header>Commuter rail track inspections</header>
+      <subsection id="id9CA008CE4B2942049411EC51FE1C03C7">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/201/II">Subchapter II of chapter 201</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Rail Safety Improvement Act of 2014/s:4" proposed="true">section 4</cato:entity-ref> of this Act, is further amended by adding at
+			 the end the following:</text>
+        <quoted-block display-inline="no-display-inline" id="id94A032F755D34DE88AB610B4051C5B81" style="USC">
+          <section id="idFAD22DB486FA4DCCBA8C570E012AA211">
+            <enum>20172.</enum>
+            <header>Commuter rail track inspections</header>
+            <subsection id="idE8F0411BEE8D4169AA228E0A12950662">
+              <enum>(a)</enum>
+              <header>In general</header>
+              <text>When performing an inspection as required under subpart F of part 213 of title 49, Code of Federal
+			 Regulations, a railroad carrier
+			 providing commuter rail passenger transportation on high density commuter
+			 railroad lines (as described in <external-xref legal-doc="usc" parsable-cite="usc/49/213">section 213.233(b)(3)</external-xref> of title 49, Code of
+			 Federal Regulations) shall, at a minimum—</text>
+              <paragraph id="idE9F98300D1374764BC23E2B0695406F7">
+                <enum>(1)</enum>
+                <text display-inline="yes-display-inline">actually traverse each main line by vehicle or
+			 inspect each main line on foot at least once every 2 weeks; and</text>
+              </paragraph>
+              <paragraph id="idBF416588F25E4C71A5FB14FA94D8E719">
+                <enum>(2)</enum>
+                <text display-inline="yes-display-inline">actually traverse and inspect each siding by vehicle
+			 or by foot at least once every month.</text>
+              </paragraph>
+            </subsection>
+            <subsection id="id4F9ED63A1A9E463B9D6936B22336540D">
+              <enum>(b)</enum>
+              <header>Construction</header>
+              <text>Nothing in this section shall be construed to limit the authority of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> to promulgate
+			 regulations or issue orders under other law.</text>
+            </subsection>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+      <subsection id="id1702A3E2715641FABD1A9B4D0E761FA7">
+        <enum>(b)</enum>
+        <header>Conforming amendment</header>
+        <text>The table of contents for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/201/II">subchapter II of chapter 201</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Rail Safety Improvement Act of 2014/s:4" proposed="true">section 4</cato:entity-ref> of this Act, is
+			 further amended by adding at the end  the following:</text>
+        <quoted-block display-inline="no-display-inline" id="idBA4B676170C24D57BA19BC13F67FCEF9" style="OLC">
+          <toc>
+            <toc-entry bold="off" level="section">20172. Commuter rail track inspections.</toc-entry>
+          </toc>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+    </section>
+    <section id="id96D1BB2797CD4411BC5CD75F6B363D82">
+      <enum>11.</enum>
+      <header>Automated track geometry inspections</header>
+      <subsection id="id810412A6929540F98C268310A13F043E">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text>Not later than 1 year after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref>
+			 shall promulgate such regulations as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> considers necessary to
+			 require each railroad carrier to conduct at least 1 annual automated track
+			 geometry inspection on all high-tonnage routes (as defined by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref>), passenger train routes, and hazardous materials routes on main
+			 line track that the railroad carrier owns or has been assigned maintenance
+			 responsibility under <external-xref legal-doc="usc" parsable-cite="usc/49/213">section 213.5</external-xref> of title 49, Code of Federal
+			 Regulations.</text>
+      </subsection>
+      <subsection id="id0BFAEF948D544202AEA9DFC1B3327EA3">
+        <enum>(b)</enum>
+        <header>Exceptions</header>
+        <text>In promulgating the regulations under subsection (a), the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref> may provide
+			 an exception for a railroad carrier that demonstrates, to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary's</cato:entity-ref>
+			 satisfaction, that its inspection practices provide an equivalent level of
+			 safety benefit.</text>
+      </subsection>
+      <subsection id="idFDF8330E0CD044DC8877DFA0F9E22AA5">
+        <enum>(c)</enum>
+        <header>Construction</header>
+        <text>Nothing in this section shall be construed to limit the authority of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> to promulgate
+			 regulations or issue orders under other law.</text>
+      </subsection>
+    </section>
+    <section id="id89E78F61E6A84D3BBB8B6D63CED628A8">
+      <enum>12.</enum>
+      <header>Speed enforcement</header>
+      <subsection id="id27F568F57D8748019909AE140B43A8EB">
+        <enum>(a)</enum>
+        <header>Automated train control inspections</header>
+        <text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref>
+			 shall promulgate regulations requiring each railroad carrier operating in
+			 automated train control territory to perform a regular inspection at each
+			 location that has
+			 a reduction of more than 20 miles per hour in the maximum authorized speed
+			 until the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> has certified
+			 the railroad carrier's positive train control system under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20157/h">section
+			 20157(h) of title 49, United States Code</cato:entity-ref>.</text>
+      </subsection>
+      <subsection id="id7B8564BD422E4A25B5486DA5C20B6058">
+        <enum>(b)</enum>
+        <header>Signage</header>
+        <text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref>
+			 shall promulgate regulations requiring the installation of signs to warn
+			 train crews before they approach a
+			 location where there is a permanent reduction of more than 20 miles per
+			 hour in the maximum authorized
+			 speed.</text>
+      </subsection>
+      <subsection id="id529937256B474A7AA271D82B5F33F9A0">
+        <enum>(c)</enum>
+        <header>Report</header>
+        <text display-inline="yes-display-inline">Not later than 6 months after the date of the enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of
+			 Transportation</cato:entity-ref> shall transmit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSCM00" entity-type="committee">Committee on Commerce, Science, and
+			 Transportation of the Senate</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HPW00" entity-type="committee">Committee on Transportation and
+			 Infrastructure of the House of Representatives</cato:entity-ref> a report describing—</text>
+        <paragraph id="idFAFAF713C0C24D95AE9EB7250A1E31CB">
+          <enum>(1)</enum>
+          <text display-inline="yes-display-inline">the actions the railroad carriers have taken in response to Safety Advisory 2013–08, entitled
+			 Operational Tests and Inspections for Compliance
+			 With Maximum Authorized Train Speeds and Other Speed Restrictions; and</text>
+        </paragraph>
+        <paragraph id="idD10E38091E7144C38EBE535ADCDEC423">
+          <enum>(2)</enum>
+          <text display-inline="yes-display-inline">the actions the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6930" entity-type="federal-body">Federal Railroad Administration</cato:entity-ref> has taken to determine and ensure compliance with
+			 that safety advisory.</text>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="id4269898997584F0E8C218A1437D02B3E">
+      <enum>13.</enum>
+      <header>Unintentional movement</header>
+      <text display-inline="no-display-inline">Not later than 180 days after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref>
+			 shall revise the regulations in <external-xref legal-doc="usc" parsable-cite="usc/49/232">section 232.103(n)</external-xref> of title 49, Code of
+			 Federal Regulations, relating to securement of unattended equipment, to
+			 incorporate those requirements under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6930" entity-type="federal-body">Federal Railroad
+			 Administration</cato:entity-ref> Emergency Order No. 28 (78 Fed. Reg. 48218; relating to
+			 establishing additional requirements for attendance and securement of
+			 certain freight
+			 trains and vehicles on mainline track or mainline siding outside of a yard
+			 or terminal) to the extent the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> considers practicable.</text>
+		</section>
+    <section id="id3AB386A6447247B8B20E0173E1D8C1F7">
+      <enum>14.</enum>
+      <header>Rail safety oversight improvements</header>
+      <subsection id="id637F35C8C2764984A9DA1425131D687E">
+        <enum>(a)</enum>
+        <header>Risk reduction implementation plan</header>
+        <text>Not later than 60 days after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref>
+			 shall develop and submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSCM00" entity-type="committee">Committee on Commerce, Science, and
+			 Transportation of the Senate</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HPW00" entity-type="committee">Committee on Transportation and
+			 Infrastructure of the House of Representatives</cato:entity-ref> an
+			 implementation plan for the oversight of railroad safety risk reduction
+			 programs developed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20156">
+            <external-xref legal-doc="usc" parsable-cite="usc/49/20156">section 20156</external-xref> of title 49, United States Code</cato:entity-ref>. 
+			 The plan shall
+			 contain—</text>
+        <paragraph id="id33E4DFC769A0433AB5098AFC627556AF">
+          <enum>(1)</enum>
+          <text>interim milestones for finalizing any regulation required to implement <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20156">
+              <external-xref legal-doc="usc" parsable-cite="usc/49/20156">section 20156</external-xref> of title 49,
+			 United States Code</cato:entity-ref>; and</text>
+        </paragraph>
+        <paragraph id="idB4E61B0C643D4C9293ED1D53434B920D">
+          <enum>(2)</enum>
+          <text>estimated timeframes for the review and approval of railroad safety risk reduction program
+			 components
+			 required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20156/d/2">
+              <external-xref legal-doc="usc" parsable-cite="usc/49/20156">section 20156(d)(2)</external-xref> of title 49, United States Code</cato:entity-ref>.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="idDE7B7008840549B195190EBD074770C9">
+        <enum>(b)</enum>
+        <header>Human capital plan</header>
+        <paragraph id="id0CC0E2529C4E4AAA93E88C400AE12B85">
+          <enum>(1)</enum>
+          <header>In general</header>
+          <text>Not later than 2 years after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall develop a
+			 long-range strategic
+			 human capital plan for the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6930" entity-type="federal-body">Federal Railroad Administration</cato:entity-ref>.  The plan
+			 shall—</text>
+          <subparagraph id="id0E91B55169D04EE39368EB2178748B90">
+            <enum>(A)</enum>
+            <text>identify and prioritize the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6930" entity-type="federal-body">Federal Railroad Administration</cato:entity-ref>’s human capital needs over a minimum of
+			 5 years;</text>
+          </subparagraph>
+          <subparagraph id="id38126EBE592542959EB4853069FDCA08">
+            <enum>(B)</enum>
+            <text>align the human capital needs under subparagraph (A) with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6930" entity-type="federal-body">Federal Railroad Administration's</cato:entity-ref>
+			 safety mission; and</text>
+          </subparagraph>
+          <subparagraph id="id034621EE404A4195895A5BACCC9A7860">
+            <enum>(C)</enum>
+            <text>include specific approaches for how the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> will ensure that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6930" entity-type="federal-body">Federal
+			 Railroad
+			 Administration</cato:entity-ref> has enough inspectors to perform its current and future
+			 oversight work, including the implementation of requirements for positive
+			 train control and railroad safety risk reduction programs.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="idFC37FB4F5E244C74B5C1A49E1755A295">
+          <enum>(2)</enum>
+          <header>Considerations</header>
+          <text>In developing the plan, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall consider—</text>
+          <subparagraph id="id1B8383F5A5294AABB71D3F272EE12C59">
+            <enum>(A)</enum>
+            <text>whether the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6930" entity-type="federal-body">Federal Railroad Administration</cato:entity-ref>’s staffing allocation process is flexible enough to
+			 respond to shifts in rail traffic volumes and patterns across different
+			 regions; and</text>
+          </subparagraph>
+          <subparagraph id="idA2F4AAA191854AFA8995E2A749AE00A0">
+            <enum>(B)</enum>
+            <text>railroad industry trends, projected retirements, skill gaps, and training needs.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="id6511D47B168448319F2DE31B624F81B3">
+          <enum>(3)</enum>
+          <header>Report</header>
+          <text>Not later than 30 days after the plan is complete, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall transmit a
+			 report to the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSCM00" entity-type="committee">Committee on Commerce, Science, and Transportation of the Senate</cato:entity-ref> and the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HPW00" entity-type="committee">Committee on Transportation and Infrastructure of the House of
+			 Representatives</cato:entity-ref> that summarizes the contents of the plan and describes how
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> will prioritize resources to mitigate the largest rail
+			 safety oversight risks and to prevent rail accidents.</text>
+        </paragraph>
+      </subsection>
+    </section>
+    <section id="id3F44FAC545DC4F0194AEC85004DC530E">
+      <enum>15.</enum>
+      <header>Reports on statutory mandates and recommendations</header>
+      <text display-inline="no-display-inline">
+        <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+          <cato:entity-ref entity-type="act" value="Rail Safety Improvement Act of 2008/s:106">Section 106 of the Rail Safety Improvement Act of 2008</cato:entity-ref> <cato:entity-ref entity-type="uscode" value="usc/49/20101/note">(<external-xref legal-doc="usc" parsable-cite="usc/49/20101">
+          49 U.S.C. 20101
+        </external-xref> note</cato:entity-ref>)</cato:entity> is amended by
+			 striking <quote>Not later than December 31, 2008, and annually thereafter, the Secretary</quote> and inserting <quote>Not later than 90 days after the date of enactment of the <short-title>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Rail Safety Improvement Act of 2014" proposed="true">Rail Safety Improvement Act of 2014</cato:entity-ref>
+          </short-title>, and quarterly thereafter, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6930" entity-type="federal-body">Administrator of the Federal Railroad Administration</cato:entity-ref>
+        </quote>.</text>
+    </section>
+    <section id="id1AE41542409E40FBA776FDFF63D5D059">
+      <enum>16.</enum>
+      <header>Operation deep dive; report</header>
+      <subsection id="id37CFCE23592C45E9AA339342D822C0E9">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text display-inline="yes-display-inline">Not later than 60 days after the date of enactment of this Act, and quarterly thereafter until the
+			 completion date, the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6930" entity-type="federal-body">Administrator of the Federal Railroad Administration</cato:entity-ref> shall submit to the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSCM00" entity-type="committee">Committee on Commerce, Science, and Transportation of the Senate</cato:entity-ref> and the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HPW00" entity-type="committee">Committee on Transportation and Infrastructure of the House of
+			 Representatives</cato:entity-ref> a report on the progress of Metro-North Commuter Railroad
+			 in implementing the directives and recommendations issued by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6930" entity-type="federal-body">Federal
+			 Railroad Administration</cato:entity-ref>  in its March 2014 report to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>, Operation
+			 Deep Dive Metro-North Commuter Railroad Safety Assessment.  Not later than
+			 30 days after the completion date, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6930" entity-type="federal-body">Federal Railroad Administration</cato:entity-ref>
+			 shall submit a final report on the directives and recommendations to
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>.</text>
+      </subsection>
+      <subsection id="id0F31CE4454574B5AB6CE79FB6ABC2A05">
+        <enum>(b)</enum>
+        <header>Definition of completion date</header>
+        <text>For purposes of this section, the term <term>completion date</term> means the date that Metro-North Commuter Railroad has completed all of the directives and
+			 recommendations issued by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6930" entity-type="federal-body">Federal
+			 Railroad Administration</cato:entity-ref>  in its March 2014 report to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>.</text>
+      </subsection>
+    </section>
+    <section id="id318A8045DBB74C03A130E88D7A5F1C09">
+      <enum>17.</enum>
+      <header>Use of certain reports and surveys</header>
+      <subsection id="id13B24DDBE7804E98BD4466C96BF859F8">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20119">
+            <external-xref legal-doc="usc" parsable-cite="usc/49/20119">Section 20119</external-xref> of title 49, United States Code</cato:entity-ref>, is repealed.</text>
+      </subsection>
+      <subsection id="id2A1109B191A64224A7B33649B86BC42C">
+        <enum>(b)</enum>
+        <header>Conforming amendment</header>
+        <text>The table of contents for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49">title 49, United States Code</cato:entity-ref>, is amended by striking the item relating to
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20119">section 20119</cato:entity-ref>.</text>
+      </subsection>
+    </section>
+    <section id="idD1ECCF5A7D614671BBDB84ED0C4D06DF">
+      <enum>18.</enum>
+      <header>Authorization of appropriations; miscellaneous</header>
+      <subsection id="id0CFA221637F84187A2F38B2FB8EB17E2">
+        <enum>(a)</enum>
+        <header>Highway-Rail grade crossing safety study</header>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are
+authorized to be appropriated to the <cato:entity-ref entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref> <cato:funds-and-year amount="indefinite">such sums as may be necessary</cato:funds-and-year> <cato:property name="purpose">to
+			 conduct a study of
+			 railroad operations that block highway-rail grade crossings, including the
+			 severity,
+frequency, and other characteristics of such blockages</cato:property>, to remain available until
+expended. For the purpose of this subsection, the term <term>highway-rail grade crossing</term> has the meaning given the term in <cato:entity-ref entity-type="uscode" value="usc/49/20153/a">
+              <external-xref legal-doc="usc" parsable-cite="usc/49/20153">section 20153(a)</external-xref> of title 49, United States Code</cato:entity-ref>.</cato:entity>
+        </text>
+      </subsection>
+      <subsection id="idDC8A8A527B6A43C091D090FD3217D9CA">
+        <enum>(b)</enum>
+        <header>Train length study</header>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated to the
+<cato:entity-ref entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref> <cato:funds-and-year amount="indefinite">such sums as may be necessary</cato:funds-and-year> <cato:property name="purpose">to conduct a study of whether train
+			 length correlates
+with the severity and frequency of train derailments</cato:property>, to remain available until expended.</cato:entity>
+        </text>
+      </subsection>
+      <subsection id="id99DE7195BF64472698127A8E78AD8ACF">
+        <enum>(c)</enum>
+        <header>Operation lifesaver; authorization of appropriations</header>
+        <text>
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Rail Safety Improvement Act of 2008/s:206/ss:c">Section 206(c) of the Rail Safety Improvement Act of 2008</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/49/22501/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/49/22501">
+            49 U.S.C. 22501
+          </external-xref> note</cato:entity-ref>)</cato:entity> is amended to read
+			 as follows:</text>
+        <quoted-block display-inline="no-display-inline" id="id0F28A23340A640DC92F425DE89D62120" style="OLC">
+          <subsection id="id4C98AD8B39584568A444B9C674A1EFD4">
+            <enum>(c)</enum>
+            <header>Authorization of appropriations</header>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated to the <cato:entity-ref entity-id="6930" entity-type="federal-body">Federal Railroad Administration</cato:entity-ref> <cato:property name="purpose">for carrying out
+			 <cato:entity-ref entity-type="act" value="Rail Safety Improvement Act of 2008/s:206/ss:c">this section</cato:entity-ref>
+                </cato:property> <cato:funds-and-year amount="1500000" year="2015, 2016, 2017, 2018, 2019, 2020">$1,500,000 for each of fiscal years 2015 through 2020</cato:funds-and-year>.</cato:entity>
+            </text>
+          </subsection>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+    </section>
+    <section id="id245EC95D2C024BAC9301EC3052182D6E">
+      <enum>19.</enum>
+      <header>Enforcement</header>
+      <subsection id="id45ACD0E54FD44D2BACBBF84E6EF3440F">
+        <enum>(a)</enum>
+        <header>Safety sensitive violations</header>
+        <text>Not later than 180 days after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref>
+			 shall issue a statement of agency policy—</text>
+        <paragraph id="id92DE3B237A794832B0D99BFA4C570363">
+          <enum>(1)</enum>
+          <text>defining the term <term>safety sensitive violation</term>
+					for purposes of the amendments under subsection (c); and</text>
+        </paragraph>
+        <paragraph id="idF78A079F84A34C5887BA097972007EF6">
+          <enum>(2)</enum>
+          <text>identifying in the penalty schedules those violations under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/201">chapter 201</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/203..209">chapters 203 through 209</cato:entity-ref>,
+			 and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/211">
+              <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/211">
+              chapter 211</external-xref> of title 49, United States Code</cato:entity-ref>, that meet the definition
+			 under paragraph (1) of this subsection.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="idA96FBE68194B4645B388014B64BDD910">
+        <enum>(b)</enum>
+        <header>Notice and comment</header>
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref> may subject the statement of agency policy under subsection (a) to
+			 notice and comment, as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> considers appropriate.</text>
+      </subsection>
+      <subsection id="id9CB9FD1861254A009FE4EF3385E93C76">
+        <enum>(c)</enum>
+        <header>Civil penalties increases</header>
+        <paragraph id="idB66CDC9F182B4349A8CE46BB73F71166">
+          <enum>(1)</enum>
+          <header>Chapter 201 general violations</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/21301/a">Section 21301(a)</cato:entity-ref> is amended—</text>
+          <subparagraph id="id11A9812754564CF5ADCBC37815072CB0">
+            <enum>(A)</enum>
+            <text>by inserting <quote>, except that if the violation is a safety
+			 sensitive violation the amount of the penalty shall be at least $13,000</quote> after <quote>$25,000</quote>;</text>
+          </subparagraph>
+          <subparagraph id="id632F3D4D786849D4BE746C608C736995">
+            <enum>(B)</enum>
+            <text>by striking <quote>$25,000</quote> and inserting <quote>$500,000</quote>;</text>
+          </subparagraph>
+          <subparagraph id="id3EF18FE776B04F5DA284D3488A05DE29">
+            <enum>(C)</enum>
+            <text>by striking <quote>the amount may be not more than $100,000</quote> and inserting <quote>the amount shall be at least $1,000,000</quote>; and</text>
+          </subparagraph>
+          <subparagraph id="id0DA364E5C6AF4179B15CABDD8FE0981B">
+            <enum>(D)</enum>
+            <text>in paragraph (3), by inserting <quote>, or
+			 $13,000 if the violation is a safety sensitive violation,</quote> after <quote>$500</quote>.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="id8E9CD32A7C3D4E6A898A4420536B7352">
+          <enum>(2)</enum>
+          <header>Chapter 201
+			 accident and incident violations; chapters 203 through 209 violations</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/21302/a/2">Section 21302(a)(2)</cato:entity-ref> is amended—</text>
+          <subparagraph id="id45B0BFDABE004ECF974380FA703FAFD1">
+            <enum>(A)</enum>
+            <text>by inserting <quote>, except that if the violation
+			 is a safety sensitive violation the amount of the penalty shall be at
+			 least $13,000</quote> after “$25,000”;</text>
+          </subparagraph>
+          <subparagraph id="id91CF49FD57524CBD8B2AFB936EF4D829">
+            <enum>(B)</enum>
+            <text>by striking <quote>$25,000</quote> and inserting <quote>$500,000</quote>; and</text>
+          </subparagraph>
+          <subparagraph id="id7A897EF4266A425CB07B066417F37C60">
+            <enum>(C)</enum>
+            <text>by striking <quote>the amount may be not more than $100,000</quote> and inserting <quote>the amount shall be at least $1,000,000</quote>.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="idACBF057A00D94A9EB81428C97557FD0E">
+          <enum>(3)</enum>
+          <header>Chapter 211 violations</header>
+          <text>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/21303/a/2">Section 21303(a)(2)</cato:entity-ref> is amended—</text>
+          <subparagraph id="id37FE4B4BEDF54E51814488805F74B4E2">
+            <enum>(A)</enum>
+            <text>by inserting <quote>, except that if
+			 the violation is a safety sensitive violation the amount of the penalty
+			 shall be at least $13,000</quote> after <quote>$25,000</quote>;</text>
+          </subparagraph>
+          <subparagraph id="idE4D0245BE64749DD94BB8ABD144DA1CB">
+            <enum>(B)</enum>
+            <text>by striking <quote>$25,000</quote> and inserting <quote>$500,000</quote>; and</text>
+          </subparagraph>
+          <subparagraph id="idE329DF0E17AE43469F7113DB0E16485C">
+            <enum>(C)</enum>
+            <text>by striking <quote>the amount may be not more than $100,000</quote> and inserting <quote>the amount shall be at least $1,000,000</quote>.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph id="id431D5476F41E4D0987ED5C5F06AFDE9B">
+          <enum>(4)</enum>
+          <header>Inflation adjustments; statements of agency policy</header>
+          <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref> shall issue a statement of agency policy adjusting the penalty
+			 schedules for violations of <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/201">chapter 201</cato:entity-ref>, <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/203..209">chapters 203 through 209</cato:entity-ref>, and
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/211">
+              <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/49/211">
+              chapter 211</external-xref> of title 49, United States Code</cato:entity-ref>, as necessary to account for
+			 inflation, each time the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> is required by law to review the
+			 minimum and maximum civil monetary penalty for inflation under
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Civil Penalties Inflation Adjustment Act of 1990">Federal Civil Penalties Inflation Adjustment Act of 1990</cato:entity-ref>.	The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> may subject the statement of agency policy to notice and
+			 comment, as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> considers appropriate.</text>
+        </paragraph>
+      </subsection>
+      <subsection commented="no" id="idD95040840121464391D9CC77CB755EAB">
+        <enum>(d)</enum>
+        <header>Enforcement report</header>
+        <text display-inline="yes-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20120/a/2">Section 20120(a)(2)</cato:entity-ref> is amended by inserting after <quote>prior fiscal year,</quote> the following:
+<quote>for both ordinary and safety-sensitive violations,</quote>.</text>
+      </subsection>
+      <subsection commented="no" id="id26732AD8423E45CC98953BD72CEDCFFC">
+        <enum>(e)</enum>
+        <header>Effective date</header>
+        <text>The amendments under subparagraphs (A) and (D) of subsection (c)(1), under subsection (c)(2)(A),
+			 and under  subsection (c)(3)(A) shall take effect on the date that is 180
+			 days after the date
+			 that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Secretary of Transportation</cato:entity-ref> defines the term <term>safety sensitive violation</term> under subsection (a).</text>
+      </subsection>
+    </section>
+    <section id="id47333C4C113046F19F9968873D814DD7">
+      <enum>20.</enum>
+      <header>Confidential close call reporting systems</header>
+      <subsection id="id39EC4D5B3E034F2F8188D509B2F2AC70">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/201/II">Subchapter II of chapter 201</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Rail Safety Improvement Act of 2014/s:10" proposed="true">section 10</cato:entity-ref>, is further amended by adding at the end the
+			 following:</text>
+        <quoted-block display-inline="no-display-inline" id="id88A72C99D5454523B95829AE499D5F0B" style="USC">
+          <section id="idAD505FC9433F4DF29161634CF7BB8E51">
+            <enum>20173.</enum>
+            <header>Confidential close call reporting systems</header>
+            <subsection id="id12BD87E799914EEC999D9230DF4C5E8B">
+              <enum>(a)</enum>
+              <header>In general</header>
+              <text display-inline="yes-display-inline">Not later than 2 years after the date of enactment of the <short-title>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Rail Safety Improvement Act of 2014" proposed="true">Rail Safety Improvement Act of 2014</cato:entity-ref>
+                </short-title>, each
+			 applicable railroad carrier shall establish a confidential close call
+			 reporting system.</text>
+            </subsection>
+            <subsection id="id616C7E4C4048434DB1023F15B2A3BEA3">
+              <enum>(b)</enum>
+              <header>Regulations</header>
+              <text display-inline="yes-display-inline">Not later than 1 year after the <short-title>
+                  <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Rail Safety Improvement Act of 2014" proposed="true">Rail Safety Improvement Act of 2014</cato:entity-ref>
+                </short-title>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref>
+			 shall promulgate regulations setting forth the requirements for an
+			 applicable railroad carrier to follow in establishing a confidential close
+			 call reporting
+			 system program.  The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> may use any
+			 information and experience gathered through research and pilot programs on
+			 confidential close call reporting systems in developing the regulations,
+			 including continuing the use of third parties for the
+			 collection of close call reports and distribution of close call data.	The
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall ensure that an applicable railroad carrier's employees
+			 receive protection under
+			 its program from any related <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6930" entity-type="federal-body">Federal Railroad Administration</cato:entity-ref> enforcement
+			 actions.</text>
+            </subsection>
+            <subsection id="idD168DC3B74EF457A922490E1A4155152">
+              <enum>(c)</enum>
+              <header>Program development and oversight</header>
+              <paragraph id="id3B0F278DFDA54E5399C52BCD7840D7EB">
+                <enum>(1)</enum>
+                <header>In general</header>
+                <text display-inline="yes-display-inline">Not later than 180 days after  the date of the final regulations under subsection (b), an
+			 applicable railroad carrier shall develop a proposed program and submit it
+			 to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> for
+			 review and approval.</text>
+              </paragraph>
+              <paragraph id="id622ED26C451148D3A8FCE230CFBB3A0C">
+                <enum>(2)</enum>
+                <header>Contents</header>
+                <text display-inline="yes-display-inline">A railroad carrier shall describe its proposed program’s core
+			 principles and values, explain the rights, roles, and responsibilities of
+			 program stakeholders, identify concerns and interests, and describe how
+			 the program will operate.</text>
+              </paragraph>
+              <paragraph id="id757AB587B4B44CCD83821B92B632DCC8">
+                <enum>(3)</enum>
+                <header>Review</header>
+                <subparagraph id="id9354EA2EE43F47BA98888858B69E462C">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+                  <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall review and approve or
+			 disapprove each proposed program within a reasonable amount of time.	If
+			 a proposed
+			 program is not approved, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall notify the applicable
+			 railroad
+			 carrier in writing as to the specific areas in which the proposed program
+			 is deficient.	The applicable railroad carrier shall correct all
+			 deficiencies
+			 within a reasonable period of time following receipt of written notice
+			 from the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref>.</text>
+                </subparagraph>
+                <subparagraph id="idCCDC577ED6654B5F94DB62390F3BC150">
+                  <enum>(B)</enum>
+                  <header>Updates</header>
+                  <text display-inline="yes-display-inline">An applicable railroad carrier shall update its
+			 program as needed and obtain the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary’s</cato:entity-ref> approval prior to making any
+			 major changes to its program.</text>
+                </subparagraph>
+                <subparagraph id="id2F3946B6C1764AFBB2952518B29DBDA5">
+                  <enum>(C)</enum>
+                  <header>Annual reviews</header>
+                  <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall conduct an annual
+			 review to ensure that each applicable railroad carrier is in compliance
+			 with its
+			 program.</text>
+                </subparagraph>
+              </paragraph>
+            </subsection>
+            <subsection id="idCF6E5A88BE0343F6920B6BAEB999B6E2">
+              <enum>(d)</enum>
+              <header>Program elements</header>
+              <text display-inline="yes-display-inline">Each applicable railroad carrier shall—</text>
+              <paragraph id="idC32EE92ACD2544ADB558385E5140F4CD">
+                <enum>(1)</enum>
+                <text display-inline="yes-display-inline">provide a safe environment for its employees to report unsafe events and conditions;</text>
+              </paragraph>
+              <paragraph id="id9325AA79B1FA46479E3F0FD9BAFFF3B0">
+                <enum>(2)</enum>
+                <text display-inline="yes-display-inline">for unsafe events and conditions reported within the scope of a
+			 confidential close call reporting system, ensure its employees are
+			 protected from
+			 railroad carrier discipline;</text>
+              </paragraph>
+              <paragraph id="id970D4247B97F42C3939714C62F7B2F2C">
+                <enum>(3)</enum>
+                <text display-inline="yes-display-inline">use information collected through the confidential close call reporting system to develop and
+			 implement targeted corrective actions, as appropriate; and</text>
+              </paragraph>
+              <paragraph id="idB7DEC4F45D5146D1AF3EA241B9B4E3A4">
+                <enum>(4)</enum>
+                <text display-inline="yes-display-inline">use information collected by the programs to supplement
+			 inspection data in identifying safety issues and emerging risks before
+			 they develop into accidents.</text>
+              </paragraph>
+            </subsection>
+            <subsection id="id1E3B4CD69A954D629274F2BFA70A13C8">
+              <enum>(e)</enum>
+              <header>Consensus</header>
+              <paragraph id="id4F26FC5B7E9244D8AA7DBE157D6FC495">
+                <enum>(1)</enum>
+                <header>In general</header>
+                <text display-inline="yes-display-inline">Each applicable railroad carrier shall consult with, employ good faith with, and use
+			 its best
+			 efforts to reach agreement with all of its directly affected employees,
+			 including any nonprofit employee labor organization representing a class
+			 or craft of directly affected employees of the applicable railroad
+			 carrier, on the
+			 development and implementation of the proposed program.</text>
+              </paragraph>
+              <paragraph id="idB4062C9850974BDB8AA6FA85C5195F68">
+                <enum>(2)</enum>
+                <header>Statements</header>
+                <text display-inline="yes-display-inline">If an applicable railroad carrier and its directly affected employees, including any nonprofit
+			 employee labor
+			 organization representing a class or craft of directly affected employees
+			 of the applicable railroad carrier, cannot reach consensus on the
+			 development and implementation of
+			 the proposed program, then directly affected employees and such
+			 organization may
+			 file a statement with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> explaining their views on the proposed
+			 program
+			 on which consensus was not reached.  The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> shall consider such
+			 views during review of the proposed program under subsection (c)(3)(A).</text>
+              </paragraph>
+            </subsection>
+            <subsection id="id1BABD9FDE9724870877A624C856F622D">
+              <enum>(f)</enum>
+              <header>Voluntary program establishment</header>
+              <text display-inline="yes-display-inline">Any railroad carrier that is not an
+			 applicable railroad carrier may voluntarily establish a program under this
+			 section.  This section, and any regulations promulgated under this
+			 section, shall apply to a program that is voluntarily established.</text>
+            </subsection>
+            <subsection id="id513A62448F094D1F9C8F6082930534F4">
+              <enum>(g)</enum>
+              <header>Use of data</header>
+              <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> may use the confidential close call reporting data—</text>
+              <paragraph id="id2890670A52AC4C8EB0B912B7D048EBFC">
+                <enum>(1)</enum>
+                <text display-inline="yes-display-inline">when implementing or updating
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6930" entity-type="federal-body">Federal Railroad Administration's</cato:entity-ref> National Inspection Plan;</text>
+              </paragraph>
+              <paragraph id="id2BBEF9E8DA1D437287D0DB460D8170A7">
+                <enum>(2)</enum>
+                <text display-inline="yes-display-inline">when performing focused inspections; or</text>
+              </paragraph>
+              <paragraph id="idE260880127674F7F839AE78784182761">
+                <enum>(3)</enum>
+                <text display-inline="yes-display-inline">when developing agency rulemakings and guidance, as appropriate.</text>
+              </paragraph>
+            </subsection>
+            <subsection id="id74F1D028533646E7BA75DE28758A83A5">
+              <enum>(h)</enum>
+              <header>Definition of applicable railroad carrier</header>
+              <text>In this section, the term <term>applicable railroad carrier</term> means—</text>
+              <paragraph id="id779841CB77A44BC6BDF93934670E6D8D">
+                <enum>(1)</enum>
+                <text>a railroad carrier that is a Class I railroad;</text>
+              </paragraph>
+              <paragraph id="id0D6C25CDAA3343B0896E7AA00DB35D85">
+                <enum>(2)</enum>
+                <text>a railroad carrier that has
+			 inadequate safety performance, as determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref>; or</text>
+              </paragraph>
+              <paragraph id="id9F9EB3330D424BA8AEA69841429AF4C5">
+                <enum>(3)</enum>
+                <text>a
+			 railroad carrier that provides intercity rail passenger or commuter rail
+			 passenger transportation.</text>
+              </paragraph>
+            </subsection>
+            <subsection id="id0FF4F9C372F744FDB4390C93C33CFB75">
+              <enum>(i)</enum>
+              <header>Authorization of appropriations</header>
+              <text display-inline="yes-display-inline">
+                <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be appropriated to the <cato:entity-ref entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref> <cato:funds-and-year amount="indefinite">such sums as may be necessary</cato:funds-and-year> <cato:property name="purpose">to implement
+			 <cato:entity-ref entity-type="uscode" value="usc/49/20173" proposed="true">this section</cato:entity-ref> and support the nationwide implementation, as the <cato:entity-ref entity-type="federal-body" entity-id="6900">Secretary</cato:entity-ref>
+			 determines appropriate, of confidential close call reporting
+			 system programs</cato:property>.</cato:entity>
+              </text>
+            </subsection>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+      <subsection id="idD36C82EEE0E24471B020435467C2C0A8">
+        <enum>(b)</enum>
+        <header>Conforming amendment</header>
+        <text>The table of contents for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/201/II">subchapter II of chapter 201</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Rail Safety Improvement Act of 2014/s:10" proposed="true">section 10</cato:entity-ref> of this Act, is
+			 further amended by adding at the end the following:</text>
+        <quoted-block display-inline="no-display-inline" id="idF753C343D5564BCC9EA309CED57A5BC6" style="OLC">
+          <toc>
+            <toc-entry bold="off" level="section">20173. Confidential close call reporting systems.</toc-entry>
+          </toc>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+    </section>
+    <section id="idE7DCE0EA098E462F80E3D186C188259F">
+      <enum>21.</enum>
+      <header>Freight train crew size</header>
+      <subsection id="idB52341F04A8844ED8BC3B84650EDF1CC">
+        <enum>(a)</enum>
+        <header>In general</header>
+        <text>
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/201/II">Subchapter II of chapter 201</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Rail Safety Improvement Act of 2014/s:20" proposed="true">section 20</cato:entity-ref> of this Act, is further amended by adding at
+			 the end the
+			 following:</text>
+        <quoted-block display-inline="no-display-inline" id="idFE559020190B4C2D9E5F79D8B4CBE4FA" style="USC">
+          <section id="idF1F21848D70549F7B6F6DF9BB7E294CE">
+            <enum>20174.</enum>
+            <header>Freight train crew size</header>
+            <subsection id="id6B6676594F044DA5B5656DE90B3A6924">
+              <enum>(a)</enum>
+              <header>In general</header>
+              <text display-inline="yes-display-inline">No freight train or light engine used in connection with the movement of freight may be operated
+			 unless it has a crew of at least 2 individuals of which—</text>
+              <paragraph id="idEC4364098E344D149ED696C05AA7F8CF">
+                <enum>(1)</enum>
+                <text>1 individual is certified as a locomotive operator under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20135">section 20135</cato:entity-ref>; and</text>
+              </paragraph>
+              <paragraph id="idE1B8AC0B3C054A25AE95A5858602846E">
+                <enum>(2)</enum>
+                <text>1 individual is certified as a train conductor under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/49/20163">section 20163</cato:entity-ref>.</text>
+              </paragraph>
+            </subsection>
+            <subsection id="id74EFA41D3B03464286A14CA407EB00D4">
+              <enum>(b)</enum>
+              <header>Definition of light engine</header>
+              <text>In this section, the term <term>light engine</term> means a locomotive operating without cars attached or with caboose only.</text>
+            </subsection>
+          </section>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+      <subsection id="id7A8AAC1583AD4882928A734BE398F7D2">
+        <enum>(b)</enum>
+        <header>Conforming amendment</header>
+        <text>The table of contents for <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc-chapter/49/201/II">subchapter II of chapter 201</cato:entity-ref>, as amended by <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Rail Safety Improvement Act of 2014/s:20" proposed="true">section 20</cato:entity-ref> of this Act, is
+			 further amended by adding at the end  the following:</text>
+        <quoted-block display-inline="no-display-inline" id="idD89383B481A84E7792EAA2E96EB47C39" style="OLC">
+          <toc>
+            <toc-entry bold="off" level="section">20174. Freight train crew size.</toc-entry>
+          </toc>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </subsection>
+      <subsection id="idC267999352564C01A21A9BC0DAB111E9">
+        <enum>(c)</enum>
+        <header>Effective date</header>
+        <text>The amendments made by subsections (a) and (b) of this section shall take effect on the date that
+			 is 30 days after the date of enactment of the <short-title>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Rail Safety Improvement Act of 2014" proposed="true">Rail Safety Improvement Act of 2014</cato:entity-ref>
+          </short-title>.</text>
+      </subsection>
+    </section>
+  </legis-body>
+</bill>
+</doc>

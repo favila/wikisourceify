@@ -1,0 +1,2457 @@
+<doc>
+  <docmeta id="113s2872is">
+    <bill congress="113" type="s" number="2872" version="is"/>
+    <revision size="90177" annotations="0" status="complete" id="7" commit-time="2014-10-10T20:28:43Z" committer="mbohmer" doc="113s2872is/7.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public">
+	<metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S2872 IS: Promoting Healthy Minds for Safer Communities Act of 2014</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/">2014-09-18</dc:date>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+		<distribution-code display="yes">II</distribution-code>
+		<congress>113th CONGRESS</congress>
+    <session>2d Session</session>
+		<legis-num>S. 2872</legis-num>
+		<current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+		<action>
+			<action-date date="20140918">September 18, 2014</action-date>
+			<action-desc>
+        <sponsor name-id="S341">Mr. Blumenthal</sponsor> introduced the following bill; which was read twice and referred to the <committee-name committee-id="SSJU00">Committee on the Judiciary</committee-name>
+      </action-desc>
+		</action>
+		<legis-type>A BILL</legis-type>
+		<official-title>To protect individuals by strengthening the Nation's mental health infrastructure, improving the
+			 understanding of violence, strengthening firearm prohibitions and
+			 protections for at-risk individuals, and improving and expanding the
+			 reporting of mental health records to the National Instant Criminal
+			 Background Check System.</official-title>
+	</form>
+	<legis-body>
+		<section id="S1" section-type="section-one">
+      <enum>1.</enum>
+      <header>Short title</header>
+			<text display-inline="no-display-inline">This Act may be cited as the
+		  <quote>
+          <short-title>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Promoting Healthy Minds for Safer Communities Act of 2014" proposed="true">Promoting Healthy Minds for Safer Communities Act of 2014</cato:entity-ref>
+          </short-title>
+        </quote>.</text>
+    </section>
+    <section id="H9D770A07ACFA40BAB6EFA359BCD2CD92">
+      <enum>2.</enum>
+      <header>Table of contents</header>
+      <text display-inline="no-display-inline">The table of contents of this Act is as follows:</text>
+      <toc>
+        <toc-entry idref="S1" level="section">Sec. 1. Short title.</toc-entry>
+				<toc-entry idref="H9D770A07ACFA40BAB6EFA359BCD2CD92" level="section">Sec. 2. Table of contents.</toc-entry>
+				<toc-entry idref="HBC3C36144CC146ADA6C641FA3A290EF3" level="title">TITLE I—Strengthening and improving intervention efforts</toc-entry>
+				<toc-entry idref="id2C09D9274F9545BB807E9333932FDF38" level="section">Sec. 101. Mental health crisis assessment, prevention, and education grant program.</toc-entry>
+				<toc-entry idref="idAF10FB3FB58B431686611F0066C4F3A2" level="section">Sec. 102. School-based mental health programs.</toc-entry>
+				<toc-entry idref="H820701DCD0284AF481FBDE96EBC12560" level="section">Sec. 103. Justice and mental health collaboration.</toc-entry>
+				<toc-entry idref="HB2F7B9C16F69477F8F8589460D5438C3" level="title">TITLE II—Improving mental health research</toc-entry>
+				<toc-entry idref="HD78B26F10D8642A081B7CF4796AC1780" level="section">Sec. 201. Research with respect to violence.</toc-entry>
+				<toc-entry idref="HEB8B5FFA45BA467B9F1B2303B807FA2D" level="title">TITLE III—Understanding the epidemic of gun violence</toc-entry>
+				<toc-entry idref="H02A68CE9C59E4C1CBAAD046D92C0DB28" level="section">Sec. 301. National violent death reporting system.</toc-entry>
+				<toc-entry idref="H87EF1A8D22AD4DA087E15D84B7C519DB" level="section">Sec. 302. Reaffirming Centers for Disease Control’s authority.</toc-entry>
+				<toc-entry idref="H8F3FE3F63B8B4F9A84D3D8AA00731D26" level="section">Sec. 303. Protecting confidential doctor-patient relationship.</toc-entry>
+				<toc-entry idref="H0EFF09C7EA324A239849042B32A7AE8F" level="title">TITLE IV—Mental health and access to firearms</toc-entry>
+				<toc-entry idref="H14583D2BA5774EF79A8D0348D097F06F" level="section">Sec. 401. Ban on firearm possession by person committed involuntarily to mental institution on an
+			 outpatient basis.</toc-entry>
+				<toc-entry idref="H2A03349A8E50427AA5ABD50A7422079B" level="section">Sec. 402. Grant program regarding firearms.</toc-entry>
+				<toc-entry idref="HC40AC1DE1FE944C6974E489ADD4B04B8" level="section">Sec. 403. Notification of State and local law enforcement authorities of attempt to purchase
+			 firearm by ineligible person.</toc-entry>
+				<toc-entry idref="HD1D56795A3C8453B822DF1BEBCC9A0AB" level="title">TITLE V—Restoration</toc-entry>
+				<toc-entry idref="H03B826D57C034B52B860CD78AE15EB56" level="section">Sec. 501. Federal agency relief program.</toc-entry>
+				<toc-entry idref="HC5A6DFDDC70B485D817B66BAEDDB2928" level="section">Sec. 502. State relief programs.</toc-entry>
+				<toc-entry idref="H91DFA702C3F74A18847F175B3233D860" level="section">Sec. 503. General Federal relief.</toc-entry>
+				<toc-entry idref="H543662D4AB9346BE895D7B28121A2C98" level="title">TITLE VI—Submission of Mental Health Records to National Instant Criminal Background Check System</toc-entry>
+				<toc-entry idref="H3BBDA8556974461CAF71A12B982B934F" level="section">Sec. 601. Reports relating to submission of information to NICS.</toc-entry>
+				<toc-entry idref="HC7F9FEE616F54D8182D8F4326A95EC60" level="section">Sec. 602. Reauthorization of the National Criminal History Records Improvement Program.</toc-entry>
+				<toc-entry idref="H4D7F03FC0DE1404485ACD5A79BA353C1" level="section">Sec. 603. Improvement of metrics and incentives.</toc-entry>
+				<toc-entry idref="H84AEC624998D42D5B3E7C2BF2D818F2B" level="section">Sec. 604. Grants to States to improve coordination and automation of NICS record reporting.</toc-entry>
+				<toc-entry idref="HDA0D070C61FA431ABB3158EB60DE73D0" level="section">Sec. 605. Sharing of records by Federal departments and agencies with NICS.</toc-entry>
+				<toc-entry idref="HA458AC6B2FA94BB399BF884AC8F0DA20" level="section">Sec. 606. Rulemaking to permit submission of mental health records to the National Instant Criminal
+			 Background Check System pursuant to the Health Insurance Portability and
+			 Accountability Act.</toc-entry>
+			</toc>
+		</section>
+    <title commented="no" id="HBC3C36144CC146ADA6C641FA3A290EF3" level-type="subsequent">
+      <enum>I</enum>
+      <header>Strengthening and improving intervention efforts</header>
+      <section id="id2C09D9274F9545BB807E9333932FDF38">
+        <enum>101.</enum>
+        <header>Mental health crisis assessment, prevention, and education grant program</header>
+				<subsection id="idB45F73EEC139433F90A1D693C0DD7438">
+          <enum>(a)</enum>
+          <header>Definitions</header>
+          <text>In this section:</text>
+					<paragraph id="idA085272461CC4609B221BE718BE8BF1D">
+            <enum>(1)</enum>
+            <header>Eligible entity</header>
+            <text display-inline="yes-display-inline">The term <term>eligible entity</term> means a State, political subdivision of a State, or nonprofit private entity.</text>
+					</paragraph>
+          <paragraph id="id0AB21C072B9B4969856F1F749C60C6C0">
+            <enum>(2)</enum>
+            <header>Secretary</header>
+            <text>The term <term>Secretary</term> means the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7500" entity-type="federal-body">Secretary of Health and Human Services</cato:entity-ref>.</text>
+					</paragraph>
+          <paragraph id="idBC04426EDD574512A213F92ED8BFAA85">
+            <enum>(3)</enum>
+            <header>State</header>
+            <text display-inline="yes-display-inline">The term <term>State</term> means each State of the United States, the District of Columbia, each commonwealth, territory, or
+			 possession of the United States, and each federally recognized Indian
+			 tribe.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="id972BDB8368984A75A367A65195F4616C">
+          <enum>(b)</enum>
+          <header>Establishment of Grant Program</header>
+					<paragraph id="id907618F499F04B10AD4072A524356AA6">
+            <enum>(1)</enum>
+            <header>Establishment</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall establish a program to award grants to eligible entities to carry out the
+			 activities described in paragraph (2).</text>
+					</paragraph>
+          <paragraph id="idDD895433FB844E91A84AD740737A900A">
+            <enum>(2)</enum>
+            <header>Use of Funds</header>
+						<subparagraph id="id1DA70DC44CB6420DA77BD7D6A96FEA9F">
+              <enum>(A)</enum>
+              <header>In General</header>
+              <text display-inline="yes-display-inline">Grants awarded under this section may be used to carry out programs that—</text>
+							<clause id="id7511C5C069104ECA8CB74D9292D7492F">
+                <enum>(i)</enum>
+                <text display-inline="yes-display-inline">expand early intervention and treatment services to improve access to mental health crisis
+			 assistance
+			 and address unmet mental health care needs;</text>
+							</clause>
+              <clause id="id86782E4C19DA470BB8E38407D520A166">
+                <enum>(ii)</enum>
+                <text display-inline="yes-display-inline">expand the continuum of services to address crisis intervention and crisis stabilization;</text>
+							</clause>
+              <clause id="idD22725461615484DB046735348FAE8DA">
+                <enum>(iii)</enum>
+                <text display-inline="yes-display-inline">reduce recidivism due to mental health crises and mitigate unnecessary expenditures by local law
+			 enforcement; and</text>
+							</clause>
+              <clause id="id42DC1CD04B4E44898DE17DB2BFA84380">
+                <enum>(iv)</enum>
+                <text>reduce unnecessary hospitalizations by appropriately utilizing community-based services and
+			 improving access to timely mental health crisis assistance.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="id3E5057962DE14680BC970903A9B81B04">
+              <enum>(B)</enum>
+              <header>Authorized Activities</header>
+              <text display-inline="yes-display-inline">The programs described in subparagraph (A) may include any or all of the following activities:</text>
+							<clause id="id930E4C9800724722A148E22535F48E73">
+                <enum>(i)</enum>
+                <text display-inline="yes-display-inline">Mental health crisis intervention and response training for law enforcement (to increase officers’
+			 understanding and recognition of mental illnesses).</text>
+							</clause>
+              <clause id="id79778EDC74104569B5FA57821BAEE358">
+                <enum>(ii)</enum>
+                <text display-inline="yes-display-inline">Mobile support that provides field-based behavioral health assistance to law enforcement and
+			 members of the community and links individuals in crisis to appropriate
+			 services.</text>
+							</clause>
+              <clause id="id44C9AF81110340B8A8C52F1BB2D4DE03">
+                <enum>(iii)</enum>
+                <text display-inline="yes-display-inline">School- and community-based early intervention and prevention programs that provide mobile
+			 response,
+			 screening and assessment, training and education, and peer-based and
+			 family services.</text>
+							</clause>
+            </subparagraph>
+          </paragraph>
+          <paragraph id="id527B19F15CA349229EA7CCA0D79FD290">
+            <enum>(3)</enum>
+            <header>Application</header>
+            <text display-inline="yes-display-inline">To be considered for a grant under this section, an eligible entity shall submit an application to
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> at such time, in such manner, and containing such
+			 information as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> may require. At minimum, such application
+			 shall include a description of—</text>
+						<subparagraph id="idEF504D1B388C4CF28CB395E56ED890C1">
+              <enum>(A)</enum>
+              <text>the activities to be funded with the grant;</text>
+						</subparagraph>
+            <subparagraph id="id9F053FDBEC964531A7B280A703A9E900">
+              <enum>(B)</enum>
+              <text>community needs;</text>
+						</subparagraph>
+            <subparagraph id="id083ADBE212C84B6B914D52F253ADA895">
+              <enum>(C)</enum>
+              <text>the population to be served; and</text>
+						</subparagraph>
+            <subparagraph id="idAF785F5E7FD445F89BF12DDE2F6B72D0">
+              <enum>(D)</enum>
+              <text>the interaction between the activities described in subparagraph (A) and public systems of health
+			 and mental health care, law enforcement, social services, and related
+			 assistance programs.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="idA1C4F26221344788879D4EA3CA89AD78">
+            <enum>(4)</enum>
+            <header>Selecting among applicants</header>
+						<subparagraph id="id366F0F1462D04E66ACCAF3D8F88FB94A">
+              <enum>(A)</enum>
+              <header>In General</header>
+              <text>Grants shall be awarded to eligible entities on a competitive basis.</text>
+						</subparagraph>
+            <subparagraph id="idA5C7C6C9956F480DBFD0DA219082DAA2">
+              <enum>(B)</enum>
+              <header>Selection criteria</header>
+              <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall evaluate applicants based on such criteria as the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> determines to be
+			 appropriate, including the ability of an applicant to carry out the
+			 activities described in paragraph (2).</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="id20EE64CB0AE34D65B56E2CBBD9CB13AA">
+            <enum>(5)</enum>
+            <header>Reports</header>
+						<subparagraph id="idFDD793A0DC794B10A77DA4E97A4B55DD">
+              <enum>(A)</enum>
+              <header>Annual Reports</header>
+							<clause id="idB217040E4E58401A9BE186A4B92E6BC5">
+                <enum>(i)</enum>
+                <header>Eligible Entities</header>
+                <text>As a condition of receiving a grant under this section, an eligible entity shall agree to submit a
+			 report to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>, on an annual basis, describing the activities
+			 carried out with the grant and assessing the effectiveness of such
+			 activities.</text>
+							</clause>
+              <clause id="idB5F4607494194A3CB4E3A0FC4839149C">
+                <enum>(ii)</enum>
+                <header>Secretary</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall, on an annual basis, and using the reports received under clause (i), report to
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> on the overall impact and effectiveness of the grant program
+			 under this section.</text>
+							</clause>
+            </subparagraph>
+            <subparagraph id="id46C5E1767D174F679A0DA40B236C74C9">
+              <enum>(B)</enum>
+              <header>Final Report</header>
+              <text display-inline="yes-display-inline">Not later than January 15, 2019, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall submit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a final report that
+			 includes recommendations with respect to the feasibility and advisability
+			 of extending or expanding the grant program.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="idA2AE95F0E1DD4668A2E42CFBCB3CAAD9">
+            <enum>(6)</enum>
+            <header>Collection of Data</header>
+						<subparagraph id="id780B19FFE02B49ADBF187681AED8B369">
+              <enum>(A)</enum>
+              <header>In General</header>
+              <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall collect data on the grant program to determine its effectiveness in reducing
+			 the social impact of mental health crises and the feasibility and
+			 advisability of extending the grant program.</text>
+						</subparagraph>
+            <subparagraph id="idFC772D0C83774661BBF3B7D58868B2C1">
+              <enum>(B)</enum>
+              <header>Manner of Collection</header>
+              <text display-inline="yes-display-inline">Data described in subparagraph (A) shall be collected and analyzed using a scientific peer-reviewed
+			 system and valid and reliable results-based research methodologies.</text>
+						</subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection id="id98CC0ED137484F53BAF42D5869922008">
+          <enum>(c)</enum>
+          <header>Funding</header>
+					<paragraph id="idBDF98F150308420F844416275854912A">
+            <enum>(1)</enum>
+            <header>Grant Amount</header>
+            <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall determine the amount of each grant awarded under this section in an amount that
+			 is not more than $100,000 for each of fiscal
+			 years 2015 through 2019.</text>
+					</paragraph>
+          <paragraph id="idDBBE047546784ACCBF6E6754EB5267AB">
+            <enum>(2)</enum>
+            <header>Authorization of Appropriations</header>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be appropriated <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Promoting Healthy Minds for Safer Communities Act of 2014/s:101" proposed="true">this section</cato:entity-ref>
+                </cato:property> <cato:funds-and-year amount="10000000" year="2015, 2016, 2017, 2018, 2019">$10,000,000 for each of fiscal
+			 years 2015 through 2019</cato:funds-and-year>.</cato:entity>
+            </text>
+					</paragraph>
+        </subsection>
+      </section>
+      <section id="idAF10FB3FB58B431686611F0066C4F3A2">
+        <enum>102.</enum>
+        <header>School-based mental health programs</header>
+				<subsection id="id46D9F8CBC5864485A272607E5F94B708">
+          <enum>(a)</enum>
+          <header>Technical amendments</header>
+          <text>The <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Public Health Service Act/t:V/pt:G">
+                second part G (relating to services provided through religious organizations) of title V of the
+			 Public Health Service Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/290kk">
+              <cato:entity-ref entity-type="uscode" value="usc/42/290kk/etseq">42 U.S.C. 290kk et seq.</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended—</text>
+					<paragraph id="idE03A1FF42EC948FBA0F4592295342306">
+            <enum>(1)</enum>
+            <text>by redesignating such part as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Health Service Act/t:V/pt:J">part J</cato:entity-ref>; and</text>
+					</paragraph>
+          <paragraph id="id4CC72B851E534632875A52B771A9CC2C">
+            <enum>(2)</enum>
+            <text>by redesignating <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Health Service Act/s:581..584">sections 581 through 584</cato:entity-ref> of such part as <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Public Health Service Act/s:596..596C" proposed="true">sections 596 through 596C</cato:entity-ref>, respectively.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="idBE41EE048B4442A7A147DF4FDFB79D03">
+          <enum>(b)</enum>
+          <header>School-Based mental health and children and violence</header>
+          <text>
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Public Health Service Act/s:581">Section 581 of the Public Health Service Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/290hh">
+              <cato:entity-ref entity-type="uscode" value="usc/42/290hh">42 U.S.C. 290hh</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended to read as follows:</text>
+					<quoted-block display-inline="no-display-inline" id="idA3481CD786684600B51382C4D0E1EA1B" style="OLC">
+						<section id="id71F3D9252C8445308CB0F83748A4F052">
+              <enum>581.</enum>
+              <header>School-based mental health and children and violence</header>
+							<subsection id="id465A3CC33B8C4F8382F83DF762AA87DD">
+                <enum>(a)</enum>
+                <header>In general</header>
+                <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>, in collaboration with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9100" entity-type="federal-body">Secretary of Education</cato:entity-ref> and in consultation with the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref>, shall, directly or through grants, contracts, or
+			 cooperative agreements awarded to public entities and local educational
+			 agencies, assist local communities and schools in applying a public health
+			 approach to mental health services both in schools and in the community.
+			 Such approach should provide comprehensive age-appropriate services and
+			 supports, be linguistically and culturally appropriate, be
+			 trauma-informed, and incorporate age-appropriate strategies of positive
+			 behavioral interventions and supports. A comprehensive school mental
+			 health program funded under this section shall assist children in dealing
+			 with trauma and violence.</text>
+							</subsection>
+              <subsection display-inline="no-display-inline" id="id84958739417840A0B5D0F11D8D0CF0AB">
+                <enum>(b)</enum>
+                <header>Activities</header>
+                <text>Under the program under subsection (a), the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> may—</text>
+								<paragraph id="id1F2E9BA10F9442309F3B12E6B257EE54">
+                  <enum>(1)</enum>
+                  <text display-inline="yes-display-inline">provide financial support to enable local communities to implement a comprehensive culturally and
+			 linguistically appropriate, trauma-informed, and age-appropriate, school
+			 mental health program that incorporates positive behavioral interventions,
+			 client treatment, and supports to foster the health and development of
+			 children;</text>
+								</paragraph>
+                <paragraph id="id81360EF5BD114DFCB244B3798A84BBD8">
+                  <enum>(2)</enum>
+                  <text>provide technical assistance to local communities with respect to the development of programs
+			 described in paragraph (1);</text>
+								</paragraph>
+                <paragraph id="id45892D2083F045858C6D461EBDF5E517">
+                  <enum>(3)</enum>
+                  <text>provide assistance to local communities in the development of policies to address child and
+			 adolescent trauma and mental health issues and violence when and if it
+			 occurs;</text>
+								</paragraph>
+                <paragraph display-inline="no-display-inline" id="id733E1A39D1074E8E8E503E28AF7B696A">
+                  <enum>(4)</enum>
+                  <text>facilitate community partnerships among families, students, law enforcement agencies, education
+			 systems, mental health and substance use disorder service systems,
+			 family-based mental health service systems, welfare agencies, health care
+			 service systems (including physicians), faith-based programs, trauma
+			 networks, and other community-based systems; and</text>
+								</paragraph>
+                <paragraph id="id8BCAE634EF71461198DA1993A18BF057">
+                  <enum>(5)</enum>
+                  <text>establish mechanisms for children and adolescents to report incidents of violence or plans by other
+			 children, adolescents, or adults to commit violence.</text>
+								</paragraph>
+              </subsection>
+              <subsection id="idB9A1608DAA4A4029BC8BA0A2EF5B9623">
+                <enum>(c)</enum>
+                <header>Requirements</header>
+								<paragraph id="id36350A8B88FA4F839A50A29C6D05757A">
+                  <enum>(1)</enum>
+                  <header>In general</header>
+                  <text display-inline="yes-display-inline">To be eligible for a grant, contract, or cooperative agreement under subsection (a), an entity
+			 shall—</text>
+									<subparagraph id="idF28C07E751BF46BAB531B49343F788D6">
+                    <enum>(A)</enum>
+                    <text>be a partnership between a local educational agency and at least 1 community program or agency that
+			 is involved in mental health; and</text>
+									</subparagraph>
+                  <subparagraph id="idAD3F675828064101860DE150C8DF449A">
+                    <enum>(B)</enum>
+                    <text>submit an application, that is endorsed by all members of the partnership, that contains the
+			 assurances described in paragraph (2).</text>
+									</subparagraph>
+                </paragraph>
+                <paragraph commented="no" id="idB72898613A8B46E7AD80CEBF0B91CF26">
+                  <enum>(2)</enum>
+                  <header>Required assurances</header>
+                  <text>An application under paragraph (1) shall contain assurances as follows:</text>
+									<subparagraph commented="no" id="idA0F3342FBA424860910C2DA2CF3D40DC">
+                    <enum>(A)</enum>
+                    <text>That the applicant will ensure that, in carrying out activities under this section, the local
+			 educational agency involved will enter into a memorandum of understanding—</text>
+										<clause commented="no" id="id6C2E6F6CD36644829B90F40F9B3BA26A">
+                      <enum>(i)</enum>
+                      <text>with at least 1 public or private mental health entity, health care entity, law enforcement or
+			 juvenile justice entity, child welfare agency, family-based mental health
+			 entity, family or family organization, trauma network, or other
+			 community-based entity; and</text>
+										</clause>
+                    <clause commented="no" id="idE820D26B5B0E4F74BF0DCF49F102D99A">
+                      <enum>(ii)</enum>
+                      <text>that clearly states—</text>
+											<subclause commented="no" id="id88C7767D7DE2407A800603A132E1ECCB">
+                        <enum>(I)</enum>
+                        <text display-inline="yes-display-inline">how school-employed mental health professionals (such as school psychologists, school counselors,
+			 and school social workers) will be utilized in the comprehensive school
+			 mental health program;</text>
+											</subclause>
+                      <subclause id="id661479BEC0E84B87A831C44F36B1471E">
+                        <enum>(II)</enum>
+                        <text display-inline="yes-display-inline">the responsibilities of each partner with respect to the activities to be carried out;</text>
+											</subclause>
+                      <subclause id="id9090B1A3DD1543C09259BC731F072C6B">
+                        <enum>(III)</enum>
+                        <text>how each such partner will be accountable for carrying out such responsibilities; and</text>
+											</subclause>
+                      <subclause commented="no" id="id76DD24C9608340AEA59B5427D6003F97">
+                        <enum>(IV)</enum>
+                        <text>the amount of non-Federal funding or in-kind contributions that each such partner will contribute
+			 in order to sustain the program.</text>
+											</subclause>
+                    </clause>
+                  </subparagraph>
+                  <subparagraph commented="no" id="id659D42893B6849AC9BC55F7E27F0B402">
+                    <enum>(B)</enum>
+                    <text>That the comprehensive school-based mental health program carried out under this section supports
+			 the flexible use of funds to address—</text>
+										<clause commented="no" id="id80FA136E450740B18A0DDF730E608BCB">
+                      <enum>(i)</enum>
+                      <text>the promotion of the social, emotional, mental, and behavioral health and wellness of all students
+			 in an environment that is conducive to learning;</text>
+										</clause>
+                    <clause commented="no" id="id61C44595BB7E4E50B5B8541D56D8136C">
+                      <enum>(ii)</enum>
+                      <text display-inline="yes-display-inline">the reduction in the likelihood of at risk students developing social, emotional, mental, and
+			 behavioral health problems, or substance use disorders;</text>
+										</clause>
+                    <clause commented="no" id="id874AA5B4D6B04BF7AA594FDB42185027">
+                      <enum>(iii)</enum>
+                      <text display-inline="yes-display-inline">the early identification of social, emotional, mental, and behavioral problems, or substance use
+			 disorders and the provision of early intervention services;</text>
+										</clause>
+                    <clause commented="no" id="id0DE289A943EA419398CDEF870DA127CD">
+                      <enum>(iv)</enum>
+                      <text display-inline="yes-display-inline">the treatment or referral for treatment of students with existing social, emotional, mental, and
+			 behavioral health problems, or substance use disorders; and</text>
+										</clause>
+                    <clause commented="no" id="idB53CEC680B8D4D74AB994B2FDC278197">
+                      <enum>(v)</enum>
+                      <text>the development and implementation of programs to assist children in dealing with trauma and
+			 violence.</text>
+										</clause>
+                  </subparagraph>
+                  <subparagraph id="idDCFD44F32CEA40D39CE06F7BD3D96CB8">
+                    <enum>(C)</enum>
+                    <text display-inline="yes-display-inline">That the comprehensive school-based mental health program carried out under this section will
+			 provide for in-service training of all school personnel, including
+			 ancillary staff and volunteers, in—</text>
+										<clause id="id7D152C84C00045B589F4A28FF4E78355">
+                      <enum>(i)</enum>
+                      <text>the techniques and supports needed to identify early children with trauma histories and children
+			 with, or at risk of, mental illness;</text>
+										</clause>
+                    <clause id="id5E54FE753E3D46D7B76C9DF06FFFF718">
+                      <enum>(ii)</enum>
+                      <text>the use of referral mechanisms that effectively link such children to appropriate treatment and
+			 intervention services in the school and in the community and to follow-up
+			 when services are not available;</text>
+										</clause>
+                    <clause id="id8E8E54FB5E534909A22F59874D4EE9DB">
+                      <enum>(iii)</enum>
+                      <text>strategies that promote the social, emotional, mental, and behavioral health and wellness of all
+			 students; and</text>
+										</clause>
+                    <clause id="id7EC33A7786E84BABA6397ECE832F0AB9">
+                      <enum>(iv)</enum>
+                      <text display-inline="yes-display-inline">strategies to increase the knowledge and skills of school and community leaders about the impact of
+			 trauma and violence and on the application of a public health approach to
+			 comprehensive school-based mental health programs.</text>
+										</clause>
+                  </subparagraph>
+                  <subparagraph id="id2746858E2EF24E5DBC33ADD6413391E5">
+                    <enum>(D)</enum>
+                    <text display-inline="yes-display-inline">That the comprehensive school-based mental health program carried out under this section will
+			 include comprehensive training for parents, siblings, and other family
+			 members of children with mental health disorders, and for concerned
+			 members of the community in—</text>
+										<clause id="idFC47AB26FF614E3E90DAF2CC08A6AABA">
+                      <enum>(i)</enum>
+                      <text>the techniques and supports needed to identify early children with trauma histories, and children
+			 with, or at risk of, mental illness;</text>
+										</clause>
+                    <clause id="id6CDBDD7D5CC9467F96340C549FD70D13">
+                      <enum>(ii)</enum>
+                      <text>the use of referral mechanisms that effectively link such children to appropriate treatment and
+			 intervention services in the school and in the community and follow-up
+			 when such services are not available; and</text>
+										</clause>
+                    <clause id="id96D4EA2E208046488AA81A7C55171E64">
+                      <enum>(iii)</enum>
+                      <text>strategies that promote a school-wide positive environment.</text>
+										</clause>
+                  </subparagraph>
+                  <subparagraph commented="no" id="idD16B9C98333B43039F9E4458EDBFDABA">
+                    <enum>(E)</enum>
+                    <text>That the comprehensive school-based mental health program carried out under this section will
+			 demonstrate the measures to be taken to sustain the program after funding
+			 under this section terminates.</text>
+									</subparagraph>
+                  <subparagraph commented="no" id="id5A895470BCF548718348468F1DADDCA2">
+                    <enum>(F)</enum>
+                    <text display-inline="yes-display-inline">That the local educational agency partnership involved is supported by the State educational and
+			 mental health system to ensure that the sustainability of the programs is
+			 established after funding under this section terminates.</text>
+									</subparagraph>
+                  <subparagraph commented="no" id="id5352097D8FE24B23B1C2EE273616807F">
+                    <enum>(G)</enum>
+                    <text>That the comprehensive school-based mental health program carried out under this section will be
+			 based on trauma-informed and evidence-based practices.</text>
+									</subparagraph>
+                  <subparagraph commented="no" id="idA1D49EAA852042A998F14B59B8826246">
+                    <enum>(H)</enum>
+                    <text>That the comprehensive school-based mental health program carried out under this section will be
+			 coordinated with early intervening activities carried out under the
+			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                        <cato:entity-ref entity-type="act" value="Individuals with Disabilities Education Act">Individuals with Disabilities Education Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/20/1400">
+                        <cato:entity-ref entity-type="uscode" value="usc/20/1400/etseq">20 U.S.C. 1400 et seq.</cato:entity-ref>
+                      </external-xref>)</cato:entity>.</text>
+									</subparagraph>
+                  <subparagraph commented="no" id="id9DB5653B06DD46038782937A74DFD66E">
+                    <enum>(I)</enum>
+                    <text>That the comprehensive school-based mental health program carried out under this section will be
+			 trauma-informed and culturally and linguistically appropriate.</text>
+									</subparagraph>
+                  <subparagraph id="id7FCAE391ABF54040A6EA40817545D88E">
+                    <enum>(J)</enum>
+                    <text display-inline="yes-display-inline">That the comprehensive school-based mental health program carried out under this section will
+			 include a broad needs assessment of youth who drop out of school due to
+			 policies of <quote>zero tolerance</quote> with respect to drugs, alcohol, or weapons and an inability to obtain appropriate services.</text>
+									</subparagraph>
+                  <subparagraph id="idDCF9CEF57D964A9D96F825677822937A">
+                    <enum>(K)</enum>
+                    <text display-inline="yes-display-inline">That the mental health services provided through the comprehensive school-based mental health
+			 program carried out under this section will be provided by qualified
+			 mental and behavioral health professionals who are certified or licensed
+			 by the State involved and practicing within their area of expertise.</text>
+									</subparagraph>
+                </paragraph>
+                <paragraph id="idC0EC1D7C4B56408DAFA8B8348DE3CB40">
+                  <enum>(3)</enum>
+                  <header>Coordinator</header>
+                  <text display-inline="yes-display-inline">Any entity that is a member of a partnership described in paragraph (1)(A) may serve as the
+			 coordinator of funding and activities under the grant if all members of
+			 the partnership agree.</text>
+								</paragraph>
+                <paragraph id="idEAD7A39417C14F87858FA34EC8762CF2">
+                  <enum>(4)</enum>
+                  <header>Compliance with HIPAA</header>
+                  <text>A grantee under this section shall be deemed to be a covered entity for purposes of compliance with
+			 the regulations promulgated under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Health Insurance Portability and Accountability Act of 1996/s:264/ss:c">section 264(c) of the Health Insurance
+			 Portability and Accountability Act of 1996</cato:entity-ref> (<external-xref legal-doc="public-law" parsable-cite="pl/104/191">
+                      <cato:entity-ref entity-type="public-law" value="public-law/104/191">Public Law 104–191</cato:entity-ref>
+                    </external-xref>; <cato:entity-ref entity-type="statute-at-large" value="statute-at-large/110/2033">110 Stat.
+			 2033</cato:entity-ref>)</cato:entity> with respect to any patient
+			 records developed through activities under the grant.</text>
+								</paragraph>
+              </subsection>
+              <subsection id="idA7B9D5958E80475BA96CACF52DAB896D">
+                <enum>(d)</enum>
+                <header>Geographical distribution</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall ensure that grants, contracts, or cooperative agreements under subsection (a)
+			 will be distributed equitably among the regions of the country and among
+			 urban and rural areas.</text>
+							</subsection>
+              <subsection id="idC696D1852BB748F1B43DFF7FAA879289">
+                <enum>(e)</enum>
+                <header>Duration of awards</header>
+                <text>With respect to a grant, contract, or cooperative agreement under subsection (a), the period during
+			 which payments under such an award will be made to the recipient shall be
+			 6 years. An entity may receive only 1 award under this section, except
+			 that an entity that is providing services and supports on a regional basis
+			 may receive additional funding after the expiration of the preceding grant
+			 period.</text>
+							</subsection>
+              <subsection id="idA80552D746DF4EFFBE78FD349A42E7DF">
+                <enum>(f)</enum>
+                <header>Evaluation and measures of outcomes</header>
+								<paragraph id="id8B17B724D415434EB113DEE9AC8C8810">
+                  <enum>(1)</enum>
+                  <header>Development of process</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7526">Administrator</cato:entity-ref> shall develop a fiscally appropriate process for evaluating activities carried
+			 out under this section. Such process shall include—</text>
+									<subparagraph id="idFD4C1CEDDA0B4208903ACD6EF31B5275">
+                    <enum>(A)</enum>
+                    <text>the development of guidelines for the submission of program data by grant, contract, or cooperative
+			 agreement recipients;</text>
+									</subparagraph>
+                  <subparagraph id="idFCF951BF0C604C369BD8E7BDC61DC27B">
+                    <enum>(B)</enum>
+                    <text>the development of measures of outcomes (in accordance with paragraph (2)) to be applied by such
+			 recipients in evaluating programs carried out under this section; and</text>
+									</subparagraph>
+                  <subparagraph id="id1FF8D75DC61142C39116F3A51A3BB0CA">
+                    <enum>(C)</enum>
+                    <text>the submission of annual reports by such recipients concerning the effectiveness of programs
+			 carried out under this section.</text>
+									</subparagraph>
+                </paragraph>
+                <paragraph id="id27BAA68815FE4996890348BB3CAA2238">
+                  <enum>(2)</enum>
+                  <header>Measures of outcomes</header>
+									<subparagraph id="id6F8FF554D8D740F0A008CAAC32511F73">
+                    <enum>(A)</enum>
+                    <header>In general</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7526">Administrator</cato:entity-ref> shall develop measures of outcomes to be applied by recipients of assistance
+			 under this section, and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7526">Administrator</cato:entity-ref>, in evaluating the effectiveness
+			 of programs carried out under this section. Such measures shall include
+			 student and family measures as provided for in subparagraph (B) and local
+			 educational measures as provided for under subparagraph (C).</text>
+									</subparagraph>
+                  <subparagraph id="id193648422B954181BF156C60302CB379">
+                    <enum>(B)</enum>
+                    <header>Student and family measures of outcomes</header>
+                    <text>The measures of outcomes developed under paragraph (1)(B) relating to students and families shall,
+			 with respect to activities carried out under a program under this section,
+			 at a minimum include provisions to evaluate whether the program is
+			 effective in—</text>
+										<clause id="id88ECD5735E7B46459C1C0E49237DF9B6">
+                      <enum>(i)</enum>
+                      <text>improving social, emotional, mental, and behavioral health and wellness;</text>
+										</clause>
+                    <clause id="id7AFB03A46E994C4ABAEDFDD4FA17A445">
+                      <enum>(ii)</enum>
+                      <text>increasing academic competency (as defined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref>);</text>
+										</clause>
+                    <clause id="idA61BFF5F32154241913102E4C44BE1DF">
+                      <enum>(iii)</enum>
+                      <text>reducing disruptive and aggressive behaviors;</text>
+										</clause>
+                    <clause id="id44B6507D3D354869B0500B740D09A9C0">
+                      <enum>(iv)</enum>
+                      <text>improving child functioning;</text>
+										</clause>
+                    <clause id="idA1A91E9499BF48AF90EE9A3BD5377B76">
+                      <enum>(v)</enum>
+                      <text>reducing substance use disorders;</text>
+										</clause>
+                    <clause id="id503A3BE2711149E98FE22B34F9BB1B1D">
+                      <enum>(vi)</enum>
+                      <text>reducing suspensions, truancy, expulsions, and violence;</text>
+										</clause>
+                    <clause id="id2697093259C542CF8155A84BD4C29BFE">
+                      <enum>(vii)</enum>
+                      <text>increasing graduation rates (as defined in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Elementary and Secondary Education Act of 1965/s:1111/ss:b/p:2/sp:C/cl:vi">section 1111(b)(2)(C)(vi) of the Elementary and
+			 Secondary Education Act of 1965</cato:entity-ref>); and</text>
+										</clause>
+                    <clause commented="no" display-inline="no-display-inline" id="id2A6130CCACC64230839D7625A0CDABDD">
+                      <enum>(viii)</enum>
+                      <text>improving access to care for mental health disorders.</text>
+										</clause>
+                  </subparagraph>
+                  <subparagraph commented="no" display-inline="no-display-inline" id="idBEE0A23228594C3E8C60DC8A4E8C61B2">
+                    <enum>(C)</enum>
+                    <header>Local educational outcomes</header>
+                    <text>The outcome measures developed under paragraph (1)(B) relating to local educational systems shall,
+			 with respect to activities carried out under a program under this section,
+			 at a minimum include provisions to evaluate—</text>
+										<clause id="id0D72C41690624D5D9C3BEB4E15DCF42D">
+                      <enum>(i)</enum>
+                      <text>the effectiveness of comprehensive school mental health programs established under this section;</text>
+										</clause>
+                    <clause id="id8EDAEE89A9CF4EFE99241062B7C8272C">
+                      <enum>(ii)</enum>
+                      <text>the effectiveness of formal partnership linkages among child and family serving institutions,
+			 community support systems, and the educational system;</text>
+										</clause>
+                    <clause id="idB72D19AAC56B4FBCBA70ABE3D9F8A176">
+                      <enum>(iii)</enum>
+                      <text>the progress made in sustaining the program once funding under the grant has expired;</text>
+										</clause>
+                    <clause id="id11268DED7AAA452DA8E52BA55B520747">
+                      <enum>(iv)</enum>
+                      <text>the effectiveness of training and professional development programs for all school personnel that
+			 incorporate indicators that measure cultural and linguistic competencies
+			 under the program in a manner that incorporates appropriate cultural and
+			 linguistic training;</text>
+										</clause>
+                    <clause id="idEC3CB0B65256494D9D764F7A9D336518">
+                      <enum>(v)</enum>
+                      <text display-inline="yes-display-inline">the improvement in perception of a safe and supportive learning environment among school staff,
+			 students, and parents;</text>
+										</clause>
+                    <clause id="id68516830811B47DF8CB5D5109A710B58">
+                      <enum>(vi)</enum>
+                      <text>the improvement in case-finding of students in need of more intensive services and referral of
+			 identified students to early intervention and clinical services;</text>
+										</clause>
+                    <clause id="id141C0AC4F4E04565BCF0CCA6FFD792E5">
+                      <enum>(vii)</enum>
+                      <text>the improvement in the immediate availability of clinical assessment and treatment services within
+			 the context of the local community to students posing a danger to
+			 themselves or others;</text>
+										</clause>
+                    <clause id="id2AA8F8D21260414DAE7B58A3087BD9BB">
+                      <enum>(viii)</enum>
+                      <text>the increased successful matriculation to postsecondary school; and</text>
+										</clause>
+                    <clause id="idD9DF0B47BDD644B68AE1B5CE5D846B22">
+                      <enum>(ix)</enum>
+                      <text>reduced referrals to juvenile justice.</text>
+										</clause>
+                  </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id69A497A3C9314608BA6A168A14307836">
+                  <enum>(3)</enum>
+                  <header>Submission of annual data</header>
+                  <text>An entity that receives a grant, contract, or cooperative agreement under this section shall
+			 annually submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7526">Administrator</cato:entity-ref> a report that includes data to
+			 evaluate the success of the program carried out by the entity based on
+			 whether such program is achieving the purposes of the program. Such
+			 reports shall utilize the measures of outcomes under paragraph (2) in a
+			 reasonable manner to demonstrate the progress of the program in achieving
+			 such purposes.</text>
+								</paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idA58B2E4E11854CAF95CE84428B260E05">
+                  <enum>(4)</enum>
+                  <header>Evaluation by Administrator</header>
+                  <text>Based on the data submitted under paragraph (3), the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7526">Administrator</cato:entity-ref> shall annually submit to
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a report concerning the results and effectiveness of the programs
+			 carried out with assistance received under this section.</text>
+								</paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id7274E703A64341EBA6B5C3BF8DF5EF41">
+                  <enum>(5)</enum>
+                  <header>Limitation</header>
+                  <text>A grantee shall use not to exceed 10 percent of amounts received under a grant under this section
+			 to carry out evaluation activities under this subsection.</text>
+								</paragraph>
+              </subsection>
+              <subsection id="idD99AA968F5C64A09BE8BBACBEEA4ABBC">
+                <enum>(g)</enum>
+                <header>Information and education</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall establish comprehensive information and education programs to disseminate the
+			 findings of the knowledge development and application under this section
+			 to the general public and to health care professionals.</text>
+							</subsection>
+              <subsection id="id072B5383933D4F58B2B76DD268ACB021">
+                <enum>(h)</enum>
+                <header>Amount of grants and authorization of appropriations</header>
+								<paragraph id="idF77B34CE69CF47D4B0D55B2F617FEAD3">
+                  <enum>(1)</enum>
+                  <header>Amount of grants</header>
+                  <text display-inline="yes-display-inline">A grant under this section shall be in an amount that is not more than $1,000,000 for each of grant
+			 years 2015 through 2019. The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> shall determine the amount of each
+			 such grant based on the population of children up to age 21 of the area to
+			 be served under the grant.</text>
+								</paragraph>
+                <paragraph id="id7BF0ECCCB0A94A6B9459A2E031597904">
+                  <enum>(2)</enum>
+                  <header>Authorization of appropriations</header>
+                  <text>
+                    <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There is authorized to be appropriated <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="Public Health Service Act/s:581" proposed="true">this section</cato:entity-ref>
+                      </cato:property>, <cato:funds-and-year amount="200000000" year="2015, 2016, 2017, 2018, 2019">$200,000,000 for each of fiscal
+			 years 2015 through 2019</cato:funds-and-year>.</cato:entity>
+                  </text>
+                </paragraph>
+              </subsection>
+            </section>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="id4FD3C829F9F24AA79DA205D783467F8A">
+          <enum>(c)</enum>
+          <header>Conforming amendment</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Public Health Service Act/t:V/pt:G">Part G of title V of the Public Health Service Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/290hh">
+              <cato:entity-ref entity-type="uscode" value="usc/42/290hh/etseq">42 U.S.C. 290hh et seq.</cato:entity-ref>
+            </external-xref>)</cato:entity>, as amended by this
+			 section, is further amended by striking the part heading and inserting the
+			 following:</text>
+					<quoted-block display-inline="no-display-inline" id="idC03E83262E5748399212EF25F434E2DD" style="OLC">
+						<part id="id46BA1EFC35644285A4B497AB5597B127">
+              <enum>G</enum>
+              <header>School-based mental health</header>
+            </part>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+        </subsection>
+      </section>
+      <section id="H820701DCD0284AF481FBDE96EBC12560">
+        <enum>103.</enum>
+        <header>Justice and mental health collaboration</header>
+				<subsection id="H100879A63CAB456F8A943CBC738FED82">
+          <enum>(a)</enum>
+          <header>Assisting Veterans</header>
+					<paragraph id="H29C4A9A43E894603A1F9BF7F307F8D4D">
+            <enum>(1)</enum>
+            <header>Redesignation</header>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Omnibus Crime Control and Safe Streets Act of 1968/s:2991">Section 2991 of title I of the Omnibus Crime Control and Safe Streets Act of 1968</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/3797aa">42 U.S.C.
+			 3797aa</cato:entity-ref>)</cato:entity> is
+			 amended by redesignating subsection (i) as subsection (l).</text>
+					</paragraph>
+          <paragraph id="H63BE6F22BDBB492AB87F692DFC1CBA9D">
+            <enum>(2)</enum>
+            <header>Assisting veterans</header>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Omnibus Crime Control and Safe Streets Act of 1968/s:2991">Section 2991 of title I of the Omnibus Crime Control and Safe Streets Act of 1968</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/3797aa">42 U.S.C.
+			 3797aa</cato:entity-ref>)</cato:entity> is
+			 amended by inserting after subsection (h) the following:</text>
+						<quoted-block id="H73AE12249E874CF6AF44110C3EC05083" style="OLC">
+							<subsection id="H2853ACF65F194DB9B1EA23742B8CCE77">
+                <enum>(i)</enum>
+                <header>Assisting Veterans</header>
+								<paragraph id="H68B79E4D8EE04F2CB8ADF21DED8CBDBA">
+                  <enum>(1)</enum>
+                  <header>Definitions</header>
+                  <text>In this subsection:</text>
+									<subparagraph id="H14DED68162B74C6D828B2D712FF63DD9">
+                    <enum>(A)</enum>
+                    <header>Peer to peer services or programs</header>
+                    <text>The term <term>peer to peer services or programs</term> means services or programs that connect qualified veterans with other veterans for the purpose of
+			 providing support and mentorship to assist qualified veterans in obtaining
+			 treatment, recovery, stabilization, or rehabilitation.</text>
+									</subparagraph>
+                  <subparagraph id="HF4CBDE9A1030446891139ACF65A272FE">
+                    <enum>(B)</enum>
+                    <header>Qualified veteran</header>
+                    <text>The term <term>qualified veteran</term> means a preliminarily qualified offender who—</text>
+										<clause id="H2DEAA66EB93149F2A57DBA26F3C1A08B">
+                      <enum>(i)</enum>
+                      <text>has served on active duty in any branch of the Armed Forces, including the National Guard and
+			 reserve components; and</text>
+										</clause>
+                    <clause id="H41EE6DBF0C144D669B88CEC39AA616A2">
+                      <enum>(ii)</enum>
+                      <text>was discharged or released from such service under conditions other than dishonorable.</text>
+										</clause>
+                  </subparagraph>
+                  <subparagraph id="H3C75AD673A2A4947B03D105CACA662D8">
+                    <enum>(C)</enum>
+                    <header>Veterans treatment court program</header>
+                    <text>The term <term>veterans treatment court program</term> means a court program involving collaboration among criminal justice, veterans, and mental health
+			 and substance abuse agencies that provides qualified veterans with—</text>
+										<clause id="HC907E2E6E98947B18C2BC2698D2FE6E1">
+                      <enum>(i)</enum>
+                      <text>intensive judicial supervision and case management, which may include random and frequent drug
+			 testing where appropriate;</text>
+										</clause>
+                    <clause id="H4DF46805FBEE400895459ECEB4ACCA2C">
+                      <enum>(ii)</enum>
+                      <text>a full continuum of treatment services, including mental health services, substance abuse services,
+			 medical services, and services to address trauma;</text>
+										</clause>
+                    <clause id="H12EC7E592D8B498CAF21372CC7664482">
+                      <enum>(iii)</enum>
+                      <text>alternatives to incarceration; or</text>
+										</clause>
+                    <clause id="H3089372F969243A48C490AC580EEAFF4">
+                      <enum>(iv)</enum>
+                      <text>other appropriate services, which may include housing, transportation, mentoring, employment, job
+			 training, education, and assistance in applying for and obtaining
+			 available benefits.</text>
+										</clause>
+                  </subparagraph>
+                </paragraph>
+                <paragraph id="H6FF0F5CB61CD4C2F946EC95ACC1B1537">
+                  <enum>(2)</enum>
+                  <header>Veterans assistance program</header>
+									<subparagraph id="HCDE0DF226AC44CDD894ED880C8EE028E">
+                    <enum>(A)</enum>
+                    <header>In general</header>
+                    <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref>, in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="3600" entity-type="federal-body">Secretary of Veterans Affairs</cato:entity-ref>, may award grants
+			 under this subsection to applicants to establish or expand—</text>
+										<clause id="H4C5CA83122C34C8AA9C273D36229643A">
+                      <enum>(i)</enum>
+                      <text>veterans treatment court programs;</text>
+										</clause>
+                    <clause id="H950536AD8DAD46749EC7F3A21D8A6F4B">
+                      <enum>(ii)</enum>
+                      <text>peer to peer services or programs for qualified veterans;</text>
+										</clause>
+                    <clause id="HDBB5D81AB0214A25A1AFF88BAA005543">
+                      <enum>(iii)</enum>
+                      <text>practices that identify and provide treatment, rehabilitation, legal, transitional, and other
+			 appropriate services to qualified veterans who have been incarcerated; and</text>
+										</clause>
+                    <clause id="HC1FB4BFE5C7F4921AF813169C7D8D23A">
+                      <enum>(iv)</enum>
+                      <text>training programs to teach criminal justice, law enforcement, corrections, mental health, and
+			 substance abuse personnel how to identify and appropriately respond to
+			 incidents involving qualified veterans.</text>
+										</clause>
+                  </subparagraph>
+                  <subparagraph id="HAC0703EF685842859F8097A3B3A38180">
+                    <enum>(B)</enum>
+                    <header>Priority</header>
+                    <text>In awarding grants under this subsection, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref> shall give priority to applications
+			 that—</text>
+										<clause id="HCA412E3F90844053B0B44380CAC10C68">
+                      <enum>(i)</enum>
+                      <text>demonstrate collaboration between and joint investments by criminal justice, mental health,
+			 substance abuse, and veterans service agencies;</text>
+										</clause>
+                    <clause id="H3CC9E55C537B45219BC37ECF7460940E">
+                      <enum>(ii)</enum>
+                      <text>promote effective strategies to identify and reduce the risk of harm to qualified veterans and
+			 public safety; and</text>
+										</clause>
+                    <clause id="H8DDD65A3689A48478FBE2CF89EC4754F">
+                      <enum>(iii)</enum>
+                      <text>propose interventions with empirical support to improve outcomes for qualified veterans.</text>
+                    </clause>
+                  </subparagraph>
+                </paragraph>
+              </subsection>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="HE77F3096DB294821AEB885C0EF1CB946">
+          <enum>(b)</enum>
+          <header>Correctional Facilities</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Omnibus Crime Control and Safe Streets Act of 1968/s:2991">Section 2991 of title I of the Omnibus Crime Control and Safe Streets Act of 1968</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/3797aa">42 U.S.C.
+			 3797aa</cato:entity-ref>)</cato:entity> is
+			 amended by inserting after subsection (i), as added by subsection (a),
+			 the following:</text>
+					<quoted-block id="HBAD438B74996439BBD49CDF81DDAF5D1" style="OLC">
+						<subsection id="H74CCF55D77214CC382BD1E1D42BDD4EA">
+              <enum>(j)</enum>
+              <header>Correctional facilities</header>
+							<paragraph id="H96864D5FF2A7460896767D161A20FDE8">
+                <enum>(1)</enum>
+                <header>Definitions</header>
+                <text>In this subsection:</text>
+								<subparagraph id="H8412DFCBECC542F7BDD979FF5980FDCF">
+                  <enum>(A)</enum>
+                  <header>Correctional facility</header>
+                  <text>The term <term>correctional facility</term> means a jail, prison, or other detention facility used to house people who have been arrested,
+			 detained, held, or convicted by a criminal justice agency or a court.</text>
+								</subparagraph>
+                <subparagraph id="H8A7E55FD23AB4883A6C6892F80D57245">
+                  <enum>(B)</enum>
+                  <header>Eligible inmate</header>
+                  <text>The term <term>eligible inmate</term> means an individual who—</text>
+									<clause id="HADF3FF9BE5A340FDBE262612BF244346">
+                    <enum>(i)</enum>
+                    <text>is being held, detained, or incarcerated in a correctional facility; and</text>
+									</clause>
+                  <clause id="H464474EF8EE34B6990766638B8EFC9E1">
+                    <enum>(ii)</enum>
+                    <text>manifests obvious signs of a mental illness or has been diagnosed by a qualified mental health
+			 professional as having a mental illness.</text>
+									</clause>
+                </subparagraph>
+              </paragraph>
+              <paragraph id="H60530699305B4E578656973997BC08E0">
+                <enum>(2)</enum>
+                <header>Correctional facility grants</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref> may award grants to applicants to enhance the capabilities of a correctional
+			 facility—</text>
+								<subparagraph id="H13EADF8BCF204495858A96F566A9780B">
+                  <enum>(A)</enum>
+                  <text>to identify and screen for eligible inmates;</text>
+								</subparagraph>
+                <subparagraph id="H4FC3FBAD93574796907B24205BA012CE">
+                  <enum>(B)</enum>
+                  <text>to plan and provide—</text>
+									<clause id="H8D1FE4418C50415B88301A6B723362FA">
+                    <enum>(i)</enum>
+                    <text>initial and periodic assessments of the clinical, medical, and social needs of inmates; and</text>
+									</clause>
+                  <clause id="H1182069C16C54586809A993C0B71E72D">
+                    <enum>(ii)</enum>
+                    <text>appropriate treatment and services that address the mental health and substance abuse needs of
+			 inmates;</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="H609296E3FD70437E930BBB6C9701DC7C">
+                  <enum>(C)</enum>
+                  <text>to develop, implement, and enhance—</text>
+									<clause id="H44A258E0105046D188560DE7CDEA4DB5">
+                    <enum>(i)</enum>
+                    <text>post-release transition plans for eligible inmates that, in a comprehensive manner, coordinate
+			 health, housing, medical, employment, and other appropriate services and
+			 public benefits;</text>
+									</clause>
+                  <clause id="H24B266647C1242FABC100692755FA126">
+                    <enum>(ii)</enum>
+                    <text>the availability of mental health care services and substance abuse treatment services; and</text>
+									</clause>
+                  <clause id="HAD6A08498E1F4265AF84EA093AB0E14D">
+                    <enum>(iii)</enum>
+                    <text>alternatives to solitary confinement and segregated housing and mental health screening and
+			 treatment for inmates placed in solitary confinement or segregated
+			 housing; and</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="HF92B4813D9204719925BAA192D521F0E">
+                  <enum>(D)</enum>
+                  <text>to train each employee of the correctional facility to identify and appropriately respond to
+			 incidents involving inmates with mental health or co-occurring mental
+			 health and substance abuse disorders.</text>
+                </subparagraph>
+              </paragraph>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="H1DBE4846856C4CA598DDB4F6D35CBF13">
+          <enum>(c)</enum>
+          <header>High utilizers</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Omnibus Crime Control and Safe Streets Act of 1968/s:2991">Section 2991 of title I of the Omnibus Crime Control and Safe Streets Act of 1968</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/3797aa">42 U.S.C.
+			 3797aa</cato:entity-ref>)</cato:entity> is
+			 amended by inserting after subsection (j), as added by subsection (b), the
+			 following:</text>
+					<quoted-block id="H1B81EA69416B46B285F446272259CDBC" style="OLC">
+						<subsection id="H6E5DCF9E8D3A4F9EA3B24AA9B05415EA">
+              <enum>(k)</enum>
+              <header>Demonstration grants responding to high utilizers</header>
+							<paragraph id="HD7794BE7D2B94E1D89074419D1CCE9A5">
+                <enum>(1)</enum>
+                <header>Definition</header>
+                <text>In this subsection, the term <term>high utilizer</term> means an individual who—</text>
+								<subparagraph id="H9AE5C7A40D6A49BDA0857B2EBC0DCF41">
+                  <enum>(A)</enum>
+                  <text>manifests obvious signs of mental illness or has been diagnosed by a qualified mental health
+			 professional as having a mental illness; and</text>
+								</subparagraph>
+                <subparagraph id="H15D951F095CC48D2960EF0F17F6EEEB3">
+                  <enum>(B)</enum>
+                  <text>consumes a significantly disproportionate quantity of public resources, such as emergency, housing,
+			 judicial, corrections, and law enforcement services.</text>
+								</subparagraph>
+              </paragraph>
+              <paragraph id="H1988319D89D24A2C9D6EE0E420FA9A9A">
+                <enum>(2)</enum>
+                <header>Demonstration grants responding to high utilizers</header>
+								<subparagraph id="H4405FC494FD645BDAB48D44EB912CC2A">
+                  <enum>(A)</enum>
+                  <header>In general</header>
+                  <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref> may award not more than 6 grants per year under this subsection to applicants
+			 for the purpose of reducing the use of public services by high utilizers.</text>
+								</subparagraph>
+                <subparagraph id="H3BEC5761FBEE4D6F98DF86C21AFE6787">
+                  <enum>(B)</enum>
+                  <header>Use of grants</header>
+                  <text>A recipient of a grant awarded under this subsection may use the grant—</text>
+									<clause id="HED420E48EDCB49AE83AC682B406EF069">
+                    <enum>(i)</enum>
+                    <text>to develop or support multidisciplinary teams that coordinate, implement, and administer
+			 community-based crisis responses and long-term plans for high utilizers;</text>
+									</clause>
+                  <clause id="HD31D9FCFBD5A4BCAB2EC84637BFC9A77">
+                    <enum>(ii)</enum>
+                    <text>to provide training on how to respond appropriately to the unique issues involving high utilizers
+			 for public service personnel, including criminal justice, mental health,
+			 substance abuse, emergency room, healthcare, law enforcement, corrections,
+			 and housing personnel;</text>
+									</clause>
+                  <clause id="HB258B40D9DFE4CEFA1701767AD042D2C">
+                    <enum>(iii)</enum>
+                    <text>to develop or support alternatives to hospital and jail admissions for high utilizers that provide
+			 treatment, stabilization, and other appropriate supports in the least
+			 restrictive, yet appropriate, environment; or</text>
+									</clause>
+                  <clause id="H64FBE0D6E2F9472EA96DB7778AEA1A3B">
+                    <enum>(iv)</enum>
+                    <text>to develop protocols and systems among law enforcement, mental health, substance abuse, housing,
+			 corrections, and emergency medical service operations to provide
+			 coordinated assistance to high utilizers.</text>
+									</clause>
+                </subparagraph>
+                <subparagraph id="HE989542104E34CE3BF0345DB263E0570">
+                  <enum>(C)</enum>
+                  <header>Report</header>
+                  <text>Not later than the last day of the first year following the fiscal year in which a grant is awarded
+			 under this subsection, the recipient of the grant shall submit to the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref> a report that—</text>
+									<clause id="H18503B0F7AF14224B83A5025334A7BE1">
+                    <enum>(i)</enum>
+                    <text>measures the performance of the grant recipient in reducing the use of public services by high
+			 utilizers; and</text>
+									</clause>
+                  <clause id="H88DB29436FD9418E936C0A4E3BA0B5EA">
+                    <enum>(ii)</enum>
+                    <text>provides a model set of practices, systems, or procedures that other jurisdictions may adopt to
+			 reduce the use of public services by high utilizers.</text>
+                  </clause>
+                </subparagraph>
+              </paragraph>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</subsection>
+        <subsection id="HCC381ED2BD6B4EB09D3DD0548AFE34F3">
+          <enum>(d)</enum>
+          <header>Academy training</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Omnibus Crime Control and Safe Streets Act of 1968/s:2991/ss:h">Section 2991(h) of title I of the Omnibus Crime Control and Safe Streets Act of 1968</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/3797aa/h">42 U.S.C.
+			 3797aa(h)</cato:entity-ref>)</cato:entity> is
+			 amended—</text>
+					<paragraph id="HCC90D0AB49DD4D06B644AE5B51CC6A6D">
+            <enum>(1)</enum>
+            <text>in paragraph (1), by adding at the end the following:</text>
+						<quoted-block id="HC8883974412E4269B7705F2690D9FC70" style="OLC">
+							<subparagraph id="H93EEC6CEC8FD413F8ADD9BDBA6E4BFFA">
+                <enum>(F)</enum>
+                <header>Academy training</header>
+                <text>To provide support for academy curricula, law enforcement officer orientation programs, continuing
+			 education training, and other programs that teach law enforcement
+			 personnel how to identify and respond to incidents involving individuals
+			 with mental illness or co-occurring mental illness and substance abuse
+			 disorders.</text>
+              </subparagraph>
+              <after-quoted-block>; and</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+          <paragraph id="H09754DE434F04621A9F3413283F80C59">
+            <enum>(2)</enum>
+            <text>by adding at the end the following:</text>
+						<quoted-block id="HCA4053FB5AF34AA88B88A93F89BE3F46" style="OLC">
+							<paragraph id="H77511F044F7344E08ADA148F40B93B9F">
+                <enum>(4)</enum>
+                <header>Priority consideration</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref>, in awarding grants under this subsection, shall give priority to programs
+			 that law enforcement personnel and members of the mental health and
+			 substance abuse professions develop and administer cooperatively.</text>
+              </paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="HFA372CDCD61C464E8E60C10351965074">
+          <enum>(e)</enum>
+          <header>Evidence based practices</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Omnibus Crime Control and Safe Streets Act of 1968/s:2991/ss:c">Section 2991(c) of title I of the Omnibus Crime Control and Safe Streets Act of 1968</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/3797aa/c">42 U.S.C.
+			 3797aa(c)</cato:entity-ref>)</cato:entity> is
+			 amended—</text>
+					<paragraph id="H0383CD0338B84DEBB4C4FE2C349640A0">
+            <enum>(1)</enum>
+            <text>in paragraph (3), by striking <quote>or</quote> at the end;</text>
+					</paragraph>
+          <paragraph id="H4C1EF1A10C204C90B188A416E184A44E">
+            <enum>(2)</enum>
+            <text>by redesignating paragraph (4) as paragraph (6); and</text>
+					</paragraph>
+          <paragraph id="H9D08C954CDB44E15952CECC8C5AEAB87">
+            <enum>(3)</enum>
+            <text>by inserting after paragraph (3) the following:</text>
+						<quoted-block id="H9407DE2CDE294FBFBF667B198555DE76" style="OLC">
+							<paragraph id="H17E3FB371CD546E4BCF7511C320D2CDA">
+                <enum>(4)</enum>
+                <text>propose interventions that have been shown by empirical evidence to reduce recidivism;</text>
+							</paragraph>
+              <paragraph id="H0BA1EF8A8DFF4C10AD4C7F8E6CFE8EB1">
+                <enum>(5)</enum>
+                <text>when appropriate, use validated assessment tools to target preliminarily qualified offenders with a
+			 moderate or high risk of recidivism and a need for treatment and services;
+			 or</text>
+              </paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="H68556BE8012D45F2B63CBA5E883C45E5">
+          <enum>(f)</enum>
+          <header>Safe communities</header>
+					<paragraph id="H84B763EE29AE44FD8F04605156198C7A">
+            <enum>(1)</enum>
+            <header>In general</header>
+            <text display-inline="yes-display-inline">
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Omnibus Crime Control and Safe Streets Act of 1968/s:2991/ss:a">Section 2991(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/3797aa/a">42 U.S.C.
+			 3797aa(a)</cato:entity-ref>)</cato:entity> is
+			 amended—</text>
+            <subparagraph id="id0808C584FC4B456083C7CF6CED3CBC57">
+              <enum>(A)</enum>
+              <text display-inline="yes-display-inline">by striking paragraphs (8) and (9) and inserting the following:</text>
+							<quoted-block id="H2EE24858D7C74538BFFDFE608B81E915" style="OLC">
+								<paragraph id="H5CBD7270AD7B455792D6ED3254427C7D">
+                  <enum>(8)</enum>
+                  <header>Preliminarily qualified offender</header>
+									<subparagraph id="HD9F9691292F14BBE825EEC92CE8531EF">
+                    <enum>(A)</enum>
+                    <header>In general</header>
+                    <text>The term <term>preliminarily qualified offender</term> means an adult or juvenile accused of an offense who—</text>
+										<clause id="H3988F904EF50419FAECB90373ACFD969">
+                      <enum>(i)</enum>
+											<subclause commented="no" display-inline="yes-display-inline" id="H6E23461D841D4F9CB1C0DD5FE054E057">
+                        <enum>(I)</enum>
+                        <text>at any time, has been diagnosed by a qualified mental health professional as having a
+			 mental illness or co-occurring mental illness and substance abuse
+			 disorders;</text>
+											</subclause>
+                      <subclause id="H5AB1FB19B4A34F1BAD53078110AACD3F" indent="up1">
+                        <enum>(II)</enum>
+                        <text>manifests obvious signs of mental illness or co-occurring mental illness and substance abuse
+			 disorders during arrest or confinement or before any court; or</text>
+											</subclause>
+                      <subclause id="HE4A1FCEF55AC46BEAB2CCA2A44553FB8" indent="up1">
+                        <enum>(III)</enum>
+                        <text>for purposes of a veterans treatment court program, as defined under subsection (i), has been
+			 diagnosed with,
+			 or manifests obvious signs of, mental illness or a substance abuse
+			 disorder or co-occurring mental illness and substance abuse disorder; and</text>
+											</subclause>
+                    </clause>
+                    <clause id="H65D5772786634B3E9D29044D083DE57D">
+                      <enum>(ii)</enum>
+                      <text>has been unanimously approved for participation in a program funded under this section by, when
+			 appropriate, the relevant—</text>
+											<subclause id="H2F22CC3F6294466380AEE64E391E4C6D">
+                        <enum>(I)</enum>
+                        <text>prosecuting attorney;</text>
+											</subclause>
+                      <subclause id="H46092188ED4F42249F677F75E6DD0A79">
+                        <enum>(II)</enum>
+                        <text>defense attorney;</text>
+											</subclause>
+                      <subclause id="H1F3113174F1845359F58741CC99A014A">
+                        <enum>(III)</enum>
+                        <text>probation or corrections official;</text>
+											</subclause>
+                      <subclause id="HA980577A1D4940A9BAF75DE6B57670A4">
+                        <enum>(IV)</enum>
+                        <text>judge; and</text>
+											</subclause>
+                      <subclause id="H0038D9C68C6F44869FC9DC77F6BA4B7A">
+                        <enum>(V)</enum>
+                        <text>representative from the relevant mental health agency described in subsection (b)(5)(B)(i).</text>
+											</subclause>
+                    </clause>
+                  </subparagraph>
+                  <subparagraph id="H3F2057E871BE47A7B6F6E13EA6E9E1A4">
+                    <enum>(B)</enum>
+                    <header>Determination</header>
+                    <text>In determining whether to designate an individual as a preliminarily qualified offender, the
+			 relevant prosecuting attorney, defense attorney, probation or corrections
+			 official, judge, and mental health or substance abuse agency
+			 representative shall take into account—</text>
+										<clause id="H169C260D952E405B81C0551509602E9C">
+                      <enum>(i)</enum>
+                      <text>whether the participation of the individual in the program would pose a substantial risk of
+			 violence to the community;</text>
+										</clause>
+                    <clause id="HE5F671B57D254AF688A28DC3D9D2851A">
+                      <enum>(ii)</enum>
+                      <text display-inline="yes-display-inline">the criminal history of the individual and the nature and severity of the offense for which the
+			 individual is charged;</text>
+										</clause>
+                    <clause id="HDAB8113C6F2749D2B0500AFFD3718D59">
+                      <enum>(iii)</enum>
+                      <text>the views of any relevant victims to the offense;</text>
+										</clause>
+                    <clause id="HD82B2C4F9CAE44979A73A7E604F677C3">
+                      <enum>(iv)</enum>
+                      <text display-inline="yes-display-inline">the extent to which the individual would benefit from participation in the program carried out
+			 using a grant under this section;</text>
+										</clause>
+                    <clause id="H929C75658DFE40278399E95C83DB4D4C">
+                      <enum>(v)</enum>
+                      <text display-inline="yes-display-inline">the extent to which the community would realize cost savings because of the individual’s
+			 participation in the program; and</text>
+										</clause>
+                    <clause id="HE2423632021341A5B3C3962AA4CBF437">
+                      <enum>(vi)</enum>
+                      <text display-inline="yes-display-inline">whether the individual satisfies the eligibility criteria for program participation unanimously
+			 established by the relevant prosecuting attorney, defense attorney,
+			 probation or corrections official, judge and mental health or substance
+			 abuse agency representative.</text>
+                    </clause>
+                  </subparagraph>
+                </paragraph>
+                <after-quoted-block>; and</after-quoted-block>
+              </quoted-block>
+            </subparagraph>
+            <subparagraph id="id2B76961CA3B2411780916159C750CEEC">
+              <enum>(B)</enum>
+              <text>by redesignating paragraphs (10) and (11) as paragraphs (9) and (10), respectively.</text>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="H7AFA0833846A499BB41A9322434E1B67">
+            <enum>(2)</enum>
+            <header>Technical and conforming amendment</header>
+            <text>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Omnibus Crime Control and Safe Streets Act of 1968/s:2927/p:2">Section 2927(2) of title I of the Omnibus Crime Control and Safe Streets Act of 1968</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/3797s–6//2">42 U.S.C.
+			 3797s–6(2)</cato:entity-ref>)</cato:entity> is
+			 amended by striking <quote>has the meaning given that term in section 2991(a).</quote> and inserting</text>
+						<quoted-block display-inline="yes-display-inline" id="H927C0DA174414077B817F6826B53916E" style="OLC">
+							<text>means an offense that—</text>
+              <subparagraph id="HFD8D6693656042248DC100EF363BA3D7">
+                <enum>(A)</enum>
+                <text>does not have as an element the use, attempted use, or threatened use of physical force against the
+			 person or property of another; or</text>
+							</subparagraph>
+              <subparagraph id="H1EBCFB5F16F44FB8B7336719DEF6F625">
+                <enum>(B)</enum>
+                <text>is not a felony that by its nature involves a substantial risk that physical force against the
+			 person or property of another may be used in the course of committing the
+			 offense.</text>
+              </subparagraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="H774F0C5A09704F179E839D29CB2BB227">
+          <enum>(g)</enum>
+          <header>Reauthorization of appropriations</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Omnibus Crime Control and Safe Streets Act of 1968/s:2991/ss:l">Subsection (l) of section 2991 of title I of the Omnibus Crime Control and Safe Streets Act of 1968</cato:entity-ref>
+			 (<cato:entity-ref entity-type="uscode" value="usc/42/3797aa">42 U.S.C.
+			 3797aa</cato:entity-ref>)</cato:entity>, as redesignated in subsection (a)(1), is amended—</text>
+					<paragraph id="HA549F815E8EB478585E911F4F8467C76">
+            <enum>(1)</enum>
+            <text>in paragraph (1)—</text>
+						<subparagraph id="H470C250742C840C79EB025014F10E5A9">
+              <enum>(A)</enum>
+              <text>in subparagraph (B), by striking <quote>and</quote> at the end;</text>
+						</subparagraph>
+            <subparagraph id="H05BC24E87EB64A64893B0976A54EF55F">
+              <enum>(B)</enum>
+              <text>in subparagraph (C), by striking the period and inserting <quote>; and</quote>; and</text>
+						</subparagraph>
+            <subparagraph id="H81E42602ECCF426F93EF4B5AD6855DAF">
+              <enum>(C)</enum>
+              <text>by adding at the end the following:</text>
+							<quoted-block id="HAEEC6E99FB694A2897372D50B679ABBD" style="OLC">
+								<subparagraph id="HE3F61B95A92E478D96182C60F885C036" indent="up1">
+                  <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">
+                    <enum>(D)</enum>
+                  <text>
+                      <cato:funds-and-year amount="40000000" year="2015, 2016, 2017, 2018, 2019">$40,000,000 for each of fiscal years 2015 through 2019</cato:funds-and-year>.</text>
+                  </cato:entity>
+                </subparagraph>
+                <after-quoted-block>; and</after-quoted-block>
+              </quoted-block>
+						</subparagraph>
+          </paragraph>
+          <paragraph id="H13A7AD0FE8474A15A407BBA321B3221B">
+            <enum>(2)</enum>
+            <text>by adding at the end the following:</text>
+						<quoted-block display-inline="no-display-inline" id="H2389DD1867AE410CAE81B624AAA48AF5" style="OLC">
+							<paragraph commented="no" display-inline="no-display-inline" id="HDE890B8D5D8E4225884EBE21ED89DF13" indent="up1">
+                <enum>(3)</enum>
+                <header>Limitation</header>
+                <text>Not more than 20 percent of the funds authorized to be appropriated under this subsection may be
+			 used
+			 for purposes described in subsection (i) (relating to veterans).</text>
+              </paragraph>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+        </subsection>
+      </section>
+    </title>
+    <title id="HB2F7B9C16F69477F8F8589460D5438C3">
+      <enum>II</enum>
+      <header>Improving mental health research</header>
+			<section commented="no" display-inline="no-display-inline" id="HD78B26F10D8642A081B7CF4796AC1780" section-type="subsequent-section">
+        <enum>201.</enum>
+        <header>Research with respect to violence</header>
+        <text display-inline="no-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7500" entity-type="federal-body">Secretary of Health and Human Services</cato:entity-ref>, in consultation with the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7529" entity-type="federal-body">Director of the National
+			 Institutes of Health</cato:entity-ref>, shall expand and intensify research on self-directed
+			 and other-directed violence associated with mental illness.</text>
+      </section>
+    </title>
+    <title id="HEB8B5FFA45BA467B9F1B2303B807FA2D">
+      <enum>III</enum>
+      <header>Understanding the epidemic of gun violence</header>
+			<section id="H02A68CE9C59E4C1CBAAD046D92C0DB28" section-type="subsequent-section">
+        <enum>301.</enum>
+        <header>National violent death reporting system</header>
+        <text display-inline="no-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7500" entity-type="federal-body">Secretary of Health and Human Services</cato:entity-ref>, acting through the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7523" entity-type="federal-body">Director of the Centers for Disease
+			 Control and Prevention</cato:entity-ref>, shall improve the National Violent Death Reporting
+			 System, authorized pursuant to <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Public Health Service Act/t:III">title III of the Public Health Service Act</cato:entity-ref>
+			 (<cato:entity-ref entity-type="uscode" value="usc/42/241/etseq">42
+			 U.S.C. 241 et seq.</cato:entity-ref>)</cato:entity>, particularly through the expansion of the application
+			 of such system to include the 50 States. Participation in the system by
+			 the States shall be voluntary.</text>
+			</section>
+      <section id="H87EF1A8D22AD4DA087E15D84B7C519DB">
+        <enum>302.</enum>
+        <header>Reaffirming Centers for Disease Control’s authority</header>
+				<subsection id="H863669C05670435FBDB29D1A14C085A5">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Public Health Service Act/s:391">Section 391 of the Public Health Service Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/280b">
+              <cato:entity-ref entity-type="uscode" value="usc/42/280b">42 U.S.C. 280b</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended—</text>
+					<paragraph id="HFFB8117807BE491EA2DEAE5A860C5A52">
+            <enum>(1)</enum>
+            <text display-inline="yes-display-inline">in subsection (a)(1), by striking <quote>research relating to the causes, mechanisms, prevention, diagnosis, treatment of injuries, and
+			 rehabilitation from injuries;</quote> and inserting</text>
+						<quoted-block display-inline="yes-display-inline" id="H8578D3A5C40A44E0A455E52552BF17C8" style="OLC">
+              <text>research, including data collection, relating to—</text>
+              <subparagraph id="id7215C17334514F32B329B5CEA8DCFF7B" indent="up1">
+                <enum>(A)</enum>
+                <text display-inline="yes-display-inline">the causes, mechanisms, prevention, diagnosis, and treatment of injuries, including with respect to
+			 gun violence; and</text>
+              </subparagraph>
+              <subparagraph id="id61DC6494CFDA4A42B84447490CD55520" indent="up1">
+                <enum>(B)</enum>
+                <text display-inline="yes-display-inline">rehabilitation from such injuries;</text>
+              </subparagraph>
+              <after-quoted-block>; and</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+          <paragraph id="H1F5C6A07D52B4683A9B4B7C22E911181">
+            <enum>(2)</enum>
+            <text>by adding at the end the following:</text>
+						<quoted-block display-inline="no-display-inline" id="HAB8B9A4F9A7949CDB0DD86E980CB2CB6" style="OLC">
+							<subsection id="H5AB27BACE2E74FEA922DD9F9F7BB596C">
+                <enum>(c)</enum>
+                <header>No advocacy or promotion of gun control</header>
+                <text display-inline="yes-display-inline">Nothing in this section shall be construed to—</text>
+								<paragraph id="H0E287009A9764725A8765452253FEEEC">
+                  <enum>(1)</enum>
+                  <text display-inline="yes-display-inline">authorize the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> to give assistance, make grants, or enter into cooperative agreements or
+			 contracts for the purpose of advocating or promoting gun control; or</text>
+								</paragraph>
+                <paragraph id="HF820E773A25148DBBEBB5FE4FCEF516C">
+                  <enum>(2)</enum>
+                  <text display-inline="yes-display-inline">permit a recipient of any assistance, grant, cooperative agreement, or contract under this section
+			 to use such assistance, grant, agreement, or contract for the purpose of
+			 advocating or promoting gun control.</text>
+                </paragraph>
+              </subsection>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="HA96FA588AFCC42A095FA8397D348AEE1">
+          <enum>(b)</enum>
+          <header>Authorization of appropriations</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="Public Health Service Act/s:394A">Section 394A of the Public Health Service Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/280b-3">
+                <cato:entity-ref entity-type="uscode" value="usc/42/280b–3">
+              42 U.S.C. 280b–3</cato:entity-ref>
+              </external-xref>)</cato:entity> is amended by striking <quote>authorized to be appropriated</quote> and all that follows through the end and inserting the following: <quote>
+              <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">authorized to be appropriated <cato:funds-and-year amount="indefinite" year="2015, 2016, 2017, 2018, 2019">such sums as may be necessary for each of fiscal years 2015 through
+			 2019</cato:funds-and-year>.</cato:entity>
+            </quote>.</text>
+				</subsection>
+      </section>
+      <section id="H8F3FE3F63B8B4F9A84D3D8AA00731D26">
+        <enum>303.</enum>
+        <header>Protecting confidential doctor-patient relationship</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Public Health Service Act/s:2717/ss:c">Section 2717(c) of the Public Health Service Act</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/300gg-17">
+              <cato:entity-ref entity-type="uscode" value="usc/42/300gg–17/c">
+            42 U.S.C. 300gg–17(c)</cato:entity-ref>
+            </external-xref>)</cato:entity> is amended by adding at
+			 the end the following:</text>
+				<quoted-block id="HB9CF7978E1E0439391E8217F772B4A11" style="OLC">
+					<paragraph id="HBA312CE9291C4B278E4391C26BCB0A51">
+            <enum>(6)</enum>
+            <header>Rule of construction</header>
+            <text display-inline="yes-display-inline">Notwithstanding the previous provisions of this subsection, none of the authorities provided to the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="7500">Secretary</cato:entity-ref> under this subsection, <external-xref legal-doc="public-law" parsable-cite="pl/111/148">
+                <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="public-law" value="public-law/111/148">Public Law 111–148</cato:entity-ref>
+              </external-xref>, or an amendment made
+			 by such Public Law shall be construed to prohibit a physician or other
+			 health care provider from—</text>
+						<subparagraph id="H151C8B1D43C44B239F7954E346FED0C0">
+              <enum>(A)</enum>
+              <text>asking a patient about the ownership, possession, use, or storage of a firearm or ammunition in the
+			 home of such patient;</text>
+						</subparagraph>
+            <subparagraph id="HE8E2ABA29E814CD2A6A2E7BFEFEDA6C5">
+              <enum>(B)</enum>
+              <text>speaking to a patient about gun safety; or</text>
+						</subparagraph>
+            <subparagraph id="H076EE418274C4495A395D003F66B1319">
+              <enum>(C)</enum>
+              <text>reporting to the authorities a patient’s threat of violence.</text>
+            </subparagraph>
+          </paragraph>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+      </section>
+    </title>
+    <title id="H0EFF09C7EA324A239849042B32A7AE8F">
+      <enum>IV</enum>
+      <header>Mental health and access to firearms</header>
+			<section id="H14583D2BA5774EF79A8D0348D097F06F">
+        <enum>401.</enum>
+        <header>Ban on firearm possession by person committed involuntarily to mental institution on an outpatient
+			 basis</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/922">
+            <external-xref legal-doc="usc" parsable-cite="usc/18/922">Section 922</external-xref> of title 18, United States Code</cato:entity-ref>, is amended—</text>
+        <paragraph id="id49222DCCEEE84EE0B8428F83673A0165">
+          <enum>(1)</enum>
+          <text display-inline="yes-display-inline">in subsection (d)(4), by
+			 inserting <quote>on an involuntary inpatient or involuntary outpatient basis</quote> before the semicolon; and</text>
+        </paragraph>
+        <paragraph id="id24AE489C5D204BE58D334828FE77E7A0">
+          <enum>(2)</enum>
+          <text>in subsection (g)(4), by
+			 inserting <quote>on an involuntary inpatient or involuntary outpatient basis</quote> before the semicolon.</text>
+				</paragraph>
+      </section>
+      <section id="H2A03349A8E50427AA5ABD50A7422079B">
+        <enum>402.</enum>
+        <header>Grant program regarding firearms</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Omnibus Crime Control and Safe Streets Act of 1968/s:506/ss:b">Section 506(b) of the Omnibus Crime Control and Safe Streets Act of 1968</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/3756">
+            <cato:entity-ref entity-type="uscode" value="usc/42/3756/b">42 U.S.C. 3756(b)</cato:entity-ref>
+          </external-xref>)</cato:entity> is
+			 amended—</text>
+				<paragraph id="id1BA869AA62264E61B8141E9F97575CBA">
+          <enum>(1)</enum>
+          <text>by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and adjusting
+			 the margins accordingly;</text>
+        </paragraph>
+        <paragraph id="id8B1C2F3DCF3E4637B587D703021BF8E3">
+          <enum>(2)</enum>
+          <text>in the matter preceding subparagraph (A), as redesignated, by striking <quote>to 1 or more States or units of local government</quote> and all that follows and inserting the following:</text>
+          <quoted-block display-inline="yes-display-inline" id="id990908FD78FC40DFAD289B1736E0CB9A" style="OLC">
+            <text>to—</text>
+            <paragraph id="idBEEDC67517B941E690464D108BCCC546">
+              <enum>(1)</enum>
+              <text>1 or more States or units of local government, for 1 or more of the purposes specified in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Omnibus Crime Control and Safe Streets Act of 1968/s:501">section
+			 501</cato:entity-ref>, if the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref> determines that providing such funds is
+			 necessary—</text>
+            </paragraph>
+            <after-quoted-block>;</after-quoted-block>
+          </quoted-block>
+        </paragraph>
+        <paragraph id="H51E483F9BA9F4576BA94A5C70141B8A6">
+          <enum>(3)</enum>
+          <text>in paragraph (1), as designated, by striking the period at the end and inserting <quote>; or</quote>; and</text>
+        </paragraph>
+        <paragraph id="H7EACE711D8424B16B2C07BD15892B2D5">
+          <enum>(4)</enum>
+          <text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H24FAD6D208294FBC8493E1AA735DC13E" style="OLC">
+						<paragraph id="HE4F32F38F6E94910912DE7A36EE0CC63">
+              <enum>(2)</enum>
+              <text display-inline="yes-display-inline">1 or more States, if each such State has demonstrated, in the determination of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney
+			 General</cato:entity-ref>,
+			 that the State has adopted policies, procedures, protocols, laws, or
+			 regulations pertaining to the possession or transfer of firearms or
+			 ammunition that—</text>
+							<subparagraph id="HB10B6C02AA6F4A9397F9646C6369A5E3">
+                <enum>(A)</enum>
+								<clause commented="no" display-inline="yes-display-inline" id="H6C2AF72F11A047529B0D355CA900B201">
+                  <enum>(i)</enum>
+                  <text display-inline="yes-display-inline">give State and local law enforcement officers the authority, to the extent allowable under Federal
+			 laws and
+			 the United States Constitution, to seize firearms or ammunition from an
+			 individual pursuant to a warrant, if there is probable cause to believe
+			 that the individual poses an
+			 elevated risk of harm to himself or herself or to another individual,
+			 which may be determined by considering whether the individual—</text>
+                  <subclause id="id5912844FC1E64AC7AED6829C2C185AF7" indent="up1">
+                    <enum>(I)</enum>
+                    <text display-inline="yes-display-inline">has caused
+			 harm to himself or herself or to another individual;</text>
+                  </subclause>
+                  <subclause id="idD99C5512CE524468BD02864CC9886ABF" indent="up1">
+                    <enum>(II)</enum>
+                    <text display-inline="yes-display-inline">has detailed plans to
+			 cause harm to himself or herself or to another individual;</text>
+                  </subclause>
+                  <subclause id="id5DC3868E110D487A961051F2D5C86829" indent="up1">
+                    <enum>(III)</enum>
+                    <text display-inline="yes-display-inline">has a history of
+			 substance abuse; or</text>
+                  </subclause>
+                  <subclause id="id7F6EB65FD147496FA4917F67A06705E9" indent="up1">
+                    <enum>(IV)</enum>
+                    <text display-inline="yes-display-inline">lacks impulse control; and</text>
+									</subclause>
+                </clause>
+                <clause id="H73F5FF48B1844DFFA0F6A0697CA8A2EA" indent="up1">
+                  <enum>(ii)</enum>
+                  <text display-inline="yes-display-inline">provide that not later than 14 days after a seizure of firearms or ammunition from an individual as
+			 described in subparagraph (A)—</text>
+                  <subclause id="idF6594FA39C364D28833DB9874AE25EAC">
+                    <enum>(I)</enum>
+                    <text display-inline="yes-display-inline">the individual shall be given an opportunity to contest the
+			 seizure in court; and</text>
+                  </subclause>
+                  <subclause id="id553BA8EAE0714BDE8A1EEEE2A5A7C291">
+                    <enum>(II)</enum>
+                    <text display-inline="yes-display-inline">any firearm or ammunition seized shall be
+			 returned to the individual unless a State or local law enforcement
+			 officer demonstrates in court by a preponderance of the evidence that the
+			 individual poses an elevated
+			 risk of harm to himself or herself or to another individual; or</text>
+									</subclause>
+                </clause>
+              </subparagraph>
+              <subparagraph id="HE1146C21096042C9BE3CD5F659B885BB">
+                <enum>(B)</enum>
+                <text>temporarily prohibit an individual who has been involuntarily hospitalized for a period of not less
+			 than 48 hours for mental illness on an emergency basis from possessing a
+			 firearm or ammunition;</text>
+              </subparagraph>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </section>
+      <section id="HC40AC1DE1FE944C6974E489ADD4B04B8">
+        <enum>403.</enum>
+        <header>Notification of State and local law enforcement authorities of attempt to purchase firearm by
+			 ineligible person</header>
+				<subsection id="H6DEA0F322E774542B7EA956ECBA9D1FD">
+          <enum>(a)</enum>
+          <header>Definitions</header>
+          <text display-inline="yes-display-inline">In this section—</text>
+          <paragraph id="id1F18D09D55334109B2E9E8CB8CF0992D">
+            <enum>(1)</enum>
+            <text>the term <term>National Instant Criminal Background Check System</term> means the National Instant Criminal Background
+			 Check System established under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="Brady Handgun Violence Prevention Act/s:103">section 103 of the Brady Handgun Violence
+			 Prevention Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/18/922/note">
+                  <external-xref legal-doc="usc" parsable-cite="usc/18/922">
+                18 U.S.C. 922
+              </external-xref> note</cato:entity-ref>)</cato:entity>; and</text>
+          </paragraph>
+          <paragraph id="idAD060314ACE14053952FE6D764EEA7B1">
+            <enum>(2)</enum>
+            <text display-inline="yes-display-inline">the terms <term>firearm</term> and <term>licensed dealer</term> have the meanings given those terms in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/921/a">
+                <external-xref legal-doc="usc" parsable-cite="usc/18/921">section 921(a)</external-xref> of title 18, United States Code</cato:entity-ref>.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="HE53858F4111A48F79C7DA61B2637DE5F">
+          <enum>(b)</enum>
+          <header>Establishment of notification system</header>
+          <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref> shall establish a system for the prompt notification of the relevant State and
+			 local enforcement agencies when the National Instant Criminal Background
+			 Check System notifies a licensed dealer that the information available
+			 to the National Instant Criminal Background Check System indicates that
+			 the possession of a firearm by an individual
+			 attempting to obtain a firearm from the licensed dealer would violate
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/922/g">subsection (g)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/922/n">(n) of <external-xref legal-doc="usc" parsable-cite="usc/18/922">section 922</external-xref> of title 18, United States Code</cato:entity-ref>, or
+			 State law, except when the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref> determines, on a case-by-case
+			 basis, that law
+			 enforcement purposes would best be served by not providing such a notice.</text>
+				</subsection>
+      </section>
+    </title>
+    <title id="HD1D56795A3C8453B822DF1BEBCC9A0AB">
+      <enum>V</enum>
+      <header>Restoration</header>
+			<section display-inline="no-display-inline" id="H03B826D57C034B52B860CD78AE15EB56" section-type="subsequent-section">
+        <enum>501.</enum>
+        <header>Federal agency relief program</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="NICS Improvement Amendments Act of 2007/s:101/ss:c/p:2/sp:A">Section 101(c)(2)(A) of the NICS Improvement Amendments Act of 2007</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/18/922/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/18/922">
+            18 U.S.C. 922
+          </external-xref> note</cato:entity-ref>)</cato:entity> is
+			 amended—</text>
+				<paragraph id="HE18694BA2C0445CC99A95FA6851F93D8">
+          <enum>(1)</enum>
+          <text>by redesignating clauses (ii) and (iii) as clauses (iii) and (iv), respectively; and</text>
+        </paragraph>
+        <paragraph id="id05277E37471248C798B2F4C691011830">
+          <enum>(2)</enum>
+          <text>by inserting after clause (i) the following:</text>
+          <quoted-block display-inline="no-display-inline" id="id7B6F6B0ACED843E8AADFB64F4F18B0FD" style="OLC">
+            <clause id="idC4537DC47F0B441EAFFCE4DADBA712B6">
+              <enum>(ii)</enum>
+              <header>Adjudication of applications</header>
+              <text display-inline="yes-display-inline">A
+			 Federal department or agency that  makes an adjudication related to the
+			 mental health of a person or imposes a commitment of a person to a
+			 mental institution, as described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/922/d/4">subsection (d)(4)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/922/g/4">(g)(4) of section
+			 922 of title 18, United States Code</cato:entity-ref>, shall grant the person relief from
+			 the disability imposed by such subsection only if—</text>
+              <subclause id="id9BA38382BB764A63AF2AC8D51BF834B4">
+                <enum>(I)</enum>
+                <text>not earlier than 1 year
+			 after the date on which the person
+			 is first subject to the disability,  the person submits to the department
+			 or agency—</text>
+                <item id="idE57326E8DD7F424C8825A67ABBF1336D">
+                  <enum>(aa)</enum>
+                  <text>an application for relief from the disability; and</text>
+                </item>
+                <item id="id7B0BFC62FA09422A92A00FAB14D6C253">
+                  <enum>(bb)</enum>
+                  <text>the opinion (and
+			 records and
+			 information supporting the opinion) of a psychiatrist or licensed clinical
+			 psychologist who has personally evaluated the person, which attests that—</text>
+                  <subitem id="id6D23959DED1E48E685EF25E032D7C76F">
+                    <enum>(AA)</enum>
+                    <text>the person no longer manifests the symptoms of mental disorder that resulted in the adjudication of
+			 the person as a mental defective or involuntary commitment of the person;</text>
+									</subitem>
+                  <subitem id="idB6ECDE61F7FB46A7AD3D67A069A5B0D7">
+                    <enum>(BB)</enum>
+                    <text>the person appears to have adhered consistently to any prescribed treatment for a substantial
+			 period of time preceding the date of the application; and</text>
+									</subitem>
+                  <subitem id="id8249AB563F564CC1A0A4ED9051A57622">
+                    <enum>(CC)</enum>
+                    <text>if ongoing treatment is required, adherence to that treatment is likely to minimize the risk
+			 that the person will revert to a mental state that would present a danger
+			 to the person or to others;</text>
+                  </subitem>
+                </item>
+              </subclause>
+              <subclause id="idB5F1D9C0A0654C6182673FB4CC497C67">
+                <enum>(II)</enum>
+                <text>the department or agency has the opportunity to request an additional
+			 evaluation of the person by a psychiatrist or licensed clinical
+			 psychologist appointed
+			 by the department or agency; and</text>
+              </subclause>
+              <subclause id="id012E9C6804D6408E8FB8084C5266D4E6">
+                <enum>(III)</enum>
+                <text display-inline="yes-display-inline">the department or agency determines by a
+			 preponderance of the evidence received that—</text>
+                <item id="idC66BA58F6A994614AAAA1BCC42F7087D">
+                  <enum>(aa)</enum>
+                  <text display-inline="yes-display-inline">the person no longer manifests the symptoms of mental disorder that resulted in that person’s
+			 adjudication as a mental defective or involuntary commitment or that
+			 otherwise significantly elevate the risk of harm to self or others;</text>
+								</item>
+                <item id="id2819E9BC7BA84CFA8A297D274717E322">
+                  <enum>(bb)</enum>
+                  <text display-inline="yes-display-inline">the person—</text>
+                  <subitem id="idB8EA16713BFD4F5188DF2FBED012E243">
+                    <enum>(AA)</enum>
+                    <text display-inline="yes-display-inline">appears to have consistently adhered to any prescribed treatment for a substantial period of time
+			 preceding the date of the application; and</text>
+                  </subitem>
+                  <subitem id="id3A2F3CF0E9614ADB88DE97ABCACCD2B5">
+                    <enum>(BB)</enum>
+                    <text display-inline="yes-display-inline">has expressed a willingness to
+			 continue treatment under an appropriate mental health professional;</text>
+									</subitem>
+                </item>
+                <item id="id0FD70FBC2FB04087A74BD6D409127F18">
+                  <enum>(cc)</enum>
+                  <text>if ongoing treatment is required, adherence to that treatment is likely to minimize the risk
+			 that the person will revert to a mental state that would present a danger
+			 to the person or to others; and</text>
+								</item>
+                <item id="idDA5588CB10AB49CC87FA437E6A310B1C">
+                  <enum>(dd)</enum>
+                  <text display-inline="yes-display-inline">the granting of the relief would not be contrary to the public interest.</text>
+                </item>
+              </subclause>
+            </clause>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </section>
+      <section id="HC5A6DFDDC70B485D817B66BAEDDB2928">
+        <enum>502.</enum>
+        <header>State relief programs</header>
+				<subsection id="HF8C8138598694C0094D7C3B3663BC3EF">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text display-inline="yes-display-inline">
+            <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="NICS Improvement Amendments Act of 2007/s:105">Section 105 of the NICS Improvement Amendments Act of 2007</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/18/922/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/18/922">
+              18 U.S.C. 922
+            </external-xref> note</cato:entity-ref>)</cato:entity> is amended—</text>
+					<paragraph id="H358B1DB6DF9942B888EF5F0267639A7D">
+            <enum>(1)</enum>
+            <text>in subsection (a), by striking paragraph (2) and inserting the following:</text>
+            <quoted-block display-inline="no-display-inline" id="id9D501DACB50C4D19996442CE653D9E42" style="OLC">
+              <paragraph id="id3824B276708E4C28B1D10582AA178E0F">
+                <enum>(2)</enum>
+                <text>provides that, not earlier than 1 year after the date on which a person is first adjudicated or
+			 committed as
+			 described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/922/g/4">subsection
+			 (g)(4) of <external-xref legal-doc="usc" parsable-cite="usc/18/922">section 922</external-xref> of title 18, United States Code</cato:entity-ref>, a State court,
+			 board, commission, or other lawful authority shall grant the relief,
+			 pursuant to
+			 State law and in accordance with the principles of due process, only if—</text>
+                <subparagraph id="id914513474DFF425D83AC9E29BB944EAA">
+                  <enum>(A)</enum>
+                  <text>the person submits with the
+			 application for relief
+			 under paragraph (1) the opinion (and records and information
+			 supporting the opinion) of a psychiatrist or licensed clinical
+			 psychologist who has personally evaluated the person, which attests that—</text>
+                  <clause id="idF25D5C726DA648258B0A77F8E6A823DE">
+                    <enum>(i)</enum>
+                    <text>the person no longer manifests the symptoms of mental disorder that resulted in the adjudication of
+			 the person as a mental defective or involuntary commitment of the person;</text>
+									</clause>
+                  <clause id="idB5177977F1A94EAA9E5AD960200C9E71">
+                    <enum>(ii)</enum>
+                    <text>the person appears to have adhered consistently to any prescribed treatment for a substantial
+			 period of time preceding the date of the application; and</text>
+									</clause>
+                  <clause id="idD42902273740460DB788E814269C663B">
+                    <enum>(iii)</enum>
+                    <text>if ongoing treatment is required, adherence to that treatment is likely to minimize the risk
+			 that the person will revert to a mental state that would present a danger
+			 to the person or to others;</text>
+                  </clause>
+                </subparagraph>
+                <subparagraph id="idFF17130C55214CCAB4BD2F87EFF32A81">
+                  <enum>(B)</enum>
+                  <text>the State has the opportunity to
+			 request an additional evaluation of the person by a psychiatrist or
+			 licensed clinical
+			 psychologist appointed by the court, board, commission, or other lawful
+			 authority; and</text>
+                </subparagraph>
+                <subparagraph id="id33181AAEAE024EA5BC8B7E14BCD8C8D0">
+                  <enum>(C)</enum>
+                  <text>the court, board, commission, or other lawful authority
+			 determines by a preponderance of the evidence received that—</text>
+                  <clause id="id1A0B61EDEA5F4AC8A32F5C284B931C0C">
+                    <enum>(i)</enum>
+                    <text>the person no longer manifests the symptoms of mental disorder that resulted in the adjudication of
+			 the person as a mental defective or involuntary commitment of the person;</text>
+									</clause>
+                  <clause id="idA95E367718AB4573B9CE26C2112E36A8">
+                    <enum>(ii)</enum>
+                    <text>the person—</text>
+                    <subclause id="idFD671EAE52C7400EB43C3E4D261CD157">
+                      <enum>(I)</enum>
+                      <text>appears to have  consistently adhered to any prescribed treatment for a substantial
+			 period of time preceding the date of the application; and</text>
+                    </subclause>
+                    <subclause id="idFDD02DAA94D442EE854628AFE61930C7">
+                      <enum>(II)</enum>
+                      <text>has expressed a
+			 willingness to continue treatment under an appropriate mental health
+			 professional;</text>
+										</subclause>
+                  </clause>
+                  <clause id="idF402F1836FE34E858550EBC768B8FBC5">
+                    <enum>(iii)</enum>
+                    <text>if ongoing treatment is required, adherence to that treatment is likely to minimize the risk
+			 that the person will revert to a mental state that would present a danger
+			 to the person or to others; and</text>
+									</clause>
+                  <clause id="id5FABF8B03C8744C68389B016020D1E93">
+                    <enum>(iv)</enum>
+                    <text>the granting of the relief would not be contrary to the public interest; and</text>
+                  </clause>
+                </subparagraph>
+              </paragraph>
+              <after-quoted-block>; and</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+          <paragraph id="H8087731F05094C0B87D13CBE99E6C712">
+            <enum>(2)</enum>
+            <text>by adding at the end the following:</text>
+						<quoted-block display-inline="no-display-inline" id="HA7AAAEE790D54E32A23FB4AAF9F497CA" style="OLC">
+							<subsection id="HF7D2A40E606D4EC394A82960D7CA2F03">
+                <enum>(c)</enum>
+                <header>Definitions</header>
+                <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref> may, by regulation, define a term used in this section to ensure conformity
+			 with
+			 Federal programs providing relief from disabilities imposed under
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/922/d">subsections (d)</cato:entity-ref> and <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/922/g">(g) of <external-xref legal-doc="usc" parsable-cite="usc/18/922">section 922</external-xref> of title 18, United States Code</cato:entity-ref>.</text>
+              </subsection>
+              <after-quoted-block>.</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+        </subsection>
+        <subsection id="HBE9EE1EDD75541DBBE41DA1316EC7528">
+          <enum>(b)</enum>
+          <header>Transition rule</header>
+          <text display-inline="yes-display-inline">The amendment made by subsection (a) shall apply only beginning on the date that is 5 years after
+			 the date of enactment of this Act, in the case of any State that has a
+			 program described in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="NICS Improvement Amendments Act of 2007/s:105">section 105 of the NICS Improvement Amendments Act of
+			 2007</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/18/922/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/18/922">
+              18 U.S.C. 922
+            </external-xref> note</cato:entity-ref>)</cato:entity> in effect on the date of enactment of this Act.</text>
+				</subsection>
+      </section>
+      <section id="H91DFA702C3F74A18847F175B3233D860">
+        <enum>503.</enum>
+        <header>General Federal relief</header>
+        <text display-inline="no-display-inline">
+          <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/925/c">
+            <external-xref legal-doc="usc" parsable-cite="usc/18/925">Section 925(c)</external-xref> of title 18, United States Code</cato:entity-ref>, is amended—</text>
+				<paragraph id="H3743DC12148B431E8B550DBE6A45B9FF">
+          <enum>(1)</enum>
+          <text>by striking <quote>(c) A person</quote> and inserting <quote>(c)(1) Except as provided in paragraph (2), a person</quote>; and</text>
+				</paragraph>
+        <paragraph id="H9A633C1C49AA4416A48CA635EBEA0EE0">
+          <enum>(2)</enum>
+          <text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H8E0DB98E549D4BF78BBB1DBF190151FE" style="USC">
+						<paragraph id="H7BD96A97EF5F4A86813D63EE13EC0871" indent="up1">
+              <enum>(2)</enum>
+              <text display-inline="yes-display-inline">A person who is subject to a disability imposed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/922/d/4">subsection (d)(4)</cato:entity-ref> or
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/922/g/4">(g)(4) of section 922</cato:entity-ref> may not receive relief under
+			 this subsection unless—</text>
+							<subparagraph id="HA2BF6EC323494B83A2AB7EB2FD7FE742">
+                <enum>(A)</enum>
+                <text>the person submits an application to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref> for relief from the disability not
+			 earlier than 1 year after the date on which the person is first subject to
+			 the
+			 disability;</text>
+							</subparagraph>
+              <subparagraph id="H0EF4A39A1A4143819236F6132F1F084B">
+                <enum>(B)</enum>
+                <text>the person submits, with the application for relief, the opinion (and records and information
+			 supporting the opinion) of a psychiatrist or licensed clinical
+			 psychologist who has personally evaluated the person, which attests
+			 that—</text>
+								<clause id="H11BB344E02194D7FBBB3142D82AC88CB">
+                  <enum>(i)</enum>
+                  <text>the person no longer manifests the symptoms of mental disorder that resulted in the adjudication of
+			 the person as a mental defective or involuntary commitment of the person;</text>
+								</clause>
+                <clause id="HFF58C39FF6024A2799CC9BECA017F1C8">
+                  <enum>(ii)</enum>
+                  <text>the person appears to have adhered consistently to any prescribed treatment for a substantial
+			 period of time preceding the date of the application; and</text>
+								</clause>
+                <clause id="H654444E20AB042F0A255AE56132C3CA2">
+                  <enum>(iii)</enum>
+                  <text>if ongoing treatment is required, adherence to that treatment is likely to minimize the risk
+			 that the person will revert to a mental state that would present a danger
+			 to the person or to others;</text>
+								</clause>
+              </subparagraph>
+              <subparagraph id="H471F35BED20549AB94C32FCC9D8036AA">
+                <enum>(C)</enum>
+                <text display-inline="yes-display-inline">the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref> has the opportunity to request an additional evaluation by a
+			 psychiatrist or licensed clinical psychologist appointed by the court; and</text>
+							</subparagraph>
+              <subparagraph id="H060AF7697EA24906A5DE04F16BBF0E83">
+                <enum>(D)</enum>
+                <text>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref> determines by a preponderance of the evidence received that—</text>
+								<clause id="H0726EB5777304B108E9A4A133E3FA81F">
+                  <enum>(i)</enum>
+                  <text>the person no longer manifests the symptoms of mental disorder that resulted in the
+			 adjudication of the person as a mental defective or involuntary commitment
+			 of the person;</text>
+								</clause>
+                <clause id="HB2377BAC115D49C8AF01B086098837CE">
+                  <enum>(ii)</enum>
+                  <text>the person—</text>
+                  <subclause id="idB45E069F13374F1895AF5F798667B0BF">
+                    <enum>(I)</enum>
+                    <text>appears to have adhered consistently to any prescribed treatment for a substantial
+			 period of time preceding the date of the application; and</text>
+                  </subclause>
+                  <subclause id="id6BBD0498A5C040A4A0ED54E13EE61EC8">
+                    <enum>(II)</enum>
+                    <text>has expressed a
+			 willingness to continue treatment under an appropriate mental health
+			 professional;</text>
+									</subclause>
+                </clause>
+                <clause id="HF9097F23F06941DEA24B99209CEAB2E9">
+                  <enum>(iii)</enum>
+                  <text>if ongoing treatment is required, adherence to that treatment is likely to minimize the risk
+			 that the person will revert to a mental state that would present a danger
+			 to the person or to others; and</text>
+								</clause>
+                <clause id="HD4E761B11F8C4076A972339D80ECC80F">
+                  <enum>(iv)</enum>
+                  <text>the granting of the relief would not be contrary to the public interest.</text>
+								</clause>
+              </subparagraph>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </section>
+    </title>
+    <title id="H543662D4AB9346BE895D7B28121A2C98">
+      <enum>VI</enum>
+      <header>Submission of Mental Health Records to National Instant Criminal Background Check System</header>
+			<section id="H3BBDA8556974461CAF71A12B982B934F">
+        <enum>601.</enum>
+        <header>Reports relating to submission of information to NICS</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="NICS Improvement Amendments Act of 2007/s:201">Section 201 of the NICS Improvement Amendments Act of 2007</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/18/922/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/18/922">
+            18 U.S.C. 922
+          </external-xref> note</cato:entity-ref>)</cato:entity> is amended—</text>
+				<paragraph id="H0C98509F1BC24A9CBCD18527D34C116C">
+          <enum>(1)</enum>
+          <text>by striking subsection (b) and inserting the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H25FE161DFA274BA1B5D6F5B4B71FB5DF" style="OLC">
+						<subsection id="H57607F6F6CF64568BF251EC66B72005B">
+              <enum>(b)</enum>
+              <header>Report on persons prohibited from obtaining firearms as a result of a conviction of a misdemeanor
+			 crime of domestic violence</header>
+              <text display-inline="yes-display-inline">Not later than January 31 of each year, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Bureau of Justice Statistics" entity-parent-id="1500">Director</cato:entity-ref> shall submit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> a report containing
+			 the number of persons reported by each State to the National Instant
+			 Criminal Background Check System under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="NICS Improvement Amendments Act of 2007/s:102/ss:b">section 102(b)</cato:entity-ref> who are prohibited
+			 from possessing or
+			 receiving a firearm under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/922/g/9">
+                  <external-xref legal-doc="usc" parsable-cite="usc/18/922">section 922(g)(9)</external-xref> of title 18, United States
+			 Code</cato:entity-ref>.</text>
+            </subsection>
+            <after-quoted-block>;</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+        <paragraph id="H41CCDAB0146D463BB4C28D7574394B62">
+          <enum>(2)</enum>
+          <text>by redesignating subsection (d) as (e); and</text>
+				</paragraph>
+        <paragraph id="HFD050A5218CB4C59A0AB95C14A42A0A7">
+          <enum>(3)</enum>
+          <text>by inserting after subsection (c) the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H4EBB274E71D24373B21C6A547522AA9A" style="OLC">
+						<subsection id="H5B0DB689A9C14B93B1E8C3E144F28342">
+              <enum>(d)</enum>
+              <header>Report on promising practices</header>
+							<paragraph id="H573C068EE15845528471BDBC4DE143AD">
+                <enum>(1)</enum>
+                <header>In general</header>
+                <text>Not later than 180 days after the date of enactment of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Promoting Healthy Minds for Safer Communities Act of 2014" proposed="true">Promoting Healthy Minds for Safer
+			 Communities Act of 2014</cato:entity-ref>, and annually thereafter, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Bureau of Justice Statistics" entity-parent-id="1500">Director</cato:entity-ref> shall
+			 submit to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> and to each State participating in the National
+			 Criminal History Improvement Program, a report of the practices of the
+			 States that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Bureau of Justice Statistics" entity-parent-id="1500">Director</cato:entity-ref> considers to be promising practices.</text>
+							</paragraph>
+              <paragraph id="H11356AEF611246EC80990E7AF8DF1BFE">
+                <enum>(2)</enum>
+                <header>Promising practice defined</header>
+                <text display-inline="yes-display-inline">For purposes of this subsection, the term <term>promising practice</term> means a program, activity, or strategy of a State regarding the collection, maintenance,
+			 automation, and transmittal  by the State or any State agency of
+			 information relevant to determining whether
+			 a person is prohibited from possessing or receiving a firearm by Federal
+			 or State law, or any other records
+			 relevant to the National Instant Criminal Background Check System, that
+			 the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Bureau of Justice Statistics" entity-parent-id="1500">Director</cato:entity-ref> determines—</text>
+								<subparagraph id="H1316C1F920D54801938BAA19AD9EF844">
+                  <enum>(A)</enum>
+                  <text>has been used by a State or any State agency to successfully increase or expand its ability to
+			 collect,
+			 maintain, automate, and transmit the information described in the matter
+			 preceding this subparagraph;</text>
+								</subparagraph>
+                <subparagraph id="HDC46C3FD122B4D7EB2409033AB76423C">
+                  <enum>(B)</enum>
+                  <text>shows promise in its early stages of becoming a best practice under subsection (c), with long-term
+			 sustainable impact; and</text>
+								</subparagraph>
+                <subparagraph id="HD9F197120DB445FA80FAC3AC57CFB64E">
+                  <enum>(C)</enum>
+                  <text>may be replicated by other States or State agencies.</text>
+                </subparagraph>
+              </paragraph>
+            </subsection>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </section>
+      <section id="HC7F9FEE616F54D8182D8F4326A95EC60">
+        <enum>602.</enum>
+        <header>Reauthorization of the National Criminal History Records Improvement Program</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Brady Handgun Violence Prevention Act/s:106/ss:b">Section 106(b) of the Brady Handgun Violence Prevention Act</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/18/922/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/18/922">
+            18 U.S.C. 922
+          </external-xref> note</cato:entity-ref>)</cato:entity> is amended—</text>
+				<paragraph id="H7F615461DE8D47DB87E02CE32789694E">
+          <enum>(1)</enum>
+          <text>in paragraph (1), in the matter preceding subparagraph (A), by striking <quote>this Act</quote> and inserting <quote>the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Promoting Healthy Minds for Safer Communities Act of 2014" proposed="true">Promoting Healthy Minds for Safer Communities Act of 2014</cato:entity-ref>
+            </quote>; and</text>
+				</paragraph>
+        <paragraph id="HEDEC7DA5583B468DACBDB948EED8A923">
+          <enum>(2)</enum>
+          <text>in paragraph (2), by striking <quote>a total of</quote> and all that follows and inserting the following:
+				 <quote>$100,000,000 for each of
+			 fiscal years 2015 through 2018.</quote>.</text>
+				</paragraph>
+      </section>
+      <section id="H4D7F03FC0DE1404485ACD5A79BA353C1">
+        <enum>603.</enum>
+        <header>Improvement of metrics and incentives</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="NICS Improvement Amendments Act of 2007/s:102/ss:b">Section 102(b) of the NICS Improvement Amendments Act of 2007</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/18/922/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/18/922">
+            18 U.S.C. 922
+          </external-xref> note</cato:entity-ref>)</cato:entity> is amended to
+			 read as follows:</text>
+				<quoted-block id="H61979CC58A9544DBA7BE1E001CFA9333" style="OLC">
+					<subsection id="H338C7857EAD648C0A14E61C638B65DAF">
+            <enum>(b)</enum>
+            <header>Implementation plan</header>
+						<paragraph id="H86BC0DAEEEED4E79885053FC6F361C47">
+              <enum>(1)</enum>
+              <header>In general</header>
+              <text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Promoting Healthy Minds for Safer Communities Act of 2014" proposed="true">Promoting Healthy Minds for Safer
+			 Communities Act of 2014</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref>, in coordination with the
+			 States, shall establish for each State or Indian tribal government
+			 desiring a grant under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="NICS Improvement Amendments Act of 2007/s:103" proposed="true">section 103</cato:entity-ref> a 4-year implementation plan to ensure
+			 maximum coordination and automation of the reporting of records or making
+			 records available to the National Instant Criminal Background Check
+			 System.</text>
+						</paragraph>
+            <paragraph id="HD5428FCD910242EFA2621472A87EFE25">
+              <enum>(2)</enum>
+              <header>Benchmark requirements</header>
+              <text>Each 4-year plan established under paragraph (1) shall include annual benchmarks, including both
+			 qualitative goals and quantitative measures, to assess the implementation
+			 of
+			 the 4-year plan.</text>
+						</paragraph>
+            <paragraph id="H5B9E6AD679B340589D34C41C3DE1E017">
+              <enum>(3)</enum>
+              <header>Penalties for non-compliance</header>
+							<subparagraph id="H46CC717AE6D947C688D2575E97697D42">
+                <enum>(A)</enum>
+                <header>In general</header>
+                <text>During the 4-year period covered by a 4-year plan established under paragraph (1), the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney
+			 General</cato:entity-ref> shall withhold—</text>
+								<clause id="H9A366851C1F8493AB16A0CDE5A0D15B7">
+                  <enum>(i)</enum>
+                  <text>10 percent of the amount that would otherwise be allocated to a State under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Omnibus Crime Control and Safe Streets Act of 1968/s:505">section 505 of the
+			 Omnibus Crime Control and Safe Streets Act of 1968</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/3755">
+                      <cato:entity-ref entity-type="uscode" value="usc/42/3755">42 U.S.C. 3755</cato:entity-ref>
+                    </external-xref>)</cato:entity> if the
+			 State does not meet the benchmark established under paragraph (2) for the
+			 first year in the 4-year period;</text>
+								</clause>
+                <clause id="H202A7173B626416BB47B686BE4DA3671">
+                  <enum>(ii)</enum>
+                  <text>11 percent of the amount that would otherwise be allocated to a State under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Omnibus Crime Control and Safe Streets Act of 1968/s:505">section 505 of the
+			 Omnibus Crime Control and Safe Streets Act of 1968</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/3755">
+                      <cato:entity-ref entity-type="uscode" value="usc/42/3755">42 U.S.C. 3755</cato:entity-ref>
+                    </external-xref>)</cato:entity> if the
+			 State does not meet the benchmark established under paragraph (2) for the
+			 second year in the 4-year period;</text>
+								</clause>
+                <clause id="H197485A1DD5C445B90B9AE136D76AE01">
+                  <enum>(iii)</enum>
+                  <text>13 percent of the amount that would otherwise be allocated to a State under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Omnibus Crime Control and Safe Streets Act of 1968/s:505">section 505 of the
+			 Omnibus Crime Control and Safe Streets Act of 1968</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/3755">
+                      <cato:entity-ref entity-type="uscode" value="usc/42/3755">42 U.S.C. 3755</cato:entity-ref>
+                    </external-xref>)</cato:entity> if the
+			 State does not meet the benchmark established under paragraph (2) for the
+			 third year in the 4-year period; and</text>
+								</clause>
+                <clause id="H178A647605E64883A8F2D3B6F0EA9233">
+                  <enum>(iv)</enum>
+                  <text>15 percent of the amount that would otherwise be allocated to a State under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                      <cato:entity-ref entity-type="act" value="Omnibus Crime Control and Safe Streets Act of 1968/s:505">section 505 of the
+			 Omnibus Crime Control and Safe Streets Act of 1968</cato:entity-ref> (<external-xref legal-doc="usc" parsable-cite="usc/42/3755">
+                      <cato:entity-ref entity-type="uscode" value="usc/42/3755">42 U.S.C. 3755</cato:entity-ref>
+                    </external-xref>)</cato:entity> if the
+			 State does not meet the benchmark established under paragraph (2) for the
+			 fourth year in the 4-year period.</text>
+								</clause>
+              </subparagraph>
+              <subparagraph id="H82A3CAC6C4AA4260A9D4D07664D85381">
+                <enum>(B)</enum>
+                <header>Failure to establish a plan</header>
+                <text>A State that fails to establish a plan under paragraph (1) shall be treated as having not met any
+			 benchmark established under paragraph (2).</text>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <after-quoted-block>.</after-quoted-block>
+        </quoted-block>
+			</section>
+      <section id="H84AEC624998D42D5B3E7C2BF2D818F2B">
+        <enum>604.</enum>
+        <header>Grants to States to improve coordination and automation of NICS record reporting</header>
+				<subsection id="HCF45567C0484418E88FE3B95403E1C6F">
+          <enum>(a)</enum>
+          <header>In general</header>
+          <text>The <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="NICS Improvement Amendments Act of 2007">NICS Improvement Amendments Act of 2007</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/18/922/note">
+                <external-xref legal-doc="usc" parsable-cite="usc/18/922">
+              18 U.S.C. 922
+            </external-xref> note</cato:entity-ref>)</cato:entity> is amended—</text>
+					<paragraph id="H71F1226810C945AA9C1CF31ACE8E7017">
+            <enum>(1)</enum>
+            <text>by striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="NICS Improvement Amendments Act of 2007/s:103">section 103</cato:entity-ref> and inserting the following:</text>
+						<quoted-block id="HB59BA2D5B8894FC197E723DB03F97822" style="OLC">
+							<section id="HCFC31A97958E45669817E39F020C725A">
+                <enum>103.</enum>
+                <header>Grants to States for improvement of coordination and automation of NICS record reporting</header>
+								<subsection id="HD4000E2A7BA943D09B4FD52E82C2DC2F">
+                  <enum>(a)</enum>
+                  <header>Authorization</header>
+                  <text>From amounts made available to carry out this section, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref> shall make grants to
+			 States, Indian tribal governments, and State court systems, in a manner
+			 consistent with the National Criminal History Improvement Program and
+			 consistent with State plans for integration, automation, and accessibility
+			 of criminal history records, for use by the State or units of local
+			 government of the State, Indian tribal government, or State court system
+			 to improve the automation and transmittal of mental health records and
+			 criminal history dispositions, records relevant to determining whether a
+			 person has been convicted of a misdemeanor crime of domestic violence,
+			 court orders, and mental health adjudications or commitments to Federal
+			 and State record repositories in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="NICS Improvement Amendments Act of 2007/s:102">section 102</cato:entity-ref> and the
+			 National Criminal History Improvement Program.</text>
+								</subsection>
+                <subsection id="H3AC30EE2C5444DD1BD75A9FE24582BD3">
+                  <enum>(b)</enum>
+                  <header>Use of grant amounts</header>
+                  <text>A grant awarded to a State, Indian tribal government, or State court system under this section may
+			 only be used to—</text>
+									<paragraph id="HBD847175D53D4AEEACF925DACBEE080A">
+                    <enum>(1)</enum>
+                    <text>carry out, as necessary, assessments of the capabilities of the courts of the State or Indian
+			 tribal government for the automation and transmittal of arrest and
+			 conviction records, court orders, and mental health adjudications or
+			 commitments to Federal and State record repositories;</text>
+									</paragraph>
+                  <paragraph id="H7682F22F0425471ABA48A27EBAA290B6">
+                    <enum>(2)</enum>
+                    <text>implement policies, systems, and procedures for the automation and transmittal of arrest and
+			 conviction records, court orders, and mental health adjudications or
+			 commitments to Federal and State record repositories;</text>
+									</paragraph>
+                  <paragraph id="H0B0E158870404C139224EB76F9EB1914">
+                    <enum>(3)</enum>
+                    <text>create electronic systems that provide accurate and up-to-date information that is directly
+			 related to checks under the National Instant Criminal Background Check
+			 System, including court disposition and corrections records;</text>
+									</paragraph>
+                  <paragraph id="HB07F6E2087F84DE283D42B5CB8BC4EDC">
+                    <enum>(4)</enum>
+                    <text>assist the State or Indian tribal government in establishing or enhancing its own capacity to
+			 perform background checks using the National Instant Criminal Background
+			 Check System; and</text>
+									</paragraph>
+                  <paragraph id="HF81FDD7F9A734BAF87424F342EC4CC44">
+                    <enum>(5)</enum>
+                    <text>develop and maintain the relief from disabilities program in accordance with <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="NICS Improvement Amendments Act of 2007/s:105">section 105</cato:entity-ref>.</text>
+									</paragraph>
+                </subsection>
+                <subsection id="H4043BD6180CC4000B9125D592561B8A4">
+                  <enum>(c)</enum>
+                  <header>Eligibility</header>
+									<paragraph id="H3E2E0887BD3C4EA9B03E6005E1A22037">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+                    <text>To be eligible for a grant under this section, a State, Indian tribal government, or State court
+			 system shall certify, to the satisfaction of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref>, that
+			 the State, Indian tribal government, or State court system—</text>
+										<subparagraph id="HAEBDEDCA78914DCE806428FDBF987DFB">
+                      <enum>(A)</enum>
+                      <text>is not prohibited by State law or court order from submitting mental health records to the National
+			 Instant Criminal Background Check System; and</text>
+										</subparagraph>
+                    <subparagraph id="HDB446E6C2EAE4D02BE0B22A8DBA6C69B">
+                      <enum>(B)</enum>
+                      <text>subject to paragraph (2), has implemented a relief from disabilities program in accordance with
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="NICS Improvement Amendments Act of 2007/s:105">section 105</cato:entity-ref>.</text>
+										</subparagraph>
+                  </paragraph>
+                  <paragraph id="H1ED6FEC8ACFF4531A6324F2C7699692D">
+                    <enum>(2)</enum>
+                    <header>Relief from disabilities program</header>
+                    <text display-inline="yes-display-inline">For purposes of obtaining a grant under this section, a State, Indian tribal government, or State
+			 court system shall not be required to meet the eligibility requirement
+			 described in paragraph (1)(B) until the date that is 2 years after the
+			 date of enactment of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Promoting Healthy Minds for Safer Communities Act of 2014" proposed="true">Promoting Healthy Minds for Safer Communities Act
+			 of 2014</cato:entity-ref>.</text>
+									</paragraph>
+                </subsection>
+                <subsection id="HDFFA955EA81A427881F1EC77632F5CA2">
+                  <enum>(d)</enum>
+                  <header>Federal share</header>
+									<paragraph id="HBFD9E9A16BD84E68B36F861C942C854A">
+                    <enum>(1)</enum>
+                    <header>Studies, assessments, non-material activities</header>
+                    <text>The Federal share of a study, assessment, creation of a task force, or other non-material activity,
+			 as determined by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref>, carried out with a grant under this
+			 section shall be not more than 25 percent.</text>
+									</paragraph>
+                  <paragraph id="H488236ECB1044B42BBA668EC3013CFEB">
+                    <enum>(2)</enum>
+                    <header>Infrastructure or system development</header>
+                    <text>The Federal share of an activity involving infrastructure or system development, including
+			 labor-related costs, for the purpose of improving State or Indian Tribal
+			 government record reporting to the National Instant Criminal Background
+			 Check System carried out with a grant under this section may amount to 100
+			 percent of the cost of the activity.</text>
+									</paragraph>
+                </subsection>
+                <subsection id="HA36FC058012B4B31BA8F1A79DF5484E5">
+                  <enum>(e)</enum>
+                  <header>Grants to Indian tribes</header>
+                  <text>Not more than 5 percent of the amounts made available under this section may be reserved for Indian
+			 tribal
+			 governments for use by Indian tribal judicial systems.</text>
+								</subsection>
+                <subsection id="H38D6C7E04BF341078B53D0BE4D5F1EC9">
+                  <enum>(f)</enum>
+                  <header>Authorization of appropriations</header>
+                  <text>
+                    <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="auth-auth-approp">There are authorized to be appropriated <cato:property name="purpose">to carry out <cato:entity-ref entity-type="act" value="NICS Improvement Amendments Act of 2007/s:103" proposed="true">this section</cato:entity-ref>
+                      </cato:property> <cato:funds-and-year amount="100000000" year="2015, 2016, 2017, 2018">$100,000,000 for each of fiscal
+			 years 2015 through 2018</cato:funds-and-year>.</cato:entity>
+                  </text>
+                </subsection>
+              </section>
+              <after-quoted-block>;</after-quoted-block>
+            </quoted-block>
+					</paragraph>
+          <paragraph id="H7FAE120A8D4D4AF891EF38149910AABD">
+            <enum>(2)</enum>
+            <text>by striking <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="NICS Improvement Amendments Act of 2007/t:III">title III</cato:entity-ref>; and</text>
+					</paragraph>
+          <paragraph id="H4D70776D3E8A49A4B752BA608E99858B">
+            <enum>(3)</enum>
+            <text>in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="NICS Improvement Amendments Act of 2007/s:401/ss:b">section 401(b)</cato:entity-ref>, by inserting after <quote>of this Act</quote> the following: <quote>, and not later than 18 months after the date of enactment of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Promoting Healthy Minds for Safer Communities Act of 2014" proposed="true">Promoting Healthy Minds for Safer
+			 Communities Act
+			 of 2014</cato:entity-ref>
+              </quote>.</text>
+					</paragraph>
+        </subsection>
+        <subsection id="H10F4C4D1198941CABB939FDAE7DE2ACB">
+          <enum>(b)</enum>
+          <header>Technical and conforming amendment</header>
+          <text>The table of sections in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+              <cato:entity-ref entity-type="act" value="NICS Improvement Amendments Act of 2007/s:1/ss:b">section 1(b) of the NICS Improvement Amendments Act of 2007</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/18/922/note">18 U.S.C. 922
+			 note</cato:entity-ref>)</cato:entity> is amended—</text>
+          <paragraph id="id94C066E8063648AC8288C432F81CE0F0">
+            <enum>(1)</enum>
+            <text>by striking the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="NICS Improvement Amendments Act of 2007/s:103" proposed="true">section 103</cato:entity-ref> and
+			 inserting the following:</text>
+						<quoted-block id="HD2EE2A6597FB4368B0C3C5A174D9BF87" style="OLC">
+							<toc regeneration="no-regeneration">
+								<toc-entry level="section">Sec. 103. Grants to States for improvement of coordination and automation of NICS record reporting.</toc-entry>
+              </toc>
+              <after-quoted-block>;</after-quoted-block>
+            </quoted-block>
+          </paragraph>
+          <paragraph id="id03C7D164EA56450FB04D11E0019E6BD2">
+            <enum>(2)</enum>
+            <text>by striking the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="NICS Improvement Amendments Act of 2007/t:III">title III</cato:entity-ref>; and</text>
+          </paragraph>
+          <paragraph id="id2B98427904E04DE0939C59B7AE2B777B">
+            <enum>(3)</enum>
+            <text>by striking the item relating to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="NICS Improvement Amendments Act of 2007/s:301">section 301</cato:entity-ref>.</text>
+					</paragraph>
+        </subsection>
+      </section>
+      <section id="HDA0D070C61FA431ABB3158EB60DE73D0">
+        <enum>605.</enum>
+        <header>Sharing of records by Federal departments and agencies with NICS</header>
+        <text display-inline="no-display-inline">
+          <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="NICS Improvement Act of 2007/s:101/ss:b">Section 101(b) of the NICS Improvement Act of 2007</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/18/922/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/18/922">
+            18 U.S.C. 922
+          </external-xref> note</cato:entity-ref>)</cato:entity> is amended—</text>
+				<paragraph id="HE854B899B5DE4B478EBBF59652B339AD">
+          <enum>(1)</enum>
+          <text>in paragraph (2)—</text>
+					<subparagraph id="HFBB90CAA28224BA1B3DB97AF82253A09">
+            <enum>(A)</enum>
+            <text>in subparagraph (B), by striking <quote>and</quote> at the end;</text>
+					</subparagraph>
+          <subparagraph id="HB400120DEC894C4F9D37C4C43665188B">
+            <enum>(B)</enum>
+            <text>in subparagraph (C), by striking the period at the end and inserting <quote>; and</quote>; and</text>
+					</subparagraph>
+          <subparagraph id="H2C619A2FF499424F8075123C2F0F77B0">
+            <enum>(C)</enum>
+            <text>by inserting at the end the following:</text>
+						<quoted-block display-inline="no-display-inline" id="H80F039E3A2DA40B6AD94E6F06E68E8CC" style="OLC">
+							<subparagraph id="HCC7D167E040F4DCFB9D995A4106047B1">
+                <enum>(D)</enum>
+                <text display-inline="yes-display-inline">not later than 180 days after the date of enactment of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Promoting Healthy Minds for Safer Communities Act of 2014" proposed="true">Promoting Healthy Minds for Safer
+			 Communities Act of 2014</cato:entity-ref>, and annually thereafter, submit a report to
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> on the compliance of the head of each department or
+			 agency of the Federal Government with the requirements under paragraphs
+			 (1) and (3).</text>
+              </subparagraph>
+              <after-quoted-block>; and</after-quoted-block>
+            </quoted-block>
+					</subparagraph>
+        </paragraph>
+        <paragraph id="HE84CD92002424624822948D70D713CA2">
+          <enum>(2)</enum>
+          <text>by adding at the end the following:</text>
+					<quoted-block display-inline="no-display-inline" id="H93E4D331944744828D9786CF7674B749" style="OLC">
+						<paragraph id="H3F42B1B5B17A4A0B99FF734407A06357">
+              <enum>(3)</enum>
+              <header>Other Federal departments and agencies</header>
+              <text display-inline="yes-display-inline">The head of each department or agency of the Federal Government that is in possession of a record
+			 that is relevant to a
+			 determination of whether a person is disqualified from possessing or
+			 receiving a firearm under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/922/g">subsection (g)</cato:entity-ref> or <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/922/n">(n) of section 922 of title
+			 18, United States Code</cato:entity-ref>, shall make available to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref> the
+			 record, updated not less than quarterly, for use in the background checks
+			 performed by the National Instant Criminal Background Check System.</text>
+            </paragraph>
+            <after-quoted-block>.</after-quoted-block>
+          </quoted-block>
+				</paragraph>
+      </section>
+      <section commented="no" display-inline="no-display-inline" id="HA458AC6B2FA94BB399BF884AC8F0DA20" section-type="subsequent-section">
+        <enum>606.</enum>
+        <header>Rulemaking to permit submission of mental health records to the National Instant Criminal
+			 Background Check System pursuant to the Health Insurance Portability and
+			 Accountability Act</header>
+        <text display-inline="no-display-inline">Not later than 1 year after the date of enactment of this Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7500" entity-type="federal-body">Secretary of Health and Human
+			 Services</cato:entity-ref> shall promulgate final regulations, in accordance with <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="Health Insurance Portability and Accountability Act of 1996/s:264/ss:c">section
+			 264(c) of the Health Insurance Portability
+			 and Accountability Act of 1996</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/42/1320d–2/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/42/1320d-2">
+            42 U.S.C. 1320d–2</external-xref> note</cato:entity-ref>)</cato:entity>, to allow
+			 disclosures of information described in <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+            <cato:entity-ref entity-type="act" value="NICS Improvement Amendments Act of 2007/s:102/ss:c/p:3">section 102(c)(3) of the NICS
+			 Improvement Amendments Act of 2007</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/18/922/note">
+              <external-xref legal-doc="usc" parsable-cite="usc/18/922">
+            18 U.S.C. 922
+          </external-xref> note</cato:entity-ref>)</cato:entity> to the National
+			 Instant Criminal Background Check System to assist the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Attorney General</cato:entity-ref> in
+			 enforcing <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/18/922/g/4">
+            <external-xref legal-doc="usc" parsable-cite="usc/18/922">section 922(g)(4)</external-xref> of title 18, United States Code</cato:entity-ref>.</text>
+			</section>
+    </title>
+  </legis-body>
+</bill>
+</doc>
