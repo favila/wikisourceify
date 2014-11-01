@@ -1,0 +1,633 @@
+<doc>
+  <docmeta id="113s1611es">
+    <bill congress="113" type="s" number="1611" version="es"/>
+    <revision size="17203" annotations="0" status="complete" id="6" commit-time="2014-10-15T18:59:03Z" committer="mbohmer" doc="113s1611es/6.xml">
+      <description>Edited via AKN</description>
+    </revision>
+  </docmeta>
+  <bill bill-stage="Engrossed-in-Senate" bill-type="olc" public-print="no" public-private="public" stage-count="1" star-print="no-star-print">
+  <metadata>
+<dublinCore>
+<dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">113 S1611 ES: Federal Data Center Consolidation Act of 2013</dc:title>
+<dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">U.S. Senate</dc:publisher>
+<dc:date xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+<dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">text/xml</dc:format>
+<dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">EN</dc:language>
+<dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form display="yes">
+<congress display="yes">113th CONGRESS</congress>
+    <session display="yes">2d Session</session>
+    <legis-num display="yes">S. 1611</legis-num>
+    <current-chamber display="no">IN THE SENATE OF THE UNITED STATES</current-chamber>
+    <legis-type display="yes">AN ACT</legis-type>
+    <official-title display="yes">To require certain agencies to conduct assessments of data centers and develop data center
+			 consolidation and optimization plans.</official-title>
+  </form>
+  <legis-body display-enacting-clause="yes-display-enacting-clause" style="OLC">
+    <section commented="no" display-inline="no-display-inline" id="id219e0d00-d76c-444d-b010-84bc476a280d" section-type="section-one">
+      <enum>1.</enum>
+      <header display-inline="yes-display-inline">Short title</header>
+      <text display-inline="no-display-inline">This Act may be cited as the <quote>
+          <short-title>
+            <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Data Center Consolidation Act of 2013" proposed="true">Federal Data Center Consolidation Act of 2013</cato:entity-ref>
+          </short-title>
+        </quote>.</text>
+    </section>
+    <section commented="no" display-inline="no-display-inline" id="id712ddcd8-1748-4e2c-bfb6-ec48672c2b99" section-type="subsequent-section">
+      <enum>2.</enum>
+      <header display-inline="yes-display-inline">Federal data
+		center consolidation initiative</header>
+      <subsection commented="no" display-inline="no-display-inline" id="idcc784877-167a-4881-8742-2f6d25853efe">
+        <enum>(a)</enum>
+        <header display-inline="yes-display-inline">Definitions</header>
+        <text display-inline="yes-display-inline">In this Act:</text>
+        <paragraph commented="no" display-inline="no-display-inline" id="idd2ae4f7b-cba9-4118-9123-cdf2c79cc245">
+          <enum>(1)</enum>
+          <header display-inline="yes-display-inline">Administrator</header>
+          <text display-inline="yes-display-inline">The term <term>Administrator</term> means
+		the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Administrator for the Office of E–Government and Information Technology
+		within the Office of Management and Budget</cato:entity-ref>.</text>
+        </paragraph>
+        <paragraph commented="no" display-inline="no-display-inline" id="id9059D4306372402EA98C074092D581B4">
+          <enum>(2)</enum>
+          <header display-inline="yes-display-inline">Covered agency</header>
+          <text display-inline="yes-display-inline">The term <term>covered agency</term> means the following (including all associated components of the agency):</text>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id27AA747D480C48B2AB7884BF82D710F1">
+            <enum>(A)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1200" entity-type="federal-body">Department of
+		Agriculture</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id28CFD6A0979D4206BFE4C64EBCD0E17C">
+            <enum>(B)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1300" entity-type="federal-body">Department of
+		Commerce</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id8B86F30728F94B6CA10ABAC25105DF2A">
+            <enum>(C)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Department of
+		Defense</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id48EC16BEA77E4ABBB4F15763BC746EC2">
+            <enum>(D)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9100" entity-type="federal-body">Department of
+		Education</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="idB779F32FC7E44D8EB3386837D7351702">
+            <enum>(E)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="8900" entity-type="federal-body">Department of
+		Energy</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="idC31AEBF2DFDE49858A412884189857F5">
+            <enum>(F)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7500" entity-type="federal-body">Department of
+		Health and Human Services</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id2E892AE7E158461E80A5D23253CC5865">
+            <enum>(G)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7000" entity-type="federal-body">Department of
+		Homeland Security</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id0D37B94AEE52433BA10CAF2EB2813B29">
+            <enum>(H)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="8600" entity-type="federal-body">Department of
+		Housing and Urban Development</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="idC869D7942BB74B9D8D239FAEDA2AFA80">
+            <enum>(I)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1400" entity-type="federal-body">Department of
+		the Interior</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="idF6737C4AB1FC49C9B2B76CBDD4385863">
+            <enum>(J)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1500" entity-type="federal-body">Department of
+		Justice</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="idB7E2021F134B4C199D698C7C9A323256">
+            <enum>(K)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1600" entity-type="federal-body">Department of
+		Labor</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="idEFD369945CF148AEB0DF43B01B95268A">
+            <enum>(L)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1900" entity-type="federal-body">Department of
+		State</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id7A06484EBF2241E48DB7FB13DD72D613">
+            <enum>(M)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6900" entity-type="federal-body">Department of
+		Transportation</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id0E964B32DC0F4CC4A7A88BB4D94B7C77">
+            <enum>(N)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2000" entity-type="federal-body">Department of
+		Treasury</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id99B8182971C84DB49E76275B33981FA7">
+            <enum>(O)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="3600" entity-type="federal-body">Department of
+		Veterans Affairs</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id7C8D1DAC6B8B4A9EA9B783004C32D39C">
+            <enum>(P)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="6800" entity-type="federal-body">Environmental
+		Protection Agency</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="idB9F93E38C9CF4B4AB364CFEFA32CC139">
+            <enum>(Q)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4700" entity-type="federal-body">General
+		Services Administration</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id4A35599A625B46EB95AE2D81BE6A59B6">
+            <enum>(R)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="8000" entity-type="federal-body">National
+		Aeronautics and Space Administration</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="idD4D442CFDB914AEB9F4AD6757515D03E">
+            <enum>(S)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="4900" entity-type="federal-body">National
+		Science Foundation</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="idD77D2E4F63314778927C9A8DFE155D3E">
+            <enum>(T)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="3100" entity-type="federal-body">Nuclear
+		Regulatory Commission</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="idA1BCD93A6ABA43C6B2135C7A3EFEC8A7">
+            <enum>(U)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2400" entity-type="federal-body">Office of
+		Personnel Management</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="idA858A979C979432EB28ED39D3C665AF2">
+            <enum>(V)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7300" entity-type="federal-body">Small Business
+		Administration</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id50C0427A8DFA4803B0DC5777EB752B8B">
+            <enum>(W)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="2800" entity-type="federal-body">Social
+		Security Administration</cato:entity-ref>; and</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id806E84FC38504953ABBAA1C058884C65">
+            <enum>(X)</enum>
+            <text display-inline="yes-display-inline">
+              <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="7200" entity-type="federal-body">United States
+		Agency for International Development</cato:entity-ref>.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph commented="no" display-inline="no-display-inline" id="idcf8c852d-1142-47b5-9348-db969f87c291">
+          <enum>(3)</enum>
+          <header display-inline="yes-display-inline">FDCCI</header>
+          <text display-inline="yes-display-inline">The
+		term <term>FDCCI</term> means the Federal Data Center Consolidation Initiative
+		described in the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1103" entity-type="federal-body">Office of Management and Budget</cato:entity-ref> Memorandum on the Federal Data
+		Center Consolidation Initiative, dated February 26, 2010, or any successor
+		thereto.</text>
+        </paragraph>
+        <paragraph commented="no" display-inline="no-display-inline" id="id0E09F2CAEA314640861AC74AED5341FA">
+          <enum>(4)</enum>
+          <header display-inline="yes-display-inline">Government-wide data center consolidation and optimization metrics</header>
+          <text display-inline="yes-display-inline">The term <term>Government-wide data center consolidation and optimization metrics</term> means the metrics established by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Administrator</cato:entity-ref> under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Data Center Consolidation Act of 2013/s:2/ss:b/p:2/sp:G" proposed="true">subsection (b)(2)(G)</cato:entity-ref>.</text>
+        </paragraph>
+      </subsection>
+      <subsection commented="no" display-inline="no-display-inline" id="idfee7bff1-9d06-4fc4-8b1a-318d370cecc7">
+        <enum>(b)</enum>
+        <header display-inline="yes-display-inline">Federal data
+		center consolidation inventories and strategies</header>
+        <paragraph commented="no" display-inline="no-display-inline" id="id888a4b24-7519-4564-b172-bbbfc5b4eb31">
+          <enum>(1)</enum>
+          <header display-inline="yes-display-inline">In
+		general</header>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id5ba0d342-a48c-43ea-b434-fe824ee3f260">
+            <enum>(A)</enum>
+            <header display-inline="yes-display-inline">Annual
+		reporting</header>
+            <text display-inline="yes-display-inline">Each year, beginning in the first fiscal year after the
+		date of enactment of this Act and each fiscal year thereafter,
+		the head of each covered agency, assisted by the
+		Chief Information Officer of the agency, shall submit to the
+		<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Administrator</cato:entity-ref>—</text>
+            <clause commented="no" display-inline="no-display-inline" id="id86fc64df-2b46-4df9-b419-0c329f46e849">
+              <enum>(i)</enum>
+              <text display-inline="yes-display-inline">a
+		comprehensive inventory of the data centers owned, operated, or
+		maintained by or on behalf of the agency; and</text>
+            </clause>
+            <clause commented="no" display-inline="no-display-inline" id="id0de222f9-372d-4d0d-abbd-76cdaf5982fe">
+              <enum>(ii)</enum>
+              <text display-inline="yes-display-inline">a
+		multi-year strategy to achieve the consolidation and optimization of the data
+			 centers inventoried under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Data Center Consolidation Act of 2013/s:2/ss:b/p:1/sp:A/cl:i" proposed="true">clause (i)</cato:entity-ref>, that includes—</text>
+              <subclause commented="no" display-inline="no-display-inline" id="idf792864e-d456-4893-9bb4-275d23567aab">
+                <enum>(I)</enum>
+                <text display-inline="yes-display-inline">performance
+		metrics—</text>
+                <item commented="no" display-inline="no-display-inline" id="id55d0dc65-39e7-4ec2-ba2e-a0007538b03d">
+                  <enum>(aa)</enum>
+                  <text display-inline="yes-display-inline">that are
+		consistent with the Government-wide data center consolidation and optimization
+			 metrics; and</text>
+                </item>
+                <item commented="no" display-inline="no-display-inline" id="id9255569b-7720-4bed-96f8-4a0a03aa0b72">
+                  <enum>(bb)</enum>
+                  <text display-inline="yes-display-inline">by which
+		the quantitative and qualitative progress of the agency toward the goals of the
+			 FDCCI can be measured;</text>
+                </item>
+              </subclause>
+              <subclause commented="no" display-inline="no-display-inline" id="id5fcaf3a0-9fee-42d1-bd7a-de4a353d747b">
+                <enum>(II)</enum>
+                <text display-inline="yes-display-inline">a
+		timeline for agency activities to be completed under the FDCCI, with an emphasis on
+		benchmarks the agency can achieve by specific dates;</text>
+              </subclause>
+              <subclause commented="no" display-inline="no-display-inline" id="idf3ed4856-969b-4c0b-997d-e6476ca0aac8">
+                <enum>(III)</enum>
+                <text display-inline="yes-display-inline">year-by-year calculations of investment and cost savings for the
+		period beginning on the date of enactment of this Act and ending on the date
+		described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Data Center Consolidation Act of 2013/s:2/ss:e" proposed="true">subsection (e)</cato:entity-ref>, broken down by each year, including a description
+		of any initial costs for data center consolidation and optimization and life cycle
+			 cost savings and other improvements,
+		with an emphasis on—</text>
+                <item commented="no" display-inline="no-display-inline" id="idcc8ca2c7-5378-4c3f-98db-6c6195c05a68">
+                  <enum>(aa)</enum>
+                  <text display-inline="yes-display-inline">meeting
+		the Government-wide data center consolidation and optimization metrics; and</text>
+                </item>
+                <item commented="no" display-inline="no-display-inline" id="id2eaac9c6-4a88-4a22-ac81-ea4a60f1b764">
+                  <enum>(bb)</enum>
+                  <text display-inline="yes-display-inline">demonstrating
+		the amount of agency-specific cost savings each fiscal year achieved through the
+			 FDCCI; and</text>
+                </item>
+              </subclause>
+              <subclause commented="no" display-inline="no-display-inline" id="id74772cc8-5935-4bc5-a627-80b61f9f0bdb">
+                <enum>(IV)</enum>
+                <text display-inline="yes-display-inline">any
+		additional information required by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Administrator</cato:entity-ref>.</text>
+              </subclause>
+            </clause>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id8310687c-69d4-4f9b-a9d9-4f991c38d0a6">
+            <enum>(B)</enum>
+            <header display-inline="yes-display-inline">Use of other
+		reporting structures</header>
+            <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Administrator</cato:entity-ref> may require a covered agency to include the  information required to be
+		submitted under this subsection through reporting structures determined by the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Administrator</cato:entity-ref> to be appropriate.</text>
+          </subparagraph>
+          <subparagraph id="id2E0E0DBA0BC240D4B0C645A172124A12">
+            <enum>(C)</enum>
+            <header>Department of Defense reporting</header>
+            <text>For any year that the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Department of Defense</cato:entity-ref> is required to submit a performance plan for reduction
+			 of resources required for data servers and centers, as required under
+			 <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                <cato:entity-ref entity-type="act" value="National Defense Authorization Act for Fiscal Year 2012/s:2867/ss:b">section 2867(b) of the National Defense Authorization Act for Fiscal Year
+			 2012</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/10/2223a/note">
+                  <external-xref legal-doc="usc" parsable-cite="usc/10/2223a">
+                10 U.S.C. 2223a
+              </external-xref> note</cato:entity-ref>)</cato:entity>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Department of Defense</cato:entity-ref>—</text>
+            <clause id="id8d14283c74834413b8aba5ba675c32bd">
+              <enum>(i)</enum>
+              <text>may submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Administrator</cato:entity-ref>, in lieu of the multi-year strategy required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Data Center Consolidation Act of 2013/s:2/ss:b/p:1/sp:A/cl:ii" proposed="true">subparagraph
+			 (A)(ii)</cato:entity-ref>—</text>
+              <subclause id="id49cb13d01319435d813d4476b567b9ff">
+                <enum>(I)</enum>
+                <text>the defense-wide plan required under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="National Defense Authorization Act for Fiscal Year 2012/s:2867/ss:b/p:2">section 2867(b)(2) of the National Defense Authorization Act
+			 for Fiscal Year 2012</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/10/2223a/note">
+                      <external-xref legal-doc="usc" parsable-cite="usc/10/2223a">
+                    10 U.S.C. 2223a
+                  </external-xref> note</cato:entity-ref>)</cato:entity>; and</text>
+              </subclause>
+              <subclause id="id25f3df016357450ba80e39d41bf84279">
+                <enum>(II)</enum>
+                <text>the report on cost savings required under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                    <cato:entity-ref entity-type="act" value="National Defense Authorization Act for Fiscal Year 2012/s:2867/ss:d">section 2867(d) of the National Defense Authorization Act
+			 for Fiscal Year 2012</cato:entity-ref> (<cato:entity-ref entity-type="uscode" value="usc/10/2223a/note">
+                      <external-xref legal-doc="usc" parsable-cite="usc/10/2223a">
+                    10 U.S.C. 2223a
+                  </external-xref> note</cato:entity-ref>)</cato:entity>; and</text>
+              </subclause>
+            </clause>
+            <clause id="idab3f52e75d3842ca865118f13125cd1b">
+              <enum>(ii)</enum>
+              <text>shall submit the comprehensive inventory required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Data Center Consolidation Act of 2013/s:2/ss:b/p:1/sp:A/cl:i" proposed="true">subparagraph (A)(i)</cato:entity-ref>, unless the
+			 defense-wide plan required under <cato:entity xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="law-citation">
+                  <cato:entity-ref entity-type="act">section 2867(b)(2) of the National
+			 Defense Authorization Act for Fiscal Year 2012</cato:entity-ref> <cato:entity-ref entity-type="uscode" value="usc/10/2223a/note">(<external-xref legal-doc="usc" parsable-cite="usc/10/2223a">
+                  10 U.S.C. 2223a
+                </external-xref> note</cato:entity-ref>)</cato:entity>—</text>
+              <subclause id="id9591c4c3b51241369da0d939f722f066">
+                <enum>(I)</enum>
+                <text>contains a comparable comprehensive inventory; and</text>
+              </subclause>
+              <subclause id="id58194b3891624a6bbfaf06b53e64fbfd">
+                <enum>(II)</enum>
+                <text>is submitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Data Center Consolidation Act of 2013/s:2/ss:b/p:1/sp:C/cl:i" proposed="true">clause (i)</cato:entity-ref>.</text>
+							</subclause>
+            </clause>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="idc9cdc41c-8b7e-4506-bfcd-3050b96eb703">
+            <enum>(D)</enum>
+            <header display-inline="yes-display-inline">Statement</header>
+            <text display-inline="yes-display-inline">Each
+		year, beginning in the first fiscal year after the date of enactment of this
+		Act and each fiscal year thereafter, the head of each covered agency,  acting
+			 through the Chief
+		Information Officer of the agency, shall—</text>
+            <clause commented="no" display-inline="no-display-inline" id="idDD15B12812924D039C159994B2649A20">
+              <enum>(i)</enum>
+              <subclause commented="no" display-inline="yes-display-inline" id="idEF9F52E1695A43BBA02B50F09355C2AC">
+                <enum>(I)</enum>
+                <text display-inline="yes-display-inline">submit a statement to the
+		<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Administrator</cato:entity-ref> stating whether the agency has complied with the requirements of
+		this Act; and</text>
+              </subclause>
+              <subclause commented="no" display-inline="no-display-inline" id="id37EFA3992EE644B093DDA4EA38B611A0" indent="up1">
+                <enum>(II)</enum>
+                <text display-inline="yes-display-inline">make the statement submitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Data Center Consolidation Act of 2013/s:2/ss:b/p:1/sp:D/cl:i/scl:I" proposed="true">subclause (I)</cato:entity-ref> publically available; and</text>
+              </subclause>
+            </clause>
+            <clause commented="no" display-inline="no-display-inline" id="idD7A6017DAD1240C4A09C00EF403227FF">
+              <enum>(ii)</enum>
+              <text display-inline="yes-display-inline">if the agency has not complied with the requirements of this Act, submit a statement to the
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Administrator</cato:entity-ref> explaining the reasons for not complying with such
+			 requirements.</text>
+            </clause>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id2f9ba580-08e9-4804-a281-e305db222bc2">
+            <enum>(E)</enum>
+            <header display-inline="yes-display-inline">Agency
+		implementation of strategies</header>
+            <text display-inline="yes-display-inline">Each covered agency, under the direction of the Chief Information Officer of the
+		agency, shall—</text>
+            <clause commented="no" display-inline="no-display-inline" id="id4b832246-ea9d-409b-a21b-c78434ee9fc1">
+              <enum>(i)</enum>
+              <text display-inline="yes-display-inline">implement the
+		strategy required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Data Center Consolidation Act of 2013/s:2/ss:b/p:1/sp:A/cl:ii" proposed="true">subparagraph (A)(ii)</cato:entity-ref>; and</text>
+            </clause>
+            <clause commented="no" display-inline="no-display-inline" id="ide7a179b7-d962-4bb5-8a62-2719e2886048">
+              <enum>(ii)</enum>
+              <text display-inline="yes-display-inline">provide updates
+		to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Administrator</cato:entity-ref>, on a quarterly basis, of—</text>
+              <subclause commented="no" display-inline="no-display-inline" id="id03296669-54a0-4498-8c6c-ce873159af05">
+                <enum>(I)</enum>
+                <text display-inline="yes-display-inline">the
+		completion of activities by the agency under the FDCCI;</text>
+              </subclause>
+              <subclause commented="no" display-inline="no-display-inline" id="idffafa2b9-3313-4fbf-aa45-63d9e5e6ccd0">
+                <enum>(II)</enum>
+                <text display-inline="yes-display-inline">any
+		progress of the agency towards meeting the Government-wide data center
+		consolidation and optimization metrics;
+		and</text>
+              </subclause>
+              <subclause commented="no" display-inline="no-display-inline" id="id45aa3874-f056-41f8-ab8b-0d437b64e6e7">
+                <enum>(III)</enum>
+                <text display-inline="yes-display-inline">the actual cost
+		savings and other improvements realized through the implementation of the strategy
+			 of the agency.</text>
+              </subclause>
+            </clause>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id1703e827-522b-4e04-8ab1-9e061323c89b">
+            <enum>(F)</enum>
+            <header display-inline="yes-display-inline">Rule of
+		construction</header>
+            <text display-inline="yes-display-inline">Nothing in this Act shall be construed to
+		limit the reporting of information by a covered agency
+		to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Administrator</cato:entity-ref>, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1103" entity-type="federal-body">Director of the Office of Management and Budget</cato:entity-ref>, or
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref>.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph commented="no" display-inline="no-display-inline" id="idf01f3c8c-0c10-4a3e-937c-170134c03551">
+          <enum>(2)</enum>
+          <header display-inline="yes-display-inline">Administrator
+		responsibilities</header>
+          <text display-inline="yes-display-inline">The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Administrator</cato:entity-ref> shall—</text>
+          <subparagraph commented="no" display-inline="no-display-inline" id="idd4664ce2-2832-4490-9cf4-101189803b6d">
+            <enum>(A)</enum>
+            <text display-inline="yes-display-inline">establish the
+		deadline, on an annual basis, for covered agencies to submit information under this
+		section;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id9e7f906e-6a26-470b-a222-11ba523022ea">
+            <enum>(B)</enum>
+            <text display-inline="yes-display-inline">establish a list
+		of requirements that the covered agencies must meet to be considered in compliance
+			 with
+		<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Data Center Consolidation Act of 2013/s:2/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id587cbe36-85f2-4255-a7e9-d9c6ae327cab">
+            <enum>(C)</enum>
+            <text display-inline="yes-display-inline">ensure that information relating to
+		agency progress towards meeting the Government-wide data center
+		consolidation and optimization metrics is made available in a timely manner to
+		the general public;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="idfd8dae94-5258-47bf-80d3-7fbeb1b9075b">
+            <enum>(D)</enum>
+            <text display-inline="yes-display-inline">review the inventories and strategies submitted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Data Center Consolidation Act of 2013/s:2/ss:b/p:1" proposed="true">paragraph (1)</cato:entity-ref> to determine whether they are
+			 comprehensive
+		and complete;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id4f9bf09d-e2e2-4776-848c-ae93edb5b002">
+            <enum>(E)</enum>
+            <text display-inline="yes-display-inline">monitor the
+		implementation of the data center strategy  of each covered agency that is required
+			 under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Data Center Consolidation Act of 2013/s:2/ss:b/p:1/sp:A/cl:ii" proposed="true">paragraph
+		(1)(A)(ii)</cato:entity-ref>;</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="ide019c057-d35a-4662-9077-085374fc74bf">
+            <enum>(F)</enum>
+            <text display-inline="yes-display-inline">update, on an
+		annual basis, the cumulative cost savings realized through the implementation
+		of the FDCCI; and</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="ide9a23a7a-2721-475d-8591-0e049fe82f03">
+            <enum>(G)</enum>
+            <text display-inline="yes-display-inline">establish
+		metrics applicable to the consolidation and optimization of data centers
+			 Government-wide, including metrics with respect to—</text>
+            <clause commented="no" display-inline="no-display-inline" id="id2D046CA107C445A899DED0FCFD0C83A0">
+              <enum>(i)</enum>
+              <text display-inline="yes-display-inline">costs;</text>
+            </clause>
+            <clause commented="no" display-inline="no-display-inline" id="id3FA95920D10B4C5A824D81EB8AD09FA9">
+              <enum>(ii)</enum>
+              <text display-inline="yes-display-inline">efficiencies, including at least server efficiency; and</text>
+            </clause>
+            <clause commented="no" display-inline="no-display-inline" id="id41BCE474E3144045BCB070A25118A9FD">
+              <enum>(iii)</enum>
+              <text display-inline="yes-display-inline">any other metrics the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Administrator</cato:entity-ref> establishes under this subparagraph.</text>
+            </clause>
+          </subparagraph>
+        </paragraph>
+        <paragraph commented="no" display-inline="no-display-inline" id="idb09ddb0e-475f-4768-8b75-14f05ad6edf9">
+          <enum>(3)</enum>
+          <header display-inline="yes-display-inline">Cost saving
+		goal and updates for Congress</header>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id0a33c648-adfd-4a15-9a97-b65e6ad2e430">
+            <enum>(A)</enum>
+            <header display-inline="yes-display-inline">In
+		general</header>
+            <text display-inline="yes-display-inline">Not later than 1 year after the date of enactment of this
+		Act, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Administrator</cato:entity-ref> shall develop, and make publically available,  a goal,
+			 broken down by year, for the amount of
+		planned cost savings and optimization improvements achieved through the FDCCI
+			 during the period beginning on the date of enactment of this Act and
+			 ending on  the date described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Data Center Consolidation Act of 2013/s:2/ss:e" proposed="true">subsection (e)</cato:entity-ref>.</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id7a9b4fbe-d5cb-4409-b648-432f7ebf2d92">
+            <enum>(B)</enum>
+            <header display-inline="yes-display-inline">Annual
+		update</header>
+            <clause commented="no" display-inline="no-display-inline" id="idc5e73504-449d-43ca-b93f-c93870e0c4de">
+              <enum>(i)</enum>
+              <header display-inline="yes-display-inline">In
+		general</header>
+              <text display-inline="yes-display-inline">Not later than 1 year after the date on which the goal
+		described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Data Center Consolidation Act of 2013/s:2/ss:b/p:3/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> is  made publically available, and each year
+			 thereafter, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of Electronic Government" entity-parent-id="1103">Administrator</cato:entity-ref> shall aggregate the reported cost savings of
+			 each covered agency and optimization improvements achieved to date through
+			 the FDCCI and compare the savings to the projected cost savings and
+			 optimization improvements developed under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Data Center Consolidation Act of 2013/s:2/ss:b/p:3/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>.</text>
+            </clause>
+            <clause commented="no" display-inline="no-display-inline" id="idaa322714-1b07-4384-ba6b-2dd3177a7238">
+              <enum>(ii)</enum>
+              <header display-inline="yes-display-inline">Update for
+		Congress</header>
+              <text display-inline="yes-display-inline">The goal required to be developed under
+		<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Data Center Consolidation Act of 2013/s:2/ss:b/p:3/sp:A" proposed="true">subparagraph (A)</cato:entity-ref> shall be submitted to <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" entity-id="0001">Congress</cato:entity-ref> and shall be accompanied by a
+			 statement describing—</text>
+              <subclause commented="no" display-inline="no-display-inline" id="id47032ce8-4932-4d21-ad69-def6eb4f8afe">
+                <enum>(I)</enum>
+                <text display-inline="yes-display-inline">whether each
+		covered agency has in fact submitted a comprehensive asset inventory, including an
+		assessment broken down by agency, which shall include the specific numbers,
+		utilization, and efficiency level of data centers; and</text>
+              </subclause>
+              <subclause commented="no" display-inline="no-display-inline" id="idc952e08a-0ade-49b2-9bf6-7c21ae129513">
+                <enum>(II)</enum>
+                <text display-inline="yes-display-inline">whether each covered
+		agency has submitted a comprehensive consolidation strategy with the key elements
+		described in <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Data Center Consolidation Act of 2013/s:2/ss:b/p:1/sp:A/cl:ii" proposed="true">paragraph (1)(A)(ii)</cato:entity-ref>.</text>
+              </subclause>
+            </clause>
+          </subparagraph>
+        </paragraph>
+        <paragraph commented="no" display-inline="no-display-inline" id="id592bf628-3191-4468-8f15-01a893c7f94d">
+          <enum>(4)</enum>
+          <header display-inline="yes-display-inline">GAO
+		Review</header>
+          <subparagraph commented="no" display-inline="no-display-inline" id="idf81f1188-4177-4e4b-8b41-a4b908fb2789">
+            <enum>(A)</enum>
+            <header display-inline="yes-display-inline">In
+		general</header>
+            <text display-inline="yes-display-inline">Not later than 1 year after the date of
+		enactment of this Act, and each year thereafter, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0500" entity-type="federal-body">Comptroller General of the
+			 United States</cato:entity-ref> shall
+		review and verify the quality and completeness of  the asset inventory
+		and strategy of each covered agency required under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Data Center Consolidation Act of 2013/s:2/ss:b/p:1/sp:A" proposed="true">paragraph (1)(A)</cato:entity-ref>.</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="id57860b53-b32a-4872-acae-d22a081d784d">
+            <enum>(B)</enum>
+            <header display-inline="yes-display-inline">Report</header>
+            <text display-inline="yes-display-inline">The
+		<cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="0500" entity-type="federal-body">Comptroller General of the United States</cato:entity-ref> shall, on an annual basis, publish a
+		report on each review conducted under <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="act" value="Federal Data Center Consolidation Act of 2013/s:2/ss:b/p:4/sp:A" proposed="true">subparagraph (A)</cato:entity-ref>.</text>
+          </subparagraph>
+        </paragraph>
+      </subsection>
+      <subsection commented="no" display-inline="no-display-inline" id="id4cd547fc-affc-47ce-a121-03d2d049c96d">
+        <enum>(c)</enum>
+        <header display-inline="yes-display-inline">Ensuring
+		cybersecurity standards for data center consolidation and cloud
+		computing</header>
+        <paragraph commented="no" display-inline="no-display-inline" id="id6A94486924C648858355B49C5EDDAC61">
+          <enum>(1)</enum>
+          <header display-inline="yes-display-inline">In general</header>
+          <text display-inline="yes-display-inline">In implementing a data center consolidation and optimization strategy under this Act, a covered
+			 agency shall do so in a manner that is consistent with Federal
+		guidelines on cloud computing security, including—</text>
+          <subparagraph commented="no" display-inline="no-display-inline" id="ide88864c0-4dd2-405e-bf78-5a7d5329727f">
+            <enum>(A)</enum>
+            <text display-inline="yes-display-inline">applicable
+		provisions found within the Federal Risk and Authorization Management Program
+		(FedRAMP); and</text>
+          </subparagraph>
+          <subparagraph commented="no" display-inline="no-display-inline" id="ide111cba4-8a75-4bf2-9f18-cc31f72023ed">
+            <enum>(B)</enum>
+            <text display-inline="yes-display-inline">guidance
+		published by the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1341" entity-type="federal-body">National Institute of Standards and Technology</cato:entity-ref>.</text>
+          </subparagraph>
+        </paragraph>
+        <paragraph commented="no" display-inline="no-display-inline" id="idFB74DCCB0806427F95AEE2E3C857D521">
+          <enum>(2)</enum>
+          <header display-inline="yes-display-inline">Rule of construction</header>
+          <text display-inline="yes-display-inline">Nothing in this Act shall be construed to limit the ability of the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="1103" entity-type="federal-body">Director of the Office of
+			 Management and Budget</cato:entity-ref> to update or modify the Federal guidelines on cloud
+			 computing security.</text>
+        </paragraph>
+      </subsection>
+      <subsection id="id593DC53F4744477C92D566828069EE0C">
+        <enum>(d)</enum>
+        <header>Waiver of requirements</header>
+        <text>The <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Director of National Intelligence">Director of National Intelligence</cato:entity-ref> and  the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Secretary of Defense</cato:entity-ref>, or their respective designee,
+			 may waive the applicability to any national security system, as defined in
+			 <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="uscode" value="usc/44/3542">
+            <external-xref legal-doc="usc" parsable-cite="usc/44/3542">section 3542</external-xref> of title 44, United States Code</cato:entity-ref>, of any provision of this Act
+			 if the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Director of National Intelligence">Director of National Intelligence</cato:entity-ref> or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Secretary of Defense</cato:entity-ref>, or
+			 their respective designee, determines that such waiver is in the interest
+			 of national security. Not later than 30 days after making a waiver under
+			 this subsection, the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-type="federal-body" value="Office of the Director of National Intelligence">Director of National Intelligence</cato:entity-ref> or the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="9700" entity-type="federal-body">Secretary of
+			 Defense</cato:entity-ref>, or their respective designee, shall submit to the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SSGA00" entity-type="committee">Committee on
+			 Homeland Security and Governmental Affairs</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="SLIN00" entity-type="committee">Select Committee on
+			 Intelligence of the Senate</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HGO00" entity-type="committee">Committee on Oversight and Government
+			 Reform</cato:entity-ref> and the <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" entity-id="HIG00" entity-type="committee">Permanent Select Committee on Intelligence of the House of
+			 Representatives</cato:entity-ref> a statement describing the waiver and the reasons for the
+			 waiver.</text>
+			</subsection>
+      <subsection commented="no" display-inline="no-display-inline" id="id3670b80e-71aa-43c5-9eb2-37059e48ee33">
+        <enum>(e)</enum>
+        <header display-inline="yes-display-inline">Sunset</header>
+        <text display-inline="yes-display-inline">This Act is repealed effective on
+		October 1, 2018.</text>
+      </subsection>
+    </section>
+  </legis-body>
+  <attestation>
+    <attestation-group>
+      <attestation-date chamber="Senate" date="20140918">Passed the Senate September 18, 2014.</attestation-date>
+      <attestor display="no"/>
+      <role>Secretary</role>
+    </attestation-group>
+  </attestation>
+  <endorsement display="yes"/>
+</bill>
+</doc>
